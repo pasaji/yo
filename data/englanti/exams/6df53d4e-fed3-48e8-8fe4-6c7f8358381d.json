@@ -1,0 +1,2830 @@
+{
+  "meta": {
+    "count": 1
+  },
+  "data": [
+    {
+      "tags": [
+        ""
+      ],
+      "main_text": "​\n",
+      "characters": null,
+      "deleted_at": null,
+      "series_uuids": [],
+      "questions": [
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Missä kehon osassa hPYY-hormonia erittyy, ja mihin aivojen osaan se päätyy?\n",
+          "deleted_at": null,
+          "feedback": "Hormonia erittyy suolistossa, ja se päätyy aivojen osaan, joka säätelee mm. nälkää.\n",
+          "exam_id": 6612,
+          "content": {
+            "text": "Missä kehon osassa hPYY-hormonia erittyy, ja mihin aivojen osaan se päätyy?\n",
+            "displayNumber": "d)"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:13:00.946116",
+          "max_score": null,
+          "groupping": null,
+          "id": 157184,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "b3588ce2-804d-43a8-b4b4-278bd6954ba2",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2017-06-16T11:45:35.754265"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "According to this text, why is treating people badly allowed at the workplace?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 6612,
+          "content": {
+            "text": "According to this text, why is treating people badly allowed at the workplace?\n",
+            "displayNumber": "4."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:13:00.949377",
+          "max_score": null,
+          "groupping": null,
+          "id": 157618,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 22,
+              "text": "It ensures that people focus on working instead of socializing\n",
+              "choices": []
+            },
+            {
+              "id": 23,
+              "text": "At the end of the day only success seems to count\n",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 24,
+              "text": "Overall patterns of behavior learnt at work die hard if at all\n",
+              "choices": []
+            }
+          ],
+          "uuid": "d82be10b-62f7-4121-b9cf-1255baa084ed",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2017-06-16T11:49:27.361387"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mikä on purukumin välitön vaikutus, ja millaisesta prosessista on kyse?\n",
+          "deleted_at": null,
+          "feedback": "Kylläisyyden tunne. / Ei ole nälkä.\n\nPurukumissa oleva hormoni vaikuttaa kielessä olevien reseptoreiden/aistinsolujen kautta\n",
+          "exam_id": 6612,
+          "content": {
+            "text": "Mikä on purukumin välitön vaikutus, ja millaisesta prosessista on kyse?\n",
+            "displayNumber": "e)"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:13:00.952389",
+          "max_score": null,
+          "groupping": null,
+          "id": 157512,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "c77d1f4e-a2e0-41bc-83fa-2192b07b3a24",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2017-06-16T11:46:47.312908"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**2 GRAMMAR AND VOCABULARY**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 6612,
+          "content": {
+            "text": "**2 GRAMMAR AND VOCABULARY**\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-06-21T11:13:00.96129",
+          "max_score": null,
+          "groupping": null,
+          "id": 149528,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "bebf4d0f-3c85-4725-b89c-3c7bd2e6de66",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2017-06-16T10:56:32.043007"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**3 PRODUCTION**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 6612,
+          "content": {
+            "text": "**3 PRODUCTION**\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-06-21T11:13:00.964609",
+          "max_score": null,
+          "groupping": null,
+          "id": 149529,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "ef25530f-2c24-4765-9f03-79c4530ccf80",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2017-06-16T10:56:32.046385"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What’s the overall message of this text?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 6612,
+          "content": {
+            "text": "What’s the overall message of this text?\n",
+            "displayNumber": "8."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:13:00.971252",
+          "max_score": null,
+          "groupping": null,
+          "id": 157614,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 10,
+              "text": "Bullies get in trouble in society\n",
+              "choices": []
+            },
+            {
+              "id": 11,
+              "text": "Society discourages bullies\n",
+              "choices": []
+            },
+            {
+              "id": 12,
+              "text": "Bullies are all around in society\n",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "619451d3-b755-455b-85c0-fcc3b348197f",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2017-06-16T11:49:27.348274"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What is typical of strong-arming?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 6612,
+          "content": {
+            "text": "What is typical of strong-arming?\n",
+            "displayNumber": "6."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:13:00.967686",
+          "max_score": null,
+          "groupping": null,
+          "id": 157616,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 16,
+              "text": "Fighting signs of power\n",
+              "choices": []
+            },
+            {
+              "id": 17,
+              "text": "Putting off doing one’s share\n",
+              "choices": []
+            },
+            {
+              "id": 18,
+              "text": "Demonstrating gestures of superiority\n",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "a7f0d573-e105-40f0-8994-80c1984cfeb8",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2017-06-16T11:49:27.355263"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What is especially positive about this system?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 6612,
+          "content": {
+            "text": "What is especially positive about this system?\n",
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:13:00.974698",
+          "max_score": null,
+          "groupping": null,
+          "id": 157613,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 7,
+              "text": "It is environmentally friendly\n",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 8,
+              "text": "It allows flying time to be cut drastically\n",
+              "choices": []
+            },
+            {
+              "id": 9,
+              "text": "It supports aircraft development\n",
+              "choices": []
+            }
+          ],
+          "uuid": "f6fa9999-b5e9-47a2-8c8f-a52460f7d6f8",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2017-06-16T11:49:27.345124"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Cultural Awareness** \n\nYou have been asked to give a speech on cultural awareness at the beginning of the new academic year as there are so many exchange students in your school. In your speech, define how you understand cultural awareness, why it is important and how it can be shown in the everyday life of the school. \n\nWrite the speech.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 6612,
+          "content": {
+            "text": "**Cultural Awareness** \n\nYou have been asked to give a speech on cultural awareness at the beginning of the new academic year as there are so many exchange students in your school. In your speech, define how you understand cultural awareness, why it is important and how it can be shown in the everyday life of the school. \n\nWrite the speech.\n",
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:13:00.977789",
+          "max_score": null,
+          "groupping": null,
+          "id": 149860,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "8faebc3b-f192-4c6d-848b-d06ee5f37312",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2017-06-16T11:01:32.556147"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "How does Brunetti view the usefulness of the quote from Book Two?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 6612,
+          "content": {
+            "text": "How does Brunetti view the usefulness of the quote from Book Two?\n",
+            "displayNumber": "11."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:13:00.987797",
+          "max_score": null,
+          "groupping": null,
+          "id": 157713,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 28,
+              "text": "He finds it invaluable\n",
+              "choices": []
+            },
+            {
+              "id": 29,
+              "text": "He regards it as applicable\n",
+              "choices": []
+            },
+            {
+              "id": 30,
+              "text": "He deems it inaccurate\n",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "7193eb89-383f-43ff-9d32-0371531cf933",
+          "order_number": 14,
+          "multipart": true,
+          "created_at": "2017-06-16T11:50:56.880708"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "How is its humming peculiar?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 6612,
+          "content": {
+            "text": "How is its humming peculiar?\n",
+            "displayNumber": "15."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:13:00.990713",
+          "max_score": null,
+          "groupping": null,
+          "id": 157716,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 37,
+              "text": "It is most clearly audible at nighttime\n",
+              "choices": []
+            },
+            {
+              "id": 38,
+              "text": "It is optimally audible in open terrain\n",
+              "choices": []
+            },
+            {
+              "id": 39,
+              "text": "It is more audible to one gender only\n",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "020f66d0-4622-434b-9c65-588195ea2dc5",
+          "order_number": 19,
+          "multipart": true,
+          "created_at": "2017-06-16T11:50:56.889637"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What is happening to its occurrence?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 6612,
+          "content": {
+            "text": "What is happening to its occurrence?\n",
+            "displayNumber": "14."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:13:00.984145",
+          "max_score": null,
+          "groupping": null,
+          "id": 157717,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 40,
+              "text": "It is steadily decreasing\n",
+              "choices": []
+            },
+            {
+              "id": 41,
+              "text": "It is increasing\n",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 42,
+              "text": "It seems stable\n",
+              "choices": []
+            }
+          ],
+          "uuid": "241af61d-9560-4660-96fa-36aca05b5e2b",
+          "order_number": 18,
+          "multipart": true,
+          "created_at": "2017-06-16T11:50:56.892768"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What is typical of the confirmation bias?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 6612,
+          "content": {
+            "text": "What is typical of the confirmation bias?\n",
+            "displayNumber": "18."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:13:00.994458",
+          "max_score": null,
+          "groupping": null,
+          "id": 157720,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 49,
+              "text": "Drawing from novelty\n",
+              "choices": []
+            },
+            {
+              "id": 50,
+              "text": "Relying on familiarity\n",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 51,
+              "text": "Appreciating uncertainty\n",
+              "choices": []
+            }
+          ],
+          "uuid": "e12ea32e-875d-4a84-b0db-b84a01947816",
+          "order_number": 23,
+          "multipart": true,
+          "created_at": "2017-06-16T11:50:56.906821"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "In which way are their study’s results striking?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 6612,
+          "content": {
+            "text": "In which way are their study’s results striking?\n",
+            "displayNumber": "21."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:13:00.997446",
+          "max_score": null,
+          "groupping": null,
+          "id": 157724,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 61,
+              "text": "They reveal practices applied over several centuries\n",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 62,
+              "text": "They provide solutions applied by contemporaries\n",
+              "choices": []
+            },
+            {
+              "id": 63,
+              "text": "They shed light on approaches recently applied\n",
+              "choices": []
+            }
+          ],
+          "uuid": "6bafaa63-cc33-4712-bf31-d5b69b5753c8",
+          "order_number": 27,
+          "multipart": true,
+          "created_at": "2017-06-16T11:50:56.919131"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What does Brunetti notice about his wife Paola?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 6612,
+          "content": {
+            "text": "What does Brunetti notice about his wife Paola?\n",
+            "displayNumber": "9."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:13:01.000544",
+          "max_score": null,
+          "groupping": null,
+          "id": 157715,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 34,
+              "text": "That she is thinking of divorce\n",
+              "choices": []
+            },
+            {
+              "id": 35,
+              "text": "That she is pondering an undertaking\n",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 36,
+              "text": "That she is contemplating travelling\n",
+              "choices": []
+            }
+          ],
+          "uuid": "b225bdc5-ce71-4dda-8584-46da83f4048f",
+          "order_number": 12,
+          "multipart": true,
+          "created_at": "2017-06-16T11:50:56.886541"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "How do you avoid becoming the victim of a bully?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 6612,
+          "content": {
+            "text": "How do you avoid becoming the victim of a bully?\n",
+            "displayNumber": "7."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:13:00.98063",
+          "max_score": null,
+          "groupping": null,
+          "id": 157615,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 13,
+              "text": "By firmly standing your ground\n",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 14,
+              "text": "By always mirroring his or her behavior\n",
+              "choices": []
+            },
+            {
+              "id": 15,
+              "text": "By avoiding contact with him or her\n",
+              "choices": []
+            }
+          ],
+          "uuid": "0a97eea2-283a-4a1f-8a07-7dbbd01295e9",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2017-06-16T11:49:27.35206"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What may at times surprise you about bullies?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 6612,
+          "content": {
+            "text": "What may at times surprise you about bullies?\n",
+            "displayNumber": "5."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:13:01.2247",
+          "max_score": null,
+          "groupping": null,
+          "id": 157617,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 19,
+              "text": "They obviously have a superb intellect\n",
+              "choices": []
+            },
+            {
+              "id": 20,
+              "text": "They speak in a seemingly proper manner\n",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 21,
+              "text": "They try to secure your approval\n",
+              "choices": []
+            }
+          ],
+          "uuid": "ea4f115e-0758-4217-b271-b7e40e299584",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2017-06-16T11:49:27.358236"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Mind the gap **\n\n_From Terry Cannon_ (letter to the editor) \n\nYou reported on research into possible relationships between journeys on London’s public transport and measures of social deprivation using data from underground and overground train trips in London recorded through the Oyster ticket system. \n\nThis omits bus journeys, for which Oyster cannot record origin or destination. These make up about a third of all journeys. In addition, since buses are favoured by poorer people, because of their lower fares, a section of society is missed out. \n\nLondon, UK [CITE source=NewScientist, 5 May 2012]\n\n​\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 6612,
+          "content": {
+            "text": "**Mind the gap **\n\n_From Terry Cannon_ (letter to the editor) \n\nYou reported on research into possible relationships between journeys on London’s public transport and measures of social deprivation using data from underground and overground train trips in London recorded through the Oyster ticket system. \n\nThis omits bus journeys, for which Oyster cannot record origin or destination. These make up about a third of all journeys. In addition, since buses are favoured by poorer people, because of their lower fares, a section of society is missed out. \n\nLondon, UK [CITE source=NewScientist, 5 May 2012]\n\n​\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:13:01.246579",
+          "max_score": null,
+          "groupping": null,
+          "id": 155616,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "96c52e82-726a-44b3-955b-80fca3072c2f",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-06-16T11:39:38.444719"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What does short-term bias favour?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 6612,
+          "content": {
+            "text": "What does short-term bias favour?\n",
+            "displayNumber": "19."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:13:01.003647",
+          "max_score": null,
+          "groupping": null,
+          "id": 157719,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 46,
+              "text": "Prompt replies\n",
+              "choices": []
+            },
+            {
+              "id": 47,
+              "text": "Quick responses\n",
+              "choices": []
+            },
+            {
+              "id": 48,
+              "text": "Immediate gratification\n",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "ade4226e-4736-47e2-8436-7b669e77215b",
+          "order_number": 24,
+          "multipart": true,
+          "created_at": "2017-06-16T11:50:56.90298"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What is said about Brunetti’s expectations as a reader?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 6612,
+          "content": {
+            "text": "What is said about Brunetti’s expectations as a reader?\n",
+            "displayNumber": "10."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:13:01.006871",
+          "max_score": null,
+          "groupping": null,
+          "id": 157714,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 31,
+              "text": "He opts for religious texts\n",
+              "choices": []
+            },
+            {
+              "id": 32,
+              "text": "He prefers topical themes\n",
+              "choices": []
+            },
+            {
+              "id": 33,
+              "text": "He favors momentary inspiration\n",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "e27566c4-cf88-4a06-8505-825b9a7ef45c",
+          "order_number": 13,
+          "multipart": true,
+          "created_at": "2017-06-16T11:50:56.883593"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**1.1c Beastly Things **\n\n​\n\n_The following excerpt comes from Donna Leon’s novel Beastly Things._ \n\nBrunetti woke a few times in the night, thinking about what Paola had asked him and trying to imagine what it might mean, what she was up to, for he knew she was up to something. He knew the signs from long exposure and long experience: once she started on one of what she thought of as her missions, she grew intense, sought specific information rather than concepts or ideas, and seemed to lose her sense of irony and humour. Over the years, she had had attacks of zeal, and they often led to trouble. Brunetti sensed that another one was on the way. \n\n​\n\nEach time he woke, he had but to sense the presence of the inert lump beside him to marvel anew at her gift of plunging into sleep, no matter what was happening around her. He thought of the nights he had spent lying awake and worrying about his family or his job or his future or the future of the planet, or simply kept awake by the inability to digest his dinner. While beside him rested a monument to peace and tranquility, motionless, barely breathing. \n\n​\n\nHe woke again a bit before six and decided it was useless to try to go back to sleep. He went down to the kitchen and made himself coffee, heated milk to pour into it, and went back to bed. \n\n​\n\nHaving finished the _Agamemnon_ and in need of a break before continuing that familiar family saga, Brunetti did what he often did in such circumstances: he picked up the _Meditations of Marcus Aurelius_ [Roman Emperor of Late Antiquity] and, much in the way devout Christians were said to consult the Bible, opened it at random. It was rather like playing a slot machine, he had to admit: sometimes what came up was sententious pap that led to nothing and certainly provided no riches. But sometimes the words came at him like a stream of coins, flooding out of the trough in the slot machine and splashing across his feet. \n\n​\n\nHe opened Book Two and found this: ‘Failure to read what is happening in another’s soul is not easily seen as a cause of unhappiness: but those who fail to attend to the motions of their own soul are necessarily unhappy.’ He looked up from the book and out the window, where the curtain was only half drawn; he was conscious of the light, not from the approaching dawn, but from the ambient illumination with which the city was filled. \n\n​\n\nHe considered the words of the wise emperor, but then he thought of Patta, of whom many things could be said, among which was the undeniable fact that he was happy. Yet if ever a man had been made who was unconscious of his own soul, that man was Vice-Questore Giuseppe Patta. \n\n​\n\nIn no way deterred by the failure of the book to spin up a winning combination, Brunetti opened to Book Eleven. ‘No thief can steal your will.’ This time he closed the book and set it aside. Again, he gave his attention to the light in the window and the statement he had just read: neither provided illumination. [CITE source=Donna Leon, Beastly Things, 2012]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 6612,
+          "content": {
+            "text": "**1.1c Beastly Things **\n\n​\n\n_The following excerpt comes from Donna Leon’s novel Beastly Things._ \n\nBrunetti woke a few times in the night, thinking about what Paola had asked him and trying to imagine what it might mean, what she was up to, for he knew she was up to something. He knew the signs from long exposure and long experience: once she started on one of what she thought of as her missions, she grew intense, sought specific information rather than concepts or ideas, and seemed to lose her sense of irony and humour. Over the years, she had had attacks of zeal, and they often led to trouble. Brunetti sensed that another one was on the way. \n\n​\n\nEach time he woke, he had but to sense the presence of the inert lump beside him to marvel anew at her gift of plunging into sleep, no matter what was happening around her. He thought of the nights he had spent lying awake and worrying about his family or his job or his future or the future of the planet, or simply kept awake by the inability to digest his dinner. While beside him rested a monument to peace and tranquility, motionless, barely breathing. \n\n​\n\nHe woke again a bit before six and decided it was useless to try to go back to sleep. He went down to the kitchen and made himself coffee, heated milk to pour into it, and went back to bed. \n\n​\n\nHaving finished the _Agamemnon_ and in need of a break before continuing that familiar family saga, Brunetti did what he often did in such circumstances: he picked up the _Meditations of Marcus Aurelius_ [Roman Emperor of Late Antiquity] and, much in the way devout Christians were said to consult the Bible, opened it at random. It was rather like playing a slot machine, he had to admit: sometimes what came up was sententious pap that led to nothing and certainly provided no riches. But sometimes the words came at him like a stream of coins, flooding out of the trough in the slot machine and splashing across his feet. \n\n​\n\nHe opened Book Two and found this: ‘Failure to read what is happening in another’s soul is not easily seen as a cause of unhappiness: but those who fail to attend to the motions of their own soul are necessarily unhappy.’ He looked up from the book and out the window, where the curtain was only half drawn; he was conscious of the light, not from the approaching dawn, but from the ambient illumination with which the city was filled. \n\n​\n\nHe considered the words of the wise emperor, but then he thought of Patta, of whom many things could be said, among which was the undeniable fact that he was happy. Yet if ever a man had been made who was unconscious of his own soul, that man was Vice-Questore Giuseppe Patta. \n\n​\n\nIn no way deterred by the failure of the book to spin up a winning combination, Brunetti opened to Book Eleven. ‘No thief can steal your will.’ This time he closed the book and set it aside. Again, he gave his attention to the light in the window and the statement he had just read: neither provided illumination. [CITE source=Donna Leon, Beastly Things, 2012]\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:13:01.207447",
+          "max_score": null,
+          "groupping": null,
+          "id": 153577,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "1afcd10e-8dc2-4872-acd8-8798661cb343",
+          "order_number": 11,
+          "multipart": true,
+          "created_at": "2017-06-16T11:29:00.006927"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Why has the RNP system been developed?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 6612,
+          "content": {
+            "text": "Why has the RNP system been developed?\n",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:13:01.211526",
+          "max_score": null,
+          "groupping": null,
+          "id": 157612,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 4,
+              "text": "To make flying relatively effortless for pilots\n",
+              "choices": []
+            },
+            {
+              "id": 5,
+              "text": "To allow pilots a more straightforward landing\n",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 6,
+              "text": "To help pilots become considerably more efficient\n",
+              "choices": []
+            }
+          ],
+          "uuid": "f5aee40a-3fea-4e21-9236-1f06c66bd494",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2017-06-16T11:49:27.341791"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**1.1e Mental Glitches That Make Fools of Us**\n\n​\n\nThe human brain does not compute options like a rational computer, yet our decisions are often effective. Nevertheless, some of our mental biases are hard to explain. In novel situations, or ones where information is limited, we have the unfortunate habit of basing decisions on unclear connections and overly relying on specific information. This translates into us randomly opting for something on which we then base our opinions. This so-called anchoring effect was first shown by Daniel Kahneman of Princeton University and the late Amos Tversky, and the consequences can be amusing. For example, one study found that people asked to write a high number subsequently bid more for items whose value was unknown than people who wrote down a low number.\n\n​\n\nKahneman and Tversky also revealed our peculiar attitudes to risk. We tend to be more cautious than is logical when there is the possibility of making large gains or small losses. However, we choose unduly risky options when there is the chance of making a small gain or a large loss. In recent years, our inclination to undervalue rare but catastrophic events has been dubbed the Black Swan effect.\n\n​\n\nAnother factor leading to some bad decisions is the confirmation bias – our tendency to overemphasise anything that confirms what we already believe. Then there is loss aversion: it feels worse to lose something than to gain the equivalent amount, making us protect what we have rather than take a chance to make a gain. Also, when choosing whether to continue with a venture, we illogically consider the investment we have already made in it – the sunk-cost fallacy. Meanwhile, our short-term bias – temporal discounting – means we tend to prefer smaller rewards now to bigger ones later. [CITE source=NewScientist, November 2011]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 6612,
+          "content": {
+            "text": "**1.1e Mental Glitches That Make Fools of Us**\n\n​\n\nThe human brain does not compute options like a rational computer, yet our decisions are often effective. Nevertheless, some of our mental biases are hard to explain. In novel situations, or ones where information is limited, we have the unfortunate habit of basing decisions on unclear connections and overly relying on specific information. This translates into us randomly opting for something on which we then base our opinions. This so-called anchoring effect was first shown by Daniel Kahneman of Princeton University and the late Amos Tversky, and the consequences can be amusing. For example, one study found that people asked to write a high number subsequently bid more for items whose value was unknown than people who wrote down a low number.\n\n​\n\nKahneman and Tversky also revealed our peculiar attitudes to risk. We tend to be more cautious than is logical when there is the possibility of making large gains or small losses. However, we choose unduly risky options when there is the chance of making a small gain or a large loss. In recent years, our inclination to undervalue rare but catastrophic events has been dubbed the Black Swan effect.\n\n​\n\nAnother factor leading to some bad decisions is the confirmation bias – our tendency to overemphasise anything that confirms what we already believe. Then there is loss aversion: it feels worse to lose something than to gain the equivalent amount, making us protect what we have rather than take a chance to make a gain. Also, when choosing whether to continue with a venture, we illogically consider the investment we have already made in it – the sunk-cost fallacy. Meanwhile, our short-term bias – temporal discounting – means we tend to prefer smaller rewards now to bigger ones later. [CITE source=NewScientist, November 2011]\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:13:01.214429",
+          "max_score": null,
+          "groupping": null,
+          "id": 154208,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "aadd3d77-6f48-49af-9b15-ae2e0d66aaab",
+          "order_number": 20,
+          "multipart": true,
+          "created_at": "2017-06-16T11:31:11.60324"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Being European** \n\nWrite to the online discussion forum maintained by _Open Youth_, a non-governmental organization promoting European thoughts and values, and created and managed by young people. What are the common values and ideas young Europeans share? How can _Open Youth_ promote these?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 6612,
+          "content": {
+            "text": "**Being European** \n\nWrite to the online discussion forum maintained by _Open Youth_, a non-governmental organization promoting European thoughts and values, and created and managed by young people. What are the common values and ideas young Europeans share? How can _Open Youth_ promote these?\n",
+            "displayNumber": "4."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:13:01.217894",
+          "max_score": null,
+          "groupping": null,
+          "id": 149989,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "b18473de-eb8e-40b5-b6d9-1e78f4071424",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2017-06-16T11:04:18.526795"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**1.1a Redirecting Flight Paths **\n\n​\n\nIf you’ve been stuck in an airport, you know that waiting for a departure is annoying. One big reason for the wait is that airplane navigation is stuck in the 1940s, with a system that relies on ground-based radio beacons. But new satellite-based navigation procedures, called RNP (Required Navigation Performance), define three-dimensional highways in the sky. When RNP was implemented by Canada’s WestJet at Kelowna Airport – some 170 miles east of Vancouver – the former spaghetti-like tangle of flight paths resolved into three optimized approaches. This change resulted in remarkable cuts in fuel consumption, carbon emissions, and noise. RNP is already in use at more than 70 U.S. airports. Though funding remains a concern, the Federal Aviation Agency plans to expand the system by 2018 to the cities with the most severe holdups. Let’s hope this is carried out promptly. [CITE source=National Geographic, March 2012]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 6612,
+          "content": {
+            "text": "**1.1a Redirecting Flight Paths **\n\n​\n\nIf you’ve been stuck in an airport, you know that waiting for a departure is annoying. One big reason for the wait is that airplane navigation is stuck in the 1940s, with a system that relies on ground-based radio beacons. But new satellite-based navigation procedures, called RNP (Required Navigation Performance), define three-dimensional highways in the sky. When RNP was implemented by Canada’s WestJet at Kelowna Airport – some 170 miles east of Vancouver – the former spaghetti-like tangle of flight paths resolved into three optimized approaches. This change resulted in remarkable cuts in fuel consumption, carbon emissions, and noise. RNP is already in use at more than 70 U.S. airports. Though funding remains a concern, the Federal Aviation Agency plans to expand the system by 2018 to the cities with the most severe holdups. Let’s hope this is carried out promptly. [CITE source=National Geographic, March 2012]\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:13:01.221106",
+          "max_score": null,
+          "groupping": null,
+          "id": 152177,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "9afac780-eb8c-44c3-beea-c786f52e1537",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-06-16T11:18:44.177723"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "You can find the following invitation to write a book review at: teacher.scholastic.com \n\n**Share What You’re Reading!** \n\n_Do you love fantasy novels? Biographies? Mysteries? Sports? Have you ever read a book that was so amazing you told all your friends, “You’ve GOT to read this!”? Here’s your opportunity to share with other students what you are reading and to discover new books based on other students’ recommendations. _\n\nWrite a book review. Tell about something interesting from the book and explain why you liked the book. Tell readers enough about the plot to hook them, but keep them in suspense so that they will want to read the book\n\n​\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 6612,
+          "content": {
+            "text": "You can find the following invitation to write a book review at: teacher.scholastic.com \n\n**Share What You’re Reading!** \n\n_Do you love fantasy novels? Biographies? Mysteries? Sports? Have you ever read a book that was so amazing you told all your friends, “You’ve GOT to read this!”? Here’s your opportunity to share with other students what you are reading and to discover new books based on other students’ recommendations. _\n\nWrite a book review. Tell about something interesting from the book and explain why you liked the book. Tell readers enough about the plot to hook them, but keep them in suspense so that they will want to read the book\n\n​\n",
+            "displayNumber": "3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:13:01.325595",
+          "max_score": null,
+          "groupping": null,
+          "id": 149988,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "cfb9d548-02ed-471f-9a5b-9b9155529c31",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2017-06-16T11:04:18.523461"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What is said about the system’s future coverage?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 6612,
+          "content": {
+            "text": "What is said about the system’s future coverage?\n",
+            "displayNumber": "3."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:13:01.227915",
+          "max_score": null,
+          "groupping": null,
+          "id": 157611,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "text": "It will include the airports with the most passengers\n",
+              "choices": []
+            },
+            {
+              "id": 2,
+              "text": "It will include the airports with the most delays\n",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 3,
+              "text": "It will include the airports with the most departures\n",
+              "choices": []
+            }
+          ],
+          "uuid": "2bec26ce-56bb-48da-803f-819ad8aec154",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2017-06-16T11:49:27.338879"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What is characteristic of the anchor effect?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 6612,
+          "content": {
+            "text": "What is characteristic of the anchor effect?\n",
+            "displayNumber": "16."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:13:01.234079",
+          "max_score": null,
+          "groupping": null,
+          "id": 157721,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 52,
+              "text": "The reasons for decision-making rarely surface by chance\n",
+              "choices": []
+            },
+            {
+              "id": 53,
+              "text": "Random decision-making occurs infrequently\n",
+              "choices": []
+            },
+            {
+              "id": 54,
+              "text": "The grounds for decision-making are often irrational\n",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "ed29d5e0-6a78-4d3c-b205-f76bf828c5bc",
+          "order_number": 21,
+          "multipart": true,
+          "created_at": "2017-06-16T11:50:56.909856"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What does the Black Swan effect refer to?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 6612,
+          "content": {
+            "text": "What does the Black Swan effect refer to?\n",
+            "displayNumber": "17."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:13:01.237378",
+          "max_score": null,
+          "groupping": null,
+          "id": 157722,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 55,
+              "text": "Underestimating consequences\n",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 56,
+              "text": "Undermining the evaluations of others\n",
+              "choices": []
+            },
+            {
+              "id": 57,
+              "text": "Undertaking low risk projects\n",
+              "choices": []
+            }
+          ],
+          "uuid": "a5d9381e-027a-4c1a-9085-b593e565e99a",
+          "order_number": 22,
+          "multipart": true,
+          "created_at": "2017-06-16T11:50:56.912908"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What has Dr Ropars’s team focused on?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 6612,
+          "content": {
+            "text": "What has Dr Ropars’s team focused on?\n",
+            "displayNumber": "20."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:13:01.230952",
+          "max_score": null,
+          "groupping": null,
+          "id": 157725,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 64,
+              "text": "Testing rocks dating back to Elizabethan times\n",
+              "choices": []
+            },
+            {
+              "id": 65,
+              "text": "Experimenting with the effects of light \n",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 66,
+              "text": "Evaluating progress made at sea\n",
+              "choices": []
+            }
+          ],
+          "uuid": "29d809d4-d17e-4708-b2dc-c7005922a442",
+          "order_number": 26,
+          "multipart": true,
+          "created_at": "2017-06-16T11:50:56.922099"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**How joggers can help the housebound**\n\n​\n\nThe Good Gym was the brainchild of Ivo Gormley, who discovered that combining a weekly run with a visit to a housebound friend of the family was just the motivation he needed to keep him [SELECT id=91]; it helped that his elderly friend was a former boxer who could offer training tips. As Gormley did his prescribed sit-ups, he thought about how best to link up a series of rather tiny disconnects: how [SELECT id=92] people have the time or energy to volunteer and [SELECT id=93] use gyms to burn off excess energy; and how little dialogue there is between working people and the elderly, particularly in densely populated urban communities.\n\n​\n\nThe participants are encouraged to take a newspaper or a [SELECT id=94] gift to the value of £1. There are also monthly group runs around east London, to perform useful activities along the way. [SELECT id=95] Good Gym members have [SELECT id=96] flyers for a local hospice, and tidied up community gardens, for example.\n\n​\n\nSusan Parkins, a costume stylist, heard about the Good Gym through Twitter. “It seemed such a brilliant idea,” she says. It took four months for her [SELECT id=97] by the Criminal Records Bureau, then she [SELECT id=98] Brian Mulcahy to run to, based on the distance she requested. She feels that [SELECT id=99] a break in her running also works well from a training point of view. Because Parkins is from Liverpool and has [SELECT id=100] grandparents living in London, she enjoys chatting to her elderly coach – “someone I [SELECT id=101],” she says. While the Good Gym advises runners to stay for about 10 minutes, Parkins sometimes chats to Mulcahy for an hour. She didn’t really know what he made of “this random person [SELECT id=102] and chatting to him” [SELECT id=103] she told him she was going away on holiday. He said: “I’ll really miss you.” [CITE source=guardian.co.uk (2012)]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 6612,
+          "content": {
+            "text": "**How joggers can help the housebound**\n\n​\n\nThe Good Gym was the brainchild of Ivo Gormley, who discovered that combining a weekly run with a visit to a housebound friend of the family was just the motivation he needed to keep him [SELECT id=91]; it helped that his elderly friend was a former boxer who could offer training tips. As Gormley did his prescribed sit-ups, he thought about how best to link up a series of rather tiny disconnects: how [SELECT id=92] people have the time or energy to volunteer and [SELECT id=93] use gyms to burn off excess energy; and how little dialogue there is between working people and the elderly, particularly in densely populated urban communities.\n\n​\n\nThe participants are encouraged to take a newspaper or a [SELECT id=94] gift to the value of £1. There are also monthly group runs around east London, to perform useful activities along the way. [SELECT id=95] Good Gym members have [SELECT id=96] flyers for a local hospice, and tidied up community gardens, for example.\n\n​\n\nSusan Parkins, a costume stylist, heard about the Good Gym through Twitter. “It seemed such a brilliant idea,” she says. It took four months for her [SELECT id=97] by the Criminal Records Bureau, then she [SELECT id=98] Brian Mulcahy to run to, based on the distance she requested. She feels that [SELECT id=99] a break in her running also works well from a training point of view. Because Parkins is from Liverpool and has [SELECT id=100] grandparents living in London, she enjoys chatting to her elderly coach – “someone I [SELECT id=101],” she says. While the Good Gym advises runners to stay for about 10 minutes, Parkins sometimes chats to Mulcahy for an hour. She didn’t really know what he made of “this random person [SELECT id=102] and chatting to him” [SELECT id=103] she told him she was going away on holiday. He said: “I’ll really miss you.” [CITE source=guardian.co.uk (2012)]\n"
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:13:01.241911",
+          "max_score": null,
+          "groupping": null,
+          "id": 155772,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 91,
+              "choices": [
+                {
+                  "id": "c75aecd6-87fc-4b27-be4d-0317a3ac0a0b",
+                  "text": "from exercising"
+                },
+                {
+                  "id": "92c38059-6aba-4cc3-8a12-0599f8f57ec6",
+                  "text": "to exercise"
+                },
+                {
+                  "id": "b7e67069-f1d1-421d-8b11-6c37a436a6ee",
+                  "text": "for exercising"
+                },
+                {
+                  "id": "038f655d-eaf1-47b2-8678-6640aaccb7e7",
+                  "text": "exercising",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 92,
+              "choices": [
+                {
+                  "id": "98244ee7-5591-4606-b6d6-11d662337000",
+                  "text": "little"
+                },
+                {
+                  "id": "22807dbe-f839-4ef6-9f36-920014a18fdd",
+                  "text": "a few"
+                },
+                {
+                  "id": "997cb152-c3ec-429d-adbe-16137e6c4bc6",
+                  "text": "few",
+                  "correct": true
+                },
+                {
+                  "id": "a9df278a-1c24-4f9d-8bcc-e007f0f63d55",
+                  "text": "many"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 93,
+              "choices": [
+                {
+                  "id": "0fce6a5a-d603-4aa8-8da4-1c8a9d7dd175",
+                  "text": "though"
+                },
+                {
+                  "id": "bfd5b6f8-86a4-4975-ad38-c73218541ba2",
+                  "text": "provided"
+                },
+                {
+                  "id": "8bb33344-51d1-4f16-b96f-a2583961d352",
+                  "text": "unless"
+                },
+                {
+                  "id": "882672e7-82a6-44e5-bd19-1dce72b4b3d5",
+                  "text": "yet",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 94,
+              "choices": [
+                {
+                  "id": "b84b24e7-cdf2-4b39-91f3-9c02b2e4108b",
+                  "text": "valuable"
+                },
+                {
+                  "id": "d1635af0-6e87-4d52-80cf-d216b9f6aecf",
+                  "text": "modest",
+                  "correct": true
+                },
+                {
+                  "id": "12b35a6a-6e34-4be7-9120-3bf1a08d0188",
+                  "text": "remarkable"
+                },
+                {
+                  "id": "59142410-9c5d-4afd-9d46-736c8487d875",
+                  "text": "moderate"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 95,
+              "choices": [
+                {
+                  "id": "9a5af45f-25f0-4e5e-9f04-0a2e332fcb08",
+                  "text": "At the moment"
+                },
+                {
+                  "id": "193fd857-96aa-443f-8118-1a7835f6d171",
+                  "text": "In time"
+                },
+                {
+                  "id": "494177b0-3aec-4031-a9ee-600f11b91808",
+                  "text": "So far",
+                  "correct": true
+                },
+                {
+                  "id": "4b0b37e2-cb4c-45b3-ad55-381a63faa563",
+                  "text": "At a time"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 96,
+              "choices": [
+                {
+                  "id": "47ec80c8-31a9-4182-a1d7-a4bcc2902db1",
+                  "text": "supported"
+                },
+                {
+                  "id": "059bbfac-7c20-452f-a42b-12179acae9c4",
+                  "text": "deported"
+                },
+                {
+                  "id": "b8a1d73b-bee1-4ce4-84cb-eac03a35ad45",
+                  "text": "contributed",
+                  "correct": false
+                },
+                {
+                  "id": "3d1eacc2-c470-46b2-a0d7-4e9a304f348d",
+                  "text": "distributed",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 97,
+              "choices": [
+                {
+                  "id": "6af6d14c-33af-4cc9-a164-ae2d47c306d7",
+                  "text": "to be checked",
+                  "correct": true
+                },
+                {
+                  "id": "0cb179af-6d8a-4d8a-9b90-331292f3fd2a",
+                  "text": "checking"
+                },
+                {
+                  "id": "a78979db-e4bf-4030-abf7-ccbf9019aade",
+                  "text": "to check"
+                },
+                {
+                  "id": "76239d51-6b2f-435e-b3b5-88466d252de2",
+                  "text": "get checked"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 98,
+              "choices": [
+                {
+                  "id": "75ef7204-329a-4e7f-b725-21e2880ca1d7",
+                  "text": "is assigned"
+                },
+                {
+                  "id": "fce4864a-afb2-43d8-948c-0b37ff593deb",
+                  "text": "assigned"
+                },
+                {
+                  "id": "f9d3d0ff-a2ac-4e13-89f0-577e08d1be73",
+                  "text": "has been assigned"
+                },
+                {
+                  "id": "6a2fc64c-a17e-4a4e-813f-7c28425200c1",
+                  "text": "was assigned",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 99,
+              "choices": [
+                {
+                  "id": "35261132-0aba-4a56-ba3a-124d14882b41",
+                  "text": "to have"
+                },
+                {
+                  "id": "2ac450b3-f9a1-45b5-a13e-0b09cad6d1e6",
+                  "text": "having had"
+                },
+                {
+                  "id": "2ecb6b80-4d92-452d-bd84-73e60f38e70b",
+                  "text": "having",
+                  "correct": true
+                },
+                {
+                  "id": "e191ccbf-cdf2-4877-a0e4-3da9c1b1ed1c",
+                  "text": "so as to have"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 100,
+              "choices": [
+                {
+                  "id": "ba55f88a-fda7-43c9-8dec-c2c0f31f0c80",
+                  "text": "his own"
+                },
+                {
+                  "id": "92c325c2-86ae-4f45-a937-dfe1ea163052",
+                  "text": "no",
+                  "correct": true
+                },
+                {
+                  "id": "99672535-c9a0-4fc0-a6ae-161d281ff7c1",
+                  "text": "his nice"
+                },
+                {
+                  "id": "797306d0-e506-43bb-8859-5f247f0c41f3",
+                  "text": "none"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 101,
+              "choices": [
+                {
+                  "id": "b6363c2d-0e45-4b33-b8a9-90e9a0735e89",
+                  "text": "never met"
+                },
+                {
+                  "id": "f68de0cb-5ca5-46f9-bdd6-70221b497eb9",
+                  "text": "could never meet"
+                },
+                {
+                  "id": "cfb00828-9740-4bd3-89a5-bbd4d6eb76d0",
+                  "text": "should never have met"
+                },
+                {
+                  "id": "5e2af956-07c7-439b-955a-4003bf5ae62b",
+                  "text": "would never have met",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 102,
+              "choices": [
+                {
+                  "id": "c5377b49-a35c-4e44-a11c-aa5da4c0d0ef",
+                  "text": "turning up",
+                  "correct": true
+                },
+                {
+                  "id": "f2db1463-dd76-44a4-bdc2-d685a3352277",
+                  "text": "standing up"
+                },
+                {
+                  "id": "d66d4918-793a-4564-9f09-726911f949b3",
+                  "text": "cheering up"
+                },
+                {
+                  "id": "83723eb0-d5fe-4697-8f51-6ae3dbcaec27",
+                  "text": "giving up"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 103,
+              "choices": [
+                {
+                  "id": "d497b7cf-2c3b-4536-97a2-136349b69dcb",
+                  "text": "unless"
+                },
+                {
+                  "id": "0f0ddf7f-4afa-4260-ba5f-0c39a294b53a",
+                  "text": "as soon as"
+                },
+                {
+                  "id": "b38d3d78-f564-4a1a-b6f7-71356072e86f",
+                  "text": "until",
+                  "correct": true
+                },
+                {
+                  "id": "22dc67eb-9951-4c03-9e3d-b2ddeec89ffe",
+                  "text": "in case"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "c8bc017e-0139-4b67-ae27-c312ebb1a89d",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-06-16T11:40:46.296929"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Oh, to be bilingual **\n\nAt the same time that the benefits of bilingualism have been discovered, education systems in English-speaking countries have continued to be relatively reluctant to promote teaching of foreign languages. The neglect of language teaching has been bemoaned as dumbing down. That isn’t so. It’s simply because native English speakers lack incentives to learn another language. But it should be regretted for a different reason. A decline in language teaching will likely mean a decline in education attainment, for example degrees granted across the board. In a fiercely competitive world, being born into an anglophone society is not quite the blessing it may first appear\n\n​\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 6612,
+          "content": {
+            "text": "**Oh, to be bilingual **\n\nAt the same time that the benefits of bilingualism have been discovered, education systems in English-speaking countries have continued to be relatively reluctant to promote teaching of foreign languages. The neglect of language teaching has been bemoaned as dumbing down. That isn’t so. It’s simply because native English speakers lack incentives to learn another language. But it should be regretted for a different reason. A decline in language teaching will likely mean a decline in education attainment, for example degrees granted across the board. In a fiercely competitive world, being born into an anglophone society is not quite the blessing it may first appear\n\n​\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:13:01.249907",
+          "max_score": null,
+          "groupping": null,
+          "id": 155618,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "109b2000-6f0f-4b10-9add-2cb68a6dfbea",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2017-06-16T11:39:38.46008"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "_Read the texts carefully and for each item (26-50) choose the alternative that __**best **__fits the context._\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 6612,
+          "content": {
+            "text": "_Read the texts carefully and for each item (26-50) choose the alternative that __**best **__fits the context._\n",
+            "questionType": "grammar",
+            "displayNumber": "2.1"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "c8bc017e-0139-4b67-ae27-c312ebb1a89d",
+            "7b4392c0-d111-440d-8bbc-bd6473df486d"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-06-21T11:13:01.25747",
+          "max_score": null,
+          "groupping": null,
+          "id": 149769,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "7faa0aab-3a10-4c52-8187-21ec88486dbe",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2017-06-16T11:00:05.920633"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "_Fill in the blanks using the suggestions given._\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 6612,
+          "content": {
+            "text": "_Fill in the blanks using the suggestions given._\n",
+            "questionType": "grammar",
+            "displayNumber": "2.2"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "beadff52-8015-4a63-a012-637cf9280f09"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-06-21T11:13:01.276548",
+          "max_score": null,
+          "groupping": null,
+          "id": 149770,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "d6ca1abe-fcd9-4dde-b5df-40583c837c68",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2017-06-16T11:00:05.923879"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Write a composition of between 150 and 250 words on one of the following topics. Follow the guidance.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 6612,
+          "content": {
+            "text": "Write a composition of between 150 and 250 words on one of the following topics. Follow the guidance.\n",
+            "questionType": "writing"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "e1fa3db0-ddc5-41f6-8f0e-ada788afd908",
+            "8faebc3b-f192-4c6d-848b-d06ee5f37312",
+            "cfb9d548-02ed-471f-9a5b-9b9155529c31",
+            "b18473de-eb8e-40b5-b6d9-1e78f4071424"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-06-21T11:13:01.28683",
+          "max_score": null,
+          "groupping": null,
+          "id": 149771,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "2cfd6079-0621-4772-ad12-2fc17ddb41cc",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2017-06-16T11:00:05.926878"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**1 READING COMPREHENSION**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 6612,
+          "content": {
+            "text": "**1 READING COMPREHENSION**\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-06-21T11:13:01.290913",
+          "max_score": null,
+          "groupping": null,
+          "id": 149527,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "b811e257-41be-4682-b38e-2e27222e66b1",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-06-16T10:56:32.039117"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mitä tutkimuksessa paljastui? (2 asiaa)\n",
+          "deleted_at": null,
+          "feedback": "Tutkimuksessa paljastui virhe. / Bussimatkat olivat jääneet pois tutkimuksesta. / Kolmasosa matkoista jäi pois.\n\nKöyhempi väestönosa jäi tutkimuksen ulkopuolelle. / Tutkimuksen alkuperäinen tarkoitus ei toteutunut.\n",
+          "exam_id": 6612,
+          "content": {
+            "text": "Mitä tutkimuksessa paljastui? (2 asiaa)\n",
+            "displayNumber": "a)"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:13:01.253923",
+          "max_score": null,
+          "groupping": null,
+          "id": 156328,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "b200c3b3-a06d-481b-baa8-ea7bc62e2405",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2017-06-16T11:43:12.44034"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "_Lue seuraavat tekstit ja vastaa niiden pohjalta __**lyhyesti suomeksi**__ kysymyksiin a-e._\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 6612,
+          "content": {
+            "text": "_Lue seuraavat tekstit ja vastaa niiden pohjalta __**lyhyesti suomeksi**__ kysymyksiin a-e._\n",
+            "questionType": "reading",
+            "displayNumber": "1.2"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "96c52e82-726a-44b3-955b-80fca3072c2f",
+            "6342af5a-38b4-4096-ac5a-e01b0b26189a",
+            "109b2000-6f0f-4b10-9add-2cb68a6dfbea",
+            "9436470e-9696-411f-a0fb-dd601e35390c",
+            "b200c3b3-a06d-481b-baa8-ea7bc62e2405",
+            "b584a242-7a98-47b2-a7be-31baf4bac66c",
+            "10bca772-b823-490f-85ae-b15ab8ba9167",
+            "b3588ce2-804d-43a8-b4b4-278bd6954ba2",
+            "c77d1f4e-a2e0-41bc-83fa-2192b07b3a24"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-06-21T11:13:01.293826",
+          "max_score": null,
+          "groupping": null,
+          "id": 149768,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "281f4c89-d1c3-4db2-ad34-450c9c9b0fb6",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2017-06-16T11:00:05.917532"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Miksi syntyminen englanninkieliseen maahan ei ole pelkästään etu? (2 asiaa)\n",
+          "deleted_at": null,
+          "feedback": "Vieraiden kielten opetus on vähäistä. / Koululaitos ei panosta vieraiden kielten opetukseen.\n\nKoulutustaso laskee, / esimerkiksi tutkintoja suoritetaan vähemmän\n",
+          "exam_id": 6612,
+          "content": {
+            "text": "Miksi syntyminen englanninkieliseen maahan ei ole pelkästään etu? (2 asiaa)\n",
+            "displayNumber": "c)"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:13:01.300276",
+          "max_score": null,
+          "groupping": null,
+          "id": 156743,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "10bca772-b823-490f-85ae-b15ab8ba9167",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2017-06-16T11:44:26.032433"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Millaisia keinoja ylipainon torjuntaan tulisi löytää? (2 asiaa)\n",
+          "deleted_at": null,
+          "feedback": "Keinojen tulisi olla tehokkaita väestön (ei vain yksilön) tasolla, ja niiden tulisi olla kustannustehokkaita/halpoja.\n",
+          "exam_id": 6612,
+          "content": {
+            "text": "Millaisia keinoja ylipainon torjuntaan tulisi löytää? (2 asiaa)\n",
+            "displayNumber": "b)"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:13:01.297248",
+          "max_score": null,
+          "groupping": null,
+          "id": 156464,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "b584a242-7a98-47b2-a7be-31baf4bac66c",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2017-06-16T11:43:49.158733"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**1.1d Wild Wonder**\n\n​\n\nHovering in the summer heat, drinking from the abundance of nectarrich flowers with its long straw-like feeding organ, this distinctive dayflying moth is, at first glance, easily mistaken for the hummingbird it takes after. A migrant from Europe and Africa to mainly southern areas of Britain, the Hummingbird Hawk moth is becoming more prevalent across the UK, according to the charity Butterfly Conservation, with significantly more sightings over the past years, thought to be due to climate warming. Flashes of orange are visible against its grey body and black-and-white tail, as its wings – which measure 5cm across – beat audibly, suspending it at the perfect height for feeding from flora. The Hummingbird Hawk moth can be seen in woodland edges and gardens from May to September, feeding on plants such as honeysuckle and geraniums. Interestingly, studies indicate that the high-pitched humming sound produced by the beating of the moth’s wings is clearer to women than to men. [CITE source=Country Living, June 2012]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 6612,
+          "content": {
+            "text": "**1.1d Wild Wonder**\n\n​\n\nHovering in the summer heat, drinking from the abundance of nectarrich flowers with its long straw-like feeding organ, this distinctive dayflying moth is, at first glance, easily mistaken for the hummingbird it takes after. A migrant from Europe and Africa to mainly southern areas of Britain, the Hummingbird Hawk moth is becoming more prevalent across the UK, according to the charity Butterfly Conservation, with significantly more sightings over the past years, thought to be due to climate warming. Flashes of orange are visible against its grey body and black-and-white tail, as its wings – which measure 5cm across – beat audibly, suspending it at the perfect height for feeding from flora. The Hummingbird Hawk moth can be seen in woodland edges and gardens from May to September, feeding on plants such as honeysuckle and geraniums. Interestingly, studies indicate that the high-pitched humming sound produced by the beating of the moth’s wings is clearer to women than to men. [CITE source=Country Living, June 2012]\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:13:01.308637",
+          "max_score": null,
+          "groupping": null,
+          "id": 153908,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "47b7124c-8371-47de-878a-319e07d06485",
+          "order_number": 16,
+          "multipart": true,
+          "created_at": "2017-06-16T11:29:48.381872"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What is said about this moth’s appearance?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 6612,
+          "content": {
+            "text": "What is said about this moth’s appearance?\n",
+            "displayNumber": "13."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:13:01.3118",
+          "max_score": null,
+          "groupping": null,
+          "id": 157718,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 43,
+              "text": "It closely resembles another species\n",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 44,
+              "text": "It features several bright colours\n",
+              "choices": []
+            },
+            {
+              "id": 45,
+              "text": "Its features have altered because of climate change\n",
+              "choices": []
+            }
+          ],
+          "uuid": "0b614dcf-08c8-4088-ba07-14863b9ae963",
+          "order_number": 17,
+          "multipart": true,
+          "created_at": "2017-06-16T11:50:56.896239"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What did the test experiment involve?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 6612,
+          "content": {
+            "text": "What did the test experiment involve?\n",
+            "displayNumber": "23."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:13:01.314858",
+          "max_score": null,
+          "groupping": null,
+          "id": 157728,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 73,
+              "text": "Observing striking differences in behaviour\n",
+              "choices": []
+            },
+            {
+              "id": 74,
+              "text": "Analyzing individuals’ social interaction\n",
+              "choices": []
+            },
+            {
+              "id": 75,
+              "text": "Measuring involuntary cerebral reactions\n",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "ecaa765e-8b85-403a-a2f2-fef16013b671",
+          "order_number": 30,
+          "multipart": true,
+          "created_at": "2017-06-16T11:50:56.930995"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What is the reported study’s key result all about?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 6612,
+          "content": {
+            "text": "What is the reported study’s key result all about?\n",
+            "displayNumber": "24."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:13:01.317928",
+          "max_score": null,
+          "groupping": null,
+          "id": 157727,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 70,
+              "text": "Average people miss the evident signs of danger\n",
+              "choices": []
+            },
+            {
+              "id": 71,
+              "text": "Laid-back people miss the prominent signs of danger\n",
+              "choices": []
+            },
+            {
+              "id": 72,
+              "text": "Tense people may miss the subtle signs of danger\n",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "9abec2cb-d088-4687-819d-9e1703514316",
+          "order_number": 31,
+          "multipart": true,
+          "created_at": "2017-06-16T11:50:56.927948"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Fat busting **\n\n_From Brett Sutton_ (letter to the editor) \n\nA new generation of anti-obesity pills reignites the debate over medication versus willpower. Willpower alone will work for some people, but with about 50 per cent of people overweight or obese in the US and Australia, we need to look at other measures. From a public-health perspective, we need interventions that are effective at population level. And we need to help high-risk individuals costeffectively. There seems to be no end to this obesity epidemic. \n\nHighnett, Victoria, Australia [CITE source=NewScientist, 5 May 2012]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 6612,
+          "content": {
+            "text": "**Fat busting **\n\n_From Brett Sutton_ (letter to the editor) \n\nA new generation of anti-obesity pills reignites the debate over medication versus willpower. Willpower alone will work for some people, but with about 50 per cent of people overweight or obese in the US and Australia, we need to look at other measures. From a public-health perspective, we need interventions that are effective at population level. And we need to help high-risk individuals costeffectively. There seems to be no end to this obesity epidemic. \n\nHighnett, Victoria, Australia [CITE source=NewScientist, 5 May 2012]\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:13:01.34592",
+          "max_score": null,
+          "groupping": null,
+          "id": 155617,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "6342af5a-38b4-4096-ac5a-e01b0b26189a",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2017-06-16T11:39:38.455139"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Which one of the following would be a suitable alternative heading for this text?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 6612,
+          "content": {
+            "text": "Which one of the following would be a suitable alternative heading for this text?\n",
+            "displayNumber": "22."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:13:01.322441",
+          "max_score": null,
+          "groupping": null,
+          "id": 157723,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 58,
+              "text": "How Vikings found their way around even in cloudy weather\n",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 59,
+              "text": "How Viking navigating skills have been overestimated\n",
+              "choices": []
+            },
+            {
+              "id": 60,
+              "text": "How recent studies on Vikings suggest new uses for outdated materials\n",
+              "choices": []
+            }
+          ],
+          "uuid": "ddd566b6-c69a-407b-87ce-59e7e6b71a2d",
+          "order_number": 28,
+          "multipart": true,
+          "created_at": "2017-06-16T11:50:56.916029"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What is the overall conclusion of this text?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 6612,
+          "content": {
+            "text": "What is the overall conclusion of this text?\n",
+            "displayNumber": "25."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:13:01.328972",
+          "max_score": null,
+          "groupping": null,
+          "id": 157726,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 67,
+              "text": "Being stressed out tends to lead to anxiety\n",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 68,
+              "text": "Calmness seems to come naturally to some\n",
+              "choices": []
+            },
+            {
+              "id": 69,
+              "text": "Individual differences result from environmental factors\n",
+              "choices": []
+            }
+          ],
+          "uuid": "ca140203-0d02-42d8-8a92-35c8c48c227f",
+          "order_number": 32,
+          "multipart": true,
+          "created_at": "2017-06-16T11:50:56.924971"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**1.1g The Fallacy of Fretting**\n\n​\n\nWorrywarts, beware: all that fretting may be for naught. Anxiety has long been interpreted as a symptom of hyperawareness and sensitivity to danger, but now a recent study turns that logic on its head. In this study, carried out by Tah Frenkel, a graduate student in psychology at Tel Aviv University, 17 students who had anxious personalities and 22 students who were more mellow were asked to identify when they detected fear in a series of increasingly frightened faces. As expected, the anxious group spoke up before their calmer counterparts. The twist, however, came from the volunteers’ brain activity, recorded with electrodes on each student’s scalp. The brains of anxious subjects barely responded to the images until the frightened face had reached a certain obvious threshold, at which point their brains leapt into action as though caught off guard. Meanwhile non-anxious respondents showed increasing brain activity earlier in the exercise, which built up slowly with each increasingly fearful face. Although their response was slower, their brain activity suggests that the mellow subjects picked up on subtle, delicate differences in the images more quickly. \n\n​\n\nThe result implies that worriers are less aware of potential danger – challenging the common theory that anxious individuals are hyper vigilant. Frenkel believes that worrywarts’ low sensitivity to external warning signs causes them to be startled frequently by the seemingly sudden appearance of threats, which leaves them in a state of chronic fatigue. The brain activity in non-anxious subjects, Frenkel explains, may be evidence of an “early subconscious warning mechanism,” which keeps them cool and collected. [CITE source=Scientific American Mind, May/June 2012]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 6612,
+          "content": {
+            "text": "**1.1g The Fallacy of Fretting**\n\n​\n\nWorrywarts, beware: all that fretting may be for naught. Anxiety has long been interpreted as a symptom of hyperawareness and sensitivity to danger, but now a recent study turns that logic on its head. In this study, carried out by Tah Frenkel, a graduate student in psychology at Tel Aviv University, 17 students who had anxious personalities and 22 students who were more mellow were asked to identify when they detected fear in a series of increasingly frightened faces. As expected, the anxious group spoke up before their calmer counterparts. The twist, however, came from the volunteers’ brain activity, recorded with electrodes on each student’s scalp. The brains of anxious subjects barely responded to the images until the frightened face had reached a certain obvious threshold, at which point their brains leapt into action as though caught off guard. Meanwhile non-anxious respondents showed increasing brain activity earlier in the exercise, which built up slowly with each increasingly fearful face. Although their response was slower, their brain activity suggests that the mellow subjects picked up on subtle, delicate differences in the images more quickly. \n\n​\n\nThe result implies that worriers are less aware of potential danger – challenging the common theory that anxious individuals are hyper vigilant. Frenkel believes that worrywarts’ low sensitivity to external warning signs causes them to be startled frequently by the seemingly sudden appearance of threats, which leaves them in a state of chronic fatigue. The brain activity in non-anxious subjects, Frenkel explains, may be evidence of an “early subconscious warning mechanism,” which keeps them cool and collected. [CITE source=Scientific American Mind, May/June 2012]\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:13:01.331894",
+          "max_score": null,
+          "groupping": null,
+          "id": 154990,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "54757847-1d4b-48ef-8a2c-e7db76178c53",
+          "order_number": 29,
+          "multipart": true,
+          "created_at": "2017-06-16T11:36:14.002636"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "You found the following call for inventions on a website: inventorspot.com \n\n**Calling All Inventors!** \n\n_Get your inventions ready for Season 4 of the Emmy award-winning show, __**Everyday Edisons**__. Yes, you “ordinary people with ordinary ideas,” Everyday Edisons will be looking for the next big thing: kids’ products or toys, pet products, home, kitchen, and bath innovations, hardware, tools, or DIY products, fitness & outdoor innovations, health, wellness, and beauty innovations. If your innovation is found interesting enough, you will be asked to introduce it on a live TV show!_ Describe your innovation in a letter addressed to Everyday Edisons.\n\n​\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 6612,
+          "content": {
+            "text": "You found the following call for inventions on a website: inventorspot.com \n\n**Calling All Inventors!** \n\n_Get your inventions ready for Season 4 of the Emmy award-winning show, __**Everyday Edisons**__. Yes, you “ordinary people with ordinary ideas,” Everyday Edisons will be looking for the next big thing: kids’ products or toys, pet products, home, kitchen, and bath innovations, hardware, tools, or DIY products, fitness & outdoor innovations, health, wellness, and beauty innovations. If your innovation is found interesting enough, you will be asked to introduce it on a live TV show!_ Describe your innovation in a letter addressed to Everyday Edisons.\n\n​\n",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:13:01.335078",
+          "max_score": null,
+          "groupping": null,
+          "id": 149772,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "e1fa3db0-ddc5-41f6-8f0e-ada788afd908",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-06-16T11:00:05.930053"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "In the closing paragraph, which one of the following characterizes Brunetti’s frame of mind?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 6612,
+          "content": {
+            "text": "In the closing paragraph, which one of the following characterizes Brunetti’s frame of mind?\n",
+            "displayNumber": "12."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:13:01.338898",
+          "max_score": null,
+          "groupping": null,
+          "id": 157712,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 25,
+              "text": "Know what you want to get\n",
+              "choices": []
+            },
+            {
+              "id": 26,
+              "text": "Keep on trying anyway\n",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 27,
+              "text": "Don’t be too picky\n",
+              "choices": []
+            }
+          ],
+          "uuid": "27ce5d57-fdf1-4403-b370-57194d031816",
+          "order_number": 15,
+          "multipart": true,
+          "created_at": "2017-06-16T11:50:56.877554"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**A Shattered Dream?**\n\n​\n\n[SELECT id=104] grows up thinking his destiny is to become a taxi driver, but in Tom’s case the job had served as a [SELECT id=105] grueling form of penance, a way of mourning the collapse of his most [SELECT id=106] ambitions. It wasn’t that he [SELECT id=107] a great deal from life, but the little he had wanted turned out to have been [SELECT id=108]: to finish his doctorate, to find a place in some university English department, and then spend the next forty or fifty years teaching and writing about books. That was all [SELECT id=109] ever aspired to, with a wife thrown into the bargain, maybe, and a kid or two to go along with her. It had never felt like too much to ask for, but after three years of struggling to write his dissertation, Tom finally understood that he didn’t have it in him to finish. Or, if he did have it in him, he couldn’t persuade himself to believe in the value of doing it anyway. So he left Ann Arbor and returned to New York, a twentyeight-year-old has-been without a clue [SELECT id=110] where he was headed or what turn [SELECT id=111] to take.\n\n​\n\nAt first, the taxi was no more than a temporary solution, a stopgap measure to pay the rent while he looked for something else. He searched for several weeks, but all the teaching jobs in private schools were filled just then, [SELECT id=112] he settled into the grind of his twelvehour shifts, he found himself [SELECT id=113] motivated to hunt for other work. The temporary began to feel like something permanent, and although a part of Tom knew that he was letting [SELECT id=114] to hell, another part of him thought that perhaps this job would do him some good, that if he paid attention [SELECT id=115] he was doing and why he was doing it, the cab would teach him lessons that couldn’t be learned anywhere else. [CITE source=Paul Auster, The Brooklyn Follies, 2005]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 6612,
+          "content": {
+            "text": "**A Shattered Dream?**\n\n​\n\n[SELECT id=104] grows up thinking his destiny is to become a taxi driver, but in Tom’s case the job had served as a [SELECT id=105] grueling form of penance, a way of mourning the collapse of his most [SELECT id=106] ambitions. It wasn’t that he [SELECT id=107] a great deal from life, but the little he had wanted turned out to have been [SELECT id=108]: to finish his doctorate, to find a place in some university English department, and then spend the next forty or fifty years teaching and writing about books. That was all [SELECT id=109] ever aspired to, with a wife thrown into the bargain, maybe, and a kid or two to go along with her. It had never felt like too much to ask for, but after three years of struggling to write his dissertation, Tom finally understood that he didn’t have it in him to finish. Or, if he did have it in him, he couldn’t persuade himself to believe in the value of doing it anyway. So he left Ann Arbor and returned to New York, a twentyeight-year-old has-been without a clue [SELECT id=110] where he was headed or what turn [SELECT id=111] to take.\n\n​\n\nAt first, the taxi was no more than a temporary solution, a stopgap measure to pay the rent while he looked for something else. He searched for several weeks, but all the teaching jobs in private schools were filled just then, [SELECT id=112] he settled into the grind of his twelvehour shifts, he found himself [SELECT id=113] motivated to hunt for other work. The temporary began to feel like something permanent, and although a part of Tom knew that he was letting [SELECT id=114] to hell, another part of him thought that perhaps this job would do him some good, that if he paid attention [SELECT id=115] he was doing and why he was doing it, the cab would teach him lessons that couldn’t be learned anywhere else. [CITE source=Paul Auster, The Brooklyn Follies, 2005]\n"
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:13:01.342095",
+          "max_score": null,
+          "groupping": null,
+          "id": 156195,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 104,
+              "choices": [
+                {
+                  "id": "33e08375-8b32-4df3-abe2-62935bd2db85",
+                  "text": "Many of us"
+                },
+                {
+                  "id": "e936b4e0-7a36-4416-8ad9-7b4db7d88690",
+                  "text": "Anyone"
+                },
+                {
+                  "id": "826f31b9-5804-43b4-9bf3-57c4660c759e",
+                  "text": "No one",
+                  "correct": true
+                },
+                {
+                  "id": "512a14f5-c98a-48b1-aee4-97025fb6691c",
+                  "text": "Everyone"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 105,
+              "choices": [
+                {
+                  "id": "c099626c-ec75-405f-b78d-e5ea0cb860a0",
+                  "text": "specific"
+                },
+                {
+                  "id": "da746b84-e3ed-4189-b168-d1f72e631f7c",
+                  "text": "particularly",
+                  "correct": true
+                },
+                {
+                  "id": "7b268910-f653-4d21-ba52-cb059ccff354",
+                  "text": "especially"
+                },
+                {
+                  "id": "e696504c-8d58-4678-837d-7d0a87542f4a",
+                  "text": "partially"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 106,
+              "choices": [
+                {
+                  "id": "f3c6d89c-fd86-43be-a9bb-a3026abde190",
+                  "text": "ambiguous"
+                },
+                {
+                  "id": "eafb5965-6f2d-47b4-bfc1-5c21f5e1f3dd",
+                  "text": "cherished",
+                  "correct": true
+                },
+                {
+                  "id": "8dbbd75b-d3ce-49ea-ab7c-8c4952e54ba8",
+                  "text": "elaborate"
+                },
+                {
+                  "id": "9cf03a60-aebe-4bba-94d3-033a3dc02b8e",
+                  "text": "cheered"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 107,
+              "choices": [
+                {
+                  "id": "e9287229-fd23-4598-8af3-d93703d67413",
+                  "text": "had ever wanted",
+                  "correct": true
+                },
+                {
+                  "id": "fcb41112-141a-4a57-9da9-11980ac2acfb",
+                  "text": "would never want"
+                },
+                {
+                  "id": "77f89898-cf43-46e8-a81c-8f9bcdc93328",
+                  "text": "had never wanted"
+                },
+                {
+                  "id": "a02950ab-14e6-4144-9b92-50d2e559a99b",
+                  "text": "never wanted"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 108,
+              "choices": [
+                {
+                  "id": "1300fd9a-be8c-4f39-881c-bf57f82cfd35",
+                  "text": "beyond his grasp",
+                  "correct": true
+                },
+                {
+                  "id": "f9dde118-2554-4192-8f57-b3b9aeea2bc4",
+                  "text": "out of the blue"
+                },
+                {
+                  "id": "940c52a1-8c97-4931-b49f-9674c0e1e81e",
+                  "text": "on the safe side"
+                },
+                {
+                  "id": "a08ee67a-dd2a-4ba2-b1c2-8f336c187cfa",
+                  "text": "over the top"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 109,
+              "choices": [
+                {
+                  "id": "df7208cc-cf2e-47db-825b-053109c9209b",
+                  "text": "what he had"
+                },
+                {
+                  "id": "b6c199ea-abc3-4f61-a51b-bb4ce5f38efa",
+                  "text": "that he has"
+                },
+                {
+                  "id": "f1c3101b-7af7-4c67-b31a-9a2e45e8724a",
+                  "text": "what he"
+                },
+                {
+                  "id": "dfaebd6b-45e1-4dfd-8411-333a9b8053ea",
+                  "text": "he had",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 110,
+              "choices": [
+                {
+                  "id": "40581323-e028-44d3-8580-209994a109da",
+                  "text": "as to",
+                  "correct": true
+                },
+                {
+                  "id": "ece19ba8-4183-4cbc-a6a3-2331d38c714a",
+                  "text": "out for"
+                },
+                {
+                  "id": "457992a2-3ef4-4535-808c-7d2a461e0955",
+                  "text": "in for"
+                },
+                {
+                  "id": "38b51b99-ec9d-4510-b3f0-86347ffda295",
+                  "text": "up to"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 111,
+              "choices": [
+                {
+                  "id": "57781718-6689-4959-977d-4647b1e6adea",
+                  "text": "his life was about",
+                  "correct": true
+                },
+                {
+                  "id": "56fc826c-d1d9-4122-95b1-6e7051d9b8fc",
+                  "text": "his life would"
+                },
+                {
+                  "id": "85db9741-57e2-47b9-a99b-97ed0c7641e5",
+                  "text": "was his life about"
+                },
+                {
+                  "id": "4af06b21-7433-4859-bbca-90f27cb837b0",
+                  "text": "was his life"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 112,
+              "choices": [
+                {
+                  "id": "4d37d885-87d6-4f21-8016-536a19fb8e8f",
+                  "text": "still once"
+                },
+                {
+                  "id": "d34f1931-f36d-468f-bb2b-3bb5bbd0f3bf",
+                  "text": "once"
+                },
+                {
+                  "id": "93affb46-5e91-4bd1-897c-6cbb557bc3d5",
+                  "text": "for once"
+                },
+                {
+                  "id": "9f1381e2-c311-4541-ab5c-555184964363",
+                  "text": "and once",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 113,
+              "choices": [
+                {
+                  "id": "af28f899-15a5-46ec-bd9c-d6db904db26c",
+                  "text": "more and more"
+                },
+                {
+                  "id": "49c472a3-80de-4e19-a4d9-24871db36fbb",
+                  "text": "even more"
+                },
+                {
+                  "id": "7a20c50c-a3e0-4d7f-a45f-481b3e75218a",
+                  "text": "less and less",
+                  "correct": true
+                },
+                {
+                  "id": "e5b77373-5a9e-4661-9006-62556f9658e4",
+                  "text": "at least"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 114,
+              "choices": [
+                {
+                  "id": "2b12003e-a8bc-4137-a451-b5c1c30613f9",
+                  "text": "him go"
+                },
+                {
+                  "id": "ade574b5-8c90-49a4-9434-26b865df11f0",
+                  "text": "himself to go"
+                },
+                {
+                  "id": "ee3a91fd-d79a-4832-b593-44e3961a7fe2",
+                  "text": "him going"
+                },
+                {
+                  "id": "64cb9140-0f5e-4e4f-91ab-b9c573442cb4",
+                  "text": "himself go",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 115,
+              "choices": [
+                {
+                  "id": "4aefbdf6-545c-4c5f-9c78-9d37a1ecf2d0",
+                  "text": "to what",
+                  "correct": true
+                },
+                {
+                  "id": "6763f678-3647-48e3-bca8-cff64619b3d5",
+                  "text": "for what"
+                },
+                {
+                  "id": "c33d144d-89e2-4b84-a1b7-488aba87291d",
+                  "text": "what"
+                },
+                {
+                  "id": "2651e583-a642-44df-a2e2-0423aeb2da0b",
+                  "text": "that which"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "7b4392c0-d111-440d-8bbc-bd6473df486d",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2017-06-16T11:42:11.623839"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "_Read texts 1.1a-1.1g and then answer question 1-25. Choose the __**best**__ alternative for each item._\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 6612,
+          "content": {
+            "text": "_Read texts 1.1a-1.1g and then answer question 1-25. Choose the __**best**__ alternative for each item._\n",
+            "questionType": "reading",
+            "displayNumber": "1.1"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "9afac780-eb8c-44c3-beea-c786f52e1537",
+            "bef3e124-715b-4718-b5d0-d1a67ac97906",
+            "1afcd10e-8dc2-4872-acd8-8798661cb343",
+            "47b7124c-8371-47de-878a-319e07d06485",
+            "aadd3d77-6f48-49af-9b15-ae2e0d66aaab",
+            "eaab3e38-161f-48d5-a935-04e9f98f50d8",
+            "54757847-1d4b-48ef-8a2c-e7db76178c53",
+            "2bec26ce-56bb-48da-803f-819ad8aec154",
+            "f5aee40a-3fea-4e21-9236-1f06c66bd494",
+            "f6fa9999-b5e9-47a2-8c8f-a52460f7d6f8",
+            "619451d3-b755-455b-85c0-fcc3b348197f",
+            "0a97eea2-283a-4a1f-8a07-7dbbd01295e9",
+            "a7f0d573-e105-40f0-8994-80c1984cfeb8",
+            "ea4f115e-0758-4217-b271-b7e40e299584",
+            "d82be10b-62f7-4121-b9cf-1255baa084ed",
+            "27ce5d57-fdf1-4403-b370-57194d031816",
+            "7193eb89-383f-43ff-9d32-0371531cf933",
+            "e27566c4-cf88-4a06-8505-825b9a7ef45c",
+            "b225bdc5-ce71-4dda-8584-46da83f4048f",
+            "020f66d0-4622-434b-9c65-588195ea2dc5",
+            "241af61d-9560-4660-96fa-36aca05b5e2b",
+            "0b614dcf-08c8-4088-ba07-14863b9ae963",
+            "ade4226e-4736-47e2-8436-7b669e77215b",
+            "e12ea32e-875d-4a84-b0db-b84a01947816",
+            "ed29d5e0-6a78-4d3c-b205-f76bf828c5bc",
+            "a5d9381e-027a-4c1a-9085-b593e565e99a",
+            "ddd566b6-c69a-407b-87ce-59e7e6b71a2d",
+            "6bafaa63-cc33-4712-bf31-d5b69b5753c8",
+            "29d809d4-d17e-4708-b2dc-c7005922a442",
+            "ca140203-0d02-42d8-8a92-35c8c48c227f",
+            "9abec2cb-d088-4687-819d-9e1703514316",
+            "ecaa765e-8b85-403a-a2f2-fef16013b671"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-06-21T11:13:01.349308",
+          "max_score": null,
+          "groupping": null,
+          "id": 149767,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "bc4187f0-a06c-47ec-89ca-36e11a61af77",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2017-06-16T11:00:05.914261"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Gumming up appetite **\n\nResearchers at Syracuse University are now working toward a unique solution: chewing gum that suppresses appetite. They are focusing on a hormone called human peptide YY (hPYY), which is released from the cells that line the intestine whenever you eat or exercise. The more calories consumed, the more hPYY travels from intestinal cells into the bloodstream, eventually reaching a fingertip-sized, evolutionarily ancient part of the brain that helps to regulate hunger, thirst, body temperature and sleep cycles. This new research suggests that because there are PYY receptors in the tongue, hPYY chewing gum could promote feelings of satiety very quickly. You simply feel full. [CITE source=Scientific American, February 2012]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 6612,
+          "content": {
+            "text": "**Gumming up appetite **\n\nResearchers at Syracuse University are now working toward a unique solution: chewing gum that suppresses appetite. They are focusing on a hormone called human peptide YY (hPYY), which is released from the cells that line the intestine whenever you eat or exercise. The more calories consumed, the more hPYY travels from intestinal cells into the bloodstream, eventually reaching a fingertip-sized, evolutionarily ancient part of the brain that helps to regulate hunger, thirst, body temperature and sleep cycles. This new research suggests that because there are PYY receptors in the tongue, hPYY chewing gum could promote feelings of satiety very quickly. You simply feel full. [CITE source=Scientific American, February 2012]\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:13:01.353029",
+          "max_score": null,
+          "groupping": null,
+          "id": 155619,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "9436470e-9696-411f-a0fb-dd601e35390c",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2017-06-16T11:39:38.463836"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**1.1f Viking Navigation: Sunstruck**\n\n​\n\nCenturies before Columbus, Viking adventurers ruled the North Atlantic. They sailed as far as America without the aid of magnetic compasses, which was no mean feat. They were, however, assisted in their travels by another sort of magical device. According to the sagas, they had stones which could point to the sun, even when the sky was cloudy. \n\n​\n\nNo such sunstone has survived. But Guy Ropars of the University of Rennes, in France, thinks he knows what they were. He and his colleagues have been examining a mineral called Iceland spar. Their results, just published in the _Proceedings of the Royal Society_, suggest they are on to something. \n\n​\n\nThe passage of sunlight through the air polarises it. That means light from the sky itself points towards the sun, if you have the necessary equipment to detect the polarisation. Dr Ropars has shown that a piece of Iceland spar is sufficient. \n\n​\n\nIceland spar is a form of calcite that splits light into two beams. If the light is polarised, there is only one way to orient the crystal to produce beams of equal intensity. Find this orientation by looking through the crystal at the sky at a time when you can see the sun, mark the sun’s direction on the crystal, and your mark will always point towards the sun when you match the beams from even a tiny patch of blue in an otherwise overcast sky. Dr Ropars’s research suggests the method is accurate to within 5 degrees. That is good enough for navigation of the sort the Vikings managed. \n\n​\n\nThough no sunstones have survived from Viking days, despite the frequency of ship burials of Viking chiefs, there is one tantalising find from a more recent shipwreck. This is a large calcite crystal recovered from a vessel that went down off the coast of Alderney, in the Channel Islands, in Elizabethan times during the late 16[SUP text=th] century. Several centuries underwater have rendered the Alderney crystal opaque, but Dr Ropars and his team are now examining it, and believe it may be Iceland spar. Dr Ropars suspects it was being used as a sunstone because the magnetic compasses of the day were thrown out of kilter by iron cannon. \n\n​\n\nThe true nature of the sunstone will probably not be settled unless one turns up in either a sunken Viking vessel or a ship burial. Perhaps, though, they not only permitted the Vikings to reach America, but also helped save England from the Spanish Armada. [CITE source=The Economist, November 2011]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 6612,
+          "content": {
+            "text": "**1.1f Viking Navigation: Sunstruck**\n\n​\n\nCenturies before Columbus, Viking adventurers ruled the North Atlantic. They sailed as far as America without the aid of magnetic compasses, which was no mean feat. They were, however, assisted in their travels by another sort of magical device. According to the sagas, they had stones which could point to the sun, even when the sky was cloudy. \n\n​\n\nNo such sunstone has survived. But Guy Ropars of the University of Rennes, in France, thinks he knows what they were. He and his colleagues have been examining a mineral called Iceland spar. Their results, just published in the _Proceedings of the Royal Society_, suggest they are on to something. \n\n​\n\nThe passage of sunlight through the air polarises it. That means light from the sky itself points towards the sun, if you have the necessary equipment to detect the polarisation. Dr Ropars has shown that a piece of Iceland spar is sufficient. \n\n​\n\nIceland spar is a form of calcite that splits light into two beams. If the light is polarised, there is only one way to orient the crystal to produce beams of equal intensity. Find this orientation by looking through the crystal at the sky at a time when you can see the sun, mark the sun’s direction on the crystal, and your mark will always point towards the sun when you match the beams from even a tiny patch of blue in an otherwise overcast sky. Dr Ropars’s research suggests the method is accurate to within 5 degrees. That is good enough for navigation of the sort the Vikings managed. \n\n​\n\nThough no sunstones have survived from Viking days, despite the frequency of ship burials of Viking chiefs, there is one tantalising find from a more recent shipwreck. This is a large calcite crystal recovered from a vessel that went down off the coast of Alderney, in the Channel Islands, in Elizabethan times during the late 16[SUP text=th] century. Several centuries underwater have rendered the Alderney crystal opaque, but Dr Ropars and his team are now examining it, and believe it may be Iceland spar. Dr Ropars suspects it was being used as a sunstone because the magnetic compasses of the day were thrown out of kilter by iron cannon. \n\n​\n\nThe true nature of the sunstone will probably not be settled unless one turns up in either a sunken Viking vessel or a ship burial. Perhaps, though, they not only permitted the Vikings to reach America, but also helped save England from the Spanish Armada. [CITE source=The Economist, November 2011]\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:13:01.356367",
+          "max_score": null,
+          "groupping": null,
+          "id": 154920,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "eaab3e38-161f-48d5-a935-04e9f98f50d8",
+          "order_number": 25,
+          "multipart": true,
+          "created_at": "2017-06-16T11:35:08.423363"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**1.1b Is She/He Trying to Strong-Arm Me? **\n\n​\n\nHigh school isn’t the only place for bullies these days. A recent book, _The Corporation: The Pathological Pursuit of Profit and Power_, created a media firestorm with its claim that the modern-day corporation allows abusive people to thrive because of a rampant ends-justifythe-means philosophy. In an economic downturn, strong-arming and manipulation often take the place of effective management. \n\n​\n\nSometimes bullies can be extremely subtle in their efforts to control you. The content of their words might be beyond reproach, but encounters with them somehow leave you with a sinking sensation in your stomach and doubt about your job security. Here are some of the signs that someone might be trying to strong-arm you: invading your personal space, tilting their head down at you, folding their arms, smiling expressionlessly, rolling their eyes, and smirking at your discomfort.\n\n​\n\nWhat to do in response: Bullies love a victim. Refuse to give in. You want to send the message, “I am not intimidated by you.” When a bully – or anyone – moves into your personal space, do not move. As a matter of fact, you might even lean toward that person to demonstrate that they will not be permitted to invade your personal space. If they smile at you, smile right back; maintain eye contact. Depending upon what you want the response to be, you can either open your arms to say, “I’m not intimidated by you, but I’m open to you,” or cross your arms to say, “That’s not going to happen. No way, no how.” Decide which response suits your purpose best and stick to your guns. Only by presenting yourself in a confident manner will you discourage further attacks. [CITE source=Tonya Reiman, The Power of Body Language, 2007]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 6612,
+          "content": {
+            "text": "**1.1b Is She/He Trying to Strong-Arm Me? **\n\n​\n\nHigh school isn’t the only place for bullies these days. A recent book, _The Corporation: The Pathological Pursuit of Profit and Power_, created a media firestorm with its claim that the modern-day corporation allows abusive people to thrive because of a rampant ends-justifythe-means philosophy. In an economic downturn, strong-arming and manipulation often take the place of effective management. \n\n​\n\nSometimes bullies can be extremely subtle in their efforts to control you. The content of their words might be beyond reproach, but encounters with them somehow leave you with a sinking sensation in your stomach and doubt about your job security. Here are some of the signs that someone might be trying to strong-arm you: invading your personal space, tilting their head down at you, folding their arms, smiling expressionlessly, rolling their eyes, and smirking at your discomfort.\n\n​\n\nWhat to do in response: Bullies love a victim. Refuse to give in. You want to send the message, “I am not intimidated by you.” When a bully – or anyone – moves into your personal space, do not move. As a matter of fact, you might even lean toward that person to demonstrate that they will not be permitted to invade your personal space. If they smile at you, smile right back; maintain eye contact. Depending upon what you want the response to be, you can either open your arms to say, “I’m not intimidated by you, but I’m open to you,” or cross your arms to say, “That’s not going to happen. No way, no how.” Decide which response suits your purpose best and stick to your guns. Only by presenting yourself in a confident manner will you discourage further attacks. [CITE source=Tonya Reiman, The Power of Body Language, 2007]\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:13:01.359616",
+          "max_score": null,
+          "groupping": null,
+          "id": 152293,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "bef3e124-715b-4718-b5d0-d1a67ac97906",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2017-06-16T11:20:50.249592"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Inside the Mind of a Video Game Champ**\n\nIf there is one general rule about the limitations of the human mind, it is that brains are terrible at multitasking. When devoted [GAP id=76] a single task, the brain excels; when several goals splinter [GAP id=77] focus, errors become unavoidable.\n\n​\n\nStill, clear [GAP id=78] challenge that general rule. [GAP id=79] chess has held the exalted position of the Drosophila of cognitive science – the model organism that scientists could poke and prod to learn what makes experts better than [GAP id=80]. StarCraft 2, one [GAP id=81] hottest computer games, might be overtaking chess; its added complexity may confound researchers initially, but the answers could ultimately be more telling. In this real-time strategy game, players exert a godlike role over a cluster of creatures, [GAP id=82] them to develop their economy and prepare for skirmishes with a neighboring society. The winner is often the person who can make the most moves, as many as six actions [GAP id=83].\n\n​\n\n“I can’t think of a cognitive process that’s [GAP id=84] StarCraft,” says Mark Blair, a cognitive scientist at Simon Fraser University. “It’s working memory. And it’s both decision making and precise motor skills. Everything is important, and everything has to work together.”\n\n​\n\n[GAP id=85] gamers are now contributing to a project under Blair’s watch, [GAP id=86] SkillCraft, to learn what separates experts from novices when it comes to attention, multitasking and learning. [GAP id=87] the techniques and attributes of low-level players with [GAP id=88] of other gamers up the chain of ability, the researchers can start to discern how skills develop – and perhaps, [GAP id=89], identify the most efficient training regimen. In a highstress crisis situation, the mental task of keeping cool and distributing attention among [GAP id=90] urgent activities might closely resemble the core challenge of StarCraft 2. [CITE source=Scientific American, February 2012]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 6612,
+          "content": {
+            "text": "**Inside the Mind of a Video Game Champ**\n\nIf there is one general rule about the limitations of the human mind, it is that brains are terrible at multitasking. When devoted [GAP id=76] a single task, the brain excels; when several goals splinter [GAP id=77] focus, errors become unavoidable.\n\n​\n\nStill, clear [GAP id=78] challenge that general rule. [GAP id=79] chess has held the exalted position of the Drosophila of cognitive science – the model organism that scientists could poke and prod to learn what makes experts better than [GAP id=80]. StarCraft 2, one [GAP id=81] hottest computer games, might be overtaking chess; its added complexity may confound researchers initially, but the answers could ultimately be more telling. In this real-time strategy game, players exert a godlike role over a cluster of creatures, [GAP id=82] them to develop their economy and prepare for skirmishes with a neighboring society. The winner is often the person who can make the most moves, as many as six actions [GAP id=83].\n\n​\n\n“I can’t think of a cognitive process that’s [GAP id=84] StarCraft,” says Mark Blair, a cognitive scientist at Simon Fraser University. “It’s working memory. And it’s both decision making and precise motor skills. Everything is important, and everything has to work together.”\n\n​\n\n[GAP id=85] gamers are now contributing to a project under Blair’s watch, [GAP id=86] SkillCraft, to learn what separates experts from novices when it comes to attention, multitasking and learning. [GAP id=87] the techniques and attributes of low-level players with [GAP id=88] of other gamers up the chain of ability, the researchers can start to discern how skills develop – and perhaps, [GAP id=89], identify the most efficient training regimen. In a highstress crisis situation, the mental task of keeping cool and distributing attention among [GAP id=90] urgent activities might closely resemble the core challenge of StarCraft 2. [CITE source=Scientific American, February 2012]\n"
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:13:01.304116",
+          "max_score": null,
+          "groupping": null,
+          "id": 150451,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 76,
+              "hint": "prepositio",
+              "choices": [],
+              "correct": "to",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 77,
+              "hint": "pronomini",
+              "choices": [],
+              "correct": "its|our|one's",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 78,
+              "hint": "poikkeukset",
+              "choices": [],
+              "correct": "exceptions",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 79,
+              "hint": "Vuosikymmeniä",
+              "choices": [],
+              "correct": "For decades",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 80,
+              "hint": "me muut",
+              "choices": [],
+              "correct": "the rest of us",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 81,
+              "hint": "maailman",
+              "choices": [],
+              "correct": "of the world's",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 82,
+              "hint": "lead",
+              "choices": [],
+              "correct": "leading",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 83,
+              "hint": "sekunnissa",
+              "choices": [],
+              "correct": "a second|per second",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 84,
+              "hint": "ei sisälly",
+              "choices": [],
+              "correct": "not included in|not incorporated in",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 85,
+              "hint": "Tuhannet",
+              "choices": [],
+              "correct": "Thousands of",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 86,
+              "hint": "call",
+              "choices": [],
+              "correct": "called",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 87,
+              "hint": "Vertaamalla",
+              "choices": [],
+              "correct": "By comparing|By contrasting",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 88,
+              "hint": "pronomini",
+              "choices": [],
+              "correct": "those",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 89,
+              "hint": "pitkällä aikavälillä",
+              "choices": [],
+              "correct": "over the long run|in the long run|over a period of time",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 90,
+              "hint": "yhtä",
+              "choices": [],
+              "correct": "equally|similarly",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "beadff52-8015-4a63-a012-637cf9280f09",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-06-16T11:08:59.571666"
+        }
+      ],
+      "name": "Englanti pitkä oppimäärä syksy 2013",
+      "settings": {},
+      "exam_type": "yo-koe",
+      "classification": {
+        "category": "written",
+        "hide_review_buttons": null,
+        "exam_type": "yo-koe",
+        "year": "2013",
+        "language": "fi-FI",
+        "show_exam_series": null,
+        "force_yletunnus": false,
+        "subject": "englanti-pitkä",
+        "published": true,
+        "semester": "fall"
+      },
+      "published_at": "2017-06-16T10:54:51.285Z",
+      "language": "fi-FI",
+      "id": 6612,
+      "reviews": [],
+      "is_open": true,
+      "uuid": "6df53d4e-fed3-48e8-8fe4-6c7f8358381d"
+    }
+  ]
+}

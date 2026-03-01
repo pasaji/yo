@@ -1,0 +1,1627 @@
+{
+  "meta": {
+    "count": 1
+  },
+  "data": [
+    {
+      "tags": [
+        ""
+      ],
+      "main_text": "Koe koostuu 13 tehtävästä, joista vastataan kymmeneen. Tehtävät on jaettu kolmeen osaan. A-osassa on neljä kaikille pakollista tehtävää. B1-osassa on viisi tehtävää, joista vastataan kolmeen. B2-osassa on neljä tehtävää, joista vastataan kolmeen. Kaikki tehtävät arvostellaan pistein 0–12, joten kokeen maksimipistemäärä on 120.\n\n&NewLine;\n\nA-osassa saat käyttää taulukkokirjaa ja koejärjestelmän tarjoamia perusohjelmia. A-osa palautetaan tehtävän 4 jälkeen olevalla painikkeella. Tämän jälkeen A-osan vastauksia ei voi enää muokata. A-osan palauttamisen jälkeen kaikki koejärjestelmän ohjelmat ovat käytettävissäsi. Lisäksi saat käyttöön oman laskimesi. Voit vastata B-osien tehtäviin myös ennen A-osan palauttamista.\n\n&NewLine;\n\nUseimmissa tehtävissä kaikkien osatehtävien vastaukset kirjoitetaan samaan vastauskenttään. Jaottele vastauksesi osatehtävien mukaisesti. Halutessasi voit tuottaa vastausten tueksi piirroksia, kaavioita tai taulukoita ja liittää niistä kuvakaappauksen mihin tahansa tekstivastaukseen.\n\n&NewLine;\n\nÄlä jätä mitään merkintöjä sellaisen tehtävän vastaukselle varattuun tilaan, jota et halua jättää arvosteltavaksi. Huom.! Tehtävässä 10 on erillinen ohje vastaamatta jättämisestä.\n",
+      "characters": null,
+      "deleted_at": null,
+      "series_uuids": [],
+      "questions": [
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mikä seuraavista vaihtoehdoista pätee yhtälöön 2 ( x − 1 ) = 3 x − ( x + 1 )? 3 p.\n\n​\n\n[SELECT id=3]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 87016,
+          "content": {
+            "text": "Mikä seuraavista vaihtoehdoista pätee yhtälöön 2 ( x − 1 ) = 3 x − ( x + 1 )? 3 p.\n\n​\n\n[SELECT id=3]\n",
+            "displayNumber": "1.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "3"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-12-22T10:09:39.860267",
+          "max_score": 3,
+          "groupping": null,
+          "id": 2851943,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 3,
+              "parent": "c5c3bad6-b048-445f-ab93-e8f3ea6b7552",
+              "choices": [
+                {
+                  "id": "5a9f384e-ad49-4416-ac82-6ed62118a839",
+                  "text": "Yhtälölle on täsmälleen yksi ratkaisu."
+                },
+                {
+                  "id": "443126bf-f9bf-4b24-ae37-aeff27a1e675",
+                  "text": "Yhtälöllä ei ole ratkaisuja.",
+                  "correct": true
+                },
+                {
+                  "id": "7ac57b79-7c03-4fcd-9176-a3edeb3d0997",
+                  "text": "Jokainen reaaliluku totetuttaa yhtälön."
+                },
+                {
+                  "id": "d6c91ef8-7dc2-427a-a8c7-50b1c4f277be",
+                  "text": "Ei mikään edellisistä. "
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "c5c3bad6-b048-445f-ab93-e8f3ea6b7552",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2020-12-01T11:11:36.451259"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "(e) Jos funktiolla f on raja-arvo kohdassa a, niin se on derivoituva kohdassa a.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 87016,
+          "content": {
+            "text": "(e) Jos funktiolla f on raja-arvo kohdassa a, niin se on derivoituva kohdassa a.\n"
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-12-22T10:09:39.804695",
+          "max_score": 1,
+          "groupping": null,
+          "id": 2859886,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 13,
+              "text": "Pätee.",
+              "parent": "4f8f81a8-37a6-412c-b4d5-e7cdb3181d5c",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 14,
+              "text": "Ei päde.",
+              "parent": "4f8f81a8-37a6-412c-b4d5-e7cdb3181d5c",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 15,
+              "text": "En vastaa.",
+              "parent": "4f8f81a8-37a6-412c-b4d5-e7cdb3181d5c",
+              "choices": []
+            }
+          ],
+          "uuid": "4f8f81a8-37a6-412c-b4d5-e7cdb3181d5c",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2020-12-01T12:56:43.694663"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Pinta-ala-algoritmi 12 p.**\n\n&NewLine;\n\nTason monikulmio voidaan esittää järjestettynä listana [ ( x [SUB text=1] , y [SUB text=1] ) , … , ( x[SUB text= n] , y [SUB text=n] ) ] kärkipisteitä niin, että monikulmion reuna saadaan yhdistämällä peräkkäiset kärkipisteet sekä ensimmäinen ja viimeinen kärkipiste janoilla. Oletetaan, että monikulmion reuna ei leikkaa itseään. Käytössä on menetelmä, joka laskee annetun kolmion pinta-alan, ja se halutaan yleistää monikulmioille.\n\n&NewLine;\n\n1.Piirrä tarkka kuva monikulmiosta, joka vastaa listaa [ ( 2 , 2 ) , ( 3 , − 1 ) , ( 5 , 2 ) , ( 7 , 3 ) , ( 4 , 6 ) ]. (2 p.)\n\n&NewLine;\n\n2.Terje ehdottaa seuraavaa algoritmia monikulmion pinta-alan määrittämiseksi:\n\ni. Valitaan satunnainen kärkipiste.\n\nii. Piirretään siitä janat kaikkiin muihin kärkiin, jolloin muodostuu joukko kolmioita.\n\niii. Lasketaan näiden kolmioiden pinta-alat yhteen.\n\nAnna esimerkki monikulmiosta, jolle algoritmi antaa väärän pinta-alan ja toinen esimerkki sellaisesta monikulmioista, jonka pinta-alan algoritmi antaa oikein. (5 p.)\n\n&NewLine;\n\n3.Aale ehdottaa seuraavaa toimintaohjetta monikulmion pinta-alan määrittämiseksi:\n\ni. Jaetaan monikulmio kolmioihin yhdistämällä sopivasti kärkipisteitä.\n\nii. Lasketaan yhteen näiden kolmioiden pinta-alat.\n\nMitä puutteita Aalen ehdotuksessa on, eli miksi tämä ei ole algoritmi? (5 p.)\n",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/1sHwDOAy0PQ3kchBxI5TOEJxIEUe-60tP/view|text=Katso oikea vastaus hyvän vastauksen piirteistä]\n",
+          "exam_id": 87016,
+          "content": {
+            "text": "**Pinta-ala-algoritmi 12 p.**\n\n&NewLine;\n\nTason monikulmio voidaan esittää järjestettynä listana [ ( x [SUB text=1] , y [SUB text=1] ) , … , ( x[SUB text= n] , y [SUB text=n] ) ] kärkipisteitä niin, että monikulmion reuna saadaan yhdistämällä peräkkäiset kärkipisteet sekä ensimmäinen ja viimeinen kärkipiste janoilla. Oletetaan, että monikulmion reuna ei leikkaa itseään. Käytössä on menetelmä, joka laskee annetun kolmion pinta-alan, ja se halutaan yleistää monikulmioille.\n\n&NewLine;\n\n1.Piirrä tarkka kuva monikulmiosta, joka vastaa listaa [ ( 2 , 2 ) , ( 3 , − 1 ) , ( 5 , 2 ) , ( 7 , 3 ) , ( 4 , 6 ) ]. (2 p.)\n\n&NewLine;\n\n2.Terje ehdottaa seuraavaa algoritmia monikulmion pinta-alan määrittämiseksi:\n\ni. Valitaan satunnainen kärkipiste.\n\nii. Piirretään siitä janat kaikkiin muihin kärkiin, jolloin muodostuu joukko kolmioita.\n\niii. Lasketaan näiden kolmioiden pinta-alat yhteen.\n\nAnna esimerkki monikulmiosta, jolle algoritmi antaa väärän pinta-alan ja toinen esimerkki sellaisesta monikulmioista, jonka pinta-alan algoritmi antaa oikein. (5 p.)\n\n&NewLine;\n\n3.Aale ehdottaa seuraavaa toimintaohjetta monikulmion pinta-alan määrittämiseksi:\n\ni. Jaetaan monikulmio kolmioihin yhdistämällä sopivasti kärkipisteitä.\n\nii. Lasketaan yhteen näiden kolmioiden pinta-alat.\n\nMitä puutteita Aalen ehdotuksessa on, eli miksi tämä ei ole algoritmi? (5 p.)\n",
+            "displayNumber": "13."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-12-22T10:09:39.783378",
+          "max_score": null,
+          "groupping": null,
+          "id": 2860684,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "857f93be-11bf-4a75-82f7-2b5bfc3966bc",
+          "order_number": 16,
+          "multipart": true,
+          "created_at": "2020-12-01T13:11:12.403788"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Kaarevuus 12 p.**\n\n&NewLine;\n\nAineisto\n\n12.A [LINK url=http://yle.fi/plus/abitreenit/2020/syksy/2020-09-22\\_M\\_fi/attachments/index.html#12.%20A|text=Kuva: Kaarevuus]\n\n&NewLine;\n\nKaikki ympyrän normaalit leikkaavat toisensa samassa pisteessä, joka on ympyrän keskipiste. Tätä havaintoa voidaan käyttää muidenkin käyrien _kaarevuussäteiden_ tutkimiseen seuraavalla tavalla, jossa esimerkkinä käytetään paraabelia y = x [SUP text=2] ja sen pistettä P. Tavoitteena on löytää pisteen P kautta kulkevan normaalin ja paraabelin muiden normaalien avulla keskipiste sellaiselle ympyrälle, joka sivuaa paraabelia mahdollisimman tarkasti pisteessä P. Tämä keskipiste on paraabelin kaarevuuskeskipiste (pisteen P suhteen) ja sen etäisyys pisteestä P on paraabelin kaarevuussäde (pisteessä P).\n\n&NewLine;\n\n1.Paraabelin [MATH text=y=x^2] pisteeseen ( 0 , 0 ) asetettu normaalisuora Y yhtyy y-akseliin. Missä pisteessä [MATH text=K(t)=(0{,}k(t))] paraabelin pisteeseen [MATH text=T(t)=(t{,}t^2)] asetettu normaali leikkaa suoran Y, kun t ≠ 0? Katso kuva 12. A. (4 p.)\n\n&NewLine;\n\n2.Kun parametri t lähestyy nollaa, niin piste T ( t ) lähestyy origoa ( 0 , 0 ). Samalla piste K ( t ) lähestyy erästä pistettä K ( 0 ), jonka etäisyyttä origosta kutsutaan paraabelin kaarevuussäteeksi origossa. Mikä on tämä kaarevuussäde? (2 p.)\n\n&NewLine;\n\n3.Määritä vastaavaa menetelmää käyttämällä paraabelin [MATH text=y=x^2] kaarevuussäde pisteessä ( 1 , 1 ). (6 p.)\n",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/1sHwDOAy0PQ3kchBxI5TOEJxIEUe-60tP/view|text=Katso oikea vastaus hyvän vastauksen piirteistä]\n",
+          "exam_id": 87016,
+          "content": {
+            "text": "**Kaarevuus 12 p.**\n\n&NewLine;\n\nAineisto\n\n12.A [LINK url=http://yle.fi/plus/abitreenit/2020/syksy/2020-09-22\\_M\\_fi/attachments/index.html#12.%20A|text=Kuva: Kaarevuus]\n\n&NewLine;\n\nKaikki ympyrän normaalit leikkaavat toisensa samassa pisteessä, joka on ympyrän keskipiste. Tätä havaintoa voidaan käyttää muidenkin käyrien _kaarevuussäteiden_ tutkimiseen seuraavalla tavalla, jossa esimerkkinä käytetään paraabelia y = x [SUP text=2] ja sen pistettä P. Tavoitteena on löytää pisteen P kautta kulkevan normaalin ja paraabelin muiden normaalien avulla keskipiste sellaiselle ympyrälle, joka sivuaa paraabelia mahdollisimman tarkasti pisteessä P. Tämä keskipiste on paraabelin kaarevuuskeskipiste (pisteen P suhteen) ja sen etäisyys pisteestä P on paraabelin kaarevuussäde (pisteessä P).\n\n&NewLine;\n\n1.Paraabelin [MATH text=y=x^2] pisteeseen ( 0 , 0 ) asetettu normaalisuora Y yhtyy y-akseliin. Missä pisteessä [MATH text=K(t)=(0{,}k(t))] paraabelin pisteeseen [MATH text=T(t)=(t{,}t^2)] asetettu normaali leikkaa suoran Y, kun t ≠ 0? Katso kuva 12. A. (4 p.)\n\n&NewLine;\n\n2.Kun parametri t lähestyy nollaa, niin piste T ( t ) lähestyy origoa ( 0 , 0 ). Samalla piste K ( t ) lähestyy erästä pistettä K ( 0 ), jonka etäisyyttä origosta kutsutaan paraabelin kaarevuussäteeksi origossa. Mikä on tämä kaarevuussäde? (2 p.)\n\n&NewLine;\n\n3.Määritä vastaavaa menetelmää käyttämällä paraabelin [MATH text=y=x^2] kaarevuussäde pisteessä ( 1 , 1 ). (6 p.)\n",
+            "displayNumber": "12."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-12-22T10:09:39.779383",
+          "max_score": null,
+          "groupping": null,
+          "id": 2860387,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "340a063d-81e7-427e-868a-16eb001efe9c",
+          "order_number": 15,
+          "multipart": true,
+          "created_at": "2020-12-01T13:04:55.216284"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "** Koripalloilijan vapaaheitot 12 p.**\n\n&NewLine;\n\nPitkäaikaisten tilastojen perusteella erään koripalloilijan todennäköisyys heittää pallo vapaaheitolla koriin on p ( 0 ≤ p ≤ 1 ) . Rautahermoisena pelaajana hänen heittojensa onnistumistodennäköisyydet ovat riippumattomia aikaisempien heittojen tuloksista ja pelitilanteesta.\n\n&NewLine;\n\nEräässä ottelussa kyseinen pelaaja saa kaksi vapaaheittoa, jotka on heitettävä peräkkäin. Merkitään\n\n&NewLine;\n\nP ( 0 ) = todennäköisyys sille, että pelaaja ei saa yhtään heittoa koriin\n\nP ( 1 ) = todennäköisyys sille, että pelaaja saa täsmälleen yhden heiton koriin\n\nP ( 2 ) = todennäköisyys sille, että pelaaja saa kaksi heittoa koriin.\n\n&NewLine;\n\nLaske P ( 2 ), kun p = 0 , 82. (3 p.)\n\nMääritä P ( 2 ), P ( 1 ) ja P ( 0 ) todennäköisyyden p avulla lausuttuina. (6 p.)\n\nMillä todennäköisyyden p arvoilla on P ( 1 ) = P ( 2 )? (3 p.)\n",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/1sHwDOAy0PQ3kchBxI5TOEJxIEUe-60tP/view|text=Katso oikea vastaus hyvän vastauksen piirteistä]\n",
+          "exam_id": 87016,
+          "content": {
+            "text": "** Koripalloilijan vapaaheitot 12 p.**\n\n&NewLine;\n\nPitkäaikaisten tilastojen perusteella erään koripalloilijan todennäköisyys heittää pallo vapaaheitolla koriin on p ( 0 ≤ p ≤ 1 ) . Rautahermoisena pelaajana hänen heittojensa onnistumistodennäköisyydet ovat riippumattomia aikaisempien heittojen tuloksista ja pelitilanteesta.\n\n&NewLine;\n\nEräässä ottelussa kyseinen pelaaja saa kaksi vapaaheittoa, jotka on heitettävä peräkkäin. Merkitään\n\n&NewLine;\n\nP ( 0 ) = todennäköisyys sille, että pelaaja ei saa yhtään heittoa koriin\n\nP ( 1 ) = todennäköisyys sille, että pelaaja saa täsmälleen yhden heiton koriin\n\nP ( 2 ) = todennäköisyys sille, että pelaaja saa kaksi heittoa koriin.\n\n&NewLine;\n\nLaske P ( 2 ), kun p = 0 , 82. (3 p.)\n\nMääritä P ( 2 ), P ( 1 ) ja P ( 0 ) todennäköisyyden p avulla lausuttuina. (6 p.)\n\nMillä todennäköisyyden p arvoilla on P ( 1 ) = P ( 2 )? (3 p.)\n",
+            "displayNumber": "7."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-12-22T10:09:39.776033",
+          "max_score": null,
+          "groupping": null,
+          "id": 2856910,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "d83d0d22-eec3-4e35-8617-80915460e887",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2020-12-01T12:36:08.287704"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Määritä sellainen luku b, että piste ( − 7 , b ) on suoralla 6 x + 4 y = 2. 3 p.\n\n​\n\nb = [SELECT id=5]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 87016,
+          "content": {
+            "text": "Määritä sellainen luku b, että piste ( − 7 , b ) on suoralla 6 x + 4 y = 2. 3 p.\n\n​\n\nb = [SELECT id=5]\n",
+            "displayNumber": "1.4."
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-12-22T10:09:39.77066",
+          "max_score": 1,
+          "groupping": null,
+          "id": 2852065,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 5,
+              "parent": "d8e5b9bd-7e8b-4711-a191-ba16891bb403",
+              "choices": [
+                {
+                  "id": "620c06f1-2609-4f6f-9914-c066976c7e17",
+                  "text": "−12"
+                },
+                {
+                  "id": "ac752a95-889d-4006-8a1f-30cb5562e0d9",
+                  "text": "−11"
+                },
+                {
+                  "id": "c2c07940-04be-4af2-8df5-7d57aea1604b",
+                  "text": "−10"
+                },
+                {
+                  "id": "dc693df2-df70-4ed9-8846-9b6751eb8400",
+                  "text": "−9"
+                },
+                {
+                  "id": "32da9367-eb85-432b-b46a-f36efd5b0b5d",
+                  "text": "−8"
+                },
+                {
+                  "id": "d320f525-e104-4a63-89ab-4c786197132b",
+                  "text": "−7"
+                },
+                {
+                  "id": "6e9113eb-3117-45e1-8523-79fd8a7a12ad",
+                  "text": "−6"
+                },
+                {
+                  "id": "3c85b00e-e5c8-4772-8acf-593859fb60c7",
+                  "text": "−5"
+                },
+                {
+                  "id": "8e08c4a2-9b4a-42d0-b369-e92c47647f08",
+                  "text": "−4"
+                },
+                {
+                  "id": "3090a841-4ee6-4e1b-b308-207e1902b975",
+                  "text": "−3"
+                },
+                {
+                  "id": "c21f13c9-753e-4f95-8d57-99a4120c3ce5",
+                  "text": "−2"
+                },
+                {
+                  "id": "b9aa5726-f2f1-4f59-be4c-c2851b7e79e1",
+                  "text": "−1"
+                },
+                {
+                  "id": "9935c231-9151-4afd-8a21-9a978719983b",
+                  "text": "0"
+                },
+                {
+                  "id": "97341e89-52ba-471c-acce-ed2321c4f312",
+                  "text": "1"
+                },
+                {
+                  "id": "0ba27ee5-490a-469b-afee-8be6d7aaf954",
+                  "text": "2"
+                },
+                {
+                  "id": "460138e4-da5a-4d4f-a9a1-28b830cf4e95",
+                  "text": "3"
+                },
+                {
+                  "id": "6637d936-1eb3-4ced-a194-a6499f733757",
+                  "text": "4"
+                },
+                {
+                  "id": "3d131db8-cc05-404c-bd80-0e01f035b821",
+                  "text": "5"
+                },
+                {
+                  "id": "cd57402d-7977-413c-8302-612cfd107113",
+                  "text": "6"
+                },
+                {
+                  "id": "f53ad49a-9656-4f1e-a87e-dfa937bdc7e1",
+                  "text": "7"
+                },
+                {
+                  "id": "8653728c-9e7a-4caf-b9a8-be18655d0867",
+                  "text": "8"
+                },
+                {
+                  "id": "0f422208-5a8f-4fe0-886b-c7e6e7ff3922",
+                  "text": "9"
+                },
+                {
+                  "id": "b25463bb-f9ab-40ee-bffb-545c705f3388",
+                  "text": "10"
+                },
+                {
+                  "id": "1a53fc5b-d0ad-44c3-8105-c8e2e578109d",
+                  "text": "11",
+                  "correct": true
+                },
+                {
+                  "id": "b944f6bb-a52b-44a5-9980-8e179e307824",
+                  "text": "12"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "d8e5b9bd-7e8b-4711-a191-ba16891bb403",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2020-12-01T11:14:21.674156"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Vesijohto 12 p.**\n\n&NewLine;\n\nKolmiulotteinen koordinaatisto on valittu niin, että maanpinta on x y-tasossa ja pituusyksikkönä on metri. Maan alla oleva vesijohto kulkee pisteestä ( 0 , 0 , − 2 ) vektorin 3 i ¯ + 4 j ¯ suuntaan yhteensä 3 metriä. Sen jälkeen vesijohto täytyy liittää yhdysputken avulla runkoputkeen, joka kulkee pisteen ( 4 , 4 , − 3 ) kautta vektorin − 2 i ¯ + 3 j ¯ suuntaan. Kuinka pitkä yhdysputken on vähintään oltava, jotta se riittää yhdistämään tämän vesijohdon runkoputkeen?\n",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/1sHwDOAy0PQ3kchBxI5TOEJxIEUe-60tP/view|text=Katso oikea vastaus hyvän vastauksen piirteistä]\n",
+          "exam_id": 87016,
+          "content": {
+            "text": "**Vesijohto 12 p.**\n\n&NewLine;\n\nKolmiulotteinen koordinaatisto on valittu niin, että maanpinta on x y-tasossa ja pituusyksikkönä on metri. Maan alla oleva vesijohto kulkee pisteestä ( 0 , 0 , − 2 ) vektorin 3 i ¯ + 4 j ¯ suuntaan yhteensä 3 metriä. Sen jälkeen vesijohto täytyy liittää yhdysputken avulla runkoputkeen, joka kulkee pisteen ( 4 , 4 , − 3 ) kautta vektorin − 2 i ¯ + 3 j ¯ suuntaan. Kuinka pitkä yhdysputken on vähintään oltava, jotta se riittää yhdistämään tämän vesijohdon runkoputkeen?\n",
+            "displayNumber": "6."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-12-22T10:09:39.76247",
+          "max_score": null,
+          "groupping": null,
+          "id": 2856871,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "86a98fb1-c127-4eb9-b838-4cbb6cc211e3",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2020-12-01T12:35:13.643521"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Millä vakion a arvolla yhtälö ( x + a ) ( x − a ) = x [SUP text=2] − 81 on tosi kaikilla reaaliluvuilla x? 3 p.\n\n​\n\na = [SELECT id=2]\n\n​\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 87016,
+          "content": {
+            "text": "Millä vakion a arvolla yhtälö ( x + a ) ( x − a ) = x [SUP text=2] − 81 on tosi kaikilla reaaliluvuilla x? 3 p.\n\n​\n\na = [SELECT id=2]\n\n​\n",
+            "displayNumber": "1.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "3"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-12-22T10:09:39.759314",
+          "max_score": 3,
+          "groupping": null,
+          "id": 2851930,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 2,
+              "parent": "3884ad93-86d1-47df-9a08-632ebe035460",
+              "choices": [
+                {
+                  "id": "b5e31576-0d69-4402-ac58-fa3ae3be18ba",
+                  "text": "0"
+                },
+                {
+                  "id": "e439933e-f3ee-4ef4-ae63-c3560ab99c5f",
+                  "text": "1"
+                },
+                {
+                  "id": "9981a64d-3e57-4600-bf17-a89cd4c63be5",
+                  "text": "2"
+                },
+                {
+                  "id": "6d50ca31-545d-46cf-bcd2-3ac332c51aca",
+                  "text": "3"
+                },
+                {
+                  "id": "42aeb36f-e3c6-4d66-838d-612ff54b0caa",
+                  "text": "4"
+                },
+                {
+                  "id": "9fce883e-7f57-4370-9ef5-df7143eded81",
+                  "text": "5"
+                },
+                {
+                  "id": "4637575c-0874-4997-b877-3c10b3be0f43",
+                  "text": "6"
+                },
+                {
+                  "id": "825b2922-6882-4949-98fc-6e2c2c82be35",
+                  "text": "7"
+                },
+                {
+                  "id": "43257157-c963-4760-beaf-d1efe36b009e",
+                  "text": "8"
+                },
+                {
+                  "id": "bfc4c2cd-8ae7-4f6d-bbff-a4bef69744c1",
+                  "text": "9",
+                  "correct": true
+                },
+                {
+                  "id": "f0d5f0e9-fcd8-4d1c-b5f1-3d5c37219c19",
+                  "text": "10"
+                },
+                {
+                  "id": "27e4746b-c6d8-4fad-a0b7-059ca9978634",
+                  "text": "11"
+                },
+                {
+                  "id": "35fda688-bc1f-4f63-8cdc-38e881d116c9",
+                  "text": "12"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "3884ad93-86d1-47df-9a08-632ebe035460",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2020-12-01T11:10:36.99714"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Käyrän tangentteja 12 p.**\n\n&NewLine;\n\nKäyrällä\n\ny = x [SUP text=3] − 5 x [SUP text=2] +2 x + 8 = ( x − 4 ) ( x − 2 ) ( x + 1 )\n\n&NewLine;\n\non kaksi tangenttia, jotka kulkevat pisteen ( 2 , 0 ) kautta. Määritä niiden yhtälöt.\n\n&NewLine;\n\nVihje: Käyrän tangentti pisteessä ( 2 , 0 ) antaa toisen kysytyistä yhtälöistä.\n",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/1sHwDOAy0PQ3kchBxI5TOEJxIEUe-60tP/view|text=Katso oikea vastaus hyvän vastauksen piirteistä]\n",
+          "exam_id": 87016,
+          "content": {
+            "text": "**Käyrän tangentteja 12 p.**\n\n&NewLine;\n\nKäyrällä\n\ny = x [SUP text=3] − 5 x [SUP text=2] +2 x + 8 = ( x − 4 ) ( x − 2 ) ( x + 1 )\n\n&NewLine;\n\non kaksi tangenttia, jotka kulkevat pisteen ( 2 , 0 ) kautta. Määritä niiden yhtälöt.\n\n&NewLine;\n\nVihje: Käyrän tangentti pisteessä ( 2 , 0 ) antaa toisen kysytyistä yhtälöistä.\n",
+            "displayNumber": "4."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-12-22T10:09:39.755471",
+          "max_score": null,
+          "groupping": null,
+          "id": 2856566,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "f5a57de0-00fe-44c1-bee5-66971ac9b85c",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2020-12-01T12:26:28.636643"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Derivoi lauseke x [SUP text=3] − 2 x [SUP text=2]. 2 p.\n\n&NewLine;\n\nVastaus: [GAP id=8]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 87016,
+          "content": {
+            "text": "Derivoi lauseke x [SUP text=3] − 2 x [SUP text=2]. 2 p.\n\n&NewLine;\n\nVastaus: [GAP id=8]\n",
+            "displayNumber": "2.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-12-22T10:09:39.75254",
+          "max_score": 1,
+          "groupping": null,
+          "id": 2852275,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 8,
+              "parent": "88f3a0d5-7775-4e1d-afa2-6374eccae0ec",
+              "choices": [],
+              "correct": "3x^2−4x | 3x^2-4x",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "88f3a0d5-7775-4e1d-afa2-6374eccae0ec",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2020-12-01T11:18:25.013911"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Käyrien rajoittamat alueet 12 p.**\n\n​\n\nEpäyhtälöt\n\n​\n\n[MATH text=x\\ge1\\ ja\\ \\frac{1}{x^{n+1}}\\le y\\le\\frac{1}{x^n}]\n\n​\n\nmäärittävät tasoalueen, jonka pinta-alaa merkitään symbolilla A [SUB text=n]. Tässä n ≥ 2 on kokonaisluku.\n\n​\n\nKirjoita lauseke pinta-alalle A[SUB text= 2] ja laske sen arvo käyttämättä osatehtävässä 2 annettua kaavaa. (4 p.)\n\nOsoita välivaiheineen, että pinta-alan A [SUB text=n ] yleinen lauseke on muotoa\n\n​\n\n[MATH text=A\\_n=\\frac{1}{n^2−n}],\n\n​\n\nkun n ≥ 2. (8 p.)\n",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/1sHwDOAy0PQ3kchBxI5TOEJxIEUe-60tP/view|text=Katso oikea vastaus hyvän vastauksen piirteistä]\n\n",
+          "exam_id": 87016,
+          "content": {
+            "text": "**Käyrien rajoittamat alueet 12 p.**\n\n​\n\nEpäyhtälöt\n\n​\n\n[MATH text=x\\ge1\\ ja\\ \\frac{1}{x^{n+1}}\\le y\\le\\frac{1}{x^n}]\n\n​\n\nmäärittävät tasoalueen, jonka pinta-alaa merkitään symbolilla A [SUB text=n]. Tässä n ≥ 2 on kokonaisluku.\n\n​\n\nKirjoita lauseke pinta-alalle A[SUB text= 2] ja laske sen arvo käyttämättä osatehtävässä 2 annettua kaavaa. (4 p.)\n\nOsoita välivaiheineen, että pinta-alan A [SUB text=n ] yleinen lauseke on muotoa\n\n​\n\n[MATH text=A\\_n=\\frac{1}{n^2−n}],\n\n​\n\nkun n ≥ 2. (8 p.)\n",
+            "displayNumber": "8."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-12-22T10:09:39.76534",
+          "max_score": null,
+          "groupping": null,
+          "id": 2856951,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "cd9e2b99-6023-4312-aa34-898a6b2b42d3",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2020-12-01T12:36:49.749107"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Väitteitä 12 p.**\n\n&NewLine;\n\nJos olet aloittanut tehtävään vastaamisen, mutta et haluakaan jättää tehtävää arvosteltavaksi, merkitse jokaiseen osatehtävän 10.2. väittämään vaihtoehto \"En vastaa\" ja tyhjennä vastauskentät 10.1. ja 10.3.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 87016,
+          "content": {
+            "text": "**Väitteitä 12 p.**\n\n&NewLine;\n\nJos olet aloittanut tehtävään vastaamisen, mutta et haluakaan jättää tehtävää arvosteltavaksi, merkitse jokaiseen osatehtävän 10.2. väittämään vaihtoehto \"En vastaa\" ja tyhjennä vastauskentät 10.1. ja 10.3.\n",
+            "displayNumber": "10."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "3ecbb95e-f348-49b9-82da-eda2fb172677",
+            "22760964-0ea8-43e7-bb5f-f381f6efafa9",
+            "c8c4c4c7-ca34-4df6-9ace-66bfbf179da1",
+            "ebb9df2e-a75e-43fb-9ea0-863c6207276e",
+            "063e5ca5-4ef9-4406-a0a0-429901464bac",
+            "1f8dc0a7-1554-41a4-bbbd-e3f47485bc54",
+            "4f8f81a8-37a6-412c-b4d5-e7cdb3181d5c",
+            "a136ccd7-967a-470c-92b5-dc1aa38c41a4",
+            "c1771ccd-81cb-4884-99d1-9639a9d6e9df",
+            "b46ef96a-5f0f-4b1b-a030-b9547b9575f4"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-12-22T10:09:39.767954",
+          "max_score": null,
+          "groupping": null,
+          "id": 2857701,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "8cd38803-35db-4ef7-92b2-13b539120fde",
+          "order_number": 13,
+          "multipart": true,
+          "created_at": "2020-12-01T12:43:51.875532"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Kolmiot 12 p.**\n\n&NewLine;\n\nAineisto\n\n5.A [LINK url=https://yle.fi/plus/abitreenit/2020/syksy/2020-09-22\\_M\\_fi/attachments/index.html#5.%20A|text=Kuva: Kolmiot]\n\n&NewLine;\n\nSuorakulmaiset kolmiot A B C ja D E F leikkaavat toisiaan kuvan 5. A mukaisesti. Kolmioiden kateettien pituudet ovat A B = D F = 4 ja B C = E F = 3. Lisäksi janan B F pituus on 1. Määritä kolmioiden yhteisen osan pinta-ala.\n",
+          "deleted_at": null,
+          "feedback": "Kolmioiden yhteinen alue on viisikulmio, joka jakaantuu kahteen symmetriseen puolisuunnikkaaseen. \n\nPuolisuunnikkaan leveys on 1/2. \n\n(Yhdenmuotoisuuden perusteella) pidemmän pystysuoran sivun pituus h toteuttaa yhtälön h/(7/2) = 3/4, \n\njoten h = 21/8. \n\nVastaavasti lyhyemmän pystysuoran sivun pituus y toteuttaa yhtälön y/3 =(21/8)/(7/2), \n\njoten y = 9/4. \n\nPuolisuunnikkaan ala on [MATH text=\\frac{1}{2}(h+y)·\\frac{1}{2}=39/32{,}]\n\njoten kysytty ala on 2 · 39/32 = 39/16.\n\n​\n\n[LINK url=https://drive.google.com/file/d/1sHwDOAy0PQ3kchBxI5TOEJxIEUe-60tP/view|text=Katso kaikki ratkaisuvaihtoehdot hyvän vastauksen piirteistä]\n",
+          "exam_id": 87016,
+          "content": {
+            "text": "**Kolmiot 12 p.**\n\n&NewLine;\n\nAineisto\n\n5.A [LINK url=https://yle.fi/plus/abitreenit/2020/syksy/2020-09-22\\_M\\_fi/attachments/index.html#5.%20A|text=Kuva: Kolmiot]\n\n&NewLine;\n\nSuorakulmaiset kolmiot A B C ja D E F leikkaavat toisiaan kuvan 5. A mukaisesti. Kolmioiden kateettien pituudet ovat A B = D F = 4 ja B C = E F = 3. Lisäksi janan B F pituus on 1. Määritä kolmioiden yhteisen osan pinta-ala.\n",
+            "displayNumber": "5."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-12-22T10:09:39.773425",
+          "max_score": null,
+          "groupping": null,
+          "id": 2856665,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "7e2d2fa0-1ae0-4c72-9849-56518272a53a",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2020-12-01T12:31:28.88676"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Logistinen regressio 12 p.**\n\n​\n\nLogistinen regressio on malli, jota käytetään esimerkiksi tutkittaessa riskiä sairastua erilaisiin sairauksiin, kuten esimerkiksi sepelvaltimotautiin.\n\n​\n\nLogistisessa regressiossa y riippuu muuttujasta x yhtälön\n\n​\n\n[MATH text=\\ln\\frac{⁡y}{1−y}=a+bx]\n\n​\n\nmukaisesti. Vakiot a ja b valitaan mallinnettavan ilmiön mukaan.\n\n​\n\nRatkaise y logistisen regression yhtälöstä. (6 p.)\n\nOlkoon a = 2 ja b = − 1. Millä muuttujan x arvolla y saa arvon 0 , 5? (6 p.)\n",
+          "deleted_at": null,
+          "feedback": "Eksponenttifunktiota käyttämällä [MATH text=\\frac{y}{1−y}=e^{a+bx}],\n\njosta [MATH text=y=(1−y)e^{a+bx}],\n\njosta [MATH text=y(1+e^{a+bx})=e^{a+bx}]\n\nja edelleen [MATH text=y=\\frac{ea+bx}{1+e^{a+bx}}].\n\n​\n\n[LINK url=https://drive.google.com/file/d/1sHwDOAy0PQ3kchBxI5TOEJxIEUe-60tP/view|text=Katso oikea vastaus hyvän vastauksen piirteistä]\n",
+          "exam_id": 87016,
+          "content": {
+            "text": "**Logistinen regressio 12 p.**\n\n​\n\nLogistinen regressio on malli, jota käytetään esimerkiksi tutkittaessa riskiä sairastua erilaisiin sairauksiin, kuten esimerkiksi sepelvaltimotautiin.\n\n​\n\nLogistisessa regressiossa y riippuu muuttujasta x yhtälön\n\n​\n\n[MATH text=\\ln\\frac{⁡y}{1−y}=a+bx]\n\n​\n\nmukaisesti. Vakiot a ja b valitaan mallinnettavan ilmiön mukaan.\n\n​\n\nRatkaise y logistisen regression yhtälöstä. (6 p.)\n\nOlkoon a = 2 ja b = − 1. Millä muuttujan x arvolla y saa arvon 0 , 5? (6 p.)\n",
+            "displayNumber": "3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-12-22T10:09:39.787395",
+          "max_score": null,
+          "groupping": null,
+          "id": 2856115,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "3b995908-2df2-4f68-8fa4-d922f3201013",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2020-12-01T12:21:58.890623"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Trigonometriset yhtälöt 12 p.**\n\n​\n\nSeuraavia yhtälöitä tarkastellaan vain muuttujan arvoilla x ∈ [ 0 , π ].\n\n​\n\n1. Ratkaise yhtälö cos ⁡ x + sin ⁡ x = 0. (2 p.)\n\n2. Osoita, että yhtälöllä [MATH text=(\\cos⁡x)^2+\\cos⁡x\\sin⁡x+(\\sin⁡x)^2=0] ei ole ratkaisua. (4 p.)\n\n3. Selvitä perustellen yhtälön [MATH text=\\sum\\_{k=0}^n(\\cos⁡x)^{n−k}(\\sin⁡x)^k=0] kaikki ratkaisut, kun n = 3 , 4 , 5 , … (6 p.)\n",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/1sHwDOAy0PQ3kchBxI5TOEJxIEUe-60tP/view|text=Katso oikea vastaus hyvän vastauksen piirteistä]\n",
+          "exam_id": 87016,
+          "content": {
+            "text": "**Trigonometriset yhtälöt 12 p.**\n\n​\n\nSeuraavia yhtälöitä tarkastellaan vain muuttujan arvoilla x ∈ [ 0 , π ].\n\n​\n\n1. Ratkaise yhtälö cos ⁡ x + sin ⁡ x = 0. (2 p.)\n\n2. Osoita, että yhtälöllä [MATH text=(\\cos⁡x)^2+\\cos⁡x\\sin⁡x+(\\sin⁡x)^2=0] ei ole ratkaisua. (4 p.)\n\n3. Selvitä perustellen yhtälön [MATH text=\\sum\\_{k=0}^n(\\cos⁡x)^{n−k}(\\sin⁡x)^k=0] kaikki ratkaisut, kun n = 3 , 4 , 5 , … (6 p.)\n",
+            "displayNumber": "11."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-12-22T10:09:39.791275",
+          "max_score": null,
+          "groupping": null,
+          "id": 2860164,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "b8916a21-c61d-44af-b0dd-abafd17664b2",
+          "order_number": 14,
+          "multipart": true,
+          "created_at": "2020-12-01T13:00:02.278424"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Valitse väitteistä (a)–(g) kaksi väärää, ja osoita ne epätosiksi antamalla kummastakin esimerkkifunktio, joka todistaa väitteen vääräksi. Esimerkiksi riittää kummassakin kohdassa pelkkä funktion lauseke. 2 p.\n",
+          "deleted_at": null,
+          "feedback": "(a) Jatkuvuus ⇒ derivoituvuus tai (c) jatkuvuus ⇔ derivoituvuus:\n\nEsimerkiksi käy [MATH text=f(x)=\\sqrt{\\left|x\\right|}\\ tai\\ f(x)=|x|{,}\\ kun\\ x=0]. \n\n&NewLine;\n\n(d) Raja-arvo ⇒ jatkuvuus tai (e) Raja-arvo ⇒ derivoituvuus:\n\nEsimerkiksi käy f(x) = x kun x 6= 1, f(1) = −1, tarkasteltaessa pistettä x = 1.\n",
+          "exam_id": 87016,
+          "content": {
+            "text": "Valitse väitteistä (a)–(g) kaksi väärää, ja osoita ne epätosiksi antamalla kummastakin esimerkkifunktio, joka todistaa väitteen vääräksi. Esimerkiksi riittää kummassakin kohdassa pelkkä funktion lauseke. 2 p.\n",
+            "displayNumber": "10.3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-12-22T10:09:39.793778",
+          "max_score": null,
+          "groupping": null,
+          "id": 2859988,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "b46ef96a-5f0f-4b1b-a030-b9547b9575f4",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2020-12-01T12:57:26.680463"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "(f) Jos funktio f on jatkuva kohdassa a, niin sillä on raja-arvo kohdassa a.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 87016,
+          "content": {
+            "text": "(f) Jos funktio f on jatkuva kohdassa a, niin sillä on raja-arvo kohdassa a.\n"
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-12-22T10:09:39.796501",
+          "max_score": 1,
+          "groupping": null,
+          "id": 2859919,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 13,
+              "text": "Pätee.",
+              "parent": "a136ccd7-967a-470c-92b5-dc1aa38c41a4",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 14,
+              "text": "Ei päde.",
+              "parent": "a136ccd7-967a-470c-92b5-dc1aa38c41a4",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 15,
+              "text": "En vastaa.",
+              "parent": "a136ccd7-967a-470c-92b5-dc1aa38c41a4",
+              "choices": []
+            }
+          ],
+          "uuid": "a136ccd7-967a-470c-92b5-dc1aa38c41a4",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2020-12-01T12:57:05.18728"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "(g) Jos funktio f on derivoituva kohdassa a, niin sillä on raja-arvo kohdassa a.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 87016,
+          "content": {
+            "text": "(g) Jos funktio f on derivoituva kohdassa a, niin sillä on raja-arvo kohdassa a.\n"
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-12-22T10:09:39.800545",
+          "max_score": 1,
+          "groupping": null,
+          "id": 2859953,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 13,
+              "text": "Pätee.",
+              "parent": "c1771ccd-81cb-4884-99d1-9639a9d6e9df",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 14,
+              "text": "Ei päde.",
+              "parent": "c1771ccd-81cb-4884-99d1-9639a9d6e9df",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 15,
+              "text": "En vastaa.",
+              "parent": "c1771ccd-81cb-4884-99d1-9639a9d6e9df",
+              "choices": []
+            }
+          ],
+          "uuid": "c1771ccd-81cb-4884-99d1-9639a9d6e9df",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2020-12-01T12:57:14.821647"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "(d) Jos funktiolla f on raja-arvo kohdassa a, niin se on jatkuva kohdassa a.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 87016,
+          "content": {
+            "text": "(d) Jos funktiolla f on raja-arvo kohdassa a, niin se on jatkuva kohdassa a.\n"
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-12-22T10:09:39.807481",
+          "max_score": 1,
+          "groupping": null,
+          "id": 2859854,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 13,
+              "text": "Pätee.",
+              "parent": "1f8dc0a7-1554-41a4-bbbd-e3f47485bc54",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 14,
+              "text": "Ei päde.",
+              "parent": "1f8dc0a7-1554-41a4-bbbd-e3f47485bc54",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 15,
+              "text": "En vastaa.",
+              "parent": "1f8dc0a7-1554-41a4-bbbd-e3f47485bc54",
+              "choices": []
+            }
+          ],
+          "uuid": "1f8dc0a7-1554-41a4-bbbd-e3f47485bc54",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2020-12-01T12:56:16.524924"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "(c) Funktio f on jatkuva kohdassa a täsmälleen silloin, kun se on derivoituva kohdassa a.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 87016,
+          "content": {
+            "text": "(c) Funktio f on jatkuva kohdassa a täsmälleen silloin, kun se on derivoituva kohdassa a.\n"
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-12-22T10:09:39.810097",
+          "max_score": 1,
+          "groupping": null,
+          "id": 2859793,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 13,
+              "text": "Pätee.",
+              "parent": "063e5ca5-4ef9-4406-a0a0-429901464bac",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 14,
+              "text": "Ei päde.",
+              "parent": "063e5ca5-4ef9-4406-a0a0-429901464bac",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 15,
+              "text": "En vastaa.",
+              "parent": "063e5ca5-4ef9-4406-a0a0-429901464bac",
+              "choices": []
+            }
+          ],
+          "uuid": "063e5ca5-4ef9-4406-a0a0-429901464bac",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2020-12-01T12:55:58.139158"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Millä luvun x arvolla yhtälö [MATH text=\\frac{x+1}{2}+\\frac{2x−1}{4}=\\frac{x}{2}] on tosi? 3 p.\n\n​\n\nx = [SELECT id=1]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 87016,
+          "content": {
+            "text": "Millä luvun x arvolla yhtälö [MATH text=\\frac{x+1}{2}+\\frac{2x−1}{4}=\\frac{x}{2}] on tosi? 3 p.\n\n​\n\nx = [SELECT id=1]\n",
+            "displayNumber": "1.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "3"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-12-22T10:09:39.812954",
+          "max_score": 3,
+          "groupping": null,
+          "id": 2851712,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "parent": "cdb2122b-3efc-4a84-9b2e-b63336dd281d",
+              "choices": [
+                {
+                  "id": "9ca0d35c-c901-4938-b9f9-dc0e4e25cca3",
+                  "text": "−1"
+                },
+                {
+                  "id": "a51268a3-d315-4cce-8f19-b59e753266a1",
+                  "text": "−3/4"
+                },
+                {
+                  "id": "b501d11d-a999-488c-9f97-32983ab45059",
+                  "text": "−1/2",
+                  "correct": true
+                },
+                {
+                  "id": "708ff7de-4f0c-4c3e-a0d9-39d23944ed46",
+                  "text": "−1/4"
+                },
+                {
+                  "id": "d46311ba-471e-46c4-be6c-3b51f76daf85",
+                  "text": "0"
+                },
+                {
+                  "id": "3e1370c1-eaaa-4eaa-9a2e-b5ed1064caca",
+                  "text": "1/4"
+                },
+                {
+                  "id": "b1e32c61-b7d4-4200-b94a-b25c1a66d3ee",
+                  "text": "1/2"
+                },
+                {
+                  "id": "aded9d24-a92f-4c3f-a4ea-73fef1a9aeb9",
+                  "text": "3/4"
+                },
+                {
+                  "id": "621215a3-448e-40f8-8bb6-7151c083011b",
+                  "text": "1"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "cdb2122b-3efc-4a84-9b2e-b63336dd281d",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2020-12-01T11:07:23.53995"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "(b) Jos funktio f on derivoituva kohdassa a, niin se on jatkuva kohdassa a.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 87016,
+          "content": {
+            "text": "(b) Jos funktio f on derivoituva kohdassa a, niin se on jatkuva kohdassa a.\n"
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-12-22T10:09:39.815849",
+          "max_score": 1,
+          "groupping": null,
+          "id": 2859763,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 13,
+              "text": "Pätee.",
+              "parent": "ebb9df2e-a75e-43fb-9ea0-863c6207276e",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 14,
+              "text": "Ei päde.",
+              "parent": "ebb9df2e-a75e-43fb-9ea0-863c6207276e",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 15,
+              "text": "En vastaa.",
+              "parent": "ebb9df2e-a75e-43fb-9ea0-863c6207276e",
+              "choices": []
+            }
+          ],
+          "uuid": "ebb9df2e-a75e-43fb-9ea0-863c6207276e",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2020-12-01T12:55:47.648689"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "(a) Jos funktio f on jatkuva kohdassa a, niin se on derivoituva kohdassa a.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 87016,
+          "content": {
+            "text": "(a) Jos funktio f on jatkuva kohdassa a, niin se on derivoituva kohdassa a.\n"
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-12-22T10:09:39.818474",
+          "max_score": 1,
+          "groupping": null,
+          "id": 2859591,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 13,
+              "text": "Pätee.",
+              "parent": "c8c4c4c7-ca34-4df6-9ace-66bfbf179da1",
+              "choices": []
+            },
+            {
+              "id": 14,
+              "text": "Ei päde.",
+              "parent": "c8c4c4c7-ca34-4df6-9ace-66bfbf179da1",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 15,
+              "text": "En vastaa.",
+              "parent": "c8c4c4c7-ca34-4df6-9ace-66bfbf179da1",
+              "choices": []
+            }
+          ],
+          "uuid": "c8c4c4c7-ca34-4df6-9ace-66bfbf179da1",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2020-12-01T12:54:26.816713"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mitkä väitteistä (a)–(g) pätevät yleisesti kaikille funktioille f : R → R?\n\nOikea vastaus 1 p., väärä vastaus 0 p., ei vastausta 0 p. 7 p.\n\n&NewLine;\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 87016,
+          "content": {
+            "text": "Mitkä väitteistä (a)–(g) pätevät yleisesti kaikille funktioille f : R → R?\n\nOikea vastaus 1 p., väärä vastaus 0 p., ei vastausta 0 p. 7 p.\n\n&NewLine;\n",
+            "displayNumber": "10.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-12-22T10:09:39.821361",
+          "max_score": 1,
+          "groupping": null,
+          "id": 2859562,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [],
+          "uuid": "22760964-0ea8-43e7-bb5f-f381f6efafa9",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2020-12-01T12:54:14.046589"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mikä väite tässä todistetaan?\n\n​\n\nOikea vastaus 3 p., väärä vastaus 0 p., ei vastausta 0 p. 3 p.\n\n​\n\nKoska\n\n[MATH text=\\_{\\_{ }^{x→a}}^{\\lim}(f(x)−f(a))=\\_{x→a}^{\\lim}(\\frac{f(x)−f(a)}{x−a})(x−a)]\n\n[MATH text==\\_{x→a}^{\\lim}\\frac{f(x)−f(a)}{x−a}⋅\\_{x→a}^{\\lim}(x−a)]\n\n[MATH text==f′(a)⋅0=0],\n\nniin \n\n[MATH text=\\_{x→a}^{\\lim}f\\left(x\\right)=f\\left(a\\right)].\n\n​\n\n[SELECT id=12]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 87016,
+          "content": {
+            "text": "Mikä väite tässä todistetaan?\n\n​\n\nOikea vastaus 3 p., väärä vastaus 0 p., ei vastausta 0 p. 3 p.\n\n​\n\nKoska\n\n[MATH text=\\_{\\_{ }^{x→a}}^{\\lim}(f(x)−f(a))=\\_{x→a}^{\\lim}(\\frac{f(x)−f(a)}{x−a})(x−a)]\n\n[MATH text==\\_{x→a}^{\\lim}\\frac{f(x)−f(a)}{x−a}⋅\\_{x→a}^{\\lim}(x−a)]\n\n[MATH text==f′(a)⋅0=0],\n\nniin \n\n[MATH text=\\_{x→a}^{\\lim}f\\left(x\\right)=f\\left(a\\right)].\n\n​\n\n[SELECT id=12]\n",
+            "displayNumber": "10.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "3"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-12-22T10:09:39.824278",
+          "max_score": 3,
+          "groupping": null,
+          "id": 2857726,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 12,
+              "parent": "3ecbb95e-f348-49b9-82da-eda2fb172677",
+              "choices": [
+                {
+                  "id": "732fbfd9-4c40-498c-bcc5-d85d40a7a7fc",
+                  "text": "(a) Jos funktio f on jatkuva kohdassa a, niin se on derivoituva kohdassa a."
+                },
+                {
+                  "id": "0494fa37-e23f-4dde-be0a-53cd2734cdc0",
+                  "text": "(b) Jos funktio f on derivoituva kohdassa a, niin se on jatkuva kohdassa a.",
+                  "correct": true
+                },
+                {
+                  "id": "6c001522-d3a8-48bd-a067-733444a3efec",
+                  "text": "(c) Funktio f on jatkuva kohdassa a täsmälleen silloin, kun se on derivoituva kohdassa a."
+                },
+                {
+                  "id": "bd204ea9-fbf5-4c37-8146-b7f70b6b3756",
+                  "text": "(d) Jos funktiolla f on raja-arvo kohdassa a, niin se on jatkuva kohdassa a."
+                },
+                {
+                  "id": "de7edc62-af77-4b1f-86fc-6c3e7509b33e",
+                  "text": "(e) Jos funktiolla f on raja-arvo kohdassa a, niin se on derivoituva kohdassa a."
+                },
+                {
+                  "id": "31a67434-a3fd-4560-a0e7-3a5732f9e4f8",
+                  "text": "(f) Jos funktio f on jatkuva kohdassa a, niin sillä on raja-arvo kohdassa a."
+                },
+                {
+                  "id": "de0858d5-feee-42d1-acb7-4123bc82606e",
+                  "text": "(g) Jos funktio f on derivoituva kohdassa a, niin sillä on raja-arvo kohdassa a."
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "3ecbb95e-f348-49b9-82da-eda2fb172677",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2020-12-01T12:44:21.525537"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### B2-osa\n\nVastaa kolmeen tehtävään.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 87016,
+          "content": {
+            "text": "### B2-osa\n\nVastaa kolmeen tehtävään.\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-12-22T10:09:39.828348",
+          "max_score": null,
+          "groupping": null,
+          "id": 2857562,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "4739bb83-0e8c-44bd-88e2-0a0399f89bcd",
+          "order_number": 12,
+          "multipart": true,
+          "created_at": "2020-12-01T12:43:36.659793"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Yhdistettyjä lukuja 12 p.**\n\n&NewLine;\n\nOsoita lukua 1 000 001 ! + 2 käyttämällä, että on olemassa miljoona peräkkäistä kokonaislukua, joista yksikään ei ole alkuluku.\n",
+          "deleted_at": null,
+          "feedback": "Mainittu tai käytetty jaollisuutta JA kirjoitettu kertoma tulona. \n\nLuku n = 1000001! on jaollinen luvulla 2, \n\njoten ensimmäinen luku n + 2 on jaollinen luvulla 2, \n\neikä siis ole alkuluku. \n\nSamoin arvoilla 3 6 k 6 1000001 luku n sisältää tekijän k \n\nja on siis jaollinen luvulla k. \n\nTällöin n + k on myös jaollinen luvulla k. \n\nArvoilla 2 6 k 6 1000001 saadaan siis peräkkäiset yhdistetyt luvut n + k, \n\njoita on yhteensä miljoona kappaletta.\n",
+          "exam_id": 87016,
+          "content": {
+            "text": "**Yhdistettyjä lukuja 12 p.**\n\n&NewLine;\n\nOsoita lukua 1 000 001 ! + 2 käyttämällä, että on olemassa miljoona peräkkäistä kokonaislukua, joista yksikään ei ole alkuluku.\n",
+            "displayNumber": "9."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-12-22T10:09:39.831309",
+          "max_score": null,
+          "groupping": null,
+          "id": 2857172,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "874d1bb9-7b63-4edc-b7fb-540695a642d8",
+          "order_number": 11,
+          "multipart": true,
+          "created_at": "2020-12-01T12:39:51.989844"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Kuusi pientä tehtävää 12 p.**\n\n&NewLine;\n\nKirjoita tämän tehtävän vastauskenttiin pelkät laskujen lopputulokset ilman välivaiheita ja perusteluja. Tehtävässä ei voi käyttää kuvakaappauksia eikä kaavaeditoria, joten toinen potenssi x[SUP text=2] kirjoitetaan vastauslaatikkoon muodossa x^2. Kunkin vastauksen maksimipituus on 15 merkkiä. Vastaukset arvostellaan tietokoneavusteisesti ja ohjeiden noudattamatta jättäminen voi johtaa pistevähennyksiin.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 87016,
+          "content": {
+            "text": "**Kuusi pientä tehtävää 12 p.**\n\n&NewLine;\n\nKirjoita tämän tehtävän vastauskenttiin pelkät laskujen lopputulokset ilman välivaiheita ja perusteluja. Tehtävässä ei voi käyttää kuvakaappauksia eikä kaavaeditoria, joten toinen potenssi x[SUP text=2] kirjoitetaan vastauslaatikkoon muodossa x^2. Kunkin vastauksen maksimipituus on 15 merkkiä. Vastaukset arvostellaan tietokoneavusteisesti ja ohjeiden noudattamatta jättäminen voi johtaa pistevähennyksiin.\n",
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "99d6f5a4-e488-4be3-982d-965d5e349ac3",
+            "c174e0f6-804c-4685-997b-d0bcd8030edf",
+            "88f3a0d5-7775-4e1d-afa2-6374eccae0ec",
+            "fb66c2dd-c028-4a62-8e05-fafe10665901",
+            "f85b4d7c-eab8-48cb-a82c-4384f0b6499d",
+            "1e4dfdc3-70d8-4b81-9f39-c47c39bcadb9"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-12-22T10:09:39.834718",
+          "max_score": null,
+          "groupping": null,
+          "id": 2852073,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "be41cf96-7cfb-4729-94d6-7365e34df2d7",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2020-12-01T11:14:40.885695"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### B1-osa\n\nVastaa kolmeen tehtävään.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 87016,
+          "content": {
+            "text": "### B1-osa\n\nVastaa kolmeen tehtävään.\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-12-22T10:09:39.83738",
+          "max_score": null,
+          "groupping": null,
+          "id": 2856647,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "a91ba66b-ecc9-4251-aee0-236164badf58",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2020-12-01T12:29:45.702377"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kolmiossa A B C kulman A suuruus on 42 ∘ ja kulman B suuruus on 55 ∘. Sivun A B pituus on 122 mm. Laske sivun B C pituus millimetrin tarkkuudella. 2 p.\n\n​\n\nVastaus: [GAP id=11] mm\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 87016,
+          "content": {
+            "text": "Kolmiossa A B C kulman A suuruus on 42 ∘ ja kulman B suuruus on 55 ∘. Sivun A B pituus on 122 mm. Laske sivun B C pituus millimetrin tarkkuudella. 2 p.\n\n​\n\nVastaus: [GAP id=11] mm\n",
+            "displayNumber": "2.6."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-12-22T10:09:39.841408",
+          "max_score": 2,
+          "groupping": null,
+          "id": 2855609,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 11,
+              "parent": "1e4dfdc3-70d8-4b81-9f39-c47c39bcadb9",
+              "choices": [],
+              "correct": "82",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "1e4dfdc3-70d8-4b81-9f39-c47c39bcadb9",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2020-12-01T12:11:56.240754"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Laske integraali [MATH text=\\int\\_4^{16}\\frac{1}{\\sqrt{x}}dx]. 2 p.\n\n​\n\nVastaus: [GAP id=10]\n\n​\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 87016,
+          "content": {
+            "text": "Laske integraali [MATH text=\\int\\_4^{16}\\frac{1}{\\sqrt{x}}dx]. 2 p.\n\n​\n\nVastaus: [GAP id=10]\n\n​\n",
+            "displayNumber": "2.5."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-12-22T10:09:39.845308",
+          "max_score": 2,
+          "groupping": null,
+          "id": 2855595,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 10,
+              "parent": "f85b4d7c-eab8-48cb-a82c-4384f0b6499d",
+              "choices": [],
+              "correct": "4",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "f85b4d7c-eab8-48cb-a82c-4384f0b6499d",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2020-12-01T12:11:20.441733"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Ratkaise yhtälö [MATH text=1−\\sqrt{2}\\cos⁡x=2], kun [MATH text=0∘\\le x\\le180∘]. Anna vastaus asteina. 2 p.\n\n&NewLine;\n\nVastaus: x = [GAP id=9] astetta\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 87016,
+          "content": {
+            "text": "Ratkaise yhtälö [MATH text=1−\\sqrt{2}\\cos⁡x=2], kun [MATH text=0∘\\le x\\le180∘]. Anna vastaus asteina. 2 p.\n\n&NewLine;\n\nVastaus: x = [GAP id=9] astetta\n",
+            "displayNumber": "2.4."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-12-22T10:09:39.849313",
+          "max_score": 2,
+          "groupping": null,
+          "id": 2855570,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 9,
+              "parent": "fb66c2dd-c028-4a62-8e05-fafe10665901",
+              "choices": [],
+              "correct": "135",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "fb66c2dd-c028-4a62-8e05-fafe10665901",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2020-12-01T12:09:56.636124"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Laske pisteiden A = ( 1 , − 1 ) ja B = ( 7 , 7 ) välinen etäisyys. 2 p.\n\n&NewLine;\n\nVastaus: [GAP id=7]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 87016,
+          "content": {
+            "text": "Laske pisteiden A = ( 1 , − 1 ) ja B = ( 7 , 7 ) välinen etäisyys. 2 p.\n\n&NewLine;\n\nVastaus: [GAP id=7]\n",
+            "displayNumber": "2.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-12-22T10:09:39.853334",
+          "max_score": 2,
+          "groupping": null,
+          "id": 2852252,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 7,
+              "parent": "c174e0f6-804c-4685-997b-d0bcd8030edf",
+              "choices": [],
+              "correct": "10",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "c174e0f6-804c-4685-997b-d0bcd8030edf",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2020-12-01T11:17:45.696406"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Sievennä lauseke ( 2 x ) [SUP text=5] ( − 4 x ) [SUP text=− 1], kun x ≠ 0. 2 p.\n\n&NewLine;\n\nVastaus: [GAP id=6]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 87016,
+          "content": {
+            "text": "Sievennä lauseke ( 2 x ) [SUP text=5] ( − 4 x ) [SUP text=− 1], kun x ≠ 0. 2 p.\n\n&NewLine;\n\nVastaus: [GAP id=6]\n",
+            "displayNumber": "2.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-12-22T10:09:39.8573",
+          "max_score": 2,
+          "groupping": null,
+          "id": 2852194,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 6,
+              "hint": "",
+              "parent": "99d6f5a4-e488-4be3-982d-965d5e349ac3",
+              "choices": [],
+              "correct": "−8x^4|-8x^4",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "99d6f5a4-e488-4be3-982d-965d5e349ac3",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2020-12-01T11:15:25.324855"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Yhtälöitä 12 p.**\n\n&NewLine;\n\nOikea vastaus 3 p., väärä vastaus 0 p., ei vastausta 0 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 87016,
+          "content": {
+            "text": "**Yhtälöitä 12 p.**\n\n&NewLine;\n\nOikea vastaus 3 p., väärä vastaus 0 p., ei vastausta 0 p.\n",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "cdb2122b-3efc-4a84-9b2e-b63336dd281d",
+            "3884ad93-86d1-47df-9a08-632ebe035460",
+            "c5c3bad6-b048-445f-ab93-e8f3ea6b7552",
+            "d8e5b9bd-7e8b-4711-a191-ba16891bb403"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-12-22T10:09:39.863327",
+          "max_score": null,
+          "groupping": null,
+          "id": 2851703,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "c3fe9756-32c5-48e7-b5b5-9984b78f2238",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2020-12-01T11:05:54.244515"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### A-osa\n\nVastaa neljään tehtävään.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 87016,
+          "content": {
+            "text": "### A-osa\n\nVastaa neljään tehtävään.\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-12-22T10:09:39.867352",
+          "max_score": null,
+          "groupping": null,
+          "id": 2851695,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "45ca58fb-9bc6-4b13-9aef-67624414f3f5",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2020-12-01T11:02:50.897688"
+        }
+      ],
+      "name": "Matematiikka, pitkä oppimäärä syksy 2020",
+      "settings": {
+        "overrideTitle": true
+      },
+      "exam_type": "yo-koe",
+      "classification": {
+        "category": "",
+        "disable_saving": false,
+        "hide_review_buttons": false,
+        "exam_type": "yo-koe",
+        "year": "2020",
+        "language": "fi-FI",
+        "hide_statistics": false,
+        "show_exam_series": false,
+        "force_yletunnus": false,
+        "subject": "matematiikka-pitkä",
+        "published": true,
+        "semester": "fall"
+      },
+      "published_at": "2020-12-01T13:14:17.000Z",
+      "language": "fi-FI",
+      "id": 87016,
+      "reviews": [],
+      "is_open": true,
+      "uuid": "817ffe55-d765-4680-8478-a81c0e2032c6"
+    }
+  ]
+}

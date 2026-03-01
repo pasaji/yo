@@ -1,0 +1,4366 @@
+{
+  "meta": {
+    "count": 1
+  },
+  "data": [
+    {
+      "tags": [
+        ""
+      ],
+      "main_text": "Koe koostuu neljästä osasta: kuullun ymmärtäminen, luetun ymmärtäminen, sanasto ja rakenteet sekä kirjallinen tuottaminen.\n\n&NewLine;\n\nVoit tehdä tehtävät haluamassasi järjestyksessä. Noudata tehtäväkohtaisia vastaamisohjeita. Voit muuttaa antamiasi vastauksia koska tahansa kokeen aikana. Varaa aikaa kuullun ymmärtämisen tehtävien tekemiseen yhteensä noin 1 tunti.\n\n&NewLine;\n\nÄlä jätä mitään merkintöjä sellaisen tehtävän vastaukselle varattuun tilaan, jota et halua jättää arvosteltavaksi.\n\n&NewLine;\n\nOnnea kokeeseen!\n",
+      "characters": null,
+      "deleted_at": null,
+      "series_uuids": [],
+      "questions": [
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mitä katsojien tulisi välttää? (max 100 characters) 3 p.\n",
+          "deleted_at": null,
+          "feedback": "• Halventavia kommentteja. (3/0 p.)\n",
+          "exam_id": 112951,
+          "content": {
+            "text": "Mitä katsojien tulisi välttää? (max 100 characters) 3 p.\n",
+            "displayNumber": "1.2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.327328",
+          "max_score": null,
+          "groupping": null,
+          "id": 3810155,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "67e0449b-1b8c-4ab9-917d-c03e739b0c14",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2021-10-04T08:35:52.616531"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What is Mike Neville especially worried about? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "What is Mike Neville especially worried about? 3 p.\n",
+            "displayNumber": "2.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.324292",
+          "max_score": 3,
+          "groupping": null,
+          "id": 3810158,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "text": "The unnecessary overworking of law enforcement",
+              "parent": "67fa0361-3fb2-47b2-b9da-b76d280d921b",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 2,
+              "text": "The economic consequences of reducing emissions",
+              "parent": "67fa0361-3fb2-47b2-b9da-b76d280d921b",
+              "choices": []
+            },
+            {
+              "id": 3,
+              "text": "The income disparity within the working class",
+              "parent": "67fa0361-3fb2-47b2-b9da-b76d280d921b",
+              "choices": []
+            }
+          ],
+          "uuid": "67fa0361-3fb2-47b2-b9da-b76d280d921b",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2021-10-04T08:35:52.624391"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mitä tutkimusryhmän kehittämä menetelmä nopeuttaa? (max 100 characters) 3 p.\n",
+          "deleted_at": null,
+          "feedback": "• Aivotärähdyksen toteamista. (3/0 p.)\n",
+          "exam_id": 112951,
+          "content": {
+            "text": "Mitä tutkimusryhmän kehittämä menetelmä nopeuttaa? (max 100 characters) 3 p.\n",
+            "displayNumber": "4.1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.31635",
+          "max_score": null,
+          "groupping": null,
+          "id": 3811877,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "3af53c0c-3028-4dc7-832e-250876d4b647",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2021-10-04T08:49:24.650616"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What is Brian Skerry best known for? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "What is Brian Skerry best known for? 3 p.\n",
+            "displayNumber": "5.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.313437",
+          "max_score": 3,
+          "groupping": null,
+          "id": 3811880,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 4,
+              "text": "His tracking skills",
+              "parent": "470bc8d7-a9ea-4ae6-bab6-345444b48f54",
+              "choices": []
+            },
+            {
+              "id": 5,
+              "text": "His nature portraits",
+              "parent": "470bc8d7-a9ea-4ae6-bab6-345444b48f54",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 6,
+              "text": "His whale videos",
+              "parent": "470bc8d7-a9ea-4ae6-bab6-345444b48f54",
+              "choices": []
+            }
+          ],
+          "uuid": "470bc8d7-a9ea-4ae6-bab6-345444b48f54",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2021-10-04T08:49:24.667125"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "[LINK text=The passage related to questions 5.3 and 5.4.|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/index.html#5.4.]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "[LINK text=The passage related to questions 5.3 and 5.4.|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/index.html#5.4.]\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.308225",
+          "max_score": null,
+          "groupping": null,
+          "id": 3811886,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "c9108c00-b277-4735-aee8-93a3478568a0",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2021-10-04T08:49:24.691389"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "How do whale songs resemble human songs? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "How do whale songs resemble human songs? 3 p.\n",
+            "displayNumber": "5.5."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.297772",
+          "max_score": 3,
+          "groupping": null,
+          "id": 3811887,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 4,
+              "text": "Their sound combinations resemble chords",
+              "parent": "79b80459-2360-4c4c-8451-7a7aa753f420",
+              "choices": []
+            },
+            {
+              "id": 5,
+              "text": "They feature a more or less steady beat",
+              "parent": "79b80459-2360-4c4c-8451-7a7aa753f420",
+              "choices": []
+            },
+            {
+              "id": 6,
+              "text": "The way they are structured is comparable",
+              "parent": "79b80459-2360-4c4c-8451-7a7aa753f420",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "79b80459-2360-4c4c-8451-7a7aa753f420",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2021-10-04T08:49:24.694457"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "[LINK text=The passage related to question 6.2.|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/index.html#6.2]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "[LINK text=The passage related to question 6.2.|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/index.html#6.2]\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.292323",
+          "max_score": null,
+          "groupping": null,
+          "id": 3812180,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "f7cfaf66-912f-4bb5-bfbd-c1dff2d2303b",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2021-10-04T08:58:22.656405"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Why are miniature horses good therapy animals? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "Why are miniature horses good therapy animals? 3 p.\n",
+            "displayNumber": "7.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.289672",
+          "max_score": 3,
+          "groupping": null,
+          "id": 3812184,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 7,
+              "text": "They recover well from the stress of people handling them",
+              "parent": "0fb6be51-4bb6-45fb-b924-0ccbb19bfcf1",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 8,
+              "text": "They are reassuringly gentle around vulnerable people",
+              "parent": "0fb6be51-4bb6-45fb-b924-0ccbb19bfcf1",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 9,
+              "text": "They can be easily transported from one place to another",
+              "parent": "0fb6be51-4bb6-45fb-b924-0ccbb19bfcf1",
+              "choices": []
+            }
+          ],
+          "uuid": "0fb6be51-4bb6-45fb-b924-0ccbb19bfcf1",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2021-10-04T08:58:22.667322"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What helped the boys survive the boat trip? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "What helped the boys survive the boat trip? 3 p.\n",
+            "displayNumber": "10.5."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.255881",
+          "max_score": 3,
+          "groupping": null,
+          "id": 3826467,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 22,
+              "text": "They had some food and water",
+              "parent": "ac67c6fd-8e04-4e0b-8152-51660240abbc",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 23,
+              "text": "They took turns in keeping watch",
+              "parent": "ac67c6fd-8e04-4e0b-8152-51660240abbc",
+              "choices": []
+            },
+            {
+              "id": 24,
+              "text": "They managed to repair the sail",
+              "parent": "ac67c6fd-8e04-4e0b-8152-51660240abbc",
+              "choices": []
+            }
+          ],
+          "uuid": "ac67c6fd-8e04-4e0b-8152-51660240abbc",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2021-10-04T12:02:56.394364"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mitä hakkeroinnin kohteeksi joutuneiden pitää tehdä? (max 100 characters) 3 p.\n",
+          "deleted_at": null,
+          "feedback": "Varoittaa lahjoittajia. / Olla yhteydessä lahjoittajiin. (3/0 p.)\n",
+          "exam_id": 112951,
+          "content": {
+            "text": "Mitä hakkeroinnin kohteeksi joutuneiden pitää tehdä? (max 100 characters) 3 p.\n",
+            "displayNumber": "11.7."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.245784",
+          "max_score": null,
+          "groupping": null,
+          "id": 3827155,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "80a5bc25-f3c0-4656-b5e9-1803d7384573",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2021-10-04T12:10:44.578239"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Miten hakkerointi tuli julki? (max 100 characters) 3 p.\n",
+          "deleted_at": null,
+          "feedback": "Blackbaud myönsi sen lakisääteisessä/pakollisessa raportissa/arkistoinnissa. (3/0 p.)\n",
+          "exam_id": 112951,
+          "content": {
+            "text": "Miten hakkerointi tuli julki? (max 100 characters) 3 p.\n",
+            "displayNumber": "11.5."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.242955",
+          "max_score": null,
+          "groupping": null,
+          "id": 3827153,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "c72d1283-6dd9-46d5-acc8-3e8a536f883d",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2021-10-04T12:10:44.573931"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Which alternative best ends the quote by Peter Warner and captures the idea of this text? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "Which alternative best ends the quote by Peter Warner and captures the idea of this text? 3 p.\n",
+            "displayNumber": "10.7."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.239993",
+          "max_score": 3,
+          "groupping": null,
+          "id": 3826823,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 22,
+              "text": "always look for what is good and positive in people",
+              "parent": "6c297ba1-e1d7-44e3-8d62-7feaa9de05e6",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 23,
+              "text": "never underestimate people’s will to survive",
+              "parent": "6c297ba1-e1d7-44e3-8d62-7feaa9de05e6",
+              "choices": []
+            },
+            {
+              "id": 24,
+              "text": "constantly keep your eyes open for small miracles",
+              "parent": "6c297ba1-e1d7-44e3-8d62-7feaa9de05e6",
+              "choices": []
+            }
+          ],
+          "uuid": "6c297ba1-e1d7-44e3-8d62-7feaa9de05e6",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2021-10-04T12:05:47.314559"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Material**\n\n[LINK text=11.B Text: Blackbaud: Bank details and passwords at risk in giant charities hack|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/attachments/index.html#11.B]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "**Material**\n\n[LINK text=11.B Text: Blackbaud: Bank details and passwords at risk in giant charities hack|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/attachments/index.html#11.B]\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.237111",
+          "max_score": null,
+          "groupping": null,
+          "id": 3827151,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "30d9c03a-2887-46b4-be70-b3cc83263d34",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2021-10-04T12:10:44.569511"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What is revealed about the boys’ escape from the school? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "What is revealed about the boys’ escape from the school? 3 p.\n",
+            "displayNumber": "10.4."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.234368",
+          "max_score": 3,
+          "groupping": null,
+          "id": 3826466,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 22,
+              "text": "They had poor equipment for the trip",
+              "parent": "a23eed27-7127-44f9-b612-4c978e0d2720",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 23,
+              "text": "They had a clear destination in mind",
+              "parent": "a23eed27-7127-44f9-b612-4c978e0d2720",
+              "choices": []
+            },
+            {
+              "id": 24,
+              "text": "They had been planning it for a while",
+              "parent": "a23eed27-7127-44f9-b612-4c978e0d2720",
+              "choices": []
+            }
+          ],
+          "uuid": "a23eed27-7127-44f9-b612-4c978e0d2720",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2021-10-04T12:02:56.391955"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What does Bill Power think about the Government’s campaign? 2 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "What does Bill Power think about the Government’s campaign? 2 p.\n",
+            "displayNumber": "9.4."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.228443",
+          "max_score": 2,
+          "groupping": null,
+          "id": 3824099,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 16,
+              "text": "It’s coming too late",
+              "parent": "93b1640a-2dfc-4ac6-8ec9-9d3226e7d230",
+              "choices": []
+            },
+            {
+              "id": 17,
+              "text": "It’s hypocritical",
+              "parent": "93b1640a-2dfc-4ac6-8ec9-9d3226e7d230",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 18,
+              "text": "It’s money down the drain",
+              "parent": "93b1640a-2dfc-4ac6-8ec9-9d3226e7d230",
+              "choices": []
+            }
+          ],
+          "uuid": "93b1640a-2dfc-4ac6-8ec9-9d3226e7d230",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2021-10-04T11:30:09.777307"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "For centuries Western culture has been **permeated** by the idea that humans are selfish creatures. 2 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "For centuries Western culture has been **permeated** by the idea that humans are selfish creatures. 2 p.\n",
+            "displayNumber": "14.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.225525",
+          "max_score": 2,
+          "groupping": null,
+          "id": 3832385,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 43,
+              "text": "complicated",
+              "parent": "55c89303-5d2a-492d-8aef-d5247bc03f7a",
+              "choices": []
+            },
+            {
+              "id": 44,
+              "text": "invaded",
+              "parent": "55c89303-5d2a-492d-8aef-d5247bc03f7a",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 45,
+              "text": "tarnished",
+              "parent": "55c89303-5d2a-492d-8aef-d5247bc03f7a",
+              "choices": []
+            }
+          ],
+          "uuid": "55c89303-5d2a-492d-8aef-d5247bc03f7a",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2021-10-04T13:23:58.127786"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Part 4: Production\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "### Part 4: Production\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-30T12:33:03.21196",
+          "max_score": null,
+          "groupping": null,
+          "id": 3832801,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "a4f6284c-a8d6-4adf-ba24-8f312955342a",
+          "order_number": 20,
+          "multipart": true,
+          "created_at": "2021-10-04T13:49:53.808299"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Lessons learnt? 99 p.\n\n&NewLine;\n\nWrite an account of a time you have realized something was fake news or you were part of spreading or creating fake news yourself.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "Lessons learnt? 99 p.\n\n&NewLine;\n\nWrite an account of a time you have realized something was fake news or you were part of spreading or creating fake news yourself.\n",
+            "displayNumber": "17.3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.208883",
+          "max_score": null,
+          "groupping": null,
+          "id": 3832805,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "ad31cdae-d724-46c9-82f3-79a0f85d90fe",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2021-10-04T13:49:53.819891"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Which of the following would be the best alternative title for this report? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "Which of the following would be the best alternative title for this report? 3 p.\n",
+            "displayNumber": "7.4."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.203559",
+          "max_score": 3,
+          "groupping": null,
+          "id": 3812187,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 7,
+              "text": "Developing Ecological Cures",
+              "parent": "766fe219-e7dd-42af-95eb-714e620a32b2",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 8,
+              "text": "Finding Profit through Charity",
+              "parent": "766fe219-e7dd-42af-95eb-714e620a32b2",
+              "choices": []
+            },
+            {
+              "id": 9,
+              "text": "Healing from the Natural World",
+              "parent": "766fe219-e7dd-42af-95eb-714e620a32b2",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "766fe219-e7dd-42af-95eb-714e620a32b2",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2021-10-04T08:58:22.675575"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Why does Piers Morgan bring up Greta Thunberg? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "Why does Piers Morgan bring up Greta Thunberg? 3 p.\n",
+            "displayNumber": "2.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.191184",
+          "max_score": 3,
+          "groupping": null,
+          "id": 3810157,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "text": "He criticises her way of speaking",
+              "parent": "d056f724-8cd3-4c4a-b7b0-90dd874ebdac",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 2,
+              "text": "He accuses her of spreading lies",
+              "parent": "d056f724-8cd3-4c4a-b7b0-90dd874ebdac",
+              "choices": []
+            },
+            {
+              "id": 3,
+              "text": "He claims she behaves egocentrically",
+              "parent": "d056f724-8cd3-4c4a-b7b0-90dd874ebdac",
+              "choices": []
+            }
+          ],
+          "uuid": "d056f724-8cd3-4c4a-b7b0-90dd874ebdac",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2021-10-04T08:35:52.621776"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**The Real Lord of the Flies 14 p.**\n\n&NewLine;\n\nWhat words could replace the underlined words in the text? Choose the alternative that best fits the context and conveys a similar meaning. The same text is used for Reading Comprehension task 10 (material 10.A).\n\n&NewLine;\n\nHuom! Kysytyt sanat on lihavoitu.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "**The Real Lord of the Flies 14 p.**\n\n&NewLine;\n\nWhat words could replace the underlined words in the text? Choose the alternative that best fits the context and conveys a similar meaning. The same text is used for Reading Comprehension task 10 (material 10.A).\n\n&NewLine;\n\nHuom! Kysytyt sanat on lihavoitu.\n",
+            "questionType": "grammar",
+            "displayNumber": "14."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "55c89303-5d2a-492d-8aef-d5247bc03f7a",
+            "e967363d-d696-4e92-9ca6-ddfd9623d4ba",
+            "8040f933-95f7-4d19-843d-06c33931e2a4",
+            "f7cd19d3-9a4e-4622-ac76-bfa7f4d47ede",
+            "8bc5f934-e40f-427e-aff8-9a158c4b238a",
+            "c55ced16-3566-4146-9d8c-883a0cffdb24",
+            "805a1bae-a2b5-4db2-849d-fde9da7af2d3",
+            "7eba9bb2-56c1-4791-9371-b006aa90547c"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-30T12:33:03.185546",
+          "max_score": null,
+          "groupping": null,
+          "id": 3832383,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "ebdd45ef-a501-4b0c-b9dc-f2b071ce24cd",
+          "order_number": 17,
+          "multipart": true,
+          "created_at": "2021-10-04T13:23:58.122192"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "To drive or not to drive 99 p.\n\n&NewLine;\n\nThis is a post on a discussion forum. Write your response to it.\n\n&NewLine;\n\nI think wanting to own a car is just so old-fashioned. You don’t have to buy your wheels, when there’s car sharing all over the place. And don’t get me started on getting a driver’s license, even. Cars are going to be driving themselves anytime now.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "To drive or not to drive 99 p.\n\n&NewLine;\n\nThis is a post on a discussion forum. Write your response to it.\n\n&NewLine;\n\nI think wanting to own a car is just so old-fashioned. You don’t have to buy your wheels, when there’s car sharing all over the place. And don’t get me started on getting a driver’s license, even. Cars are going to be driving themselves anytime now.\n",
+            "displayNumber": "17.2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.180938",
+          "max_score": null,
+          "groupping": null,
+          "id": 3832804,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "c98760c1-9e03-4f9d-910f-b6e7f1d1a757",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2021-10-04T13:49:53.817017"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "The kids agreed to work in teams of two, drawing up a strict **roster** for garden, kitchen and guard duty. 2 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "The kids agreed to work in teams of two, drawing up a strict **roster** for garden, kitchen and guard duty. 2 p.\n",
+            "displayNumber": "14.7."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.175647",
+          "max_score": 2,
+          "groupping": null,
+          "id": 3832391,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 43,
+              "text": "head count",
+              "parent": "805a1bae-a2b5-4db2-849d-fde9da7af2d3",
+              "choices": []
+            },
+            {
+              "id": 44,
+              "text": "discipline\n\n&NewLine;",
+              "parent": "805a1bae-a2b5-4db2-849d-fde9da7af2d3",
+              "choices": []
+            },
+            {
+              "id": 45,
+              "text": "schedule",
+              "parent": "805a1bae-a2b5-4db2-849d-fde9da7af2d3",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "805a1bae-a2b5-4db2-849d-fde9da7af2d3",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2021-10-04T13:23:58.143495"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Listen, and choose the most polite response. 3 p.\n\n​\n\nPassenger: Thanks. Let me just get my boarding card… Ok, I was meant to be on BA1892 to Glasgow at 4:35 this afternoon.\n\n​\n\n[LINK text=The passenger’s line.|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/index.html#8.2]\n\n​\n\nCustomer Service Representative:\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "Listen, and choose the most polite response. 3 p.\n\n​\n\nPassenger: Thanks. Let me just get my boarding card… Ok, I was meant to be on BA1892 to Glasgow at 4:35 this afternoon.\n\n​\n\n[LINK text=The passenger’s line.|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/index.html#8.2]\n\n​\n\nCustomer Service Representative:\n",
+            "displayNumber": "8.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.16076",
+          "max_score": 3,
+          "groupping": null,
+          "id": 3812597,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 10,
+              "text": "[LINK text=Option A.|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/index.html#8.2]",
+              "parent": "c41e7c28-a092-4bc2-9d67-37ab26351605",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 11,
+              "text": "[LINK text=Option B.|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/index.html#8.2]",
+              "parent": "c41e7c28-a092-4bc2-9d67-37ab26351605",
+              "choices": []
+            },
+            {
+              "id": 12,
+              "text": "[LINK text=Option C.|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/index.html#8.2]",
+              "parent": "c41e7c28-a092-4bc2-9d67-37ab26351605",
+              "choices": []
+            }
+          ],
+          "uuid": "c41e7c28-a092-4bc2-9d67-37ab26351605",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2021-10-04T09:05:53.42326"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "How could the seismic signals recorded during lockdown aid in the tracking of human activity? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "How could the seismic signals recorded during lockdown aid in the tracking of human activity? 3 p.\n",
+            "displayNumber": "6.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.149902",
+          "max_score": 3,
+          "groupping": null,
+          "id": 3812181,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 7,
+              "text": "They could provide data on social behaviour while preserving privacy",
+              "parent": "e416cf43-b02c-4f97-afc2-be9f6a65ddfe",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 8,
+              "text": "They could give precise information on individuals’ comings and goings",
+              "parent": "e416cf43-b02c-4f97-afc2-be9f6a65ddfe",
+              "choices": []
+            },
+            {
+              "id": 9,
+              "text": "They could identify individuals’ personal habits that cause noise pollution",
+              "parent": "e416cf43-b02c-4f97-afc2-be9f6a65ddfe",
+              "choices": []
+            }
+          ],
+          "uuid": "e416cf43-b02c-4f97-afc2-be9f6a65ddfe",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2021-10-04T08:58:22.659186"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Tech News 21 p.**\n\n​\n\nRead the text carefully and then answer the questions in Finnish. Please write a concise answer not exceeding 100 characters for each question. Exceeding the maximum number of characters will lead to points being cut.\n\n​\n\nMaterial\n\n[LINK text=11.A Text: Phantom smart doorbell chimes alarm owners|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/attachments/index.html#11.A]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "**Tech News 21 p.**\n\n​\n\nRead the text carefully and then answer the questions in Finnish. Please write a concise answer not exceeding 100 characters for each question. Exceeding the maximum number of characters will lead to points being cut.\n\n​\n\nMaterial\n\n[LINK text=11.A Text: Phantom smart doorbell chimes alarm owners|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/attachments/index.html#11.A]\n",
+            "questionType": "reading",
+            "displayNumber": "11."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "8104f25a-f8bf-42a9-b39b-eb5daccd38cb",
+            "c91651e0-c066-492b-b496-d5f86a08df05",
+            "c78baf37-c8a2-422d-8529-ac1405e8f37d",
+            "30d9c03a-2887-46b4-be70-b3cc83263d34",
+            "816dc89c-6d9d-4ff6-b01c-182b84d53c12",
+            "c72d1283-6dd9-46d5-acc8-3e8a536f883d",
+            "e63c68af-b6c5-45d1-9408-8a9f11696cc1",
+            "80a5bc25-f3c0-4656-b5e9-1803d7384573"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-30T12:33:03.142677",
+          "max_score": null,
+          "groupping": null,
+          "id": 3826894,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "e0cb868f-fed3-472c-9ba4-ad4e8531abdf",
+          "order_number": 13,
+          "multipart": true,
+          "created_at": "2021-10-04T12:08:27.535858"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Whale Songs 18 p.**\n\n​\n\nThis is a National Geographic podcast episode, where Brian Skerry, Vaughn Wallace and Ellen Garland discuss humpback whales. You can listen to it twice – first straight through and then in shorter sections. Read the questions carefully, listen to the recording and choose the best alternative for each item.\n\n​\n\n[LINK text=The whole recording|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/index.html#5]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "**Whale Songs 18 p.**\n\n​\n\nThis is a National Geographic podcast episode, where Brian Skerry, Vaughn Wallace and Ellen Garland discuss humpback whales. You can listen to it twice – first straight through and then in shorter sections. Read the questions carefully, listen to the recording and choose the best alternative for each item.\n\n​\n\n[LINK text=The whole recording|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/index.html#5]\n",
+            "questionType": "listening-comprehension",
+            "displayNumber": "5."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "470bc8d7-a9ea-4ae6-bab6-345444b48f54",
+            "3f301b22-1b57-4a1a-919e-94a04a38a215",
+            "1b8eebe0-454e-4c82-8822-c1a846aadd81",
+            "bee34a61-3c4b-4c56-ae30-e7d1b1716b99",
+            "68e37dd1-ece0-4859-9d31-4eabd5235ace",
+            "c9108c00-b277-4735-aee8-93a3478568a0",
+            "79b80459-2360-4c4c-8451-7a7aa753f420",
+            "815f10df-74cf-4403-85af-b4682010b3e1",
+            "4838c1b0-0e35-4027-9824-ff6bfe7c6be5"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-30T12:33:03.135666",
+          "max_score": null,
+          "groupping": null,
+          "id": 3811879,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "ec2549f3-137b-4fda-94aa-77484c3c0ebb",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2021-10-04T08:49:24.656091"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "One of them fashioned a makeshift guitar from a piece of driftwood, half a coconut shell and six steel wires **salvaged** from their wrecked boat – an instrument Peter has kept all these years – and played it to help lift their spirits. 2 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "One of them fashioned a makeshift guitar from a piece of driftwood, half a coconut shell and six steel wires **salvaged** from their wrecked boat – an instrument Peter has kept all these years – and played it to help lift their spirits. 2 p.\n",
+            "displayNumber": "14.8."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.124169",
+          "max_score": 2,
+          "groupping": null,
+          "id": 3832392,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 43,
+              "text": "dropped",
+              "parent": "7eba9bb2-56c1-4791-9371-b006aa90547c",
+              "choices": []
+            },
+            {
+              "id": 44,
+              "text": "abandoned\n\n&NewLine;",
+              "parent": "7eba9bb2-56c1-4791-9371-b006aa90547c",
+              "choices": []
+            },
+            {
+              "id": 45,
+              "text": "rescued",
+              "parent": "7eba9bb2-56c1-4791-9371-b006aa90547c",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "7eba9bb2-56c1-4791-9371-b006aa90547c",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2021-10-04T13:23:58.146013"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "This yields the following summary: for grit to be potentially useful, a task needs to be [SELECT id=68] **3 p**., you need [SELECT id=69] **3 p.** given enough time, [SELECT id=70] **3 p. **need to be large enough, relative to the investment you put in, and the probability of [SELECT id=71] **3 p**. is comparably high.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "This yields the following summary: for grit to be potentially useful, a task needs to be [SELECT id=68] **3 p**., you need [SELECT id=69] **3 p.** given enough time, [SELECT id=70] **3 p. **need to be large enough, relative to the investment you put in, and the probability of [SELECT id=71] **3 p**. is comparably high.\n",
+            "questionType": "grammar",
+            "displayNumber": "12.1"
+          },
+          "images": null,
+          "settings": {
+            "points": "3"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.116883",
+          "max_score": 12,
+          "groupping": null,
+          "id": 4746868,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 68,
+              "parent": "c08ef470-86a7-4480-85a6-5fedce03d846",
+              "choices": [
+                {
+                  "id": "00a40bab-7aa3-4ab2-a389-f578b60e09a5",
+                  "text": "difficult to complete successfully"
+                },
+                {
+                  "id": "ae0ae1ea-c7cf-4b03-b9cf-bef513b66054",
+                  "text": "capable of being accomplished",
+                  "correct": true
+                },
+                {
+                  "id": "19a9cd24-a274-4f9d-9b6b-579cfc99d279",
+                  "text": "interesting enough for the person"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 69,
+              "parent": "c08ef470-86a7-4480-85a6-5fedce03d846",
+              "choices": [
+                {
+                  "id": "8200f6b9-6e75-4af7-9d40-6da564f22795",
+                  "text": "the potential to accomplish it",
+                  "correct": true
+                },
+                {
+                  "id": "ad5846dd-00d2-46b3-9f02-1ad20a4674f4",
+                  "text": "a suitable education"
+                },
+                {
+                  "id": "49d1ef51-b62e-4f6b-90f5-f05b0fd02865",
+                  "text": "support from other people"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 70,
+              "parent": "c08ef470-86a7-4480-85a6-5fedce03d846",
+              "choices": [
+                {
+                  "id": "8f5026cc-2335-46a7-96ac-620a998186cd",
+                  "text": "the motivation for it"
+                },
+                {
+                  "id": "ac0dbd78-9999-4175-8422-db46d2e03c43",
+                  "text": "the amount of practice"
+                },
+                {
+                  "id": "49f0b0c0-9d70-4244-bb9b-06536021623c",
+                  "text": "the rewards of achieving it",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 71,
+              "parent": "c08ef470-86a7-4480-85a6-5fedce03d846",
+              "choices": [
+                {
+                  "id": "5cf59de6-c324-442c-baa1-dcac4286bc5a",
+                  "text": "quick initial progress"
+                },
+                {
+                  "id": "b53fa38e-3add-40f8-a7b5-62f2b739a307",
+                  "text": "achieving those benefits",
+                  "correct": true
+                },
+                {
+                  "id": "e87d8048-dfa9-4b8b-82fd-115f1f5915e0",
+                  "text": "an unsuccessful outcome"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "c08ef470-86a7-4480-85a6-5fedce03d846",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2022-06-02T10:44:30.838493"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Listen, and choose the most polite response. 3 p.\n\n​\n\nPassenger: Oh, for sure I don’t want to wait until tomorrow, so definitely 8:20 tonight please. But, by the way, will I be able to get a refund on the ticket cost?\n\n​\n\n[LINK text=The passenger’s line.|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/index.html#8.4]\n\n​\n\nCustomer Service Representative:\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "Listen, and choose the most polite response. 3 p.\n\n​\n\nPassenger: Oh, for sure I don’t want to wait until tomorrow, so definitely 8:20 tonight please. But, by the way, will I be able to get a refund on the ticket cost?\n\n​\n\n[LINK text=The passenger’s line.|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/index.html#8.4]\n\n​\n\nCustomer Service Representative:\n",
+            "displayNumber": "8.4."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.114179",
+          "max_score": 3,
+          "groupping": null,
+          "id": 3812599,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 10,
+              "text": "[LINK text=Option A.|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/index.html#8.4]",
+              "parent": "95345a46-0a72-4b54-af7e-632cc85ff354",
+              "choices": []
+            },
+            {
+              "id": 11,
+              "text": "[LINK text=Option B.|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/index.html#8.4]",
+              "parent": "95345a46-0a72-4b54-af7e-632cc85ff354",
+              "choices": []
+            },
+            {
+              "id": 12,
+              "text": "[LINK text=Option C.|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/index.html#8.4]",
+              "parent": "95345a46-0a72-4b54-af7e-632cc85ff354",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "95345a46-0a72-4b54-af7e-632cc85ff354",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2021-10-04T09:05:53.427706"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Practice, Hard Work, and Giving Up 16 p.**\n\n&NewLine;\n\nRead the text carefully and then choose the best option for each gap in the text.\n\n&NewLine;\n\n**Material**\n\n[LINK text=Text: Practice, Hard Work, and Giving Up|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/attachments/index.html#12.A]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "**Practice, Hard Work, and Giving Up 16 p.**\n\n&NewLine;\n\nRead the text carefully and then choose the best option for each gap in the text.\n\n&NewLine;\n\n**Material**\n\n[LINK text=Text: Practice, Hard Work, and Giving Up|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/attachments/index.html#12.A]\n",
+            "questionType": "grammar",
+            "displayNumber": "12."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "c08ef470-86a7-4480-85a6-5fedce03d846",
+            "8221452f-9bbe-47c2-95f9-ceaabef5604f"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-30T12:33:03.111736",
+          "max_score": null,
+          "groupping": null,
+          "id": 4746775,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "ca75ef50-3784-42b7-95c6-dabfdc365c66",
+          "order_number": 14,
+          "multipart": true,
+          "created_at": "2022-06-02T10:40:56.932328"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "While that does leave many tasks for which passionate persistence and practice might pay off (and many for which it will not), this utility always exists in the context of other people doing likewise. For that reason, beyond a certain ceiling of effort more is not necessarily much of a guarantee of success. You can think of grit as something [SELECT id=72] **2 p**.. Finally, all of that needs to be weighed against the other things you could be doing with your time. Time spent being gritty about sports is time not spent being gritty about academics, which is time not spent being gritty about music, and so on.\n\n&NewLine;\n\nIf you want to reach your potential within a domain, there’s really no other option. You’ll need to invest lots of time and effort. [SELECT id=73] **2 p**. is the tricky part.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "While that does leave many tasks for which passionate persistence and practice might pay off (and many for which it will not), this utility always exists in the context of other people doing likewise. For that reason, beyond a certain ceiling of effort more is not necessarily much of a guarantee of success. You can think of grit as something [SELECT id=72] **2 p**.. Finally, all of that needs to be weighed against the other things you could be doing with your time. Time spent being gritty about sports is time not spent being gritty about academics, which is time not spent being gritty about music, and so on.\n\n&NewLine;\n\nIf you want to reach your potential within a domain, there’s really no other option. You’ll need to invest lots of time and effort. [SELECT id=73] **2 p**. is the tricky part.\n",
+            "questionType": "grammar",
+            "displayNumber": "12.2"
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.108345",
+          "max_score": 4,
+          "groupping": null,
+          "id": 4747152,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 72,
+              "parent": "8221452f-9bbe-47c2-95f9-ceaabef5604f",
+              "choices": [
+                {
+                  "id": "8c0369d9-2d25-4b9a-b7e9-6471dbd3eeea",
+                  "text": "that is a prerequisite for success rather than a great determinant",
+                  "correct": true
+                },
+                {
+                  "id": "e6c476a2-5e89-4f1a-95fb-ee70deab013d",
+                  "text": "that some persons are quite simply better at than others"
+                },
+                {
+                  "id": "2cfe2f8c-a730-4295-b83c-8f0db3822545",
+                  "text": "that we need to succeed in almost anything we want to achieve"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 73,
+              "parent": "8221452f-9bbe-47c2-95f9-ceaabef5604f",
+              "choices": [
+                {
+                  "id": "f91e479d-722f-4370-b9cd-5052945db8a2",
+                  "text": "Figuring out where that effort should go",
+                  "correct": true
+                },
+                {
+                  "id": "6b137ba0-77bc-4d36-a5ff-0a53b3b765e9",
+                  "text": "Finding enough time to practice"
+                },
+                {
+                  "id": "de2a2393-8614-4829-9b6f-1b702a5906e4",
+                  "text": "Motivating yourself to make the effort"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "8221452f-9bbe-47c2-95f9-ceaabef5604f",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2022-06-02T10:51:21.557042"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Innovation 6 p.**\n\n​\n\nThis is a podcast of a professor talking about his innovation. You may listen to the recording twice. Listen to the recording and answer the questions in Finnish. Please write a concise answer not exceeding 100 characters for each question. Exceeding the maximum number of characters will lead to points being cut.\n\n​\n\n[LINK text=The whole recording|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/index.html#4.2.]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "**Innovation 6 p.**\n\n​\n\nThis is a podcast of a professor talking about his innovation. You may listen to the recording twice. Listen to the recording and answer the questions in Finnish. Please write a concise answer not exceeding 100 characters for each question. Exceeding the maximum number of characters will lead to points being cut.\n\n​\n\n[LINK text=The whole recording|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/index.html#4.2.]\n",
+            "questionType": "listening-comprehension",
+            "displayNumber": "4."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "3af53c0c-3028-4dc7-832e-250876d4b647",
+            "98189b24-a2f9-44b4-9f15-42e5fafafc63"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-30T12:33:03.105299",
+          "max_score": null,
+          "groupping": null,
+          "id": 3811876,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "2faf87ef-1c07-4b62-b46b-ba84d484f24b",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2021-10-04T08:49:24.647673"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**What is ‘Fake News’? 20 p.**\n\n&NewLine;\n\nRead the text carefully and then choose the best option for each gap in the text.\n\n&NewLine;\n\n‘Fake news’ is news stories that are either completely untrue, or do not contain all the truth, with a view [SELECT id=31] **2 p.**.\n\n&NewLine;\n\nFake news became prominent during the US election, with supporters of both sides tweeting false information in the hope [SELECT id=32] **2 p.**.\n\n&NewLine;\n\nIn May 1897, Mark Twain, the American author, was in London. Rumours reached the US that he was very ill and, later, that he had died. In a letter to Frank Marshall White, a journalist who inquired after his health as a result, Mark Twain suggested that the rumours had started because his cousin, who shared his surname, had been ill a few weeks before. He noted dryly to White, “The report of my death was an exaggeration”.\n\n&NewLine;\n\nIt had, nonetheless, been widely reported in the US, [SELECT id=34] **2 p.** even printing an obituary.\n\n&NewLine;\n\nFake news is not:\n\n&NewLine;\n\nArticles on satirical or humorous websites, or related publications, that make a comment on the news by satirising them, because this is intended [SELECT id=35] **2 p**., not misinform;\n\nAnything obvious that ‘everyone already knows’ (often described using the caption ‘that’s not news’); or An article [SELECT id=36] **2 p**..\n\n&NewLine;\n\nThe calculated intention of fake news [SELECT id=37] **2 p.**.\n\n&NewLine;\n\nIt is worth remembering that everyone has their opinions, and therefore sources of [SELECT id=38] **2 p.** in what they write. These may be the kind we are aware of – or not. News organisations tend to have an organisational ‘view’ or political slant. For example, the UK’s Guardian is broadly left-wing, and most of the UK tabloids are right-wing [SELECT id=39] **2 p.**, and this affects both what they report and how they report it.\n\n&NewLine;\n\nAs a reader, you also have prejudices, [SELECT id=40] **2 p**., and these affect the stories you choose to read, and the sources you use. It is therefore possible to self-select only stories that confirm your own view of the world, and social media is very good at helping with this.\n\n&NewLine;\n\nTo overcome this, it is important to use more than one source of information, and try to ensure that they have [SELECT id=41] **2 p**. in their political views.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "**What is ‘Fake News’? 20 p.**\n\n&NewLine;\n\nRead the text carefully and then choose the best option for each gap in the text.\n\n&NewLine;\n\n‘Fake news’ is news stories that are either completely untrue, or do not contain all the truth, with a view [SELECT id=31] **2 p.**.\n\n&NewLine;\n\nFake news became prominent during the US election, with supporters of both sides tweeting false information in the hope [SELECT id=32] **2 p.**.\n\n&NewLine;\n\nIn May 1897, Mark Twain, the American author, was in London. Rumours reached the US that he was very ill and, later, that he had died. In a letter to Frank Marshall White, a journalist who inquired after his health as a result, Mark Twain suggested that the rumours had started because his cousin, who shared his surname, had been ill a few weeks before. He noted dryly to White, “The report of my death was an exaggeration”.\n\n&NewLine;\n\nIt had, nonetheless, been widely reported in the US, [SELECT id=34] **2 p.** even printing an obituary.\n\n&NewLine;\n\nFake news is not:\n\n&NewLine;\n\nArticles on satirical or humorous websites, or related publications, that make a comment on the news by satirising them, because this is intended [SELECT id=35] **2 p**., not misinform;\n\nAnything obvious that ‘everyone already knows’ (often described using the caption ‘that’s not news’); or An article [SELECT id=36] **2 p**..\n\n&NewLine;\n\nThe calculated intention of fake news [SELECT id=37] **2 p.**.\n\n&NewLine;\n\nIt is worth remembering that everyone has their opinions, and therefore sources of [SELECT id=38] **2 p.** in what they write. These may be the kind we are aware of – or not. News organisations tend to have an organisational ‘view’ or political slant. For example, the UK’s Guardian is broadly left-wing, and most of the UK tabloids are right-wing [SELECT id=39] **2 p.**, and this affects both what they report and how they report it.\n\n&NewLine;\n\nAs a reader, you also have prejudices, [SELECT id=40] **2 p**., and these affect the stories you choose to read, and the sources you use. It is therefore possible to self-select only stories that confirm your own view of the world, and social media is very good at helping with this.\n\n&NewLine;\n\nTo overcome this, it is important to use more than one source of information, and try to ensure that they have [SELECT id=41] **2 p**. in their political views.\n",
+            "questionType": "reading",
+            "displayNumber": "13."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-30T12:33:03.100409",
+          "max_score": 22,
+          "groupping": null,
+          "id": 3832298,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 31,
+              "parent": "f365fed8-7254-406e-9dd3-35ad61a2e4a6",
+              "choices": [
+                {
+                  "id": "ccbcbe1a-6673-465b-9742-d43e10393b98",
+                  "text": "with one newspaper"
+                },
+                {
+                  "id": "deb01550-194d-4602-be57-17f870dcbb5a",
+                  "text": "to inform and amuse"
+                },
+                {
+                  "id": "30d3e922-f0ba-431e-a65b-57bac709424a",
+                  "text": "of which you form an opinion"
+                },
+                {
+                  "id": "89102c9f-956b-49ed-a046-3101d4883613",
+                  "text": "to start a public debate"
+                },
+                {
+                  "id": "f74b240a-c960-4246-8daa-70aca9c317ed",
+                  "text": "whose content you disagree with"
+                },
+                {
+                  "id": "7312344d-3cc5-4218-8a0e-7e9d1993efc7",
+                  "text": "to deliberately misdirecting readers",
+                  "correct": true
+                },
+                {
+                  "id": "7bdebdcb-c34f-41f2-9beb-289eda464e4b",
+                  "text": "of influencing voters"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 32,
+              "parent": "f365fed8-7254-406e-9dd3-35ad61a2e4a6",
+              "choices": [
+                {
+                  "id": "0b138435-6659-48fa-8b42-bf7ac80ffcac",
+                  "text": "with one newspaper"
+                },
+                {
+                  "id": "30694060-22a1-4267-8d14-4d38527155a5",
+                  "text": "to inform and amuse"
+                },
+                {
+                  "id": "fd3f02e6-f712-4af1-939b-49b3edc9dd11",
+                  "text": "of which you form an opinion"
+                },
+                {
+                  "id": "45a889d6-e0a0-4875-90bb-e37661654e90",
+                  "text": "to start a public debate"
+                },
+                {
+                  "id": "8800ba15-052a-4141-96b2-c7fc6f9d56da",
+                  "text": "whose content you disagree with"
+                },
+                {
+                  "id": "eaee7012-65fe-4d7b-8abf-4b508afb15a8",
+                  "text": "to deliberately misdirecting readers"
+                },
+                {
+                  "id": "1934966a-b64a-44a4-92d7-f11941b7630b",
+                  "text": "of influencing voters",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 33,
+              "parent": "f365fed8-7254-406e-9dd3-35ad61a2e4a6",
+              "choices": [
+                {
+                  "id": "94f93ec4-e0e2-4aa6-b6cd-60e93e16ed5d",
+                  "text": "with one newspaper",
+                  "correct": true
+                },
+                {
+                  "id": "42a1ae74-fa49-4059-9308-7426f18b2f65",
+                  "text": "to inform and amuse"
+                },
+                {
+                  "id": "fd3b81be-d3f4-4456-bef4-10d808b785ea",
+                  "text": "of which you form an opinion"
+                },
+                {
+                  "id": "6b065c49-be6b-4afd-bb4a-60793617809c",
+                  "text": "to start a public debate"
+                },
+                {
+                  "id": "c3c96b33-76ad-43a4-97d5-e515e59fbdf7",
+                  "text": "whose content you disagree with"
+                },
+                {
+                  "id": "5fbb2c62-cbf5-4da1-be01-e97f68a85a90",
+                  "text": "to deliberately misdirecting readers"
+                },
+                {
+                  "id": "8fc07627-5d99-4e31-9d9f-89e263e9d7fb",
+                  "text": "of influencing voters"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 34,
+              "parent": "f365fed8-7254-406e-9dd3-35ad61a2e4a6",
+              "choices": [
+                {
+                  "id": "d4df9f2c-0580-4829-8458-73ee73fdd919",
+                  "text": "with one newspaper",
+                  "correct": true
+                },
+                {
+                  "id": "f4af6043-3d1f-45d7-97cc-5931a4565ad7",
+                  "text": "to inform and amuse"
+                },
+                {
+                  "id": "7b9b6043-2bee-4de9-9c1e-e82f7d6b2b53",
+                  "text": "of which you form an opinion"
+                },
+                {
+                  "id": "64afd861-d6e0-49a0-9887-7749d6c2581e",
+                  "text": "to start a public debate"
+                },
+                {
+                  "id": "5e4f545f-177f-4afc-923b-598d3a1d68a1",
+                  "text": "whose content you disagree with"
+                },
+                {
+                  "id": "88fc587e-e2e9-4976-9e43-b058d74daf3b",
+                  "text": "to deliberately misdirecting readers"
+                },
+                {
+                  "id": "d490e9ba-574f-495f-9fb8-3797b3c1b9b0",
+                  "text": "of influencing voters"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 35,
+              "parent": "f365fed8-7254-406e-9dd3-35ad61a2e4a6",
+              "choices": [
+                {
+                  "id": "28bb93a6-c2ea-416b-b93f-44e938bdadc4",
+                  "text": "with one newspaper"
+                },
+                {
+                  "id": "70b67418-54af-4f52-8b06-6145d02b01d8",
+                  "text": "to inform and amuse",
+                  "correct": true
+                },
+                {
+                  "id": "a76bc6ce-efdf-4b59-9c67-2dec7b4203d3",
+                  "text": "of which you form an opinion"
+                },
+                {
+                  "id": "9c47556e-55ce-4c94-9816-edd9a4a4c53f",
+                  "text": "to start a public debate"
+                },
+                {
+                  "id": "478c5a36-65dd-4021-9409-c2de65512e8c",
+                  "text": "whose content you disagree with"
+                },
+                {
+                  "id": "e625a7e9-ef21-4982-ac40-1332264fcb31",
+                  "text": "to deliberately misdirecting readers"
+                },
+                {
+                  "id": "7f30afdb-96c7-40b6-a062-8efcf5e2f14d",
+                  "text": "of influencing voters"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 36,
+              "parent": "f365fed8-7254-406e-9dd3-35ad61a2e4a6",
+              "choices": [
+                {
+                  "id": "000f8561-6611-4844-b9f3-d47f5c1acf76",
+                  "text": "with one newspaper"
+                },
+                {
+                  "id": "b190f54b-4eaf-43e5-98be-fd44cb6c4ae6",
+                  "text": "to inform and amuse"
+                },
+                {
+                  "id": "e461c2a6-4c96-45a6-a908-9c189ca2e759",
+                  "text": "of which you form an opinion"
+                },
+                {
+                  "id": "6735cd04-e1f9-4697-95b9-8759494ad19e",
+                  "text": "to start a public debate"
+                },
+                {
+                  "id": "2c129eb8-e40a-476c-9c20-7f4317322abc",
+                  "text": "whose content you disagree with",
+                  "correct": true
+                },
+                {
+                  "id": "67ef6b6c-86b6-44f6-9b8e-26fb9bf5056e",
+                  "text": "to deliberately misdirecting readers"
+                },
+                {
+                  "id": "e4e9731c-7ab3-4dd7-84aa-e69386e3d37c",
+                  "text": "of influencing voters"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 37,
+              "parent": "f365fed8-7254-406e-9dd3-35ad61a2e4a6",
+              "choices": [
+                {
+                  "id": "ff3bd2fd-1f50-4d3d-adc7-fc5ecdcb4015",
+                  "text": "at least small differences"
+                },
+                {
+                  "id": "17e2478e-66e7-4746-8eae-8e0c286d7952",
+                  "text": "with opinions are based only on facts"
+                },
+                {
+                  "id": "5f39c2be-447a-4e20-8b27-841b90f67e07",
+                  "text": "in their views"
+                },
+                {
+                  "id": "066ef3cf-735f-4aee-af97-2fcaf6574365",
+                  "text": "potential bias"
+                },
+                {
+                  "id": "f632da90-5dc3-402f-b69a-92c89dab8d5c",
+                  "text": "both conscious and unconscious"
+                },
+                {
+                  "id": "a1232087-da7f-4bf4-8a30-b8191a382a46",
+                  "text": "without false accusations"
+                },
+                {
+                  "id": "198fd560-82e9-4cdd-94e5-6efd339b20bb",
+                  "text": "to mislead is crucial",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 38,
+              "parent": "f365fed8-7254-406e-9dd3-35ad61a2e4a6",
+              "choices": [
+                {
+                  "id": "2bbd0e41-8734-47b6-9726-adc6b91042d9",
+                  "text": "at least small differences"
+                },
+                {
+                  "id": "466b65d1-aecc-4172-9b15-02652ddf9c5c",
+                  "text": "with opinions are based only on facts"
+                },
+                {
+                  "id": "83393a91-2212-4d39-b57b-4d1a30f08611",
+                  "text": "in their views"
+                },
+                {
+                  "id": "4cbff8d2-1cab-4930-9df3-de07fed47b32",
+                  "text": "potential bias",
+                  "correct": true
+                },
+                {
+                  "id": "dbe55a6f-e9d6-496e-b3ff-b5074dcd6be2",
+                  "text": "both conscious and unconscious"
+                },
+                {
+                  "id": "de1f5805-724a-459a-88e9-61fa4e0661dc",
+                  "text": "without false accusations"
+                },
+                {
+                  "id": "d5a0d224-9d04-4732-a97b-a40e849782e9",
+                  "text": "to mislead is crucial"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 39,
+              "parent": "f365fed8-7254-406e-9dd3-35ad61a2e4a6",
+              "choices": [
+                {
+                  "id": "8828fabb-1228-4293-b672-b1cd02052102",
+                  "text": "at least small differences"
+                },
+                {
+                  "id": "98ab7306-6311-4491-802a-1723894bdbcd",
+                  "text": "with opinions are based only on facts"
+                },
+                {
+                  "id": "2eba0f5c-674d-4d49-88ef-26ba9b30615f",
+                  "text": "in their views",
+                  "correct": true
+                },
+                {
+                  "id": "521cc591-c116-4c1e-94be-1e95312f8be0",
+                  "text": "potential bias"
+                },
+                {
+                  "id": "d420f765-43c0-4e22-9350-b97217889c93",
+                  "text": "both conscious and unconscious"
+                },
+                {
+                  "id": "9f704fb4-ed63-4dc3-b182-4e7f598abe43",
+                  "text": "without false accusations"
+                },
+                {
+                  "id": "bbd9a784-2ea3-429e-b801-ea2468a5b236",
+                  "text": "to mislead is crucial"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 40,
+              "parent": "f365fed8-7254-406e-9dd3-35ad61a2e4a6",
+              "choices": [
+                {
+                  "id": "aeb83cf9-69fb-438d-8e6c-10fda4f9ed66",
+                  "text": "at least small differences"
+                },
+                {
+                  "id": "36b4dc12-9879-43fe-b0c4-b46af4317510",
+                  "text": "with opinions are based only on facts"
+                },
+                {
+                  "id": "d4125d2d-df2c-45e1-9a41-e823ee14d165",
+                  "text": "in their views"
+                },
+                {
+                  "id": "ef6cad6a-5576-4d97-9694-d8ac0db17b49",
+                  "text": "potential bias"
+                },
+                {
+                  "id": "95415d8b-8857-4d5f-9851-2e72ad2673c4",
+                  "text": "both conscious and unconscious",
+                  "correct": true
+                },
+                {
+                  "id": "8d001699-1394-418c-9440-253866338e56",
+                  "text": "without false accusations"
+                },
+                {
+                  "id": "5308b046-1bb7-41d7-aa12-7092c250dd2b",
+                  "text": "to mislead is crucial"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 41,
+              "parent": "f365fed8-7254-406e-9dd3-35ad61a2e4a6",
+              "choices": [
+                {
+                  "id": "e69dcd55-3376-4905-b053-af93fbfecc73",
+                  "text": "at least small differences",
+                  "correct": true
+                },
+                {
+                  "id": "64a6824b-3d1a-4d97-bf43-3c9f242bd2fe",
+                  "text": "with opinions are based only on facts"
+                },
+                {
+                  "id": "ac6d7909-c6e0-46e9-9cf9-324294baaf5d",
+                  "text": "in their views"
+                },
+                {
+                  "id": "76dce57c-c071-4a79-96da-c053a877be08",
+                  "text": "potential bias"
+                },
+                {
+                  "id": "e3821310-a3e1-4477-b715-bf08f742ccdf",
+                  "text": "both conscious and unconscious"
+                },
+                {
+                  "id": "97e613fb-62a2-4db1-9840-5f68f1e58050",
+                  "text": "without false accusations"
+                },
+                {
+                  "id": "9fedbb35-b366-4650-a2ac-359db6301630",
+                  "text": "to mislead is crucial"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "f365fed8-7254-406e-9dd3-35ad61a2e4a6",
+          "order_number": 15,
+          "multipart": true,
+          "created_at": "2021-10-04T13:12:13.389148"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**An Ancient “Lost City” Teeming with Life 10 p.**\n\n&NewLine;\n\nRead the text carefully and fill in each gap in English according to the clue and using the correct form in each sentence.\n\n&NewLine;\n\nLocated in [GAP id=46]1 p. corner of Honduras and the northern tip of Nicaragua, the dense tropical forest of La Mosquitia is – until recently – [GAP id=47] 1 p. scientifically explored places on Earth. In 2013, archaeologists using LIDAR (light detection and ranging) mapping technology unearthed the remains of an ancient, “lost city” buried [GAP id=48] 1 p..\n\n&NewLine;\n\nEver since, researchers have been studying this dense jungle, looking [GAP id=49] 1 p. for more of the ancient Mesoamerican city’s remains, [GAP id=50] 1 p. scouring its untouched terrain in search of wildlife. What they recently found was greater than they had anticipated: a rich ecosystem teeming with hundreds of species of fauna and flora – [GAP id=51]1 p. had been [GAP id=52] 1 p. believed to be extinct.\n\n&NewLine;\n\nIn 2017 a team of biologists spent two weeks in the jungle [GAP id=53] 1 p. the many rare and endangered species that have found the watershed of the River Plátano, to be the perfect environment [GAP id=54] 1 p. in.\n\n&NewLine;\n\nThe main explanation for such diversity is that the area remained practically untouched by humans [GAP id=55]1 p. after the ancestors of indigenous communities who now live in the region inexplicably left the ancient city that once stood there.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "**An Ancient “Lost City” Teeming with Life 10 p.**\n\n&NewLine;\n\nRead the text carefully and fill in each gap in English according to the clue and using the correct form in each sentence.\n\n&NewLine;\n\nLocated in [GAP id=46]1 p. corner of Honduras and the northern tip of Nicaragua, the dense tropical forest of La Mosquitia is – until recently – [GAP id=47] 1 p. scientifically explored places on Earth. In 2013, archaeologists using LIDAR (light detection and ranging) mapping technology unearthed the remains of an ancient, “lost city” buried [GAP id=48] 1 p..\n\n&NewLine;\n\nEver since, researchers have been studying this dense jungle, looking [GAP id=49] 1 p. for more of the ancient Mesoamerican city’s remains, [GAP id=50] 1 p. scouring its untouched terrain in search of wildlife. What they recently found was greater than they had anticipated: a rich ecosystem teeming with hundreds of species of fauna and flora – [GAP id=51]1 p. had been [GAP id=52] 1 p. believed to be extinct.\n\n&NewLine;\n\nIn 2017 a team of biologists spent two weeks in the jungle [GAP id=53] 1 p. the many rare and endangered species that have found the watershed of the River Plátano, to be the perfect environment [GAP id=54] 1 p. in.\n\n&NewLine;\n\nThe main explanation for such diversity is that the area remained practically untouched by humans [GAP id=55]1 p. after the ancestors of indigenous communities who now live in the region inexplicably left the ancient city that once stood there.\n",
+            "questionType": "grammar",
+            "displayNumber": "15."
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-30T12:33:03.096955",
+          "max_score": 10,
+          "groupping": null,
+          "id": 3832487,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 46,
+              "hint": "itäisimmässä",
+              "parent": "20ae96b2-08f3-4204-924d-dd5a62a73a63",
+              "choices": [],
+              "correct": "the most eastern | the easternmost",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 47,
+              "hint": "yksi viimeisistä",
+              "parent": "20ae96b2-08f3-4204-924d-dd5a62a73a63",
+              "choices": [],
+              "correct": "one of the last",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 48,
+              "hint": "sen syvyyksissä",
+              "parent": "20ae96b2-08f3-4204-924d-dd5a62a73a63",
+              "choices": [],
+              "correct": "in its depths | within its depths",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 49,
+              "hint": "ei pelkästään",
+              "parent": "20ae96b2-08f3-4204-924d-dd5a62a73a63",
+              "choices": [],
+              "correct": "not only",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 50,
+              "hint": "mutta myös",
+              "parent": "20ae96b2-08f3-4204-924d-dd5a62a73a63",
+              "choices": [],
+              "correct": "but also",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 51,
+              "hint": "joista jotkut",
+              "parent": "20ae96b2-08f3-4204-924d-dd5a62a73a63",
+              "choices": [],
+              "correct": "some of which",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 52,
+              "hint": "aiemmin",
+              "parent": "20ae96b2-08f3-4204-924d-dd5a62a73a63",
+              "choices": [],
+              "correct": "earlier | previously",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 53,
+              "hint": "luetteloida",
+              "parent": "20ae96b2-08f3-4204-924d-dd5a62a73a63",
+              "choices": [],
+              "correct": "cataloguing | mapping | listing",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 54,
+              "hint": "kukoistaa",
+              "parent": "20ae96b2-08f3-4204-924d-dd5a62a73a63",
+              "choices": [],
+              "correct": "to thrive | to flourish | to prosper",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 55,
+              "hint": "vuosisatojen ajan",
+              "parent": "20ae96b2-08f3-4204-924d-dd5a62a73a63",
+              "choices": [],
+              "correct": "for centuries",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "20ae96b2-08f3-4204-924d-dd5a62a73a63",
+          "order_number": 18,
+          "multipart": true,
+          "created_at": "2021-10-04T13:32:19.637273"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**This Does Not Look Right 9 p.**\n\n&NewLine;\n\nYou are applying to a university in the UK, and below is the beginning of your motivation letter. It has register clashes, which have been underlined. Replace the underlined expression with a more formal and/or polite one.\n\n&NewLine;\n\nEver since I was ten years old, **I’v**e known my future career will involve working with people. At secondary school, I grew extremely interested in psychology. **Things** related to the human mind, **like** emotions and behaviour patterns are highly intriguing. Since I **want** to specialise in child psychology and especially learning problems, Johnston University would provide me with the best possible education. My aim is to **get** as thorough an understanding as possible to be able to help children overcome obstacles hindering them from learning.\n\n&NewLine;\n\nJohnston University and its famous psychology department play **a big** role in research and in education. **And**, the open curriculum has various benefits. Being able to study **a lot of** languages will help me to interact and create stronger networks. I am also **a bit** interested in having social sciences as my minor subject.\n\n&NewLine;\n\nEver since I was ten years old, [GAP id=56] 1 p. known my future career will involve working with people. At secondary school, I grew extremely interested in psychology. [GAP id=57] 1 p. related to the human mind, [GAP id=58]\n\n1 p. emotions and behaviour patterns are highly intriguing. Since I [GAP id=59] 1 p. to specialise in child psychology and especially learning problems, Johnston University would provide me with the best possible education. My aim is to [GAP id=60] 1 p. as thorough an understanding as possible to be able to help children overcome obstacles hindering them from learning.\n\n&NewLine;\n\nJohnston University and its famous psychology department play a [GAP id=61] 1 p. role in research and in education. [GAP id=62] 1 p., the open curriculum has various benefits. Being able to study [GAP id=63] 1 p. languages will help me to interact and create stronger networks. I am also [GAP id=64] 1 p. interested in having social sciences as my minor subject.\n\n&NewLine;\n\n&NewLine;\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "**This Does Not Look Right 9 p.**\n\n&NewLine;\n\nYou are applying to a university in the UK, and below is the beginning of your motivation letter. It has register clashes, which have been underlined. Replace the underlined expression with a more formal and/or polite one.\n\n&NewLine;\n\nEver since I was ten years old, **I’v**e known my future career will involve working with people. At secondary school, I grew extremely interested in psychology. **Things** related to the human mind, **like** emotions and behaviour patterns are highly intriguing. Since I **want** to specialise in child psychology and especially learning problems, Johnston University would provide me with the best possible education. My aim is to **get** as thorough an understanding as possible to be able to help children overcome obstacles hindering them from learning.\n\n&NewLine;\n\nJohnston University and its famous psychology department play **a big** role in research and in education. **And**, the open curriculum has various benefits. Being able to study **a lot of** languages will help me to interact and create stronger networks. I am also **a bit** interested in having social sciences as my minor subject.\n\n&NewLine;\n\nEver since I was ten years old, [GAP id=56] 1 p. known my future career will involve working with people. At secondary school, I grew extremely interested in psychology. [GAP id=57] 1 p. related to the human mind, [GAP id=58]\n\n1 p. emotions and behaviour patterns are highly intriguing. Since I [GAP id=59] 1 p. to specialise in child psychology and especially learning problems, Johnston University would provide me with the best possible education. My aim is to [GAP id=60] 1 p. as thorough an understanding as possible to be able to help children overcome obstacles hindering them from learning.\n\n&NewLine;\n\nJohnston University and its famous psychology department play a [GAP id=61] 1 p. role in research and in education. [GAP id=62] 1 p., the open curriculum has various benefits. Being able to study [GAP id=63] 1 p. languages will help me to interact and create stronger networks. I am also [GAP id=64] 1 p. interested in having social sciences as my minor subject.\n\n&NewLine;\n\n&NewLine;\n",
+            "questionType": "grammar",
+            "displayNumber": "16."
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-30T12:33:03.092163",
+          "max_score": 9,
+          "groupping": null,
+          "id": 3832704,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 56,
+              "hint": "I've",
+              "parent": "ea8cbaff-d152-41c0-a14b-8e3217b9e988",
+              "choices": [],
+              "correct": "I have",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 57,
+              "hint": "Things",
+              "parent": "ea8cbaff-d152-41c0-a14b-8e3217b9e988",
+              "choices": [],
+              "correct": "Aspects | Factors | Issues",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 58,
+              "hint": "like",
+              "parent": "ea8cbaff-d152-41c0-a14b-8e3217b9e988",
+              "choices": [],
+              "correct": "such as",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 59,
+              "hint": "want",
+              "parent": "ea8cbaff-d152-41c0-a14b-8e3217b9e988",
+              "choices": [],
+              "correct": "would like | would wish | would hope",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 60,
+              "hint": "get",
+              "parent": "ea8cbaff-d152-41c0-a14b-8e3217b9e988",
+              "choices": [],
+              "correct": "obtain | achieve | acquire | gain",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 61,
+              "hint": "big",
+              "parent": "ea8cbaff-d152-41c0-a14b-8e3217b9e988",
+              "choices": [],
+              "correct": "major | significant",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 62,
+              "hint": "And",
+              "parent": "ea8cbaff-d152-41c0-a14b-8e3217b9e988",
+              "choices": [],
+              "correct": "Furthermore | In addition | Also | Moreover",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 63,
+              "hint": "a lot of",
+              "parent": "ea8cbaff-d152-41c0-a14b-8e3217b9e988",
+              "choices": [],
+              "correct": "several | numerous | many",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 64,
+              "hint": "a bit",
+              "parent": "ea8cbaff-d152-41c0-a14b-8e3217b9e988",
+              "choices": [],
+              "correct": "quite | somewhat | rather",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "ea8cbaff-d152-41c0-a14b-8e3217b9e988",
+          "order_number": 19,
+          "multipart": true,
+          "created_at": "2021-10-04T13:46:49.867259"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Sources\n\nSource: https://www.eleven.tv/wp-content/uploads/2020/01/LeedsCollege-PF-26120Leeds\\_v\\_AstonVilla\\_280419.jpg. Accessed: 14.8.2020.\n\nSource: Spot Announcements. University Interscholastic League. https://www.uiltexas.org/files/media/PA-spot-announcements.pdf. Accessed: 14.8.2020.\n\nSource: https://upload.wikimedia.org/wikipedia/commons/e/e5/Elizabeth1England.jpg. Accessed: 6.5.2020.\n\nSource: 288 Elizabeth I And The Historians. The History of England. https://thehistoryofengland.co.uk/blog/2020/04/26/288-elizabeth-i-and-the-historians/. Published: 26.4.2020. Accessed: 6.5.2020.\n\nSource: https://www.depts.ttu.edu/english/general\\_info/directory/OLD\\_faculty\\_profile\\_pages/brianstill\\_bio.jpg. Accessed: 30.4.2020.\n\nSource: Texas Tech University. College of Arts & Sciences. https://www.depts.ttu.edu/artsandsciences/podcast/audio/BrianStillEyetrack.mp3. Accessed: 30.4.2020.\n\nSource: https://uk.whales.org/wp-content/uploads/sites/6/2018/06/humpback-whale-vanessa-mignon.jpg. Accessed: 29.4.2020.\n\nSource: Episode 1: Humpback Whale Song of the Summer. National Geographic. https://www.nationalgeographic.com/podcasts/overheard/episode-1-humpback-whale-song/. Published: 11.6.2019. Accessed: 29.4.2020.\n\nSource: https://static.scientificamerican.com/sciam/cache/file/C335F275-4D98-4633-9B8A16272FE02E43.jpg. Accessed: 11.9.2020.\n\nSource: https://www.scientificamerican.com/podcast/episode/seismologists-find-the-world-quieted-down-during-pandemic-lockdowns/. Published: 25.8.2020. Accessed: 11.9.2020.\n\nSource: https://i1.wp.com/acceleratetv.com/wp-content/uploads/2018/10/unnamed-49.jpg. Accessed: 11.9.2020.\n\nSource: YTL.\n\nSource: Critical Thinking and Fake News. Skills You Need. https://www.skillsyouneed.com/learn/fake-news.html. Accessed: 21.8.2020.\n\nSource: The ancient ’lost city’ teeming with life. BBC. http://www.bbc.com/travel/story/20200604-the-ancient-lost-city-teeming-with-life. Published: 5.6.2020. Accessed: 21.8.2020.\n\nSource: YTL.\n\nSource: https://www.icye.org/wp-content/uploads/2016/02/fullname\\_logo-1.png. Accessed: 13.8.2020.\n\nSource: https://mb.cision.com/Public/642/2598943/bc81527d6c3b50b0\\_800x800ar.jpg. Accessed: 13.8.2020.\n\nSource: https://prodimage.images-bn.com/pimages/9781302506964\\_p0\\_v1\\_s550x406.jpg. Accessed: 29.6.2020.\n\nSource: https://images-na.ssl-images-amazon.com/images/I/51i3dxSex%2BL.\\_AC\\_.jpg. Accessed: 29.6.2020.\n\nSource: https://images.cdn.yle.fi/image/upload//w\\_1199,h\\_800,f\\_auto,fl\\_lossy,q\\_auto:eco/13-3-11097240.jpg. Accessed: 29.6.2020.\n\nSource: https://images.squarespace-cdn.com/content/v1/592880808419c27d193683ef/1588869500325-G248AU5UZ7VPIXLKIH72/ke17ZwdGBToddI8pDm48kC\\_KdXLmephnDLhqt-ChDrtZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpy9aRYrv0rQsPWW6oWi1aJmJAUkSDOs5CdBRWE4cZu5HhAXoFRE13KJCs5Z5rnBOFw/superheroes-without-capes.jpg. Accessed: 29.6.2020.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "### Sources\n\nSource: https://www.eleven.tv/wp-content/uploads/2020/01/LeedsCollege-PF-26120Leeds\\_v\\_AstonVilla\\_280419.jpg. Accessed: 14.8.2020.\n\nSource: Spot Announcements. University Interscholastic League. https://www.uiltexas.org/files/media/PA-spot-announcements.pdf. Accessed: 14.8.2020.\n\nSource: https://upload.wikimedia.org/wikipedia/commons/e/e5/Elizabeth1England.jpg. Accessed: 6.5.2020.\n\nSource: 288 Elizabeth I And The Historians. The History of England. https://thehistoryofengland.co.uk/blog/2020/04/26/288-elizabeth-i-and-the-historians/. Published: 26.4.2020. Accessed: 6.5.2020.\n\nSource: https://www.depts.ttu.edu/english/general\\_info/directory/OLD\\_faculty\\_profile\\_pages/brianstill\\_bio.jpg. Accessed: 30.4.2020.\n\nSource: Texas Tech University. College of Arts & Sciences. https://www.depts.ttu.edu/artsandsciences/podcast/audio/BrianStillEyetrack.mp3. Accessed: 30.4.2020.\n\nSource: https://uk.whales.org/wp-content/uploads/sites/6/2018/06/humpback-whale-vanessa-mignon.jpg. Accessed: 29.4.2020.\n\nSource: Episode 1: Humpback Whale Song of the Summer. National Geographic. https://www.nationalgeographic.com/podcasts/overheard/episode-1-humpback-whale-song/. Published: 11.6.2019. Accessed: 29.4.2020.\n\nSource: https://static.scientificamerican.com/sciam/cache/file/C335F275-4D98-4633-9B8A16272FE02E43.jpg. Accessed: 11.9.2020.\n\nSource: https://www.scientificamerican.com/podcast/episode/seismologists-find-the-world-quieted-down-during-pandemic-lockdowns/. Published: 25.8.2020. Accessed: 11.9.2020.\n\nSource: https://i1.wp.com/acceleratetv.com/wp-content/uploads/2018/10/unnamed-49.jpg. Accessed: 11.9.2020.\n\nSource: YTL.\n\nSource: Critical Thinking and Fake News. Skills You Need. https://www.skillsyouneed.com/learn/fake-news.html. Accessed: 21.8.2020.\n\nSource: The ancient ’lost city’ teeming with life. BBC. http://www.bbc.com/travel/story/20200604-the-ancient-lost-city-teeming-with-life. Published: 5.6.2020. Accessed: 21.8.2020.\n\nSource: YTL.\n\nSource: https://www.icye.org/wp-content/uploads/2016/02/fullname\\_logo-1.png. Accessed: 13.8.2020.\n\nSource: https://mb.cision.com/Public/642/2598943/bc81527d6c3b50b0\\_800x800ar.jpg. Accessed: 13.8.2020.\n\nSource: https://prodimage.images-bn.com/pimages/9781302506964\\_p0\\_v1\\_s550x406.jpg. Accessed: 29.6.2020.\n\nSource: https://images-na.ssl-images-amazon.com/images/I/51i3dxSex%2BL.\\_AC\\_.jpg. Accessed: 29.6.2020.\n\nSource: https://images.cdn.yle.fi/image/upload//w\\_1199,h\\_800,f\\_auto,fl\\_lossy,q\\_auto:eco/13-3-11097240.jpg. Accessed: 29.6.2020.\n\nSource: https://images.squarespace-cdn.com/content/v1/592880808419c27d193683ef/1588869500325-G248AU5UZ7VPIXLKIH72/ke17ZwdGBToddI8pDm48kC\\_KdXLmephnDLhqt-ChDrtZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpy9aRYrv0rQsPWW6oWi1aJmJAUkSDOs5CdBRWE4cZu5HhAXoFRE13KJCs5Z5rnBOFw/superheroes-without-capes.jpg. Accessed: 29.6.2020.\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-30T12:33:03.086055",
+          "max_score": null,
+          "groupping": null,
+          "id": 3832807,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "af79028f-013e-4eaa-89eb-c78d3f2ac301",
+          "order_number": 22,
+          "multipart": true,
+          "created_at": "2021-10-04T13:49:53.825346"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Detecting Earthquakes under Pandemic Lockdown 9 p.**\n\n​\n\nThis is a podcast about detecting and recording earthquakes during the COVID-19 lockdown. You can listen to this part twice: first straight through and then in short sections. Read the questions carefully and choose the best alternative.\n\n​\n\n[LINK text=The whole recording|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/index.html#6]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "**Detecting Earthquakes under Pandemic Lockdown 9 p.**\n\n​\n\nThis is a podcast about detecting and recording earthquakes during the COVID-19 lockdown. You can listen to this part twice: first straight through and then in short sections. Read the questions carefully and choose the best alternative.\n\n​\n\n[LINK text=The whole recording|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/index.html#6]\n",
+            "questionType": "listening-comprehension",
+            "displayNumber": "6."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "ef8afd3e-d0b9-42d1-84bb-781ffd41b6f8",
+            "5f9adc53-5026-418b-9e40-4ebfc309253d",
+            "e6ca73a6-4ff6-4bd1-9cf7-3404df4bcd7a",
+            "f7cfaf66-912f-4bb5-bfbd-c1dff2d2303b",
+            "e416cf43-b02c-4f97-afc2-be9f6a65ddfe",
+            "066de5c7-3fb8-4204-a6a3-ecadc9a983d2"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-30T12:33:03.07708",
+          "max_score": null,
+          "groupping": null,
+          "id": 3812175,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "b055349c-4230-4d1e-a058-1b5f0f823ced",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2021-10-04T08:58:22.642879"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Miniature Horse Therapy (video) 12 p.**\n\n​\n\nThis is a video about pet therapy animals. You can play the video as many times as you want to. Read the questions carefully and choose the best alternative.\n\n​\n\nMaterial\n\n[LINK text=7.A Video: Miniature Horse Therapy|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/attachments/index.html#7.A]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "**Miniature Horse Therapy (video) 12 p.**\n\n​\n\nThis is a video about pet therapy animals. You can play the video as many times as you want to. Read the questions carefully and choose the best alternative.\n\n​\n\nMaterial\n\n[LINK text=7.A Video: Miniature Horse Therapy|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/attachments/index.html#7.A]\n",
+            "questionType": "listening-comprehension",
+            "displayNumber": "7."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "0fb6be51-4bb6-45fb-b924-0ccbb19bfcf1",
+            "ff3aeb19-65b1-4ccb-a5a9-82c57ccd61a5",
+            "acc3a0c5-8047-4134-8a53-50bef949f79b",
+            "766fe219-e7dd-42af-95eb-714e620a32b2"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-30T12:33:03.071838",
+          "max_score": null,
+          "groupping": null,
+          "id": 3812183,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "ac370dd0-b58e-4408-9350-a8d1a4baa493",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2021-10-04T08:58:22.664174"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**The Myth of Elizabeth 6 p.**\n\n​\n\nThis is the beginning of a podcast on the myth of Queen Elizabeth I. You may listen to the recording twice. Listen to the recording and answer the questions in Finnish. Please write a concise answer not exceeding 100 characters for each question. Exceeding the maximum number of characters will lead to points being cut.\n\n​\n\n[LINK text=The whole recording|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/index.html#3.2.]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "**The Myth of Elizabeth 6 p.**\n\n​\n\nThis is the beginning of a podcast on the myth of Queen Elizabeth I. You may listen to the recording twice. Listen to the recording and answer the questions in Finnish. Please write a concise answer not exceeding 100 characters for each question. Exceeding the maximum number of characters will lead to points being cut.\n\n​\n\n[LINK text=The whole recording|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/index.html#3.2.]\n",
+            "questionType": "listening-comprehension",
+            "displayNumber": "3."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "23fab1d8-59b1-418f-b663-cb523d894e36",
+            "8e319a81-d293-43a6-95b8-bae9a2b42685"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-30T12:33:03.082711",
+          "max_score": null,
+          "groupping": null,
+          "id": 3811872,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "7f9138f2-91e6-4cbf-93a0-d33b9b1fb538",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2021-10-04T08:49:24.636529"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Student Football 6 p.**\n\n​\n\nThis is a pre-game announcement in Elland Road Stadium. You may listen to the recording twice. Listen to the recording and answer the questions in Finnish. Please write a concise answer not exceeding 100 characters for each question. Exceeding the maximum number of characters will lead to points being cut.\n\n​\n\n[LINK text=The whole recording.|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/index.html#1.2]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "**Student Football 6 p.**\n\n​\n\nThis is a pre-game announcement in Elland Road Stadium. You may listen to the recording twice. Listen to the recording and answer the questions in Finnish. Please write a concise answer not exceeding 100 characters for each question. Exceeding the maximum number of characters will lead to points being cut.\n\n​\n\n[LINK text=The whole recording.|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/index.html#1.2]\n",
+            "questionType": "listening-comprehension",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "4dc6c115-6de8-404d-b219-0d16d1739bd6",
+            "67e0449b-1b8c-4ab9-917d-c03e739b0c14"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-30T12:33:03.119543",
+          "max_score": null,
+          "groupping": null,
+          "id": 3810152,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "22a80fac-0f40-4544-9eba-3ca4524a8229",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2021-10-04T08:35:52.607908"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Listen, and choose the most polite response. 3 p.\n\n&NewLine;\n\nPassenger: Hi, I’ve just come off the plane from Munich, but it was delayed by the fog, and I’ve missed my connecting flight. Can you help me?\n\n&NewLine;\n\n[LINK text=The passenger’s line.|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/index.html#8.1]\n\n&NewLine;\n\nCustomer Service Representative:\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "Listen, and choose the most polite response. 3 p.\n\n&NewLine;\n\nPassenger: Hi, I’ve just come off the plane from Munich, but it was delayed by the fog, and I’ve missed my connecting flight. Can you help me?\n\n&NewLine;\n\n[LINK text=The passenger’s line.|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/index.html#8.1]\n\n&NewLine;\n\nCustomer Service Representative:\n",
+            "displayNumber": "8.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.121878",
+          "max_score": 3,
+          "groupping": null,
+          "id": 3812285,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 10,
+              "text": "[LINK text=Option A.|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/index.html#8.1]",
+              "parent": "b6e66db1-06d1-4701-b508-010b4b93b23c",
+              "choices": []
+            },
+            {
+              "id": 11,
+              "text": "[LINK text=Option B.|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/index.html#8.1]",
+              "parent": "b6e66db1-06d1-4701-b508-010b4b93b23c",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 12,
+              "text": "[LINK text=Option C.|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/index.html#8.1]",
+              "parent": "b6e66db1-06d1-4701-b508-010b4b93b23c",
+              "choices": []
+            }
+          ],
+          "uuid": "b6e66db1-06d1-4701-b508-010b4b93b23c",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2021-10-04T09:00:50.008703"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**The Real Lord of the Flies 21 p.**\n\n​\n\nRead the text carefully and then answer the questions.\n\n​\n\nMaterial\n\n[LINK text=10.A. Text: The Real Lord of the Flies: what happened when six boys were shipwrecked for 15 months|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/attachments/index.html#10.A]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "**The Real Lord of the Flies 21 p.**\n\n​\n\nRead the text carefully and then answer the questions.\n\n​\n\nMaterial\n\n[LINK text=10.A. Text: The Real Lord of the Flies: what happened when six boys were shipwrecked for 15 months|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/attachments/index.html#10.A]\n",
+            "questionType": "reading",
+            "displayNumber": "10."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "1812a86c-1dce-40d8-a0ba-d466c526b406",
+            "985b52f9-cd30-4c2a-94df-9501e402834e",
+            "e491cd42-2bd7-4aca-aac3-103e89ba0798",
+            "a23eed27-7127-44f9-b612-4c978e0d2720",
+            "ac67c6fd-8e04-4e0b-8152-51660240abbc",
+            "43bbc828-d81a-4e84-a905-c077eed03f46",
+            "6c297ba1-e1d7-44e3-8d62-7feaa9de05e6"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-30T12:33:03.126183",
+          "max_score": null,
+          "groupping": null,
+          "id": 3826462,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "9b7116d5-685f-4578-bfb4-0c9d632b0b0e",
+          "order_number": 12,
+          "multipart": true,
+          "created_at": "2021-10-04T12:02:56.38"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What did the boys do if there was any disagreement? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "What did the boys do if there was any disagreement? 3 p.\n",
+            "displayNumber": "10.6."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.128892",
+          "max_score": 3,
+          "groupping": null,
+          "id": 3826468,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 22,
+              "text": "They punished the fighters with extra work",
+              "parent": "43bbc828-d81a-4e84-a905-c077eed03f46",
+              "choices": []
+            },
+            {
+              "id": 23,
+              "text": "They waited for a while for things to cool down",
+              "parent": "43bbc828-d81a-4e84-a905-c077eed03f46",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 24,
+              "text": "They slept on it and settled it the next day",
+              "parent": "43bbc828-d81a-4e84-a905-c077eed03f46",
+              "choices": []
+            }
+          ],
+          "uuid": "43bbc828-d81a-4e84-a905-c077eed03f46",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2021-10-04T12:02:56.399547"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What does Susanna Reid want Skeena Rathor to prove? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "What does Susanna Reid want Skeena Rathor to prove? 3 p.\n",
+            "displayNumber": "2.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.13102",
+          "max_score": 3,
+          "groupping": null,
+          "id": 3810159,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "text": "That Extinction Rebellion has brought about real changes",
+              "parent": "004703d0-3102-4a18-b0b7-8788c5e52157",
+              "choices": []
+            },
+            {
+              "id": 2,
+              "text": "That the government’s climate decisions have fallen flat",
+              "parent": "004703d0-3102-4a18-b0b7-8788c5e52157",
+              "choices": []
+            },
+            {
+              "id": 3,
+              "text": "That the majority is in favour of environmental activism",
+              "parent": "004703d0-3102-4a18-b0b7-8788c5e52157",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "004703d0-3102-4a18-b0b7-8788c5e52157",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2021-10-04T08:35:52.62748"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Missed Flight 12 p.**\n\n&NewLine;\n\nThis is a conversation in an airport, between a passenger and an airline representative. For each question, decide which of the airline representative’s responses is the most polite. You can listen to the passenger’s line once and to each option as many times as you like.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "**Missed Flight 12 p.**\n\n&NewLine;\n\nThis is a conversation in an airport, between a passenger and an airline representative. For each question, decide which of the airline representative’s responses is the most polite. You can listen to the passenger’s line once and to each option as many times as you like.\n",
+            "questionType": "listening-comprehension",
+            "displayNumber": "8."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "b6e66db1-06d1-4701-b508-010b4b93b23c",
+            "c41e7c28-a092-4bc2-9d67-37ab26351605",
+            "3576761c-7a21-4ecb-999b-dd37716669dc",
+            "95345a46-0a72-4b54-af7e-632cc85ff354"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-30T12:33:03.133839",
+          "max_score": null,
+          "groupping": null,
+          "id": 3812284,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "f25d7e6e-7e60-4c3f-b071-0c76d166d281",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2021-10-04T09:00:50.005951"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Production 99 p.**\n\nVastaa yhteen kohdista 17.1–17.4.\n\n&NewLine;\n\nWrite a composition of 700–1,300 characters on one of the topics below, following the instructions. Spaces and line breaks are not included in the character count. Please note that the limit is 1,300 characters not words.\n\n&NewLine;\n\nLeave the three other text fields empty.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "**Production 99 p.**\n\nVastaa yhteen kohdista 17.1–17.4.\n\n&NewLine;\n\nWrite a composition of 700–1,300 characters on one of the topics below, following the instructions. Spaces and line breaks are not included in the character count. Please note that the limit is 1,300 characters not words.\n\n&NewLine;\n\nLeave the three other text fields empty.\n",
+            "questionType": "writing",
+            "displayNumber": "17."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "d7e542fd-52af-4e40-b2e6-c841bac5aca4",
+            "c98760c1-9e03-4f9d-910f-b6e7f1d1a757",
+            "ad31cdae-d724-46c9-82f3-79a0f85d90fe",
+            "1bad82ab-a435-4e1d-b2f5-a85969dc696c"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-30T12:33:03.138616",
+          "max_score": null,
+          "groupping": null,
+          "id": 3832802,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "ff07d6a1-67e5-49c4-9055-3be3987f64d4",
+          "order_number": 21,
+          "multipart": true,
+          "created_at": "2021-10-04T13:49:53.811409"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Good Morning Britain (video) 12 p.**\n\n​\n\nThis is an episode of Good Morning Britain, where the hosts Piers Morgan and Susanna Reid debate climate change together with the guests Mike Neville and Skeena Rathor. You can play the video as many times as you want to. Read the questions carefully and choose the best alternative.\n\n​\n\n**Material**\n\n[LINK text=2.A Video: Good Morning Britain|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/attachments/index.html#2.A]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "**Good Morning Britain (video) 12 p.**\n\n​\n\nThis is an episode of Good Morning Britain, where the hosts Piers Morgan and Susanna Reid debate climate change together with the guests Mike Neville and Skeena Rathor. You can play the video as many times as you want to. Read the questions carefully and choose the best alternative.\n\n​\n\n**Material**\n\n[LINK text=2.A Video: Good Morning Britain|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/attachments/index.html#2.A]\n",
+            "questionType": "listening-comprehension",
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "d056f724-8cd3-4c4a-b7b0-90dd874ebdac",
+            "67fa0361-3fb2-47b2-b9da-b76d280d921b",
+            "004703d0-3102-4a18-b0b7-8788c5e52157",
+            "1d00edcf-804a-4486-86de-8bbe601ca36d"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-30T12:33:03.140759",
+          "max_score": null,
+          "groupping": null,
+          "id": 3810156,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "2100dc34-2431-4a90-869d-95a39dc644fe",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2021-10-04T08:35:52.619"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What is the purpose of whale songs? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "What is the purpose of whale songs? 3 p.\n",
+            "displayNumber": "5.4."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.145616",
+          "max_score": 3,
+          "groupping": null,
+          "id": 3811885,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 4,
+              "text": "Their objective is still somewhat uncertain",
+              "parent": "68e37dd1-ece0-4859-9d31-4eabd5235ace",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 5,
+              "text": "Males perform them to entertain other males",
+              "parent": "68e37dd1-ece0-4859-9d31-4eabd5235ace",
+              "choices": []
+            },
+            {
+              "id": 6,
+              "text": "Whales use them to reinforce their relationships",
+              "parent": "68e37dd1-ece0-4859-9d31-4eabd5235ace",
+              "choices": []
+            }
+          ],
+          "uuid": "68e37dd1-ece0-4859-9d31-4eabd5235ace",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2021-10-04T08:49:24.687265"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Apart from providing fun to lift their mood, how else do the miniature horses help people in need? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "Apart from providing fun to lift their mood, how else do the miniature horses help people in need? 3 p.\n",
+            "displayNumber": "7.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.147749",
+          "max_score": 3,
+          "groupping": null,
+          "id": 3812186,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 7,
+              "text": "They reduce people’s pain during difficult therapies",
+              "parent": "acc3a0c5-8047-4134-8a53-50bef949f79b",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 8,
+              "text": "They build morale by bringing people together",
+              "parent": "acc3a0c5-8047-4134-8a53-50bef949f79b",
+              "choices": []
+            },
+            {
+              "id": 9,
+              "text": "They encourage people to face stressful treatments",
+              "parent": "acc3a0c5-8047-4134-8a53-50bef949f79b",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "acc3a0c5-8047-4134-8a53-50bef949f79b",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2021-10-04T08:58:22.672612"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Part 2: Reading Comprehension\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "### Part 2: Reading Comprehension\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-30T12:33:03.152581",
+          "max_score": null,
+          "groupping": null,
+          "id": 3812692,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "29bcd440-0011-488a-9f36-8ae47f733d04",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2021-10-04T09:06:37.760548"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "[LINK text=The passage related to question 6.3.|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/index.html#6.3]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "[LINK text=The passage related to question 6.3.|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/index.html#6.3]\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.155572",
+          "max_score": null,
+          "groupping": null,
+          "id": 3812182,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "066de5c7-3fb8-4204-a6a3-ecadc9a983d2",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2021-10-04T08:58:22.661762"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "How is the success of Golding’s Lord of the Flies explained? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "How is the success of Golding’s Lord of the Flies explained? 3 p.\n",
+            "displayNumber": "10.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.158319",
+          "max_score": 3,
+          "groupping": null,
+          "id": 3826464,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 22,
+              "text": "Its story was every schoolboy’s dream",
+              "parent": "985b52f9-cd30-4c2a-94df-9501e402834e",
+              "choices": []
+            },
+            {
+              "id": 23,
+              "text": "It started a whole new literary genre",
+              "parent": "985b52f9-cd30-4c2a-94df-9501e402834e",
+              "choices": []
+            },
+            {
+              "id": 24,
+              "text": "The novel came out at the right time",
+              "parent": "985b52f9-cd30-4c2a-94df-9501e402834e",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "985b52f9-cd30-4c2a-94df-9501e402834e",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2021-10-04T12:02:56.386904"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "In what way has the quiet created by the pandemic lockdown helped seismologists? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "In what way has the quiet created by the pandemic lockdown helped seismologists? 3 p.\n",
+            "displayNumber": "6.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.163649",
+          "max_score": 3,
+          "groupping": null,
+          "id": 3812176,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 7,
+              "text": "It allows them to observe previously unnoticeable patterns in the data",
+              "parent": "ef8afd3e-d0b9-42d1-84bb-781ffd41b6f8",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 8,
+              "text": "It aids them in identifying information that can predict smaller tremors",
+              "parent": "ef8afd3e-d0b9-42d1-84bb-781ffd41b6f8",
+              "choices": []
+            },
+            {
+              "id": 9,
+              "text": "It enables them to better perceive the underlying causes of earthquakes",
+              "parent": "ef8afd3e-d0b9-42d1-84bb-781ffd41b6f8",
+              "choices": []
+            }
+          ],
+          "uuid": "ef8afd3e-d0b9-42d1-84bb-781ffd41b6f8",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2021-10-04T08:58:22.645971"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "I came across an obscure blog that told **an arresting** story. 2 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "I came across an obscure blog that told **an arresting** story. 2 p.\n",
+            "displayNumber": "14.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.165918",
+          "max_score": 2,
+          "groupping": null,
+          "id": 3832387,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 43,
+              "text": "an improbable",
+              "parent": "8040f933-95f7-4d19-843d-06c33931e2a4",
+              "choices": []
+            },
+            {
+              "id": 44,
+              "text": "a disturbing",
+              "parent": "8040f933-95f7-4d19-843d-06c33931e2a4",
+              "choices": []
+            },
+            {
+              "id": 45,
+              "text": "an extraordinary",
+              "parent": "8040f933-95f7-4d19-843d-06c33931e2a4",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "8040f933-95f7-4d19-843d-06c33931e2a4",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2021-10-04T13:23:58.132773"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Not a tropical paradise with waving palm trees and sandy beaches, but **a hulking** mass of rock, jutting up more than a thousand feet out of the ocean. 2 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "Not a tropical paradise with waving palm trees and sandy beaches, but **a hulking** mass of rock, jutting up more than a thousand feet out of the ocean. 2 p.\n",
+            "displayNumber": "14.6."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.168315",
+          "max_score": 2,
+          "groupping": null,
+          "id": 3832390,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 43,
+              "text": "towering",
+              "parent": "c55ced16-3566-4146-9d8c-883a0cffdb24",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 44,
+              "text": "collapsing\n\n&NewLine;",
+              "parent": "c55ced16-3566-4146-9d8c-883a0cffdb24",
+              "choices": []
+            },
+            {
+              "id": 45,
+              "text": "dangerous",
+              "parent": "c55ced16-3566-4146-9d8c-883a0cffdb24",
+              "choices": []
+            }
+          ],
+          "uuid": "c55ced16-3566-4146-9d8c-883a0cffdb24",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2021-10-04T13:23:58.140875"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Letters to the Editor 8 p.**\n\n​\n\nRead the text carefully and then answer the questions.\n\n​\n\nMaterial\n\n[LINK text=9.A Text: Letters to the Editor|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/attachments/index.html#9.A]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "**Letters to the Editor 8 p.**\n\n​\n\nRead the text carefully and then answer the questions.\n\n​\n\nMaterial\n\n[LINK text=9.A Text: Letters to the Editor|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/attachments/index.html#9.A]\n",
+            "questionType": "reading",
+            "displayNumber": "9."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "92cfb2f5-5ef6-467d-8601-a9b7e8811fde",
+            "dfb7ed88-37f3-4bbf-a2a9-10849fa2feeb",
+            "7f657c2d-4312-4e57-98fd-ce668357f397",
+            "ce5c5bfa-a332-4b6f-9c8b-b9ca39d9b20b",
+            "075c54a2-3ae3-40f6-8349-fef66f1340b2",
+            "93b1640a-2dfc-4ac6-8ec9-9d3226e7d230"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-30T12:33:03.170422",
+          "max_score": null,
+          "groupping": null,
+          "id": 3812804,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "f70359b5-be9d-4735-8025-a2a1386ab99f",
+          "order_number": 11,
+          "multipart": true,
+          "created_at": "2021-10-04T09:07:20.028654"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Which of the following alternatives corresponds with Brian Skerry’s depiction of whale songs best? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "Which of the following alternatives corresponds with Brian Skerry’s depiction of whale songs best? 3 p.\n",
+            "displayNumber": "5.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.173021",
+          "max_score": 3,
+          "groupping": null,
+          "id": 3811881,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 4,
+              "text": "They instill fear through certain frequencies",
+              "parent": "3f301b22-1b57-4a1a-919e-94a04a38a215",
+              "choices": []
+            },
+            {
+              "id": 5,
+              "text": "They incorporate diverse sound elements",
+              "parent": "3f301b22-1b57-4a1a-919e-94a04a38a215",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 6,
+              "text": "They include repeated patterns or formulae",
+              "parent": "3f301b22-1b57-4a1a-919e-94a04a38a215",
+              "choices": []
+            }
+          ],
+          "uuid": "3f301b22-1b57-4a1a-919e-94a04a38a215",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2021-10-04T08:49:24.67363"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Podcast on friendship across cultures 99 p.\n\n&NewLine;\n\nWe at the International Cultural Youth Exchange are looking for young people from all over the world to create a series of podcasts. We are inviting sample files as auditions for the series. Create your own contribution on the importance of friendship across cultures. Write the script for what you will say as an introduction to the topic.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "Podcast on friendship across cultures 99 p.\n\n&NewLine;\n\nWe at the International Cultural Youth Exchange are looking for young people from all over the world to create a series of podcasts. We are inviting sample files as auditions for the series. Create your own contribution on the importance of friendship across cultures. Write the script for what you will say as an introduction to the topic.\n",
+            "displayNumber": "17.1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.178326",
+          "max_score": null,
+          "groupping": null,
+          "id": 3832803,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "d7e542fd-52af-4e40-b2e6-c841bac5aca4",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2021-10-04T13:49:53.814139"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "My superhero 99 p.\n\n​\n\nYou want to work at a superhero-themed camp for children aged 8–12. There are all kinds of superheroes, real and fictive. Who is yours and why? As part of your application, write an essay analyzing your superhero. You may use the images as inspiration, if you choose.\n\n​\n\n[LINK text=Katso kuvat täältä.|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/index.html#17.4.]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "My superhero 99 p.\n\n​\n\nYou want to work at a superhero-themed camp for children aged 8–12. There are all kinds of superheroes, real and fictive. Who is yours and why? As part of your application, write an essay analyzing your superhero. You may use the images as inspiration, if you choose.\n\n​\n\n[LINK text=Katso kuvat täältä.|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/index.html#17.4.]\n",
+            "displayNumber": "17.4."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.183624",
+          "max_score": null,
+          "groupping": null,
+          "id": 3832806,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "1bad82ab-a435-4e1d-b2f5-a85969dc696c",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2021-10-04T13:49:53.822572"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Listen, and choose the most polite response. 3 p.\n\n​\n\nPassenger: Yes, is that going to be a problem?\n\n​\n\n[LINK text=The passenger’s line.|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/index.html#8.3]\n\n​\n\nCustomer Service Representative:\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "Listen, and choose the most polite response. 3 p.\n\n​\n\nPassenger: Yes, is that going to be a problem?\n\n​\n\n[LINK text=The passenger’s line.|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/index.html#8.3]\n\n​\n\nCustomer Service Representative:\n",
+            "displayNumber": "8.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.188601",
+          "max_score": 3,
+          "groupping": null,
+          "id": 3812598,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 10,
+              "text": "[LINK text=Option A.|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/index.html#8.3]",
+              "parent": "3576761c-7a21-4ecb-999b-dd37716669dc",
+              "choices": []
+            },
+            {
+              "id": 11,
+              "text": "[LINK text=Option B.|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/index.html#8.3]",
+              "parent": "3576761c-7a21-4ecb-999b-dd37716669dc",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 12,
+              "text": "[LINK text=Option C.|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/index.html#8.3]",
+              "parent": "3576761c-7a21-4ecb-999b-dd37716669dc",
+              "choices": []
+            }
+          ],
+          "uuid": "3576761c-7a21-4ecb-999b-dd37716669dc",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2021-10-04T09:05:53.425424"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "An English schoolmaster, William Golding, made up this story in 1951 – his novel Lord of the Flies would be** hailed** as one of the classics of the 20th century. 2 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "An English schoolmaster, William Golding, made up this story in 1951 – his novel Lord of the Flies would be** hailed** as one of the classics of the 20th century. 2 p.\n",
+            "displayNumber": "14.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.194477",
+          "max_score": 2,
+          "groupping": null,
+          "id": 3832386,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 43,
+              "text": "recognised",
+              "parent": "e967363d-d696-4e92-9ca6-ddfd9623d4ba",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 44,
+              "text": "contested",
+              "parent": "e967363d-d696-4e92-9ca6-ddfd9623d4ba",
+              "choices": []
+            },
+            {
+              "id": 45,
+              "text": "listed",
+              "parent": "e967363d-d696-4e92-9ca6-ddfd9623d4ba",
+              "choices": []
+            }
+          ],
+          "uuid": "e967363d-d696-4e92-9ca6-ddfd9623d4ba",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2021-10-04T13:23:58.130208"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What has the Irish Government done to promote cycling? 2 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "What has the Irish Government done to promote cycling? 2 p.\n",
+            "displayNumber": "9.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.197659",
+          "max_score": 2,
+          "groupping": null,
+          "id": 3824098,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 16,
+              "text": "It has stopped plants hindering visibility",
+              "parent": "075c54a2-3ae3-40f6-8349-fef66f1340b2",
+              "choices": []
+            },
+            {
+              "id": 17,
+              "text": "It has urged people to use their bikes",
+              "parent": "075c54a2-3ae3-40f6-8349-fef66f1340b2",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 18,
+              "text": "It has separated cyclists and pedestrians",
+              "parent": "075c54a2-3ae3-40f6-8349-fef66f1340b2",
+              "choices": []
+            }
+          ],
+          "uuid": "075c54a2-3ae3-40f6-8349-fef66f1340b2",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2021-10-04T11:30:09.774192"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What got the writer interested in Golding’s Lord of the Flies in the first place? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "What got the writer interested in Golding’s Lord of the Flies in the first place? 3 p.\n",
+            "displayNumber": "10.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.201201",
+          "max_score": 3,
+          "groupping": null,
+          "id": 3826463,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 22,
+              "text": "Testing how close it is to real-life experience",
+              "parent": "1812a86c-1dce-40d8-a0ba-d466c526b406",
+              "choices": []
+            },
+            {
+              "id": 23,
+              "text": "Wanting to understand why the book is popular",
+              "parent": "1812a86c-1dce-40d8-a0ba-d466c526b406",
+              "choices": []
+            },
+            {
+              "id": 24,
+              "text": "Challenging the idea of people’s selfishness",
+              "parent": "1812a86c-1dce-40d8-a0ba-d466c526b406",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "1812a86c-1dce-40d8-a0ba-d466c526b406",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2021-10-04T12:02:56.384278"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "This wild creature leaped from the cliffside and **plunged** into the water. 1 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "This wild creature leaped from the cliffside and **plunged** into the water. 1 p.\n",
+            "displayNumber": "14.4."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.206477",
+          "max_score": 1,
+          "groupping": null,
+          "id": 3832388,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 43,
+              "text": "dropped",
+              "parent": "f7cd19d3-9a4e-4622-ac76-bfa7f4d47ede",
+              "choices": []
+            },
+            {
+              "id": 44,
+              "text": "dived",
+              "parent": "f7cd19d3-9a4e-4622-ac76-bfa7f4d47ede",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 45,
+              "text": "disappeared",
+              "parent": "f7cd19d3-9a4e-4622-ac76-bfa7f4d47ede",
+              "choices": []
+            }
+          ],
+          "uuid": "f7cd19d3-9a4e-4622-ac76-bfa7f4d47ede",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2021-10-04T13:23:58.135539"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Skies were fair; only a mild breeze** ruffled** the calm sea. 1 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "Skies were fair; only a mild breeze** ruffled** the calm sea. 1 p.\n",
+            "displayNumber": "14.5."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.218808",
+          "max_score": 1,
+          "groupping": null,
+          "id": 3832389,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 43,
+              "text": "circled",
+              "parent": "8bc5f934-e40f-427e-aff8-9a158c4b238a",
+              "choices": []
+            },
+            {
+              "id": 44,
+              "text": "smoothed",
+              "parent": "8bc5f934-e40f-427e-aff8-9a158c4b238a",
+              "choices": []
+            },
+            {
+              "id": 45,
+              "text": "disturbed",
+              "parent": "8bc5f934-e40f-427e-aff8-9a158c4b238a",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "8bc5f934-e40f-427e-aff8-9a158c4b238a",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2021-10-04T13:23:58.13827"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Part 3: Grammar and Vocabulary\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "### Part 3: Grammar and Vocabulary\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-30T12:33:03.231377",
+          "max_score": null,
+          "groupping": null,
+          "id": 3832382,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "20c4501e-ae29-4ae3-a1e4-8003dea2a6e0",
+          "order_number": 16,
+          "multipart": true,
+          "created_at": "2021-10-04T13:23:58.119544"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mitä Blackbaud aluksi kertoi vahingoista? (max 100 characters) 3 p.\n",
+          "deleted_at": null,
+          "feedback": "• Vain henkilötietoja oli viety. / Maksutietoja ei ollut varastettu. (3/0 p.)\n",
+          "exam_id": 112951,
+          "content": {
+            "text": "Mitä Blackbaud aluksi kertoi vahingoista? (max 100 characters) 3 p.\n",
+            "displayNumber": "11.6."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.24889",
+          "max_score": null,
+          "groupping": null,
+          "id": 3827154,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "e63c68af-b6c5-45d1-9408-8a9f11696cc1",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2021-10-04T12:10:44.575954"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mikä oli murron kohde? (max 100 characters) 3 p.\n",
+          "deleted_at": null,
+          "feedback": "(Blackbaudin tarjoama) tietojärjestelmä / tilitiedot ja salasanat. (3/0 p.)\n",
+          "exam_id": 112951,
+          "content": {
+            "text": "Mikä oli murron kohde? (max 100 characters) 3 p.\n",
+            "displayNumber": "11.4."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.251369",
+          "max_score": null,
+          "groupping": null,
+          "id": 3827152,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "816dc89c-6d9d-4ff6-b01c-182b84d53c12",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2021-10-04T12:10:44.571875"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Miten Ring uhkaa yksityisyydensuojaa? (max 100 characters) 3 p.\n",
+          "deleted_at": null,
+          "feedback": "Se tallentaa liiketiedot. (3/0 p.)\n",
+          "exam_id": 112951,
+          "content": {
+            "text": "Miten Ring uhkaa yksityisyydensuojaa? (max 100 characters) 3 p.\n",
+            "displayNumber": "11.2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.25366",
+          "max_score": null,
+          "groupping": null,
+          "id": 3826896,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "c91651e0-c066-492b-b496-d5f86a08df05",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2021-10-04T12:08:27.54155"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Why did Peter Warner pay attention to the island? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "Why did Peter Warner pay attention to the island? 3 p.\n",
+            "displayNumber": "10.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.258563",
+          "max_score": 3,
+          "groupping": null,
+          "id": 3826465,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 22,
+              "text": "He noticed untypical ground",
+              "parent": "e491cd42-2bd7-4aca-aac3-103e89ba0798",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 23,
+              "text": "He detected a bunch of boys",
+              "parent": "e491cd42-2bd7-4aca-aac3-103e89ba0798",
+              "choices": []
+            },
+            {
+              "id": 24,
+              "text": "He saw a fire burning far away",
+              "parent": "e491cd42-2bd7-4aca-aac3-103e89ba0798",
+              "choices": []
+            }
+          ],
+          "uuid": "e491cd42-2bd7-4aca-aac3-103e89ba0798",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2021-10-04T12:02:56.389443"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mitä Ringin uusin tuote tekee? (max 100 characters) 3 p.\n",
+          "deleted_at": null,
+          "feedback": "• Se nousee ilmaan kuvaamaan, kun se havaitsee murron/murtoyrityksen. (3/0 p.)\n\n&NewLine;\n",
+          "exam_id": 112951,
+          "content": {
+            "text": "Mitä Ringin uusin tuote tekee? (max 100 characters) 3 p.\n",
+            "displayNumber": "11.3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.260902",
+          "max_score": null,
+          "groupping": null,
+          "id": 3826897,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "c78baf37-c8a2-422d-8529-ac1405e8f37d",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2021-10-04T12:08:27.544363"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mikä vika aiheutti haamusoitot? (max 100 characters) 3 p.\n",
+          "deleted_at": null,
+          "feedback": "• Viive liikkeentunnistuksessa. (3/0 p.)\n",
+          "exam_id": 112951,
+          "content": {
+            "text": "Mikä vika aiheutti haamusoitot? (max 100 characters) 3 p.\n",
+            "displayNumber": "11.1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.263651",
+          "max_score": null,
+          "groupping": null,
+          "id": 3826895,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "8104f25a-f8bf-42a9-b39b-eb5daccd38cb",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2021-10-04T12:08:27.538691"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Real action needed to promote cycling**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "**Real action needed to promote cycling**\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.267193",
+          "max_score": null,
+          "groupping": null,
+          "id": 3824097,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "ce5c5bfa-a332-4b6f-9c8b-b9ca39d9b20b",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2021-10-04T11:30:09.771592"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "[LINK text=The passage related to question 6.1.|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/index.html#6.1]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "[LINK text=The passage related to question 6.1.|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/index.html#6.1]\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.269742",
+          "max_score": null,
+          "groupping": null,
+          "id": 3812177,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "5f9adc53-5026-418b-9e40-4ebfc309253d",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2021-10-04T08:58:22.648633"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mihin menetelmä perustuu? (max 100 characters) 3 p.\n",
+          "deleted_at": null,
+          "feedback": "• Silmän liikkeiden mittaamiseen. (3/0 p.)\n\n&NewLine;\n",
+          "exam_id": 112951,
+          "content": {
+            "text": "Mihin menetelmä perustuu? (max 100 characters) 3 p.\n",
+            "displayNumber": "4.2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.272621",
+          "max_score": null,
+          "groupping": null,
+          "id": 3811878,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "98189b24-a2f9-44b4-9f15-42e5fafafc63",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2021-10-04T08:49:24.653245"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Why is McElligott still not happy? 2 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "Why is McElligott still not happy? 2 p.\n",
+            "displayNumber": "9.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.275142",
+          "max_score": 2,
+          "groupping": null,
+          "id": 3824096,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 13,
+              "text": "The fee for his insurance is higher than before",
+              "parent": "7f657c2d-4312-4e57-98fd-ce668357f397",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 14,
+              "text": "The company had cancelled his insurance",
+              "parent": "7f657c2d-4312-4e57-98fd-ce668357f397",
+              "choices": []
+            },
+            {
+              "id": 15,
+              "text": "The coverage of the insurance was altered",
+              "parent": "7f657c2d-4312-4e57-98fd-ce668357f397",
+              "choices": []
+            }
+          ],
+          "uuid": "7f657c2d-4312-4e57-98fd-ce668357f397",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2021-10-04T11:30:09.76906"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": " What is the good news for Tom McElligott? 2 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": " What is the good news for Tom McElligott? 2 p.\n",
+            "displayNumber": "9.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.277948",
+          "max_score": 2,
+          "groupping": null,
+          "id": 3824095,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 13,
+              "text": "His insurance was renewed after some hassle",
+              "parent": "dfb7ed88-37f3-4bbf-a2a9-10849fa2feeb",
+              "choices": []
+            },
+            {
+              "id": 14,
+              "text": "His insurance payment was partly refunded",
+              "parent": "dfb7ed88-37f3-4bbf-a2a9-10849fa2feeb",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 15,
+              "text": "His insurance pays for the damage to his car",
+              "parent": "dfb7ed88-37f3-4bbf-a2a9-10849fa2feeb",
+              "choices": [],
+              "correct": false
+            }
+          ],
+          "uuid": "dfb7ed88-37f3-4bbf-a2a9-10849fa2feeb",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2021-10-04T11:30:09.766448"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Insurance – give and take**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "**Insurance – give and take**\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.280194",
+          "max_score": null,
+          "groupping": null,
+          "id": 3824094,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "92cfb2f5-5ef6-467d-8601-a9b7e8811fde",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2021-10-04T11:30:09.763754"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Which of the following describes how many people feel when they encounter the miniature horses? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "Which of the following describes how many people feel when they encounter the miniature horses? 3 p.\n",
+            "displayNumber": "7.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.282459",
+          "max_score": 3,
+          "groupping": null,
+          "id": 3812185,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 7,
+              "text": "Mystified",
+              "parent": "ff3aeb19-65b1-4ccb-a5a9-82c57ccd61a5",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 8,
+              "text": "Curious",
+              "parent": "ff3aeb19-65b1-4ccb-a5a9-82c57ccd61a5",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 9,
+              "text": "Doubtful",
+              "parent": "ff3aeb19-65b1-4ccb-a5a9-82c57ccd61a5",
+              "choices": []
+            }
+          ],
+          "uuid": "ff3aeb19-65b1-4ccb-a5a9-82c57ccd61a5",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2021-10-04T08:58:22.669904"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What can seismologists do once they have identified new seismic signals? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "What can seismologists do once they have identified new seismic signals? 3 p.\n",
+            "displayNumber": "6.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.284999",
+          "max_score": 3,
+          "groupping": null,
+          "id": 3812179,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 7,
+              "text": "They can find new information about past quakes from their old records",
+              "parent": "e6ca73a6-4ff6-4bd1-9cf7-3404df4bcd7a",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 8,
+              "text": "They can anticipate when the next large earthquake is going to strike",
+              "parent": "e6ca73a6-4ff6-4bd1-9cf7-3404df4bcd7a",
+              "choices": []
+            },
+            {
+              "id": 9,
+              "text": "They can build new technology that will help better identify those signals",
+              "parent": "e6ca73a6-4ff6-4bd1-9cf7-3404df4bcd7a",
+              "choices": []
+            }
+          ],
+          "uuid": "e6ca73a6-4ff6-4bd1-9cf7-3404df4bcd7a",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2021-10-04T08:58:22.653925"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What does Skeena Rathor mean with the term breadbasket? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "What does Skeena Rathor mean with the term breadbasket? 3 p.\n",
+            "displayNumber": "2.4."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.287377",
+          "max_score": 3,
+          "groupping": null,
+          "id": 3810160,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "text": "The average amount of grains a shop purchases annually",
+              "parent": "1d00edcf-804a-4486-86de-8bbe601ca36d",
+              "choices": []
+            },
+            {
+              "id": 2,
+              "text": "An important distributor in the food processing industry",
+              "parent": "1d00edcf-804a-4486-86de-8bbe601ca36d",
+              "choices": []
+            },
+            {
+              "id": 3,
+              "text": "A region that greatly contributes to the global food supply",
+              "parent": "1d00edcf-804a-4486-86de-8bbe601ca36d",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "1d00edcf-804a-4486-86de-8bbe601ca36d",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2021-10-04T08:35:52.630318"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What is said about changes in whale songs? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "What is said about changes in whale songs? 3 p.\n",
+            "displayNumber": "5.6."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.295265",
+          "max_score": 3,
+          "groupping": null,
+          "id": 3811888,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 4,
+              "text": "They are implemented collectively",
+              "parent": "815f10df-74cf-4403-85af-b4682010b3e1",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 5,
+              "text": "They are embraced by a small minority",
+              "parent": "815f10df-74cf-4403-85af-b4682010b3e1",
+              "choices": []
+            },
+            {
+              "id": 6,
+              "text": "They are nearly identical to prior changes",
+              "parent": "815f10df-74cf-4403-85af-b4682010b3e1",
+              "choices": []
+            }
+          ],
+          "uuid": "815f10df-74cf-4403-85af-b4682010b3e1",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2021-10-04T08:49:24.699256"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What did Brian Skerry come to know a while ago? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "What did Brian Skerry come to know a while ago? 3 p.\n",
+            "displayNumber": "5.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.300543",
+          "max_score": 3,
+          "groupping": null,
+          "id": 3811883,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 4,
+              "text": "That whales learn their songs from other whales",
+              "parent": "bee34a61-3c4b-4c56-ae30-e7d1b1716b99",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 5,
+              "text": "That whales have individual tastes in music",
+              "parent": "bee34a61-3c4b-4c56-ae30-e7d1b1716b99",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 6,
+              "text": "That whales compete with each other in singing",
+              "parent": "bee34a61-3c4b-4c56-ae30-e7d1b1716b99",
+              "choices": []
+            }
+          ],
+          "uuid": "bee34a61-3c4b-4c56-ae30-e7d1b1716b99",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2021-10-04T08:49:24.680901"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Miten opiskelijoiden hyvä urheiluhenki ilmenee? (max 100 characters) 3 p.\n",
+          "deleted_at": null,
+          "feedback": "He kunnioittavat tuomareiden päätöksiä/tuomioita. (3/0 p.)\n",
+          "exam_id": 112951,
+          "content": {
+            "text": "Miten opiskelijoiden hyvä urheiluhenki ilmenee? (max 100 characters) 3 p.\n",
+            "displayNumber": "1.1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.303481",
+          "max_score": null,
+          "groupping": null,
+          "id": 3810154,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "4dc6c115-6de8-404d-b219-0d16d1739bd6",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2021-10-04T08:35:52.614043"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "[LINK text=The passage related to questions 5.5 and 5.6.|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/index.html#5.6.]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "[LINK text=The passage related to questions 5.5 and 5.6.|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/index.html#5.6.]\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.305969",
+          "max_score": null,
+          "groupping": null,
+          "id": 3811889,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "4838c1b0-0e35-4027-9824-ff6bfe7c6be5",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2021-10-04T08:49:24.703549"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "[LINK text=The passage related to questions 5.1 and 5.2.|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/index.html#5.2.]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "[LINK text=The passage related to questions 5.1 and 5.2.|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-17\\_EA\\_fi/index.html#5.2.]\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.310885",
+          "max_score": null,
+          "groupping": null,
+          "id": 3811882,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "1b8eebe0-454e-4c82-8822-c1a846aadd81",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2021-10-04T08:49:24.677917"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Miksi historiallisiin myytteihin uskotaan? (max 100 characters) 3 p.\n",
+          "deleted_at": null,
+          "feedback": "• Ne selittävät asiat riittävän hyvin. (3/0 p.)\n",
+          "exam_id": 112951,
+          "content": {
+            "text": "Miksi historiallisiin myytteihin uskotaan? (max 100 characters) 3 p.\n",
+            "displayNumber": "3.2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.319562",
+          "max_score": null,
+          "groupping": null,
+          "id": 3811875,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "8e319a81-d293-43a6-95b8-bae9a2b42685",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2021-10-04T08:49:24.644722"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mitä historiallisten myyttien todenperäisyydestä sanotaan? (max 100 characters) 3 p.\n",
+          "deleted_at": null,
+          "feedback": "Ne voivat sisältää paljon tottakin. (3/0 p.)\n\n&NewLine;\n",
+          "exam_id": 112951,
+          "content": {
+            "text": "Mitä historiallisten myyttien todenperäisyydestä sanotaan? (max 100 characters) 3 p.\n",
+            "displayNumber": "3.1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T12:33:03.321811",
+          "max_score": null,
+          "groupping": null,
+          "id": 3811873,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "23fab1d8-59b1-418f-b663-cb523d894e36",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2021-10-04T08:49:24.639143"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Part 1: Listening Comprehension\n\nKoe sisältää kuullunymmärtämisen tehtäviä.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 112951,
+          "content": {
+            "text": "### Part 1: Listening Comprehension\n\nKoe sisältää kuullunymmärtämisen tehtäviä.\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-30T12:33:03.329968",
+          "max_score": null,
+          "groupping": null,
+          "id": 3810151,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "e4dffead-6f6f-44e5-8ddf-ba8bd6471ae2",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2021-10-04T08:35:52.605098"
+        }
+      ],
+      "name": "Englanti, pitkä oppimäärä, syksy 2021",
+      "settings": {
+        "overrideTitle": true
+      },
+      "exam_type": "yo-koe",
+      "classification": {
+        "category": "digital-exam",
+        "disable_saving": false,
+        "hide_review_buttons": false,
+        "exam_type": "yo-koe",
+        "year": "2021",
+        "language": "fi-FI",
+        "hide_statistics": false,
+        "show_exam_series": false,
+        "force_yletunnus": false,
+        "subject": "englanti-pitkä",
+        "published": true,
+        "semester": "fall"
+      },
+      "published_at": "2021-10-04T13:52:15.000Z",
+      "language": "fi-FI",
+      "id": 112951,
+      "reviews": [],
+      "is_open": true,
+      "uuid": "399fa4d7-a090-4c6f-b6fb-13bfa1d41ab8"
+    }
+  ]
+}

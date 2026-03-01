@@ -1,0 +1,2112 @@
+{
+  "meta": {
+    "count": 1
+  },
+  "data": [
+    {
+      "tags": [
+        ""
+      ],
+      "main_text": "",
+      "characters": null,
+      "deleted_at": null,
+      "series_uuids": [],
+      "questions": [
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What does the woman suggest?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16582,
+          "content": {
+            "text": "What does the woman suggest?\n",
+            "displayNumber": "19."
+          },
+          "images": null,
+          "settings": {
+            "points": "2.5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T13:24:32.024599",
+          "max_score": 2.5,
+          "groupping": null,
+          "id": 537063,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 88,
+              "text": "The authorities must address the problem",
+              "parent": "372eb905-2475-4348-90d6-c517f6871cf5",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 89,
+              "text": "The station will have to be disinfected",
+              "parent": "372eb905-2475-4348-90d6-c517f6871cf5",
+              "choices": []
+            },
+            {
+              "id": 90,
+              "text": "The victims should show solidarity",
+              "parent": "372eb905-2475-4348-90d6-c517f6871cf5",
+              "choices": []
+            }
+          ],
+          "uuid": "372eb905-2475-4348-90d6-c517f6871cf5",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2017-07-07T07:06:04.438688"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "[CLIP id=1-2998704]\n\n_Tässä osassa kuulet viisi ilmoitusta. Kuulet kunkin ilmoituksen __**vain kerran**__. Kuultuasi ilmoituksen vastaa kysymykseen __**lyhyesti suomeksi**__. _",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16582,
+          "content": {
+            "text": "[CLIP id=1-2998704]\n\n_Tässä osassa kuulet viisi ilmoitusta. Kuulet kunkin ilmoituksen __**vain kerran**__. Kuultuasi ilmoituksen vastaa kysymykseen __**lyhyesti suomeksi**__. _",
+            "displayNumber": "VI"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "48f881c4-ae4e-4ade-a192-fc3d90416770",
+            "5e63a2af-0a2e-47e0-9e8b-50453601d7b5",
+            "16a028d6-4d05-47e6-b410-4fb93721c987",
+            "3abe68a0-9aa4-45eb-8bf2-7a7a8d9dac14",
+            "2b91dc51-5324-481c-8d22-ca30041611df",
+            "41d3ca37-f140-4471-beec-282394f5a311",
+            "80255610-ea7e-498d-ba0b-4c17a8510767",
+            "d33fb14d-cba1-4308-bcdc-add12f67b2ac",
+            "72eacdaf-f137-4f33-a27b-53689b1ee5ba"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-05-11T13:24:32.020257",
+          "max_score": null,
+          "groupping": null,
+          "id": 537095,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "1a049bda-25fd-40f5-a025-889e54ff5708",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2017-07-07T07:06:04.541768"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What opportunity did the earlier program give George Clooney?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16582,
+          "content": {
+            "text": "What opportunity did the earlier program give George Clooney?\n",
+            "displayNumber": "13."
+          },
+          "images": null,
+          "settings": {
+            "points": "2.5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T13:24:32.018267",
+          "max_score": 2.5,
+          "groupping": null,
+          "id": 537071,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 70,
+              "text": "His earliest chance to be a celebrity",
+              "parent": "7bc1c8ca-19ad-49ea-8045-f3fbef6f20ab",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 71,
+              "text": "An option that was difficult to resist",
+              "parent": "7bc1c8ca-19ad-49ea-8045-f3fbef6f20ab",
+              "choices": []
+            },
+            {
+              "id": 72,
+              "text": "The possibility for a new career",
+              "parent": "7bc1c8ca-19ad-49ea-8045-f3fbef6f20ab",
+              "choices": []
+            }
+          ],
+          "uuid": "7bc1c8ca-19ad-49ea-8045-f3fbef6f20ab",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-07-07T07:06:04.464894"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "[CLIP id=1-2998704]\n\n_You will hear five short dialogues, Each one has two questions. You will hear each twice. Answer questions 13-22._",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16582,
+          "content": {
+            "text": "[CLIP id=1-2998704]\n\n_You will hear five short dialogues, Each one has two questions. You will hear each twice. Answer questions 13-22._",
+            "displayNumber": "III"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "372eb905-2475-4348-90d6-c517f6871cf5",
+            "f3d229a9-973c-4755-a568-d83051935338",
+            "04bcd556-ba8f-4e92-85a4-686b7ba72832",
+            "d0809216-73f5-4848-a403-453d6ab47381",
+            "bfaa06f9-1dd6-49a0-bce0-bad78d12c27b",
+            "aba3a223-59ec-49c4-b545-41cd1a437219",
+            "7bc1c8ca-19ad-49ea-8045-f3fbef6f20ab",
+            "17118607-6454-4d18-aa81-311bdd90f441",
+            "73546ff2-2cfd-43b3-a0a9-eac60ecde7b0",
+            "31b17cc9-5669-4c62-9493-f0b47b25c951",
+            "1f8dc170-0508-4fc1-afdb-8f4120679aeb",
+            "58c6d5ae-e1b9-460e-9d7a-47662bbc4034",
+            "a11ad9fd-d78d-47eb-a6c5-b8e3674a761e",
+            "d8731c63-28ac-40d9-b49b-21b75f88249b"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-05-11T13:24:32.015809",
+          "max_score": null,
+          "groupping": null,
+          "id": 537089,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "cdc27b90-71a0-44e1-9521-950106c65c98",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2017-07-07T07:06:04.52396"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "[CLIP id=1-2998704]\n\n_You will hear part one twice: first straight through and then in short sections. Answer questions 1–8._\n\n\n\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16582,
+          "content": {
+            "text": "[CLIP id=1-2998704]\n\n_You will hear part one twice: first straight through and then in short sections. Answer questions 1–8._\n\n\n\n",
+            "displayNumber": "I"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "a70b8fc2-81b7-4f17-877c-3cbdd9571a69",
+            "a0484617-f64e-4535-a0aa-4c85e4dcb01c",
+            "571c4e12-f85b-43d7-8dda-235aeb5e2dfd",
+            "4a003c91-c8d9-4cba-8481-bfb3a22496c3",
+            "ce4d2b94-8416-48c8-a3da-671aab9c840f",
+            "66daf6fd-836d-48e1-8c52-e9a5300962e8",
+            "015360c1-9b43-4028-81be-1882b6780432",
+            "42791e84-da45-4b8e-a8a2-bfbf1cb1832b",
+            "d67d0ed0-4d48-4dc0-af63-6237942d7dbc",
+            "1cf1058a-e368-4bab-b2fe-d40898d2173a",
+            "0dd8a182-5bdb-4c19-b1c2-0f900cba2012"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-05-11T13:24:32.013772",
+          "max_score": null,
+          "groupping": null,
+          "id": 537059,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "32da88d6-a17d-4169-b60c-d83f027d6a52",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2017-07-07T07:06:04.419502"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What may well happen after Michael Phelps’ retirement?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16582,
+          "content": {
+            "text": "What may well happen after Michael Phelps’ retirement?\n",
+            "displayNumber": "7."
+          },
+          "images": null,
+          "settings": {
+            "points": "2.5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T13:24:32.007711",
+          "max_score": 2.5,
+          "groupping": null,
+          "id": 537048,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 19,
+              "text": "Swimming’s popularity may diminish",
+              "parent": "a0484617-f64e-4535-a0aa-4c85e4dcb01c",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 20,
+              "text": "Swimming will get new champions",
+              "parent": "a0484617-f64e-4535-a0aa-4c85e4dcb01c",
+              "choices": []
+            },
+            {
+              "id": 21,
+              "text": "Swimming may gain new promoters",
+              "parent": "a0484617-f64e-4535-a0aa-4c85e4dcb01c",
+              "choices": []
+            }
+          ],
+          "uuid": "a0484617-f64e-4535-a0aa-4c85e4dcb01c",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2017-07-07T07:06:04.388309"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What does HS2 primarily promise the West Midlands?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16582,
+          "content": {
+            "text": "What does HS2 primarily promise the West Midlands?\n",
+            "displayNumber": "12."
+          },
+          "images": null,
+          "settings": {
+            "points": "2.5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T13:24:32.005194",
+          "max_score": 2.5,
+          "groupping": null,
+          "id": 537053,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 55,
+              "text": "An environmentally sound alternative",
+              "parent": "2b21e2dc-038f-428f-b1e4-859ba9a455a4",
+              "choices": []
+            },
+            {
+              "id": 56,
+              "text": "A method for reaching London more quickly",
+              "parent": "2b21e2dc-038f-428f-b1e4-859ba9a455a4",
+              "choices": []
+            },
+            {
+              "id": 57,
+              "text": "A way out of the bottlenecks",
+              "parent": "2b21e2dc-038f-428f-b1e4-859ba9a455a4",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "2b21e2dc-038f-428f-b1e4-859ba9a455a4",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2017-07-07T07:06:04.402318"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What would the woman probably say next?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16582,
+          "content": {
+            "text": "What would the woman probably say next?\n",
+            "displayNumber": "24."
+          },
+          "images": null,
+          "settings": {
+            "points": "2.5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T13:24:32.000355",
+          "max_score": 2.5,
+          "groupping": null,
+          "id": 538845,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 154,
+              "text": "That’s right. There are only so many possibilities left.",
+              "parent": "fd40102b-8e47-4784-b764-a9031699e58a",
+              "choices": []
+            },
+            {
+              "id": 155,
+              "text": "Mm, I think we’ll need to rethink this thing.",
+              "parent": "fd40102b-8e47-4784-b764-a9031699e58a",
+              "choices": []
+            },
+            {
+              "id": 156,
+              "text": "No, he’ll have to live a bit more modestly.",
+              "parent": "fd40102b-8e47-4784-b764-a9031699e58a",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "fd40102b-8e47-4784-b764-a9031699e58a",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2017-07-07T07:25:03.664503"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What happened at Farringdon station?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16582,
+          "content": {
+            "text": "What happened at Farringdon station?\n",
+            "displayNumber": "20."
+          },
+          "images": null,
+          "settings": {
+            "points": "2.5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T13:24:31.998008",
+          "max_score": 2.5,
+          "groupping": null,
+          "id": 538501,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 142,
+              "text": "The Underground staff had to take care of quite a serious problem",
+              "parent": "1f8dc170-0508-4fc1-afdb-8f4120679aeb",
+              "choices": []
+            },
+            {
+              "id": 143,
+              "text": "There was a communication gap caused by insufficient information",
+              "parent": "1f8dc170-0508-4fc1-afdb-8f4120679aeb",
+              "choices": []
+            },
+            {
+              "id": 144,
+              "text": "Someone had played a rather inoffensive practical joke",
+              "parent": "1f8dc170-0508-4fc1-afdb-8f4120679aeb",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "1f8dc170-0508-4fc1-afdb-8f4120679aeb",
+          "order_number": 11,
+          "multipart": true,
+          "created_at": "2017-07-07T07:20:42.711728"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What happened to “Goran”?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16582,
+          "content": {
+            "text": "What happened to “Goran”?\n",
+            "displayNumber": "22."
+          },
+          "images": null,
+          "settings": {
+            "points": "2.5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T13:24:31.995581",
+          "max_score": 2.5,
+          "groupping": null,
+          "id": 538504,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 148,
+              "text": "Because a beer bottle hit him, he fell down",
+              "parent": "d8731c63-28ac-40d9-b49b-21b75f88249b",
+              "choices": []
+            },
+            {
+              "id": 149,
+              "text": "Due to breakage he lost",
+              "parent": "d8731c63-28ac-40d9-b49b-21b75f88249b",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 150,
+              "text": "As a result of his behavior he was removed",
+              "parent": "d8731c63-28ac-40d9-b49b-21b75f88249b",
+              "choices": []
+            }
+          ],
+          "uuid": "d8731c63-28ac-40d9-b49b-21b75f88249b",
+          "order_number": 14,
+          "multipart": true,
+          "created_at": "2017-07-07T07:20:42.720898"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "\\* \\* \\*\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16582,
+          "content": {
+            "text": "\\* \\* \\*\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T13:24:31.993294",
+          "max_score": null,
+          "groupping": null,
+          "id": 538406,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "31b17cc9-5669-4c62-9493-f0b47b25c951",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2017-07-07T07:19:34.638041"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What would the man probably say next?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16582,
+          "content": {
+            "text": "What would the man probably say next?\n",
+            "displayNumber": "26."
+          },
+          "images": null,
+          "settings": {
+            "points": "2.5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T13:24:31.99057",
+          "max_score": 2.5,
+          "groupping": null,
+          "id": 538841,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 151,
+              "text": "Yes, you’re right. Some rearrangements will be made.",
+              "parent": "28de11f2-9ab1-4c2c-936f-f03db71c2851",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 152,
+              "text": "No, if we reconsider it, we’ll probably find we had misheard.",
+              "parent": "28de11f2-9ab1-4c2c-936f-f03db71c2851",
+              "choices": []
+            },
+            {
+              "id": 153,
+              "text": "Uh, something must have been done earlier.",
+              "parent": "28de11f2-9ab1-4c2c-936f-f03db71c2851",
+              "choices": []
+            }
+          ],
+          "uuid": "28de11f2-9ab1-4c2c-936f-f03db71c2851",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2017-07-07T07:25:03.653499"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "\\* \\* \\*\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16582,
+          "content": {
+            "text": "\\* \\* \\*\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T13:24:31.988379",
+          "max_score": null,
+          "groupping": null,
+          "id": 538219,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "17118607-6454-4d18-aa81-311bdd90f441",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2017-07-07T07:17:03.471024"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "\\* \\* \\*\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16582,
+          "content": {
+            "text": "\\* \\* \\*\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T13:24:31.986298",
+          "max_score": null,
+          "groupping": null,
+          "id": 537832,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "77a516f5-ea8d-4b34-9ccb-8a60d36f4eba",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2017-07-07T07:14:37.843531"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mitä sanotaan Elise-nimisestä naisesta ja mitä Theresestä?\n",
+          "deleted_at": null,
+          "feedback": "Beethovenin yksi kappale on omistettu Eliselle. / Beethoven ei tuntenut ketään Eliseä. \n\nTherese antoi Beethovenille rukkaset. (5 p.)\n",
+          "exam_id": 16582,
+          "content": {
+            "text": "Mitä sanotaan Elise-nimisestä naisesta ja mitä Theresestä?\n",
+            "displayNumber": "b)"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T13:24:31.979627",
+          "max_score": null,
+          "groupping": null,
+          "id": 537097,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "5e63a2af-0a2e-47e0-9e8b-50453601d7b5",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2017-07-07T07:06:04.547691"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "How did Phelps succeed?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16582,
+          "content": {
+            "text": "How did Phelps succeed?\n",
+            "displayNumber": "8."
+          },
+          "images": null,
+          "settings": {
+            "points": "2.5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T13:24:31.973286",
+          "max_score": 2.5,
+          "groupping": null,
+          "id": 537042,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 22,
+              "text": "By showing his character",
+              "parent": "a70b8fc2-81b7-4f17-877c-3cbdd9571a69",
+              "choices": []
+            },
+            {
+              "id": 23,
+              "text": "By doing a series of media stunts",
+              "parent": "a70b8fc2-81b7-4f17-877c-3cbdd9571a69",
+              "choices": []
+            },
+            {
+              "id": 24,
+              "text": "By letting his achievements speak for themselves",
+              "parent": "a70b8fc2-81b7-4f17-877c-3cbdd9571a69",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "a70b8fc2-81b7-4f17-877c-3cbdd9571a69",
+          "order_number": 11,
+          "multipart": true,
+          "created_at": "2017-07-07T07:06:04.371266"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What was Sam Mellinger’s first point?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16582,
+          "content": {
+            "text": "What was Sam Mellinger’s first point?\n",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {
+            "points": "2.5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T13:24:31.968747",
+          "max_score": 2.5,
+          "groupping": null,
+          "id": 537046,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "text": "We often fail to note that the details count in the larger picture",
+              "parent": "42791e84-da45-4b8e-a8a2-bfbf1cb1832b",
+              "choices": []
+            },
+            {
+              "id": 2,
+              "text": "Usain Bolt should probably have been considered to be better",
+              "parent": "42791e84-da45-4b8e-a8a2-bfbf1cb1832b",
+              "choices": []
+            },
+            {
+              "id": 3,
+              "text": "Michael Phelps was a unique athlete in his time",
+              "parent": "42791e84-da45-4b8e-a8a2-bfbf1cb1832b",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "42791e84-da45-4b8e-a8a2-bfbf1cb1832b",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-07-07T07:06:04.382515"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "[CLIP id=1-2998704]\n\n_You will hear the second part twice: first straight through, then in short sections. Answer questions 9–12._",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16582,
+          "content": {
+            "text": "[CLIP id=1-2998704]\n\n_You will hear the second part twice: first straight through, then in short sections. Answer questions 9–12._",
+            "displayNumber": "II"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "2b21e2dc-038f-428f-b1e4-859ba9a455a4",
+            "00441aaa-62c5-4ec8-b6e5-0a6147cb4218",
+            "0cf2ccb5-d47b-4e88-946c-193a5d6b3566",
+            "f28c0420-03fe-4873-bb47-ede80c48104c",
+            "77a516f5-ea8d-4b34-9ccb-8a60d36f4eba"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-05-11T13:24:31.963649",
+          "max_score": null,
+          "groupping": null,
+          "id": 537056,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "96c0ef99-a030-4f14-98f3-13e30f63f4fa",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2017-07-07T07:06:04.410596"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What does Alfred Hitchcock’s statement mean?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16582,
+          "content": {
+            "text": "What does Alfred Hitchcock’s statement mean?\n",
+            "displayNumber": "17."
+          },
+          "images": null,
+          "settings": {
+            "points": "2.5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T13:24:31.955689",
+          "max_score": 2.5,
+          "groupping": null,
+          "id": 537067,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 82,
+              "text": "Actors readily invite the criticism of directors",
+              "parent": "04bcd556-ba8f-4e92-85a4-686b7ba72832",
+              "choices": []
+            },
+            {
+              "id": 83,
+              "text": "Actors are no better than any other living creature",
+              "parent": "04bcd556-ba8f-4e92-85a4-686b7ba72832",
+              "choices": []
+            },
+            {
+              "id": 84,
+              "text": "Actors should be handled as having limited mental capacity",
+              "parent": "04bcd556-ba8f-4e92-85a4-686b7ba72832",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "04bcd556-ba8f-4e92-85a4-686b7ba72832",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2017-07-07T07:06:04.450168"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What is said about Phelps not taking a medal in the 400-meter individual medley?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16582,
+          "content": {
+            "text": "What is said about Phelps not taking a medal in the 400-meter individual medley?\n",
+            "displayNumber": "6."
+          },
+          "images": null,
+          "settings": {
+            "points": "2.5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T13:24:31.952952",
+          "max_score": 2.5,
+          "groupping": null,
+          "id": 537043,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 16,
+              "text": "He lacked the inner desire it takes to win",
+              "parent": "571c4e12-f85b-43d7-8dda-235aeb5e2dfd",
+              "choices": []
+            },
+            {
+              "id": 17,
+              "text": "Phelps had not trained to the utmost",
+              "parent": "571c4e12-f85b-43d7-8dda-235aeb5e2dfd",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 18,
+              "text": "There were other factors involved in this outcome",
+              "parent": "571c4e12-f85b-43d7-8dda-235aeb5e2dfd",
+              "choices": []
+            }
+          ],
+          "uuid": "571c4e12-f85b-43d7-8dda-235aeb5e2dfd",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2017-07-07T07:06:04.374073"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "\\* \\* \\*\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16582,
+          "content": {
+            "text": "\\* \\* \\*\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T13:24:31.948249",
+          "max_score": null,
+          "groupping": null,
+          "id": 539151,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "41d3ca37-f140-4471-beec-282394f5a311",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2017-07-07T07:29:46.109591"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "\\* \\* \\*\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16582,
+          "content": {
+            "text": "\\* \\* \\*\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T13:24:31.946165",
+          "max_score": null,
+          "groupping": null,
+          "id": 539154,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "72eacdaf-f137-4f33-a27b-53689b1ee5ba",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2017-07-07T07:29:46.118558"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "\\* \\* \\*\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16582,
+          "content": {
+            "text": "\\* \\* \\*\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T13:24:31.944224",
+          "max_score": null,
+          "groupping": null,
+          "id": 539153,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "d33fb14d-cba1-4308-bcdc-add12f67b2ac",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2017-07-07T07:29:46.116045"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What would the man probably say next?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16582,
+          "content": {
+            "text": "What would the man probably say next?\n",
+            "displayNumber": "25."
+          },
+          "images": null,
+          "settings": {
+            "points": "2.5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T13:24:31.939772",
+          "max_score": 2.5,
+          "groupping": null,
+          "id": 537084,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 118,
+              "text": "And they will be back next week to look it over once more.",
+              "parent": "00998cea-cd04-43ff-a92d-0f35b378a06d",
+              "choices": []
+            },
+            {
+              "id": 119,
+              "text": "But I’m still hoping I can recover the full amount.",
+              "parent": "00998cea-cd04-43ff-a92d-0f35b378a06d",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 120,
+              "text": "No, they can’t be so generous.",
+              "parent": "00998cea-cd04-43ff-a92d-0f35b378a06d",
+              "choices": []
+            }
+          ],
+          "uuid": "00998cea-cd04-43ff-a92d-0f35b378a06d",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2017-07-07T07:06:04.508768"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "\\* \\* \\*\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16582,
+          "content": {
+            "text": "\\* \\* \\*\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T13:24:31.925241",
+          "max_score": null,
+          "groupping": null,
+          "id": 537437,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "1cf1058a-e368-4bab-b2fe-d40898d2173a",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2017-07-07T07:09:26.082246"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "[CLIP id=1-2998704]\n\n_You will hear four short dialogues. You will hear each once. Answer questions 23–26._",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16582,
+          "content": {
+            "text": "[CLIP id=1-2998704]\n\n_You will hear four short dialogues. You will hear each once. Answer questions 23–26._",
+            "displayNumber": "IV"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "00998cea-cd04-43ff-a92d-0f35b378a06d",
+            "f343edf1-a97a-4ce5-b713-728b4ad2ebab",
+            "28de11f2-9ab1-4c2c-936f-f03db71c2851",
+            "70e3c147-afd0-4129-a4f0-60c2bd2ad5ec",
+            "7c22e3f8-0d70-45b5-a48e-412a24fe7558",
+            "fd40102b-8e47-4784-b764-a9031699e58a",
+            "db6f647f-ee8e-4fc1-9b96-f14bf1b5ba8c"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-05-11T13:24:31.920389",
+          "max_score": null,
+          "groupping": null,
+          "id": 537061,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "a3dbed1d-6762-49ad-b711-13a15d450e48",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2017-07-07T07:06:04.431746"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "How is Phelps characterized?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16582,
+          "content": {
+            "text": "How is Phelps characterized?\n",
+            "displayNumber": "5."
+          },
+          "images": null,
+          "settings": {
+            "points": "2.5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T13:24:31.91789",
+          "max_score": 2.5,
+          "groupping": null,
+          "id": 537044,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 13,
+              "text": "As being rather lazy",
+              "parent": "4a003c91-c8d9-4cba-8481-bfb3a22496c3",
+              "choices": []
+            },
+            {
+              "id": 14,
+              "text": "As being extremely photogenic",
+              "parent": "4a003c91-c8d9-4cba-8481-bfb3a22496c3",
+              "choices": []
+            },
+            {
+              "id": 15,
+              "text": "As standing apart from other swimmers",
+              "parent": "4a003c91-c8d9-4cba-8481-bfb3a22496c3",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "4a003c91-c8d9-4cba-8481-bfb3a22496c3",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2017-07-07T07:06:04.376871"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mikä laite keksittiin avaruusohjelmassa ja miksi?\n",
+          "deleted_at": null,
+          "feedback": "Palohälytin, joka varoittaa miehistöä.\n\nPalokunnan kutsuminen avaruudessa ei auta. (5 p.)\n",
+          "exam_id": 16582,
+          "content": {
+            "text": "Mikä laite keksittiin avaruusohjelmassa ja miksi?\n",
+            "displayNumber": "a)"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T13:24:31.913568",
+          "max_score": null,
+          "groupping": null,
+          "id": 537092,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "48f881c4-ae4e-4ade-a192-fc3d90416770",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-07-07T07:06:04.533505"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "In what respect are “Brummies” lucky?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16582,
+          "content": {
+            "text": "In what respect are “Brummies” lucky?\n",
+            "displayNumber": "11."
+          },
+          "images": null,
+          "settings": {
+            "points": "2.5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T13:24:31.908196",
+          "max_score": 2.5,
+          "groupping": null,
+          "id": 537088,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 52,
+              "text": "They receive quality education at low cost",
+              "parent": "00441aaa-62c5-4ec8-b6e5-0a6147cb4218",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 53,
+              "text": "They have schools near their homes",
+              "parent": "00441aaa-62c5-4ec8-b6e5-0a6147cb4218",
+              "choices": []
+            },
+            {
+              "id": 54,
+              "text": "They enjoy an independent school system",
+              "parent": "00441aaa-62c5-4ec8-b6e5-0a6147cb4218",
+              "choices": []
+            }
+          ],
+          "uuid": "00441aaa-62c5-4ec8-b6e5-0a6147cb4218",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2017-07-07T07:06:04.521048"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What did Sebastian Coe claim?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16582,
+          "content": {
+            "text": "What did Sebastian Coe claim?\n",
+            "displayNumber": "4."
+          },
+          "images": null,
+          "settings": {
+            "points": "2.5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T13:24:31.905559",
+          "max_score": 2.5,
+          "groupping": null,
+          "id": 537041,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 10,
+              "text": "That Phelps quit swimming simply to get a real job",
+              "parent": "ce4d2b94-8416-48c8-a3da-671aab9c840f",
+              "choices": []
+            },
+            {
+              "id": 11,
+              "text": "Mark Spitz may have been a more talented swimmer",
+              "parent": "ce4d2b94-8416-48c8-a3da-671aab9c840f",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 12,
+              "text": "We may never find out how good Phelps may have become",
+              "parent": "ce4d2b94-8416-48c8-a3da-671aab9c840f",
+              "choices": []
+            }
+          ],
+          "uuid": "ce4d2b94-8416-48c8-a3da-671aab9c840f",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2017-07-07T07:06:04.366747"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Miksi pariskunta oli Brightonissa, ja miten Jamesin äiti sai tietää asiasta?\n",
+          "deleted_at": null,
+          "feedback": "Mennäkseen salaa naimisiin.\n\nÄidin ystävä laittoi tekstiviestin / onnitteli tekstiviestillä. (5 p.)\n",
+          "exam_id": 16582,
+          "content": {
+            "text": "Miksi pariskunta oli Brightonissa, ja miten Jamesin äiti sai tietää asiasta?\n",
+            "displayNumber": "d)"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T13:24:31.911453",
+          "max_score": null,
+          "groupping": null,
+          "id": 537091,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "3abe68a0-9aa4-45eb-8bf2-7a7a8d9dac14",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2017-07-07T07:06:04.530856"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "\\* \\* \\*\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16582,
+          "content": {
+            "text": "\\* \\* \\*\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T13:24:31.915898",
+          "max_score": null,
+          "groupping": null,
+          "id": 537296,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "d67d0ed0-4d48-4dc0-af63-6237942d7dbc",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2017-07-07T07:08:22.299183"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "_Answer questions 1–26 by choosing the __**best**__ alternative._\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16582,
+          "content": {
+            "text": "_Answer questions 1–26 by choosing the __**best**__ alternative._\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-05-11T13:24:31.922952",
+          "max_score": null,
+          "groupping": null,
+          "id": 537039,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "7d47d370-d0df-4e9b-be09-d028bd1dca72",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-07-07T07:06:04.357389"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "\\* \\* \\*\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16582,
+          "content": {
+            "text": "\\* \\* \\*\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T13:24:31.927465",
+          "max_score": null,
+          "groupping": null,
+          "id": 538312,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "73546ff2-2cfd-43b3-a0a9-eac60ecde7b0",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2017-07-07T07:18:36.8177"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What does the woman say about the team?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16582,
+          "content": {
+            "text": "What does the woman say about the team?\n",
+            "displayNumber": "16."
+          },
+          "images": null,
+          "settings": {
+            "points": "2.5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T13:24:31.929494",
+          "max_score": 2.5,
+          "groupping": null,
+          "id": 537068,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 79,
+              "text": "She admires them for overpowering their opponents",
+              "parent": "d0809216-73f5-4848-a403-453d6ab47381",
+              "choices": []
+            },
+            {
+              "id": 80,
+              "text": "She praises their stamina and mastery",
+              "parent": "d0809216-73f5-4848-a403-453d6ab47381",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 81,
+              "text": "She applauds their calmness and focus",
+              "parent": "d0809216-73f5-4848-a403-453d6ab47381",
+              "choices": []
+            }
+          ],
+          "uuid": "d0809216-73f5-4848-a403-453d6ab47381",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2017-07-07T07:06:04.453428"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "\\* \\* \\*\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16582,
+          "content": {
+            "text": "\\* \\* \\*\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T13:24:31.931654",
+          "max_score": null,
+          "groupping": null,
+          "id": 538843,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "70e3c147-afd0-4129-a4f0-60c2bd2ad5ec",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2017-07-07T07:25:03.659098"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "\\* \\* \\*\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16582,
+          "content": {
+            "text": "\\* \\* \\*\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T13:24:31.933877",
+          "max_score": null,
+          "groupping": null,
+          "id": 538502,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "58c6d5ae-e1b9-460e-9d7a-47662bbc4034",
+          "order_number": 12,
+          "multipart": true,
+          "created_at": "2017-07-07T07:20:42.714802"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "\\* \\* \\*\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16582,
+          "content": {
+            "text": "\\* \\* \\*\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T13:24:31.935907",
+          "max_score": null,
+          "groupping": null,
+          "id": 538844,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "7c22e3f8-0d70-45b5-a48e-412a24fe7558",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2017-07-07T07:25:03.661584"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "\\* \\* \\*\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16582,
+          "content": {
+            "text": "\\* \\* \\*\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T13:24:31.93796",
+          "max_score": null,
+          "groupping": null,
+          "id": 538846,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "db6f647f-ee8e-4fc1-9b96-f14bf1b5ba8c",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2017-07-07T07:25:03.667249"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "\\* \\* \\*\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16582,
+          "content": {
+            "text": "\\* \\* \\*\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T13:24:31.941932",
+          "max_score": null,
+          "groupping": null,
+          "id": 539152,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "80255610-ea7e-498d-ba0b-4c17a8510767",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2017-07-07T07:29:46.112319"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "How do we know that Phelps wasn’t the greatest Olympian?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16582,
+          "content": {
+            "text": "How do we know that Phelps wasn’t the greatest Olympian?\n",
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {
+            "points": "2.5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T13:24:31.950765",
+          "max_score": 2.5,
+          "groupping": null,
+          "id": 537049,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 4,
+              "text": "By listening to what the media says about him",
+              "parent": "015360c1-9b43-4028-81be-1882b6780432",
+              "choices": []
+            },
+            {
+              "id": 5,
+              "text": "By following Sam Mellinger’s opinion",
+              "parent": "015360c1-9b43-4028-81be-1882b6780432",
+              "choices": []
+            },
+            {
+              "id": 6,
+              "text": "By making a thorough analysis",
+              "parent": "015360c1-9b43-4028-81be-1882b6780432",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "015360c1-9b43-4028-81be-1882b6780432",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2017-07-07T07:06:04.391451"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What doesn’t the man like about tennis?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16582,
+          "content": {
+            "text": "What doesn’t the man like about tennis?\n",
+            "displayNumber": "21."
+          },
+          "images": null,
+          "settings": {
+            "points": "2.5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T13:24:31.961463",
+          "max_score": 2.5,
+          "groupping": null,
+          "id": 538503,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 145,
+              "text": "The athletes aren’t as good as in football",
+              "parent": "a11ad9fd-d78d-47eb-a6c5-b8e3674a761e",
+              "choices": []
+            },
+            {
+              "id": 146,
+              "text": "The athletes are uncontrolled",
+              "parent": "a11ad9fd-d78d-47eb-a6c5-b8e3674a761e",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 147,
+              "text": "The athletes jump and run after a little ball",
+              "parent": "a11ad9fd-d78d-47eb-a6c5-b8e3674a761e",
+              "choices": []
+            }
+          ],
+          "uuid": "a11ad9fd-d78d-47eb-a6c5-b8e3674a761e",
+          "order_number": 13,
+          "multipart": true,
+          "created_at": "2017-07-07T07:20:42.717852"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "How do most of Derek’s friends feel about Birmingham, home of “Brummies”?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16582,
+          "content": {
+            "text": "How do most of Derek’s friends feel about Birmingham, home of “Brummies”?\n",
+            "displayNumber": "9."
+          },
+          "images": null,
+          "settings": {
+            "points": "2.5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T13:24:31.966618",
+          "max_score": 2.5,
+          "groupping": null,
+          "id": 537055,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 46,
+              "text": "It’s a really nice city",
+              "parent": "f28c0420-03fe-4873-bb47-ede80c48104c",
+              "choices": []
+            },
+            {
+              "id": 47,
+              "text": "It’s like something out of a historical novel",
+              "parent": "f28c0420-03fe-4873-bb47-ede80c48104c",
+              "choices": []
+            },
+            {
+              "id": 48,
+              "text": "It’s best to try to ignore it altogether",
+              "parent": "f28c0420-03fe-4873-bb47-ede80c48104c",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "f28c0420-03fe-4873-bb47-ede80c48104c",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-07-07T07:06:04.408067"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Why did the English bridge team win?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16582,
+          "content": {
+            "text": "Why did the English bridge team win?\n",
+            "displayNumber": "15."
+          },
+          "images": null,
+          "settings": {
+            "points": "2.5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T13:24:31.970933",
+          "max_score": 2.5,
+          "groupping": null,
+          "id": 537069,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 76,
+              "text": "By using a form of doping that was undetected",
+              "parent": "bfaa06f9-1dd6-49a0-bce0-bad78d12c27b",
+              "choices": []
+            },
+            {
+              "id": 77,
+              "text": "By relying on a natural aroma that was detected",
+              "parent": "bfaa06f9-1dd6-49a0-bce0-bad78d12c27b",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 78,
+              "text": "By developing a new way of coded signalling",
+              "parent": "bfaa06f9-1dd6-49a0-bce0-bad78d12c27b",
+              "choices": []
+            }
+          ],
+          "uuid": "bfaa06f9-1dd6-49a0-bce0-bad78d12c27b",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2017-07-07T07:06:04.457421"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What would Liz get in London?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16582,
+          "content": {
+            "text": "What would Liz get in London?\n",
+            "displayNumber": "10."
+          },
+          "images": null,
+          "settings": {
+            "points": "2.5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T13:24:31.975403",
+          "max_score": 2.5,
+          "groupping": null,
+          "id": 537054,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 49,
+              "text": "A small townhouse",
+              "parent": "0cf2ccb5-d47b-4e88-946c-193a5d6b3566",
+              "choices": []
+            },
+            {
+              "id": 50,
+              "text": "A comfortable apartment far from the centre",
+              "parent": "0cf2ccb5-d47b-4e88-946c-193a5d6b3566",
+              "choices": []
+            },
+            {
+              "id": 51,
+              "text": "A rather miniature flat",
+              "parent": "0cf2ccb5-d47b-4e88-946c-193a5d6b3566",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "0cf2ccb5-d47b-4e88-946c-193a5d6b3566",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2017-07-07T07:06:04.40513"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mitä Pink Gang tavallisesti tekee, ja mitä sen jäsenet ovat nyt tehneet?\n",
+          "deleted_at": null,
+          "feedback": "Rankaisevat valta-asemansa väärinkäyttäjiä ja ovat pahoinpidelleet/hakanneet elokuvan tuottajia. (5 p.)\n",
+          "exam_id": 16582,
+          "content": {
+            "text": "Mitä Pink Gang tavallisesti tekee, ja mitä sen jäsenet ovat nyt tehneet?\n",
+            "displayNumber": "c)"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T13:24:31.977569",
+          "max_score": null,
+          "groupping": null,
+          "id": 537090,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "16a028d6-4d05-47e6-b410-4fb93721c987",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2017-07-07T07:06:04.528054"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What is the main argument against Phelps being the best Olympian?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16582,
+          "content": {
+            "text": "What is the main argument against Phelps being the best Olympian?\n",
+            "displayNumber": "3."
+          },
+          "images": null,
+          "settings": {
+            "points": "2.5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T13:24:31.982069",
+          "max_score": 2.5,
+          "groupping": null,
+          "id": 537045,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 7,
+              "text": "22 medals is not enough",
+              "parent": "66daf6fd-836d-48e1-8c52-e9a5300962e8",
+              "choices": []
+            },
+            {
+              "id": 8,
+              "text": "The circumstances",
+              "parent": "66daf6fd-836d-48e1-8c52-e9a5300962e8",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 9,
+              "text": "His wealth",
+              "parent": "66daf6fd-836d-48e1-8c52-e9a5300962e8",
+              "choices": []
+            }
+          ],
+          "uuid": "66daf6fd-836d-48e1-8c52-e9a5300962e8",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2017-07-07T07:06:04.379728"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "\\* \\* \\*\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16582,
+          "content": {
+            "text": "\\* \\* \\*\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T13:24:31.984395",
+          "max_score": null,
+          "groupping": null,
+          "id": 537551,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "0dd8a182-5bdb-4c19-b1c2-0f900cba2012",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2017-07-07T07:11:12.676943"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mikä johti siihen, että kuljettaja törmäsi karhuun, ja mitä karhu teki tämän jälkeen? \n",
+          "deleted_at": null,
+          "feedback": "Hän väisti hirveä.\n\nKarhu pakeni loukkaantuneena. (5 p.)\n",
+          "exam_id": 16582,
+          "content": {
+            "text": "Mikä johti siihen, että kuljettaja törmäsi karhuun, ja mitä karhu teki tämän jälkeen? \n",
+            "displayNumber": "e)"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T13:24:32.002948",
+          "max_score": null,
+          "groupping": null,
+          "id": 537094,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "2b91dc51-5324-481c-8d22-ca30041611df",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2017-07-07T07:06:04.539215"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What would the woman probably say next?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16582,
+          "content": {
+            "text": "What would the woman probably say next?\n",
+            "displayNumber": "23."
+          },
+          "images": null,
+          "settings": {
+            "points": "2.5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T13:24:32.009934",
+          "max_score": 2.5,
+          "groupping": null,
+          "id": 537072,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 115,
+              "text": "Well, he may bear a faint resemblance to him.",
+              "parent": "f343edf1-a97a-4ce5-b713-728b4ad2ebab",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 116,
+              "text": "You’re right, he’s the spitting image of his father.",
+              "parent": "f343edf1-a97a-4ce5-b713-728b4ad2ebab",
+              "choices": []
+            },
+            {
+              "id": 117,
+              "text": "Aw, come on, you have to admit it.",
+              "parent": "f343edf1-a97a-4ce5-b713-728b4ad2ebab",
+              "choices": []
+            }
+          ],
+          "uuid": "f343edf1-a97a-4ce5-b713-728b4ad2ebab",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-07-07T07:06:04.467719"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What does the man criticize Hitchcock for?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16582,
+          "content": {
+            "text": "What does the man criticize Hitchcock for?\n",
+            "displayNumber": "18."
+          },
+          "images": null,
+          "settings": {
+            "points": "2.5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T13:24:32.011787",
+          "max_score": 2.5,
+          "groupping": null,
+          "id": 537066,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 85,
+              "text": "Failing in his movie-directing skills",
+              "parent": "f3d229a9-973c-4755-a568-d83051935338",
+              "choices": []
+            },
+            {
+              "id": 86,
+              "text": "Underestimating the public",
+              "parent": "f3d229a9-973c-4755-a568-d83051935338",
+              "choices": []
+            },
+            {
+              "id": 87,
+              "text": "Lack of image management skills",
+              "parent": "f3d229a9-973c-4755-a568-d83051935338",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "f3d229a9-973c-4755-a568-d83051935338",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2017-07-07T07:06:04.447438"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What seems to have been George’s problem with the earlier program?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16582,
+          "content": {
+            "text": "What seems to have been George’s problem with the earlier program?\n",
+            "displayNumber": "14."
+          },
+          "images": null,
+          "settings": {
+            "points": "2.5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T13:24:32.022656",
+          "max_score": 2.5,
+          "groupping": null,
+          "id": 537070,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 73,
+              "text": "He had a falling out with the TV producer",
+              "parent": "aba3a223-59ec-49c4-b545-41cd1a437219",
+              "choices": []
+            },
+            {
+              "id": 74,
+              "text": "He couldn’t really get different roles on TV",
+              "parent": "aba3a223-59ec-49c4-b545-41cd1a437219",
+              "choices": []
+            },
+            {
+              "id": 75,
+              "text": "He wasn’t particularly good at TV humor",
+              "parent": "aba3a223-59ec-49c4-b545-41cd1a437219",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "aba3a223-59ec-49c4-b545-41cd1a437219",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2017-07-07T07:06:04.46106"
+        }
+      ],
+      "name": "Englanti pitkä oppimäärä kuullunymmärtämiskoe kevät 2014 ",
+      "settings": {},
+      "exam_type": "yo-koe",
+      "classification": {
+        "category": "listening-comprehension",
+        "hide_review_buttons": false,
+        "exam_type": "yo-koe",
+        "year": "2014",
+        "language": "fi-FI",
+        "show_exam_series": false,
+        "force_yletunnus": false,
+        "subject": "englanti-pitkä",
+        "published": true,
+        "semester": "spring"
+      },
+      "published_at": "2017-07-07T07:06:04.353Z",
+      "language": "fi-FI",
+      "id": 16582,
+      "reviews": [],
+      "is_open": true,
+      "uuid": "96ceaa2c-240e-4895-90e5-99bcdd63c918"
+    }
+  ]
+}

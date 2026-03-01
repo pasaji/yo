@@ -1,0 +1,2038 @@
+{
+  "meta": {
+    "count": 1
+  },
+  "data": [
+    {
+      "tags": [
+        ""
+      ],
+      "main_text": "Koe koostuu 11 tehtävästä, joista vastataan seitsemään. Tehtävät on jaettu kolmeen osaan. Osassa I on yksi kaikille pakollinen 20 pisteen tehtävä. Osassa II on seitsemän 15 pisteen tehtävää, joista vastataan neljään. Osassa III on kolme 20 pisteen tehtävää, joista vastataan kahteen. Kokeen maksimipistemäärä on 120. Kaikki annetut vastaukset tulee perustella, jos perusteleminen on vastausteknisesti mahdollista. Voit tuottaa vastausten tueksi piirroksia, kaavioita tai taulukoita ja liittää niistä kuvakaappauksen mihin tahansa tekstivastaukseen.\n\n​\n\nÄlä jätä mitään merkintöjä sellaisen tehtävän vastaukselle varattuun tilaan, jota et halua jättää arvosteltavaksi.\n\n​\n\nOSA I\n\n20 pisteen tehtävä. Kaikille pakollinen tehtävä.\n\n  1. Monivalintatehtäviä fysiikan eri osa-alueilta\n\n​\n\nOSA II\n\n15 pisteen tehtävät. Vastaa neljään tehtävään.\n\n  2. Kaasulämpömittari (kuva- ja tiedostoaineisto)\n\n  3. Ledilamppu autossa (kuva-aineisto)\n\n  4. Mäenlaskua (kuva-aineisto)\n\n  5. Kitaran kieli (kuvaaja-aineisto)\n\n  6. Heiluri magneettikentässä (videoaineisto)\n\n  7. Beetahajoaminen (kuva- ja taulukkoaineisto)\n\n  8. Rehun radioaktiivisuus (ei aineistoa)\n\n​\n\nOSA III\n\n20 pisteen tehtävät. Vastaa kahteen tehtävään.\n\n  9. Tuulivoimala (kuva- ja tiedostoaineisto)\n\n10. Grafeeni (teksti- ja kuva-aineisto)\n\n11. Vaimeneva värähtely (video- ja tiedostoaineisto)\n\n​\n\nVoit avata tehtäviin liittyvät aineistot erilliseen välilehteen [LINK url=http://yle.fi/plus/abitreenit/2019/syksy/FY-fi/attachments/index.html|text=tästä linkistä]. Myös tehtävänantojen yhteydessä on suorat linkit aineistoihin.\n",
+      "characters": null,
+      "deleted_at": null,
+      "series_uuids": [],
+      "questions": [
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kuvaile videolla 6.A esitetyt kokeet ja kerro, mitkä ovat koeasetelman osat, mitä kokeissa tehdään ja mitä havaitset kokeissa tapahtuvan. Tässä osatehtävässä ei tarvitse vielä selittää ilmiötä. (5 p.)\n",
+          "deleted_at": null,
+          "feedback": "Kokeessa 1 käytetään telineestä roikkuvaa alumiinilevystä valmistettua heiluria. Kokeessa 2 on heilurin\n\nlisäksi kestomagneetti.\n\nKokeessa 1 heiluria poikkeutetaan tasapainoasemastaan ja päästetään irti. Heiluri heilahtelee\n\ntasapainoasemansa molemmilla puolilla. Heilahtelu vaimenee ja lopulta pysähtyy.\n\nKokeessa 2 heiluri asetetaan kestomagneetin napojen väliin. Koe toistetaan. Tässä tapauksessa heiluri\n\npysähtyy nopeasti kestomagneetin päiden väliin.\n\n&NewLine;\n\n_Vastauksessa on mainittu koeasetelman osina alumiininen heiluri ja kestomagneetti (1 p.)._\n\n_Kokeen 1 kuvailussa on todettu heilurin heiluminen ja vaimeneminen tai pysähtyminen (2 p.),_\n\n_ja kokeen 2 kuvailussa, että heiluri heilahtelee magneetin napojen välissä ja pysähtyy_\n\n_nopeammin kuin kokeessa 1 (2 p.). Hyvältä vastaukselta vaaditaan, että siinä esitetyn_\n\n_kuvailun perusteella kokeesta ja koeasetelmasta pystyy saamaan oikean käsityksen._\n",
+          "exam_id": 55651,
+          "content": {
+            "text": "Kuvaile videolla 6.A esitetyt kokeet ja kerro, mitkä ovat koeasetelman osat, mitä kokeissa tehdään ja mitä havaitset kokeissa tapahtuvan. Tässä osatehtävässä ei tarvitse vielä selittää ilmiötä. (5 p.)\n",
+            "displayNumber": "6.1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-06-14T10:30:46.142982",
+          "max_score": null,
+          "groupping": null,
+          "id": 1774203,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "f0761521-52d0-4704-bb30-1a9825a1b163",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2019-11-20T08:53:37.360721"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Auton pistokkeesta saatavassa jännitteessä voi esiintyä hetkellisiä piikkejä. Kuinka korkean jännitepiikin ledilamppu enintään kestää rikkoutumatta, kun etuvastuksen resistanssi on 830 Ω ja ledi rikkoutuu yli 30,0 mA:n sähkövirralla? (3 p.)\n",
+          "deleted_at": null,
+          "feedback": "Lähteen jännite U = ?\n\nEtuvastuksen resistanssi R = 830 Ω\n\nSähkövirta I = 0,0300 A\n\n&NewLine;\n\nLedin kynnysjännite UL = 1,7 V, sillä ledin jännite ei muutu, kun sähkövirta kasvaa 0,020 am-\n\npeerista 0,030 ampeeriin.\n\n&NewLine;\n\nLasketaan Kirchhoffin II lain avulla suurin jännite, jonka ledi kestää rikkoutumatta:\n\n&NewLine;\n\nU − UL − RI = 0,\n\nU = UL + RI = 26,6 V ≈ 27 V.\n\n&NewLine;\n\n_Vastauksesta käy ilmi, että ledin jännite ei muutu sähkövirran kasvaessa. Ratkaisussa on_\n\n_sovellettu Kirchoffin II lakia, ja lopputuloksessa on suureyhtälö kirjoitettu näkyviin (3 p.)._\n",
+          "exam_id": 55651,
+          "content": {
+            "text": "Auton pistokkeesta saatavassa jännitteessä voi esiintyä hetkellisiä piikkejä. Kuinka korkean jännitepiikin ledilamppu enintään kestää rikkoutumatta, kun etuvastuksen resistanssi on 830 Ω ja ledi rikkoutuu yli 30,0 mA:n sähkövirralla? (3 p.)\n",
+            "displayNumber": "3.2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-06-14T10:30:46.137426",
+          "max_score": null,
+          "groupping": null,
+          "id": 1772593,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "7d9ada33-f332-4a09-9dfd-1c711bf5c0c6",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2019-11-20T08:23:29.545318"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kun ilma virtaa tuulivoimalan turbiinin läpi, ilman nopeus pienenee. Voidaan osoittaa, että häviöttömällä turbiinilla ilmavirrasta saatava teho on\n\n​\n\n[MATH text=P\\_T=\\frac{1}{4}\\rho A\\left(v\\_1+v\\_2\\right)\\left(v\\_1\\ ^2-v\\_2\\ ^2\\right)\\left(2\\right)]\n\n​\n\njossa [MATH text=A] on turbiinin pyyhkäisemä pinta-ala ja [MATH text=\\upsilon \\_1] ja [MATH text=\\upsilon \\_2] ovat ilman nopeudet ennen turbiinia ja sen jälkeen.\n\n​\n\nEdelleen Betzin lain mukaan turbiinin suurin teoreettisesti mahdollinen teho [MATH text=P\\_B] saavutetaan, kun ilman nopeus pienenee turbiinissa yhteen kolmasosaan alkuperäisestä. Laske tuulivoimalan suurin teoreettinen hyötysuhde [MATH text=\\frac{P\\_B}{P\\_K}]. (3 p.)\n",
+          "deleted_at": null,
+          "feedback": "Betzin lain mukaan suurin teho saavutetaan, kun [MATH text=v\\_2=\\frac{1}{3}v\\_1]. Tällöin\n\n&NewLine;\n\n[MATH text=P\\_B=\\frac{1}{4}ρA(v\\_1+\\frac{1}{3}v\\_1)(v\\_1^2−(\\frac{1}{3}v\\_1)^2){,}]\n\n[MATH text=P\\_B=\\frac{1}{4}ρA(v\\_1+\\frac{1}{3}v\\_1)(v\\_1+\\frac{1}{3}v\\_1)(v\\_1−\\frac{1}{3}v\\_1){,}]\n\n[MATH text=P\\_B=\\frac{1}{4}ρA\\frac{4}{3}v\\_1\\cdot\\frac{4}{3}v\\_1\\cdot\\frac{2}{3}v\\_1=\\frac{16}{27}\\cdot\\frac{1}{2}ρAv\\_1^3.]\n\n&NewLine;\n\nSilloin\n\n&NewLine;\n\n[MATH text=\\frac{P\\_B}{P\\_K}=\\frac{16}{27}\\approx0{,}59.]\n\n&NewLine;\n\n_Betzin lain mukaisen tehon lauseke on saatettu algebrallisesti sievennettyyn muotoon (2 p.)_\n\n_ja sitä käyttäen on määritetty suurin teoreettinen hyötysuhde (1 p.)._\n",
+          "exam_id": 55651,
+          "content": {
+            "text": "Kun ilma virtaa tuulivoimalan turbiinin läpi, ilman nopeus pienenee. Voidaan osoittaa, että häviöttömällä turbiinilla ilmavirrasta saatava teho on\n\n​\n\n[MATH text=P\\_T=\\frac{1}{4}\\rho A\\left(v\\_1+v\\_2\\right)\\left(v\\_1\\ ^2-v\\_2\\ ^2\\right)\\left(2\\right)]\n\n​\n\njossa [MATH text=A] on turbiinin pyyhkäisemä pinta-ala ja [MATH text=\\upsilon \\_1] ja [MATH text=\\upsilon \\_2] ovat ilman nopeudet ennen turbiinia ja sen jälkeen.\n\n​\n\nEdelleen Betzin lain mukaan turbiinin suurin teoreettisesti mahdollinen teho [MATH text=P\\_B] saavutetaan, kun ilman nopeus pienenee turbiinissa yhteen kolmasosaan alkuperäisestä. Laske tuulivoimalan suurin teoreettinen hyötysuhde [MATH text=\\frac{P\\_B}{P\\_K}]. (3 p.)\n",
+            "displayNumber": "9.3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-06-14T10:30:46.133701",
+          "max_score": null,
+          "groupping": null,
+          "id": 1777931,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "1f2c0d8e-0cd5-45c4-9c09-c31d9f9632d6",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2019-11-20T10:36:38.304335"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mistä ilmiöstä tai ilmiöistä kokeissa on kyse? Mitä tapahtuisi, jos metallisen levyn sijasta käytettäisiin muovilevyä? (5 p.)\n",
+          "deleted_at": null,
+          "feedback": "Kyseessä on pyörrevirtojen syntyminen alumiinilevyyn, kun levyn läpi kulkeva magneettivuo muuttuu.\n\nTämä hidastaa heilurin liikettä. Koska alumiini on johde, siihen syntyy pyörrevirtoja.\n\nHeilurin liike johtuu painovoimasta ja telineen heiluriin kohdistamasta tukivoimasta, joiden\n\nyhteisvaikutuksesta heiluri suorittaa heilahdusliikettä tasapainoasemansa molemmin puolin.\n\nJos heiluri olisi valmistettu eristeestä, kuten muovista, ei siihen syntyisi pyörrevirtoja. Tällöin heiluri ei\n\npysähtyisi nopeasti magneettikentässä, vaan heilahtelu olisi samankaltaista kuin ensimmäisessä\n\nkoejärjestelyssä eli vaimenisi hitaasti kitkan ja ilmanvastuksen vaikutuksesta.\n\n&NewLine;\n\n_Vastauksessa on mainittu, että alumiiniin syntyy pyörrevirtoja, koska magneettivuo sen läpi_\n\n_muuttuu heilahdusten aikana (2 p.). On todettu, että muovilevy heilahtelisi samalla tavalla_\n\n_kuin alumiinilevy kokeessa 1 (1 p.), koska muovi on eriste eikä siihen siksi synny pyörrevirtoja_\n\n_(2 p.)_\n",
+          "exam_id": 55651,
+          "content": {
+            "text": "Mistä ilmiöstä tai ilmiöistä kokeissa on kyse? Mitä tapahtuisi, jos metallisen levyn sijasta käytettäisiin muovilevyä? (5 p.)\n",
+            "displayNumber": "6.2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-06-14T10:30:46.131541",
+          "max_score": null,
+          "groupping": null,
+          "id": 1774307,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "7fd02f71-079a-422d-b600-8b1b98d86ede",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2019-11-20T08:54:12.024761"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Tarkastellaan edelleen samoja vaunuja kuin kohdissa 1.1. ja 1.2. Nyt kokoon puristunut jousi on kiinnitetty molempiin vaunuihin, jolloin systeemi jää värähtelemään animaatiossa 1.B esitetyn tilanteen mukaisesti. Valitse tilannetta kuvaava oikea vaihtoehto.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 55651,
+          "content": {
+            "text": "Tarkastellaan edelleen samoja vaunuja kuin kohdissa 1.1. ja 1.2. Nyt kokoon puristunut jousi on kiinnitetty molempiin vaunuihin, jolloin systeemi jää värähtelemään animaatiossa 1.B esitetyn tilanteen mukaisesti. Valitse tilannetta kuvaava oikea vaihtoehto.\n",
+            "displayNumber": "1.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-06-14T10:30:46.127265",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1771633,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 9,
+              "text": "Jousivoiman potentiaalienergian ja vaunujen liike-energioiden summa muuttuu jaksollisesti.",
+              "parent": "c839c7e6-b53b-4084-8589-896fc99f615d",
+              "choices": []
+            },
+            {
+              "id": 10,
+              "text": "Jousivoiman potentiaalienergia on vakio.",
+              "parent": "c839c7e6-b53b-4084-8589-896fc99f615d",
+              "choices": []
+            },
+            {
+              "id": 11,
+              "text": "Jousivoiman potentiaalienergia vaihtaa etumerkkiään.",
+              "parent": "c839c7e6-b53b-4084-8589-896fc99f615d",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 12,
+              "text": "Jousivoiman potentiaalienergia muuttuu jaksollisesti.",
+              "parent": "c839c7e6-b53b-4084-8589-896fc99f615d",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "c839c7e6-b53b-4084-8589-896fc99f615d",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2019-11-20T07:52:22.892112"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kahdessa yhdensuuntaisessa virtajohtimessa, jotka ovat kuvan tasoa vastaan kohtisuorassa, kulkee yhtä suuri virta. Ylemmässä johtimessa virta kulkee kohti katsojaa ja alemmassa katsojasta poispäin. Kuvan mukaisesti piste P muodostaa johtimien kanssa tasakylkisen kolmion kuvan tasossa. Magneettikenttä (magneettivuon tiheys) pisteessä P\n\n​\n\n[IMS id=39-6137015dd4f272cebb9|showCopyright=false|imageLink=false]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 55651,
+          "content": {
+            "text": "Kahdessa yhdensuuntaisessa virtajohtimessa, jotka ovat kuvan tasoa vastaan kohtisuorassa, kulkee yhtä suuri virta. Ylemmässä johtimessa virta kulkee kohti katsojaa ja alemmassa katsojasta poispäin. Kuvan mukaisesti piste P muodostaa johtimien kanssa tasakylkisen kolmion kuvan tasossa. Magneettikenttä (magneettivuon tiheys) pisteessä P\n\n​\n\n[IMS id=39-6137015dd4f272cebb9|showCopyright=false|imageLink=false]\n",
+            "displayNumber": "1.6."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-06-14T10:30:46.124758",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1771761,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 22,
+              "text": "suuntautuu kuvassa oikealle.",
+              "parent": "aa0fe450-4ae2-432a-abb3-d2c7d714f824",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 23,
+              "text": "suuntautuu kuvassa vasemmalle.",
+              "parent": "aa0fe450-4ae2-432a-abb3-d2c7d714f824",
+              "choices": []
+            },
+            {
+              "id": 24,
+              "text": "suuntautuu kuvassa ylös.",
+              "parent": "aa0fe450-4ae2-432a-abb3-d2c7d714f824",
+              "choices": []
+            },
+            {
+              "id": 25,
+              "text": "suuntautuu kuvassa alas.",
+              "parent": "aa0fe450-4ae2-432a-abb3-d2c7d714f824",
+              "choices": []
+            },
+            {
+              "id": 26,
+              "text": "on nolla.",
+              "parent": "aa0fe450-4ae2-432a-abb3-d2c7d714f824",
+              "choices": []
+            }
+          ],
+          "uuid": "aa0fe450-4ae2-432a-abb3-d2c7d714f824",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2019-11-20T08:01:16.330135"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kaksi pistevarausta +q ja −q sekä piste P ovat tasakylkisen kolmion kärjissä kuvan mukaisesti. Pisteessä P ei ole varausta. Sähkökenttä pisteessä P\n\n​\n\n[IMS id=39-6137005dd4f272bdc06|showCopyright=false|imageLink=false]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 55651,
+          "content": {
+            "text": "Kaksi pistevarausta +q ja −q sekä piste P ovat tasakylkisen kolmion kärjissä kuvan mukaisesti. Pisteessä P ei ole varausta. Sähkökenttä pisteessä P\n\n​\n\n[IMS id=39-6137005dd4f272bdc06|showCopyright=false|imageLink=false]\n",
+            "displayNumber": "1.5."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-06-14T10:30:46.12243",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1771694,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 17,
+              "text": "on nolla.",
+              "parent": "7d5af9b6-cf2a-46b8-a9a9-c9d782180f92",
+              "choices": []
+            },
+            {
+              "id": 18,
+              "text": "suuntautuu kuvassa alas.",
+              "parent": "7d5af9b6-cf2a-46b8-a9a9-c9d782180f92",
+              "choices": []
+            },
+            {
+              "id": 19,
+              "text": "suuntautuu kuvassa ylös.",
+              "parent": "7d5af9b6-cf2a-46b8-a9a9-c9d782180f92",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 20,
+              "text": "suuntautuu kuvassa oikealle.",
+              "parent": "7d5af9b6-cf2a-46b8-a9a9-c9d782180f92",
+              "choices": []
+            },
+            {
+              "id": 21,
+              "text": "suuntautuu kuvassa vasemmalle.",
+              "parent": "7d5af9b6-cf2a-46b8-a9a9-c9d782180f92",
+              "choices": []
+            }
+          ],
+          "uuid": "7d5af9b6-cf2a-46b8-a9a9-c9d782180f92",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2019-11-20T07:54:35.486662"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Käynnissä olevan auton pistokkeen jännite on 14,4 V. Pistokkeeseen kytketään kahden punaisen ledin muodostama lamppu, jossa ledit on kytketty rinnan. Molemmilla ledeillä on yhteinen etuvastus kuvan 3.A mukaisesti. Ledin kynnysjännite on edelleen 1,7 V, ja ledin sähkövirta on 20,0 mA. Mikä on etuvastuksen resistanssin oltava tässä tapauksessa? (6 p.)\n",
+          "deleted_at": null,
+          "feedback": "Etuvastuksen ja lediyhdistelmien yli oleva jännite on 14,4 V. Tällöin etuvastuksen jännitehä-\n\nviö on UR = U − UL = 14,4 V − 1,7 V = 12,7 V.\n\n​\n\nMolempien ledien sähkövirta on 20,0 mA, joten etuvastuksen sähkövirta on [MATH text=I\\_R=2\\cdot I\\_L=40{,}0\\ mA].\n\nEtuvastuksen resistanssi on [MATH text=R=\\frac{U\\_R}{I\\_R}=\\frac{12{,}7V}{0{,}0400A}=317{,}5Ω\\approx320Ω.]\n\n​\n\n_Vastauksessa etuvastuksen jännitehäviö on päätelty Kirchhoffin II lain avulla (2 p.) ja etuvas-_\n\n_tuksen läpi kulkevan sähkövirran suuruus on perusteltu (2 p.). Lopputuloksessa on suureyhtä-_\n\n_lön oltava kirjoitettuna näkyviin (2 p.)._\n",
+          "exam_id": 55651,
+          "content": {
+            "text": "Käynnissä olevan auton pistokkeen jännite on 14,4 V. Pistokkeeseen kytketään kahden punaisen ledin muodostama lamppu, jossa ledit on kytketty rinnan. Molemmilla ledeillä on yhteinen etuvastus kuvan 3.A mukaisesti. Ledin kynnysjännite on edelleen 1,7 V, ja ledin sähkövirta on 20,0 mA. Mikä on etuvastuksen resistanssin oltava tässä tapauksessa? (6 p.)\n",
+            "displayNumber": "3.3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-06-14T10:30:46.118607",
+          "max_score": null,
+          "groupping": null,
+          "id": 1772652,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "36c9bc81-d139-45ae-b38e-a9d6f409031a",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2019-11-20T08:24:09.279148"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kaasulämpömittarilla voidaan määrittää lämpötila painetta mittaamalla. Kaasulämpömittari vietiin ulos eräänä talvipäivänä, jolloin painemittari asettui näyttämään arvoa 88,2 kPa. Mikä oli ulkona vallitseva lämpötila? (5 p.)\n",
+          "deleted_at": null,
+          "feedback": "Tutkitulla lämpötila-alueella ilmaa voidaan pitää ideaalikaasuna. Tällöin vakiotilavuudessa\n\n​\n\n[MATH text=\\frac{p}{T}=\\frac{Δp}{Δt}] = vakio, joten pisteisiin voidaan sovittaa suora.\n\n​\n\nSuoran sovituksella saadaan\n\n​\n\n[MATH text=p(t)=0{,}326083\\frac{kPa}{°C}\\cdot t+92{,}1404kPa{,}]\n\n​\n\njoten\n\n​\n\n[MATH text=t(p)=\\frac{p−92{,}1404kPa}{0{,}326083\\frac{kPa}{°C}}.]\n\n​\n\nLasketaan lämpötila, kun paine p = 88,2 kPa.\n\nVastaukseksi saadaan t = −12,0841 °C ≈ −12,1 °C.\n\n​\n\n_Vastauksesta käy ilmi, kuinka pisteisiin sovitettua suoraa käytetään lämpötilan määrittämi-_\n\n_seen (3 p.). Oikea lopputulos (2 p.)._\n",
+          "exam_id": 55651,
+          "content": {
+            "text": "Kaasulämpömittarilla voidaan määrittää lämpötila painetta mittaamalla. Kaasulämpömittari vietiin ulos eräänä talvipäivänä, jolloin painemittari asettui näyttämään arvoa 88,2 kPa. Mikä oli ulkona vallitseva lämpötila? (5 p.)\n",
+            "displayNumber": "2.2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-06-14T10:30:46.116725",
+          "max_score": null,
+          "groupping": null,
+          "id": 1772118,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "4049b3ee-4bbc-49ad-abea-762e8f401c42",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2019-11-20T08:11:32.901825"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Heiluri magneettikentässä (15 p.)**\n\n​\n\nVideolla 6.A näytetään kaksi toisiinsa liittyvää koetta. Vastaa videon pohjalta tehtäviin 6.1.–6.3.\n\n​\n\nAineisto:\n\n6.A [LINK url=http://yle.fi/plus/abitreenit/2019/syksy/FY-fi/attachments/index.html#6.A|text=Video: Kokeet alumiinilevyllä ja magneetilla]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 55651,
+          "content": {
+            "text": "**Heiluri magneettikentässä (15 p.)**\n\n​\n\nVideolla 6.A näytetään kaksi toisiinsa liittyvää koetta. Vastaa videon pohjalta tehtäviin 6.1.–6.3.\n\n​\n\nAineisto:\n\n6.A [LINK url=http://yle.fi/plus/abitreenit/2019/syksy/FY-fi/attachments/index.html#6.A|text=Video: Kokeet alumiinilevyllä ja magneetilla]\n",
+            "displayNumber": "6."
+          },
+          "images": null,
+          "settings": {
+            "material": true
+          },
+          "child_ids": [
+            "f0761521-52d0-4704-bb30-1a9825a1b163",
+            "7fd02f71-079a-422d-b600-8b1b98d86ede",
+            "cbc18cbf-5bf0-4222-ba26-83e8f9b2a7e4"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2022-06-14T10:30:46.11262",
+          "max_score": null,
+          "groupping": null,
+          "id": 1774170,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "c14b1f4e-04bc-4723-84cd-573a0e7b60c3",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2019-11-20T08:53:20.229638"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Missä ajassa värähtelijän kiihtyvyyden kunkin värähdyksen aikana saavuttama suurin arvo pienenee kahdeksasosaan? (5 p.)\n",
+          "deleted_at": null,
+          "feedback": "Mallin avulla voidaan määrittää hetki, jolloin kiihtyvyyden suurin arvo on pienentynyt kah-\n\ndeksasosaan:\n\n​\n\n[MATH text=\\frac{A}{8}=Ae^{−Btx}], jossa [MATH text=A=4{,}003\\frac{m}{s^2}] ja [MATH text=B=0{,}1501\\frac{1}{s}]. Tästä saadaan\n\n[MATH text=tx=−\\frac{\\ln(1/8)}{B}=13{,}85370781s\\approx14s.]\n\n​\n\n_On määritetty värähtelyn matemaattisen mallin parametrien A ja B arvot (2 p.), johdettu_\n\n_suureyhtälö kysytylle ajalle (2 p.) ja laskettu sen avulla aika (1 p.)._\n\n​\n\nTAI\n\n​\n\nVärähtelyn alussa kiihtyvyyden suurin arvo on noin 4,0 m/s[SUP text=2]. Kuvaajaa tutkimalla havaitaan,\n\nettä arvo on puolittunut arvoon 2,0 m/s[SUP text=2] hetkellä 4,5 s. Kiihtyvyyden arvo 1,0 m/s[SUP text=2] taas saa-\n\nvutetaan hetkellä 9,1 s. Tästä voidaan päätellä, että värähtelyn amplitudin puoliintumisaika\n\non 4,5 s.\n\nVärähtelyn amplitudi on pienentynyt kahdeksasosaan, kun se on puoliintunut kolme kertaa.\n\nAikaa on siis kulunut 13,5 s ≈ 14 s.\n\n​\n\n_Kysytty aika (1 p.) on päätelty perustellen (4 p.) värähtelyn kuvaajasta._\n",
+          "exam_id": 55651,
+          "content": {
+            "text": "Missä ajassa värähtelijän kiihtyvyyden kunkin värähdyksen aikana saavuttama suurin arvo pienenee kahdeksasosaan? (5 p.)\n",
+            "displayNumber": "11.3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-06-14T10:30:46.110084",
+          "max_score": null,
+          "groupping": null,
+          "id": 1779961,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "b99ff66b-fe0e-4a84-82ef-4f729eac0c84",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2019-11-20T11:09:06.028463"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kuvassa 7.A on esitetty [SUP text=82]Rb-, [SUP text=15]O- ja [SUP text=18]F-isotooppien säteilyspektrit. Valitse yksi isotoopeista ja kirjoita sen hajoamisyhtälö. (4 p.)\n",
+          "deleted_at": null,
+          "feedback": "[IMS id=39-6137395dd50016aa3b7|showCopyright=false|imageLink=false]\n\n​\n\n_Hyväksytyssä vastauksessa reaktiossa syntyvä alkuaine on nimetty oikein ja sillä on oikea_\n\n_järjestysluku eikä reaktiossa ole ylimääräisiä tai vääriä hiukkasia (4 p.). Jos vastaus on muuten_\n\n_oikein, mutta siinä on vääriä massa- ja neutronilukuja tai neutriino puuttuu, tehtävästä voi saada_\n\n_enintään 2 p._\n",
+          "exam_id": 55651,
+          "content": {
+            "text": "Kuvassa 7.A on esitetty [SUP text=82]Rb-, [SUP text=15]O- ja [SUP text=18]F-isotooppien säteilyspektrit. Valitse yksi isotoopeista ja kirjoita sen hajoamisyhtälö. (4 p.)\n",
+            "displayNumber": "7.1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-06-14T10:30:46.09874",
+          "max_score": null,
+          "groupping": null,
+          "id": 1774569,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "765a8df1-fc83-4ea7-8656-cb23bb89e282",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2019-11-20T08:56:07.044321"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Tarkastellaan edelleen samoja vaunuja ja samaa animaatiossa 1.A esitettyä tilannetta kuin kohdassa 1.1. Valitse tilannetta kuvaava oikea vaihtoehto.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 55651,
+          "content": {
+            "text": "Tarkastellaan edelleen samoja vaunuja ja samaa animaatiossa 1.A esitettyä tilannetta kuin kohdassa 1.1. Valitse tilannetta kuvaava oikea vaihtoehto.\n",
+            "displayNumber": "1.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-06-14T10:30:46.096631",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1771599,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 5,
+              "text": "Vaunu A saa itseisarvoltaan pienemmän liikemäärän kuin vaunu B.",
+              "parent": "b878f043-45c0-4c6c-99da-2dcb31bffc60",
+              "choices": []
+            },
+            {
+              "id": 6,
+              "text": "Vaunu A saa itseisarvoltaan suuremman liikemäärän kuin vaunu B.",
+              "parent": "b878f043-45c0-4c6c-99da-2dcb31bffc60",
+              "choices": []
+            },
+            {
+              "id": 7,
+              "text": "Vaunujen liikemäärien suunnat ja suuruudet ovat samat.",
+              "parent": "b878f043-45c0-4c6c-99da-2dcb31bffc60",
+              "choices": []
+            },
+            {
+              "id": 8,
+              "text": "Vaunujen liikemäärien summa on nolla.",
+              "parent": "b878f043-45c0-4c6c-99da-2dcb31bffc60",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "b878f043-45c0-4c6c-99da-2dcb31bffc60",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2019-11-20T07:49:41.713179"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "[LINK text=Animaatio 1.B|url=https://yle.fi/plus/abitreenit/2019/syksy/FY-fi/index.html]\n\n[IMS id=39-6136965dd4f086c4657|showCopyright=false|imageLink=false]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 55651,
+          "content": {
+            "text": "[LINK text=Animaatio 1.B|url=https://yle.fi/plus/abitreenit/2019/syksy/FY-fi/index.html]\n\n[IMS id=39-6136965dd4f086c4657|showCopyright=false|imageLink=false]\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-06-14T10:30:46.092667",
+          "max_score": null,
+          "groupping": null,
+          "id": 1771618,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "ef162fc8-2337-4b93-8289-e0a6e09d24b1",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2019-11-20T07:50:27.211985"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "[LINK text=Animaatio 1.A|url=https://yle.fi/plus/abitreenit/2019/syksy/FY-fi/index.html]\n\n[IMS id=39-6136825dd4ef0b812d9|showCopyright=false|imageLink=false]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 55651,
+          "content": {
+            "text": "[LINK text=Animaatio 1.A|url=https://yle.fi/plus/abitreenit/2019/syksy/FY-fi/index.html]\n\n[IMS id=39-6136825dd4ef0b812d9|showCopyright=false|imageLink=false]\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-06-14T10:30:46.090673",
+          "max_score": null,
+          "groupping": null,
+          "id": 1771578,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "cfe0d12f-efe8-4d56-a1fc-3d27c9e3778f",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2019-11-20T07:46:57.321065"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**OSA II**\n\n**15 pisteen tehtävät. Vastaa neljään tehtävään.**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 55651,
+          "content": {
+            "text": "**OSA II**\n\n**15 pisteen tehtävät. Vastaa neljään tehtävään.**\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2022-06-14T10:30:46.088167",
+          "max_score": null,
+          "groupping": null,
+          "id": 1772031,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "d8f3e936-5566-4e07-8c09-c75dedbfd47d",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2019-11-20T08:06:40.776301"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Vaakasuoralla, pienikitkaisella radalla on levossa kaksi vaunua. Vaunun B massa on puolet vaunun A massasta. Vaunujen välissä on puristuneena kevyt jousi. Vaunut päästetään yhtä aikaa irti animaatiossa 1.A esitetyllä tavalla. Valitse tilannetta kuvaava oikea vaihtoehto.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 55651,
+          "content": {
+            "text": "Vaakasuoralla, pienikitkaisella radalla on levossa kaksi vaunua. Vaunun B massa on puolet vaunun A massasta. Vaunujen välissä on puristuneena kevyt jousi. Vaunut päästetään yhtä aikaa irti animaatiossa 1.A esitetyllä tavalla. Valitse tilannetta kuvaava oikea vaihtoehto.\n",
+            "displayNumber": "1.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-06-14T10:30:46.083499",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1771583,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "text": "Vaunut saavat yhtä suuret liike-energiat.",
+              "parent": "8c65138b-fba5-4fec-aa7e-b85ecc5a38d0",
+              "choices": []
+            },
+            {
+              "id": 2,
+              "text": "Vaunujen yhteenlaskettu liike-energia on nolla.",
+              "parent": "8c65138b-fba5-4fec-aa7e-b85ecc5a38d0",
+              "choices": []
+            },
+            {
+              "id": 3,
+              "text": "Vaunu A saa suuremman liike-energian kuin vaunu B.",
+              "parent": "8c65138b-fba5-4fec-aa7e-b85ecc5a38d0",
+              "choices": []
+            },
+            {
+              "id": 4,
+              "text": "Vaunu A saa pienemmän liike-energian kuin vaunu B.",
+              "parent": "8c65138b-fba5-4fec-aa7e-b85ecc5a38d0",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "8c65138b-fba5-4fec-aa7e-b85ecc5a38d0",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2019-11-20T07:47:16.2657"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Kitaran kieli (15 p.)**\n\n​\n\nKuvaaja 5.A esittää äänen taajuuksia, joilla kitaran A-sävelen kieli soi. Alin taajuus vastaa värähtelyä, jossa kielen keskellä on yksi kupu ja kielen päissä on solmut. Kielen soivan osan pituus on 65,5 cm.\n\n​\n\nAineisto:\n\n5.A [LINK url=http://yle.fi/plus/abitreenit/2019/syksy/FY-fi/attachments/index.html#5.A|text=Kuvaaja: Kitaran A-kielen äänen taajuudet]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 55651,
+          "content": {
+            "text": "**Kitaran kieli (15 p.)**\n\n​\n\nKuvaaja 5.A esittää äänen taajuuksia, joilla kitaran A-sävelen kieli soi. Alin taajuus vastaa värähtelyä, jossa kielen keskellä on yksi kupu ja kielen päissä on solmut. Kielen soivan osan pituus on 65,5 cm.\n\n​\n\nAineisto:\n\n5.A [LINK url=http://yle.fi/plus/abitreenit/2019/syksy/FY-fi/attachments/index.html#5.A|text=Kuvaaja: Kitaran A-kielen äänen taajuudet]\n",
+            "displayNumber": "5."
+          },
+          "images": null,
+          "settings": {
+            "material": true
+          },
+          "child_ids": [
+            "3c289ff8-b086-4dfa-8803-808a601eaa5f",
+            "6d2ebc01-b3c1-4dcb-b378-c43f72f353c1",
+            "92491569-548e-4c88-9e03-fa85acc81c85"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2022-06-14T10:30:46.080885",
+          "max_score": null,
+          "groupping": null,
+          "id": 1773670,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "c23f63d4-1307-45ba-82b0-04dbdfd2d4fe",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2019-11-20T08:44:19.885506"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Tarkastellaan edelleen kohdan 1.9. tilannetta. Astioissa oleva vesi jatkaa jäähtymistä, ja vesien lämpötiloja mitataan jäähtymisen aikana. Valitse tilannetta kuvaava oikea vaihtoehto.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 55651,
+          "content": {
+            "text": "Tarkastellaan edelleen kohdan 1.9. tilannetta. Astioissa oleva vesi jatkaa jäähtymistä, ja vesien lämpötiloja mitataan jäähtymisen aikana. Valitse tilannetta kuvaava oikea vaihtoehto.\n",
+            "displayNumber": "1.10."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-06-14T10:30:46.075967",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1771971,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 39,
+              "text": "Lämpötilan mittauksen mukaan astioissa oleva vesi ei koskaan saavuta 30 °C:n lämpötilaa.",
+              "parent": "588efa36-7975-4694-acbd-43efff69218d",
+              "choices": []
+            },
+            {
+              "id": 40,
+              "text": "Lämpötilan mittauksen mukaan molempien astioiden vedet saavuttavat 30 °C:n lämpötilan samaan aikaan.",
+              "parent": "588efa36-7975-4694-acbd-43efff69218d",
+              "choices": []
+            },
+            {
+              "id": 41,
+              "text": "Lämpötilan mittauksen mukaan astian B vesi saavuttaa 30 °C:n lämpötilan ensin eli ennen astian A vettä.",
+              "parent": "588efa36-7975-4694-acbd-43efff69218d",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 42,
+              "text": "Lämpötilan mittauksen mukaan astian A vesi saavuttaa 30 °C:n lämpötilan ensin eli ennen astian B vettä.",
+              "parent": "588efa36-7975-4694-acbd-43efff69218d",
+              "choices": []
+            }
+          ],
+          "uuid": "588efa36-7975-4694-acbd-43efff69218d",
+          "order_number": 12,
+          "multipart": true,
+          "created_at": "2019-11-20T08:05:31.290689"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Mäenlaskua (15 p.)**\n\n​\n\nHiihtäjä lähtee laskemaan 7,5 m korkean mäen harjalta työntämättä itselleen alkuvauhtia. Mäen kulma vaakatason suhteen on α (katso kuva 4.A). Suksen ja lumen välinen liukukitkakerroin on 0,11. Ilmanvastus voidaan jättää huomioimatta.\n\n​\n\nAineisto:\n\n4.A [LINK url=http://yle.fi/plus/abitreenit/2019/syksy/FY-fi/attachments/index.html#4.A|text=Kuva: Hiihtäjä]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 55651,
+          "content": {
+            "text": "**Mäenlaskua (15 p.)**\n\n​\n\nHiihtäjä lähtee laskemaan 7,5 m korkean mäen harjalta työntämättä itselleen alkuvauhtia. Mäen kulma vaakatason suhteen on α (katso kuva 4.A). Suksen ja lumen välinen liukukitkakerroin on 0,11. Ilmanvastus voidaan jättää huomioimatta.\n\n​\n\nAineisto:\n\n4.A [LINK url=http://yle.fi/plus/abitreenit/2019/syksy/FY-fi/attachments/index.html#4.A|text=Kuva: Hiihtäjä]\n",
+            "displayNumber": "4."
+          },
+          "images": null,
+          "settings": {
+            "material": true
+          },
+          "child_ids": [
+            "037f6f63-f8e0-4cf0-ac26-c9a207796b69",
+            "c785b98b-c317-4e53-a8b8-8a79c21d893d"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2022-06-14T10:30:46.073801",
+          "max_score": null,
+          "groupping": null,
+          "id": 1772773,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "115671c1-4e07-42d5-a46a-0873465b4bac",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2019-11-20T08:26:42.914564"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Ledilamppu autossa (15 p.)**\n\n​\n\nPunaisen ledilampun kynnysjännite on 1,7 V. Lamppu ei pala, jos sen jännite on alle kynnysjännitteen. Oletetaan, että jännite ledin yli ei muutu, kun sähkövirta on suurempi kuin 15 mA. Lediä käytetään tavallisesti 20,0 mA:n päästövirralla. Ledi suojataan liian suurelta sähkövirralta kytkemällä ledin kanssa sarjaan sopiva etuvastus.\n\n​\n\nAineisto:\n\n3.A [LINK url=http://yle.fi/plus/abitreenit/2019/syksy/FY-fi/attachments/index.html#3.A|text=Kuva: Ledilamppujen kytkentä kohdassa 3.3.]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 55651,
+          "content": {
+            "text": "**Ledilamppu autossa (15 p.)**\n\n​\n\nPunaisen ledilampun kynnysjännite on 1,7 V. Lamppu ei pala, jos sen jännite on alle kynnysjännitteen. Oletetaan, että jännite ledin yli ei muutu, kun sähkövirta on suurempi kuin 15 mA. Lediä käytetään tavallisesti 20,0 mA:n päästövirralla. Ledi suojataan liian suurelta sähkövirralta kytkemällä ledin kanssa sarjaan sopiva etuvastus.\n\n​\n\nAineisto:\n\n3.A [LINK url=http://yle.fi/plus/abitreenit/2019/syksy/FY-fi/attachments/index.html#3.A|text=Kuva: Ledilamppujen kytkentä kohdassa 3.3.]\n",
+            "displayNumber": "3."
+          },
+          "images": null,
+          "settings": {
+            "material": true
+          },
+          "child_ids": [
+            "88937c3d-30c9-4583-b5fa-9efe7a3f17eb",
+            "7d9ada33-f332-4a09-9dfd-1c711bf5c0c6",
+            "36c9bc81-d139-45ae-b38e-a9d6f409031a"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2022-06-14T10:30:46.069478",
+          "max_score": null,
+          "groupping": null,
+          "id": 1772388,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "5099e7ad-7507-4597-aced-a8295fcfe96b",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2019-11-20T08:18:34.175245"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Laske valitsemasi ytimen beetahajoamisessa vapautuva energia. Vertaa sitä kuvan 7.A säteilyspektriin. (7 p.)\n",
+          "deleted_at": null,
+          "feedback": "Massavajeet:\n\n[IMS id=39-6137455dd500cf4572d|showCopyright=false|imageLink=false]\n\n​\n\nVapautuva energia:\n\n​\n\nQ = 0,00185984u ⋅ c[SUP text=2 ]= 0,00185984 ⋅ 931,49432MeV ≃ 1,732MeV\n\n​\n\nQ = 0,000680440 u ∙ c[SUP text=2] ≈ 0,6338 MeV\n\n​\n\nQ = 0,00362984 u ∙ c[SUP text=2] ≈ 3,381 MeV\n\n​\n\nHajoamisenergiat vastaavat havaittujen spektrien maksimiarvoja tai jopa hieman ylittävät ne\n\nspektrien mittaustarkkuuden rajoissa.\n\n​\n\nVastauksessa on laskettu massavaje kohdassa 7.1. tarkastellulle hajoamiselle (3 p.). Massavajeen\n\navulla on määritetty hajoamisessa vapautuva energia (2 p.) ja verrattu tätä aineistossa annetun\n\npositronin energiaspektrin maksimienergiaan (2 p.).\n",
+          "exam_id": 55651,
+          "content": {
+            "text": "Laske valitsemasi ytimen beetahajoamisessa vapautuva energia. Vertaa sitä kuvan 7.A säteilyspektriin. (7 p.)\n",
+            "displayNumber": "7.2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-06-14T10:30:46.067466",
+          "max_score": null,
+          "groupping": null,
+          "id": 1774711,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "b684a877-1d50-4b15-86b5-211bf2727a4a",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2019-11-20T08:59:43.098142"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Grafeeni (20 p.)**\n\n​\n\nGrafeeni on yhdestä hiiliatomikerroksesta muodostuva materiaali, jolla on hunajakennomainen rakenne. Vuonna 2010 Andre Geim ja Konstantin Novoselov saivat grafeenin löytämisestä fysiikan Nobel-palkinnon. Grafeenin ominaisuuksista on kerrottu tekstissä 10.A.\n\n​\n\nAineisto:\n\n10.A [LINK url=http://yle.fi/plus/abitreenit/2019/syksy/FY-fi/attachments/index.html#10.A|text=Teksti: Grafeeni – ihmeaine, joka muuttaa maailmaa]\n\n10.B [LINK url=http://yle.fi/plus/abitreenit/2019/syksy/FY-fi/attachments/index.html#10.B|text=Kuva: Tanko grafeenimatolla]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 55651,
+          "content": {
+            "text": "**Grafeeni (20 p.)**\n\n​\n\nGrafeeni on yhdestä hiiliatomikerroksesta muodostuva materiaali, jolla on hunajakennomainen rakenne. Vuonna 2010 Andre Geim ja Konstantin Novoselov saivat grafeenin löytämisestä fysiikan Nobel-palkinnon. Grafeenin ominaisuuksista on kerrottu tekstissä 10.A.\n\n​\n\nAineisto:\n\n10.A [LINK url=http://yle.fi/plus/abitreenit/2019/syksy/FY-fi/attachments/index.html#10.A|text=Teksti: Grafeeni – ihmeaine, joka muuttaa maailmaa]\n\n10.B [LINK url=http://yle.fi/plus/abitreenit/2019/syksy/FY-fi/attachments/index.html#10.B|text=Kuva: Tanko grafeenimatolla]\n",
+            "displayNumber": "10."
+          },
+          "images": null,
+          "settings": {
+            "material": true
+          },
+          "child_ids": [
+            "7df3de87-c167-4a23-823e-b1a5b7f1d57f",
+            "ba8f15a4-9d75-4c14-90be-91b8b31608e1",
+            "abb4500b-73fc-4bcd-9a60-46722e4f6b2e"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2022-06-14T10:30:46.065116",
+          "max_score": null,
+          "groupping": null,
+          "id": 1778771,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "f8fbdc06-66ff-4ac5-b30f-f8d574e16a26",
+          "order_number": 13,
+          "multipart": true,
+          "created_at": "2019-11-20T10:52:31.02587"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Vaimeneva värähtely (20 p.)**\n\n​\n\nMaanjäristykset aiheuttavat korkeissa rakennuksissa värähtelyjä, jotka saattavat olla tuhoisia. Värähtelyjä voidaan tutkia pienoismallien ja kiihtyvyysantureiden avulla. Videossa 11.A on esitetty korkean rakennuksen puinen pienoismalli, joka saatetaan värähtelemään. Havaitaan, että värähtely vaimenee. Pienoismallin yläpinnan kiihtyvyys on mitattu ajan funktiona, ja mittaustulokset ovat tiedostossa 11.B.\n\n​\n\nYksinkertaisin matemaattinen malli värähtelijän kiihtyvyydelle vaimenevassa värähtelyssä on [MATH text=a\\left(t\\right)=Ae^{-Bt}\\cos\\ \\left(Ct\\right)], jossa A, B ja C ovat parametreja. Parametri A on värähtelyn amplitudi hetkellä t = 0. Parametri [MATH text=B=\\frac{\\ln\\left(2\\right)}{T\\_{1\\bigg/\\_{\\!\\!\\!\\!\\!2}^{ }}}], jossa [MATH text=T\\_{1\\bigg/\\_{\\!\\!\\!\\!\\!2}^{ }}]  on aika, jossa värähtelyn amplitudi pienenee puoleen. Parametri [MATH text=C=2\\pi f], jossa f [MATH text=Ae^{-Bt}]on värähtelyn taajuus. Mallissa funktio  on värähtelyn eksponentiaalisesti vaimeneva amplitudi ja funktio [MATH text=\\cos\\ C\\left(t\\right)] kuvaa puolestaan värähtelyn periodista vaihtelua.\n\n​\n\nAineisto:\n\n11.A [LINK url=http://yle.fi/plus/abitreenit/2019/syksy/FY-fi/attachments/index.html#11.A|text=Video: Rakennuksen pienoismalli]\n\n11.B [LINK url=http://yle.fi/plus/abitreenit/2019/syksy/FY-fi/attachments/index.html#11.B|text=Tiedosto: Mittaustulokset]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 55651,
+          "content": {
+            "text": "**Vaimeneva värähtely (20 p.)**\n\n​\n\nMaanjäristykset aiheuttavat korkeissa rakennuksissa värähtelyjä, jotka saattavat olla tuhoisia. Värähtelyjä voidaan tutkia pienoismallien ja kiihtyvyysantureiden avulla. Videossa 11.A on esitetty korkean rakennuksen puinen pienoismalli, joka saatetaan värähtelemään. Havaitaan, että värähtely vaimenee. Pienoismallin yläpinnan kiihtyvyys on mitattu ajan funktiona, ja mittaustulokset ovat tiedostossa 11.B.\n\n​\n\nYksinkertaisin matemaattinen malli värähtelijän kiihtyvyydelle vaimenevassa värähtelyssä on [MATH text=a\\left(t\\right)=Ae^{-Bt}\\cos\\ \\left(Ct\\right)], jossa A, B ja C ovat parametreja. Parametri A on värähtelyn amplitudi hetkellä t = 0. Parametri [MATH text=B=\\frac{\\ln\\left(2\\right)}{T\\_{1\\bigg/\\_{\\!\\!\\!\\!\\!2}^{ }}}], jossa [MATH text=T\\_{1\\bigg/\\_{\\!\\!\\!\\!\\!2}^{ }}]  on aika, jossa värähtelyn amplitudi pienenee puoleen. Parametri [MATH text=C=2\\pi f], jossa f [MATH text=Ae^{-Bt}]on värähtelyn taajuus. Mallissa funktio  on värähtelyn eksponentiaalisesti vaimeneva amplitudi ja funktio [MATH text=\\cos\\ C\\left(t\\right)] kuvaa puolestaan värähtelyn periodista vaihtelua.\n\n​\n\nAineisto:\n\n11.A [LINK url=http://yle.fi/plus/abitreenit/2019/syksy/FY-fi/attachments/index.html#11.A|text=Video: Rakennuksen pienoismalli]\n\n11.B [LINK url=http://yle.fi/plus/abitreenit/2019/syksy/FY-fi/attachments/index.html#11.B|text=Tiedosto: Mittaustulokset]\n",
+            "displayNumber": "11."
+          },
+          "images": null,
+          "settings": {
+            "material": true
+          },
+          "child_ids": [
+            "4bebc50d-50f7-470f-8be5-babe750aff1d",
+            "5d6c81d8-11c5-4bd9-9e5c-5435bfabc788",
+            "b99ff66b-fe0e-4a84-82ef-4f729eac0c84"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2022-06-14T10:30:46.062205",
+          "max_score": null,
+          "groupping": null,
+          "id": 1779405,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "6c00e33d-d895-4c9e-a8a5-49c5a71332a9",
+          "order_number": 14,
+          "multipart": true,
+          "created_at": "2019-11-20T11:02:28.931777"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Ilmavirran teholla tarkoitetaan pinnan läpi kulkevan ilman liike-energiaa aikayksikössä. Tuulen suuntaa vastaan kohtisuoran pinnan (pinta-ala ) läpi virtaavan ilmavirran teho noudattaa lakia\n\n​\n\n[MATH text=P\\_K=\\frac{1}{2}\\rho A\\upsilon^3], (1)\n\n​\n\njossa [MATH text=\\rho ] on ilman tiheys ja [MATH text=\\upsilon ] on ilman nopeus. Johda laki (1) lähtien ilman liike-energian lausekkeesta. (4 p.)\n",
+          "deleted_at": null,
+          "feedback": "Pinta-alan A läpi ajassa Δt nopeudella v kulkeneen ilman tilavuus on\n\n​\n\nV = Av ∙ Δt ja massa m = ρV = ρAv ∙ Δt. Näin ollen ilmavirran liike-\n\nenergian teho on\n\n​\n\n[MATH text=P\\_K=\\frac{EK}{Δt}=\\frac{\\frac{1}{2}mv^2}{Δt}=\\frac{\\frac{1}{2}ρA^v}{Δt}\\cdot v2Δt=\\frac{1}{2}ρAv^3.]\n\n​\n\n_Ratkaisusta käy ilmi, miten massa on määritetty kuvitteellisen ilmatynnyrin avulla (2 p.)._\n\n_Tehon lauseke on johdettu algebrallisesti oikein (2 p.)._\n",
+          "exam_id": 55651,
+          "content": {
+            "text": "Ilmavirran teholla tarkoitetaan pinnan läpi kulkevan ilman liike-energiaa aikayksikössä. Tuulen suuntaa vastaan kohtisuoran pinnan (pinta-ala ) läpi virtaavan ilmavirran teho noudattaa lakia\n\n​\n\n[MATH text=P\\_K=\\frac{1}{2}\\rho A\\upsilon^3], (1)\n\n​\n\njossa [MATH text=\\rho ] on ilman tiheys ja [MATH text=\\upsilon ] on ilman nopeus. Johda laki (1) lähtien ilman liike-energian lausekkeesta. (4 p.)\n",
+            "displayNumber": "9.2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-06-14T10:30:46.060362",
+          "max_score": null,
+          "groupping": null,
+          "id": 1777690,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "6a9443f0-9123-4cf9-9c63-9527571489e2",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2019-11-20T10:32:50.782769"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Lammas syö 3 litran annoksen [SUP text=60]Co-pitoista rehua. Lampaaseen joutunut radioaktiivinen aine jakautuu aineenvaihdunnan seurauksena lampaan elimistöön. [SUP text=60]Co-isotoopin kokonaispoistumaa lampaan elimistöstä voidaan mallintaa kuten radioaktiivista hajoamista käyttämällä efektiivistä puoliintumisaikaa T[SUB text=e], joka saadaan yhtälöstä\n\n​\n\n[MATH text=\\frac{1}{T\\_e}=\\frac{1}{T\\_f}+\\frac{1}{T\\_b}]\n\n​\n\nEfektiivinen puoliintumisaika sisältää kaikki ne tekijät, jotka vaikuttavat aineen vähenemiseen elimistöstä: [MATH text=T\\_f] on [SUP text=60]Co-isotoopin fysikaalinen radioaktiivisen hajoamisen puoliintumisaika ja [MATH text=T\\_b] sen biologinen puoliintumisaika = 10 d. Laske, kauanko kestää, että lampaan saaman [SUP text=60]Co-isotoopin aktiivisuus on vähentynyt sadasosaan rehusta saatuun aktiivisuuteen verrattuna. (5 p.)\n",
+          "deleted_at": null,
+          "feedback": "Aktiivisuuden fysikaalinen puoliintumisaika on T[SUB text=f] = 5,27 a = 1923,55 d ja biologinen puo-\n\nliintumisaika T[SUB text=b] = 10 d. Lasketaan efektiivinen puoliintumisaika:\n\n[MATH text=T\\_e=\\frac{T\\_fT\\_b}{T\\_f+T\\_b}=9{,}94828\\ d.]\n\n​\n\nEfektiivinen hajoamisvakio on [MATH text=λ\\_e=\\frac{\\ln(2)}{T\\_e}].\n\n​\n\nRatkaistaan hajoamislaista, kuinka pitkän ajan t kuluttua aktiivisuus on sadasosa alkuperäi-\n\nsestä aktiivisuudesta eli [MATH text=A=\\frac{A\\_0}{100}=A\\_0e^{−λet}:]\n\n[MATH text=t=−\\ln(0{,}01)\\cdot\\frac{T\\_e}{\\ln(2)}=66{,}09494166d\\approx70\\ d.]\n\n​\n\nLampaan saaman koboltin aktiivisuus on siis vähentynyt sadasosaan 70 vuorokauden kulut-\n\ntua.\n\n​\n\n_Ratkaisusta käy ilmi, että kokelas on ymmärtänyt efektiivisen puoliintumisajan oikein (2 p.) ja_\n\n_osannut sitä käyttäen määrittää kysytyn ajan loppulausekkeineen (3 p.)._\n",
+          "exam_id": 55651,
+          "content": {
+            "text": "Lammas syö 3 litran annoksen [SUP text=60]Co-pitoista rehua. Lampaaseen joutunut radioaktiivinen aine jakautuu aineenvaihdunnan seurauksena lampaan elimistöön. [SUP text=60]Co-isotoopin kokonaispoistumaa lampaan elimistöstä voidaan mallintaa kuten radioaktiivista hajoamista käyttämällä efektiivistä puoliintumisaikaa T[SUB text=e], joka saadaan yhtälöstä\n\n​\n\n[MATH text=\\frac{1}{T\\_e}=\\frac{1}{T\\_f}+\\frac{1}{T\\_b}]\n\n​\n\nEfektiivinen puoliintumisaika sisältää kaikki ne tekijät, jotka vaikuttavat aineen vähenemiseen elimistöstä: [MATH text=T\\_f] on [SUP text=60]Co-isotoopin fysikaalinen radioaktiivisen hajoamisen puoliintumisaika ja [MATH text=T\\_b] sen biologinen puoliintumisaika = 10 d. Laske, kauanko kestää, että lampaan saaman [SUP text=60]Co-isotoopin aktiivisuus on vähentynyt sadasosaan rehusta saatuun aktiivisuuteen verrattuna. (5 p.)\n",
+            "displayNumber": "8.3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-06-14T10:30:46.057492",
+          "max_score": null,
+          "groupping": null,
+          "id": 1777031,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "b873af83-d762-4cee-8776-05239835a717",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2019-11-20T10:24:54.064651"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Kaasulämpömittari (15 p.)**\n\n​\n\nKaasulämpömittari koostuu tiiviistä ilmasäiliöstä, joka on yhdistetty painemittariin kuvan 2.A esittämällä tavalla. Ilmasäiliö upotettiin eri lämpötiloissa oleviin vesihauteisiin, jolloin ilmanpaine säiliössä muuttui. Mittauksista saatiin tiedoston 2.B tulokset.\n\n​\n\nAineisto:\n\n2.A [LINK url=http://yle.fi/plus/abitreenit/2019/syksy/FY-fi/attachments/index.html#2.A|text=Kuva: Kaasulämpömittari]\n\n2.B [LINK url=http://yle.fi/plus/abitreenit/2019/syksy/FY-fi/attachments/index.html#2.B|text=Tiedosto: Mittaustulokset]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 55651,
+          "content": {
+            "text": "**Kaasulämpömittari (15 p.)**\n\n​\n\nKaasulämpömittari koostuu tiiviistä ilmasäiliöstä, joka on yhdistetty painemittariin kuvan 2.A esittämällä tavalla. Ilmasäiliö upotettiin eri lämpötiloissa oleviin vesihauteisiin, jolloin ilmanpaine säiliössä muuttui. Mittauksista saatiin tiedoston 2.B tulokset.\n\n​\n\nAineisto:\n\n2.A [LINK url=http://yle.fi/plus/abitreenit/2019/syksy/FY-fi/attachments/index.html#2.A|text=Kuva: Kaasulämpömittari]\n\n2.B [LINK url=http://yle.fi/plus/abitreenit/2019/syksy/FY-fi/attachments/index.html#2.B|text=Tiedosto: Mittaustulokset]\n",
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {
+            "material": true
+          },
+          "child_ids": [
+            "4df04500-18c4-40c8-b96e-36b62f66ce5b",
+            "4049b3ee-4bbc-49ad-abea-762e8f401c42",
+            "588f6de5-5f0c-428b-923f-1ffeca081a3a"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2022-06-14T10:30:46.055225",
+          "max_score": null,
+          "groupping": null,
+          "id": 1772051,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "37bf8077-5ba8-4d31-a903-a7912f8c43f6",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2019-11-20T08:08:00.188646"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Tuulivoimala (20 p.)**\n\n​\n\nAineisto:\n\n9.A [LINK url=http://yle.fi/plus/abitreenit/2019/syksy/FY-fi/attachments/index.html#9.A|text=Kuva: Enercon E70 -tuulivoimala]\n\n9.B [LINK url=http://yle.fi/plus/abitreenit/2019/syksy/FY-fi/attachments/index.html#9.B|text=Tiedosto: Enercon E70 -tuulivoimalan todellinen sähköteho tuulen nopeuden funktiona]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 55651,
+          "content": {
+            "text": "**Tuulivoimala (20 p.)**\n\n​\n\nAineisto:\n\n9.A [LINK url=http://yle.fi/plus/abitreenit/2019/syksy/FY-fi/attachments/index.html#9.A|text=Kuva: Enercon E70 -tuulivoimala]\n\n9.B [LINK url=http://yle.fi/plus/abitreenit/2019/syksy/FY-fi/attachments/index.html#9.B|text=Tiedosto: Enercon E70 -tuulivoimalan todellinen sähköteho tuulen nopeuden funktiona]\n",
+            "displayNumber": "9."
+          },
+          "images": null,
+          "settings": {
+            "material": true
+          },
+          "child_ids": [
+            "41b04c8c-5e9c-4cd3-8365-e7dc37253cfb",
+            "6a9443f0-9123-4cf9-9c63-9527571489e2",
+            "1f2c0d8e-0cd5-45c4-9c09-c31d9f9632d6",
+            "63b4a5fa-ac14-4b64-b368-46d3462708c8"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2022-06-14T10:30:46.052939",
+          "max_score": null,
+          "groupping": null,
+          "id": 1777550,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "4c3fe640-a8ca-402b-a1fb-4503e932bd6a",
+          "order_number": 12,
+          "multipart": true,
+          "created_at": "2019-11-20T10:30:25.248624"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Piirrä valitsemallasi ohjelmalla kuvaaja ilmasäiliössä vallitsevasta paineesta lämpötilan funktiona. (5 p.)\n\n&NewLine;\n\n_Huom. Abitreenien harjoittelukokeeseen ei voi liittää kuvia._\n",
+          "deleted_at": null,
+          "feedback": "[IMS id=39-6137085dd4f4fe3402b|showCopyright=false|imageLink=false]\n\n&NewLine;\n\n_Täysien pisteiden (5 p.) saamiseksi kuvassa tulee näkyä kaikki mittauspisteet ja niihin tehty_\n\n_asianmukainen sovite. Akselit tulee merkitä asianmukaisesti ja akselien skaalauksen tulee_\n\n_olla järkevä._\n\n&NewLine;\n\n_Jos sovite puuttuu tai on selkeästi väärä tai jos mittauspisteet puuttuvat, vähennetään 2 p._\n\n_virhettä kohti. Yhden pisteen vähennys tehdään seuraavista virheistä kustakin: puuttuva, yli-_\n\n_määräinen tai väärä datapiste; suureen tunnus, yksikkö tai numeroskaala puuttuu akselilta;_\n\n_karkean epätarkoituksenmukainen skaalaus._\n",
+          "exam_id": 55651,
+          "content": {
+            "text": "Piirrä valitsemallasi ohjelmalla kuvaaja ilmasäiliössä vallitsevasta paineesta lämpötilan funktiona. (5 p.)\n\n&NewLine;\n\n_Huom. Abitreenien harjoittelukokeeseen ei voi liittää kuvia._\n",
+            "displayNumber": "2.1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-06-14T10:30:46.050765",
+          "max_score": null,
+          "groupping": null,
+          "id": 1772069,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "4df04500-18c4-40c8-b96e-36b62f66ce5b",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2019-11-20T08:08:22.17581"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kitaraa viritettäessä kielen jännitysvoimaa muutetaan, kunnes kieli soi halutulta korkeudelta. Kun kieltä kiristetään, äänen kuultu korkeus nousee ja myös kielen värähtelyn taajuus nousee. Mitä kielessä etenevän aallon nopeudelle tapahtuu, kun kielen jännitysvoima kasvaa? Kasvaako aallon nopeus, pieneneekö se, vai pysyykö se vakiona? Perustele vastauksesi. (4 p.)\n",
+          "deleted_at": null,
+          "feedback": "Kun kieltä kiristetään, kielen pituus ei muutu, joten seisovan aallon pituus ei muutu. Koska\n\nvärähtelyn taajuus kasvaa, lain v = λf perusteella kieltä kiristettäessä myös aallon nopeus\n\nkasvaa.\n\n&NewLine;\n\n_Vastauksessa on todettu, että aallonpituus ei muutu (2 p.), ja aallon nopeuden päättelyyn on_\n\n_käytetty lakia v = λf (2 p.). Vastauksia, joissa väitetään aallonpituuden muuttuvan, ei hy-_\n\n_väksytä._\n",
+          "exam_id": 55651,
+          "content": {
+            "text": "Kitaraa viritettäessä kielen jännitysvoimaa muutetaan, kunnes kieli soi halutulta korkeudelta. Kun kieltä kiristetään, äänen kuultu korkeus nousee ja myös kielen värähtelyn taajuus nousee. Mitä kielessä etenevän aallon nopeudelle tapahtuu, kun kielen jännitysvoima kasvaa? Kasvaako aallon nopeus, pieneneekö se, vai pysyykö se vakiona? Perustele vastauksesi. (4 p.)\n",
+            "displayNumber": "5.2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-06-14T10:30:46.048492",
+          "max_score": null,
+          "groupping": null,
+          "id": 1773792,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "6d2ebc01-b3c1-4dcb-b378-c43f72f353c1",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2019-11-20T08:45:07.385899"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Beetahajoaminen (15 p.)**\n\n​\n\nKuva 7.A esittää kolmen β+-aktiivisen isotoopin lähettämää säteilyspektriä. Taulukossa 7.B on tietoa näistä isotoopeista.\n\n​\n\nAineisto:\n\n7.A [LINK url=http://yle.fi/plus/abitreenit/2019/syksy/FY-fi/attachments/index.html#7.A|text=Kuva: β+-aktiivisten isotooppien säteilyspektrit]\n\n7.B [LINK url=http://yle.fi/plus/abitreenit/2019/syksy/FY-fi/attachments/index.html#7.B|text=Taulukko: Tietoa isotoopeista]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 55651,
+          "content": {
+            "text": "**Beetahajoaminen (15 p.)**\n\n​\n\nKuva 7.A esittää kolmen β+-aktiivisen isotoopin lähettämää säteilyspektriä. Taulukossa 7.B on tietoa näistä isotoopeista.\n\n​\n\nAineisto:\n\n7.A [LINK url=http://yle.fi/plus/abitreenit/2019/syksy/FY-fi/attachments/index.html#7.A|text=Kuva: β+-aktiivisten isotooppien säteilyspektrit]\n\n7.B [LINK url=http://yle.fi/plus/abitreenit/2019/syksy/FY-fi/attachments/index.html#7.B|text=Taulukko: Tietoa isotoopeista]\n",
+            "displayNumber": "7."
+          },
+          "images": null,
+          "settings": {
+            "material": true
+          },
+          "child_ids": [
+            "765a8df1-fc83-4ea7-8656-cb23bb89e282",
+            "b684a877-1d50-4b15-86b5-211bf2727a4a",
+            "c421fe29-6834-4c4c-8b20-d099f999da41"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2022-06-14T10:30:46.044553",
+          "max_score": null,
+          "groupping": null,
+          "id": 1774453,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "d6615a68-0884-4314-aacd-ebfb9759416a",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2019-11-20T08:55:25.909166"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Pellon pinta-ala on 2 ha. Laske, kuinka monta grammaa 60Co-isotooppia pellolle laskeutui. (6 p.)\n",
+          "deleted_at": null,
+          "feedback": "Hajoavia ytimiä on pellolla [MATH text=N=nN\\_A=\\frac{m}{M}N\\_A], jossa n on ainemäärä, m kokonaismassa ja M\n\n​\n\nmoolimassa. Tästä saadaan pellolla olevien isotooppien kokonaismassaksi [MATH text=m=\\frac{N}{N\\_A}M.]\n\nMitatun aktiivisuuden perusteella saadaan [MATH text=N=\\frac{1}{λ}A], jossa [MATH text=A=5\\cdot10^4\\frac{Bq}{m2}\\cdot2\\cdot10^4m^2.]\n\nHajoamisvakio on [MATH text=λ=\\frac{\\ln(2)}{T\\_{1/2}}], jossa [SUP text=60]Co-isotoopin puoliintumisaika on 5,27 vuotta = [MATH text=5{,}27\\cdot31{,}536\\cdot10^6s.]\n\n​\n\n[SUP text=60]Co-isotoopin moolimassa on [MATH text=M=59{,}933819\\frac{g}{mol}]. Kokonaismassaksi saadaan [MATH text=m=\\frac{AMT\\_{1/2}}{N\\_A\\ln2}],\n\njohon sijoittamalla saadaan massaksi 2,38623505 ∙ 10−5g ≈ 20 μg.\n\n​\n\n_Vastauksessa on esitetty lähtöyhtälöt, joista käy ilmi, että N~A ja N~m (2 p.)._\n\n_Niiden avulla on määritetty koko pellon aktiivisuus (1 p.) ja taulukosta löytyvää _[SUP text=60]_Co-isotoo-_\n\n_pin puoliintumisaikaa (1 p.) käyttäen määritetty pellolla olevien isotooppien kokonaismassa_\n\n_(2 p.)._\n",
+          "exam_id": 55651,
+          "content": {
+            "text": "Pellon pinta-ala on 2 ha. Laske, kuinka monta grammaa 60Co-isotooppia pellolle laskeutui. (6 p.)\n",
+            "displayNumber": "8.1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-06-14T10:30:46.041947",
+          "max_score": null,
+          "groupping": null,
+          "id": 1775680,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "33e54648-9bb5-4a52-b06d-c95a4691bca2",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2019-11-20T09:59:37.519264"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Pohdi lyhyesti aineiston ja tietämyksesi perusteella, millaisia erilaisia sovelluksia grafeenilla on ja voisi olla. (8 p.)\n",
+          "deleted_at": null,
+          "feedback": "Vastauksessa voi keskittyä mm. seuraaviin ominaisuuksiin ja niistä seuraaviin sovelluksiin:\n\n(1&2) Erinomaiset sähkön- ja lämmönjohtavuusominaisuudet\n\n→ elektroniikan komponentit, transistorit, paristot, polttokennot, akut, biosensorit.\n\n(3&4) Läpinäkyvyys, joustavuus ja venyvyys yhdistettynä edelliseen\n\n→ optoelektroniikan komponentit, ohuet ja taivuteltavat (kosketus)näytöt, nestekidenäytöt,\n\nOLED-näytöt, älyvaatteet.\n\n(5) Erinomainen kestävyys suhteessa ohuuteen\n\n→ nanopinnoitteet, rakennusmateriaalit, käyttö sidosaineena rakenteiden vahvistamiseksi.\n\n(6) Läpäisemättömyys (tiiviys)\n\n→ suodattimet (esim. vedenpuhdistus, kemikaalien puhdistaminen), diffuusion estäminen\n\nmateriaalitekniikassa.\n\n&NewLine;\n\nVastauksessa voi huomioida grafeenin myrkyttömyyden yllä mainittujen sovellusten kan-\n\nnalta.\n\n&NewLine;\n\nVastauksessa voi käsitellä myös grafeenin johdannaisista ja hybridimateriaaleista kehitteillä\n\nolevia moderneja sovelluksia kuten topologisia kvanttiaineita (kvanttilaskenta) sekä uusia\n\nsuprajohteita.\n\n&NewLine;\n\n_Vastauksessa on grafeenin eri ominaisuuksiin yhdistetty perustellen realistinen ja relevantti_\n\n_sovellus. Arvostelussa huomioidaan näistä neljä parasta, eri ominaisuuteen liittyvää_\n\n_sovellusta. (8 p.)_\n",
+          "exam_id": 55651,
+          "content": {
+            "text": "Pohdi lyhyesti aineiston ja tietämyksesi perusteella, millaisia erilaisia sovelluksia grafeenilla on ja voisi olla. (8 p.)\n",
+            "displayNumber": "10.3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-06-14T10:30:46.039836",
+          "max_score": null,
+          "groupping": null,
+          "id": 1779296,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "abb4500b-73fc-4bcd-9a60-46722e4f6b2e",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2019-11-20T11:01:51.430628"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Monivalintatehtäviä fysiikan eri osa-alueilta (20 p.)**\n\n&NewLine;\n\nValitse jokaisessa kohdassa 1.1.–1.10. oikea vaihtoehto. Yhteensä 20 p., oikea vastaus 2 p., väärä vastaus 0 p., ei vastausta 0 p.\n\n&NewLine;\n\n_Huom! Aineistona olevat animaatiot eivät toimi Abitreenien harjoittelukokeessa_. [LINK text=Katso animaatiot täältä.|url=http://yle.fi/plus/abitreenit/2019/syksy/FY-fi/index.html#q1]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 55651,
+          "content": {
+            "text": "**Monivalintatehtäviä fysiikan eri osa-alueilta (20 p.)**\n\n&NewLine;\n\nValitse jokaisessa kohdassa 1.1.–1.10. oikea vaihtoehto. Yhteensä 20 p., oikea vastaus 2 p., väärä vastaus 0 p., ei vastausta 0 p.\n\n&NewLine;\n\n_Huom! Aineistona olevat animaatiot eivät toimi Abitreenien harjoittelukokeessa_. [LINK text=Katso animaatiot täältä.|url=http://yle.fi/plus/abitreenit/2019/syksy/FY-fi/index.html#q1]\n",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "cfe0d12f-efe8-4d56-a1fc-3d27c9e3778f",
+            "8c65138b-fba5-4fec-aa7e-b85ecc5a38d0",
+            "b878f043-45c0-4c6c-99da-2dcb31bffc60",
+            "ef162fc8-2337-4b93-8289-e0a6e09d24b1",
+            "c839c7e6-b53b-4084-8589-896fc99f615d",
+            "43a26b3d-ff4f-452c-9934-5478fb564cd7",
+            "7d5af9b6-cf2a-46b8-a9a9-c9d782180f92",
+            "aa0fe450-4ae2-432a-abb3-d2c7d714f824",
+            "b2bebd35-6a3f-46a0-b197-be29c7b8226d",
+            "82cb6dfe-f376-467f-9929-92aea95ae776",
+            "3ee75823-8a96-4383-b97b-ecbc26a81082",
+            "588efa36-7975-4694-acbd-43efff69218d"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2022-06-14T10:30:46.037237",
+          "max_score": null,
+          "groupping": null,
+          "id": 1771577,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "fedffe40-bafd-40c4-9047-3965ad6a038d",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2019-11-20T07:46:57.31801"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Yhden atomikerroksen paksuinen grafeenimatto, jonka leveys on 1,0 m ja pituus 4,0 m, on ripustettu lyhyemmistä reunoistaan kuvan 10.B mukaisesti. Maton keskelle asetetaan poikittain maton levyinen tanko. Mikä on suurin tangon massa, jonka grafeenimatto kannattelee? Oletetaan, että matto venyy suoraviivaisesti (katso sivukuva 10.B) teoreettiseen maksimipituuteensa. (8 p.)\n\n&NewLine;\n",
+          "deleted_at": null,
+          "feedback": "Tausta-aineiston mukaan grafeeni kestää 20 %:n venymisen alkuperäisestä pituudestaan,\n\njolloin maksimaalisesti venyneen grafeenimaton pituus on 1,20 ∙ 4,0 m = 4,8 m. Tällöin\n\nmaton pituus telineestä 1 tankoon on kuvan mukaisesti 2,4 m.\n\nGrafeenin maksimaalinen vetolujuus eli maksimaalinen voima poikkileikkauksen pinta-alaa\n\nkohden on P = 130 GPa, jolloin maksimaalinen jännitysvoima on\n\nT1 = T2 = PA.\n\nMaton poikkileikkauksen pinta-ala on A = 1,0 m ∙ 0,33 nm = 3,3 ∙ 10[SUP text=−10] m[SUP text=2].\n\n​\n\nKuvan perusteella voidaan määrittää kulma α.\n\n​\n\n[IMS id=39-6138415dd51c4a97a5d|showCopyright=false|imageLink=false]\n",
+          "exam_id": 55651,
+          "content": {
+            "text": "Yhden atomikerroksen paksuinen grafeenimatto, jonka leveys on 1,0 m ja pituus 4,0 m, on ripustettu lyhyemmistä reunoistaan kuvan 10.B mukaisesti. Maton keskelle asetetaan poikittain maton levyinen tanko. Mikä on suurin tangon massa, jonka grafeenimatto kannattelee? Oletetaan, että matto venyy suoraviivaisesti (katso sivukuva 10.B) teoreettiseen maksimipituuteensa. (8 p.)\n\n&NewLine;\n",
+            "displayNumber": "10.2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-06-14T10:30:46.033806",
+          "max_score": null,
+          "groupping": null,
+          "id": 1779083,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "ba8f15a4-9d75-4c14-90be-91b8b31608e1",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2019-11-20T10:57:00.672436"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kuinka suuri hiihtäjän vauhti on mäen lopussa, kun α = 14°? (7 p.)\n",
+          "deleted_at": null,
+          "feedback": "Käytetään seuraavia merkintöjä:\n\nmäen kaltevuus α = 14°\n\nmäen korkeus h = 7,5 m\n\nmäen pituus [MATH text=s=\\frac{h}{\\sinα}]\n\nhiihtäjän massa m\n\nliukukitkakerroin μ = 0,11\n\n​\n\nHiihtäjään vaikuttavat voimat ovat painovoima [MATH text=\\overrightarrow{G}], mäen tukivoima [MATH text=\\overrightarrow{N}] sekä suksien ja lumen\n\nvälinen liikekitka [MATH text=\\overrightarrow{F\\_{\\mu}}]. (Ilmanvastusta ei huomioida.)\n\n​\n\nHiihtäjän laskiessa mäkeä hiihtäjän potentiaalienergian ja liike-energian muutosten summa\n\non mekaniikan energiaperiaatteen mukaan yhtä suuri kuin liikekitkan tekemä työ:\n\n​\n\nΔEp + ΔEk = Wμ,\n\njossa ΔEp = −mgh, ΔEk = [MATH text=\\frac{1}{2}mv^2] ja Wμ = −F[SUB text=μ]s.\n\n​\n\nHiihtäjä on tasapainossa mäenrinnettä vastaan kohtisuorassa suunnassa, joten pinnan tuki-\n\nvoima N = G[SUB text=y] = mg cos α. Liikekitka on F[SUB text=μ] = μN = μmg cos α.\n\n​\n\nNäin saadaan [MATH text=−mgh+\\frac{1}{2}mv^2=μmg\\cosα\\cdot\\frac{h}{\\sinα}.]\n\n​\n\nRatkaistaan nopeus: [MATH text=v=\\pm\\sqrt{2gh(1−μ\\frac{\\cosα}{\\sinα})}=\\pm9{,}06805\\frac{m}{s}\\approx\\pm9{,}1\\frac{m}{s}.]\n\n​\n\nHiihtäjän nopeus mäen lopussa on 9,1 m/s.\n\n​\n\n_Voimakuviosta ei puutu voimia eikä siinä ole ylimääräisiä voimia, eivätkä voimavektoreiden_\n\n_vaikutuspisteet tai pituudet ole selvästi vääriä (3 p.)._\n\n_Vastauksessa on esitetty ratkaisun kannalta oikeat lähtöyhtälöt (2 p.)._\n\n_Lopputuloksessa on suureyhtälön oltava kirjoitettuna näkyviin (2 p.)_\n",
+          "exam_id": 55651,
+          "content": {
+            "text": "Kuinka suuri hiihtäjän vauhti on mäen lopussa, kun α = 14°? (7 p.)\n",
+            "displayNumber": "4.1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-06-14T10:30:46.031566",
+          "max_score": null,
+          "groupping": null,
+          "id": 1772799,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "037f6f63-f8e0-4cf0-ac26-c9a207796b69",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2019-11-20T08:26:54.344772"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Määritä pinta-ala, jonka 1,0 g grafeenia voisi peittää yhden atomikerroksen paksuisena. (4 p.)\n",
+          "deleted_at": null,
+          "feedback": "Kuvassa on määritelty neljästä hiiliatomista koostuva yksikkökoppi, jota kopioimalla voidaan\n\nkattaa koko pinta. Pintatiheys on näin ollen\n\n[MATH text=ρ=\\frac{m\\_{koppi}}{A\\_{koppi}}=\\frac{4\\cdot12u}{3a\\_0\\cdot\\sqrt{3}a\\_0}=\\frac{16u}{\\sqrt{3}a\\_0^2}.]\n\n​\n\nYksi gramma grafeenia peittää pinta-alan\n\n[MATH text=A=\\frac{m}{ρ}=\\frac{0{,}001kg}{16\\cdot1{,}66\\cdot10^{−27}kg}\\cdot\\sqrt{3}(0{,}142\\cdot10^{−9}m)^2\\approx1300m^2.]\n\n​\n\n_Ratkaisussa on osattu aineiston perusteella käyttää oikeaa grafeenin yksikköpinta-alaa (2 p.)_\n\n_ja ratkaista sitä käyttäen kokonaispinta-ala (2 p.)._\n",
+          "exam_id": 55651,
+          "content": {
+            "text": "Määritä pinta-ala, jonka 1,0 g grafeenia voisi peittää yhden atomikerroksen paksuisena. (4 p.)\n",
+            "displayNumber": "10.1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-06-14T10:30:46.026703",
+          "max_score": null,
+          "groupping": null,
+          "id": 1778874,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "7df3de87-c167-4a23-823e-b1a5b7f1d57f",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2019-11-20T10:53:26.359454"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Yksi maanjäristyksen riskeistä on, että esineet rakennusten sisällä eivät pysy paikoillaan, vaan alkavat liukua ja aiheuttavat tuhoa. Tämän tutkimiseksi pienoismallin päälle asetetaan pieni laakea kivi, jonka massa on 21 g. Pysyykö kivi liukumatta paikallaan värähtelyn ajan? Oletetaan, että pienoismalli värähtelee samalla tavalla kuin ilman kiveä. (10 p.)\n",
+          "deleted_at": null,
+          "feedback": "Jotta kivi pysyisi paikoillaan eikä lähtisi liukumaan, on siihen kohdistuttava Newtonin II lain\n\nmukaan kitkavoima F[SUB text=μ] = ma.\n\nSuurin mahdollinen kiveen kohdistuva lepokitkavoima on F[SUB text=μ,max] = μN = μmg.\n\nEhto F[SUB text=μ] < F[SUB text=μ,max] on yhtäpitävä ehdon a[SUB text=max] < μg kanssa.\n\nKiveen vaikuttava suurin kiihtyvyys on juuri värähtelyn alussa noin 4,0 m/s[SUP text=2].\n\nKiven ja puun välinen lepokitkakerroin on 0,7, joten [MATH text=μg=6{,}867m/s\\_2>a\\_{\\max}.]\n\n​\n\nKivi pysyy siis paikoillaan koko värähtelyn ajan.\n\n​\n\n_Vastauksessa on mainittu Newton II laki (1 p.) ja suurimman lepokitkan käsite (1 p.)._\n\n_On luettu edellisessä kohdassa tuotetusta värähtelyn kuvaajasta tai muutoin ratkaistu pie-_\n\n_noismallin suurin kiihtyvyys 4 m/s2 (2 p.)._\n\n_Taulukosta luetun kiven ja puun lepokitkakertoimen (1 p.) avulla on määritetty suurin lepo-_\n\n_kitka. Suurinta lepokitkaa vastaavaa kiihtyvyyttä on verrattu pienoismallin suurimpaan kiih-_\n\n_tyvyyteen (3 p.) ja tehty tästä oikea johtopäätös (2 p.)._\n",
+          "exam_id": 55651,
+          "content": {
+            "text": "Yksi maanjäristyksen riskeistä on, että esineet rakennusten sisällä eivät pysy paikoillaan, vaan alkavat liukua ja aiheuttavat tuhoa. Tämän tutkimiseksi pienoismallin päälle asetetaan pieni laakea kivi, jonka massa on 21 g. Pysyykö kivi liukumatta paikallaan värähtelyn ajan? Oletetaan, että pienoismalli värähtelee samalla tavalla kuin ilman kiveä. (10 p.)\n",
+            "displayNumber": "11.2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-06-14T10:30:46.02461",
+          "max_score": null,
+          "groupping": null,
+          "id": 1779903,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "5d6c81d8-11c5-4bd9-9e5c-5435bfabc788",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2019-11-20T11:08:56.541078"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kuvaajasta 5.A nähdään, että A-kieli soi alimman taajuuden lisäksi usealla korkeammalla taajuudella. Millaista aaltoliikettä nämä ylätaajuudet vastaavat? Esitä suureyhtälö, josta ylätaajuuksien arvot määräytyvät. (6 p.)\n",
+          "deleted_at": null,
+          "feedback": "Kun kitaran kieli soi, siinä esiintyy yhtä aikaa useita erilaisia seisovia aaltoja ja tämän takia\n\nuseita eri värähtelytaajuuksia, kuten kuva osoittaa. Perustaajuutta korkeammat taajuudet\n\nvastaavat seisovia aaltoja, joissa on päässä olevien solmujen lisäksi yksi, kaksi tai kolme sol-\n\nmua. Seisovien aaltojen aallonpituudet ovat [MATH text=\\frac{2L}{n}], jossa n = 1, 2, 3..., ja vastaavien värähtely-\n\njen taajuudet ovat\n\n​\n\n [MATH text=f\\_n=\\frac{v}{2L\\_{⁄n}}=n\\frac{v}{2L}=nf\\_1.]\n\n​\n\nTaajuudet ovat siis alimman taajuuden f1 kokonaislukukerrannaisia.\n\n​\n\n_Vastauksessa mainitaan, että kyse on seisovista aalloista (2 p.). Korkeampia taajuuksia vas-_\n\n_taavat aallonpituudet on perusteltu esimerkiksi kuvalla tai laskemalla (2p.). Lopputuloksena_\n\n_on annettu ylätaajuuksien suureyhtälö (2p.)._\n\n​\n\n[IMS id=39-6137385dd4fec661a83|showCopyright=false|imageLink=false]\n",
+          "exam_id": 55651,
+          "content": {
+            "text": "Kuvaajasta 5.A nähdään, että A-kieli soi alimman taajuuden lisäksi usealla korkeammalla taajuudella. Millaista aaltoliikettä nämä ylätaajuudet vastaavat? Esitä suureyhtälö, josta ylätaajuuksien arvot määräytyvät. (6 p.)\n",
+            "displayNumber": "5.3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-06-14T10:30:46.018427",
+          "max_score": null,
+          "groupping": null,
+          "id": 1773886,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "92491569-548e-4c88-9e03-fa85acc81c85",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2019-11-20T08:45:54.245577"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kaksi samanmassaista, mutta eri materiaaleista valmistettua kappaletta A ja B ovat aluksi 80 °C:een lämpötilassa. Kumpikin kappale upotetaan eri astioihin, joissa on sama määrä huoneenlämpöistä vettä. Havaitaan, että kappaleen A ja veden loppulämpötila on 60 °C, ja kappaleen B ja veden loppulämpötila on 40 °C. Valitse tilannetta kuvaava oikea vaihtoehto.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 55651,
+          "content": {
+            "text": "Kaksi samanmassaista, mutta eri materiaaleista valmistettua kappaletta A ja B ovat aluksi 80 °C:een lämpötilassa. Kumpikin kappale upotetaan eri astioihin, joissa on sama määrä huoneenlämpöistä vettä. Havaitaan, että kappaleen A ja veden loppulämpötila on 60 °C, ja kappaleen B ja veden loppulämpötila on 40 °C. Valitse tilannetta kuvaava oikea vaihtoehto.\n",
+            "displayNumber": "1.8."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-06-14T10:30:46.016008",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1771822,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 32,
+              "text": "Kappaleesta A on siirtynyt enemmän energiaa kuin kappaleesta B.",
+              "parent": "82cb6dfe-f376-467f-9929-92aea95ae776",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 33,
+              "text": "Kappaleesta A on siirtynyt vähemmän energiaa kuin kappaleesta B.",
+              "parent": "82cb6dfe-f376-467f-9929-92aea95ae776",
+              "choices": []
+            },
+            {
+              "id": 34,
+              "text": "Kappaleeseen A on siirtynyt enemmän energiaa kuin kappaleeseen B.",
+              "parent": "82cb6dfe-f376-467f-9929-92aea95ae776",
+              "choices": []
+            },
+            {
+              "id": 35,
+              "text": "Kappaleeseen A on siirtynyt vähemmän energiaa kuin kappaleeseen B.",
+              "parent": "82cb6dfe-f376-467f-9929-92aea95ae776",
+              "choices": []
+            }
+          ],
+          "uuid": "82cb6dfe-f376-467f-9929-92aea95ae776",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2019-11-20T08:03:02.715292"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Pellolla kasvatetaan heinää, josta tehdään rehua vuoden kuluttua onnettomuudesta. Oletetaan, että rehuun on siirtynyt 30 % maaperän [SUP text=60]Co-isotoopin ainemäärästä. Rehua tulee 10 m[SUP text=3]. Laske kuinka suuri on 3 litran rehuannoksen aktiivisuus silloin, kun rehu valmistetaan. (4 p.)\n",
+          "deleted_at": null,
+          "feedback": "Aluksi pellon kokonaisaktiivisuus pinta-alayksikköä kohti on A[SUB text=0] = 5 ∙ 10[SUP text=4] Bq/m[SUP text=2].\n\n&NewLine;\n\nHajoamisvakio on [MATH text=λ=\\frac{\\ln(2)}{T\\_{1/2}}], jossa [SUP text=60]Co-isotoopin puoliintumisaika on 5,27 vuotta.\n\nVuoden (t = 1 a) kuluessa kobolttipellon aktiivisuus on vähentynyt arvoon \n\n[MATH text=A=A\\_0e^{−λt}=4{,}383778103\\cdot10^4\\frac{Bq}{m2}].\n\n&NewLine;\n\nKasvisto kantaa tästä 30 %:n osuuden. Kun koko pelto niitetään, on saatavan rehun aktiivi-\n\nsuus\n\n[MATH text=A\\_{rehu}=0{,}3\\cdot4{,}383778103\\cdot10^4\\frac{Bq}{m2}\\cdot2\\cdot10^4m2=2{,}6302686\\cdot10^8Bq.]\n\nAktiivinen koboltti on jakautunut tasaisesti rehuun, jonka tilavuus on 10 m[SUP text=3]. Siten 3 litran an-\n\nnoksen aktiivisuus on 3 ∙ 10[SUP text=−4]∙ 2,6302686 ∙ 10[SUP text=8] Bq = 7,8908058 ∙ 10[SUP text=4] Bq ≈ 80 kBq.\n\n&NewLine;\n\n_Vastauksessa on annettu hajoamislaki suuremuodossa ja sovellettu sitä koko pellon aktiivi-_\n\n_suuden (2 p.) ja rehun aktiivisuuden (2 p.) määrittämisessä._\n",
+          "exam_id": 55651,
+          "content": {
+            "text": "Pellolla kasvatetaan heinää, josta tehdään rehua vuoden kuluttua onnettomuudesta. Oletetaan, että rehuun on siirtynyt 30 % maaperän [SUP text=60]Co-isotoopin ainemäärästä. Rehua tulee 10 m[SUP text=3]. Laske kuinka suuri on 3 litran rehuannoksen aktiivisuus silloin, kun rehu valmistetaan. (4 p.)\n",
+            "displayNumber": "8.2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-06-14T10:30:46.013824",
+          "max_score": null,
+          "groupping": null,
+          "id": 1776347,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "97af7d63-47f1-4908-b744-9a1785f632bc",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2019-11-20T10:12:17.759328"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Hiihtäjä lähtee liukumaan mäkeä alas, mikäli mäen kulma on 9° tai enemmän. Piirrä kuvaaja hiihtäjän tasamaalla liukumasta matkasta mäen kulman α funktiona välillä 9°...45°. (8 p.)\n",
+          "deleted_at": null,
+          "feedback": "Tasamaalla hiihtäjään kohdistuu tukivoima N = mg, jolloin häneen vaikuttava liikekitka on\n\nFμ = μmg.\n\nHiihtäjällä on tasamaan alussa liike-energia mv[SUP text=2]/2, jossa v on edellä laskettu nopeus. Liike-\n\nkitka hidastaa hiihtäjää, ja liu’uttuaan matkan d hiihtäjä pysähtyy. Liikekitkan tekemä työ on\n\nW[SUB text=μ] = μmgd. Työ-energiaperiaatteen avulla voidaan ratkaista hiihtäjän liukuma matka d:\n\n​\n\n[MATH text=ΔEk=Wμ{,}]\n\n[MATH text=d=\\frac{−\\frac{1}{2}mv^2}{−μmg}=\\frac{v^2}{2μg}.]\n\n​\n\nSijoitetaan kohdasta 4.1. saatu nopeuden lauseke [MATH text=v=\\pm\\sqrt{2gh(1−μ\\frac{\\cosα}{\\sinα})}:] \n\n[MATH text=d=\\frac{h}{μ}(1−μ\\frac{\\cosα}{\\sinα})]\n\nLiukumismatka on funktion [MATH text=d=\\frac{h}{μ}(1−μ\\frac{\\cosα}{\\sinα})] kuvaaja, kun kulma on 9°. . . 45°.\n\n​\n\n[IMS id=39-6137345dd4fca19f63d|showCopyright=false|imageLink=false]\n\n​\n\n_Tehtävä on ratkaistu joko työ-energiaperiaatetta käyttäen (kuten yllä) tai kinemaattisesti_\n\n_Newtonin II laista lähtien. Käytetty laki tai periaate on nimetty (1 p.). Vastauksessa on esi-_\n\n_tetty ratkaisun kannalta oikeat lähtöyhtälöt (2 p.) ja matkan lauseke suureyhtälönä (2 p.)._\n\n_Kuvaaja on yhtenäinen käyrä, ja se käsittää tehtävässä annetun kulma-alueen. Akselit on_\n\n_merkitty asianmukaisesti ja akselien skaalaus on järkevä (3 p.)._\n\n​\n\n_Kuvaajan virheitä, -1 p./virhe_\n\n_• suureen tunnus, yksikkö tai numeroskaala puuttuu akselilta_\n\n_• kuvaaja tai derivaatta eivät näytä jatkuvilta_\n\n_• kulman alue muu kuin tehtävänannossa tai muuten epätarkoituksenmukainen skaalaus_\n\n_Jos vain pisteitä ilman käyrää -2 p._\n",
+          "exam_id": 55651,
+          "content": {
+            "text": "Hiihtäjä lähtee liukumaan mäkeä alas, mikäli mäen kulma on 9° tai enemmän. Piirrä kuvaaja hiihtäjän tasamaalla liukumasta matkasta mäen kulman α funktiona välillä 9°...45°. (8 p.)\n",
+            "displayNumber": "4.2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-06-14T10:30:46.010941",
+          "max_score": null,
+          "groupping": null,
+          "id": 1773297,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "c785b98b-c317-4e53-a8b8-8a79c21d893d",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2019-11-20T08:36:04.039778"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Tiedostossa 9.B on esitetty Enercon E70 -tuulivoimalan (kuva 9.A) todellinen sähköteho [MATH text=P] tuulen nopeuden funktiona. Voimalan turbiinin halkaisija on 71 m. Piirrä kuvaaja tuulivoimalan todellisesta hyötysuhteesta [MATH text=\\frac{P\\_{ }}{P\\_K}] tuulen nopeuden funktiona nopeusalueella 1–25 m/s. Millä tuulen nopeuksilla todellinen hyötysuhde on yhtä suuri tai suurempi kuin 30 %? (8 p.)\n",
+          "deleted_at": null,
+          "feedback": "[IMS id=39-6138295dd51ab1a49c5|showCopyright=false|imageLink=false]\n\n&NewLine;\n\nLuetaan kuvaajasta, millä tuulen nopeuksilla todellinen hyötysuhde on 0,3 tai sitä suurempi.\n\nKun tuulen nopeus on välillä 3,5 – 14,4 m/s, todellinen hyötysuhde on yhtä suuri tai parempi\n\nkuin 30 %.\n\n&NewLine;\n\n_Ratkaisussa on laskettu turbiinin pyyhkäisemä pinta-ala (1 p.), laskettu sitä käyttäen ilmavir-_\n\n_ran teho eri tuulennopeuksille ja tuotettu todellisen hyötysuhteen kuvaaja (5 p.). Kuvaajasta_\n\n_vähennetään pisteitä, jos siinä vääriä pisteitä tai pisteitä puuttuu, puuttuu tasoitus tai akseli-_\n\n_merkinnät ovat puutteelliset. Kuvaajasta on luettu oikein kysytty tuulennopeuden vaihtelu-_\n\n_väli (2 p.)._\n",
+          "exam_id": 55651,
+          "content": {
+            "text": "Tiedostossa 9.B on esitetty Enercon E70 -tuulivoimalan (kuva 9.A) todellinen sähköteho [MATH text=P] tuulen nopeuden funktiona. Voimalan turbiinin halkaisija on 71 m. Piirrä kuvaaja tuulivoimalan todellisesta hyötysuhteesta [MATH text=\\frac{P\\_{ }}{P\\_K}] tuulen nopeuden funktiona nopeusalueella 1–25 m/s. Millä tuulen nopeuksilla todellinen hyötysuhde on yhtä suuri tai suurempi kuin 30 %? (8 p.)\n",
+            "displayNumber": "9.4."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-06-14T10:30:46.006231",
+          "max_score": null,
+          "groupping": null,
+          "id": 1778520,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "63b4a5fa-ac14-4b64-b368-46d3462708c8",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2019-11-20T10:49:51.063707"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Sekoitetaan kaksi kupillista 40-celsiusasteista vettä ja yksi kupillinen 10-celsiusasteista vettä astiaan. Mikä on veden lämpötila astiassa?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 55651,
+          "content": {
+            "text": "Sekoitetaan kaksi kupillista 40-celsiusasteista vettä ja yksi kupillinen 10-celsiusasteista vettä astiaan. Mikä on veden lämpötila astiassa?\n",
+            "displayNumber": "1.7."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-06-14T10:30:46.028765",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1771797,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 27,
+              "text": "20 °C",
+              "parent": "b2bebd35-6a3f-46a0-b197-be29c7b8226d",
+              "choices": []
+            },
+            {
+              "id": 28,
+              "text": "25 °C",
+              "parent": "b2bebd35-6a3f-46a0-b197-be29c7b8226d",
+              "choices": []
+            },
+            {
+              "id": 29,
+              "text": "30 °C",
+              "parent": "b2bebd35-6a3f-46a0-b197-be29c7b8226d",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 30,
+              "text": "70 °C",
+              "parent": "b2bebd35-6a3f-46a0-b197-be29c7b8226d",
+              "choices": []
+            },
+            {
+              "id": 31,
+              "text": "90 °C",
+              "parent": "b2bebd35-6a3f-46a0-b197-be29c7b8226d",
+              "choices": []
+            }
+          ],
+          "uuid": "b2bebd35-6a3f-46a0-b197-be29c7b8226d",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2019-11-20T08:02:17.05627"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kahdessa samanlaisessa kannellisessa astiassa on 3 litraa vettä. Astiat ovat huoneessa, jonka lämpötilaksi mitataan 25 °C. Aluksi veden mitataan olevan astiassa A 55 °C:n ja astiassa B 40 °C:n lämpötilassa. Valitse tilannetta kuvaava oikea vaihtoehto.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 55651,
+          "content": {
+            "text": "Kahdessa samanlaisessa kannellisessa astiassa on 3 litraa vettä. Astiat ovat huoneessa, jonka lämpötilaksi mitataan 25 °C. Aluksi veden mitataan olevan astiassa A 55 °C:n ja astiassa B 40 °C:n lämpötilassa. Valitse tilannetta kuvaava oikea vaihtoehto.\n",
+            "displayNumber": "1.9."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-06-14T10:30:46.078382",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1771914,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 36,
+              "text": "Astiassa B vesi jäähtyy aluksi nopeammin kuin astiassa A.",
+              "parent": "3ee75823-8a96-4383-b97b-ecbc26a81082",
+              "choices": []
+            },
+            {
+              "id": 37,
+              "text": "Astiassa A vesi jäähtyy aluksi nopeammin kuin astiassa B.",
+              "parent": "3ee75823-8a96-4383-b97b-ecbc26a81082",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 38,
+              "text": "Vesi jäähtyy aluksi yhtä nopeasti molemmissa astioissa.",
+              "parent": "3ee75823-8a96-4383-b97b-ecbc26a81082",
+              "choices": []
+            }
+          ],
+          "uuid": "3ee75823-8a96-4383-b97b-ecbc26a81082",
+          "order_number": 11,
+          "multipart": true,
+          "created_at": "2019-11-20T08:04:30.543569"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**OSA I**\n\n**20 pisteen tehtävä. Vastaa tehtävään 1.**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 55651,
+          "content": {
+            "text": "**OSA I**\n\n**20 pisteen tehtävä. Vastaa tehtävään 1.**\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2022-06-14T10:30:46.086206",
+          "max_score": null,
+          "groupping": null,
+          "id": 1771574,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "c5e7e36f-cb93-43b1-8d2f-da62fee850d7",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2019-11-20T07:41:16.850103"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Rehun radioaktiivisuus (15 p.)**\n\n​\n\nEräästä tutkimuslaitoksesta pääsee ympäristöön laboratorio-onnettomuuden yhteydessä [SUP text=60]Co-isotooppia, joka leviää tasaisesti läheiselle pellolle. Laskeuma jää maaperän pintakerrokseen, ja välittömästi onnettomuuden jälkeen pellolla mitataan aktiivisuudeksi 50 kBq/m[SUP text=2].\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 55651,
+          "content": {
+            "text": "**Rehun radioaktiivisuus (15 p.)**\n\n​\n\nEräästä tutkimuslaitoksesta pääsee ympäristöön laboratorio-onnettomuuden yhteydessä [SUP text=60]Co-isotooppia, joka leviää tasaisesti läheiselle pellolle. Laskeuma jää maaperän pintakerrokseen, ja välittömästi onnettomuuden jälkeen pellolla mitataan aktiivisuudeksi 50 kBq/m[SUP text=2].\n",
+            "displayNumber": "8."
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "33e54648-9bb5-4a52-b06d-c95a4691bca2",
+            "97af7d63-47f1-4908-b744-9a1785f632bc",
+            "b873af83-d762-4cee-8776-05239835a717"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2022-06-14T10:30:46.094672",
+          "max_score": null,
+          "groupping": null,
+          "id": 1774917,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "ca3eb54b-a91d-4c01-9b12-45816e54a357",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2019-11-20T09:02:25.47402"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Miksi β[SUP text=+]-aktiivisten aineiden säteilyspektrit ovat jatkuvia? (4 p.)\n",
+          "deleted_at": null,
+          "feedback": "Säteilyspektrit ovat jatkuvia, koska vapautuva hajoamisenergia jakaantuu kolmen hiukkasen\n\neli tytärytimen, positronin ja neutriinon kesken. (1 p.)\n\nValtaosa liike-energiasta jakaantuu positronille ja neutriinolle, ja tämä jakosuhde vaihtelee\n\nhajoamisissa. (2 p.)\n\nPositronin liike-energia voi olla mitä tahansa nollan ja havaitun maksimiarvon välillä. (1 p.)\n",
+          "exam_id": 55651,
+          "content": {
+            "text": "Miksi β[SUP text=+]-aktiivisten aineiden säteilyspektrit ovat jatkuvia? (4 p.)\n",
+            "displayNumber": "7.3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-06-14T10:30:46.1017",
+          "max_score": null,
+          "groupping": null,
+          "id": 1774817,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "c421fe29-6834-4c4c-8b20-d099f999da41",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2019-11-20T09:01:45.710854"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kuinka suurella nopeudella aalto etenee A-kielessä? (5 p.)\n",
+          "deleted_at": null,
+          "feedback": "Alin taajuus vastaa värähtelyä, jonka aallonpituus λ = 2L, jossa L = 0,655 m on kielen soi-\n\nvan osan pituus.\n\n&NewLine;\n\nKuvaajalta luettuna alin taajuus f = 110 Hz.\n\nAallon nopeus on v = λf = 144,1 m/s ≈ 144 m/s.\n\n&NewLine;\n\n_Vastauksessa on yhdistetty jokin kielen seisovista aalloista oikeaan taajuuskuvion taajuu-_\n\n_teen, esimerkiksi pisin seisova aalto alimpaan taajuuteen (kuten yllä) (2 p.) ja luettu kyseinen_\n\n_taajuuden arvo kuvaajasta (1 p.). Lopputuloksessa on nopeuden suureyhtälön oltava kirjoi-_\n\n_tettuna näkyviin (2 p.)._\n",
+          "exam_id": 55651,
+          "content": {
+            "text": "Kuinka suurella nopeudella aalto etenee A-kielessä? (5 p.)\n",
+            "displayNumber": "5.1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-06-14T10:30:46.103514",
+          "max_score": null,
+          "groupping": null,
+          "id": 1773730,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "3c289ff8-b086-4dfa-8803-808a601eaa5f",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2019-11-20T08:44:31.102526"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**OSA III**\n\n**20 pisteen tehtävät. Vastaa kahteen tehtävään.**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 55651,
+          "content": {
+            "text": "**OSA III**\n\n**20 pisteen tehtävät. Vastaa kahteen tehtävään.**\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2022-06-14T10:30:46.105793",
+          "max_score": null,
+          "groupping": null,
+          "id": 1777505,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "6e0662a3-f822-4b5c-b6dc-069a8ba6f284",
+          "order_number": 11,
+          "multipart": true,
+          "created_at": "2019-11-20T10:30:05.239353"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mitä energian muuntumisia muodosta toiseen tuulivoimalassa tapahtuu? (5 p.)\n",
+          "deleted_at": null,
+          "feedback": "Tuulivoimalassa tuuli pyörittää turbiinia, johon on kytketty sähköä tuottava generaattori.\n\n&NewLine;\n\nEnergian muuntumiset: tuulen liike-energia → turbiinin pyörimisliikkeen energia → gene-\n\nraattorin roottorin pyörimisliikkeen energia → sähköverkon välittämä energia. Osa energi-\n\nasta muuntuu kitkan ja ohmisten häviöiden takia lämpöenergiaksi.\n\n&NewLine;\n\n_Vastauksessa on esitetty vähintään viisi energiavaihetta (5 p.)._\n",
+          "exam_id": 55651,
+          "content": {
+            "text": "Mitä energian muuntumisia muodosta toiseen tuulivoimalassa tapahtuu? (5 p.)\n",
+            "displayNumber": "9.1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-06-14T10:30:46.108032",
+          "max_score": null,
+          "groupping": null,
+          "id": 1777642,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "41b04c8c-5e9c-4cd3-8365-e7dc37253cfb",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2019-11-20T10:31:37.330341"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Ideaalikaasun paine lähestyy nollaa, kun kaasun lämpötila lähestyy absoluuttista nollapistettä. Arvioi tällä laitteella tehtyjen mittausten perusteella, kuinka suuri olisi celsiusasteina ilmaistu lämpötila absoluuttisessa nollapisteessä. Lämpötilan vaikutus säiliön tilavuuteen oletetaan vähäiseksi. (5 p.)\n",
+          "deleted_at": null,
+          "feedback": "Ekstrapoloidaan, miten ideaalikaasu käyttäytyisi lämpötilan laskiessa.\n\nLasketaan kaasun lämpötila käyttäen kohdan 2.2. yhtälöä, kun paine p = 0 kPa.\n\n​\n\n[MATH text=t(0kPa)=\\frac{−92{,}1404kPa}{0{,}326083\\frac{^{kPa}}{°C}}=−282{,}567°C\\approx−283°C.]\n\n​\n\nKaasun lämpötila olisi siis −283 °C absoluuttisessa nollapisteessä.\n\n​\n\n[IMS id=39-6137175dd4f75e5ec01|showCopyright=false|imageLink=false]\n\n​\n\n_Vastauksessa mainitaan ilman käyttäytyminen ideaalikaasun tavoin (2 p.). Oikea lopputulos_\n\n_on saatu joko laskemalla tai ohjelmallisesti kuvaajaa ekstrapoloimalla (3 p.)._\n",
+          "exam_id": 55651,
+          "content": {
+            "text": "Ideaalikaasun paine lähestyy nollaa, kun kaasun lämpötila lähestyy absoluuttista nollapistettä. Arvioi tällä laitteella tehtyjen mittausten perusteella, kuinka suuri olisi celsiusasteina ilmaistu lämpötila absoluuttisessa nollapisteessä. Lämpötilan vaikutus säiliön tilavuuteen oletetaan vähäiseksi. (5 p.)\n",
+            "displayNumber": "2.3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-06-14T10:30:46.1152",
+          "max_score": null,
+          "groupping": null,
+          "id": 1772283,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "588f6de5-5f0c-428b-923f-1ffeca081a3a",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2019-11-20T08:15:51.159499"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kuinka suuri on pienoismallin värähtelyn taajuus? (5 p.)\n",
+          "deleted_at": null,
+          "feedback": "Piirretään värähtelyn kuvaaja.\n\n​\n\nTekemällä sovite saadaan tulokseksi, että malli sopii mittaustuloksiin parhaiten, kun para-\n\nmetrit ovat A = 4,003 m/s[SUP text=2], B = 0,1501 1/s ja C = 10,40 1/s. Parametreista C on väräh-\n\ntelyn kulmataajuus, joten värähtelyn taajuus on [MATH text=f=\\frac{C}{2\\pi}=1{,}655Hz\\approx1{,}7Hz.]\n\n​\n\nTAI\n\n​\n\nKuvaajasta nähdään, että ajanhetkien 5 s ja 8 s välillä tapahtuu 5 värähdystä. Värähtelyn jak-\n\nsonaika on siis [MATH text=T=\\frac{8s−5s}{5}=0{,}6s] ja taajuus [MATH text=f=\\frac{1}{T}=1{,}666667Hz\\approx1{,}7Hz.]\n\n​\n\n[IMS id=39-6138735dd51fe98df9a|showCopyright=false|imageLink=false]\n\n​\n\n_Pienoismallin vaimenevasta värähtelystä on piirretty kuvaaja (2 p.). Kuvaajaan tehdyn sovite-_\n\n_funktion lausekkeesta on luettu värähtelyn kulmataajuus tai on määritetty kuvaajasta väräh-_\n\n_telyn jaksonaika (1 p.). On annettu kaava taajuuden ja jaksonajan tai kulmataajuuden ja jak-_\n\n_sonajan riippuvuudelle toisistaan (1 p. ) ja laskettu sen avulla värähtelyn taajuus (1 p.)._\n\n​\n\nTAI\n\n​\n\nTehdään LoggerPro:ssa FFT ja luetaan taajuuspiikin maksimi kuvaajalta tai taulukosta.\n\n​\n\n[IMS id=39-6138745dd51fe9a6c4d|showCopyright=false|imageLink=false]\n\n​\n\nKuvaajalta luettu taajuus on 1,66 Hz ≈1,7 Hz.\n\n​\n\n_Vastauksessa on tuotettu FFT-kuvaaja (2 p.) ja luettu siitä taajuus (3 p.)._\n",
+          "exam_id": 55651,
+          "content": {
+            "text": "Kuinka suuri on pienoismallin värähtelyn taajuus? (5 p.)\n",
+            "displayNumber": "11.1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-06-14T10:30:46.120789",
+          "max_score": null,
+          "groupping": null,
+          "id": 1779846,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "4bebc50d-50f7-470f-8be5-babe750aff1d",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2019-11-20T11:08:47.801174"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Tarkastellaan edelleen samoja vaunuja ja samaa animaatiossa 1.B esitettyä tilannetta kuin kohdassa 1.3. Valitse tilannetta kuvaava oikea vaihtoehto. Vaunun B liikkeen amplitudi on suurempi kuin vaunun A, koska\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 55651,
+          "content": {
+            "text": "Tarkastellaan edelleen samoja vaunuja ja samaa animaatiossa 1.B esitettyä tilannetta kuin kohdassa 1.3. Valitse tilannetta kuvaava oikea vaihtoehto. Vaunun B liikkeen amplitudi on suurempi kuin vaunun A, koska\n",
+            "displayNumber": "1.4."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-06-14T10:30:46.129478",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1771666,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 13,
+              "text": "vaunujen liike-energiat ovat joka hetki yhtä suuret.",
+              "parent": "43a26b3d-ff4f-452c-9934-5478fb564cd7",
+              "choices": []
+            },
+            {
+              "id": 14,
+              "text": "jousi kohdistaa vaunuun B suuremman voiman kuin vaunuun A.",
+              "parent": "43a26b3d-ff4f-452c-9934-5478fb564cd7",
+              "choices": []
+            },
+            {
+              "id": 15,
+              "text": "vaunun B liikemäärä on keskimäärin suurempi kuin vaunun A.",
+              "parent": "43a26b3d-ff4f-452c-9934-5478fb564cd7",
+              "choices": []
+            },
+            {
+              "id": 16,
+              "text": "systeemin massakeskipiste pysyy paikallaan.",
+              "parent": "43a26b3d-ff4f-452c-9934-5478fb564cd7",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "43a26b3d-ff4f-452c-9934-5478fb564cd7",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2019-11-20T07:53:28.987704"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Ledilamppu on liitetty auton 12 V:n pistokkeeseen (tupakansytyttimeen). Pistokkeesta saatava jännite on 14,4 V auton ollessa käynnissä. Laske, kuinka suuri ledin kanssa sarjaan kytketyn etuvastuksen resistanssin tulee vähintään olla, että ledin sähkövirta on 20,0 mA. (6 p.)\n",
+          "deleted_at": null,
+          "feedback": "Lähteen jännite U = 14,4 V\n\nLedin kynnysjännite UL = 1,7 V\n\nSähkövirta I = 0,0200 A\n\nEtuvastuksen resistanssi R = ?\n\n&NewLine;\n\nEtuvastuksen resistanssin alaraja vastaa tapausta, jossa ledin jännitehäviö on sen kynnysjän-\n\nnitteen suuruinen. Kaikki komponentit ovat sarjassa, joten etuvastuksen ja ledin läpi kulkee\n\n&NewLine;\n\nsama sähkövirta I.\n\nSovelletaan Kirchhoffin II lakia:\n\n&NewLine;\n\nU − UL − RI = 0,\n\n[MATH text=R=\\frac{U−UL}{I}=640\\ Ω.]\n\nEtuvastuksen resistanssin on siis oltava vähintään 640 Ω.\n\n&NewLine;\n\n_Vastauksesta käy ilmi, että kaikkien komponenttien läpi kulkee sama sähkövirta (2 p.). Rat-_\n\n_kaisussa on sovellettu Kirchhoffin II lakia laki nimeltä mainiten tai käsittelemällä ledi vastuk-_\n\n_sellisena komponenttina ja viittaamalla sarjaan kytkentään (2 p.). Lopputuloksessa on_\n\n_suureyhtälön oltava kirjoitettuna näkyviin (2 p.). Vastausta, jossa ei huomioida ledin jänni-_\n\n_tettä, ei hyväksytä._\n",
+          "exam_id": 55651,
+          "content": {
+            "text": "Ledilamppu on liitetty auton 12 V:n pistokkeeseen (tupakansytyttimeen). Pistokkeesta saatava jännite on 14,4 V auton ollessa käynnissä. Laske, kuinka suuri ledin kanssa sarjaan kytketyn etuvastuksen resistanssin tulee vähintään olla, että ledin sähkövirta on 20,0 mA. (6 p.)\n",
+            "displayNumber": "3.1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-06-14T10:30:46.139484",
+          "max_score": null,
+          "groupping": null,
+          "id": 1772410,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "88937c3d-30c9-4583-b5fa-9efe7a3f17eb",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2019-11-20T08:18:45.193659"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Selitä, mistä kokeissa havaitut erot johtuvat tarkastelemalla vastauksessasi voimia tai energiaa. (5 p.)\n",
+          "deleted_at": null,
+          "feedback": "Pyörrevirrat ovat johdekappaleen vapaiden elektronien liikettä. (2 p.)\n\nElektroneihin kohdistuu magneettinen Lorentzin voima. (2 p.)\n\nMagneettisten voimien yhteisvaikutus saa heilurin liikkeen vaimenemaan. (1 p.)\n\n&NewLine;\n\nTAI\n\nLenzin lain mukaan levyyn indusoituvien pyörrevirtojen synnyttämät magneettikentät pyrkivät\n\nvastustamaan magneettikentän muutosta. Kestomagneetin leukojen väliin tulossa olevan levyn osan\n\nkohdalla magneettikenttä voimistuu, joten pyörrevirran kenttä pyrkii heikentämään sitä. Tällöin\n\npyörrevirran synnyttämän sähkömagneetin ja kestomagneetin samanlaiset navat ovat vastakkain.\n\nMagneetit hylkivät toisiaan ja jarruttavat siten heilurin liikettä. Vastaavasti kestomagneetin leukojen\n\nvälistä poistuvaan levyn osaan syntyy pyörrevirran muodostama sähkömagneetti, joka pyrkii pitämään\n\nyllä heikkenevää kenttää. Tällöin sähkömagneetin ja kestomagneetin erilaiset navat ovat vastakkain. Ne\n\nvetävät toisiaan puoleensa ja jarruttavat näin heilurin liikettä.\n\n&NewLine;\n\n_Vastauksessa on mainittu Lenzin laki nimeltä ja selitetty, mitä laki tarkoittaa (2 p.), sekä_\n\n_sovellettu lakia tarkasteltavaan tilanteeseen siten, että käy ilmi sähkömagneetin ja_\n\n_kestomagneetin vuorovaikutus ja heilurin liikkeen jarruuntuminen (3 p.)._\n\n&NewLine;\n\nTAI\n\nAlumiinilevy on johde, mutta kuitenkin se vastustaa sähkövirran kulkua, ja sähkövirran energiaa\n\nmuuttuu materiaalissa lämmöksi. Tästä syystä pyörrevirtojen ylläpito vaatii energiaa. Se otetaan\n\nheilurin liikkeestä, joka hidastuu ja heilahtelu vaimenee.\n\n&NewLine;\n\n_Vastauksessa on todettu, että pyörrevirroista aiheutuu energian muuttumista lämmöksi (alumiinin_\n\n_sisäenergiaksi) (1 p.), koska alumiinilla on resistanssia (2 p.). On selitetty tämän yhteys heilurin_\n\n_heilahtelun vaimenemiseen (2 p.)._\n",
+          "exam_id": 55651,
+          "content": {
+            "text": "Selitä, mistä kokeissa havaitut erot johtuvat tarkastelemalla vastauksessasi voimia tai energiaa. (5 p.)\n",
+            "displayNumber": "6.3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-06-14T10:30:46.141291",
+          "max_score": null,
+          "groupping": null,
+          "id": 1774376,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "cbc18cbf-5bf0-4222-ba26-83e8f9b2a7e4",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2019-11-20T08:54:43.030548"
+        }
+      ],
+      "name": "Fysiikka syksy 2019",
+      "settings": {},
+      "exam_type": "yo-koe",
+      "classification": {
+        "category": "",
+        "disable_saving": false,
+        "hide_review_buttons": false,
+        "exam_type": "yo-koe",
+        "year": "2019",
+        "language": "fi-FI",
+        "hide_statistics": false,
+        "show_exam_series": false,
+        "force_yletunnus": false,
+        "subject": "fysiikka",
+        "published": true,
+        "semester": "fall"
+      },
+      "published_at": "2019-11-20T11:21:53.000Z",
+      "language": "fi-FI",
+      "id": 55651,
+      "reviews": [],
+      "is_open": true,
+      "uuid": "ad9ae58c-8478-41fb-85a4-d18dc4e66eb3"
+    }
+  ]
+}

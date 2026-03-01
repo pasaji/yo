@@ -1,0 +1,469 @@
+{
+  "meta": {
+    "count": 1
+  },
+  "data": [
+    {
+      "tags": [
+        ""
+      ],
+      "main_text": "**Enintään 6 tehtävään saa vastata. Tehtävät arvostellaan pistein 0-6, paitsi muita vaativammat, +:lla merkityt jokeritehtävät, jotka arvostellaan pistein 0-9. Moniosaisissa, esimerkiksi a-, b- ja c-kohdan sisältävissä tehtävissä voidaan erikseen ilmoittaa eri alakohtien enimmäispistemäärät.**\n\n​\n",
+      "characters": null,
+      "deleted_at": null,
+      "series_uuids": [],
+      "questions": [
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-204676",
+            "18-252837"
+          ],
+          "main_text": "Miten seuraavat ohjeet voivat hyödyttää kurssikokeeseen valmistautuvaa lukiolaista? Muista tarkastella jokaista seuraavista ohjeista.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1237,
+          "content": {
+            "text": "Miten seuraavat ohjeet voivat hyödyttää kurssikokeeseen valmistautuvaa lukiolaista? Muista tarkastella jokaista seuraavista ohjeista.\n",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "160b0d80-db80-4afa-a984-babc08730b17",
+            "800a8d26-6e42-4ade-b20f-5ce28562043e",
+            "008c1592-846c-4dda-86dc-47c02f5e84dc"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T12:01:16.065318",
+          "max_score": null,
+          "groupping": null,
+          "id": 18600,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "9b68eaf6-5016-4f0b-b10d-a16884baa2cc",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-06-09T09:21:05.576858"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-253038",
+            "18-252837",
+            "18-253197"
+          ],
+          "main_text": "Laadi suunnitelma tutkimukseksi, jolla selvität esiintymisjännityksen vaikutusta suoriutumiseen.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1237,
+          "content": {
+            "text": "Laadi suunnitelma tutkimukseksi, jolla selvität esiintymisjännityksen vaikutusta suoriutumiseen.\n",
+            "displayNumber": "8."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T12:01:16.069079",
+          "max_score": null,
+          "groupping": null,
+          "id": 19201,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "c99835e2-a9a2-4189-800e-b977db825f4f",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2017-06-09T09:40:07.427144"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252840",
+            "18-205088"
+          ],
+          "main_text": "Pohdi psykologisen tiedon varassa, miten myönteinen elämänasenne ja hyvä mielenterveys liittyvät toisiinsa.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1237,
+          "content": {
+            "text": "Pohdi psykologisen tiedon varassa, miten myönteinen elämänasenne ja hyvä mielenterveys liittyvät toisiinsa.\n",
+            "displayNumber": "7."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T12:01:16.072105",
+          "max_score": null,
+          "groupping": null,
+          "id": 19200,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "a6eaa3ff-1778-4e97-8ba9-1c15af4f2655",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2017-06-09T09:40:07.423994"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252839",
+            "18-205101"
+          ],
+          "main_text": "Nykyään ihmisen on muistettava useita salasanoja, koodeja ja tunnuslukuja. Mitkä tekijät helpottavat tai vaikeuttavat niiden muistamista?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1237,
+          "content": {
+            "text": "Nykyään ihmisen on muistettava useita salasanoja, koodeja ja tunnuslukuja. Mitkä tekijät helpottavat tai vaikeuttavat niiden muistamista?\n",
+            "displayNumber": "4."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T12:01:16.074997",
+          "max_score": null,
+          "groupping": null,
+          "id": 18860,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "8f5f41bf-204d-4ea4-9480-92fa36de0c2e",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2017-06-09T09:28:44.912431"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-210286",
+            "18-252839"
+          ],
+          "main_text": "Erittele oikean ja vasemman aivopuoliskon eroja ja yhtäläisyyksiä psyykkisten toimintojen kannalta.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1237,
+          "content": {
+            "text": "Erittele oikean ja vasemman aivopuoliskon eroja ja yhtäläisyyksiä psyykkisten toimintojen kannalta.\n",
+            "displayNumber": "5."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T12:01:16.078197",
+          "max_score": null,
+          "groupping": null,
+          "id": 18868,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "6ca21b8c-3c76-4d0b-859a-8f36ca4d7059",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2017-06-09T09:29:23.922443"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252839",
+            "18-208051"
+          ],
+          "main_text": "Psyykkisten tekijöiden vaikutus virheiden ja onnettomuuksien syntyyn\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1237,
+          "content": {
+            "text": "Psyykkisten tekijöiden vaikutus virheiden ja onnettomuuksien syntyyn\n",
+            "displayNumber": "+9."
+          },
+          "images": null,
+          "settings": {
+            "joker": true,
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T12:01:16.081117",
+          "max_score": null,
+          "groupping": null,
+          "id": 19244,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "34f7f50e-3913-4fda-b5a1-95e6fa32d0f0",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2017-06-09T09:42:13.879582"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Keskity.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1237,
+          "content": {
+            "text": "Keskity.\n",
+            "displayNumber": "a)"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-07-19T12:01:16.087283",
+          "max_score": null,
+          "groupping": null,
+          "id": 18601,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "160b0d80-db80-4afa-a984-babc08730b17",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-06-09T09:21:05.579998"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Luota itseesi.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1237,
+          "content": {
+            "text": "Luota itseesi.\n",
+            "displayNumber": "c)"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-07-19T12:01:16.090235",
+          "max_score": null,
+          "groupping": null,
+          "id": 18603,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "008c1592-846c-4dda-86dc-47c02f5e84dc",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2017-06-09T09:21:05.587141"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kertaa.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1237,
+          "content": {
+            "text": "Kertaa.\n",
+            "displayNumber": "b)"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-07-19T12:01:16.084139",
+          "max_score": null,
+          "groupping": null,
+          "id": 18602,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "800a8d26-6e42-4ade-b20f-5ce28562043e",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2017-06-09T09:21:05.584222"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252838",
+            "18-210943",
+            "18-212427"
+          ],
+          "main_text": "Tarkastele psykologisen tiedon varassa, miten ja milloin kehittyy käsitys oikeasta ja väärästä.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1237,
+          "content": {
+            "text": "Tarkastele psykologisen tiedon varassa, miten ja milloin kehittyy käsitys oikeasta ja väärästä.\n",
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T12:01:16.093097",
+          "max_score": null,
+          "groupping": null,
+          "id": 18639,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "2b719ada-5a56-4391-9e92-ded45f8de4a8",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2017-06-09T09:22:08.190782"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252837",
+            "18-217362"
+          ],
+          "main_text": "Sanotaan, että ihminen on psyko-fyysis-sosiaalinen kokonaisuus. Vertaile, miten nämä kolme osa-aluetta otetaan huomioon kahdessa psykologian teoriasuuntauksessa.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1237,
+          "content": {
+            "text": "Sanotaan, että ihminen on psyko-fyysis-sosiaalinen kokonaisuus. Vertaile, miten nämä kolme osa-aluetta otetaan huomioon kahdessa psykologian teoriasuuntauksessa.\n",
+            "displayNumber": "+10."
+          },
+          "images": null,
+          "settings": {
+            "joker": true,
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T12:01:16.099268",
+          "max_score": null,
+          "groupping": null,
+          "id": 19293,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "7453a285-0286-4886-bff0-36ceefd0dda0",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2017-06-09T09:43:45.842214"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-156829",
+            "18-191833",
+            "18-252839"
+          ],
+          "main_text": "Kuinka tulkitset oheista mielen rakennemallia? Selosta mallissa esitetyt käsitteet ja niiden väliset yhteydet.\n\n[IMS id=39-407498593a6b79aa7ed]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1237,
+          "content": {
+            "text": "Kuinka tulkitset oheista mielen rakennemallia? Selosta mallissa esitetyt käsitteet ja niiden väliset yhteydet.\n\n[IMS id=39-407498593a6b79aa7ed]\n",
+            "displayNumber": "6."
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T12:01:16.096176",
+          "max_score": null,
+          "groupping": null,
+          "id": 18999,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "8d9d35ac-e742-4c4d-b10d-cc93d658fbcf",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2017-06-09T09:31:04.314877"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252838",
+            "18-220635",
+            "18-209630"
+          ],
+          "main_text": "Väestöennusteiden mukaan yhä suurempi prosentuaalinen osuus väestöstä on tulevaisuudessa ikäihmisiä. Arvioi oheisen viitteellisen kaavion ja muun psykologisen tiedon varassa, miten ikääntyminen vaikuttaa toimintaan arkielämässä.\n\n[IMS id=39-407494593a6972d1d2b|caption=Lähde: Portin, R. (1996) Vanheneminen ja kognitio. Teoksessa A. Revonsuo, H. Lang, O. Aaltonen (toim.), Mieli ja aivot: kognitiivinen neurotiede]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1237,
+          "content": {
+            "text": "Väestöennusteiden mukaan yhä suurempi prosentuaalinen osuus väestöstä on tulevaisuudessa ikäihmisiä. Arvioi oheisen viitteellisen kaavion ja muun psykologisen tiedon varassa, miten ikääntyminen vaikuttaa toimintaan arkielämässä.\n\n[IMS id=39-407494593a6972d1d2b|caption=Lähde: Portin, R. (1996) Vanheneminen ja kognitio. Teoksessa A. Revonsuo, H. Lang, O. Aaltonen (toim.), Mieli ja aivot: kognitiivinen neurotiede]\n",
+            "displayNumber": "3."
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T12:01:16.102115",
+          "max_score": null,
+          "groupping": null,
+          "id": 18853,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "b95fcd3a-e265-4107-8a60-c2bff9ebb5e4",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2017-06-09T09:27:22.032207"
+        }
+      ],
+      "name": "Psykologia syksy 2006 ",
+      "settings": {},
+      "exam_type": "yo-koe",
+      "classification": {
+        "category": "",
+        "hide_review_buttons": null,
+        "exam_type": "yo-koe",
+        "year": "2006",
+        "language": "fi-FI",
+        "show_exam_series": null,
+        "force_yletunnus": false,
+        "subject": "psykologia",
+        "published": true,
+        "semester": "fall"
+      },
+      "published_at": "2017-06-09T09:18:52.560Z",
+      "language": "fi-FI",
+      "id": 1237,
+      "reviews": [],
+      "is_open": true,
+      "uuid": "a98f7200-ddd2-4d29-b3c8-23a303da36c7"
+    }
+  ]
+}

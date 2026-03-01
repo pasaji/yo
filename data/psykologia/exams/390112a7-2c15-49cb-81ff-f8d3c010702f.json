@@ -1,0 +1,1188 @@
+{
+  "meta": {
+    "count": 1
+  },
+  "data": [
+    {
+      "tags": [
+        ""
+      ],
+      "main_text": "Koe koostuu yhdeksästä tehtävästä, joista vastataan viiteen. Tehtävät on jaettu kolmeen osaan. Osien I ja II tehtävistä saa kustakin enintään 20 pistettä ja osan III tehtävistä kustakin enintään 30 pistettä. Kokeen maksimipistemäärä on 120. Vastaa vähintään yhteen mutta enintään kahteen tehtävään kustakin osasta.\n",
+      "characters": null,
+      "deleted_at": null,
+      "series_uuids": [],
+      "questions": [
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252839"
+          ],
+          "main_text": "Uuden tiedon opettelu alkaa tämän muistijärjestelmän avulla. 2 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 67731,
+          "content": {
+            "text": "Uuden tiedon opettelu alkaa tämän muistijärjestelmän avulla. 2 p.\n",
+            "displayNumber": "1.10."
+          },
+          "images": null,
+          "settings": {
+            "points": "",
+            "optionsLayout": "1",
+            "negativePoints": true,
+            "noVisualization": true,
+            "customizedPoints": true
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T07:12:17.06743",
+          "max_score": null,
+          "groupping": null,
+          "id": 5608494,
+          "question_type": "CUSTOMIZED_FEEDBACK",
+          "options": [
+            {
+              "id": 96,
+              "text": "Työmuisti",
+              "points": "2",
+              "choices": [],
+              "correct": true,
+              "feedback": "✔️ Oikein\n"
+            },
+            {
+              "id": 97,
+              "text": "Episodinen eli elämäkertamuisti",
+              "points": "-1",
+              "choices": [],
+              "feedback": "❌ Väärin\n"
+            },
+            {
+              "id": 98,
+              "text": "Semanttinen eli tietomuisti",
+              "points": "-1",
+              "choices": [],
+              "feedback": "❌ Väärin\n"
+            },
+            {
+              "id": 99,
+              "text": "Proseduraalinen eli taitomuisti",
+              "points": "-1",
+              "choices": [],
+              "feedback": "❌ Väärin\n"
+            },
+            {
+              "id": 100,
+              "text": "En vastaa",
+              "points": "0",
+              "choices": []
+            }
+          ],
+          "uuid": "b02aeba8-98d5-4297-bc8a-1eae95c24bd6",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2023-05-11T07:12:17.06743"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252839"
+          ],
+          "main_text": "Tämä muistijärjestelmä sisältää ensisijaisesti faktatietoa maailmasta. 2 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 67731,
+          "content": {
+            "text": "Tämä muistijärjestelmä sisältää ensisijaisesti faktatietoa maailmasta. 2 p.\n",
+            "displayNumber": "1.9."
+          },
+          "images": null,
+          "settings": {
+            "points": "",
+            "optionsLayout": "1",
+            "negativePoints": true,
+            "noVisualization": true,
+            "customizedPoints": true
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T07:12:17.064995",
+          "max_score": null,
+          "groupping": null,
+          "id": 5608493,
+          "question_type": "CUSTOMIZED_FEEDBACK",
+          "options": [
+            {
+              "id": 91,
+              "text": "Työmuisti",
+              "points": "-1",
+              "choices": [],
+              "feedback": "❌ Väärin\n"
+            },
+            {
+              "id": 92,
+              "text": "Episodinen eli elämäkertamuisti",
+              "points": "-1",
+              "choices": [],
+              "feedback": "❌ Väärin\n"
+            },
+            {
+              "id": 93,
+              "text": "Semanttinen eli tietomuisti",
+              "points": "2",
+              "choices": [],
+              "correct": true,
+              "feedback": "✔️ Oikein\n"
+            },
+            {
+              "id": 94,
+              "text": "Proseduraalinen eli taitomuisti",
+              "points": "-1",
+              "choices": [],
+              "feedback": "❌ Väärin\n"
+            },
+            {
+              "id": 95,
+              "text": "En vastaa",
+              "points": "0",
+              "choices": []
+            }
+          ],
+          "uuid": "fd25c633-0150-419e-a238-fec2437a8aaa",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2023-05-11T07:12:17.064995"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252839"
+          ],
+          "main_text": "Emotionaaliset tapahtumat jättävät erityisesti tähän muistiin vahvan jäljen. 2 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 67731,
+          "content": {
+            "text": "Emotionaaliset tapahtumat jättävät erityisesti tähän muistiin vahvan jäljen. 2 p.\n",
+            "displayNumber": "1.8."
+          },
+          "images": null,
+          "settings": {
+            "points": "",
+            "optionsLayout": "1",
+            "negativePoints": true,
+            "noVisualization": true,
+            "customizedPoints": true
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T07:12:17.062827",
+          "max_score": null,
+          "groupping": null,
+          "id": 5608492,
+          "question_type": "CUSTOMIZED_FEEDBACK",
+          "options": [
+            {
+              "id": 86,
+              "text": "Työmuisti",
+              "points": "-1",
+              "choices": [],
+              "feedback": "❌ Väärin\n"
+            },
+            {
+              "id": 87,
+              "text": "Episodinen eli elämäkertamuisti",
+              "points": "2",
+              "choices": [],
+              "correct": true,
+              "feedback": "✔️ Oikein\n"
+            },
+            {
+              "id": 88,
+              "text": "Semanttinen eli tietomuisti",
+              "points": "-1",
+              "choices": [],
+              "feedback": "❌ Väärin\n"
+            },
+            {
+              "id": 89,
+              "text": "Proseduraalinen eli taitomuisti",
+              "points": "-1",
+              "choices": [],
+              "feedback": "❌ Väärin\n"
+            },
+            {
+              "id": 90,
+              "text": "En vastaa",
+              "points": "0",
+              "choices": []
+            }
+          ],
+          "uuid": "c191768b-5f7d-4beb-b2b0-cc271bf56cbe",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2023-05-11T07:12:17.062827"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252839"
+          ],
+          "main_text": "Tähän muistijärjestelmään mahtuu vain pieni määrä tietoa. 2 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 67731,
+          "content": {
+            "text": "Tähän muistijärjestelmään mahtuu vain pieni määrä tietoa. 2 p.\n",
+            "displayNumber": "1.7."
+          },
+          "images": null,
+          "settings": {
+            "points": "",
+            "optionsLayout": "1",
+            "negativePoints": true,
+            "noVisualization": true,
+            "customizedPoints": true
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T07:12:17.059974",
+          "max_score": null,
+          "groupping": null,
+          "id": 5608491,
+          "question_type": "CUSTOMIZED_FEEDBACK",
+          "options": [
+            {
+              "id": 81,
+              "text": "Työmuisti",
+              "points": "2",
+              "choices": [],
+              "correct": true,
+              "feedback": "✔️ Oikein\n"
+            },
+            {
+              "id": 82,
+              "text": "Episodinen eli elämäkertamuisti",
+              "points": "-1",
+              "choices": [],
+              "feedback": "❌ Väärin\n"
+            },
+            {
+              "id": 83,
+              "text": "Semanttinen eli tietomuisti",
+              "points": "-1",
+              "choices": [],
+              "feedback": "❌ Väärin\n"
+            },
+            {
+              "id": 84,
+              "text": "Proseduraalinen eli taitomuisti",
+              "points": "-1",
+              "choices": [],
+              "feedback": "❌ Väärin\n"
+            },
+            {
+              "id": 85,
+              "text": "En vastaa",
+              "points": "0",
+              "choices": []
+            }
+          ],
+          "uuid": "4dbd0398-12d7-4af6-8251-9eded7206dc7",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2023-05-11T07:12:17.059974"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252839"
+          ],
+          "main_text": "Tämän muistijärjestelmän avulla voimme kertoa kokemuksistamme, mutta järjestelmän muistot ovat rekonstruoituja ja siksi usein epäluotettavia. 2 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 67731,
+          "content": {
+            "text": "Tämän muistijärjestelmän avulla voimme kertoa kokemuksistamme, mutta järjestelmän muistot ovat rekonstruoituja ja siksi usein epäluotettavia. 2 p.\n",
+            "displayNumber": "1.6."
+          },
+          "images": null,
+          "settings": {
+            "points": "",
+            "optionsLayout": "1",
+            "negativePoints": true,
+            "noVisualization": true,
+            "customizedPoints": true
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T07:12:17.057868",
+          "max_score": null,
+          "groupping": null,
+          "id": 5608490,
+          "question_type": "CUSTOMIZED_FEEDBACK",
+          "options": [
+            {
+              "id": 76,
+              "text": "Työmuisti",
+              "points": "-1",
+              "choices": [],
+              "feedback": "❌ Väärin\n"
+            },
+            {
+              "id": 77,
+              "text": "Episodinen eli elämäkertamuisti",
+              "points": "2",
+              "choices": [],
+              "correct": true,
+              "feedback": "✔️ Oikein\n"
+            },
+            {
+              "id": 78,
+              "text": "Semanttinen eli tietomuisti",
+              "points": "-1",
+              "choices": [],
+              "feedback": "❌ Väärin\n"
+            },
+            {
+              "id": 79,
+              "text": "Proseduraalinen eli taitomuisti",
+              "points": "-1",
+              "choices": [],
+              "feedback": "❌ Väärin\n"
+            },
+            {
+              "id": 80,
+              "text": "En vastaa",
+              "points": "0",
+              "choices": [],
+              "feedback": "&NewLine;\n"
+            }
+          ],
+          "uuid": "a799a3a6-6c6f-4b31-8981-a5f9ab96a9d2",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2023-05-11T07:12:17.057868"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252839"
+          ],
+          "main_text": "Tämä muistijärjestelmä säilyttää tietoa vain lyhyen aikaa. 2 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 67731,
+          "content": {
+            "text": "Tämä muistijärjestelmä säilyttää tietoa vain lyhyen aikaa. 2 p.\n",
+            "displayNumber": "1.5."
+          },
+          "images": null,
+          "settings": {
+            "points": "",
+            "optionsLayout": "1",
+            "negativePoints": true,
+            "noVisualization": true,
+            "customizedPoints": true
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T07:12:17.055694",
+          "max_score": null,
+          "groupping": null,
+          "id": 5608489,
+          "question_type": "CUSTOMIZED_FEEDBACK",
+          "options": [
+            {
+              "id": 71,
+              "text": "Työmuisti",
+              "points": "2",
+              "choices": [],
+              "correct": true,
+              "feedback": "✔️ Oikein\n"
+            },
+            {
+              "id": 72,
+              "text": "Episodinen eli elämäkertamuisti",
+              "points": "-1",
+              "choices": [],
+              "feedback": "❌ Väärin\n"
+            },
+            {
+              "id": 73,
+              "text": "Semanttinen eli tietomuisti",
+              "points": "-1",
+              "choices": [],
+              "feedback": "❌ Väärin\n"
+            },
+            {
+              "id": 74,
+              "text": "Proseduraalinen eli taitomuisti",
+              "points": "-1",
+              "choices": [],
+              "feedback": "❌ Väärin\n"
+            },
+            {
+              "id": 75,
+              "text": "En vastaa",
+              "points": "0",
+              "choices": []
+            }
+          ],
+          "uuid": "4b86116e-1958-4900-95f5-ee8f1197daf3",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2023-05-11T07:12:17.055694"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252839"
+          ],
+          "main_text": "Tämä muistijärjestelmä sisältää ensisijaisesti tietoa, jota ei voi kuvailla sanoilla. 2 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 67731,
+          "content": {
+            "text": "Tämä muistijärjestelmä sisältää ensisijaisesti tietoa, jota ei voi kuvailla sanoilla. 2 p.\n",
+            "displayNumber": "1.4."
+          },
+          "images": null,
+          "settings": {
+            "points": "",
+            "optionsLayout": "1",
+            "negativePoints": true,
+            "noVisualization": true,
+            "customizedPoints": true
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T07:12:17.053398",
+          "max_score": null,
+          "groupping": null,
+          "id": 5608488,
+          "question_type": "CUSTOMIZED_FEEDBACK",
+          "options": [
+            {
+              "id": 66,
+              "text": "Työmuisti",
+              "points": "-1",
+              "choices": [],
+              "feedback": "❌ Väärin\n"
+            },
+            {
+              "id": 67,
+              "text": "Episodinen eli elämäkertamuisti",
+              "points": "-1",
+              "choices": [],
+              "feedback": "❌ Väärin\n"
+            },
+            {
+              "id": 68,
+              "text": "Semanttinen eli tietomuisti",
+              "points": "-1",
+              "choices": [],
+              "feedback": "❌ Väärin\n"
+            },
+            {
+              "id": 69,
+              "text": "Proseduraalinen eli taitomuisti",
+              "points": "2",
+              "choices": [],
+              "correct": true,
+              "feedback": "✔️ Oikein\n"
+            },
+            {
+              "id": 70,
+              "text": "En vastaa",
+              "points": "0",
+              "choices": []
+            }
+          ],
+          "uuid": "770517b9-0520-4bb0-b1ef-3fa3c0e6c31d",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2023-05-11T07:12:17.053398"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252839"
+          ],
+          "main_text": "Muisto tästä psykologian ylioppilaskokeen koetilanteesta tallentuu tähän muistijärjestelmään. 2 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 67731,
+          "content": {
+            "text": "Muisto tästä psykologian ylioppilaskokeen koetilanteesta tallentuu tähän muistijärjestelmään. 2 p.\n",
+            "displayNumber": "1.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "",
+            "optionsLayout": "1",
+            "negativePoints": true,
+            "noVisualization": true,
+            "customizedPoints": true
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T07:12:17.051226",
+          "max_score": null,
+          "groupping": null,
+          "id": 5608487,
+          "question_type": "CUSTOMIZED_FEEDBACK",
+          "options": [
+            {
+              "id": 61,
+              "text": "Työmuisti",
+              "points": "-1",
+              "choices": [],
+              "feedback": "❌ Väärin\n"
+            },
+            {
+              "id": 62,
+              "text": "Episodinen eli elämäkertamuisti",
+              "points": "2",
+              "choices": [],
+              "correct": true,
+              "feedback": "✔️ Oikein\n"
+            },
+            {
+              "id": 63,
+              "text": "Semanttinen eli tietomuisti",
+              "points": "-1",
+              "choices": [],
+              "feedback": "❌ Väärin\n"
+            },
+            {
+              "id": 64,
+              "text": "Proseduraalinen eli taitomuisti",
+              "points": "-1",
+              "choices": [],
+              "feedback": "❌ Väärin\n"
+            },
+            {
+              "id": 65,
+              "text": "En vastaa",
+              "points": "0",
+              "choices": []
+            }
+          ],
+          "uuid": "6a42c763-c40e-47f8-896c-64bbd92f014d",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2023-05-11T07:12:17.051226"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252839"
+          ],
+          "main_text": "Tämä muistijärjestelmä säilyttää muistoja pitkään, mutta sen sisältämää tietoa ei tarvitse tietoisesti ajatella, kun sitä halutaan käyttää. 2 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 67731,
+          "content": {
+            "text": "Tämä muistijärjestelmä säilyttää muistoja pitkään, mutta sen sisältämää tietoa ei tarvitse tietoisesti ajatella, kun sitä halutaan käyttää. 2 p.\n",
+            "displayNumber": "1.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "",
+            "optionsLayout": "1",
+            "negativePoints": true,
+            "noVisualization": true,
+            "customizedPoints": true
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T07:12:17.048753",
+          "max_score": null,
+          "groupping": null,
+          "id": 5608486,
+          "question_type": "CUSTOMIZED_FEEDBACK",
+          "options": [
+            {
+              "id": 56,
+              "text": "Työmuisti",
+              "points": "-1",
+              "choices": [],
+              "feedback": "❌ Väärin\n"
+            },
+            {
+              "id": 57,
+              "text": "Episodinen eli elämäkertamuisti",
+              "points": "-1",
+              "choices": [],
+              "feedback": "❌ Väärin\n"
+            },
+            {
+              "id": 58,
+              "text": "Semanttinen eli tietomuisti",
+              "points": "-1",
+              "choices": [],
+              "feedback": "❌ Väärin\n"
+            },
+            {
+              "id": 59,
+              "text": "Proseduraalinen eli taitomuisti",
+              "points": "2",
+              "choices": [],
+              "correct": true,
+              "feedback": "✔️ Oikein\n"
+            },
+            {
+              "id": 60,
+              "text": "En vastaa",
+              "points": "0",
+              "choices": []
+            }
+          ],
+          "uuid": "27052ac4-4831-410d-8d68-5d8d9a0166c4",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2023-05-11T07:12:17.048753"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252839"
+          ],
+          "main_text": "Tämä psykologian ylioppilaskokeen monivalintatehtävä testaa erityisesti tätä muistijärjestelmää. 2 p\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 67731,
+          "content": {
+            "text": "Tämä psykologian ylioppilaskokeen monivalintatehtävä testaa erityisesti tätä muistijärjestelmää. 2 p\n",
+            "displayNumber": "1.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "",
+            "optionsLayout": "1",
+            "negativePoints": true,
+            "noVisualization": true,
+            "customizedPoints": true
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T07:12:17.046542",
+          "max_score": null,
+          "groupping": null,
+          "id": 5608485,
+          "question_type": "CUSTOMIZED_FEEDBACK",
+          "options": [
+            {
+              "id": 51,
+              "text": "Työmuisti",
+              "points": "-1",
+              "choices": [],
+              "feedback": "❌ Väärin\n"
+            },
+            {
+              "id": 52,
+              "text": "Episodinen eli elämäkertamuisti",
+              "points": "-1",
+              "choices": [],
+              "feedback": "❌ Väärin\n"
+            },
+            {
+              "id": 53,
+              "text": "Semanttinen eli tietomuisti",
+              "points": "2",
+              "choices": [],
+              "correct": true,
+              "feedback": "✔️ Oikein\n"
+            },
+            {
+              "id": 54,
+              "text": "Proseduraalinen eli taitomuisti",
+              "points": "-1",
+              "choices": [],
+              "feedback": "❌ Väärin\n"
+            },
+            {
+              "id": 55,
+              "text": "En vastaa",
+              "points": "0",
+              "choices": []
+            }
+          ],
+          "uuid": "b0375130-a40a-4033-8589-39d720e5b597",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2023-05-11T07:12:17.046542"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Arvioi tutkimuksen tulosta kehityspsykologisen tiedon varassa. 15 p.\n",
+          "deleted_at": null,
+          "feedback": "Hyvässä vastauksessa pohdinta tutkimuksen tuloksesta kytketään tietoon siitä, miten sosiaalinen kognitio kehittyy lapsuudesta varhaisnuoruuteen. Vastauksessa tarkastellaan mm. sitä, missä iässä lapsi ymmärtää, että toisella ihmisellä on omat tunteet ja ajatukset (mielenteoria) ja miten tämä voi vaikuttaa salaisuuden\n\nmerkityksen arviointiin. Vastaukseen voi sitoa myös lapsen ajattelun kehitystä koskevaa tietoa, joka liittyy egosentrisyyteen tai moraalin kehitykseen. Vastauksessa pohditaan myös ystävyyssuhteiden merkityksen ja roolin muuttumista kolmesta ikävuodesta kahteentoista ikävuoteen. Vastauksessa voidaan pohtia myös sitä, miten keksin antaminen tai tiedon jakaminen saattavat poiketa toisistaan arvioitaessa ystävyyssuhdetta. Hyvässä vastauksessa on niin ikään mahdollista arvioida tutkimuksen tuloksia suhteessa tutkimusasetelmaan ja -menetelmiin.\n\n&NewLine;\n\n**7–8 p.** Vastaukseen sisältyy pääosin mielekästä psykologista tietoa ja käsitteistöä. Vastaus on enimmäkseen tehtävänannon mukainen, mutta osa tekstistä jää irralliseksi. Aineistoa on hyödynnetty melko hyvin. Vastaus on jäsentynyt. Psykologisen tiedon soveltaminen, kehittely ja arviointi on hyvää. Perusteluja on useissa kohdissa, ja ne ovat paikkansa pitäviä.\n\n&NewLine;\n\n**11–13 p.** Vastaukseen sisältyy monipuolista psykologista tietoa ja käsitteistöä. Tiedon hallinta on kiitettävää. Vastaus on tehtävänannon mukainen. Aineistoa on hyödynnetty hyvin. Vastaus muodostaa kiitettävän kokonaisuuden. Psykologista tietoa sovelletaan, kehitellään ja arvioidaan kiitettävästi. Perustelut ovat selkeitä ja vakuuttavia.\n",
+          "exam_id": 67731,
+          "content": {
+            "text": "Arvioi tutkimuksen tulosta kehityspsykologisen tiedon varassa. 15 p.\n",
+            "displayNumber": "9.2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T07:12:17.044635",
+          "max_score": null,
+          "groupping": null,
+          "id": 5608484,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "24fbef81-47df-4a61-8e83-613557c28150",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2023-05-11T07:12:17.044635"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kuvaa aineistossa 9. A esitetyn tutkimuksen tutkimusmenetelmiä. Käytä asianmukaisia tutkimuskäsitteitä. Selitä lisäksi lyhyesti pylväsdiagrammissa esitetyt tutkimustulokset. 15 p.\n",
+          "deleted_at": null,
+          "feedback": "Hyvässä vastauksessa kokelas osoittaa tunnistaneensa tutkimusasetelman poikittaistutkimukseksi. Tutkimuksessa käytetyt tiedonkeruumenetelmät – haastattelu – osataan nimetä tekstin perusteella. Aineiston otantamenetelmäksi tunnistetaan mukavuusotanta. Otantamenetelmää ei tarvitse nimetä, mutta\n\nhyvässä vastauksessa käy ilmi, että tutkittavien valintaa ei ole tehty esim. satunnaisotannalla. Tutkimuksen tulos on myös ymmärretty ja selitetty oikein. Molemmat tutkimuksen osiot osoittivat, että kuuteen ikävuoteen mennessä lapset alkavat olettaa salaisuuden jakamisen kertovan lasten välisestä ystävyydestä.\n\n&NewLine;\n\nTämä käsitys vahvistui iän myötä. 3–5-vuotiaat eivät pitäneet salaisuuden jakamista osoituksena ystävyyssuhteesta. Tutkimuksessa osoitettiin, että salaisuuden jakaminen on vahvempi viesti ystävyydestä kuin keksin antaminen (tutkimus 1) tai tiedon jakaminen (tutkimus 2). Osatehtävä 9.1. arvioidaan askeleittain pisteillä 0, 3, 6, 9, 12, 15.\n\n&NewLine;\n\n**6–9 p**. Vastaukseen sisältyy pääosin mielekästä psykologista tietoa ja käsitteistöä. Tiedon hallinta on hyvää, mutta osittain rajoittunutta.\n\n&NewLine;\n\n**12–15 p**. Vastaukseen sisältyy monipuolista psykologista tietoa ja käsitteistöä. Tiedon hallinta on kiitettävää tai erinomaista.\n",
+          "exam_id": 67731,
+          "content": {
+            "text": "Kuvaa aineistossa 9. A esitetyn tutkimuksen tutkimusmenetelmiä. Käytä asianmukaisia tutkimuskäsitteitä. Selitä lisäksi lyhyesti pylväsdiagrammissa esitetyt tutkimustulokset. 15 p.\n",
+            "displayNumber": "9.1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-11T07:12:17.042653",
+          "max_score": null,
+          "groupping": null,
+          "id": 5608483,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "a25849c1-0278-4708-b63c-0c330c6a88a1",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2023-05-11T07:12:17.042653"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Salaisuuksien jakaminen 30 p.**\n\n\n\nAineistossa 9. A kuvataan salaisuuksien jakamiseen liittyvä tutkimus.\n\n\n\n**Aineisto**\n\n\n9.A [LINK text=Teksti ja kuvio: Salaisuuksien jakamiseen liittyvän tutkimuksen kuvaus|url=https://yle.fi/plus/abitreenit/2020/kevat/2020-03-26_PS_fi/attachments/index.html#9.%252520A]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 67731,
+          "content": {
+            "text": "**Salaisuuksien jakaminen 30 p.**\n\n\n\nAineistossa 9. A kuvataan salaisuuksien jakamiseen liittyvä tutkimus.\n\n\n\n**Aineisto**\n\n\n9.A [LINK text=Teksti ja kuvio: Salaisuuksien jakamiseen liittyvän tutkimuksen kuvaus|url=https://yle.fi/plus/abitreenit/2020/kevat/2020-03-26_PS_fi/attachments/index.html#9.%252520A]",
+            "displayNumber": "9."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "a25849c1-0278-4708-b63c-0c330c6a88a1",
+            "24fbef81-47df-4a61-8e83-613557c28150"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-05-11T07:12:17.040511",
+          "max_score": null,
+          "groupping": null,
+          "id": 5608482,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "d2b47ae1-691b-4fa8-9159-ac0f805a12a5",
+          "order_number": 12,
+          "multipart": true,
+          "created_at": "2023-05-11T07:12:17.040511"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Osa I: 20 pisteen tehtävät\n\nVastaa 1–2 tehtävään.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 67731,
+          "content": {
+            "text": "### Osa I: 20 pisteen tehtävät\n\nVastaa 1–2 tehtävään.\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-05-11T07:12:17.030601",
+          "max_score": null,
+          "groupping": null,
+          "id": 2250051,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "1d7eeb9d-dc69-41a7-987a-67748e1b41fd",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2020-04-02T12:18:44.791303"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Yksinäisyys ja sosiaalinen media 30 p.**\n\n&NewLine;\n\nVaikka sosiaalinen media mahdollistaa nuorille jatkuvan yhteydenpidon laajan sosiaalisen verkoston kanssa, jotkut tutkijat väittävät nuorten olevan yksinäisempiä kuin koskaan aikaisemmin. Esimerkiksi uuden median tutkija Sherry Turkle on esittänyt nuorten olevan ”yksinäisiä yhdessä” (engl. ”alone together”). Mitä psykologisesti perusteltuja ajatuksia esittäisit väitteen ”sosiaalinen media lisää nuorten yksinäisyyttä” puolesta ja vastaan?\n",
+          "deleted_at": null,
+          "feedback": "Kyseessä on kehittelytehtävä, jossa voi soveltaa nuorten kehitykseen ja vertaissuhteisiin liittyvää psykologista tietoa nuorten arkielämään läheisesti liittyvässä aihepiirissä. Tehtävässä tulee käsitellä sekä yksinäisyyden kokemusta vähentäviä että sitä lisääviä sosiaaliseen mediaan liittyviä tekijöitä. Vastauksessa\n\nvoidaan pohtia, kuinka sosiaalinen media mahdollistaa ajan viettämisen laajassa sosiaalisessa verkossa, johon kuuluvat myös aikaisempien koulujen ja naapurustojen kaverit. Vuorokaudenajasta ja paikasta riippumatta on mahdollista olla suorassa yhteydessä kavereiden kanssa sekä jakaa sosiaalisia ja\n\nemotionaalisia kokemuksia. Sosiaalinen media voi myös tukea sellaisten nuorten verkostoitumista, jotka eivät halua tai kykene siihen muussa vuorovaikutuksessa. Sosiaalinen media kuitenkin rohkaisee valikoimaan, muokkaamaan ja parantamaan itsestä annettua vaikutelmaa. Seurauksena tästä se tarjoaa kiiltokuvamaisia näkymiä hyvin menestyneiden ja suosittujen kavereiden elämään. Siten heikossa asemassa olevat, itseluottamukseltaan hauraat ja epävarmat nuoret, saattavat kokea, etteivät he kuulu muiden nuorten joukkoon. Toisaalta yksinäisyyttä voivat kokea myös sosiaalisessa mediassa suositut nuoret, jos heillä ei ole tarpeeksi ihmissuhteita, joissa he voivat olla oma itsensä sosiaalisessa mediassa suosiota saavan ”roolihahmon” sijaan. Jotkut nuoret saattavat korvata sosiaalisen median avulla kasvokkaista vuorovaikutusta, mikä voi johtaa vastavuoroisten sosiaalisten kontaktien vähenemiseen. Kaverit ovat tärkeä nuoren kehitystä välittävä vertaisryhmä. Ulospäinsuuntautuneilla ja sosiaalisilla nuorilla voi olla kokonainen\n\njoukko kavereita, mutta toisilla vain muutama. Jotkut nuoret kokevat jo koulun varhaisista vaiheista alkaen yksinäisyyttä, eikä heillä juuri ole kavereita. Sosiaalinen media ylikorostaa näennäisten ystävyyssuhteiden määrää, ja siten se ruokkii yksinäisyyden kokemusta. Yksinäiset nuoret saattavat tämän seurauksena kokea\n\nitsensä entistä yksinäisemmiksi. Psykososiaalisen kehityksen kannalta olennaista ei kuitenkaan ole kaverisuhteiden määrä vaan laatu; yksikin hyvä kaveri saattaa tarjota merkittävää sosiaalista tukea.\n\n&NewLine;\n\n**13−16 p.** Vastaukseen sisältyy pääosin mielekästä tietoa sosiaalisen median vaikutuksesta nuorten yksinäisyyden kokemuksen lisääntymiseen ja sen vähenemiseen. Myös käsitteistö on enimmäkseen mielekästä. Vastauksessa hyödynnetään nuorten kehitykseen ja vertaissuhteisiin liittyvää tietoa, ja tiedon\n\nhallinta on joistakin rajoituksista huolimatta hyvätasoista. Vastaus on suhteellisen hyvin jäsentynyt, vaikka osa tekstistä saattaa jäädä irralliseksi. Psykologista tietoa sovelletaan, kehitellään ja arvioidaan hyvin. Perusteluja on useissa kohdissa, ja ne ovat paikkansa pitäviä.\n\n&NewLine;\n\n**22−25 p.** Vastaukseen sisältyy monipuolista psykologista tietoa sosiaalisen median vaikutuksesta nuorten yksinäisyyden kokemuksen lisääntymiseen ja sen vähenemiseen. Myös käsitteistö on monipuolista. Vastauksessa sovelletaan psykologista tietoa luontevasti nuorten arkikokemukseen liittyvän ilmiön\n\nanalyysiin, ja siinä tarkastellaan aihetta useasta psykologian näkökulmasta. Vastaus osoittaa kiitettävää psykologisen tiedon hallintaa. Vastaus muodostaa ehyen ja kiitettävästi jäsennellyn kokonaisuuden. Psykologista tietoa sovelletaan, kehitellään ja arvioidaan kiitettävästi. Perustelut ovat selkeitä ja vakuuttavia.\n",
+          "exam_id": 67731,
+          "content": {
+            "text": "**Yksinäisyys ja sosiaalinen media 30 p.**\n\n&NewLine;\n\nVaikka sosiaalinen media mahdollistaa nuorille jatkuvan yhteydenpidon laajan sosiaalisen verkoston kanssa, jotkut tutkijat väittävät nuorten olevan yksinäisempiä kuin koskaan aikaisemmin. Esimerkiksi uuden median tutkija Sherry Turkle on esittänyt nuorten olevan ”yksinäisiä yhdessä” (engl. ”alone together”). Mitä psykologisesti perusteltuja ajatuksia esittäisit väitteen ”sosiaalinen media lisää nuorten yksinäisyyttä” puolesta ja vastaan?\n",
+            "displayNumber": "8."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-05-11T07:12:17.028176",
+          "max_score": null,
+          "groupping": null,
+          "id": 2250240,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "6839abcd-ceb2-47bf-88bf-603e8d8e3801",
+          "order_number": 11,
+          "multipart": true,
+          "created_at": "2020-04-02T13:08:14.181111"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Kognitiivisten taitojen kehittyminen aikuisuudessa 20 p.**\n\n&NewLine;\n\nValitse yksi taitavaa ajattelua vaativa toimintalaji (esimerkiksi asiantuntijuus, ongelmanratkaisu, päätöksenteko). Selitä psykologisen tiedon ja esimerkkien varassa, kuinka siihen liittyvät kognitiiviset taidot kehittyvät aikuisuudessa.\n",
+          "deleted_at": null,
+          "feedback": "Kyseessä on kognitiivisen psykologian alueelle sijoittuva tehtävä, joka mahdollistaa valittuun toimintalajiin liittyvän tiedon soveltamisen aikuiselämän kontekstissa. Asiantuntijuuden tutkimuksessa eritellään sitä, miten erilaisiin ammatteihin tai harrastuksiin liittyvä osaaminen kehittyy. Asiantuntijuus on aina alakohtaista: se perustuu jonkin tietyn tiedon ja taidonalan hallitsemiseen. Asiantuntijoiden ja aloittelijoiden vertailut ovat paljastaneet, että asiantuntijoille on tyypillistä 1) hyvin organisoituneen ja käyttökelpoisen tietämyksen hallinta, 2) ongelmien syvällinen hahmottaminen, 3) monimutkaisten ja merkityksellisen tilanteiden tunnistaminen, 4) erittäin kehittynyt työ- ja pitkäkestoinen muisti, 5) tehokkaat ongelmanratkaisustrategiat sekä 6) valmius arvioida omaa tietoa ja ongelmanratkaisuvalmiuksia. Asiantuntijuuden kehityksen kannalta oleellista on päästä varhaisessa vaiheessa asiantuntevaan ohjaukseen; tämän takia monet aikuiset asiantuntijat ovat todennäköisesti aloittaneet harjoittelun jo\n\nnuoruudessaan. Koulutus luo perustan asiantuntijuudelle, mutta kehitys jatkuu pitkäaikaisessa toiminnassa, kuten ongelmanratkaisussa, kyseisellä alalla. Asiantuntijuuden kehityksen kannalta olennaista on pitkäjänteinen tarkoituksellinen (suorituskykyä venyttävä) harjoittelu osaavampien ohjaajien tuella.\n\nToiminta asiantuntijayhteisössä ja -verkostossa tukee merkittävällä tavalla asiantuntijuuden kehitystä. Hyvässä vastauksessa tuodaan esiin, etteivät kaikki aikuiset saavuta asiantuntijuuden tasoa, vaan jotkut jäävät rutiininomaisen osaamisen tasolle.\n\n&NewLine;\n\nOngelmanratkaisulla puolestaan tarkoitetaan yksilön kognitiivista ponnistelua tilanteessa, jossa hänellä on jokin haaste tai este ylitettävänään muttei aikaisempaan kokemukseen perustuvaa ratkaisumallia tukenaan.\n\nAikuisuudessa ongelmanratkaisutilanteet liittyvät esimerkiksi työhön, arkielämään tai harrastuksiin. Ongelma-avaruus sisältää ne ratkaisupolut, joiden kautta on mahdollista edetä lähtötilanteesta tavoitetilanteeseen. Jotkut ongelmat on mahdollista ratkaista rutiininomaisesti nojautumalla aikaisempaan\n\nkokemukseen tai ongelmanratkaisualgoritmeihin (erilaisten ratkaisujen mekaaninen kokeileminen). Toiset ongelmat ovat niin monimutkaisia tai visaisia, ettei niitä ole mahdollista ratkaista mekaanisesti eikä ratkaisun oikeellisuutta voida välttämättä edes aukottomasti osoittaa. Tällaisessa tapauksessa ongelma-avaruus on niin laaja, ettei kaikkia kuviteltavissa olevia ratkaisuja ole mahdollista tai mielekästä käydä lävitse. Tällöin on pakko nojautua joihinkin ongelmanratkaisun heuristiikkoihin. Ne ovat ratkaisun valikoivan etsimisen menetelmiä, joiden avulla voi päästä nopeaan ratkaisuun; ne eivät kuitenkaan takaa ongelmanratkaisun onnistumista. Aikuiset ovat pitkän ajan kuluessa saaneet kokemuksia monenlaisista\n\nongelmanratkaisutilanteista ja kehittäneet toimivia heuristiikkoja tyypillisten ongelmien ratkaisemiseen. Hyvässä vastauksessa on mahdollista pohtia sitä, että aikuiset kohtaavat muuttuvassa maailmassa koko ajan uusia ongelmia, jolloin heidän ongelmanratkaisuvalmiutensa voivat olla jatkuvasti koetuksella.\n\n&NewLine;\n\nPäätöksenteko on eräs ongelmanratkaisun muoto. Päätöksenteolla tarkoitetaan kognitiivista prosessia, joka johtaa jotakin toimintaa tai asiaa koskevan päätöksen tekemiseen. Tarvitsemme päätöksentekoa silloin, kun meidän on toteutettava jokin asia, mutta emme tiedä, kuinka sen käytännössä tekisimme. Päätöksentekoon\n\nliittyy usein jonkin tietyn toimintalinjan valitseminen muiden sijasta epävarmassa tilanteessa. Aikuisen päätöksenteko tapahtuu usein aikapaineen alaisena, koska käytännön tilanteissa saattaa olla vain vähän aikaa päätöksen tekemiseen. Joissakin toisissa tilanteissa aikaa voi olla enemmän, mutta ratkaisua\n\nvaikeuttaa monien toisiinsa vaikuttavien tekijöiden huomioon ottaminen. Päätöksenteko on erityisen haastavaa, jos ongelmat on määritelty heikosti. Yksilön on valittava epätäydellisen tiedon varassa tarkoituksenmukainen vaihtoehto monista mahdollisista ratkaisuista, joiden toimivuudesta ei etukäteen voi\n\nolla varma. Psykologinen tutkimus on osoittanut monenlaisten vinoumien vaikuttavan päätöksentekoon. Esimerkkinä tästä on ihmisen taipumus etsiä tukea nykyisten uskomusten ja oletusten tueksi. Aikuisen on oleellista tunnistaa tilanteet, joissa on tärkeää tai välttämätöntä aktivoida tietoinen pohdinta (systeemi 2)\n\nsen sijaan, että nojaudutaan nopeaan, automaattiseen ja intuitiiviseen (systeemi 1) päätöksentekoon. Hyvässä vastauksessa voidaan pohtia sitä, että vaikka osa aikuisista pystyy hyödyntämään kasautuvaa elämänkokemusta tehdäkseen viisaita päätöksiä, toiset eivät välttämättä kehitä päätöksentekoon liittyvää osaamistaan kokemuksesta huolimatta.\n\n&NewLine;\n\n**9−11 p.** Vastaus on tehtävänannon mukainen, ja siihen sisältyy pääosin mielekästä psykologista tietoa valitusta aiheesta. Esimerkit ovat aiheen kannalta tarkoituksenmukaisesti valittuja. Aiheeseen liittyvää psykologista tietoa on sovellettu hyvin, ja perusteluja on useissa kohdissa.\n\n&NewLine;\n\n**15−17 p**. Vastauksessa on monipuolista psykologista tietoa ja käsitteistöä valitusta aiheesta. Esimerkit ovat osuvia ja psykologiseen tietoon luontevasti ankkuroituja. Vastaus on hyvin jäsentynyt, ja se muodostaa kiitettävän kokonaisuuden. Perustelut ovat monipuolisia ja vakuuttavia.\n",
+          "exam_id": 67731,
+          "content": {
+            "text": "**Kognitiivisten taitojen kehittyminen aikuisuudessa 20 p.**\n\n&NewLine;\n\nValitse yksi taitavaa ajattelua vaativa toimintalaji (esimerkiksi asiantuntijuus, ongelmanratkaisu, päätöksenteko). Selitä psykologisen tiedon ja esimerkkien varassa, kuinka siihen liittyvät kognitiiviset taidot kehittyvät aikuisuudessa.\n",
+            "displayNumber": "5."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-05-11T07:12:17.021781",
+          "max_score": null,
+          "groupping": null,
+          "id": 2250145,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "ee82ba2c-ccb5-4098-b656-ccc7755d1656",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2020-04-02T12:54:38.777999"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Harhojen seuraukset 30 p.**\n\n&NewLine;\n\nVideolla 7. A David ja Rachel kuvaavat psykoottisia harha-aistimuksiaan ja vainoharhaisuutta (paranoia), jotka liittyvät heidän sairauteensa. Tämänkaltaiset oireet voivat liittyä esimerkiksi skitsofreniaan tai muuhun vakavaan mielenterveyden häiriöön. Pohdi, mitä seurauksia harhoista voi olla yksilölle ja hänen sosiaalisille suhteilleen. Kehittele lisäksi ajatuksia siitä, minkälaisia haasteita oireet aiheuttavat yksilön psyykkisen tasapainon ylläpitämisessä.\n\n&NewLine;\n\n**Aineisto**\n\n&NewLine;\n\n7.A Video: [LINK url=http://yle.fi/plus/abitreenit/2020/kevat/2020-03-26\\_PS\\_fi/attachments/index.html#7.%20A|text=Miksi tulin hulluksi?]\n",
+          "deleted_at": null,
+          "feedback": "Hyvä vastaus perustuu ymmärrykseen siitä, että psykoosi on vakava tila, johon vaikuttavat usein biologiset, jopa perinnölliset tekijät. Ansiokkaassa vastauksessa hyödynnetään hyvin haastateltujen ihmisten kokemusmaailman kuvauksia, joissa keskeistä on pelon tai jopa kauhun tunteen kokeminen. Molemmat haastatellut kertovat näköharhojen äärimmäisestä pelottavuudesta. Koska pelot eivät liity ympäristön todellisiin ja muiden kanssa jaettavissa oleviin uhkiin, niitä voi olla vaikea tietoisesti säädellä. Vastauksessa on mahdollista käyttää tietoa siitä, miten nämä emootiot syntyvät psykoosissa verrattuna normaalitilanteeseen. Myös tietoa pelon neuraalisesta perustasta voidaan hyödyntää vastauksessa. Niin ikään saatetaan pohtia, mitä seurauksia voi liittyä jatkuvan pelon kanssa elämiseen. Kokelas voi myös käsitellä tietoisuuden ja havaitsemisen luonnetta prosessina, jonka aivot tuottavat ja joka ei välttämättä ole luotettava kuvaus ympäröivästä maailmasta. \n\n&NewLine;\n\nMyös äänien kuuleminen (tässä esimerkissä toisen ajatusten) voi olla pelottavaa. Davidin kuvaamassa esimerkissä vainoharhaisuus yhdistyi tunteeseen, että toinen haluaa hänelle pahaa. Sosiaalisten suhteiden ylläpitämisen kannalta on haastavaa, mikäli muut ihmiset koetaan vakavaksi uhkaksi. Myös käsitys siitä,\n\netteivät perustavanlaatuiset, ympäristöä koskevat aistikokemukset ole jaettuja, saattaa vaikeuttaa sosiaalisten suhteiden ylläpitämistä. Yksinäisyys ja eristäytyminen voi puolestaan lisätä oireita. Rachel kuvasi havaintoaan vääristyneestä peilikuvastaan. Hyvässä vastauksessa tätä voidaan pohtia esimerkiksi siltä kannalta, miten psyykkisen ja fyysisen minäkokemuksen hajoaminen vaikuttaa yksilöön ja sosiaalisiin suhteisiin. Vastauksessa tulisi kehitellä ajatuksia siitä, mistä asioista on yleensä hyötyä psyykkisen tasapainon ylläpitämisessä ja miten harhat tai vainoharhaisuus vaikeuttavat tasapainon löytymistä. Vastauksessa tuodaan esille, että psykoosissa tasapainon menettämisen kokemus on vallitseva, jolloin yksilön omien valintojen vaikutus ei ole välttämättä kovin suuri. Esimerkiksi lääkkeet voivat auttaa tasapainon löytymisessä, koska tavalliset hallinta- ja puolustuskeinot eivät ehkä ole kovin tehokkaita.\n\nHaastattelut osoittivat, että sairastuneet pystyivät kertomaan harhoistaan tarkasti. He myös ymmärsivät harhojen liittyvän sairauteen. Jaettu kokemus sairauden aiheuttamista oireista turvalliseksi koetussa ympäristössä, kuten psykiatrisessa hoidossa, voi auttaa. Tällöin harhojen pelottavuus saattaa vähentyä ja niitä voi kokea hallitsevansa paremmin.\n\n&NewLine;\n\n**13–16 p.** Tiedon hallinta on hyvää ja aineistosta on poimittu olennaisia asioita, kuten pelon kokemus, joka liittyi molempien haastateltavien harhoihin. Psykologisen tiedon käsittely on hyvää: vastauksessa pohditaan molempia kysyttyjä vaikutusalueita (yksilö, sosiaaliset suhteet) ja kehitetään joitakin ajatuksia psyykkisen tasapainon ylläpitämisen haasteista psykoosissa.\n\n&NewLine;\n\n**22−25 p.** Tiedon hallinta ja psykologisen tiedon kehittely on erinomaista. Kokelas osoittaa syvällistä tietämystä aiheesta ja käsittelee aineistoa oivaltavasti. Vastauksessa pohditaan hyvin jäsentyneesti kysyttyjä\n\nvaikutusalueita (yksilö, sosiaaliset suhteet) ja kehitetään oivaltavasti ajatusta psyykkisen tasapainon ylläpitämisen merkittävistä haasteista psykoosissa.\n",
+          "exam_id": 67731,
+          "content": {
+            "text": "**Harhojen seuraukset 30 p.**\n\n&NewLine;\n\nVideolla 7. A David ja Rachel kuvaavat psykoottisia harha-aistimuksiaan ja vainoharhaisuutta (paranoia), jotka liittyvät heidän sairauteensa. Tämänkaltaiset oireet voivat liittyä esimerkiksi skitsofreniaan tai muuhun vakavaan mielenterveyden häiriöön. Pohdi, mitä seurauksia harhoista voi olla yksilölle ja hänen sosiaalisille suhteilleen. Kehittele lisäksi ajatuksia siitä, minkälaisia haasteita oireet aiheuttavat yksilön psyykkisen tasapainon ylläpitämisessä.\n\n&NewLine;\n\n**Aineisto**\n\n&NewLine;\n\n7.A Video: [LINK url=http://yle.fi/plus/abitreenit/2020/kevat/2020-03-26\\_PS\\_fi/attachments/index.html#7.%20A|text=Miksi tulin hulluksi?]\n",
+            "displayNumber": "7."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-05-11T07:12:16.996477",
+          "max_score": null,
+          "groupping": null,
+          "id": 2250219,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "3c86b897-8304-4e37-a66d-5c5e4698bc3f",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2020-04-02T13:04:17.522651"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Muistijärjestelmät 20 p.\n\n&NewLine;\n\nMitä ominaisuuksia seuraavilla muistijärjestelmillä on? Monivalintatehtävässä pitää valita, mitkä muistin ominaisuudet liittyvät mihinkin muistijärjestelmään. Valitse kussakin kohdassa 1.1.–1.10. parhaiten soveltuva vaihtoehto. Oikea vastaus 2 p., väärä vastaus −1 p., ei vastausta 0 p. Tehtävä ei ole pakollinen, ja siihen voi jättää vastaamatta. Jos olet aloittanut tehtävään vastaamisen, mutta et haluakaan jättää tehtävää arvosteltavaksi, merkitse jokaiseen väittämään vaihtoehto ”En vastaa”.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 67731,
+          "content": {
+            "text": "Muistijärjestelmät 20 p.\n\n&NewLine;\n\nMitä ominaisuuksia seuraavilla muistijärjestelmillä on? Monivalintatehtävässä pitää valita, mitkä muistin ominaisuudet liittyvät mihinkin muistijärjestelmään. Valitse kussakin kohdassa 1.1.–1.10. parhaiten soveltuva vaihtoehto. Oikea vastaus 2 p., väärä vastaus −1 p., ei vastausta 0 p. Tehtävä ei ole pakollinen, ja siihen voi jättää vastaamatta. Jos olet aloittanut tehtävään vastaamisen, mutta et haluakaan jättää tehtävää arvosteltavaksi, merkitse jokaiseen väittämään vaihtoehto ”En vastaa”.\n",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "b0375130-a40a-4033-8589-39d720e5b597",
+            "27052ac4-4831-410d-8d68-5d8d9a0166c4",
+            "6a42c763-c40e-47f8-896c-64bbd92f014d",
+            "770517b9-0520-4bb0-b1ef-3fa3c0e6c31d",
+            "4b86116e-1958-4900-95f5-ee8f1197daf3",
+            "a799a3a6-6c6f-4b31-8981-a5f9ab96a9d2",
+            "4dbd0398-12d7-4af6-8251-9eded7206dc7",
+            "c191768b-5f7d-4beb-b2b0-cc271bf56cbe",
+            "fd25c633-0150-419e-a238-fec2437a8aaa",
+            "b02aeba8-98d5-4297-bc8a-1eae95c24bd6"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-05-11T07:12:16.99178",
+          "max_score": null,
+          "groupping": null,
+          "id": 2250050,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "4a7ccc37-2179-43e2-949e-e7c8d1acbe92",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2020-04-02T12:18:44.787428"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Psykologiset ilmiöt Anna Puun Keho puhuu -laulun sanoissa 20 p.**\n\n​\n\nSelitä, mistä psykologiaan liittyvistä ilmiöistä Anna Puun Keho puhuu -laulu (aineisto 4. A) kertoo.\n\n​\n\n**Aineisto **\n\n​\n\n4.A Teksti: [LINK url=http://yle.fi/plus/abitreenit/2020/kevat/2020-03-26\\_PS\\_fi/attachments/index.html#4.%20A|text=Anna Puun Keho puhuu -kappaleen sanat]\n",
+          "deleted_at": null,
+          "feedback": "Keho puhuu -laulu kertoo tunteista ja niiden kommunikoinnista läheisessä ihmissuhteessa. Sanoituksessa tunteita kuvataan kehollisina kokemuksina, joita on usein vaikea tulkita tai kertoa sanallisesti. Vastauksessa voidaan selittää, miten emootiot syntyvät biologisten ja kognitiivisten tekijöiden vuorovaikutuksessa.\n\nEsimerkiksi suuttumus, josta laulussa kerrotaan, aiheuttaa sen, että hengitys nopeutuu ja lihakset saattavat jännittyä ja kasvot punertua verenkierron nopeutuessa. Tämän ulkopuolinen voi havaita tarkkailemalla vihaisen henkilön ”kehon kieltä”.\n\n&NewLine;\n\nVastauksessa voidaan käsitellä tunneteorioita tai tunteiden kognitiivista ja biologista perustaa. Tunteet ja niiden osuus vuorovaikutuksessa ja hyvinvoinnissa on myös yksi laulun psykologisista ilmiöistä. Tunteet ovat keskeinen osa vuorovaikutusta, ja niitä voidaan pohtia esim. empatian ja peilisolujen kautta. Laulun sanoissa\n\nja psykologisissa tutkimuksissa painotetaan kosketuksen merkitystä ihmisten välisessä vuorovaikutuksessa. Kosketuksen yhteydessä voidaan myös mainita sen vaikutus aivojen välittäjäaineiden tuotantoon. Omien ja muiden tunteiden tunnistaminen ja ymmärtäminen ovat osa psyykkistä hyvinvointia. Toisen tunteiden\n\nymmärtäminen vaatii mielenteoriaa, jota on mahdollista käsitellä vastauksessa. Laulun sanoja voidaan selittää myös aikuisten välisillä kiintymyssuhteilla. Laulun lyriikat antavat mahdollisuuksia monenlaisiin tulkintoihin.\n\n&NewLine;\n\n**9−11 p**. Vastauksessa selitetään jokin laulun sanoista tulkittavissa oleva psykologinen ilmiö hyvin tai\n\nmuutamia psykologisia ilmiöitä tyydyttävästi. Aineistoa on käytetty melko hyvin.\n\n&NewLine;\n\n**15−17 p**. Vastauksessa on selitetty laulun sanoista tulkittavissa olevia psykologisia ilmiöitä kiitettävästi. Aineistoon viitataan usein ja sitä on hyödynnetty hyvin.\n",
+          "exam_id": 67731,
+          "content": {
+            "text": "**Psykologiset ilmiöt Anna Puun Keho puhuu -laulun sanoissa 20 p.**\n\n​\n\nSelitä, mistä psykologiaan liittyvistä ilmiöistä Anna Puun Keho puhuu -laulu (aineisto 4. A) kertoo.\n\n​\n\n**Aineisto **\n\n​\n\n4.A Teksti: [LINK url=http://yle.fi/plus/abitreenit/2020/kevat/2020-03-26\\_PS\\_fi/attachments/index.html#4.%20A|text=Anna Puun Keho puhuu -kappaleen sanat]\n",
+            "displayNumber": "4."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-05-11T07:12:16.989362",
+          "max_score": null,
+          "groupping": null,
+          "id": 2250128,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "ad4788f8-5f7c-4d32-80de-bfc054a17912",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2020-04-02T12:50:35.038934"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Psyykkisten toimintojen ja aivojen suhde 20 p.**\n\n&NewLine;\n\nAnna kaksi esimerkkiä siitä, miten psyykkisten toimintojen ja aivojen suhteesta voidaan saada tietoa. Vastauksen enimmäispituus on 2 000 merkkiä.\n",
+          "deleted_at": null,
+          "feedback": "Psyykkisten toimintojen ja aivojen suhteesta saadaan tietoa etenkin toiminnallisten, mutta myös rakenteellisten aivotutkimusmenetelmien avulla sekä tutkimalla aivovauriopotilaita. Toiminnallisilla aivokuvantamismenetelmillä voidaan esimerkiksi tutkia, mitkä aivoalueet ovat aktiivisimpia, kun henkilö suorittaa jotain tehtävää. Toiminnallinen magneettikuvaus (fMRI), yksifotoniemissiotomografia (SPECT),\n\npositroniemissiotomografia (PET) ja optinen kuvantaminen (NIRS) mittaavat muutoksia aivojen verenkierrossa. Elektroenkefalografia (EEG) mittaa aivojen sähköistä ja magnetoenkefalografia (MEG) niiden magneettista toimintaa. Rakenteellisilla aivokuvantamismenetelmillä voidaan puolestaan esimerkiksi tutkia\n\naivojen rakenteita ja niiden poikkeavuuksia suhteessa siihen, miten henkilö suoriutuu tehtävistä. Näihin lukeutuvat tietokonetomografia (CT/CAT) ja magneettikuvaus (MRI). Kuvantamismenetelmien ohella aivojen toimintaan voidaan myös pyrkiä vaikuttamaan: transkraniaalinen magneettistimulaatio (TMS) mahdollistaa aivojen sähköisen toiminnan paikallisen häiritsemisen samaan aikaan, kun tutkittava suorittaa tehtävää. Ennen nykyisten aivokuvantamismenetelmien aikaa aivojen toiminnoista saatiin tietoa aivovauriopotilaiden avulla esimerkiksi niin, että tutkittiin aivovaurion paikan ja laadun sekä tehtävästä suoriutumisen välisiä\n\nyhteyksiä. On kuitenkin muistettava, että vain osa psyykkisistä toiminnoista liittyy selvärajaisen aivoalueen toimintaan ja monet psyykkiset toiminnot syntyvät useiden aivoalueiden laajasta yhteistyöstä.\n\n&NewLine;\n\n**9−11 p.** Vastauksessa kuvataan kaksi esimerkkiä siitä, miten psyykkisten toimintojen ja aivojen suhteesta voidaan saada tietoa. Vastaukseen sisältyy pääosin mielekästä psykologista tietoa ja käsitteistöä. Tiedon hallinta on hyvää, mutta osittain rajoittunutta. Vastaus on pääosin tehtävänannon mukainen, mutta osa tekstistä jää irralliseksi.\n\n&NewLine;\n\n**15−17 p**. Vastauksessa kuvataan kattavasti kahden esimerkin kautta, miten psyykkisten toimintojen ja aivojen suhteesta saadaan tietoa. Vastaukseen sisältyy monipuolista psykologista tietoa ja käsitteistöä. Tiedon hallinta on kiitettävää. Vastaus on pääosin tehtävänannon mukainen. Vastaus muodostaa kiitettävän\n\nkokonaisuuden.\n\n&NewLine;\n\nJos merkkejä on 50 % yli sallitun määrän, vähennetään 2 pistettä, 100 % ylityksestä vähennetään 4 pistettä.\n",
+          "exam_id": 67731,
+          "content": {
+            "text": "**Psyykkisten toimintojen ja aivojen suhde 20 p.**\n\n&NewLine;\n\nAnna kaksi esimerkkiä siitä, miten psyykkisten toimintojen ja aivojen suhteesta voidaan saada tietoa. Vastauksen enimmäispituus on 2 000 merkkiä.\n",
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-05-11T07:12:16.986644",
+          "max_score": null,
+          "groupping": null,
+          "id": 2250084,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "3839954f-b407-419e-a28a-01297bb43ca3",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2020-04-02T12:41:26.129697"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Psykologiset näkökulmat Positiiviseen CV:hen 20 p.**\n\n&NewLine;\n\nVideolla 6. A ja tekstissä 6. B esitellään Positiivinen CV. Mitä psykologisia vaikutuksia Positiivisella CV:llä voi olla lapsiin ja nuoriin?\n\n&NewLine;\n\n**Aineisto**\n\n&NewLine;\n\n6.A Video: [LINK url=http://yle.fi/plus/abitreenit/2020/kevat/2020-03-26\\_PS\\_fi/attachments/index.html#6.%20A|text=Positiivinen CV]\n\n6.B Teksti: [LINK url=http://yle.fi/plus/abitreenit/2020/kevat/2020-03-26\\_PS\\_fi/attachments/index.html#6.%20B|text=Positiivisen CV:n esittelyteksti]\n",
+          "deleted_at": null,
+          "feedback": "Positiivisella CV:llä lapset ja nuoret harjoittelevat itsestään ja omista taidoistaan kertomista ja niiden arvioimista. Kertominen ja arvioiminen kehittävät metakognitiota omista taidoista, ja samalla lapsen tai nuoren minäkäsitys tarkentuu. Prosessi voi myös tukea nuoren identiteetin kehitystä konkretisoimalla omaa\n\nosaamista ja mielenkiinnon kohteita. Toinen keskeinen näkökulma Positiiviseen CV:hen on motivaatio. Kun omat taidot ja kiinnostuksen kohteet hahmottuvat paremmin, saattaa myös motivaatio niiden kehittämiseen kasvaa. Taitojen listaaminen voi kehittää lapsen tai nuoren minäpystyvyyden kokemusta.\n\nMyös persoonallisuuspsykologia tarjoaa näkökulmia kysymykseen vastaamiseen. Positiivinen CV tarjoaa\n\n&NewLine;\n\nmahdollisuuden ilmaista omaa persoonallisuutta ja tavan tulkita omia mielenkiinnon kohteita ja taitoja. Kognitiivisen psykologian näkökulmasta Positiivista CV:tä on mahdollista tarkastella esimerkiksi havaintokehän kautta. Sisäiset mallit ohjaavat havaitsemista: asiat, joihin kiinnittää itsessään huomiota, havaitsee, ja näin Positiivisesta CV:stä voi tulla itseään toteuttava ennuste. Selittämiseen voi käyttää myös selviytymisennusteen käsitettä, jonka mukaan positiivinen minäkuva ja usko omaan pärjäämiseen lisää motivaatiota ja sitä kautta onnistumisen kokemuksia.\n\n&NewLine;\n\n**9−11 p.** Vastauksessa on erilaisia psykologisia näkökulmia Positiivisen CV:n vaikutuksista. Psykologisen\n\ntiedon ja käsitteistön hallinta on hyvää. Vastauksessa on käytetty aineistoa melko hyvin.\n\n&NewLine;\n\n**15−17 p.** Vastauksessa on monia psykologisia näkökulmia Positiivisen CV:n vaikutuksista. Psykologista tietoa\n\nsovelletaan kiitettävästi vastauksen perusteluissa ja pohdinnassa. Aineistoa on hyödynnetty hyvin.\n",
+          "exam_id": 67731,
+          "content": {
+            "text": "**Psykologiset näkökulmat Positiiviseen CV:hen 20 p.**\n\n&NewLine;\n\nVideolla 6. A ja tekstissä 6. B esitellään Positiivinen CV. Mitä psykologisia vaikutuksia Positiivisella CV:llä voi olla lapsiin ja nuoriin?\n\n&NewLine;\n\n**Aineisto**\n\n&NewLine;\n\n6.A Video: [LINK url=http://yle.fi/plus/abitreenit/2020/kevat/2020-03-26\\_PS\\_fi/attachments/index.html#6.%20A|text=Positiivinen CV]\n\n6.B Teksti: [LINK url=http://yle.fi/plus/abitreenit/2020/kevat/2020-03-26\\_PS\\_fi/attachments/index.html#6.%20B|text=Positiivisen CV:n esittelyteksti]\n",
+            "displayNumber": "6."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-05-11T07:12:16.981287",
+          "max_score": null,
+          "groupping": null,
+          "id": 2250163,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "7787d493-15ee-4b51-8669-b17d285852ef",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2020-04-02T12:57:29.033678"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Lapsen iän arvioiminen **20 p.**\n\n​\n\nArvioi, minkä ikäinen videolla [LINK text=3. A|url=https://yle.fi/plus/abitreenit/2020/kevat/2020-03-26\\_PS\\_fi/attachments/index.html#3.%20A] esiintyvä lapsi on. Perustele päätelmäsi lapsen iästä kehityspsykologisen tiedon valossa. Vastauksen enimmäispituus on 2 000 merkkiä.\n\n​\n\nAineisto\n\n[LINK text=Video: Lapsi tekemässä tehtäviä aikuisen kanssa|url=https://yle.fi/plus/abitreenit/2020/kevat/2020-03-26\\_PS\\_fi/attachments/index.html#3.%20A]\n",
+          "deleted_at": null,
+          "feedback": "Videolla esiintyy 4,5-vuotias lapsi. Lapsen ikä on selkeimmin pääteltävissä lapsen kielen ja ajattelun kautta. Yleensä lapsen puhe alkaa olla vieraalle aikuiselle ymmärrettävää noin kolmen vuoden iässä. Samoihin aikoihin lapsen puheeseen tulee mm. vertailumuotoja, monikkoja sekä kysymyssanoja. Videolla tehdään\n\nklassisia määränarviointitehtäviä. Lapsi ei yleensä ymmärrä pysyvyyden käsitettä ennen viittä ikävuotta. Lapsi ei ymmärrä, että aineen ulkonäön muuttuminen ei muuta sen määrää, ja lapsen huomio kiinnittyy asian hallitsevaan ominaisuuteen. Vastauksessa voidaan hyödyntää Piaget’n ajattelun kehityksen teoriaa. Sen mukaan videon lapsi on esioperationaalisessa vaiheessa (2–7 v). Esioperationaalisen vaiheen jälkeen konkreettisten operaatioiden vaiheessa (7–12 v) lapsella on jo taito hahmottaa määrän pysyvyys. Vastauksessa voidaan huomioida myös lapsen taito keskittyä tehtävään (toiminnanohjaustaitojen kehitys) ja laskea kolikkojen määrä sekä hänen kykyynsä olla vuorovaikutuksessa aikuisen kanssa. Hyvässä vastauksessa lapsen ikä arvioidaan lähelle lapsen oikeaa ikää. Arviota iästä on perusteltu kehityspsykologisen tiedon varassa: miksi lapsi ei todennäköisesti ole arvioitua ikää nuorempi tai vanhempi. Hyvässä vastauksessa\n\nhuomioidaan myös se, että lasten taidoissa voi olla isojakin yksilöiden välisiä eroja.\n\n&NewLine;\n\n**9–11 p.** Vastauksessa lapsen ikä on arvioitu melko lähelle lapsen oikeaa ikää (3–6 v). Arviota lapsen iästä on perusteltu käyttäen pääosin mielekästä psykologista tietoa ja käsitteistöä. Tiedon hallinta on hyvää, mutta osin rajoittunutta. Aineistoa on hyödynnetty melko hyvin. Vastaus on jäsentynyt. Perusteluja on useissa kohdissa ja ne ovat paikkansa pitäviä.\n\n&NewLine;\n\n**15–17 p.** Vastauksessa lapsen ikä on arvioitu hyvin lähelle lapsen oikeaa ikää (3,5–5 v). Arviota lapsen iästä on perusteltu käyttäen monipuolista psykologista tietoa ja käsitteistöä. Tiedon hallinta on kiitettävää. Vastaus on pääosin tehtävänannon mukainen. Aineistoa on hyödynnetty hyvin. Vastaus muodostaa kiitettävän kokonaisuuden. Arviota lapsen iästä on perusteltu selkeästi ja vakuuttavasti.\n\n&NewLine;\n\nJos merkkejä on 50 % yli sallitun määrän, vähennetään 2 pistettä, 100 % ylityksestä vähennetään 4 pistettä.\n",
+          "exam_id": 67731,
+          "content": {
+            "text": "Lapsen iän arvioiminen **20 p.**\n\n​\n\nArvioi, minkä ikäinen videolla [LINK text=3. A|url=https://yle.fi/plus/abitreenit/2020/kevat/2020-03-26\\_PS\\_fi/attachments/index.html#3.%20A] esiintyvä lapsi on. Perustele päätelmäsi lapsen iästä kehityspsykologisen tiedon valossa. Vastauksen enimmäispituus on 2 000 merkkiä.\n\n​\n\nAineisto\n\n[LINK text=Video: Lapsi tekemässä tehtäviä aikuisen kanssa|url=https://yle.fi/plus/abitreenit/2020/kevat/2020-03-26\\_PS\\_fi/attachments/index.html#3.%20A]\n",
+            "displayNumber": "3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-05-11T07:12:16.959826",
+          "max_score": null,
+          "groupping": null,
+          "id": 2250098,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "dfdafd35-c3f6-490a-81e1-43670549cd87",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2020-04-02T12:45:29.847511"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Osa III: 30 pisteen tehtävät\n\nVastaa 1–2 tehtävään.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 67731,
+          "content": {
+            "text": "### Osa III: 30 pisteen tehtävät\n\nVastaa 1–2 tehtävään.\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-05-11T07:12:17.024476",
+          "max_score": null,
+          "groupping": null,
+          "id": 2250218,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "356c4fc6-c07b-4805-9cf7-63c6812f4fca",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2020-04-02T13:04:17.520235"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Osa II: 20 pisteen tehtävät\n\nVastaa 1–2 tehtävään.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 67731,
+          "content": {
+            "text": "### Osa II: 20 pisteen tehtävät\n\nVastaa 1–2 tehtävään.\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-05-11T07:12:17.026305",
+          "max_score": null,
+          "groupping": null,
+          "id": 2250127,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "49e677ec-fc58-429b-8246-faa7cd832f55",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2020-04-02T12:50:35.035938"
+        }
+      ],
+      "name": "Psykologia, kevät 2020",
+      "settings": {
+        "hideTitle": false,
+        "overrideTitle": true
+      },
+      "exam_type": "yo-koe",
+      "classification": {
+        "category": "",
+        "disable_saving": false,
+        "hide_review_buttons": false,
+        "exam_type": "yo-koe",
+        "year": "2020",
+        "language": "fi-FI",
+        "hide_statistics": false,
+        "show_exam_series": false,
+        "force_yletunnus": false,
+        "subject": "psykologia",
+        "published": true,
+        "semester": "spring"
+      },
+      "published_at": "2020-04-07T14:05:28.000Z",
+      "language": "fi-FI",
+      "id": 67731,
+      "reviews": [],
+      "is_open": true,
+      "uuid": "390112a7-2c15-49cb-81ff-f8d3c010702f"
+    }
+  ]
+}

@@ -1,0 +1,2305 @@
+{
+  "meta": {
+    "count": 1
+  },
+  "data": [
+    {
+      "tags": [
+        ""
+      ],
+      "main_text": "Koe koostuu 11 tehtävästä, joista vastataan seitsemään. Tehtävät on jaettu kolmeen osaan. Osassa 1 on yksi kaikille pakollinen 20 pisteen tehtävä. Osassa 2 on seitsemän 15 pisteen tehtävää, joista vastataan neljään. Osassa 3 on kolme 20 pisteen tehtävää, joista vastataan kahteen. Kokeen maksimipistemäärä on 120. Kaikki annetut vastaukset tulee perustella, jos perusteleminen on vastausteknisesti mahdollista. Voit tuottaa vastausten tueksi piirroksia, kaavioita tai taulukoita ja liittää niistä kuvakaappauksen mihin tahansa tekstivastaukseen.\n\n\n\nÄlä jätä mitään merkintöjä sellaisen tehtävän vastaukselle varattuun tilaan, jota et halua jättää arvosteltavaksi.",
+      "characters": null,
+      "deleted_at": null,
+      "series_uuids": [],
+      "questions": [
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### \nTrampoliinin venymä on suurimmillaan ja lapsen liikkeen suunta on juuri vaihtumassa. Mikä seuraavista väittämistä pätee tilanteessa? 2 p.\n\n[LINK url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22_FY_fi/#1.2|text=Katso kuva tästä]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 145523,
+          "content": {
+            "text": "#### \nTrampoliinin venymä on suurimmillaan ja lapsen liikkeen suunta on juuri vaihtumassa. Mikä seuraavista väittämistä pätee tilanteessa? 2 p.\n\n[LINK url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22_FY_fi/#1.2|text=Katso kuva tästä]",
+            "displayNumber": "1.2"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:16:21.378978",
+          "max_score": 2,
+          "groupping": null,
+          "id": 5079677,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 27,
+              "text": "Trampoliini ei kohdista lapseen voimaa.",
+              "parent": "2bf8190e-8de2-4f8e-b5aa-4f01b498b2f6",
+              "choices": []
+            },
+            {
+              "id": 28,
+              "text": "Trampoliinin lapseen kohdistama voima on yhtä suuri kuin lapsen paino.",
+              "parent": "2bf8190e-8de2-4f8e-b5aa-4f01b498b2f6",
+              "choices": []
+            },
+            {
+              "id": 29,
+              "text": "Trampoliinin lapseen kohdistama voima on suurempi kuin lapsen paino.",
+              "parent": "2bf8190e-8de2-4f8e-b5aa-4f01b498b2f6",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 30,
+              "text": "Trampoliinin lapseen kohdistama voima on pienempi kuin lapsen paino.",
+              "parent": "2bf8190e-8de2-4f8e-b5aa-4f01b498b2f6",
+              "choices": []
+            }
+          ],
+          "uuid": "2bf8190e-8de2-4f8e-b5aa-4f01b498b2f6",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2022-12-09T09:31:22.972233"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Lapsi on noussut ilmaan uuteen hyppyyn. Mikä seuraavista väittämistä kuvaa parhaiten lapsen liikettä trampoliinista irtoamisen jälkeen? 2 p.\n\n[LINK url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22_FY_fi/#1.3|text=Katso kuva tästä]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 145523,
+          "content": {
+            "text": "#### Lapsi on noussut ilmaan uuteen hyppyyn. Mikä seuraavista väittämistä kuvaa parhaiten lapsen liikettä trampoliinista irtoamisen jälkeen? 2 p.\n\n[LINK url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22_FY_fi/#1.3|text=Katso kuva tästä]",
+            "displayNumber": "1.3"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:16:21.37543",
+          "max_score": 2,
+          "groupping": null,
+          "id": 5079708,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 27,
+              "text": "Lapsen nopeus pienenee.",
+              "parent": "4ada5da3-26c7-482f-9b01-f70330c6c2ab",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 28,
+              "text": "Lapsen nopeus pysyy vakiona.",
+              "parent": "4ada5da3-26c7-482f-9b01-f70330c6c2ab",
+              "choices": []
+            },
+            {
+              "id": 29,
+              "text": "Lapsen nopeus kasvaa hetken ja alkaa sitten pienentyä.",
+              "parent": "4ada5da3-26c7-482f-9b01-f70330c6c2ab",
+              "choices": []
+            },
+            {
+              "id": 30,
+              "text": "Lapsen nopeus on hetken vakio ja alkaa sitten pienentyä.",
+              "parent": "4ada5da3-26c7-482f-9b01-f70330c6c2ab",
+              "choices": []
+            }
+          ],
+          "uuid": "4ada5da3-26c7-482f-9b01-f70330c6c2ab",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2022-12-09T09:31:23.080372"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### **Kun kaksi metallikappaletta on kosketuksissa toistensa kanssa, havaitaan että niiden välillä ei siirry energiaa lämpönä. Mikä seuraavista väittämistä pitää** **varmasti** paikkansa tilanteessa? 2 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 145523,
+          "content": {
+            "text": "#### **Kun kaksi metallikappaletta on kosketuksissa toistensa kanssa, havaitaan että niiden välillä ei siirry energiaa lämpönä. Mikä seuraavista väittämistä pitää** **varmasti** paikkansa tilanteessa? 2 p.",
+            "displayNumber": "1.4"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:16:21.371729",
+          "max_score": 2,
+          "groupping": null,
+          "id": 5079727,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 27,
+              "text": "Kappaleilla on yhtä suuret massat.",
+              "parent": "434856d7-ecf2-4d5a-8d1e-22c08bdf56bd",
+              "choices": []
+            },
+            {
+              "id": 28,
+              "text": "Kappaleilla on yhtä suuret lämpökapasiteetit.",
+              "parent": "434856d7-ecf2-4d5a-8d1e-22c08bdf56bd",
+              "choices": []
+            },
+            {
+              "id": 29,
+              "text": "Kappaleet on valmistettu samasta materiaalista.",
+              "parent": "434856d7-ecf2-4d5a-8d1e-22c08bdf56bd",
+              "choices": []
+            },
+            {
+              "id": 30,
+              "text": "Kappaleilla on sama lämpötila.",
+              "parent": "434856d7-ecf2-4d5a-8d1e-22c08bdf56bd",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "434856d7-ecf2-4d5a-8d1e-22c08bdf56bd",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2022-12-09T09:31:23.13665"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Miten sähköstaattinen pölyhuiska saa sähkövarauksensa? 2 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 145523,
+          "content": {
+            "text": "#### Miten sähköstaattinen pölyhuiska saa sähkövarauksensa? 2 p.",
+            "displayNumber": "1.6"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:16:21.368153",
+          "max_score": 2,
+          "groupping": null,
+          "id": 5079723,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 27,
+              "text": "Huiskan liikutteleminen maan magneettikentässä indusoi huiskaan sähkövarauksen.",
+              "parent": "5fa47ece-9077-4153-a9eb-939e246e0c94",
+              "choices": []
+            },
+            {
+              "id": 28,
+              "text": "Huiskassa oleva paristo varaa huiskan.",
+              "parent": "5fa47ece-9077-4153-a9eb-939e246e0c94",
+              "choices": []
+            },
+            {
+              "id": 29,
+              "text": "Huiska varataan pysyvästi jo valmistusvaiheessa.",
+              "parent": "5fa47ece-9077-4153-a9eb-939e246e0c94",
+              "choices": []
+            },
+            {
+              "id": 30,
+              "text": "Huiskan kuidut hankaavat toisiaan ja puhdistettavaa pintaa, mikä aiheuttaa varautumisen.",
+              "parent": "5fa47ece-9077-4153-a9eb-939e246e0c94",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "5fa47ece-9077-4153-a9eb-939e246e0c94",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2022-12-09T09:31:23.123975"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Auringonvalo osuu metallilevyyn lämmittäen sitä. Mikä seuraavista väittämistä pitää paikkansa energian siirtyessä valosta metallilevyyn? 2 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 145523,
+          "content": {
+            "text": "#### Auringonvalo osuu metallilevyyn lämmittäen sitä. Mikä seuraavista väittämistä pitää paikkansa energian siirtyessä valosta metallilevyyn? 2 p.",
+            "displayNumber": "1.9"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:16:21.36274",
+          "max_score": 2,
+          "groupping": null,
+          "id": 5079721,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 27,
+              "text": "Energiaa siirtyy kvantteina, joiden suuruuden määrää säteilyn intensiteetti.",
+              "parent": "850dc50f-627f-4bc4-a46e-ac1eec724b7d",
+              "choices": []
+            },
+            {
+              "id": 28,
+              "text": "Energiaa siirtyy jatkuvana virtana, jonka voimakkuuden määräävät säteilyn intensiteetti ja aallonpituus.",
+              "parent": "850dc50f-627f-4bc4-a46e-ac1eec724b7d",
+              "choices": []
+            },
+            {
+              "id": 29,
+              "text": "Energiaa siirtyy kvantteina, joiden suuruuden määrää säteilyn etenemisnopeus.",
+              "parent": "850dc50f-627f-4bc4-a46e-ac1eec724b7d",
+              "choices": []
+            },
+            {
+              "id": 30,
+              "text": "Energiaa siirtyy kvantteina, joiden suuruuden määrää säteilyn aallonpituus.",
+              "parent": "850dc50f-627f-4bc4-a46e-ac1eec724b7d",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "850dc50f-627f-4bc4-a46e-ac1eec724b7d",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2022-12-09T09:31:23.117292"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Vastapainohissi 15 p.\n\nAineisto\n\n[LINK text=Kuva: Vastapainohissi|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22_FY_fi/attachments/index.html#3.A]\n\n\n\nKuva[LINK text= 3.A|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22_FY_fi/attachments/index.html#3.A] esittää yksinkertaista vastapainohissiä. Hissikorin ja siinä olevan kuorman yhteismassa on 830 kg ja vastapainon massa 670 kg. Hissikorin ja vastapainon yhdistävä vaijeri ei pääse liukumaan sähkömoottorin akselilla olevalla vetopyörällä. Hissi lähtee liikkeelle ylöspäin, ja sen nopeus kasvaa 1,2 sekunnissa tasaisesti nollasta arvoon 1,6 m/s.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 145523,
+          "content": {
+            "text": "### Vastapainohissi 15 p.\n\nAineisto\n\n[LINK text=Kuva: Vastapainohissi|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22_FY_fi/attachments/index.html#3.A]\n\n\n\nKuva[LINK text= 3.A|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22_FY_fi/attachments/index.html#3.A] esittää yksinkertaista vastapainohissiä. Hissikorin ja siinä olevan kuorman yhteismassa on 830 kg ja vastapainon massa 670 kg. Hissikorin ja vastapainon yhdistävä vaijeri ei pääse liukumaan sähkömoottorin akselilla olevalla vetopyörällä. Hissi lähtee liikkeelle ylöspäin, ja sen nopeus kasvaa 1,2 sekunnissa tasaisesti nollasta arvoon 1,6 m/s.",
+            "displayNumber": "3."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "37f4b7b4-2671-44b2-b590-2a3c510d49b6",
+            "bbb19661-cd3d-4845-9c0a-e87174f3f0f5"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-12-08T09:16:21.341593",
+          "max_score": null,
+          "groupping": null,
+          "id": 5079702,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "f48e7de2-a959-478d-a286-d2ed0b04edee",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2022-12-09T09:31:23.062622"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Varatut kuulat 15 p.\n\nKaksi identtistä pientä sähköisesti varattua alumiinikuulaa pidetään aluksi 0,10 metrin etäisyydellä toisistaan. Kuulat vetävät toisiaan puoleensa 1,0 newtonin voimilla. Kuulien annetaan koskettaa toisiaan, minkä jälkeen ne siirretään takaisin 0,10 metrin etäisyydelle. Kuulien väliset voimat ovat edelleen 1,0 newtonia, mutta nyt kuulat hylkivät toisiaan.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 145523,
+          "content": {
+            "text": "### Varatut kuulat 15 p.\n\nKaksi identtistä pientä sähköisesti varattua alumiinikuulaa pidetään aluksi 0,10 metrin etäisyydellä toisistaan. Kuulat vetävät toisiaan puoleensa 1,0 newtonin voimilla. Kuulien annetaan koskettaa toisiaan, minkä jälkeen ne siirretään takaisin 0,10 metrin etäisyydelle. Kuulien väliset voimat ovat edelleen 1,0 newtonia, mutta nyt kuulat hylkivät toisiaan.",
+            "displayNumber": "5."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "e9370744-a12c-4163-98e0-86112df0d400",
+            "1447fe66-96c3-4861-a988-4ae37ada1964"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-12-08T09:16:21.333303",
+          "max_score": null,
+          "groupping": null,
+          "id": 5079712,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "fac21961-2863-445e-aa92-c87626db774a",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2022-12-09T09:31:23.0913"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Määritä, mitkä olivat kuulien varaukset ennen kuin kuulat koskettivat toisiaan. 8 p.",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/12UxfOG6F7nIE2wsc9GG8gDgxF0t-UXdE/view|text=Katso kuva täältä]",
+          "exam_id": 145523,
+          "content": {
+            "text": "#### Määritä, mitkä olivat kuulien varaukset ennen kuin kuulat koskettivat toisiaan. 8 p.",
+            "displayNumber": "5.2"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:16:21.330531",
+          "max_score": null,
+          "groupping": null,
+          "id": 5079714,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "1447fe66-96c3-4861-a988-4ae37ada1964",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2022-12-09T09:31:23.097548"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Sähkömagneettinen induktio 15 p.\n\nAineisto\n\n[LINK text=Kuva: Kuvaajat A–H|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22_FY_fi/attachments/index.html#6.A]\n\n\n\nKaikissa alla olevissa tapauksissa 6.1–6.5 neliön muotoinen johdinsilmukka on äärellisen kokoisessa homogeenisessa magneettikentässä. Valitse kussakin tapauksessa 6.1–6.5 se aineiston [LINK text=6.A|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22_FY_fi/attachments/index.html#6.A] kuvaaja A–H, joka parhaiten kuvaa silmukkaan indusoituvaa sähkövirtaa ajan funktiona. Kukin aineiston kuvaajista voi olla oikea vastaus yhteen, useampaan tai ei yhteenkään osatehtävään.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 145523,
+          "content": {
+            "text": "### Sähkömagneettinen induktio 15 p.\n\nAineisto\n\n[LINK text=Kuva: Kuvaajat A–H|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22_FY_fi/attachments/index.html#6.A]\n\n\n\nKaikissa alla olevissa tapauksissa 6.1–6.5 neliön muotoinen johdinsilmukka on äärellisen kokoisessa homogeenisessa magneettikentässä. Valitse kussakin tapauksessa 6.1–6.5 se aineiston [LINK text=6.A|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22_FY_fi/attachments/index.html#6.A] kuvaaja A–H, joka parhaiten kuvaa silmukkaan indusoituvaa sähkövirtaa ajan funktiona. Kukin aineiston kuvaajista voi olla oikea vastaus yhteen, useampaan tai ei yhteenkään osatehtävään.",
+            "displayNumber": "6."
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "ff657aec-81d4-43fe-b67e-5a0fdc622115",
+            "c48312cb-b966-4acc-a94b-2bfc40c346ba",
+            "e55d9aaa-03c1-4e9b-b862-6a52574ffdec",
+            "541b23e6-c09a-4799-b36c-cac28edbf398",
+            "dfb2f23d-1f99-4740-a388-ee40d70731b4"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-12-08T09:16:21.327291",
+          "max_score": null,
+          "groupping": null,
+          "id": 5079684,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "b7b51255-62f2-4578-8e95-752fc772ad6b",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2022-12-09T09:31:23.001691"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Kirurginen polttolaite 15 p.\n\nAineisto\n\n[LINK text=Kuva: Bipolaarinen kirurginen polttolaite|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22_FY_fi/attachments/index.html#4.A]\n\n\n\nKirurgista diatermialaitetta eli polttolaitetta käytetään muun muassa luomien poistossa sekä verenvuotojen tyrehdyttämisessä. Polttoprosessissa laitteella johdetaan korkeataajuuksista vaihtovirtaa kudosalueen läpi, jolloin kudos käyttäytyy vaihtovirran korkean taajuuden takia vastuksen tavoin. Kuvassa [LINK text=4.A|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22_FY_fi/attachments/index.html#4.A] on esitetty bipolaarinen diatermialaite. Tarkastellaan kirurgista toimenpidettä, jossa käytettävä diatermialaite tuottaa sinimuotoista vaihtovirtaa 58 watin teholla.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 145523,
+          "content": {
+            "text": "### Kirurginen polttolaite 15 p.\n\nAineisto\n\n[LINK text=Kuva: Bipolaarinen kirurginen polttolaite|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22_FY_fi/attachments/index.html#4.A]\n\n\n\nKirurgista diatermialaitetta eli polttolaitetta käytetään muun muassa luomien poistossa sekä verenvuotojen tyrehdyttämisessä. Polttoprosessissa laitteella johdetaan korkeataajuuksista vaihtovirtaa kudosalueen läpi, jolloin kudos käyttäytyy vaihtovirran korkean taajuuden takia vastuksen tavoin. Kuvassa [LINK text=4.A|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22_FY_fi/attachments/index.html#4.A] on esitetty bipolaarinen diatermialaite. Tarkastellaan kirurgista toimenpidettä, jossa käytettävä diatermialaite tuottaa sinimuotoista vaihtovirtaa 58 watin teholla.",
+            "displayNumber": "4."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "21768f26-931a-446b-9c3e-419a89aab51e",
+            "fb0ac771-c2f4-4c3d-9c69-3d5a4ceef4fc",
+            "ea82b133-265b-46f6-a6ca-55af5cacc334"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-12-08T09:16:21.32469",
+          "max_score": null,
+          "groupping": null,
+          "id": 5079703,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "ecb76678-2021-4b95-bcf3-8bd06aa9ed40",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2022-12-09T09:31:23.065157"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Astronautin hyppy 15 p.\n\n\n\nAineisto\n\n[LINK text=Video: Astronautti John Youngin hyppy|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22_FY_fi/attachments/index.html#2.A]\n\n[LINK text=Mittausaineisto: Astronautin repun yläosan etäisyys Kuun pinnasta ajan funktiona|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22_FY_fi/attachments/index.html#2.B]\n\n\n\nAstronautti John Young hyppäsi vuonna 1972 Kuun pinnalla lähes pystysuoran hypyn ylöspäin. Videoidusta hypystä (video[LINK text= 2.A|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22_FY_fi/attachments/index.html#2.A]) määritettiin astronautin repun yläosan etäisyys Kuun pinnasta ajan funktiona (mittausaineisto [LINK text=2.B|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22_FY_fi/attachments/index.html#2.B]).",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 145523,
+          "content": {
+            "text": "### Astronautin hyppy 15 p.\n\n\n\nAineisto\n\n[LINK text=Video: Astronautti John Youngin hyppy|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22_FY_fi/attachments/index.html#2.A]\n\n[LINK text=Mittausaineisto: Astronautin repun yläosan etäisyys Kuun pinnasta ajan funktiona|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22_FY_fi/attachments/index.html#2.B]\n\n\n\nAstronautti John Young hyppäsi vuonna 1972 Kuun pinnalla lähes pystysuoran hypyn ylöspäin. Videoidusta hypystä (video[LINK text= 2.A|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22_FY_fi/attachments/index.html#2.A]) määritettiin astronautin repun yläosan etäisyys Kuun pinnasta ajan funktiona (mittausaineisto [LINK text=2.B|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22_FY_fi/attachments/index.html#2.B]).",
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "db60e4e8-2013-4b88-a507-739aa35401c1",
+            "d1df568f-9cd1-4cdb-bb4f-c3dc82ef14b2",
+            "459433cf-f3fa-49bf-8cb5-13189352e136"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-12-08T09:16:21.318267",
+          "max_score": null,
+          "groupping": null,
+          "id": 5079706,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "9d0a6061-1325-40cb-b70d-dd91cd0eb5ef",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2022-12-09T09:31:23.074494"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Mitä eroa on veden kiehumisella ja veden höyrystymisellä? 2 p.**",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 145523,
+          "content": {
+            "text": "**Mitä eroa on veden kiehumisella ja veden höyrystymisellä? 2 p.**",
+            "displayNumber": "1.5"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:16:21.307941",
+          "max_score": 2,
+          "groupping": null,
+          "id": 5079728,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 27,
+              "text": "Kiehumista tapahtuu vain kiehumispisteessä, höyrystymistä myös alemmissa lämpötiloissa.",
+              "parent": "60583181-9a6c-4c24-bc36-c0dd4cac7d32",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 28,
+              "text": "Kiehumista voi tapahtua missä tahansa paineessa, mutta höyrystymistä vain, jos ilmanpaine ympärillä on enintään 1 013,25 hPa.",
+              "parent": "60583181-9a6c-4c24-bc36-c0dd4cac7d32",
+              "choices": []
+            },
+            {
+              "id": 29,
+              "text": "Ei mitään eroa, ne ovat saman ilmiön kaksi eri nimitystä.",
+              "parent": "60583181-9a6c-4c24-bc36-c0dd4cac7d32",
+              "choices": []
+            },
+            {
+              "id": 30,
+              "text": "Höyrystynyt vesi tiivistyy välittömästi takaisin nesteeksi, mutta kiehunut vesi jää kaasumaiseen olomuotoon.",
+              "parent": "60583181-9a6c-4c24-bc36-c0dd4cac7d32",
+              "choices": []
+            }
+          ],
+          "uuid": "60583181-9a6c-4c24-bc36-c0dd4cac7d32",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2022-12-09T09:31:23.139595"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Silmukkaa pyöritetään vakiokulmanopeudella silmukan pyörimisakselin ollessa kentän suuntainen. 3 p.\n\n\n\n[LINK text=Katso kuva tästä|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22_FY_fi/#6.2]\n\n\n\n[SELECT id=31]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 145523,
+          "content": {
+            "text": "#### Silmukkaa pyöritetään vakiokulmanopeudella silmukan pyörimisakselin ollessa kentän suuntainen. 3 p.\n\n\n\n[LINK text=Katso kuva tästä|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22_FY_fi/#6.2]\n\n\n\n[SELECT id=31]",
+            "displayNumber": "6.2"
+          },
+          "images": null,
+          "settings": {
+            "points": "3"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:16:21.302655",
+          "max_score": 3,
+          "groupping": null,
+          "id": 5079707,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 31,
+              "parent": "c48312cb-b966-4acc-a94b-2bfc40c346ba",
+              "choices": [
+                {
+                  "id": "e09485b2-04eb-412f-a904-ab41f1390781",
+                  "text": "A"
+                },
+                {
+                  "id": "3ddf83c5-baa0-4be6-86b5-da35c00c770c",
+                  "text": "B"
+                },
+                {
+                  "id": "282253dc-6bda-4ae9-ae03-f82855c29b52",
+                  "text": "C"
+                },
+                {
+                  "id": "447ca43f-71b1-4978-beaa-0b46e398d8b1",
+                  "text": "D"
+                },
+                {
+                  "id": "8bff6428-bbd2-42ee-abed-88d3b3abfd2a",
+                  "text": "E"
+                },
+                {
+                  "id": "19ac6455-2924-4def-8ff9-7e207efddd33",
+                  "text": "F"
+                },
+                {
+                  "id": "cb5a3500-e224-40cf-ba42-e5989527a3da",
+                  "text": "G"
+                },
+                {
+                  "id": "a6f70813-160e-427e-b75d-dc5c355f4ba9",
+                  "text": "H",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "c48312cb-b966-4acc-a94b-2bfc40c346ba",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2022-12-09T09:31:23.077247"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Silmukka on paikallaan. Magneettikenttä häviää äkillisesti. 3 p.**\n\n\n\n[LINK url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22_FY_fi/#6.4|text=Katso kuva tästä]\n\n\n\n[SELECT id=31]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 145523,
+          "content": {
+            "text": "**Silmukka on paikallaan. Magneettikenttä häviää äkillisesti. 3 p.**\n\n\n\n[LINK url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22_FY_fi/#6.4|text=Katso kuva tästä]\n\n\n\n[SELECT id=31]",
+            "displayNumber": "6.4"
+          },
+          "images": null,
+          "settings": {
+            "points": "3"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:16:21.297233",
+          "max_score": 3,
+          "groupping": null,
+          "id": 5079711,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 31,
+              "parent": "541b23e6-c09a-4799-b36c-cac28edbf398",
+              "choices": [
+                {
+                  "id": "34aef725-26f0-4f13-b7cc-7e1e173b7ea3",
+                  "text": "A"
+                },
+                {
+                  "id": "8ff7b2cb-6dd6-4002-a69f-f61db39d5214",
+                  "text": "B"
+                },
+                {
+                  "id": "0b0d4386-7a2c-4e8b-b4ef-20bd24845a79",
+                  "text": "C"
+                },
+                {
+                  "id": "af7723c9-2fcf-468b-b561-f950d9ded380",
+                  "text": "D"
+                },
+                {
+                  "id": "655f775b-d313-41e7-ae3b-16a13d0a93a3",
+                  "text": "E"
+                },
+                {
+                  "id": "aeeadbdf-a763-41ac-aa40-9718b7431f39",
+                  "text": "F"
+                },
+                {
+                  "id": "a80aa53f-6d71-4b8e-aa80-77e67fcec0fb",
+                  "text": "G",
+                  "correct": true
+                },
+                {
+                  "id": "0412f74f-4270-434d-a219-4dd9ade3d4b0",
+                  "text": "H"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "541b23e6-c09a-4799-b36c-cac28edbf398",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2022-12-09T09:31:23.088663"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Eräästä Itä-Suomessa sijaitsevasta kivikautisesta asuinpaikasta löytyi kaivauksissa nisäkkään luu, jolle tehtiin massaspektrometrillä hiilen isotooppisuhteiden määritys. Isotooppiena [SUP text=14]C ja [SUP text=13]\nC lukumääräsuhteeksi saatiin [MATH text=3{,}5\\cdot 10^{-11}]  Arvioi, kuinka kauan aikaa sitten asuinpaikkaa käytettiin. 7 p.",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://tiedostot.ylioppilastutkinto.fi/kokeet/2022-09-22_FY_sv/grading-instructions.html#8.3|text=Se rätt svar här]",
+          "exam_id": 145523,
+          "content": {
+            "text": "Eräästä Itä-Suomessa sijaitsevasta kivikautisesta asuinpaikasta löytyi kaivauksissa nisäkkään luu, jolle tehtiin massaspektrometrillä hiilen isotooppisuhteiden määritys. Isotooppiena [SUP text=14]C ja [SUP text=13]\nC lukumääräsuhteeksi saatiin [MATH text=3{,}5\\cdot 10^{-11}]  Arvioi, kuinka kauan aikaa sitten asuinpaikkaa käytettiin. 7 p.",
+            "displayNumber": "8.3"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:16:21.290862",
+          "max_score": null,
+          "groupping": null,
+          "id": 5079687,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "b218b6e8-1f1b-436e-b32c-1ea2ea768559",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2022-12-09T09:31:23.010397"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Pienellä nappimagneetilla voi kiinnittää jääkaapin oveen yhden paperiarkin mutta ei kymmenen paperiarkin nippua. Mikä seuraavista on merkittävin syy tähän? 2 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 145523,
+          "content": {
+            "text": "#### Pienellä nappimagneetilla voi kiinnittää jääkaapin oveen yhden paperiarkin mutta ei kymmenen paperiarkin nippua. Mikä seuraavista on merkittävin syy tähän? 2 p.",
+            "displayNumber": "1.8"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:16:21.287506",
+          "max_score": 2,
+          "groupping": null,
+          "id": 5079722,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 27,
+              "text": "Paperi heikentää voimakkaasti nappimagneetin kenttää.",
+              "parent": "30fe8b88-79c9-4006-b5cc-edb000dc4493",
+              "choices": []
+            },
+            {
+              "id": 28,
+              "text": "Nappimagneetin magneettikenttä heikkenee nopeasti etäisyyden kasvaessa.",
+              "parent": "30fe8b88-79c9-4006-b5cc-edb000dc4493",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 29,
+              "text": "Magneettikenttä hajaantuu paperiarkkien ja ilman rajapinnoissa.",
+              "parent": "30fe8b88-79c9-4006-b5cc-edb000dc4493",
+              "choices": []
+            },
+            {
+              "id": 30,
+              "text": "Paperiarkkien välissä oleva ilma heikentää voimakkaasti nappimagneetin kenttää.",
+              "parent": "30fe8b88-79c9-4006-b5cc-edb000dc4493",
+              "choices": []
+            }
+          ],
+          "uuid": "30fe8b88-79c9-4006-b5cc-edb000dc4493",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2022-12-09T09:31:23.120207"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Peltipurkkipuhelin 15 p.\n\nAineisto\n\n[LINK text=Kuva: Peltipurkkipuhelin|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22_FY_fi/attachments/index.html#7.A]\n\n\n\nKuvassa [LINK text=7.A|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22_FY_fi/attachments/index.html#7.A] on esitetty yksinkertaisen peltipurkkipuhelimen rakenne. Vastaavanlainen peltipurkkipuhelin rakennettiin käyttäen kahta peltipurkkia ja 75 metriä pitkää messinkilankaa. Äänen vaimeneminen liitoskohdissa ja langassa saatiin pieneksi pitämällä puhelimen lanka kireällä, jolloin puhuja ja kuulija olivat 75 metrin etäisyydellä toisistaan.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 145523,
+          "content": {
+            "text": "### Peltipurkkipuhelin 15 p.\n\nAineisto\n\n[LINK text=Kuva: Peltipurkkipuhelin|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22_FY_fi/attachments/index.html#7.A]\n\n\n\nKuvassa [LINK text=7.A|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22_FY_fi/attachments/index.html#7.A] on esitetty yksinkertaisen peltipurkkipuhelimen rakenne. Vastaavanlainen peltipurkkipuhelin rakennettiin käyttäen kahta peltipurkkia ja 75 metriä pitkää messinkilankaa. Äänen vaimeneminen liitoskohdissa ja langassa saatiin pieneksi pitämällä puhelimen lanka kireällä, jolloin puhuja ja kuulija olivat 75 metrin etäisyydellä toisistaan.",
+            "displayNumber": "7."
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "a091eb90-cb08-4eb7-816e-ac6673d23e4e",
+            "b4685a41-0a31-476e-925c-e00469ebaa88",
+            "4c4ba396-8ee4-4f11-9249-2d0c14e94606"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-12-08T09:16:21.281311",
+          "max_score": null,
+          "groupping": null,
+          "id": 5079685,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "29faea73-8584-4091-997a-bf153c1b2efc",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2022-12-09T09:31:23.004293"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Suunnittele ja kuvaile mittaus, jolla voit määrittää tuntemattoman diodin ominaiskäyrän. Sinulla on käytössäsi diodin lisäksi johtimia, jännitemittari, välillä 0–5 V säädettävä tasajännitelähde sekä useita erilaisia vastuksia, joiden resistanssit tunnetaan. Millaisen ominaiskäyrän oletat saavasi tulokseksi? 14 p.\n\n\n",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/12UxfOG6F7nIE2wsc9GG8gDgxF0t-UXdE/view|text=Katso oikea vastaus täältä]",
+          "exam_id": 145523,
+          "content": {
+            "text": "#### Suunnittele ja kuvaile mittaus, jolla voit määrittää tuntemattoman diodin ominaiskäyrän. Sinulla on käytössäsi diodin lisäksi johtimia, jännitemittari, välillä 0–5 V säädettävä tasajännitelähde sekä useita erilaisia vastuksia, joiden resistanssit tunnetaan. Millaisen ominaiskäyrän oletat saavasi tulokseksi? 14 p.\n\n\n",
+            "displayNumber": "9.2"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:16:21.275374",
+          "max_score": null,
+          "groupping": null,
+          "id": 5079678,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "7cd030c9-3261-4ad8-936a-543bd77dc7a7",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2022-12-09T09:31:22.978945"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Isotooppi [SUP text=14]C syntyy ilmakehässä, kun typpiydin [SUP text=14]N ieppaa kosmisen säteilyn synnyttämän neutronin ja säteilee samalla protonin. [SUP text=14]C hajoaa [MATH text= \\beta^{-}]-hajoamisella. Kirjoita isotoopin [SUP text=14]C syntymisen ja hajoamisen reaktioyhtälöt. 4p.",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/12UxfOG6F7nIE2wsc9GG8gDgxF0t-UXdE/view|text=Katso oikea vastaus tästä]",
+          "exam_id": 145523,
+          "content": {
+            "text": "Isotooppi [SUP text=14]C syntyy ilmakehässä, kun typpiydin [SUP text=14]N ieppaa kosmisen säteilyn synnyttämän neutronin ja säteilee samalla protonin. [SUP text=14]C hajoaa [MATH text= \\beta^{-}]-hajoamisella. Kirjoita isotoopin [SUP text=14]C syntymisen ja hajoamisen reaktioyhtälöt. 4p.",
+            "displayNumber": "8.1"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:16:21.269857",
+          "max_score": null,
+          "groupping": null,
+          "id": 5079699,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "a550e067-9253-493b-ada7-c0da266836bb",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2022-12-09T09:31:23.05466"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Mikä seuraavista väittämistä pätee atomiytimen radioaktiivisessa hajoamisessa? 2 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 145523,
+          "content": {
+            "text": "#### Mikä seuraavista väittämistä pätee atomiytimen radioaktiivisessa hajoamisessa? 2 p.",
+            "displayNumber": "1.10"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:16:21.262839",
+          "max_score": 2,
+          "groupping": null,
+          "id": 5079724,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 27,
+              "text": "Kokonaissähkövaraus, kokonaisenergia ja kokonaisliikemäärä säilyvät.",
+              "parent": "cd008a49-a344-46e5-a700-b80b317fabf9",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 28,
+              "text": "Vain kokonaissähkövaraus ja kokonaisenergia säilyvät.",
+              "parent": "cd008a49-a344-46e5-a700-b80b317fabf9",
+              "choices": []
+            },
+            {
+              "id": 29,
+              "text": "Vain kokonaissähkövaraus säilyy.",
+              "parent": "cd008a49-a344-46e5-a700-b80b317fabf9",
+              "choices": []
+            },
+            {
+              "id": 30,
+              "text": "Vain kokonaisenergia ja kokonaisliikemäärä säilyvät.",
+              "parent": "cd008a49-a344-46e5-a700-b80b317fabf9",
+              "choices": []
+            }
+          ],
+          "uuid": "cd008a49-a344-46e5-a700-b80b317fabf9",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2022-12-09T09:31:23.126956"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Selitä, miksi kuplan värit vähitellen haalistuvat ja juuri ennen kuplan puhkeamista häviävät miltei kokonaan. 3 p.",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/12UxfOG6F7nIE2wsc9GG8gDgxF0t-UXdE/view|text=Katso oikea vastaus täältä]",
+          "exam_id": 145523,
+          "content": {
+            "text": "#### Selitä, miksi kuplan värit vähitellen haalistuvat ja juuri ennen kuplan puhkeamista häviävät miltei kokonaan. 3 p.",
+            "displayNumber": "10.2"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:16:21.259584",
+          "max_score": null,
+          "groupping": null,
+          "id": 5079694,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "00204e19-7bf1-46b9-8e0b-e06a8913df73",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2022-12-09T09:31:23.041391"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Saippuakupla puhkeaa yleensä muutamassa minutissa. Miksi se puhkeaa? Samasta määrästä nestettä voidaan puhaltaa erikokoisia kuplia. Miksi isot kuplat puhkeavat nopeammin kuin pienet kuplat? 4 p.",
+          "deleted_at": null,
+          "feedback": "Saippuakuplan pinnasta haihtuu vettä, mikä ohentaa kalvoa. Jossain vaiheessa kalvo ohenee niin paljon, että\n\nsaippuaveden pintajännitys aiheuttaa repeämän ja kupla puhkeaa. Iso kupla on ohuempi kuin pieni. Siksi iso\n\nkupla saavuttaa kriittisen kalvon paksuuden nopeammin kuin pieni kupla ja puhkeaa pientä kuplaa nopeammin.\n\nPainon aiheuttama nesteen valuminen ohentaa kuplan yläosaa, muttei kokonaan selitä puhkeamista.\n\n\n\nPisteytys:\n\nOn joko kerrottu haihtumisen ohentavan kalvoa tai selitetty kalvon ohenevan suhteellisesti enemmän kuplan\n\nyläpinnalla kuin alapinnalla painovoiman vaikutuksesta (2 p.).\n\nOn selitetty, että isossa kuplassa on ohuemmat seinämät kuin pienessä kuplassa (2 p.).",
+          "exam_id": 145523,
+          "content": {
+            "text": "#### Saippuakupla puhkeaa yleensä muutamassa minutissa. Miksi se puhkeaa? Samasta määrästä nestettä voidaan puhaltaa erikokoisia kuplia. Miksi isot kuplat puhkeavat nopeammin kuin pienet kuplat? 4 p.",
+            "displayNumber": "10.3"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:16:21.252793",
+          "max_score": null,
+          "groupping": null,
+          "id": 5079679,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "4d067912-4b01-43fd-ae9b-ab6f893dc4a9",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2022-12-09T09:31:22.986344"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Juoman jäähdyttäminen 20 p.\n\nAineisto\n\n[LINK url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22_FY_fi/attachments/index.html#11.A|text=Teksti: Helsingin Sanomien artikkeli]\n\nArtikkelissa 11.A esitellään kolme käytännön koetta ja yksi ajatuskoe erilaisten juomien jäähdyttämisestä.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 145523,
+          "content": {
+            "text": "### Juoman jäähdyttäminen 20 p.\n\nAineisto\n\n[LINK url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22_FY_fi/attachments/index.html#11.A|text=Teksti: Helsingin Sanomien artikkeli]\n\nArtikkelissa 11.A esitellään kolme käytännön koetta ja yksi ajatuskoe erilaisten juomien jäähdyttämisestä.",
+            "displayNumber": "11."
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "6b3412a4-b077-40db-b6e5-ff904d006dea",
+            "491e88a9-0a25-43ec-974f-3994b946eb68",
+            "6a2ac191-5099-486f-9c5e-140f06a1cb59",
+            "d27ade22-5ff0-45e7-ab18-e97db6650e7d"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-12-08T09:16:21.249675",
+          "max_score": null,
+          "groupping": null,
+          "id": 5079689,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "81642869-04a8-412b-bcbe-bbfa4d79a692",
+          "order_number": 15,
+          "multipart": true,
+          "created_at": "2022-12-09T09:31:23.016551"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Ensimmäisessä kokeessa kolme juomaa laitetaan jääkaappiin. Miksi juomat jäähtyvät eri tahtiin? 4 p.",
+          "deleted_at": null,
+          "feedback": "Juomat ovat erilaisissa astioissa. Metallinen tölkki johtaa paremmin lämpöä kuin lasipullo, joten tölkissä olevasta\n\njuomasta siirtyy jääkaappiin nopeammin energiaa kuin lasipullossa olevasta. Muovinen kolapullo johtaa lämpöä\n\nlasipulloakin huonommin. Kolapullon sisältämä vesimäärä on myös suurempi kuin muiden astioiden, ja sen pinta-ala suhteessa tilavuuteen on pienempi. Siksi se jäähtyy hitaammin.\n\nPisteytys:\n\nVastauksessa on vertailtu metallin ja muovin tai metallin ja lasin lämmönjohtavuuksia oikein (2 p.) ja selitetty,\n\nmiten nesteen suurempi määrä vaikuttaa jäähtymiseen (2 p.).\n\nMikäli vastaus sisältää karkeita fysikaalisia virheitä, vähennetään 1 piste.\n\nTyypillinen virhe: selitetty jäähtymistä pakkausten ominaislämpökapasiteetilla.",
+          "exam_id": 145523,
+          "content": {
+            "text": "#### Ensimmäisessä kokeessa kolme juomaa laitetaan jääkaappiin. Miksi juomat jäähtyvät eri tahtiin? 4 p.",
+            "displayNumber": "11.1"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:16:21.247093",
+          "max_score": null,
+          "groupping": null,
+          "id": 5079681,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "6b3412a4-b077-40db-b6e5-ff904d006dea",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2022-12-09T09:31:22.991858"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "\n\n**Toisessa kokeessa juomat kääritään märkään paperiin. Miksi paperikääre tehostaa jäähtymistä parvekkeella enemmän kuin jääkaapissa? 4 p.**",
+          "deleted_at": null,
+          "feedback": "Juomat jäähtyvät, koska märästä kääreestä haihtuu vettä. Veden höyrystymislämpö on huomattavan suuri.\n\nHöyrystymiseen tarvittava energia tulee suureksi osaksi juomasta. Höyrystymistä tapahtuu enemmän\n\nlämpimällä parvekkeella kuin jääkaapissa, koska lämpimän ilman suhteellinen kosteus on pienempi kuin kylmän\n\nja myös koska siellä ilmavirtaukset tehostavat höyrystymistä.\n\n\n\nPisteytys:\n\nVastauksessa on tunnistettu veden haihtumisen vaatima energia (2 p.) ja selitetty suhteellisen ilmankosteuden\n\ntai ilman vaihtumisen merkitys haihtumiselle (2 p.).\n\nTyypillinen virhe: selitetty eroja haihtumisessa pelkästään lämpötilan perusteella.",
+          "exam_id": 145523,
+          "content": {
+            "text": "\n\n**Toisessa kokeessa juomat kääritään märkään paperiin. Miksi paperikääre tehostaa jäähtymistä parvekkeella enemmän kuin jääkaapissa? 4 p.**",
+            "displayNumber": "11.2"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:16:21.244143",
+          "max_score": null,
+          "groupping": null,
+          "id": 5079690,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "491e88a9-0a25-43ec-974f-3994b946eb68",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2022-12-09T09:31:23.019081"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Kolmannessa kokeessa juomat viilennetään jääkylvyssä. Miksi jääkylpy viilentää juomia nopeasti, ja miksi suolan lisääminen vaikuttaa viilenemisnopeuteen? 4 p.",
+          "deleted_at": null,
+          "feedback": "Vesi johtaa lämpöä paremmin kuin ilma. Jääkylvyssä juomat viilenevät tehokkaasti, sillä ne ovat jatkuvasti\n\nkosketuksissa veteen, jonka lämpötila on 0 °C, kun kylvyssä on sekä vettä että jäätä. Erityisen nopeasti juomat\n\nviilenevät, kun veteen lisätään suolaa, koska suola laskee jään sulamispistettä. Sulamispisteen alenemisen\n\nvuoksi jäätä sulaa, jään sulaessa sitoutuu energiaa ja jääkylvyn lämpötila laskee. Siten lämpötilaero juoman ja\n\nympäröivän veden välillä kasvaa ja energiaa siirtyy juomasta veteen nopeammin.\n\n\n\nPisteytys:\n\nVastauksessa on vertailtu ilman ja veden tai jään lämmönjohtavuuksia oikein (2 p.) ja kerrottu suolan lisäämisen\n\nlaskevan jään sulamispistettä. (2 p.).\n\nTyypillinen virhe: esitetty, että suolan lisääminen suurentaa veden lämmönjohtavuutta.",
+          "exam_id": 145523,
+          "content": {
+            "text": "#### Kolmannessa kokeessa juomat viilennetään jääkylvyssä. Miksi jääkylpy viilentää juomia nopeasti, ja miksi suolan lisääminen vaikuttaa viilenemisnopeuteen? 4 p.",
+            "displayNumber": "11.3"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:16:21.241199",
+          "max_score": null,
+          "groupping": null,
+          "id": 5079682,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "6a2ac191-5099-486f-9c5e-140f06a1cb59",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2022-12-09T09:31:22.995112"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Viimeisenä esitetään ajatuskoe, jossa litra olutta [MATH text=(T = 25\\ ^\\circ\\mbox{C})]  jäähdytetään putkessa. Oleta, että putken säde on 6 cm. Kuinka korkea putken pitäisi olla, jotta juoma voitaisiin jäähdyttää lämpötilaan 9 °C? Voit olettaa, että juoma vastaa ominaisuuksiltaan vettä ja vain pieni osa vedestä höyrystyy. 8 p.",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/12UxfOG6F7nIE2wsc9GG8gDgxF0t-UXdE/view|text=Katso oikea vastaus tästä]",
+          "exam_id": 145523,
+          "content": {
+            "text": "Viimeisenä esitetään ajatuskoe, jossa litra olutta [MATH text=(T = 25\\ ^\\circ\\mbox{C})]  jäähdytetään putkessa. Oleta, että putken säde on 6 cm. Kuinka korkea putken pitäisi olla, jotta juoma voitaisiin jäähdyttää lämpötilaan 9 °C? Voit olettaa, että juoma vastaa ominaisuuksiltaan vettä ja vain pieni osa vedestä höyrystyy. 8 p.",
+            "displayNumber": "11.4"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:16:21.234238",
+          "max_score": null,
+          "groupping": null,
+          "id": 5079691,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "d27ade22-5ff0-45e7-ab18-e97db6650e7d",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2022-12-09T09:31:23.021489"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Peltipurkkipuhelimessa ääni vaimenee merkittävästi ainoastaan messinkilangassa tapahtuvan absorption takia. Vaimenemiselle pätee yhtälö [MATH text=I= I_1 e^{-\\alpha x}], jossa I_1 on äänen intensiteetti lähteessä, I on äänen intensiteetti etäisyydellä x lähteestä ja [MATH text=\\alpha = 0{,}086~{\\rm m}^{-1}] on messinkilangassa etenevän äänen vaimenemiskerroin.Puhujan äänen intensiteettitaso on 72 dB puhujan peltipurkin pohjan kohdalla 7,0 cm:n etäisyydellä puhujan suusta. Laske äänen intensiteettitaso kuulijan peltipurkin pohjan kohdalla. Laske myös äänen intensiteettitaso 75 m:n etäisyydellä, jos puhuja puhuu samalla äänen voimakkuudella ilman peltipurkkipuhelinta. Äänen vaimeneminen ilmassa absorption takia voidaan jättää huomiotta. Vertaile tuloksia keskenään.9 p.",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/12UxfOG6F7nIE2wsc9GG8gDgxF0t-UXdE/view|text=Katso oikea vastaus tästä]",
+          "exam_id": 145523,
+          "content": {
+            "text": "#### Peltipurkkipuhelimessa ääni vaimenee merkittävästi ainoastaan messinkilangassa tapahtuvan absorption takia. Vaimenemiselle pätee yhtälö [MATH text=I= I_1 e^{-\\alpha x}], jossa I_1 on äänen intensiteetti lähteessä, I on äänen intensiteetti etäisyydellä x lähteestä ja [MATH text=\\alpha = 0{,}086~{\\rm m}^{-1}] on messinkilangassa etenevän äänen vaimenemiskerroin.Puhujan äänen intensiteettitaso on 72 dB puhujan peltipurkin pohjan kohdalla 7,0 cm:n etäisyydellä puhujan suusta. Laske äänen intensiteettitaso kuulijan peltipurkin pohjan kohdalla. Laske myös äänen intensiteettitaso 75 m:n etäisyydellä, jos puhuja puhuu samalla äänen voimakkuudella ilman peltipurkkipuhelinta. Äänen vaimeneminen ilmassa absorption takia voidaan jättää huomiotta. Vertaile tuloksia keskenään.9 p.",
+            "displayNumber": "7.3"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:16:21.228136",
+          "max_score": null,
+          "groupping": null,
+          "id": 5079697,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "4c4ba396-8ee4-4f11-9249-2d0c14e94606",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2022-12-09T09:31:23.048485"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Fyysikko huomaa, että yksi kuplista leijuu paikallaan tyynessä ilmassa. Saippuaveden tiheydeksi oletetaan [MATH text=1{,}0\\cdot 10^3] kg/m[SUP text=3] ja kuplan sisällä olevan ilman lämpötilaksi 26 °C. Ulkoilman lämpötila on 21 °C ja ja kuplan säde 5,0 cm. Määritä näillä tiedoilla kuplan kalvon paksuus. Ilman oletetaan olevan 79 % typpeä ja 21 % happea myös kuplan sisällä. 8 p.",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/12UxfOG6F7nIE2wsc9GG8gDgxF0t-UXdE/view|text=Katso oikea vastaus täältä]",
+          "exam_id": 145523,
+          "content": {
+            "text": "Fyysikko huomaa, että yksi kuplista leijuu paikallaan tyynessä ilmassa. Saippuaveden tiheydeksi oletetaan [MATH text=1{,}0\\cdot 10^3] kg/m[SUP text=3] ja kuplan sisällä olevan ilman lämpötilaksi 26 °C. Ulkoilman lämpötila on 21 °C ja ja kuplan säde 5,0 cm. Määritä näillä tiedoilla kuplan kalvon paksuus. Ilman oletetaan olevan 79 % typpeä ja 21 % happea myös kuplan sisällä. 8 p.",
+            "displayNumber": "10.4"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:16:21.224934",
+          "max_score": null,
+          "groupping": null,
+          "id": 5079680,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "16bb7298-5368-4b7f-89d5-8706972ec652",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2022-12-09T09:31:22.989173"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Silmukkaa pyöritetään vakiokulmanopeudella silmukan pyörimisakselin ollessa kohtisuorassa kenttää vastaan. 3 p.**\n\n[LINK url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22_FY_fi/#6.1|text=Katso kuva tästä]\n\n\n\n[SELECT id=31]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 145523,
+          "content": {
+            "text": "**Silmukkaa pyöritetään vakiokulmanopeudella silmukan pyörimisakselin ollessa kohtisuorassa kenttää vastaan. 3 p.**\n\n[LINK url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22_FY_fi/#6.1|text=Katso kuva tästä]\n\n\n\n[SELECT id=31]",
+            "displayNumber": "6.1"
+          },
+          "images": null,
+          "settings": {
+            "points": "3"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:16:21.220307",
+          "max_score": 3,
+          "groupping": null,
+          "id": 5079713,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 31,
+              "parent": "ff657aec-81d4-43fe-b67e-5a0fdc622115",
+              "choices": [
+                {
+                  "id": "6919d2eb-c106-472b-9b9d-ab70a5713715",
+                  "text": "A",
+                  "correct": true
+                },
+                {
+                  "id": "025fc345-0fcc-4c0f-98bd-61a188c96ce8",
+                  "text": "B"
+                },
+                {
+                  "id": "c4c7554c-28a7-4c5b-91f4-9051f9e3c1cf",
+                  "text": "C"
+                },
+                {
+                  "id": "bc202435-654b-46b9-ad3f-ad8ad11b8fc7",
+                  "text": "D"
+                },
+                {
+                  "id": "1fbd3bcd-3f3d-41d2-b2ff-b55bf05c4c2c",
+                  "text": "E"
+                },
+                {
+                  "id": "1bb7d1c3-0526-421a-8bb4-fa57bdcfbdc8",
+                  "text": "F"
+                },
+                {
+                  "id": "b5ec5a2e-d7d4-455b-b810-20732f89349d",
+                  "text": "G"
+                },
+                {
+                  "id": "fa5c2e31-39fe-48b1-a276-b10eecbfcef5",
+                  "text": "H"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "ff657aec-81d4-43fe-b67e-5a0fdc622115",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2022-12-09T09:31:23.094581"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Hiiliajoitus**\n\nHiili esiintyy luonnossa kahtena pysyvänä isotooppina [SUP text=12]C ja [SUP text=13]C sekä radioaktiivisena isotooppina [SUP text=14]C. Ilmakehässä isotoopin [SUP text=12]C lukumääräosuus on 98,9 % ja isotoopin [SUP text=13]C on 1,1 %. Isotoopin  [SUP text=14]C osuus kaikesta ilmakehän hiilestä on [MATH text=1,2 ·10^{-12}] \n[MATH text=1{,}2 \\cdot10^{-12}], ja isotoopin puoliintumisaika on 5 730 vuotta.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 145523,
+          "content": {
+            "text": "**Hiiliajoitus**\n\nHiili esiintyy luonnossa kahtena pysyvänä isotooppina [SUP text=12]C ja [SUP text=13]C sekä radioaktiivisena isotooppina [SUP text=14]C. Ilmakehässä isotoopin [SUP text=12]C lukumääräosuus on 98,9 % ja isotoopin [SUP text=13]C on 1,1 %. Isotoopin  [SUP text=14]C osuus kaikesta ilmakehän hiilestä on [MATH text=1,2 ·10^{-12}] \n[MATH text=1{,}2 \\cdot10^{-12}], ja isotoopin puoliintumisaika on 5 730 vuotta.",
+            "displayNumber": "8."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "a550e067-9253-493b-ada7-c0da266836bb",
+            "c905f99a-64bf-4f95-837b-8b7a4593b1a2",
+            "b218b6e8-1f1b-436e-b32c-1ea2ea768559"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-12-08T09:16:21.212221",
+          "max_score": null,
+          "groupping": null,
+          "id": 5079686,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "c9735271-7aef-4c90-968b-c20ce8856bcb",
+          "order_number": 11,
+          "multipart": true,
+          "created_at": "2022-12-09T09:31:23.007088"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Kun lapsen jalat koskettavat alastulossa trampoliinin pintaa, trampoliini alkaa hidastaa lapsen vauhtia. Mikä seuraavista väittämistä pätee tilanteessa? 2 p.\n\n[LINK url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22_FY_fi/#1.1|text=Katso kuva tästä]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 145523,
+          "content": {
+            "text": "#### Kun lapsen jalat koskettavat alastulossa trampoliinin pintaa, trampoliini alkaa hidastaa lapsen vauhtia. Mikä seuraavista väittämistä pätee tilanteessa? 2 p.\n\n[LINK url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22_FY_fi/#1.1|text=Katso kuva tästä]",
+            "displayNumber": "1.1"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:16:21.206459",
+          "max_score": 2,
+          "groupping": null,
+          "id": 5079683,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 32,
+              "text": "Lapsi kohdistaa trampoliiniin suuremman voiman kuin trampoliini lapseen.",
+              "parent": "f72a8bf9-960d-434a-8916-6295bc6f3419",
+              "choices": []
+            },
+            {
+              "id": 33,
+              "text": "Lapsi ja trampoliini eivät kohdista voimaa toisiinsa.",
+              "parent": "f72a8bf9-960d-434a-8916-6295bc6f3419",
+              "choices": []
+            },
+            {
+              "id": 34,
+              "text": "Lapsi kohdistaa trampoliiniin pienemmän voiman kuin trampoliini lapseen.",
+              "parent": "f72a8bf9-960d-434a-8916-6295bc6f3419",
+              "choices": []
+            },
+            {
+              "id": 35,
+              "text": "Lapsi ja trampoliini kohdistavat toisiinsa saman suuruiset voimat.",
+              "parent": "f72a8bf9-960d-434a-8916-6295bc6f3419",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "f72a8bf9-960d-434a-8916-6295bc6f3419",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2022-12-09T09:31:22.999041"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Kerro, kuinka diodi käyttäytyy virtapiirissä. Mihin diodeja käytetään? 6 p.",
+          "deleted_at": null,
+          "feedback": "Diodi päästää lävitseen sähkövirtaa päästösuuntaan, kun sille ominainen kynnysjännite ylitetään. Ideaalinen\n\ndiodi ei päästä läpi sähkövirtaa estosuuntaan. Jännitehäviö päästösuuntaan kytketyssä ideaalisessa diodissa on\n\nkynnysjännitteen suuruinen, mikäli diodin läpi kulkee sähkövirtaa. Diodeja käytetään esimerkiksi jännitteen\n\ntasasuuntaukseen (Zener-diodeja referenssijännitteen luomiseen) ja ledejä merkkivaloina tai valaistuksessa.\n\n\n\nPisteytys:\n\nVastauksessa on mainittu, että diodi johtaa sähkövirtaa vain yhteen suuntaan (2 p.) ja diodin kynnysjännite tai\n\njännitehäviö diodin yli on selitetty (2 p.).\n\nKerrottu yksi oikea käyttötarkoitus (2 p.).\n\nMikäli vastaus sisältää karkeita fysikaalisia virheitä, vähennetään 1 piste.",
+          "exam_id": 145523,
+          "content": {
+            "text": "#### Kerro, kuinka diodi käyttäytyy virtapiirissä. Mihin diodeja käytetään? 6 p.",
+            "displayNumber": "9.1"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:16:21.217073",
+          "max_score": null,
+          "groupping": null,
+          "id": 5079688,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "c1593803-b3a0-4deb-9a4f-d501935d20e3",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2022-12-09T09:31:23.013647"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### \nMiksi sähköstaattinen pölyhuiska vetää puoleensa ilmassa leijuvia pölyhiukkasia? 2 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 145523,
+          "content": {
+            "text": "#### \nMiksi sähköstaattinen pölyhuiska vetää puoleensa ilmassa leijuvia pölyhiukkasia? 2 p.",
+            "displayNumber": "1.7"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:16:21.231404",
+          "max_score": 2,
+          "groupping": null,
+          "id": 5079725,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 27,
+              "text": "Huiska saa sähkövaraukset jakautumaan pölyhiukkasissa epätasaisesti.",
+              "parent": "929f87ba-7b58-4228-bbee-26ff66ca0ea7",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 28,
+              "text": "Huiskalla ja pölyhiukkasilla on samanmerkkiset sähkövaraukset.",
+              "parent": "929f87ba-7b58-4228-bbee-26ff66ca0ea7",
+              "choices": []
+            },
+            {
+              "id": 29,
+              "text": "Huiskan indusoima magneettikenttä vaikuttaa pölyhiukkasiin.",
+              "parent": "929f87ba-7b58-4228-bbee-26ff66ca0ea7",
+              "choices": []
+            },
+            {
+              "id": 30,
+              "text": "Huiska vetää suuremman massansa takia pölyhiukkasia puoleensa.",
+              "parent": "929f87ba-7b58-4228-bbee-26ff66ca0ea7",
+              "choices": []
+            }
+          ],
+          "uuid": "929f87ba-7b58-4228-bbee-26ff66ca0ea7",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2022-12-09T09:31:23.130725"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "*Kokeen tehtävät loppuvat tähän.*",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 145523,
+          "content": {
+            "text": "*Kokeen tehtävät loppuvat tähän.*"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-12-08T09:16:21.238474",
+          "max_score": null,
+          "groupping": null,
+          "id": 5079733,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "bfee3346-0046-4e83-a57d-8b94491e70be",
+          "order_number": 16,
+          "multipart": true,
+          "created_at": "2022-12-09T09:31:23.152904"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### \nÄänen nopeudelle ohuessa messinkilangassa pätee yhtälö [MATH text=v = \\sqrt{E/ \\rho}], jossa [MATH text=E =10{,}5 \\cdot 10^{10}~{\\rm N/m}^2] on messingin kimmokerroin ja [MATH text=\\rho =8{,}4 \\cdot 10^3~{\\rm kg/m}^3] tiheys. Äänen nopeus ilmassa (lämpötila 20 °C) on [MATH text=v_{\\rm ilma}=343\\ \\rm{m/s}].Kuinka paljon aiemmin ääni saavuttaa kuulijan, kun käytetään peltipurkkipuhelinta pelkän huutamisen sijaan? Peltipurkkien pituuksia ei tarvitse huomioida.4 p.",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/12UxfOG6F7nIE2wsc9GG8gDgxF0t-UXdE/view|text=Katso oikea vastaus tästä]",
+          "exam_id": 145523,
+          "content": {
+            "text": "#### \nÄänen nopeudelle ohuessa messinkilangassa pätee yhtälö [MATH text=v = \\sqrt{E/ \\rho}], jossa [MATH text=E =10{,}5 \\cdot 10^{10}~{\\rm N/m}^2] on messingin kimmokerroin ja [MATH text=\\rho =8{,}4 \\cdot 10^3~{\\rm kg/m}^3] tiheys. Äänen nopeus ilmassa (lämpötila 20 °C) on [MATH text=v_{\\rm ilma}=343\\ \\rm{m/s}].Kuinka paljon aiemmin ääni saavuttaa kuulijan, kun käytetään peltipurkkipuhelinta pelkän huutamisen sijaan? Peltipurkkien pituuksia ei tarvitse huomioida.4 p.",
+            "displayNumber": "7.2"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:16:21.255867",
+          "max_score": null,
+          "groupping": null,
+          "id": 5079698,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "b4685a41-0a31-476e-925c-e00469ebaa88",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2022-12-09T09:31:23.051361"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Auringonvalo heijastuu kuplien pinnoista. Selitä, miksi heijastuneessa valossa näkyy eri värejä. 5 p.",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/12UxfOG6F7nIE2wsc9GG8gDgxF0t-UXdE/view|text=Katso oikea vastaus täältä]",
+          "exam_id": 145523,
+          "content": {
+            "text": "#### Auringonvalo heijastuu kuplien pinnoista. Selitä, miksi heijastuneessa valossa näkyy eri värejä. 5 p.",
+            "displayNumber": "10.1"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:16:21.265867",
+          "max_score": null,
+          "groupping": null,
+          "id": 5079693,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "8e48088c-85a1-4a63-9f0c-32ee69297617",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2022-12-09T09:31:23.038285"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Saippuakuplat 20 p.\n\nFyysikko rentoutuu puhaltelemalla saippuakuplia puutarhakeinussaan.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 145523,
+          "content": {
+            "text": "### Saippuakuplat 20 p.\n\nFyysikko rentoutuu puhaltelemalla saippuakuplia puutarhakeinussaan.",
+            "displayNumber": "10."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "8e48088c-85a1-4a63-9f0c-32ee69297617",
+            "00204e19-7bf1-46b9-8e0b-e06a8913df73",
+            "4d067912-4b01-43fd-ae9b-ab6f893dc4a9",
+            "16bb7298-5368-4b7f-89d5-8706972ec652"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-12-08T09:16:21.272692",
+          "max_score": null,
+          "groupping": null,
+          "id": 5079692,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "81d76494-f300-4dda-9975-cc07a0f9b3cf",
+          "order_number": 14,
+          "multipart": true,
+          "created_at": "2022-12-09T09:31:23.02351"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Diodi 20 p.**",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 145523,
+          "content": {
+            "text": "**Diodi 20 p.**",
+            "displayNumber": "9."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "c1593803-b3a0-4deb-9a4f-d501935d20e3",
+            "7cd030c9-3261-4ad8-936a-543bd77dc7a7"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-12-08T09:16:21.278436",
+          "max_score": null,
+          "groupping": null,
+          "id": 5079695,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "e5210374-58d9-4d20-8a2c-190155cca3f9",
+          "order_number": 13,
+          "multipart": true,
+          "created_at": "2022-12-09T09:31:23.043311"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "## Osa 3: 20 pisteen tehtävät\n\nVastaa kahteen tehtävään.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 145523,
+          "content": {
+            "text": "## Osa 3: 20 pisteen tehtävät\n\nVastaa kahteen tehtävään."
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-12-08T09:16:21.284797",
+          "max_score": null,
+          "groupping": null,
+          "id": 5079729,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "d61190a1-66c4-4f65-86aa-cf517c0f37af",
+          "order_number": 12,
+          "multipart": true,
+          "created_at": "2022-12-09T09:31:23.142235"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Arkeologisten orgaanisten näytteiden, kuten nuotiohiilien ja eläinten luiden, ikä voidaan arvioida näytteessä olevien hiilen isotooppien avulla. Selitä lyhyesti, mihin tämä radiohiiliajoitus perustuu. 4 p.",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/12UxfOG6F7nIE2wsc9GG8gDgxF0t-UXdE/view|text=Katso oikea vastaus täältä]",
+          "exam_id": 145523,
+          "content": {
+            "text": "#### Arkeologisten orgaanisten näytteiden, kuten nuotiohiilien ja eläinten luiden, ikä voidaan arvioida näytteessä olevien hiilen isotooppien avulla. Selitä lyhyesti, mihin tämä radiohiiliajoitus perustuu. 4 p.",
+            "displayNumber": "8.2"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:16:21.29449",
+          "max_score": null,
+          "groupping": null,
+          "id": 5079696,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "c905f99a-64bf-4f95-837b-8b7a4593b1a2",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2022-12-09T09:31:23.045979"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Silmukka on paikallaan. Magneettikentän magneettivuon tiheys vuoron perään kasvaa ja heikkenee tasaisesti. 3 p.\n\n[LINK url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22_FY_fi/6.5|text=Katso kuva tästä]\n\n\n\n[SELECT id=31]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 145523,
+          "content": {
+            "text": "#### Silmukka on paikallaan. Magneettikentän magneettivuon tiheys vuoron perään kasvaa ja heikkenee tasaisesti. 3 p.\n\n[LINK url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22_FY_fi/6.5|text=Katso kuva tästä]\n\n\n\n[SELECT id=31]",
+            "displayNumber": "6.5"
+          },
+          "images": null,
+          "settings": {
+            "points": "3"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:16:21.300159",
+          "max_score": 3,
+          "groupping": null,
+          "id": 5079710,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 31,
+              "parent": "dfb2f23d-1f99-4740-a388-ee40d70731b4",
+              "choices": [
+                {
+                  "id": "2c1e7fd3-e142-40d4-98af-18bb9a0def47",
+                  "text": "A"
+                },
+                {
+                  "id": "51e3d146-6f19-484a-8298-c2bddb2f00ae",
+                  "text": "B"
+                },
+                {
+                  "id": "debbb30d-23c5-4d3b-ba1a-948d90d1f8f6",
+                  "text": "C",
+                  "correct": true
+                },
+                {
+                  "id": "aed23d21-5d48-4392-a6f1-49f6cc897184",
+                  "text": "D"
+                },
+                {
+                  "id": "ad5c5828-0717-41d5-b991-a11cb0bb7ab9",
+                  "text": "E"
+                },
+                {
+                  "id": "733bff71-ed2c-47c3-87bc-248032010234",
+                  "text": "F"
+                },
+                {
+                  "id": "2278e481-2cb3-4ea6-a18d-bc1848d5dc07",
+                  "text": "G"
+                },
+                {
+                  "id": "1d7d5fab-3b8f-4144-a338-196eadaf3ed8",
+                  "text": "H"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "dfb2f23d-1f99-4740-a388-ee40d70731b4",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2022-12-09T09:31:23.085589"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Silmukka on alussa paikallaan magneettikentän alueella. Silmukka päästetään putoamaan vapaasti nuolen suuntaan. 3 p.\n\n\n\n[LINK url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22_FY_fi/#6.3|text=Katso kuva tästä]\n\n\n\n[SELECT id=31]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 145523,
+          "content": {
+            "text": "#### Silmukka on alussa paikallaan magneettikentän alueella. Silmukka päästetään putoamaan vapaasti nuolen suuntaan. 3 p.\n\n\n\n[LINK url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22_FY_fi/#6.3|text=Katso kuva tästä]\n\n\n\n[SELECT id=31]",
+            "displayNumber": "6.3"
+          },
+          "images": null,
+          "settings": {
+            "points": "3"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:16:21.305481",
+          "max_score": 3,
+          "groupping": null,
+          "id": 5079701,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 31,
+              "parent": "e55d9aaa-03c1-4e9b-b862-6a52574ffdec",
+              "choices": [
+                {
+                  "id": "5a5d783f-df4b-475c-9b1d-e506be776d0e",
+                  "text": "A"
+                },
+                {
+                  "id": "cee88ad5-8222-4fb6-a504-4cbb03926608",
+                  "text": "B"
+                },
+                {
+                  "id": "1d08f505-80c8-43c3-9753-3479b79d5f54",
+                  "text": "C"
+                },
+                {
+                  "id": "591bfd7e-9d7e-44f7-aaf4-0fe900c6ce95",
+                  "text": "D"
+                },
+                {
+                  "id": "854ed7ff-e80a-4eab-aa80-541870403fae",
+                  "text": "E"
+                },
+                {
+                  "id": "6aedc9cd-3f1f-444e-b800-c89669836eea",
+                  "text": "F",
+                  "correct": true
+                },
+                {
+                  "id": "1e1143cf-2bb7-484b-b00d-6ef9158bd459",
+                  "text": "G"
+                },
+                {
+                  "id": "85bc6229-b6bc-4f7d-a79c-f03a379cf563",
+                  "text": "H"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "e55d9aaa-03c1-4e9b-b862-6a52574ffdec",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2022-12-09T09:31:23.060422"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Tehollinen sähkövirta kudoksessa on 0,45 ampeeria. Kuinka suuri on jännitteen huippuarvo? 5 p.",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/12UxfOG6F7nIE2wsc9GG8gDgxF0t-UXdE/view|text=Katso oikea vastaus täältä]",
+          "exam_id": 145523,
+          "content": {
+            "text": "#### Tehollinen sähkövirta kudoksessa on 0,45 ampeeria. Kuinka suuri on jännitteen huippuarvo? 5 p.",
+            "displayNumber": "4.2"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:16:21.31203",
+          "max_score": null,
+          "groupping": null,
+          "id": 5079716,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "fb0ac771-c2f4-4c3d-9c69-3d5a4ceef4fc",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2022-12-09T09:31:23.103704"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### \nKuinka suuri on poltettavan kudosalueen resistanssi toimenpiteen aikana? 3 p.",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/12UxfOG6F7nIE2wsc9GG8gDgxF0t-UXdE/view|text=Katso oikea vastaus täältä]",
+          "exam_id": 145523,
+          "content": {
+            "text": "#### \nKuinka suuri on poltettavan kudosalueen resistanssi toimenpiteen aikana? 3 p.",
+            "displayNumber": "4.3"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:16:21.314877",
+          "max_score": null,
+          "groupping": null,
+          "id": 5079717,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "ea82b133-265b-46f6-a6ca-55af5cacc334",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2022-12-09T09:31:23.106424"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Millaisena mekaanisena aaltoliikkeenä ääni etenee peltipurkkipuhelimen langassa? 2 p.**",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/12UxfOG6F7nIE2wsc9GG8gDgxF0t-UXdE/view|text=Katso vastaus täältä]",
+          "exam_id": 145523,
+          "content": {
+            "text": "**Millaisena mekaanisena aaltoliikkeenä ääni etenee peltipurkkipuhelimen langassa? 2 p.**",
+            "displayNumber": "7.1"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:16:21.322205",
+          "max_score": null,
+          "groupping": null,
+          "id": 5079705,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "a091eb90-cb08-4eb7-816e-ac6673d23e4e",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2022-12-09T09:31:23.071394"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Miksi kuulat vetävät toisiaan puoleensa ennen kosketusta? Miksi kosketus saa kuulat hylkimään toisiaan? 7 p.",
+          "deleted_at": null,
+          "feedback": "Coulombin lain mukaan sähköisesti varatut kappaleet vetävät toisiaan puoleensa, jos niiden varaukset ovat\n\nerimerkkiset. Kuulien varaukset ennen kosketusta ovat siis erimerkkiset. Kuulat ovat identtiset, ja ne johtavat\n\nsähköä, joten varaukset jakautuvat kosketuksessa tasan niiden kesken elektronien siirtyessä negatiivisesti\n\nvaratusta kuulasta positiivisesti varattuun kuulaan. Kuulat hylkivät toisiaan kosketuksen jälkeen, joten\n\nkosketuksen jälkeen niiden varausten täytyy olla samanmerkkisiä. Koska kuuliin jää varausta, niiden varausten\n\nitseisarvojen ennen kosketusta täytyi olla eri suuria.\n\n\n\nPisteytys: On kerrottu, miten kuulien varausten merkit vaikuttavat voiman suuntaan ennen ja jälkeen\n\nkosketuksen (2 p.), tunnistettu sähköinen vuorovaikutus (1 p.) ja varauksen siirtyminen kosketuksessa (2 p.) sekä\n\npäätelty alkuperäisten varausten erisuuruinen itseisarvo (2 p.).\n\n\n\nTyypillisiä virheitä: Väitetty vuorovaikutusta magneettiseksi, tai väitetty protonien tai positronien siirtyvän\n\nkuulasta toiseen.",
+          "exam_id": 145523,
+          "content": {
+            "text": "#### Miksi kuulat vetävät toisiaan puoleensa ennen kosketusta? Miksi kosketus saa kuulat hylkimään toisiaan? 7 p.",
+            "displayNumber": "5.1"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:16:21.336269",
+          "max_score": null,
+          "groupping": null,
+          "id": 5079700,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "e9370744-a12c-4163-98e0-86112df0d400",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2022-12-09T09:31:23.057492"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Toimenpiteessä lämmitetään ensin 1,1 g kudosnestettä ruumiinlämmöstä (37 °C) kiehumispisteeseen. Tämän jälkeen 0,40 g tästä kudosnesteestä höyrystyy. Kuinka kauan toimenpide kestää? Kudosneste on pääosin vettä. 7 p.",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/12UxfOG6F7nIE2wsc9GG8gDgxF0t-UXdE/view|text=Katso oikea vastaus täältä]",
+          "exam_id": 145523,
+          "content": {
+            "text": "Toimenpiteessä lämmitetään ensin 1,1 g kudosnestettä ruumiinlämmöstä (37 °C) kiehumispisteeseen. Tämän jälkeen 0,40 g tästä kudosnesteestä höyrystyy. Kuinka kauan toimenpide kestää? Kudosneste on pääosin vettä. 7 p.",
+            "displayNumber": "4.1"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:16:21.338977",
+          "max_score": null,
+          "groupping": null,
+          "id": 5079715,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "21768f26-931a-446b-9c3e-419a89aab51e",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2022-12-09T09:31:23.100883"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Määritä hissivaijerin hissikoriin ja vastapainoon kiihdytyksen aikana kohdistamat voimat. 9 p.",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/12UxfOG6F7nIE2wsc9GG8gDgxF0t-UXdE/view|text=Katso oikea vastaus täältä]",
+          "exam_id": 145523,
+          "content": {
+            "text": "#### Määritä hissivaijerin hissikoriin ja vastapainoon kiihdytyksen aikana kohdistamat voimat. 9 p.",
+            "displayNumber": "3.1"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:16:21.344606",
+          "max_score": null,
+          "groupping": null,
+          "id": 5079720,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "37f4b7b4-2671-44b2-b590-2a3c510d49b6",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2022-12-09T09:31:23.114602"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Kuinka suuria ovat hissin nopeus ja moottorin tuottama mekaaninen teho, kun hissin liikkeellelähdöstä on kulunut 0,80 sekuntia? 6 p.",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/12UxfOG6F7nIE2wsc9GG8gDgxF0t-UXdE/view|text=Katso oikea vastaus täältä]",
+          "exam_id": 145523,
+          "content": {
+            "text": "#### Kuinka suuria ovat hissin nopeus ja moottorin tuottama mekaaninen teho, kun hissin liikkeellelähdöstä on kulunut 0,80 sekuntia? 6 p.",
+            "displayNumber": "3.2"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:16:21.347143",
+          "max_score": null,
+          "groupping": null,
+          "id": 5079718,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "bbb19661-cd3d-4845-9c0a-e87174f3f0f5",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2022-12-09T09:31:23.109481"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Määritä aineiston perusteella putoamiskiihtyvyys Kuun pinnalla. 6 p.\n\n\n",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/12UxfOG6F7nIE2wsc9GG8gDgxF0t-UXdE/view|text=Katso oikea vastaus täältä]",
+          "exam_id": 145523,
+          "content": {
+            "text": "#### Määritä aineiston perusteella putoamiskiihtyvyys Kuun pinnalla. 6 p.\n\n\n",
+            "displayNumber": "2.3"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:16:21.34952",
+          "max_score": null,
+          "groupping": null,
+          "id": 5079726,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "459433cf-f3fa-49bf-8cb5-13189352e136",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2022-12-09T09:31:23.133768"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Millä ajanhetkellä John Young on hyppynsä korkeimmassa kohdassa? 2 p.",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/12UxfOG6F7nIE2wsc9GG8gDgxF0t-UXdE/view|text=Katso oikea vastaus täältä]",
+          "exam_id": 145523,
+          "content": {
+            "text": "#### Millä ajanhetkellä John Young on hyppynsä korkeimmassa kohdassa? 2 p.",
+            "displayNumber": "2.2"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:16:21.352104",
+          "max_score": null,
+          "groupping": null,
+          "id": 5079719,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "d1df568f-9cd1-4cdb-bb4f-c3dc82ef14b2",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2022-12-09T09:31:23.11204"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Valitettavasti Abitreenien harjoittelukokeessa ei voi käyttää kaavaeditoria.** ",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 145523,
+          "content": {
+            "text": "**Valitettavasti Abitreenien harjoittelukokeessa ei voi käyttää kaavaeditoria.** "
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-12-08T09:16:21.354446",
+          "max_score": null,
+          "groupping": null,
+          "id": 5081102,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "69f51060-91d6-4655-8c89-881776209318",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2022-12-09T09:53:05.143451"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Laadi graafinen esitys määritetystä etäisyydestä ajan funktiona. Esityksessä tulee näkyä mittauspisteet ja niihin sopiva, fysikaalisen mallin mukainen sovite. Mistä liikkeen mallista on kyse? 7 p.",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/12UxfOG6F7nIE2wsc9GG8gDgxF0t-UXdE/view|text=Katso oikea vastaus täältä]",
+          "exam_id": 145523,
+          "content": {
+            "text": "#### Laadi graafinen esitys määritetystä etäisyydestä ajan funktiona. Esityksessä tulee näkyä mittauspisteet ja niihin sopiva, fysikaalisen mallin mukainen sovite. Mistä liikkeen mallista on kyse? 7 p.",
+            "displayNumber": "2.1"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:16:21.357552",
+          "max_score": null,
+          "groupping": null,
+          "id": 5079709,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "db60e4e8-2013-4b88-a507-739aa35401c1",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2022-12-09T09:31:23.082955"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "## Osa 2: 15 pisteen tehtävät\n\nVastaa neljään tehtävään.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 145523,
+          "content": {
+            "text": "## Osa 2: 15 pisteen tehtävät\n\nVastaa neljään tehtävään."
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-12-08T09:16:21.360198",
+          "max_score": null,
+          "groupping": null,
+          "id": 5079731,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "e8a7b154-56a8-484b-8852-914ffd9de357",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2022-12-09T09:31:23.14777"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Monivalintatehtäviä fysiikan eri osa-alueilta 20 p.\n\nValitse jokaisessa osatehtävässä 1.1–1.10 parhaiten soveltuva vaihtoehto. Oikea vastaus 2 p., väärä vastaus 0 p., ei vastausta 0 p.\n\nOsatehtävissä 1.1–1.3 tarkastellaan tilannetta, jossa lapsi hyppii trampoliinilla tehden jatkuvasti samanlaisia hyppyjä ilmaan.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 145523,
+          "content": {
+            "text": "### Monivalintatehtäviä fysiikan eri osa-alueilta 20 p.\n\nValitse jokaisessa osatehtävässä 1.1–1.10 parhaiten soveltuva vaihtoehto. Oikea vastaus 2 p., väärä vastaus 0 p., ei vastausta 0 p.\n\nOsatehtävissä 1.1–1.3 tarkastellaan tilannetta, jossa lapsi hyppii trampoliinilla tehden jatkuvasti samanlaisia hyppyjä ilmaan.",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "2bf8190e-8de2-4f8e-b5aa-4f01b498b2f6",
+            "4ada5da3-26c7-482f-9b01-f70330c6c2ab",
+            "434856d7-ecf2-4d5a-8d1e-22c08bdf56bd",
+            "60583181-9a6c-4c24-bc36-c0dd4cac7d32",
+            "5fa47ece-9077-4153-a9eb-939e246e0c94",
+            "929f87ba-7b58-4228-bbee-26ff66ca0ea7",
+            "30fe8b88-79c9-4006-b5cc-edb000dc4493",
+            "850dc50f-627f-4bc4-a46e-ac1eec724b7d",
+            "cd008a49-a344-46e5-a700-b80b317fabf9",
+            "f72a8bf9-960d-434a-8916-6295bc6f3419"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-12-08T09:16:21.365375",
+          "max_score": null,
+          "groupping": null,
+          "id": 5079704,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "7a67d1de-3fd6-4695-95db-673971074ede",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2022-12-09T09:31:23.067842"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "## Osa 1: 20 pisteen tehtävä\n\nVastaa tehtävään 1.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 145523,
+          "content": {
+            "text": "## Osa 1: 20 pisteen tehtävä\n\nVastaa tehtävään 1."
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-12-08T09:16:21.382061",
+          "max_score": null,
+          "groupping": null,
+          "id": 5079730,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "e1e2cc68-7f27-496f-84d1-b54a0d53b3f6",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2022-12-09T09:31:23.145537"
+        }
+      ],
+      "name": "Fysiikka syksy 2022",
+      "settings": {
+        "hideTitle": false,
+        "overrideTitle": true
+      },
+      "exam_type": "yo-koe",
+      "classification": {
+        "category": "",
+        "disable_saving": false,
+        "hide_review_buttons": false,
+        "exam_type": "yo-koe",
+        "year": "2022",
+        "language": "fi-FI",
+        "hide_statistics": false,
+        "show_exam_series": false,
+        "force_yletunnus": false,
+        "subject": "fysiikka",
+        "published": true,
+        "semester": "fall"
+      },
+      "published_at": "2022-12-09T13:19:23.000Z",
+      "language": "fi-FI",
+      "id": 145523,
+      "reviews": [],
+      "is_open": true,
+      "uuid": "22b682ea-59ee-48df-b916-4be61caa9182"
+    }
+  ]
+}

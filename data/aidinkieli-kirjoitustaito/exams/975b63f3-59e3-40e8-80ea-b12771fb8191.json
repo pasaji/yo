@@ -1,0 +1,745 @@
+{
+  "meta": {
+    "count": 1
+  },
+  "data": [
+    {
+      "tags": [
+        ""
+      ],
+      "main_text": "",
+      "characters": null,
+      "deleted_at": null,
+      "series_uuids": [],
+      "questions": [
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-176664",
+            "18-204945"
+          ],
+          "main_text": null,
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16340,
+          "content": {
+            "displayNumber": "12."
+          },
+          "images": null,
+          "settings": {
+            "material": true
+          },
+          "child_ids": [
+            "0cd7f6f8-1c9c-4a61-8a41-f6425e8189e1"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-12T09:40:22.507924",
+          "max_score": null,
+          "groupping": null,
+          "id": 528152,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "033e7a5b-942e-4e22-ac33-0253b8ab2097",
+          "order_number": 13,
+          "multipart": true,
+          "created_at": "2017-07-06T12:56:38.057087"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-205598"
+          ],
+          "main_text": "Sanotaan, että jalkapallo on maailmankaunein peli. Kirjoita jalkapallosta täsät näkökulmasta.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16340,
+          "content": {
+            "text": "Sanotaan, että jalkapallo on maailmankaunein peli. Kirjoita jalkapallosta täsät näkökulmasta.\n",
+            "displayNumber": "4."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-12T09:40:22.512886",
+          "max_score": null,
+          "groupping": null,
+          "id": 528146,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "e588a8aa-5d1a-430e-a013-ae76a78ff0dc",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2017-07-06T12:56:38.039402"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-207442"
+          ],
+          "main_text": "Miksi tatuointeja otetaan?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16340,
+          "content": {
+            "text": "Miksi tatuointeja otetaan?\n",
+            "displayNumber": "5."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-12T09:40:22.515974",
+          "max_score": null,
+          "groupping": null,
+          "id": 528145,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "4df6cbcb-0dd5-4d9e-8b4a-a215fcc8cbc8",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2017-07-06T12:56:38.036708"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-213871"
+          ],
+          "main_text": "",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16340,
+          "content": {
+            "text": "",
+            "displayNumber": "14."
+          },
+          "images": null,
+          "settings": {
+            "material": true
+          },
+          "child_ids": [
+            "1f3f01c6-d461-42f8-9a30-de8431fd3f77"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-12T09:40:22.518809",
+          "max_score": null,
+          "groupping": null,
+          "id": 528151,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "0f22719e-48f8-4a38-9aab-cc83b01fd684",
+          "order_number": 15,
+          "multipart": true,
+          "created_at": "2017-07-06T12:56:38.05436"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-205652",
+            "18-212574",
+            "18-205834"
+          ],
+          "main_text": null,
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16340,
+          "content": {
+            "displayNumber": "9."
+          },
+          "images": null,
+          "settings": {
+            "material": true
+          },
+          "child_ids": [
+            "e66ca0d0-b10d-4e1e-a3e7-0aa99d630d14"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-12T09:40:22.530217",
+          "max_score": null,
+          "groupping": null,
+          "id": 528153,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "4f52e9f4-ec25-4d52-894c-797161b22252",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2017-07-06T12:56:38.06011"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-215680",
+            "18-133151"
+          ],
+          "main_text": null,
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16340,
+          "content": {
+            "displayNumber": "11."
+          },
+          "images": null,
+          "settings": {
+            "material": true
+          },
+          "child_ids": [
+            "10188639-07df-48a2-b1e8-fee971a3700e"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-12T09:40:22.533399",
+          "max_score": null,
+          "groupping": null,
+          "id": 528154,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "9a2d687e-aac4-4337-a825-de6fa251f238",
+          "order_number": 12,
+          "multipart": true,
+          "created_at": "2017-07-06T12:56:38.06301"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-209928",
+            "18-163510"
+          ],
+          "main_text": null,
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16340,
+          "content": {
+            "displayNumber": "10."
+          },
+          "images": null,
+          "settings": {
+            "material": true
+          },
+          "child_ids": [
+            "002dc210-678a-41a7-9920-43fe050a99e0"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-12T09:40:22.527215",
+          "max_score": null,
+          "groupping": null,
+          "id": 528155,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "30b11564-91f7-424f-9833-23cc9f63e148",
+          "order_number": 11,
+          "multipart": true,
+          "created_at": "2017-07-06T12:56:38.065644"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-212829",
+            "18-215844"
+          ],
+          "main_text": "",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16340,
+          "content": {
+            "text": "",
+            "displayNumber": "13."
+          },
+          "images": null,
+          "settings": {
+            "material": true
+          },
+          "child_ids": [
+            "5f89613d-24a2-4508-8a1b-9468c93198bb"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-12T09:40:22.536809",
+          "max_score": null,
+          "groupping": null,
+          "id": 528149,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "47491903-943a-43f5-9727-bc0c3de72d8a",
+          "order_number": 14,
+          "multipart": true,
+          "created_at": "2017-07-06T12:56:38.047527"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-165304",
+            "18-208990"
+          ],
+          "main_text": null,
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16340,
+          "content": {
+            "displayNumber": "8."
+          },
+          "images": null,
+          "settings": {
+            "material": true
+          },
+          "child_ids": [
+            "df0d59eb-0c10-4e7b-9462-688d14178797"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-12T09:40:22.540922",
+          "max_score": null,
+          "groupping": null,
+          "id": 528150,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "5f5124cc-5fc2-4995-b663-3f1120dc27fb",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2017-07-06T12:56:38.05176"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "_\"Elokuvista on tullut popcornin jatketta\"_, väittää Aki Kaurismäki _Metro_-lehden haastattelussa. Oletko samaa mieltä?\n\n​\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_essee\\_s\\_2009\\_12.pdf|text=Jussi Lankinen: \"Elokuvista on tullut popcornin jatketta\"]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16340,
+          "content": {
+            "text": "_\"Elokuvista on tullut popcornin jatketta\"_, väittää Aki Kaurismäki _Metro_-lehden haastattelussa. Oletko samaa mieltä?\n\n​\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_essee\\_s\\_2009\\_12.pdf|text=Jussi Lankinen: \"Elokuvista on tullut popcornin jatketta\"]\n"
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-07-12T09:40:22.559736",
+          "max_score": null,
+          "groupping": null,
+          "id": 528135,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "0cd7f6f8-1c9c-4a61-8a41-f6425e8189e1",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-07-06T12:56:38.008625"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Analysoi ja tulkitse Eino Säisen novellia _Tyttö joen rannalla_.\n\n​\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_essee\\_s\\_2009\\_14.pdf|text=Eino Säisä: Tyttö joen rannalla]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16340,
+          "content": {
+            "text": "Analysoi ja tulkitse Eino Säisen novellia _Tyttö joen rannalla_.\n\n​\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_essee\\_s\\_2009\\_14.pdf|text=Eino Säisä: Tyttö joen rannalla]\n"
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-07-12T09:40:22.565989",
+          "max_score": null,
+          "groupping": null,
+          "id": 528137,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "1f3f01c6-d461-42f8-9a30-de8431fd3f77",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-07-06T12:56:38.014147"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kirjoita suhtautumisesta laitapuolen kulkijoihin Riku Korhosen _Kotikaupungin juopot _-kolumnin pohjalta.\n\n​\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_essee\\_s\\_2009\\_13.pdf|text=Riku Korhonen: Kotikaupungin juopot]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16340,
+          "content": {
+            "text": "Kirjoita suhtautumisesta laitapuolen kulkijoihin Riku Korhosen _Kotikaupungin juopot _-kolumnin pohjalta.\n\n​\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_essee\\_s\\_2009\\_13.pdf|text=Riku Korhonen: Kotikaupungin juopot]\n"
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-07-12T09:40:22.563171",
+          "max_score": null,
+          "groupping": null,
+          "id": 528136,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "5f89613d-24a2-4508-8a1b-9468c93198bb",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-07-06T12:56:38.011459"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-204465"
+          ],
+          "main_text": "**Musiikki sillanrakentajana ihmisten ja kulttuurien välillä.**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16340,
+          "content": {
+            "text": "**Musiikki sillanrakentajana ihmisten ja kulttuurien välillä.**\n",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {
+            "titleEssay": true,
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-12T09:40:22.55624",
+          "max_score": null,
+          "groupping": null,
+          "id": 528140,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "33d823ab-af50-4980-815c-836a128cf36b",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2017-07-06T12:56:38.022201"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-208667"
+          ],
+          "main_text": "Ammatillisen koulutuksen vetovoima on kasvanut Miksi? Pohdi ilmiön syitä.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16340,
+          "content": {
+            "text": "Ammatillisen koulutuksen vetovoima on kasvanut Miksi? Pohdi ilmiön syitä.\n",
+            "displayNumber": "3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-12T09:40:22.573491",
+          "max_score": null,
+          "groupping": null,
+          "id": 528147,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "1298e8ab-be7d-467f-a78a-5b8596882bd9",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2017-07-06T12:56:38.042059"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kirjoita unen ja todellisuuden suhteesta runojen pohjalta.\n\n​\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_essee\\_s\\_2009\\_9.pdf|text=Wislawa Szymborska: Unien ylistykseksi & V. A. Koskenniemi: Koulutie]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16340,
+          "content": {
+            "text": "Kirjoita unen ja todellisuuden suhteesta runojen pohjalta.\n\n​\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_essee\\_s\\_2009\\_9.pdf|text=Wislawa Szymborska: Unien ylistykseksi & V. A. Koskenniemi: Koulutie]\n"
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-07-12T09:40:22.57638",
+          "max_score": null,
+          "groupping": null,
+          "id": 528142,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "e66ca0d0-b10d-4e1e-a3e7-0aa99d630d14",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-07-06T12:56:38.028734"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-204357"
+          ],
+          "main_text": "**Epidemioiden aika ei ole ohi**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16340,
+          "content": {
+            "text": "**Epidemioiden aika ei ole ohi**\n",
+            "displayNumber": "7."
+          },
+          "images": null,
+          "settings": {
+            "titleEssay": true,
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-12T09:40:22.569542",
+          "max_score": null,
+          "groupping": null,
+          "id": 528143,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "de6a6e02-064d-492a-a39e-b20a705db71f",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2017-07-06T12:56:38.031582"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-197146"
+          ],
+          "main_text": "Suomen sodasta (1808-1809) on kulunut 200 vuotta. Edelleen ihmiset haluavat vierailla vanhoilla sotapaikoilla. Mikä sotamuistoissa kiehtoo?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16340,
+          "content": {
+            "text": "Suomen sodasta (1808-1809) on kulunut 200 vuotta. Edelleen ihmiset haluavat vierailla vanhoilla sotapaikoilla. Mikä sotamuistoissa kiehtoo?\n",
+            "displayNumber": "6."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-12T09:40:22.580372",
+          "max_score": null,
+          "groupping": null,
+          "id": 528144,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "df5675ae-2a74-4b0f-b352-c20a979859e6",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2017-07-06T12:56:38.034187"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-182331",
+            "18-208093"
+          ],
+          "main_text": "Länsi aasialaistuu, väitetään. Pitääkö väite paikkansa?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16340,
+          "content": {
+            "text": "Länsi aasialaistuu, väitetään. Pitääkö väite paikkansa?\n",
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-12T09:40:22.583359",
+          "max_score": null,
+          "groupping": null,
+          "id": 528148,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "e4ad6ed3-903c-44ca-91a8-0c1bed3409d1",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2017-07-06T12:56:38.044739"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Erittele Tea Mäkipään teosta _10 käskyä uudelle vuosituhannelle_ ja sen herättämiä ajatuksia.\n\n​\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_essee\\_s\\_2009\\_1.pdf|text=Tea Mäkipää: 10 käskyä uudelle vuosituhannelle]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16340,
+          "content": {
+            "text": "Erittele Tea Mäkipään teosta _10 käskyä uudelle vuosituhannelle_ ja sen herättämiä ajatuksia.\n\n​\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_essee\\_s\\_2009\\_1.pdf|text=Tea Mäkipää: 10 käskyä uudelle vuosituhannelle]\n"
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-07-12T09:40:22.586287",
+          "max_score": null,
+          "groupping": null,
+          "id": 528134,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "df0d59eb-0c10-4e7b-9462-688d14178797",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-07-06T12:56:38.003741"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Ohje: Osaan tehtävistä liittyy aineistoa, jota on hyödynnettävä tehtävänannon mukaan. Lue tehtävät, silmäile aineistot läpi ja valitse tehtävistä yksi. Tehtävät arvostellaan pistein 0–60. Kirjoita ehyt ja kielellisesti huoliteltu teksti. Valmiit otsikot on lihavoitu. Muussa tapauksessa anna kirjoituksellesi oma otsikko. Jos valitset aineistotehtävän, tekstisi pitää olla siten ehyt, että lukija voi ymmärtää tekstisi, vaikka ei tunnekaan aineistoa. Aineistotehtävissä tulee viitata aineistoon.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16340,
+          "content": {
+            "text": "Ohje: Osaan tehtävistä liittyy aineistoa, jota on hyödynnettävä tehtävänannon mukaan. Lue tehtävät, silmäile aineistot läpi ja valitse tehtävistä yksi. Tehtävät arvostellaan pistein 0–60. Kirjoita ehyt ja kielellisesti huoliteltu teksti. Valmiit otsikot on lihavoitu. Muussa tapauksessa anna kirjoituksellesi oma otsikko. Jos valitset aineistotehtävän, tekstisi pitää olla siten ehyt, että lukija voi ymmärtää tekstisi, vaikka ei tunnekaan aineistoa. Aineistotehtävissä tulee viitata aineistoon.\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-12T09:40:22.592519",
+          "max_score": null,
+          "groupping": null,
+          "id": 528141,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "ff99b1c1-74da-4a31-a06d-7b9fa0518a4a",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-07-06T12:56:38.025645"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-127167"
+          ],
+          "main_text": "Tutki _Tatun ja Patun Suomi_- teoksen kuva-aukeamaa tyyppillisestä suomalaisesta. Voiko tyypilliseen suomalaiseen samastua?\n\n​\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_essee\\_s\\_2009\\_10.pdf|text=Aino Havukainen ja Sami Toivonen: Tatun ja Patun Suomi (kirjan aukeama)]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16340,
+          "content": {
+            "text": "Tutki _Tatun ja Patun Suomi_- teoksen kuva-aukeamaa tyyppillisestä suomalaisesta. Voiko tyypilliseen suomalaiseen samastua?\n\n​\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_essee\\_s\\_2009\\_10.pdf|text=Aino Havukainen ja Sami Toivonen: Tatun ja Patun Suomi (kirjan aukeama)]\n"
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-07-12T09:40:22.58938",
+          "max_score": null,
+          "groupping": null,
+          "id": 528138,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "002dc210-678a-41a7-9920-43fe050a99e0",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-07-06T12:56:38.016611"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Tutustu Tiede-lehden artikkeliin _Brändi kuin Brändi käy - kunhan se tuntuu omalta_ ja pohdi sitä hyödyntäen, millainen osuus tuotemerkeillä on elämässäsi.\n\n​\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_essee\\_s\\_2009\\_11.pdf|text=Jarno Forssell: Brändi kuin brändi käy - kunhan se tuntuu omalta]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16340,
+          "content": {
+            "text": "Tutustu Tiede-lehden artikkeliin _Brändi kuin Brändi käy - kunhan se tuntuu omalta_ ja pohdi sitä hyödyntäen, millainen osuus tuotemerkeillä on elämässäsi.\n\n​\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_essee\\_s\\_2009\\_11.pdf|text=Jarno Forssell: Brändi kuin brändi käy - kunhan se tuntuu omalta]\n"
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-07-12T09:40:22.596077",
+          "max_score": null,
+          "groupping": null,
+          "id": 528139,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "10188639-07df-48a2-b1e8-fee971a3700e",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-07-06T12:56:38.019225"
+        }
+      ],
+      "name": "Äidinkieli essee syksy 2009",
+      "settings": {},
+      "exam_type": "yo-koe",
+      "classification": {
+        "category": "",
+        "hide_review_buttons": null,
+        "exam_type": "yo-koe",
+        "year": "2009",
+        "language": "fi-FI",
+        "show_exam_series": null,
+        "force_yletunnus": false,
+        "subject": "äidinkieli-suomi-essee",
+        "published": true,
+        "semester": "fall"
+      },
+      "published_at": "2017-07-06T12:56:37.999Z",
+      "language": "fi-FI",
+      "id": 16340,
+      "reviews": [],
+      "is_open": true,
+      "uuid": "975b63f3-59e3-40e8-80ea-b12771fb8191"
+    }
+  ]
+}

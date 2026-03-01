@@ -1,0 +1,437 @@
+{
+  "meta": {
+    "count": 1
+  },
+  "data": [
+    {
+      "tags": [
+        ""
+      ],
+      "main_text": "**Enintään 6 tehtävään saa vastata. Tehtävät arvostellaan pistein 0-6, paitsi muita vaativammat, +:lla merkityt jokeritehtävät, jotka arvostellaan pistein 0-9. Moniosaisissa, esimerkiksi a-, b- ja c-kohdan sisältävissä tehtävissä voidaan erikseen ilmoittaa eri alakohtien enimmäispistemäärät.**\n",
+      "characters": null,
+      "deleted_at": null,
+      "series_uuids": [],
+      "questions": [
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kuvaa, miten vaurio vaikuttaa potilaan toimintakykyyn. (5 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 666,
+          "content": {
+            "text": "Kuvaa, miten vaurio vaikuttaa potilaan toimintakykyyn. (5 p.)\n",
+            "displayNumber": "b)"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-07-19T08:55:15.019313",
+          "max_score": null,
+          "groupping": null,
+          "id": 8739,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "5eb811e7-4e17-4a3a-b600-33f6a30847d3",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2017-06-08T11:09:51.817941"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Nimeä vaurioitunut rakenne. (1 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 666,
+          "content": {
+            "text": "Nimeä vaurioitunut rakenne. (1 p.)\n",
+            "displayNumber": "a)"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-07-19T08:55:15.040412",
+          "max_score": null,
+          "groupping": null,
+          "id": 8716,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "f8ebfaa1-b3be-4578-9202-3220fd407c7c",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-06-08T11:09:26.37032"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252839",
+            "18-204708"
+          ],
+          "main_text": "Kuvaa, miten hermoimpulssi etenee hermosolussa ja hermosolujen välillä.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 666,
+          "content": {
+            "text": "Kuvaa, miten hermoimpulssi etenee hermosolussa ja hermosolujen välillä.\n",
+            "displayNumber": "5."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T08:55:15.050108",
+          "max_score": null,
+          "groupping": null,
+          "id": 8890,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "b1549f8e-0a47-4dff-adbb-9a28f464d63b",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2017-06-08T11:17:09.465834"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252840",
+            "18-205512"
+          ],
+          "main_text": "Miten tunteita opitaan säätelemään, ja mitkä tekijät voivat vaarantaa normaalin kehityksen?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 666,
+          "content": {
+            "text": "Miten tunteita opitaan säätelemään, ja mitkä tekijät voivat vaarantaa normaalin kehityksen?\n",
+            "displayNumber": "+9."
+          },
+          "images": null,
+          "settings": {
+            "joker": true,
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T08:55:15.053101",
+          "max_score": null,
+          "groupping": null,
+          "id": 8961,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "a95ed428-c442-4c52-bcfb-baffe34a93f4",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2017-06-08T11:26:39.1367"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252837",
+            "18-215413"
+          ],
+          "main_text": "Pohdi esimerkin varassa, kuinka vastoinkäymiset voidaan muuttaa ihmisen kehityksen voimavaroiksi.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 666,
+          "content": {
+            "text": "Pohdi esimerkin varassa, kuinka vastoinkäymiset voidaan muuttaa ihmisen kehityksen voimavaroiksi.\n",
+            "displayNumber": "4."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T08:55:15.059317",
+          "max_score": null,
+          "groupping": null,
+          "id": 8858,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "cdd33c88-d34a-46c0-b3c3-afec1861fb47",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2017-06-08T11:14:22.325339"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-219809",
+            "18-252837",
+            "18-204676"
+          ],
+          "main_text": "Oppimisvaikeuksilla eli oppimiskyvyn häiriöillä tarkoitetaan lukemisen, kirjoittamisen ja laskemisen oppimisen vaikeuksia. Tavanomaisten tukimuotojen lisäksi (erityisopetus, puheterapia ja neuropsykologinen kuntoutus) yksilöitä, joilla on vaikeuksia, yritetään kuntouttaa mitä moninaisimmilla vaihtoehtoisilla menetelmillä. Arvioi ja vertaile alla olevan taulukon ja psykologisen tiedon pohjalta vaihtoehtoisten menetelmien luotettavuutta. Pohdi lisäksi, miksi jotkut kokevat hyötyvänsä vaihtoehtoisista hoitomuodoista.\n\n[IMS id=39-4071515939351b22c9b|caption=Lähde: Helsingin Sanomat 5.7.2007]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 666,
+          "content": {
+            "text": "Oppimisvaikeuksilla eli oppimiskyvyn häiriöillä tarkoitetaan lukemisen, kirjoittamisen ja laskemisen oppimisen vaikeuksia. Tavanomaisten tukimuotojen lisäksi (erityisopetus, puheterapia ja neuropsykologinen kuntoutus) yksilöitä, joilla on vaikeuksia, yritetään kuntouttaa mitä moninaisimmilla vaihtoehtoisilla menetelmillä. Arvioi ja vertaile alla olevan taulukon ja psykologisen tiedon pohjalta vaihtoehtoisten menetelmien luotettavuutta. Pohdi lisäksi, miksi jotkut kokevat hyötyvänsä vaihtoehtoisista hoitomuodoista.\n\n[IMS id=39-4071515939351b22c9b|caption=Lähde: Helsingin Sanomat 5.7.2007]\n",
+            "displayNumber": "+10."
+          },
+          "images": null,
+          "settings": {
+            "joker": true,
+            "material": true,
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T08:55:15.023617",
+          "max_score": null,
+          "groupping": null,
+          "id": 9037,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "db933b28-b398-4d89-915c-3fdfbfd857cd",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2017-06-08T11:32:31.814799"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252839",
+            "18-204648"
+          ],
+          "main_text": "Potilaalla on vaurio kuvassa tummennetulla aivoalueella.\n\n[IMS id=39-407140593930ecc6994|caption=Kuva: Pearsons education]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 666,
+          "content": {
+            "text": "Potilaalla on vaurio kuvassa tummennetulla aivoalueella.\n\n[IMS id=39-407140593930ecc6994|caption=Kuva: Pearsons education]\n",
+            "displayNumber": "3."
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "f8ebfaa1-b3be-4578-9202-3220fd407c7c",
+            "5eb811e7-4e17-4a3a-b600-33f6a30847d3"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T08:55:15.029314",
+          "max_score": null,
+          "groupping": null,
+          "id": 8673,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "d8ed88f6-1238-48e4-b212-1bfdb14a63f5",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2017-06-08T11:07:46.094355"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252838",
+            "18-215968"
+          ],
+          "main_text": "Suomen valtio tukee lapsen kokopäiväistä kotihoitoa siihen asti, kunnes lapsi täyttää kolme vuotta. Äiti saa tukea neljä ensimmäistä kuukautta, jolloin hänelle maksetaan äitiysrahaa. Tä- män jälkeen maksetaan kuusi kuukautta vanhempainrahaa, jota voi saada joko äiti tai isä. Samoin äiti tai isä voi saada kotihoidontukea, jota maksetaan vanhempainrahan jälkeen. Ylivoimaisesti suurimmassa osassa perheitä äiti jää kuitenkin hoitamaan lasta kotiin myös vanhempainraha- ja kotihoidontukikautena. \n\n​\n\nVuonna 2009 isien osuus kaikista korvatuista vanhempainpäivärahapäivistä oli 6,7 % ja kaikista kotihoidontuen saajista 5,1 %. Jotta yhä useampi isä jäisi hoitamaan lasta kotiin ainakin lyhyeksi ajaksi, isille on luotu myös omia kohdennettuja vanhempainpäivärahaetuuksia. Isät voivat pitää isyysvapaata 1–18 arkipäivää äitiys- ja vanhempainvapaan aikana samanaikaisesti äidin kanssa sekä isäkuukauden, joka on 1–24 ylimääräistä arkipäivää. \n\n​\n\nPohdi kehityspsykologisen tiedon varassa edellä kuvatun Suomen vanhempaintukijärjestelmän merkitystä lapsen kehityksen kannalta.\n\n​\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 666,
+          "content": {
+            "text": "Suomen valtio tukee lapsen kokopäiväistä kotihoitoa siihen asti, kunnes lapsi täyttää kolme vuotta. Äiti saa tukea neljä ensimmäistä kuukautta, jolloin hänelle maksetaan äitiysrahaa. Tä- män jälkeen maksetaan kuusi kuukautta vanhempainrahaa, jota voi saada joko äiti tai isä. Samoin äiti tai isä voi saada kotihoidontukea, jota maksetaan vanhempainrahan jälkeen. Ylivoimaisesti suurimmassa osassa perheitä äiti jää kuitenkin hoitamaan lasta kotiin myös vanhempainraha- ja kotihoidontukikautena. \n\n​\n\nVuonna 2009 isien osuus kaikista korvatuista vanhempainpäivärahapäivistä oli 6,7 % ja kaikista kotihoidontuen saajista 5,1 %. Jotta yhä useampi isä jäisi hoitamaan lasta kotiin ainakin lyhyeksi ajaksi, isille on luotu myös omia kohdennettuja vanhempainpäivärahaetuuksia. Isät voivat pitää isyysvapaata 1–18 arkipäivää äitiys- ja vanhempainvapaan aikana samanaikaisesti äidin kanssa sekä isäkuukauden, joka on 1–24 ylimääräistä arkipäivää. \n\n​\n\nPohdi kehityspsykologisen tiedon varassa edellä kuvatun Suomen vanhempaintukijärjestelmän merkitystä lapsen kehityksen kannalta.\n\n​\n",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T08:55:15.03663",
+          "max_score": null,
+          "groupping": null,
+          "id": 8196,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "6557ced9-ab4b-4896-8c26-6bbe44204ac2",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-06-08T10:58:39.985767"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252838",
+            "18-219929"
+          ],
+          "main_text": "Eräässä tutkimuksessa tarkasteltiin äidin ja lapsen välistä suhdetta nuoruusiässä. Lapset raportoivat 11-, 12- ja 13-vuotiaana, miten paljon he kokivat saavansa tukea äidiltään. Lisäksi lapsen ollessa 11-vuotias äidit raportoivat, miten negatiiviseksi he kokivat vuorovaikutuksen lapsensa kanssa. Lapsen kokemusta äidiltään saamastaan tuesta arvioitiin muun muassa kysymyksillä, jotka koskivat äidin ja lapsen keskinäistä kiintymystä ja luottamusta, huolenpitoa, toveruutta ja materiaalista apua (esim. Miten paljon äitisi auttaa sinua selvittämään tai järjestä- mään asioita?). Vuorovaikutuksen negatiivisuutta arvioitiin kysymyksillä, jotka koskivat äidin ja lapsen keskinäisiä konflikteja ja kritiikkiä (esim. Miten paljon riitelette tai olette eri mieltä asioista?).\n\n​\n\nAlla oleva kuvio kuvaa lapsen kokemusta äidin tarjoamasta tuesta 11-vuotiaasta 13-vuotiaaksi suhteessa siihen, miten äiti raportoi vuorovaikutuksen negatiivisuutta lapsen ollessa 11-vuotias. Kuvion y-akselin (pystyakseli) arvo kuvaa kyselylomakkeen kysymysten keskiarvoa. Suurempi arvo kuvaa korkeampaa tuen määrää.\n\n[IMS id=39-40712759392e9b9d889|caption=Lähde: Laursen, B., DeLay, D. & Adams, R.E., Developmental Psychology, 2010 ]\n\n​\n\nKuvaa tutkimuksen tulos ja tulkitse psykologisen tiedon valossa, mitä tulokset kertovat äidin ja lapsen välisestä suhteesta nuoruusiässä.\n\n​\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 666,
+          "content": {
+            "text": "Eräässä tutkimuksessa tarkasteltiin äidin ja lapsen välistä suhdetta nuoruusiässä. Lapset raportoivat 11-, 12- ja 13-vuotiaana, miten paljon he kokivat saavansa tukea äidiltään. Lisäksi lapsen ollessa 11-vuotias äidit raportoivat, miten negatiiviseksi he kokivat vuorovaikutuksen lapsensa kanssa. Lapsen kokemusta äidiltään saamastaan tuesta arvioitiin muun muassa kysymyksillä, jotka koskivat äidin ja lapsen keskinäistä kiintymystä ja luottamusta, huolenpitoa, toveruutta ja materiaalista apua (esim. Miten paljon äitisi auttaa sinua selvittämään tai järjestä- mään asioita?). Vuorovaikutuksen negatiivisuutta arvioitiin kysymyksillä, jotka koskivat äidin ja lapsen keskinäisiä konflikteja ja kritiikkiä (esim. Miten paljon riitelette tai olette eri mieltä asioista?).\n\n​\n\nAlla oleva kuvio kuvaa lapsen kokemusta äidin tarjoamasta tuesta 11-vuotiaasta 13-vuotiaaksi suhteessa siihen, miten äiti raportoi vuorovaikutuksen negatiivisuutta lapsen ollessa 11-vuotias. Kuvion y-akselin (pystyakseli) arvo kuvaa kyselylomakkeen kysymysten keskiarvoa. Suurempi arvo kuvaa korkeampaa tuen määrää.\n\n[IMS id=39-40712759392e9b9d889|caption=Lähde: Laursen, B., DeLay, D. & Adams, R.E., Developmental Psychology, 2010 ]\n\n​\n\nKuvaa tutkimuksen tulos ja tulkitse psykologisen tiedon valossa, mitä tulokset kertovat äidin ja lapsen välisestä suhteesta nuoruusiässä.\n\n​\n",
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T08:55:15.043216",
+          "max_score": null,
+          "groupping": null,
+          "id": 8641,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "e36689a9-6dc9-458e-a063-51c3e58c7e71",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2017-06-08T11:05:00.256721"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252837",
+            "18-253040",
+            "18-253197"
+          ],
+          "main_text": "Tutkimuksessa haluttiin selvittää, miten tietokoneohjelmalla harjoittelu vaikuttaa matematiikan taitoihin. Tutkimusjoukko muodostui eri-ikäisistä vapaaehtoisista alakoululaisista. Aluksi osallistujien suoriutumistaso tutkittiin matematiikan taitoja arvioivalla testillä. Tämän jälkeen osallistujat harjoittelivat tietokoneohjelman avulla kaksi kertaa viikossa yhden lukukauden ajan. Lopuksi suoriutumisen taso arvioitiin samalla testillä kuin ennen harjoittelua. Tulokset osoittivat, että tutkimukseen osallistuneet suoriutuivat testissä paremmin harjoittelun jälkeen kuin ennen sitä. Tämän tuloksen pohjalta tutkijat päättelivät, että matematiikan harjoittelu tietokoneohjelmalla parantaa matematiikan taitoja. \n\n​\n\nArvioi käytettyä tutkimusasetelmaa eli tutkimuksen toteutustapaa ja tutkijoiden tekemää johtopäätöstä.\n\n​\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 666,
+          "content": {
+            "text": "Tutkimuksessa haluttiin selvittää, miten tietokoneohjelmalla harjoittelu vaikuttaa matematiikan taitoihin. Tutkimusjoukko muodostui eri-ikäisistä vapaaehtoisista alakoululaisista. Aluksi osallistujien suoriutumistaso tutkittiin matematiikan taitoja arvioivalla testillä. Tämän jälkeen osallistujat harjoittelivat tietokoneohjelman avulla kaksi kertaa viikossa yhden lukukauden ajan. Lopuksi suoriutumisen taso arvioitiin samalla testillä kuin ennen harjoittelua. Tulokset osoittivat, että tutkimukseen osallistuneet suoriutuivat testissä paremmin harjoittelun jälkeen kuin ennen sitä. Tämän tuloksen pohjalta tutkijat päättelivät, että matematiikan harjoittelu tietokoneohjelmalla parantaa matematiikan taitoja. \n\n​\n\nArvioi käytettyä tutkimusasetelmaa eli tutkimuksen toteutustapaa ja tutkijoiden tekemää johtopäätöstä.\n\n​\n",
+            "displayNumber": "8."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T08:55:15.047142",
+          "max_score": null,
+          "groupping": null,
+          "id": 8960,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "c13440e3-bbb9-4fb5-9167-da433f9512b1",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2017-06-08T11:26:39.130742"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252838",
+            "18-204676",
+            "18-209630"
+          ],
+          "main_text": "Uusia hermosoluja syntyy etenkin hippokampuksessa eli aivotursossa 70 ikävuoden jälkeenkin, joskin iäkkäämmillä ihmisillä hermosolujen syntymistahti on nuoria hitaampaa. Liikunta sekä terveellinen ruokavalio edistävät uusien hermosolujen syntymistä, kun taas esimerkiksi alkoholi ja tupakka vaikuttavat päinvastaisesti. Uudet hermosolut korvaavat toimimattomia hermoratoja ja säilyvät ainoastaan, jos niille on tarvetta. Uuden oppimiseen johtava psyykkinen ponnistelu edistää uusien hermosolujen säilymistä. Pohdi, miten tätä tietoa voidaan hyö- dyntää vanhenemisen vaikutusten hidastamisessa.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 666,
+          "content": {
+            "text": "Uusia hermosoluja syntyy etenkin hippokampuksessa eli aivotursossa 70 ikävuoden jälkeenkin, joskin iäkkäämmillä ihmisillä hermosolujen syntymistahti on nuoria hitaampaa. Liikunta sekä terveellinen ruokavalio edistävät uusien hermosolujen syntymistä, kun taas esimerkiksi alkoholi ja tupakka vaikuttavat päinvastaisesti. Uudet hermosolut korvaavat toimimattomia hermoratoja ja säilyvät ainoastaan, jos niille on tarvetta. Uuden oppimiseen johtava psyykkinen ponnistelu edistää uusien hermosolujen säilymistä. Pohdi, miten tätä tietoa voidaan hyö- dyntää vanhenemisen vaikutusten hidastamisessa.\n",
+            "displayNumber": "7."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T08:55:15.05601",
+          "max_score": null,
+          "groupping": null,
+          "id": 8930,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "4036be05-1d6a-4d9e-9895-4ef6205dbefc",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2017-06-08T11:21:01.814985"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-219862",
+            "18-252839"
+          ],
+          "main_text": "Viisaus voidaan määritellä osaamiseksi, jossa asioiden monitahoinen ymmärtäminen yhdistyy laajempaan näkemykseen eettisestä hyvästä. Arvioi psykologisen tiedon varassa, kuinka viisaus voidaan erottaa pelkästä tiedollisesta asiantuntijuudesta.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 666,
+          "content": {
+            "text": "Viisaus voidaan määritellä osaamiseksi, jossa asioiden monitahoinen ymmärtäminen yhdistyy laajempaan näkemykseen eettisestä hyvästä. Arvioi psykologisen tiedon varassa, kuinka viisaus voidaan erottaa pelkästä tiedollisesta asiantuntijuudesta.\n",
+            "displayNumber": "6."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T08:55:15.06188",
+          "max_score": null,
+          "groupping": null,
+          "id": 8921,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "1d09f55b-2867-4a7a-a11b-d0c2a012d769",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2017-06-08T11:18:09.525232"
+        }
+      ],
+      "name": "Psykologia syksy 2012",
+      "settings": {},
+      "exam_type": "yo-koe",
+      "classification": {
+        "category": "",
+        "hide_review_buttons": null,
+        "exam_type": "yo-koe",
+        "year": "2012",
+        "language": "fi-FI",
+        "show_exam_series": null,
+        "force_yletunnus": false,
+        "subject": "psykologia",
+        "published": true,
+        "semester": "fall"
+      },
+      "published_at": "2017-06-08T10:55:43.154Z",
+      "language": "fi-FI",
+      "id": 666,
+      "reviews": [],
+      "is_open": true,
+      "uuid": "a0026c7d-81cd-4db3-83d6-ac0b0a0e3d36"
+    }
+  ]
+}

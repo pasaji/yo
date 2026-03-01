@@ -1,0 +1,1911 @@
+{
+  "meta": {
+    "count": 1
+  },
+  "data": [
+    {
+      "tags": [
+        ""
+      ],
+      "main_text": "Koe koostuu 11 tehtävästä, joista vastataan seitsemään. Tehtävät on jaettu kolmeen osaan. Osassa I on yksi kaikille pakollinen 20 pisteen tehtävä. Osassa II on seitsemän 15 pisteen tehtävää, joista vastataan neljään. Osassa III on kolme 20 pisteen tehtävää, joista vastataan kahteen. Kokeen maksimipistemäärä on 120. Kaikki annetut vastaukset tulee perustella, jos perusteleminen on vastausteknisesti mahdollista. \n\n&NewLine;\n\nÄlä jätä mitään merkintöjä sellaisen tehtävän vastaukselle varattuun tilaan, jota et halua jättää arvosteltavaksi.\n",
+      "characters": null,
+      "deleted_at": null,
+      "series_uuids": [],
+      "questions": [
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Lehdistötiedotteessa 11. A kerrotaan etäisen galaksin GN-z11 löytymisestä vuonna 2016. Vastaa aineiston luettuasi seuraaviin kysymyksiin lyhyesti.\n\n&NewLine;\n\nKuinka vanha on tuntemamme maailmankaikkeus?\n\nMistä aiheutuu kaukaisten galaksien lähettämän valon kosminen punasiirtymä?\n\nMistä tutkijat päättelevät, että GN-z11 on kasvuvaiheessa oleva nuori galaksi?\n\n6 p.\n",
+          "deleted_at": null,
+          "feedback": "a. Maailmankaikkeuden ikä on alkuräjähdyksestä kulunut aika. Aineistossa todetaan, että galaksi\n\nGN-z11 nähdään sellaisena kuin se oli 13,4 miljardia vuotta sitten, jolloin alkuräjähdyksestä oli\n\nkulunut 400 miljoonaa vuotta. Maailmankaikkeuden ikä on siis 13,8 miljardia vuotta. (Myös ilman\n\nperustelua esitetty oikea vastaus hyväksytään.)\n\n&NewLine;\n\n**Pisteitys:**\n\nOikea vastaus, 2 p.\n\n&NewLine;\n\nb. Kaukaiset galaksit loittonevat meistä, koska avaruus laajenee. Avaruuden laajenemisen takia ga-\n\nlaksien lähettämän valon aallonpituudet kasvavat eli siirtyvät spektrin ”punaisen pään” suuntaan,\n\n&NewLine;\n\nkun valo kulkee avaruudessa. Tätä kutsutaan kosmiseksi punasiirtymäksi.\n\n&NewLine;\n\n**Pisteitys:**\n\nMainitaan avaruuden laajeneminen, 2 p.\n\n&NewLine;\n\nc. Kaukana sijaitseva GN-z11 voidaan havaita sen kirkkauden ansiosta. Kirkkaus on aineiston mu-\n\nkaan selitettävissä sillä, että galaksissa syntyy runsaasti uusia tähtiä. Tämä on tyypillistä kasvuvai-\n\nheessa olevalle nuorelle galaksille.\n\n&NewLine;\n\n**Pisteitys:**\n\n&NewLine;\n\nVastuksessa todetaan johdonmukaisesti galaksin kirkkaus ja sen johtuminen runsaasta tähtien synnystä sekä galaksin nuoruuden tunnistaminen runsaan tähtien syntymisen perusteella, 2 p.\n",
+          "exam_id": 89267,
+          "content": {
+            "text": "Lehdistötiedotteessa 11. A kerrotaan etäisen galaksin GN-z11 löytymisestä vuonna 2016. Vastaa aineiston luettuasi seuraaviin kysymyksiin lyhyesti.\n\n&NewLine;\n\nKuinka vanha on tuntemamme maailmankaikkeus?\n\nMistä aiheutuu kaukaisten galaksien lähettämän valon kosminen punasiirtymä?\n\nMistä tutkijat päättelevät, että GN-z11 on kasvuvaiheessa oleva nuori galaksi?\n\n6 p.\n",
+            "displayNumber": "11.1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-12-16T14:15:12.332095",
+          "max_score": null,
+          "groupping": null,
+          "id": 2945261,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "aa6bcece-41e4-426d-b7d7-8d097d93e854",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2020-12-16T14:14:30.736979"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Lentävä rengas 20 p.**\n\n​\n\nAineisto\n\n​\n\n10.A [LINK url=http://yle.fi/plus/abitreenit/2020/syksy/2020-09-29\\_FY\\_fi/attachments/index.html#10.%20A|text=Video: Ensimmäinen koe]\n\n10.B [LINK url=http://yle.fi/plus/abitreenit/2020/syksy/2020-09-29\\_FY\\_fi/attachments/index.html#10.%20B|text=Video: Toinen koe]\n\n10.C [LINK url=http://yle.fi/plus/abitreenit/2020/syksy/2020-09-29\\_FY\\_fi/attachments/index.html#10.%20C|text=Video: Kolmas koe]\n\n​\n\nAineistoissa 10. A, 10. B ja 10. C on videot kolmesta kokeesta. Kokeissa käytetään käämiä, joka koostuu 600 lankakierroksesta. Käämin sydämenä on rautatanko. Käämi on kytketty sarjaan tasajännitelähteen ja kytkimen kanssa. Ensimmäisessä kokeessa käämin päälle asetetaan alumiinirengas, jonka jälkeen käämiin kytketään sähkövirta. Toisessa kokeessa sama toistetaan katkaistulla alumiinirenkaalla. Kolmannessa kokeessa käytetään ehjää alumiinirengasta, joka on jäähdytetty nestetypellä.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 89267,
+          "content": {
+            "text": "**Lentävä rengas 20 p.**\n\n​\n\nAineisto\n\n​\n\n10.A [LINK url=http://yle.fi/plus/abitreenit/2020/syksy/2020-09-29\\_FY\\_fi/attachments/index.html#10.%20A|text=Video: Ensimmäinen koe]\n\n10.B [LINK url=http://yle.fi/plus/abitreenit/2020/syksy/2020-09-29\\_FY\\_fi/attachments/index.html#10.%20B|text=Video: Toinen koe]\n\n10.C [LINK url=http://yle.fi/plus/abitreenit/2020/syksy/2020-09-29\\_FY\\_fi/attachments/index.html#10.%20C|text=Video: Kolmas koe]\n\n​\n\nAineistoissa 10. A, 10. B ja 10. C on videot kolmesta kokeesta. Kokeissa käytetään käämiä, joka koostuu 600 lankakierroksesta. Käämin sydämenä on rautatanko. Käämi on kytketty sarjaan tasajännitelähteen ja kytkimen kanssa. Ensimmäisessä kokeessa käämin päälle asetetaan alumiinirengas, jonka jälkeen käämiin kytketään sähkövirta. Toisessa kokeessa sama toistetaan katkaistulla alumiinirenkaalla. Kolmannessa kokeessa käytetään ehjää alumiinirengasta, joka on jäähdytetty nestetypellä.\n",
+            "displayNumber": "10."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "9ab882c0-3dc5-4c48-9c66-be6f3f8c6adf",
+            "92ce3f76-560b-4f60-869c-508236031ac0",
+            "5548c86c-0a9e-4993-929d-90496e7b0d3f",
+            "3e625146-d6fc-45dd-b5ce-f69df5ac276f",
+            "6f066421-182c-4238-8d32-e63ffd6e18f6"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-12-16T14:15:12.313845",
+          "max_score": null,
+          "groupping": null,
+          "id": 2945254,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "a8754b27-c529-4c08-a264-ec7db1a0bb80",
+          "order_number": 13,
+          "multipart": true,
+          "created_at": "2020-12-16T14:14:30.665956"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Äänen nopeus ilmassa on verrannollinen ilman lämpötilan neliöjuureen, eli [MATH text=v\\sim\\sqrt{T.}] Minimietäisyys on 15 cm, kun lämpötila on 20,0 °C. Määritä luotettavien mittauksien minimietäisyyden muutos, kun ilman lämpötila nousee 45,0 °C:een. Kuinka suuri on ultraäänen aallonpituuden suhteellinen muutos? Muuttuuko ultraäänipulssin kesto? 7 p.\n",
+          "deleted_at": null,
+          "feedback": "Ultraäänellä tehtävät etäisyysmittaukset perustuvat ultraäänipulssien heijastumiseen ja kulkuai-\n\nkaan. Äänennopeus ilmassa on lyhyellä aika- ja matkavälillä vakio, ja ultraäänipulssin lähteestä\n\nmittauskohteeseen ja takaisin anturille kulkemiseen käyttämä aika on siksi suoraan verrannollinen\n\nkohteen etäisyyteen.\n\n&NewLine;\n\nPisteitys:\n\n&NewLine;\n\nEsitetään looginen ajatusketju, josta käy ilmi, että pulssi heijastuu ja havaitaan, aika mitataan ja\n\nmainitaan ajan ja matkan yhteys, 3 p.\n\n&NewLine;\n\nMittauksien minimietäisyys määräytyy yhden ultraäänipulssin kestosta. Jos mittauskohta on liian\n\nlähellä, esteestä heijastunut pulssin alkuosa ehtii palata ultraäänilaitteeseen ennen kuin pulssi on\n\nkokonaisuudessaan lähetetty. Kulkuaika mitataan silloin virheellisesti, koska laite ei pysty vastaanottamaan äänisignaalia samalla kun äänipulssin lähettäminen on vielä kesken.\n\n&NewLine;\n\nPisteitys:\n\n&NewLine;\n\nAjatus, että lähettäminen ja vastaanottaminen eivät saa mennä päällekkäin, 2 p.\n\n&NewLine;\n\nMittauksien maksimietäisyys määräytyy ultraäänipulssien vaimenemisesta. Ultraääni vaimenee hyvin voimakkaasti ilmassa ja muissa kaasuissa. Jos etäisyys esteeseen on liian pitkä, pulssi vaimenee liikaa, eikä anturi pystyy havaitsemaan takaisinheijastunutta signaalia.\n\n&NewLine;\n\nPisteitys:\n\n&NewLine;\n\nAallon heikkeneminen, 2 p.\n",
+          "exam_id": 89267,
+          "content": {
+            "text": "Äänen nopeus ilmassa on verrannollinen ilman lämpötilan neliöjuureen, eli [MATH text=v\\sim\\sqrt{T.}] Minimietäisyys on 15 cm, kun lämpötila on 20,0 °C. Määritä luotettavien mittauksien minimietäisyyden muutos, kun ilman lämpötila nousee 45,0 °C:een. Kuinka suuri on ultraäänen aallonpituuden suhteellinen muutos? Muuttuuko ultraäänipulssin kesto? 7 p.\n",
+            "displayNumber": "9.3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-12-16T14:15:12.311423",
+          "max_score": null,
+          "groupping": null,
+          "id": 2945253,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "a053ce55-de11-482b-b1bb-4af6f46afc7a",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2020-12-16T14:14:30.657289"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Erään laitteen valmistaja ilmoittaa, että etäisyyden esteeseen pitää olla vähintään 15 cm, jotta laite havaitsee sen luotettavasti. Esteen maksimietäisyys riippuu laitteen herkkyydestä. Selitä lyhyesti, miten etäisyysmittaus ultraäänilaitteella toimii. Kerro myös, miksi mittaus ei toimi, jos etäisyys on liian lyhyt tai liian pitkä. 7 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 89267,
+          "content": {
+            "text": "Erään laitteen valmistaja ilmoittaa, että etäisyyden esteeseen pitää olla vähintään 15 cm, jotta laite havaitsee sen luotettavasti. Esteen maksimietäisyys riippuu laitteen herkkyydestä. Selitä lyhyesti, miten etäisyysmittaus ultraäänilaitteella toimii. Kerro myös, miksi mittaus ei toimi, jos etäisyys on liian lyhyt tai liian pitkä. 7 p.\n",
+            "displayNumber": "9.1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-12-16T14:15:12.306459",
+          "max_score": null,
+          "groupping": null,
+          "id": 2945251,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "a8d580f3-0b53-4b83-be5d-9830ab4c2d7f",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2020-12-16T14:14:30.639309"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Pysäköintitutka 20 p.**\n\n&NewLine;\n\nAineisto\n\n9.A [LINK url=http://yle.fi/plus/abitreenit/2020/syksy/2020-09-29\\_FY\\_fi/attachments/index.html#9.%20A|text=Kuva: Pysäköintitutkan toimintaperiaate]\n\n&NewLine;\n\nPysäköintitutka on ajoneuvon pysäköintiä avustava järjestelmä. Se toimii ajoneuvon perä- tai etuosassa olevien ultraäänilaitteiden lähettämien ultraäänipulssien avulla. Yksinkertaisessa järjestelmässä laite ei pysty samanaikaisesti sekä lähettämään että vastaanottamaan ultraäänisignaalia. Sen sijaan se lähettää tasaisin välein ultraäänipulsseja ja rekisteröi pulssien välisinä aikoina ympäristöstä tulevaa samantaajuista ultraääntä (katso kuva 9. A). Järjestelmä määrittää pulssien avulla etäisyyden esteeseen, ja mikäli este on lähellä ajoneuvoa, kuljettajaa varoitetaan.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 89267,
+          "content": {
+            "text": "**Pysäköintitutka 20 p.**\n\n&NewLine;\n\nAineisto\n\n9.A [LINK url=http://yle.fi/plus/abitreenit/2020/syksy/2020-09-29\\_FY\\_fi/attachments/index.html#9.%20A|text=Kuva: Pysäköintitutkan toimintaperiaate]\n\n&NewLine;\n\nPysäköintitutka on ajoneuvon pysäköintiä avustava järjestelmä. Se toimii ajoneuvon perä- tai etuosassa olevien ultraäänilaitteiden lähettämien ultraäänipulssien avulla. Yksinkertaisessa järjestelmässä laite ei pysty samanaikaisesti sekä lähettämään että vastaanottamaan ultraäänisignaalia. Sen sijaan se lähettää tasaisin välein ultraäänipulsseja ja rekisteröi pulssien välisinä aikoina ympäristöstä tulevaa samantaajuista ultraääntä (katso kuva 9. A). Järjestelmä määrittää pulssien avulla etäisyyden esteeseen, ja mikäli este on lähellä ajoneuvoa, kuljettajaa varoitetaan.\n",
+            "displayNumber": "9."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "a8d580f3-0b53-4b83-be5d-9830ab4c2d7f",
+            "87698784-be38-4b0d-b0b3-21047f38d55b",
+            "a053ce55-de11-482b-b1bb-4af6f46afc7a"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-12-16T14:15:12.303923",
+          "max_score": null,
+          "groupping": null,
+          "id": 2945250,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "5513631e-b10a-4f7b-bdbf-219e134812e4",
+          "order_number": 12,
+          "multipart": true,
+          "created_at": "2020-12-16T14:14:30.63125"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Sauna 15 p.**\n\n&NewLine;\n\nLeo ja Jukka saunovat lämpötilaan 90 °C lämmitetyssä saunassa ja kiistelevät siitä, kannattaako kiukaalle heittää kylmää (lämpötila 7 °C) vai lämmintä (lämpötila 40 °C) vettä. Leon mielestä kylmä vesi jäähdyttää kiviä liikaa, kun taas Jukan mielestä löylyveden lämpötilalla ei ole juurikaan merkitystä.\n\n&NewLine;\n\nKiukaassa on 100 kg kiuaskiviä, ja niiden lämpötila on 250 °C. Kivien ominaislämpökapasiteetti on 1,30 kJ/(kg K). Vettä heitetään kiukaalle 0,30 litraa. Veden keskimääräinen höyrystymislämpötila kiuaskivien pinnalla on 90 °C.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 89267,
+          "content": {
+            "text": "**Sauna 15 p.**\n\n&NewLine;\n\nLeo ja Jukka saunovat lämpötilaan 90 °C lämmitetyssä saunassa ja kiistelevät siitä, kannattaako kiukaalle heittää kylmää (lämpötila 7 °C) vai lämmintä (lämpötila 40 °C) vettä. Leon mielestä kylmä vesi jäähdyttää kiviä liikaa, kun taas Jukan mielestä löylyveden lämpötilalla ei ole juurikaan merkitystä.\n\n&NewLine;\n\nKiukaassa on 100 kg kiuaskiviä, ja niiden lämpötila on 250 °C. Kivien ominaislämpökapasiteetti on 1,30 kJ/(kg K). Vettä heitetään kiukaalle 0,30 litraa. Veden keskimääräinen höyrystymislämpötila kiuaskivien pinnalla on 90 °C.\n",
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "9f948f7b-ebc3-4169-b37f-d792db467388",
+            "f3d31994-750d-45cc-ae2f-b4eee2465ea2",
+            "b8051da8-3995-4478-9450-a63a881f7597"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-12-16T14:15:12.247368",
+          "max_score": null,
+          "groupping": null,
+          "id": 2944811,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "cd4af0b8-4e99-46a8-93a6-a6465b7fec43",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2020-12-16T13:28:35.423631"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Lähteet**\n\n&NewLine;\n\n1.7. Lähde: YTL.\n\n1.9. Lähde: YTL.\n\n1.10. Lähde: YTL.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 89267,
+          "content": {
+            "text": "**Lähteet**\n\n&NewLine;\n\n1.7. Lähde: YTL.\n\n1.9. Lähde: YTL.\n\n1.10. Lähde: YTL.\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-12-16T14:15:12.339505",
+          "max_score": null,
+          "groupping": null,
+          "id": 2945314,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "5720e6ab-492f-43bf-93e1-19ff2cb46126",
+          "order_number": 15,
+          "multipart": true,
+          "created_at": "2020-12-16T14:14:57.457769"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Galaksi 20 p.**\n\n​\n\nAineisto\n\n​\n\n11.A [LINK url=http://yle.fi/plus/abitreenit/2020/syksy/2020-09-29\\_FY\\_fi/attachments/index.html#11.%20A|text=Teksti: Lehdistötiedote]\n\n11.B [LINK url=http://yle.fi/plus/abitreenit/2020/syksy/2020-09-29\\_FY\\_fi/attachments/index.html#11.%20B|text=Kuva: Galaksin punasiirtymä]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 89267,
+          "content": {
+            "text": "**Galaksi 20 p.**\n\n​\n\nAineisto\n\n​\n\n11.A [LINK url=http://yle.fi/plus/abitreenit/2020/syksy/2020-09-29\\_FY\\_fi/attachments/index.html#11.%20A|text=Teksti: Lehdistötiedote]\n\n11.B [LINK url=http://yle.fi/plus/abitreenit/2020/syksy/2020-09-29\\_FY\\_fi/attachments/index.html#11.%20B|text=Kuva: Galaksin punasiirtymä]\n",
+            "displayNumber": "11."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "aa6bcece-41e4-426d-b7d7-8d097d93e854",
+            "d05f1e14-8dae-44bf-90c9-832ceaa87fdc",
+            "043231f3-f10c-440f-96ca-75b7d493d7d4"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-12-16T14:15:12.329441",
+          "max_score": null,
+          "groupping": null,
+          "id": 2945260,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "ea14a44d-cd60-4833-8e25-e10b70f5bb09",
+          "order_number": 14,
+          "multipart": true,
+          "created_at": "2020-12-16T14:14:30.72213"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Lentäisikö alumiinirengas yhtä korkealle ensimmäisessä kokeessa (video 10. A), jos käämin sydämenä oleva rautatanko korvattaisiin messinkitangolla? Perustele vastauksesi. 4 p.\n",
+          "deleted_at": null,
+          "feedback": "Messinki ei ole ferromagneettinen aine. Messinkinen tanko ei siksi juurikaan magnetoidu\n\nulkoisessa magneettikentässä. Kun käämiin kytketään sähkövirta, alumiinirengas kokee siis vain\n\nkäämiksi kierretyn virtajohtimen aiheuttaman suhteellisen heikon magneettikentän vaikutuksen.\n\nRenkaaseen indusoituu näin ollen vain heikko jännite, ja toisiaan hylkivät magneettiset voimat\n\njäävät silloin pieniksi.\n\n&NewLine;\n\n**Pisteitys:**\n\n&NewLine;\n\nRaudan ja messingin magneettisuuksien vertailu, 2 p.\n\nTodetaan, että alumiinirenkaaseen indusoitunut sähkövirta tai alumiinirenkaan magneettikenttä\n\non pienempi kuin rautasydämen tapauksessa, 1 p.\n\nTodetaan, että alumiinirengas ei lennä, 1 p.\n",
+          "exam_id": 89267,
+          "content": {
+            "text": "Lentäisikö alumiinirengas yhtä korkealle ensimmäisessä kokeessa (video 10. A), jos käämin sydämenä oleva rautatanko korvattaisiin messinkitangolla? Perustele vastauksesi. 4 p.\n",
+            "displayNumber": "10.5."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-12-16T14:15:12.327002",
+          "max_score": null,
+          "groupping": null,
+          "id": 2945259,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "6f066421-182c-4238-8d32-e63ffd6e18f6",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2020-12-16T14:14:30.70887"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Selitä, miksi toisen kokeen (video 10. B) katkaistu rengas ei lennähdä ylös. 3 p.\n",
+          "deleted_at": null,
+          "feedback": "Kun koe toistetaan katkaistulla renkaalla, renkaaseen kyllä indusoituu jännite, mutta koska rengas\n\non poikki, se ei muodosta virtasilmukkaa, jossa kulkisi sähkövirta. Rengas ei tällöin muodosta\n\nmagneettikenttää, joka hylkisi rautasydämen magneettikenttää.\n\n&NewLine;\n\n**Pisteitys:**\n\n&NewLine;\n\nRenkaassa ei ole sähkövirtaa, 2 p.\n\nAlumiinirenkaan aiheuttama magneettikenttä tai syntyvä magneettinen voima on pienempi kuin\n\nehjän renkaan tapauksessa, 1 p.\n\nMikäli väitetään, että katkaistuun renkaaseen ei synny jännitettä, osiosta saa 0 p.\n",
+          "exam_id": 89267,
+          "content": {
+            "text": "Selitä, miksi toisen kokeen (video 10. B) katkaistu rengas ei lennähdä ylös. 3 p.\n",
+            "displayNumber": "10.2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-12-16T14:15:12.319065",
+          "max_score": null,
+          "groupping": null,
+          "id": 2945256,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "92ce3f76-560b-4f60-869c-508236031ac0",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2020-12-16T14:14:30.681008"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Määritä ultraäänipulssin kesto ja itse ultraäänen aallonpituus ja taajuus, jos yhdessä pulssissa on 90 värähtelyjaksoa ja luotettavien mittauksien minimietäisyys on 15 cm. Ilman lämpötila on 20,0 °C. 6 p.\n",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/1GAv3APbfTIeRBaPBL3caSZXzwxl1UW\\_0/view|text=Katso oikea vastaus hyvän vastauksen piirteistä.]\n",
+          "exam_id": 89267,
+          "content": {
+            "text": "Määritä ultraäänipulssin kesto ja itse ultraäänen aallonpituus ja taajuus, jos yhdessä pulssissa on 90 värähtelyjaksoa ja luotettavien mittauksien minimietäisyys on 15 cm. Ilman lämpötila on 20,0 °C. 6 p.\n",
+            "displayNumber": "9.2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-12-16T14:15:12.309018",
+          "max_score": null,
+          "groupping": null,
+          "id": 2945252,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "87698784-be38-4b0d-b0b3-21047f38d55b",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2020-12-16T14:14:30.647774"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Selitä, miksi Collins koki olevansa painoton kiertäessään Kuuta. 5 p.\n",
+          "deleted_at": null,
+          "feedback": "Kuuta kiertäessään komento- ja huoltomoduulin yhdistelmä oli vapaassa putoamisliikkeessä\n\ngravitaatiokentässä, jossa sen kiihtyvyys oli gravitaation aiheuttama gravitaatiokiihtyvyys.\n\n&NewLine;\n\nKoska gravitaatiokiihtyvyys on kaikille kappaleille yhtä suuri, Collinsin kiihtyvyys oli yhtä suuri kuin moduuliyhdistelmän kiihtyvyys. Siksi moduuliyhdistelmä ei aiheuttanut Collinsiin tukivoimia ja Col-\n\nlins koki olevansa painottomassa tilassa.\n\n&NewLine;\n\nPisteitys:\n\n&NewLine;\n\nIlmaistaan ajatus, että sekä Collins että moduuli ovat vapaassa putoamisliikkeessä, 3 p.\n\nTukivoiman puuttuminen, 2 p.\n",
+          "exam_id": 89267,
+          "content": {
+            "text": "Selitä, miksi Collins koki olevansa painoton kiertäessään Kuuta. 5 p.\n",
+            "displayNumber": "8.2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-12-16T14:15:12.299284",
+          "max_score": null,
+          "groupping": null,
+          "id": 2945213,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "a976bd7e-96e9-4556-a44d-21449c1c11d5",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2020-12-16T13:53:46.666352"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Sähkömagneettisen säteilyn Dopplerin lain mukaan [MATH text=\\lambda\\_h=\\lambda\\sqrt{\\frac{1+\\frac{v}{c}}{1-\\frac{v}{c}}}], jossa v on galaksin loittonemisnopeus ja c valonnopeus. \n\n​\n\nMääritä galaksin GN-z11 loittonemisnopeus ja Hubblen lain [MATH text=v=H\\_0d] avulla galaksin etäisyys d. [MATH text=\\left(H\\_0=22\\frac{km/s}{Mly}\\right)]\n",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/1GAv3APbfTIeRBaPBL3caSZXzwxl1UW\\_0/view|text=Katso oikea vastaus hyvän vastauksen piirteistä.]\n",
+          "exam_id": 89267,
+          "content": {
+            "text": "Sähkömagneettisen säteilyn Dopplerin lain mukaan [MATH text=\\lambda\\_h=\\lambda\\sqrt{\\frac{1+\\frac{v}{c}}{1-\\frac{v}{c}}}], jossa v on galaksin loittonemisnopeus ja c valonnopeus. \n\n​\n\nMääritä galaksin GN-z11 loittonemisnopeus ja Hubblen lain [MATH text=v=H\\_0d] avulla galaksin etäisyys d. [MATH text=\\left(H\\_0=22\\frac{km/s}{Mly}\\right)]\n",
+            "displayNumber": "11.3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-12-16T14:15:12.337073",
+          "max_score": null,
+          "groupping": null,
+          "id": 2945263,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "043231f3-f10c-440f-96ca-75b7d493d7d4",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2020-12-16T14:14:30.764866"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Vuonna 2016 havaittu galaksi GN-z11 on yksi kaukaisimmista tunnetuista galakseista. Kosmologiassa suuret etäisyydet ilmaistaan kosmisen punasiirtymän avulla. Punasiirtymän mittana käytetään suuretta [MATH text=z=\\frac{\\lambda\\_h-\\lambda}{\\lambda}], jossa [MATH text=\\lambda\\_h]on mittauksissa havaittu aallonpituus ja [MATH text=\\lambda] galaksin lähettämän säteilyn aallonpituus. Kuva 11. B esittää suureen z arvon mittaustulosta galaksin GN-z11 tapauksessa.\n\n&NewLine;\n\nMihin aallonpituuden arvoon arvioit vedyn spektrin Lymanin α-viivan (aallonpituus 121,57 nm) siirtyneen havaitussa spektrissä?\n\n&NewLine;\n\n6 p.\n",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/1GAv3APbfTIeRBaPBL3caSZXzwxl1UW\\_0/view|text=Katso oikea vastaus hyvän vastauksen piirteistä.]\n",
+          "exam_id": 89267,
+          "content": {
+            "text": "Vuonna 2016 havaittu galaksi GN-z11 on yksi kaukaisimmista tunnetuista galakseista. Kosmologiassa suuret etäisyydet ilmaistaan kosmisen punasiirtymän avulla. Punasiirtymän mittana käytetään suuretta [MATH text=z=\\frac{\\lambda\\_h-\\lambda}{\\lambda}], jossa [MATH text=\\lambda\\_h]on mittauksissa havaittu aallonpituus ja [MATH text=\\lambda] galaksin lähettämän säteilyn aallonpituus. Kuva 11. B esittää suureen z arvon mittaustulosta galaksin GN-z11 tapauksessa.\n\n&NewLine;\n\nMihin aallonpituuden arvoon arvioit vedyn spektrin Lymanin α-viivan (aallonpituus 121,57 nm) siirtyneen havaitussa spektrissä?\n\n&NewLine;\n\n6 p.\n",
+            "displayNumber": "11.2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-12-16T14:15:12.334738",
+          "max_score": null,
+          "groupping": null,
+          "id": 2945262,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "d05f1e14-8dae-44bf-90c9-832ceaa87fdc",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2020-12-16T14:14:30.751518"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Selitä yksityiskohtaisesti, mitä rautatangossa tapahtuu, kun käämiin kytketään sähkövirta. 4 p.\n",
+          "deleted_at": null,
+          "feedback": "Rautatanko on ferromagneettista ainetta, joka koostuu satunnaisesti järjestäytyneistä\n\nmagneettisista alkeisalueista. Kunkin alkeisalueen sisällä atomien ja molekyylien muodostamat\n\nalkeismagneetit ovat likipitäen samansuuntaisia. Ferromagneettisten rakeiden satunnaisuus on\n\nominaista pehmytraudalle. Kun käämin johtimeen kytketään sähkövirta, sähkövirran aiheuttama\n\nmagneettikenttä kääntää eri alkeisalueiden magneettikentät samansuuntaisiksi, jolloin käämin ja\n\nmagnetoituneen rautasydämen kokonaiskenttä on huomattavasti voimakkaampi kuin pelkän\n\nkäämiksi kierretyn virtajohtimen aikaansaama kenttä.\n\n&NewLine;\n\n**Pisteitys:**\n\n&NewLine;\n\nRaudan ferromagneettisuus, 1 p.\n\nMagneettisten alkeisalueiden järjestäytyminen, 2 p.\n\nRautatangon magnetoituminen, 1 p.\n",
+          "exam_id": 89267,
+          "content": {
+            "text": "Selitä yksityiskohtaisesti, mitä rautatangossa tapahtuu, kun käämiin kytketään sähkövirta. 4 p.\n",
+            "displayNumber": "10.4."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-12-16T14:15:12.324087",
+          "max_score": null,
+          "groupping": null,
+          "id": 2945258,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "3e625146-d6fc-45dd-b5ce-f69df5ac276f",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2020-12-16T14:14:30.696964"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Selitä, miksi kolmannen kokeen (video 10. C) jäähdytetty rengas lennähtää korkeammalle kuin ensimmäisen kokeen rengas. 3 p.\n",
+          "deleted_at": null,
+          "feedback": "Nestetypellä jäähdytetyllä renkaalla on huomattavasti alhaisempi resistiivisyys kuin lämpimällä\n\nrenkaalla. Tästä syystä induktiojännitteen aiheuttama sähkövirta on siinä huomattavasti suurempi\n\nkuin lämpimässä renkaassa. Silloin myös sähkövirran aiheuttama magneettikenttä, ja näin ollen\n\nmyös toisiaan hylkivät voimat, ovat suurempia kuin lämpimän renkaan tapauksessa. \n\n&NewLine;\n\nPisteitys: \n\n&NewLine;\n\nTodetaan parempi johtavuus tai alhaisempi resistiivisyys, 2 p.\n\nSähkövirran aiheuttama kenttä tai magneettinen voima on suurempi kuin lämpimän renkaan ta-\n\npauksessa, 1 p.\n\n&NewLine;\n",
+          "exam_id": 89267,
+          "content": {
+            "text": "Selitä, miksi kolmannen kokeen (video 10. C) jäähdytetty rengas lennähtää korkeammalle kuin ensimmäisen kokeen rengas. 3 p.\n",
+            "displayNumber": "10.3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-12-16T14:15:12.321481",
+          "max_score": null,
+          "groupping": null,
+          "id": 2945257,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "5548c86c-0a9e-4993-929d-90496e7b0d3f",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2020-12-16T14:14:30.687629"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Selitä, miksi ensimmäisen kokeen (video 10. A) rengas lennähtää ylös, kun käämiin kytketään sähkövirta. 6 p.\n",
+          "deleted_at": null,
+          "feedback": "Kun käämiin kytketään sähkövirta, se toimii sähkömagneettina rautatangon magnetoituessa\n\näkillisesti. Alumiinirenkaan läpäisemä magneettivuo muuttuu, mikä indusoi renkaaseen jännitteen.\n\nIndusoitunut jännite puolestaan aiheuttaa renkaaseen sähkövirran. Sähkövirta synnyttää\n\nmagneettikentän, joka on Lenzin lain mukaan vastakkaissuuntainen rautasydämen\n\nmagneettikentälle, minkä vuoksi rengas ja rautasydän hylkivät toisiaan ja rengas lennähtää pois.\n\n&NewLine;\n\n**Pisteitys:**\n\n&NewLine;\n\nMainitaan muuttuva magneettivuo (magneettikenttä ei kelpaa) alumiinirenkaan läpi, 2 p.\n\nAlumiinirenkaaseen syntyy induktiovirta, 2 p.\n\n&NewLine;\n\nSähkövirran suunta perustellaan vastakkaisilla magneettikentän suunnilla tai magneettivuon muu-\n\ntoksilla, 2 p.\n",
+          "exam_id": 89267,
+          "content": {
+            "text": "Selitä, miksi ensimmäisen kokeen (video 10. A) rengas lennähtää ylös, kun käämiin kytketään sähkövirta. 6 p.\n",
+            "displayNumber": "10.1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-12-16T14:15:12.316373",
+          "max_score": null,
+          "groupping": null,
+          "id": 2945255,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "9ab882c0-3dc5-4c48-9c66-be6f3f8c6adf",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2020-12-16T14:14:30.674173"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Osa III: 20 pisteen tehtävät\n\nVastaa kahteen tehtävään.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 89267,
+          "content": {
+            "text": "### Osa III: 20 pisteen tehtävät\n\nVastaa kahteen tehtävään.\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-12-16T14:15:12.301649",
+          "max_score": null,
+          "groupping": null,
+          "id": 2945249,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "dfa54e42-7d07-4a1d-9f46-495f41bd87e6",
+          "order_number": 11,
+          "multipart": true,
+          "created_at": "2020-12-16T14:14:30.62321"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kuinka monta kertaa Collins ehti kiertää Kuun yksinään? 10 p.\n",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/1GAv3APbfTIeRBaPBL3caSZXzwxl1UW\\_0/view|text=Katso oikea vastaus hyvän vastauksen piirteistä.]\n",
+          "exam_id": 89267,
+          "content": {
+            "text": "Kuinka monta kertaa Collins ehti kiertää Kuun yksinään? 10 p.\n",
+            "displayNumber": "8.1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-12-16T14:15:12.296733",
+          "max_score": null,
+          "groupping": null,
+          "id": 2945212,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "9513dd4b-691d-4dd5-9e72-9eb8a80da306",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2020-12-16T13:53:46.663542"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Apollo 11 15 p.**\n\n&NewLine;\n\nApollo 11 -kuulennolla heinäkuussa 1969 komento-, huolto- ja kuumoduulin yhdistelmä asettui kiertämään Kuuta likimain ympyrän muotoiselle radalle, jonka korkeus Kuun pinnasta oli 110 km. Kun lennon alusta oli kulunut aikaa 100 h 12 min, kuumoduuli irrotettiin moduuliyhdistelmästä, ja se vei Neil Armstrongin ja Edwin Aldrinin Kuun pinnalle. Michael Collins jäi kiertämään Kuuta komento- ja huoltomoduulissa. Kuussa käynnin jälkeen kuumoduuli telakoitui takaisin komento- ja huoltomoduuliin. Tällöin lennon alusta oli kulunut aikaa 128 h 3 min.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 89267,
+          "content": {
+            "text": "**Apollo 11 15 p.**\n\n&NewLine;\n\nApollo 11 -kuulennolla heinäkuussa 1969 komento-, huolto- ja kuumoduulin yhdistelmä asettui kiertämään Kuuta likimain ympyrän muotoiselle radalle, jonka korkeus Kuun pinnasta oli 110 km. Kun lennon alusta oli kulunut aikaa 100 h 12 min, kuumoduuli irrotettiin moduuliyhdistelmästä, ja se vei Neil Armstrongin ja Edwin Aldrinin Kuun pinnalle. Michael Collins jäi kiertämään Kuuta komento- ja huoltomoduulissa. Kuussa käynnin jälkeen kuumoduuli telakoitui takaisin komento- ja huoltomoduuliin. Tällöin lennon alusta oli kulunut aikaa 128 h 3 min.\n",
+            "displayNumber": "8."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "9513dd4b-691d-4dd5-9e72-9eb8a80da306",
+            "a976bd7e-96e9-4556-a44d-21449c1c11d5"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-12-16T14:15:12.294377",
+          "max_score": null,
+          "groupping": null,
+          "id": 2945211,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "55f860e4-742b-475c-91a0-ae507610f909",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2020-12-16T13:53:46.660603"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Pitkäjouseen asetetaan nuoli, jonka massa on 490 graania (1 graani = 64,79891 mg), ja jousi jännitetään 0,70 m:n vetopituuteen. Kuinka suuren lähtönopeuden vaakasuoraan ammuttu nuoli voi korkeintaan saada? 8 p.\n",
+          "deleted_at": null,
+          "feedback": "[LINK url=Pitkäjouseen asetetaan nuoli, jonka massa on 490 graania (1 graani = 64,79891 mg), ja jousi jännitetään 0,70 m:n vetopituuteen. Kuinka suuren lähtönopeuden vaakasuoraan ammuttu nuoli voi korkeintaan saada? 8 p.|text=Katso oikea vastaus hyvän vastauksen piirteistä.]\n",
+          "exam_id": 89267,
+          "content": {
+            "text": "Pitkäjouseen asetetaan nuoli, jonka massa on 490 graania (1 graani = 64,79891 mg), ja jousi jännitetään 0,70 m:n vetopituuteen. Kuinka suuren lähtönopeuden vaakasuoraan ammuttu nuoli voi korkeintaan saada? 8 p.\n",
+            "displayNumber": "4.2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-12-16T14:15:12.269701",
+          "max_score": null,
+          "groupping": null,
+          "id": 2945053,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "5418900f-50d0-470a-bf60-585c5a40c377",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2020-12-16T13:43:15.094294"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kuinka paksu alumiinikerros tarvitaan siihen, että 662 keV:n gammasäteilyn intensiteetti pienenee kymmenesosaan alkuperäisestä arvostaan? 5 p.\n",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/1GAv3APbfTIeRBaPBL3caSZXzwxl1UW\\_0/view|text=Katso oikea vastaus hyvän vastauksen piirteistä.]\n",
+          "exam_id": 89267,
+          "content": {
+            "text": "Kuinka paksu alumiinikerros tarvitaan siihen, että 662 keV:n gammasäteilyn intensiteetti pienenee kymmenesosaan alkuperäisestä arvostaan? 5 p.\n",
+            "displayNumber": "7.3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-12-16T14:15:12.291974",
+          "max_score": null,
+          "groupping": null,
+          "id": 2945178,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "faa7cb36-8e5c-4901-b3d4-afd820fc2ceb",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2020-12-16T13:51:58.490679"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Erään radioaktiivisen lähteen lähettämän 662 keV:n gammasäteilyn vaimenemista alumiinissa tutkittiin lisäämällä lähteen ja säteilynilmaisimen väliin yksitellen 10,0 mm:n vahvuisia alumiinilevyjä ja mittaamalla kussakin vaiheessa säteilyn intensiteetti I fotoneina aikayksikössä. Aineistossa 7. B on esitetty kulloisetkin alumiinilevyjen yhteenlasketut paksuudet ja säteilyn intensiteetit. Esitä mitatut intensiteetit alumiinin paksuuden funktiona, ja sovita mittauspisteisiin intensiteetin kuvaaja I(x), jossa x on alumiinikerroksen paksuus. 5 p.\n",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/1GAv3APbfTIeRBaPBL3caSZXzwxl1UW\\_0/view|text=Katso oikea vastaus hyvän vastauksen piirteistä.]\n",
+          "exam_id": 89267,
+          "content": {
+            "text": "Erään radioaktiivisen lähteen lähettämän 662 keV:n gammasäteilyn vaimenemista alumiinissa tutkittiin lisäämällä lähteen ja säteilynilmaisimen väliin yksitellen 10,0 mm:n vahvuisia alumiinilevyjä ja mittaamalla kussakin vaiheessa säteilyn intensiteetti I fotoneina aikayksikössä. Aineistossa 7. B on esitetty kulloisetkin alumiinilevyjen yhteenlasketut paksuudet ja säteilyn intensiteetit. Esitä mitatut intensiteetit alumiinin paksuuden funktiona, ja sovita mittauspisteisiin intensiteetin kuvaaja I(x), jossa x on alumiinikerroksen paksuus. 5 p.\n",
+            "displayNumber": "7.2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-12-16T14:15:12.289598",
+          "max_score": null,
+          "groupping": null,
+          "id": 2945177,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "61054685-d6a2-461b-bf97-3040878f61c9",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2020-12-16T13:51:58.488372"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Radioaktiivinen hajoaminen 15 p.**\n\n&NewLine;\n\nAineisto\n\n7.A [LINK url=http://yle.fi/plus/abitreenit/2020/syksy/2020-09-29\\_FY\\_fi/attachments/index.html#7.%20A|text=Kuva: Hajoamiskaavio]\n\n7.B [LINK url=http://yle.fi/plus/abitreenit/2020/syksy/2020-09-29\\_FY\\_fi/attachments/index.html#7.%20B|text=Taulukko: Intensiteetin arvot alumiinikerroksen eri paksuuksille]\n\n&NewLine;\n\nCesiumin radioaktiivista isotooppia Cs-137 käytetään muun muassa materiaalien paksuuksien ja virtauksien määrittämiseen teollisuudessa ja syövän hoitoon sairaaloissa. Sitä syntyy ytimien fissioreaktioissa ydinvoimaloissa.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 89267,
+          "content": {
+            "text": "**Radioaktiivinen hajoaminen 15 p.**\n\n&NewLine;\n\nAineisto\n\n7.A [LINK url=http://yle.fi/plus/abitreenit/2020/syksy/2020-09-29\\_FY\\_fi/attachments/index.html#7.%20A|text=Kuva: Hajoamiskaavio]\n\n7.B [LINK url=http://yle.fi/plus/abitreenit/2020/syksy/2020-09-29\\_FY\\_fi/attachments/index.html#7.%20B|text=Taulukko: Intensiteetin arvot alumiinikerroksen eri paksuuksille]\n\n&NewLine;\n\nCesiumin radioaktiivista isotooppia Cs-137 käytetään muun muassa materiaalien paksuuksien ja virtauksien määrittämiseen teollisuudessa ja syövän hoitoon sairaaloissa. Sitä syntyy ytimien fissioreaktioissa ydinvoimaloissa.\n",
+            "displayNumber": "7."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "5848354d-51ea-4b57-bdab-60183f19df37",
+            "61054685-d6a2-461b-bf97-3040878f61c9",
+            "faa7cb36-8e5c-4901-b3d4-afd820fc2ceb"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-12-16T14:15:12.284362",
+          "max_score": null,
+          "groupping": null,
+          "id": 2945145,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "b52f78c5-9b15-481a-adb2-33cef17d383d",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2020-12-16T13:48:24.165577"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Metalliset nuppineulasi putoavat lattialle, ja osa niistä päätyy lattialautojen välissä olevaan, 1,5 mm:n levyiseen rakoon, josta niiden noukkiminen sormin ei onnistu.\n\n&NewLine;\n\nMiten saat lattiaa vahingoittamatta nuppineulat noukittua lattian raosta, kun käytettävissäsi ovat aineistokuvassa 6. A olevat välineet?\n\n&NewLine;\n\nRatkaisustasi tulee käydä yksityiskohtaisesti ilmi,\n\n&NewLine;\n\n- miten käytät valitsemiasi välineitä\n- mihin fysiikan ilmiöön tai ilmiöihin ratkaisusi perustuu\n- miten voit säädellä ratkaisussasi käyttämäsi menetelmän tehokkuutta\n- mitä turvallisuustekijöitä pitää käyttämässäsi menetelmässä ottaa huomioon.\n\n&NewLine;\n",
+          "deleted_at": null,
+          "feedback": "Nuppineulat saisi noukittua lattian raosta rakentamalla käytettävissä olevista esineistä\n\nsähkömagneetin. Rakentamiseen tarvitaan paristo, metallilankaa ja rautanaula (tai kynä).\n\nMetallilangan päällysteen voi päistään kuoria saksilla. Metallilanka kieputetaan rautanaulan (tai\n\nkynän) ympärille (alkeellinen käämi) ja langan päät kierretään pariston napojen ympärille tai\n\nkiinnitetään niihin eristysnauhalla. Kun metallilangan päät on kytketty pariston napoihin, on langassa sähkövirta. Tällöin langan ympärille syntyy magneettikenttä ja (alkeellinen) käämi toimii sähkömagneettina. Nuppineulat itsessään eivät ole magneetteja, mutta ne magnetoituvat hetkellisesti magneetin vaikutuksesta, ja siten ne tarttuvat sähkömagneettiin. Näin nuppineulat saadaan pois lattialautojen välistä.\n\n&NewLine;\n\nMitä useampi kierros johdinta on kierretty ja mitä lyhyemmälle matkalle, sitä voimakkaampi on\n\nmagneettikenttä (pitkän käämin magneettikenttä B = Nμ0I/l). Magneettikenttä vahvistuu, jos\n\nrautanaulan laittaa käämiin sydämeksi. Koska paristoja oli vain yksi, sähkövirran suuruutta\n\nsähkömagneetissa ei voida vaihdella.\n\n&NewLine;\n\nMetallilanka johtaa hyvin sähköä, joten kytkentä vastaa lähes oikosulkukytkentää. Syntyvä\n\nsähkövirta on suuri, ja metallilanka kuumenee voimakkaasti. Nuppineulat kannattaa siis noukkia\n\nmahdollisimman nopeasti. Tarvittaessa sähkömagneettia voi siirrellä pyyhekumien avulla, koska\n\npyyhekumit eivät johda lämpöä.\n\n&NewLine;\n\nPisteitys:\n\n&NewLine;\n\nSähkömagneetin käyttö menetelmänä ja sähkömagneetin järkevä toteutus, 2+2 p.\n\nTodetaan, että sähkövirta synnyttää magneettikentän, 3 p.\n\nNuppineulan magnetoituminen, 3 p.\n\nTehokkuuden säätely, 3 p.\n\nOikosulun aiheuttaman kuumenemisen huomiointi vaaratekijänä, 2 p.\n\n&NewLine;\n\nVastaukset, joissa on käytetty muuta menetelmää kuin sähkömagnetismia, on pisteytetty\n\nmenetelmän perustellun toimivuuden ja toteutuskelpoisuuden perusteella.\n",
+          "exam_id": 89267,
+          "content": {
+            "text": "Metalliset nuppineulasi putoavat lattialle, ja osa niistä päätyy lattialautojen välissä olevaan, 1,5 mm:n levyiseen rakoon, josta niiden noukkiminen sormin ei onnistu.\n\n&NewLine;\n\nMiten saat lattiaa vahingoittamatta nuppineulat noukittua lattian raosta, kun käytettävissäsi ovat aineistokuvassa 6. A olevat välineet?\n\n&NewLine;\n\nRatkaisustasi tulee käydä yksityiskohtaisesti ilmi,\n\n&NewLine;\n\n- miten käytät valitsemiasi välineitä\n- mihin fysiikan ilmiöön tai ilmiöihin ratkaisusi perustuu\n- miten voit säädellä ratkaisussasi käyttämäsi menetelmän tehokkuutta\n- mitä turvallisuustekijöitä pitää käyttämässäsi menetelmässä ottaa huomioon.\n\n&NewLine;\n"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-12-16T14:15:12.281812",
+          "max_score": null,
+          "groupping": null,
+          "id": 2945058,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "1a7bf9ea-385e-4eeb-8d22-48c323835d3f",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2020-12-16T13:43:15.109331"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Varatut pingispallot 15 p.**\n\n&NewLine;\n\nAineisto\n\n&NewLine;\n\n3.A. [LINK url=http://yle.fi/plus/abitreenit/2020/syksy/2020-09-29\\_FY\\_fi/attachments/index.html#3.%20A|text=Kuva: Tilannekuva]\n\n&NewLine;\n\nVarattujen kappaleiden vuorovaikutusta tutkittiin kuvan 3. A mukaisella koejärjestelyllä. Siinä kaksi samanlaista hopeoitua pingispalloa on ripustettu hyvin ohuen kuparilangan avulla roikkumaan eristekoukusta. Lankojen pituus ripustuspisteestä pallojen keskipisteeseen on L = 130 cm ja yhden pallon massa m = 3,0 g. Kun Van de Graaffin generaattorista tuodaan varausta kuparilankojen yläpäähän, havaitaan pallojen keskipisteiden etäisyyden kasvavan arvoon d = 12 cm.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 89267,
+          "content": {
+            "text": "**Varatut pingispallot 15 p.**\n\n&NewLine;\n\nAineisto\n\n&NewLine;\n\n3.A. [LINK url=http://yle.fi/plus/abitreenit/2020/syksy/2020-09-29\\_FY\\_fi/attachments/index.html#3.%20A|text=Kuva: Tilannekuva]\n\n&NewLine;\n\nVarattujen kappaleiden vuorovaikutusta tutkittiin kuvan 3. A mukaisella koejärjestelyllä. Siinä kaksi samanlaista hopeoitua pingispalloa on ripustettu hyvin ohuen kuparilangan avulla roikkumaan eristekoukusta. Lankojen pituus ripustuspisteestä pallojen keskipisteeseen on L = 130 cm ja yhden pallon massa m = 3,0 g. Kun Van de Graaffin generaattorista tuodaan varausta kuparilankojen yläpäähän, havaitaan pallojen keskipisteiden etäisyyden kasvavan arvoon d = 12 cm.\n",
+            "displayNumber": "3."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "2642c646-51ba-425e-9cef-312cab85510f",
+            "a216a689-0b9a-4089-97b8-8c2474ac02c8"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-12-16T14:15:12.257713",
+          "max_score": null,
+          "groupping": null,
+          "id": 2945048,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "37847650-4ea7-4993-a895-9fc40df86990",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2020-12-16T13:43:15.080797"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Virtajohdin on magneettikentässä kuvan mukaisesti. Johtimessa on 3 ampeerin sähkövirta. Mitä voidaan sanoa johtimeen vaikuttavasta magneettisesta voimasta? 2 p.\n\n​\n\n[LINK url=http://yle.fi/plus/abitreenit/2020/syksy/2020-09-29\\_FY\\_fi/index.html#1.7.|text=Katso kuva täältä.]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 89267,
+          "content": {
+            "text": "Virtajohdin on magneettikentässä kuvan mukaisesti. Johtimessa on 3 ampeerin sähkövirta. Mitä voidaan sanoa johtimeen vaikuttavasta magneettisesta voimasta? 2 p.\n\n​\n\n[LINK url=http://yle.fi/plus/abitreenit/2020/syksy/2020-09-29\\_FY\\_fi/index.html#1.7.|text=Katso kuva täältä.]\n",
+            "displayNumber": "1.7."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-12-16T14:15:12.235016",
+          "max_score": 2,
+          "groupping": null,
+          "id": 2944519,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 9,
+              "text": "Virtajohtimeen ei kohdistu kuvan tapauksessa magneettista voimaa.\n",
+              "parent": "0b92d33f-2e4f-44b4-bdcf-d4622344c223",
+              "choices": []
+            },
+            {
+              "id": 10,
+              "text": "Voima vaikuttaa johtimeen kuvassa ylöspäin tai alaspäin.\n",
+              "parent": "0b92d33f-2e4f-44b4-bdcf-d4622344c223",
+              "choices": []
+            },
+            {
+              "id": 11,
+              "text": "Voima vaikuttaa johtimeen kuvassa kohti katsojaa tai katsojasta poispäin.\n",
+              "parent": "0b92d33f-2e4f-44b4-bdcf-d4622344c223",
+              "choices": []
+            },
+            {
+              "id": 12,
+              "text": "Voima vaikuttaa johtimeen kuvassa oikealle tai vasemmalle.\n",
+              "parent": "0b92d33f-2e4f-44b4-bdcf-d4622344c223",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "0b92d33f-2e4f-44b4-bdcf-d4622344c223",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2020-12-16T13:22:40.861764"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Aineistossa 7. A on esitetty cesiumin radioaktiivisen isotoopin Cs-137 hajoamiskaavio. Mitä säteilyä syntyy siirtymissä a, b ja c? Perustele vastauksesi. 5 p.\n",
+          "deleted_at": null,
+          "feedback": "Taulukkokirjan mukaan cesiumin varausluku (järjestysluku) on 55 ja bariumin 56. Hajoamisissa a ja b ytimen varausluku kasvaa yhdellä, joten niissä on kyse [MATH text=\\beta^-]-hajoamisesta, jossa yksi ytimen neutroneista muuttuu protoniksi. Siirtymissä a ja b syntyy siis elektronisäteilyä eli [MATH text=\\beta^-]-säteilyä.\n\n&NewLine;\n\nSiirtymässä c varausluku ja massaluku pysyvät vakioina, joten siinä barium-137:n viritystila purkautuu alemmalle energiatilalle ja ydin lähettää suurienergiaisen fotonin eli gammasäteilyä.\n\n&NewLine;\n\nPisteitys:\n\n&NewLine;\n\nNimetään säteilyn laji siirtymissä a ja b ja esitetään perustelu, 3 p.\n\nNimetään säteilyn laji siirtymässä c ja esitetään perustelu, 2 p.\n",
+          "exam_id": 89267,
+          "content": {
+            "text": "Aineistossa 7. A on esitetty cesiumin radioaktiivisen isotoopin Cs-137 hajoamiskaavio. Mitä säteilyä syntyy siirtymissä a, b ja c? Perustele vastauksesi. 5 p.\n",
+            "displayNumber": "7.1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-12-16T14:15:12.286876",
+          "max_score": null,
+          "groupping": null,
+          "id": 2945146,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "5848354d-51ea-4b57-bdab-60183f19df37",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2020-12-16T13:48:24.167995"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Nuppineulat 15 p.**\n\n​\n\nAineisto\n\n6.A [LINK url=http://yle.fi/plus/abitreenit/2020/syksy/2020-09-29\\_FY\\_fi/attachments/index.html#6.%20A|text=Kuva: Välineet]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 89267,
+          "content": {
+            "text": "**Nuppineulat 15 p.**\n\n​\n\nAineisto\n\n6.A [LINK url=http://yle.fi/plus/abitreenit/2020/syksy/2020-09-29\\_FY\\_fi/attachments/index.html#6.%20A|text=Kuva: Välineet]\n",
+            "displayNumber": "6."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "1a7bf9ea-385e-4eeb-8d22-48c323835d3f"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-12-16T14:15:12.279405",
+          "max_score": null,
+          "groupping": null,
+          "id": 2945057,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "319fa9f2-23f2-4fd0-b2ec-bc4908487643",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2020-12-16T13:43:15.105288"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Tehtävänäsi on rakentaa kaaviokuvan 5. A tyyppinen heiluri. Mitä eri tekijöitä sinun tulee ottaa huomioon, jotta rakentamasi heilurin heilahtelun vaimeneminen olisi mahdollisimman vähäistä? 6 p.\n",
+          "deleted_at": null,
+          "feedback": "Heilahtelun vaimenemista voidaan vähentää minimoimalla liikettä vastustavat voimat: nivelen\n\nkitka (esim. sopivalla, mahdollisimman hankauksettomalla ripustustavalla tai nivelen voitelulla) ja\n\nheilurin ilmanvastus (esim. virtaviivainen kappale, ohut lanka, heilurin laittaminen tyhjiökupuun).\n\nLisäksi kannattaa valita raskas kappale ja pitkä lanka. Tällöin (pienilläkin heilahduskulmilla) heilurin\n\nmekaaninen energia on suuri ja liikettä vastustavien voimien aiheuttama heilurin energiahäviö on\n\nsuhteellisesti pienempi kuin lyhyen ja kevyen heilurin tapauksessa.\n\nPisteitys:\n\nKaksi parasta vaimenemisen vähentämisen kuvausta, 1-2 p. kummastakin.\n\nVastusvoimien suhteellisen suuruuden minimointi, 1-2 p.\n",
+          "exam_id": 89267,
+          "content": {
+            "text": "Tehtävänäsi on rakentaa kaaviokuvan 5. A tyyppinen heiluri. Mitä eri tekijöitä sinun tulee ottaa huomioon, jotta rakentamasi heilurin heilahtelun vaimeneminen olisi mahdollisimman vähäistä? 6 p.\n",
+            "displayNumber": "5.1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-12-16T14:15:12.274384",
+          "max_score": null,
+          "groupping": null,
+          "id": 2945055,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "ceaea90c-9e08-45ec-bdfe-1746dfd6b6b1",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2020-12-16T13:43:15.100008"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Heiluri 15 p.**\n\n​\n\nAineisto\n\n[LINK url=http://yle.fi/plus/abitreenit/2020/syksy/2020-09-29\\_FY\\_fi/attachments/index.html#5.%20A|text=5.A Kuva: Kaaviokuva heilurista]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 89267,
+          "content": {
+            "text": "**Heiluri 15 p.**\n\n​\n\nAineisto\n\n[LINK url=http://yle.fi/plus/abitreenit/2020/syksy/2020-09-29\\_FY\\_fi/attachments/index.html#5.%20A|text=5.A Kuva: Kaaviokuva heilurista]\n",
+            "displayNumber": "5."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "ceaea90c-9e08-45ec-bdfe-1746dfd6b6b1",
+            "0752629b-85c8-4d4c-a07d-24467a371e04"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-12-16T14:15:12.272032",
+          "max_score": null,
+          "groupping": null,
+          "id": 2945054,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "3a47c0fc-d99f-4a56-9511-10a2eb9b3bb6",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2020-12-16T13:43:15.097101"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Missä seuraavista energianmuutoksista on huonoin hyötysuhde? 2 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 89267,
+          "content": {
+            "text": "Missä seuraavista energianmuutoksista on huonoin hyötysuhde? 2 p.\n",
+            "displayNumber": "1.6."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-12-16T14:15:12.23265",
+          "max_score": 2,
+          "groupping": null,
+          "id": 2944518,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 9,
+              "text": "Polttoaineen kemiallinen energia muuttuu liike-energiaksi auton polttomoottorissa.\n",
+              "parent": "19dc3d5a-ad2d-442a-a809-c41393192f81",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 10,
+              "text": "Potentiaalienergia muuttuu liike-energiaksi vesivoimalaitoksen turbiineissa.\n",
+              "parent": "19dc3d5a-ad2d-442a-a809-c41393192f81",
+              "choices": []
+            },
+            {
+              "id": 11,
+              "text": "Sähköenergia muuttuu lämpöenergiaksi sähköuunin vastuksissa.\n",
+              "parent": "19dc3d5a-ad2d-442a-a809-c41393192f81",
+              "choices": []
+            },
+            {
+              "id": 12,
+              "text": "Kaikissa edellä mainituissa muutoksissa on likipitäen yhtä suuri hyötysuhde.\n",
+              "parent": "19dc3d5a-ad2d-442a-a809-c41393192f81",
+              "choices": []
+            }
+          ],
+          "uuid": "19dc3d5a-ad2d-442a-a809-c41393192f81",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2020-12-16T13:22:40.859208"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Monivalintatehtäviä fysiikan eri osa-alueilta 20 p.**\n\n&NewLine;\n\nValitse jokaisessa kohdassa 1.1.–1.10. oikea vaihtoehto. Oikea vastaus 2 p., väärä vastaus 0 p., ei vastausta 0 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 89267,
+          "content": {
+            "text": "**Monivalintatehtäviä fysiikan eri osa-alueilta 20 p.**\n\n&NewLine;\n\nValitse jokaisessa kohdassa 1.1.–1.10. oikea vaihtoehto. Oikea vastaus 2 p., väärä vastaus 0 p., ei vastausta 0 p.\n",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "094c157b-5008-441e-a684-c7257e808fb0",
+            "8383d8aa-8e90-4561-bcf9-e96acfa942e4",
+            "192a3ffd-cfb0-49ac-a493-ea5188a08d1b",
+            "3f554925-782d-44c7-97f6-0c513d0819bc",
+            "6e7cf5f5-0ba8-4d82-85d8-190e46b64fe5",
+            "19dc3d5a-ad2d-442a-a809-c41393192f81",
+            "0b92d33f-2e4f-44b4-bdcf-d4622344c223",
+            "f5bfaa3e-754b-488f-b376-01e4b9b0658b",
+            "fdb00884-035e-4fb7-b3eb-fba6c36534c5",
+            "d2e4e9d8-1502-4374-adc7-469344adaf5e"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-12-16T14:15:12.217628",
+          "max_score": null,
+          "groupping": null,
+          "id": 2944512,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "566bd9d1-4124-47fc-938b-a008964a750b",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2020-12-16T13:22:40.845413"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mitä tarkoitetaan harmonisella värähtelyllä? Suunnittele koe, jolla voit tutkia, onko rakentamasi heiluri harmoninen värähtelijä, ja kuvaile kokeen toteutus. Kerro perustellen, millaista lopputulosta odotat kokeestasi. 9 p.\n",
+          "deleted_at": null,
+          "feedback": "Harmoniseksi värähtelyksi sanotaan harmonisen voiman ylläpitämää liikettä. Harmoninen voima\n\nsuuntautuu tasapainoasemaa kohti ja on suoraan verrannollinen kappaleen etäisyyteen\n\ntasapainoasemasta.\n\n&NewLine;\n\nJOKO:\n\n&NewLine;\n\nHarmonisen värähtelijän jaksonaika ei riipu värähtelyn amplitudista. Heilurin värähtelyn harmoni-\n\nsuutta voi tutkia mittaamalla heilurin heilahdusaika useilla eri poikkeutuskulman arvoilla. Kukin heilahdusaika määritetään mittaamalla useaan heilahdukseen (esimerkiksi kymmeneen) kulunut\n\naika ja jakamalla se heilahdusten lukumäärällä. Ilmanvastuksen vaikutuksen vähentämiseksi koe suoritetaan tyhjiökuvussa. Jos heilahdusaika pysyy vakiona, heiluri on likimain harmoninen värähtelijä kokeessa käytetyillä poikkeutuskulmilla. Heilahdusajan muuttuminen poikkeutuskulmaa muutettaessa osoittaa, että heiluri ei ole harmoninen värähtelijä.\n\n&NewLine;\n\nTAI:\n\n&NewLine;\n\nMitataan palauttavan voiman suuruutta eri poikkeutuskulmilla. Jos heilurin varsi on hyvin kevyt\n\npunnukseen verrattuna, mitataan palauttava voima F punnukseen kiinnitetyllä voimamittarilla\n\n(jousivaa’alla) punnuksen liikeradan tangentin suunnassa useilla eri poikkeutuskulmilla φ. Poikkeutuskulmaa vastaava matka tasapainoasemaan on kaarenpituus x=lφ, jossa l on punnuksen painopisteen etäisyys ripustuskohdasta. Tulokset sijoitetaan x,F-koordinaatistoon. Jos pisteisiin voidaan sovittaa suora, heiluri on likimain harmoninen värähtelijä kokeessa käytetyillä poikkeutuskulmilla. Jos pisteisiin ei voida sovittaa suoraa, heiluri ei ole harmoninen värähtelijä. Jos heilurin varsi on hyvin kevyt punnukseen verrattuna, heiluriin kohdistuva palauttava voima on punnuksen painon komponentti liikeradan tangentin suunnassa. Sen suuruus on F = mgsinφ, jossa m on punnuksen massa, g putoamiskiihtyvyys ja φ heilahduskulma. Punnuksen matka tasapainoasemaan on puolestaan kaarenpituus lφ, jossa l on punnuksen painopisteen etäisyys ripustuskohdasta. Palauttava voima ei siis ole suoraan verrannollinen etäisyyteen tasapainoasemasta, joten se ei ole harmoninen voima. Pienillä kulmilla palauttavan voiman suuruus on F ≈ mgφ, joten voima on likimain suoraan verrannollinen etäisyyteen tasapainoasemasta eli radan kaarenpituuteen lφ. Pienillä kulmilla heiluri on siis likimain harmoninen värähtelijä.\n\n&NewLine;\n\nPisteitys:\n\n&NewLine;\n\nHarmonisesta värähtelystä mainitaan, että palauttava voima\n\n• suuntautuu tasapainoasemaa kohti, 1 p.\n\n• on suoraan verrannollinen etäisyyteen tasapainoasemasta, 2 p.\n\nOikea tutkittava asia (amplitudin variointi tai palauttavan voiman mittaaminen), 2p.\n\nMittauksen kuvaus, 2 p.\n\nMainitaan odotettu tulos, 2 p.\n",
+          "exam_id": 89267,
+          "content": {
+            "text": "Mitä tarkoitetaan harmonisella värähtelyllä? Suunnittele koe, jolla voit tutkia, onko rakentamasi heiluri harmoninen värähtelijä, ja kuvaile kokeen toteutus. Kerro perustellen, millaista lopputulosta odotat kokeestasi. 9 p.\n",
+            "displayNumber": "5.2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-12-16T14:15:12.276659",
+          "max_score": null,
+          "groupping": null,
+          "id": 2945056,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "0752629b-85c8-4d4c-a07d-24467a371e04",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2020-12-16T13:43:15.102633"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Esitä graafisesti voima [MATH text=F\\_L] vetopituuden funktiona. Kuinka suuren työn voima tekee, kun pitkäjousi jännitetään 0,70 m:n vetopituuteen? 7 p.\n\n&NewLine;\n\n**Huom! Abitreenien harjoituskokeessa ei voi käyttää kuvakaappauksia eikä kaavaeditoria.**\n",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/1GAv3APbfTIeRBaPBL3caSZXzwxl1UW\\_0/view|text=Katso oikea vastaus hyvän vastauksen piirteistä.]\n",
+          "exam_id": 89267,
+          "content": {
+            "text": "Esitä graafisesti voima [MATH text=F\\_L] vetopituuden funktiona. Kuinka suuren työn voima tekee, kun pitkäjousi jännitetään 0,70 m:n vetopituuteen? 7 p.\n\n&NewLine;\n\n**Huom! Abitreenien harjoituskokeessa ei voi käyttää kuvakaappauksia eikä kaavaeditoria.**\n",
+            "displayNumber": "4.1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-12-16T14:15:12.267318",
+          "max_score": null,
+          "groupping": null,
+          "id": 2945052,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "5049ef50-5e0b-4656-af85-3c4dbae3b51d",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2020-12-16T13:43:15.091728"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Pitkäjousi 15 p.**\n\n​\n\nAineisto\n\n4.A [LINK url=http://yle.fi/plus/abitreenit/2020/syksy/2020-09-29\\_FY\\_fi/attachments/index.html#4.%20A|text=Kuva: Kaaviokuva pitkäjousesta]\n\n4.B [LINK url=http://yle.fi/plus/abitreenit/2020/syksy/2020-09-29\\_FY\\_fi/attachments/index.html#4.%20B|text=Taulukko: Jännitysvoima eri vetopituuksilla]\n\n​\n\nPitkäjousi on perinteinen jousiase. Pitkäjousen jännittämiseen tarvittava voima [MATH text=F\\_L] riippuu pituudesta, johon jousi jännitetään (ns. vetopituus L, kuva 4. A). Voiman riippuvuus vetopituudesta on esitetty taulukossa 4. B.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 89267,
+          "content": {
+            "text": "**Pitkäjousi 15 p.**\n\n​\n\nAineisto\n\n4.A [LINK url=http://yle.fi/plus/abitreenit/2020/syksy/2020-09-29\\_FY\\_fi/attachments/index.html#4.%20A|text=Kuva: Kaaviokuva pitkäjousesta]\n\n4.B [LINK url=http://yle.fi/plus/abitreenit/2020/syksy/2020-09-29\\_FY\\_fi/attachments/index.html#4.%20B|text=Taulukko: Jännitysvoima eri vetopituuksilla]\n\n​\n\nPitkäjousi on perinteinen jousiase. Pitkäjousen jännittämiseen tarvittava voima [MATH text=F\\_L] riippuu pituudesta, johon jousi jännitetään (ns. vetopituus L, kuva 4. A). Voiman riippuvuus vetopituudesta on esitetty taulukossa 4. B.\n",
+            "displayNumber": "4."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "5049ef50-5e0b-4656-af85-3c4dbae3b51d",
+            "5418900f-50d0-470a-bf60-585c5a40c377"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-12-16T14:15:12.265005",
+          "max_score": null,
+          "groupping": null,
+          "id": 2945051,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "b0c74b9b-8577-46f7-b6c5-dfec793a4866",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2020-12-16T13:43:15.088869"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mitä voit sanoa pallojen varauksien merkeistä ja keskinäisestä suuruudesta? Määritä pallojen sähkövaraukset. 10 p.\n",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/1GAv3APbfTIeRBaPBL3caSZXzwxl1UW\\_0/view|text=Katso oikeat vastaukset hyvän vastauksen piirteistä.]\n",
+          "exam_id": 89267,
+          "content": {
+            "text": "Mitä voit sanoa pallojen varauksien merkeistä ja keskinäisestä suuruudesta? Määritä pallojen sähkövaraukset. 10 p.\n",
+            "displayNumber": "3.2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-12-16T14:15:12.2626",
+          "max_score": null,
+          "groupping": null,
+          "id": 2945050,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "a216a689-0b9a-4089-97b8-8c2474ac02c8",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2020-12-16T13:43:15.086112"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Piirrä vasemmanpuoleisen pingispallon voimakuvio, ja nimeä palloon vaikuttavat voimat. 5 p.\n",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/1GAv3APbfTIeRBaPBL3caSZXzwxl1UW\\_0/view|text=Katso oikeat vastaukset hyvän vastauksen piirteistä.]\n",
+          "exam_id": 89267,
+          "content": {
+            "text": "Piirrä vasemmanpuoleisen pingispallon voimakuvio, ja nimeä palloon vaikuttavat voimat. 5 p.\n",
+            "displayNumber": "3.1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-12-16T14:15:12.260119",
+          "max_score": null,
+          "groupping": null,
+          "id": 2945049,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "2642c646-51ba-425e-9cef-312cab85510f",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2020-12-16T13:43:15.083583"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Selitä fysikaalisia käsitteitä käyttäen, mihin perustuu heti löylynheiton jälkeen iholla tuntuva lämmittävä vaikutus. 4 p.\n",
+          "deleted_at": null,
+          "feedback": "Pääasiallinen löylyn ihoa lämmittävä vaikutus perustuu energiaan, joka vapautuu löylynheitossa\n\nsyntyneen vesihöyryn tiivistyessä iholle. Tiivistyminen tapahtuu, koska ihon lämpötila on\n\nmerkittävästi vesihöyryn lämpötilaa alempi.\n\nLöylyn ihoa lämmittävä vaikutus perustuu osin myös seuraaviin seikkoihin:\n\nIlman tiheys hetkellisesti kasvaa vesihöyryn syntymisen myötä, ja lämpö johtuu tiheämmästä\n\naineesta eli kosteammasta saunailmasta tehokkaammin iholle kuin harvemmasta aineesta eli\n\nkuivemmasta saunailmasta (vrt. nestemäisen veden ihoa polttava vaikutus).\n\nLisäksi löylynheitto aiheuttaa saunassa vesihöyryn sekä muun ilmamassan virtauksia. Virtauksien\n\n&NewLine;\n\nansiosta ihon pinnan lähellä oleva, ihon jäähdyttämä höyry korvautuu kuumemmalla höyryllä. Täl-\n\nlöin saunailman lämpö siirtyy tehokkaammin iholle kuin ennen löylynheittoa (vrt. saunassa iholle puhaltaminen).\n\n&NewLine;\n\n**Pisteitys:**\n\nVesihöyryn tiivistyminen iholle ja siihen liittyvä energian vapautuminen, 4 p.\n\nMuut selitykset, yhteensä enintään 1 p.\n",
+          "exam_id": 89267,
+          "content": {
+            "text": "Selitä fysikaalisia käsitteitä käyttäen, mihin perustuu heti löylynheiton jälkeen iholla tuntuva lämmittävä vaikutus. 4 p.\n",
+            "displayNumber": "2.3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-12-16T14:15:12.255194",
+          "max_score": null,
+          "groupping": null,
+          "id": 2944814,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "b8051da8-3995-4478-9450-a63a881f7597",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2020-12-16T13:28:35.431404"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kuinka paljon kiuaskivien lämpötila laskee koko kivimassassa keskimäärin, kun käytetään kylmää (7 °C) löylyvettä? 4 p.\n",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/1GAv3APbfTIeRBaPBL3caSZXzwxl1UW\\_0/view|text=Katso oikea vastaus hyvän vastauksen piirteistä.]\n",
+          "exam_id": 89267,
+          "content": {
+            "text": "Kuinka paljon kiuaskivien lämpötila laskee koko kivimassassa keskimäärin, kun käytetään kylmää (7 °C) löylyvettä? 4 p.\n",
+            "displayNumber": "2.2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-12-16T14:15:12.252573",
+          "max_score": null,
+          "groupping": null,
+          "id": 2944813,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "f3d31994-750d-45cc-ae2f-b4eee2465ea2",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2020-12-16T13:28:35.428793"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kuinka monta prosenttia enemmän kylmän löylyveden käyttö vähentää kiuaskiviin varastoitunutta energiaa kuin lämpimän veden käyttö? 7 p.\n",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/1GAv3APbfTIeRBaPBL3caSZXzwxl1UW\\_0/view|text=Katso oikea vastaus hyvän vastauksen piirteistä.]\n",
+          "exam_id": 89267,
+          "content": {
+            "text": "Kuinka monta prosenttia enemmän kylmän löylyveden käyttö vähentää kiuaskiviin varastoitunutta energiaa kuin lämpimän veden käyttö? 7 p.\n",
+            "displayNumber": "2.1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-12-16T14:15:12.250122",
+          "max_score": null,
+          "groupping": null,
+          "id": 2944812,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "9f948f7b-ebc3-4169-b37f-d792db467388",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2020-12-16T13:28:35.426242"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Osa II: 15 pisteen tehtävät\n\n&NewLine;\n\nVastaa neljään tehtävään.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 89267,
+          "content": {
+            "text": "### Osa II: 15 pisteen tehtävät\n\n&NewLine;\n\nVastaa neljään tehtävään.\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-12-16T14:15:12.244836",
+          "max_score": null,
+          "groupping": null,
+          "id": 2944810,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "be4bb9c0-5494-4028-906f-060976e65480",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2020-12-16T13:28:35.42104"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Pientä negatiivisesti varattua hiukkasta pidetään paikallaan kuvan mukaisessa sähkökentässä. Mihin suuntaan hiukkanen lähtee liikkumaan, kun se vapautetaan? 2 p.\n\n​\n\n[LINK url=http://yle.fi/plus/abitreenit/2020/syksy/2020-09-29\\_FY\\_fi/index.html#1.10.|text=Katso kuva täältä.]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 89267,
+          "content": {
+            "text": "Pientä negatiivisesti varattua hiukkasta pidetään paikallaan kuvan mukaisessa sähkökentässä. Mihin suuntaan hiukkanen lähtee liikkumaan, kun se vapautetaan? 2 p.\n\n​\n\n[LINK url=http://yle.fi/plus/abitreenit/2020/syksy/2020-09-29\\_FY\\_fi/index.html#1.10.|text=Katso kuva täältä.]\n",
+            "displayNumber": "1.10."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-12-16T14:15:12.242413",
+          "max_score": 2,
+          "groupping": null,
+          "id": 2944638,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 9,
+              "text": "A\n",
+              "parent": "d2e4e9d8-1502-4374-adc7-469344adaf5e",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 10,
+              "text": "B\n",
+              "parent": "d2e4e9d8-1502-4374-adc7-469344adaf5e",
+              "choices": []
+            },
+            {
+              "id": 11,
+              "text": "C\n",
+              "parent": "d2e4e9d8-1502-4374-adc7-469344adaf5e",
+              "choices": []
+            },
+            {
+              "id": 12,
+              "text": "D\n",
+              "parent": "d2e4e9d8-1502-4374-adc7-469344adaf5e",
+              "choices": []
+            }
+          ],
+          "uuid": "d2e4e9d8-1502-4374-adc7-469344adaf5e",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2020-12-16T13:24:32.75574"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": " Kuvan virtapiiriin on merkitty pisteet K ja L. Mikä seuraavista väittämistä on oikein? 2 p.\n\n​\n\n[LINK url=http://yle.fi/plus/abitreenit/2020/syksy/2020-09-29\\_FY\\_fi/index.html#1.9.|text=Katso kuva täältä.]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 89267,
+          "content": {
+            "text": " Kuvan virtapiiriin on merkitty pisteet K ja L. Mikä seuraavista väittämistä on oikein? 2 p.\n\n​\n\n[LINK url=http://yle.fi/plus/abitreenit/2020/syksy/2020-09-29\\_FY\\_fi/index.html#1.9.|text=Katso kuva täältä.]\n",
+            "displayNumber": "1.9."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-12-16T14:15:12.240047",
+          "max_score": 2,
+          "groupping": null,
+          "id": 2944637,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 9,
+              "text": "Pisteiden K ja L sähkövirrat ovat eri suuret ja pisteiden potentiaalit yhtä suuret.\n",
+              "parent": "fdb00884-035e-4fb7-b3eb-fba6c36534c5",
+              "choices": []
+            },
+            {
+              "id": 10,
+              "text": "Pisteissä K ja L sähkövirrat ovat eri suuret ja pisteiden potentiaalit ovat eri suuret.\n",
+              "parent": "fdb00884-035e-4fb7-b3eb-fba6c36534c5",
+              "choices": []
+            },
+            {
+              "id": 11,
+              "text": "Pisteissä K ja L sähkövirrat ovat yhtä suuret ja pisteiden potentiaalit ovat yhtä suuret.\n",
+              "parent": "fdb00884-035e-4fb7-b3eb-fba6c36534c5",
+              "choices": []
+            },
+            {
+              "id": 12,
+              "text": "Pisteissä K ja L sähkövirrat ovat yhtä suuret ja pisteiden potentiaalit eri suuret.\n",
+              "parent": "fdb00884-035e-4fb7-b3eb-fba6c36534c5",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "fdb00884-035e-4fb7-b3eb-fba6c36534c5",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2020-12-16T13:24:32.753306"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Aalto etenee vinosti rajapinnan läpi toiseen, aalto-opillisesti erilaiseen väliaineeseen. Mikä seuraavista pitää tilanteessa paikkansa? 2 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 89267,
+          "content": {
+            "text": "Aalto etenee vinosti rajapinnan läpi toiseen, aalto-opillisesti erilaiseen väliaineeseen. Mikä seuraavista pitää tilanteessa paikkansa? 2 p.\n",
+            "displayNumber": "1.8."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-12-16T14:15:12.23755",
+          "max_score": 2,
+          "groupping": null,
+          "id": 2944520,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 9,
+              "text": "Aallon etenemisnopeus muuttuu mutta etenemissuunta ei muutu.\n",
+              "parent": "f5bfaa3e-754b-488f-b376-01e4b9b0658b",
+              "choices": []
+            },
+            {
+              "id": 10,
+              "text": "Aallon etenemisnopeus ja etenemissuunta eivät muutu.\n",
+              "parent": "f5bfaa3e-754b-488f-b376-01e4b9b0658b",
+              "choices": []
+            },
+            {
+              "id": 11,
+              "text": "Aallon etenemisnopeus ja etenemissuunta muuttuvat.\n",
+              "parent": "f5bfaa3e-754b-488f-b376-01e4b9b0658b",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 12,
+              "text": "Aallon etenemisnopeus ei muutu mutta etenemissuunta muuttuu.\n",
+              "parent": "f5bfaa3e-754b-488f-b376-01e4b9b0658b",
+              "choices": []
+            }
+          ],
+          "uuid": "f5bfaa3e-754b-488f-b376-01e4b9b0658b",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2020-12-16T13:22:40.864546"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Uimari pulahtaa kylmään (10 °C) järviveteen. Mikä seuraavista lämmönsiirtotavoista siirtää tilanteessa eniten energiaa pois uimarin iholta? 2 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 89267,
+          "content": {
+            "text": "Uimari pulahtaa kylmään (10 °C) järviveteen. Mikä seuraavista lämmönsiirtotavoista siirtää tilanteessa eniten energiaa pois uimarin iholta? 2 p.\n",
+            "displayNumber": "1.5."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-12-16T14:15:12.230048",
+          "max_score": 2,
+          "groupping": null,
+          "id": 2944517,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 9,
+              "text": "Johtuminen\n",
+              "parent": "6e7cf5f5-0ba8-4d82-85d8-190e46b64fe5",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 10,
+              "text": "Kuljettuminen\n",
+              "parent": "6e7cf5f5-0ba8-4d82-85d8-190e46b64fe5",
+              "choices": []
+            },
+            {
+              "id": 11,
+              "text": "Säteily\n",
+              "parent": "6e7cf5f5-0ba8-4d82-85d8-190e46b64fe5",
+              "choices": []
+            },
+            {
+              "id": 12,
+              "text": "Kaikki yllämainitut siirtävät energiaa suunnilleen yhtä paljon.\n",
+              "parent": "6e7cf5f5-0ba8-4d82-85d8-190e46b64fe5",
+              "choices": []
+            }
+          ],
+          "uuid": "6e7cf5f5-0ba8-4d82-85d8-190e46b64fe5",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2020-12-16T13:22:40.856976"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Sählypallo heitetään kohti tyhjää juomatölkkiä. Törmäyksessä tölkin kylkeen syntyy iso lommo. Mikä seuraavista pitää paikkansa törmäyksessä? 2 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 89267,
+          "content": {
+            "text": "Sählypallo heitetään kohti tyhjää juomatölkkiä. Törmäyksessä tölkin kylkeen syntyy iso lommo. Mikä seuraavista pitää paikkansa törmäyksessä? 2 p.\n",
+            "displayNumber": "1.4."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-12-16T14:15:12.227527",
+          "max_score": 2,
+          "groupping": null,
+          "id": 2944516,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 9,
+              "text": "Pallon ja tölkin yhteenlaskettu liike-energia ja yhteenlaskettu liikemäärä eivät kumpikaan säily.\n",
+              "parent": "3f554925-782d-44c7-97f6-0c513d0819bc",
+              "choices": []
+            },
+            {
+              "id": 10,
+              "text": "Pallon ja tölkin yhteenlaskettu liike-energia ja yhteenlaskettu liikemäärä molemmat säilyvät.\n",
+              "parent": "3f554925-782d-44c7-97f6-0c513d0819bc",
+              "choices": []
+            },
+            {
+              "id": 11,
+              "text": "Pallon ja tölkin yhteenlaskettu liike-energia säilyy, ja yhteenlaskettu liikemäärä ei säily.\n",
+              "parent": "3f554925-782d-44c7-97f6-0c513d0819bc",
+              "choices": []
+            },
+            {
+              "id": 12,
+              "text": "Pallon ja tölkin yhteenlaskettu liike-energia ei säily, ja yhteenlaskettu liikemäärä säilyy.\n",
+              "parent": "3f554925-782d-44c7-97f6-0c513d0819bc",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "3f554925-782d-44c7-97f6-0c513d0819bc",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2020-12-16T13:22:40.854748"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Laskuvarjohyppääjä leijailee varjo auki tasaisella nopeudella alaspäin. Mikä seuraavista vaihtoehdoista kuvaa tilannetta oikein? 2 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 89267,
+          "content": {
+            "text": "Laskuvarjohyppääjä leijailee varjo auki tasaisella nopeudella alaspäin. Mikä seuraavista vaihtoehdoista kuvaa tilannetta oikein? 2 p.\n",
+            "displayNumber": "1.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-12-16T14:15:12.225096",
+          "max_score": 2,
+          "groupping": null,
+          "id": 2944515,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 9,
+              "text": "Ilmanvastus on samansuuruinen kuin hyppääjän ja varusteiden paino.\n",
+              "parent": "192a3ffd-cfb0-49ac-a493-ea5188a08d1b",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 10,
+              "text": "Ilmanvastus on suurempi kuin hyppääjän ja varusteiden paino.\n",
+              "parent": "192a3ffd-cfb0-49ac-a493-ea5188a08d1b",
+              "choices": []
+            },
+            {
+              "id": 11,
+              "text": "Hyppääjän ja varusteiden paino on suurempi kuin ilmanvastus.\n",
+              "parent": "192a3ffd-cfb0-49ac-a493-ea5188a08d1b",
+              "choices": []
+            },
+            {
+              "id": 12,
+              "text": "Ilmanvastuksella ei ole tilanteessa merkitystä.\n",
+              "parent": "192a3ffd-cfb0-49ac-a493-ea5188a08d1b",
+              "choices": []
+            }
+          ],
+          "uuid": "192a3ffd-cfb0-49ac-a493-ea5188a08d1b",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2020-12-16T13:22:40.852372"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mikä seuraavista vaihtoehdoista on oikein? Välittömästi lyönnin jälkeen golfpalloon vaikuttavat 2 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 89267,
+          "content": {
+            "text": "Mikä seuraavista vaihtoehdoista on oikein? Välittömästi lyönnin jälkeen golfpalloon vaikuttavat 2 p.\n",
+            "displayNumber": "1.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-12-16T14:15:12.222725",
+          "max_score": 2,
+          "groupping": null,
+          "id": 2944514,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 5,
+              "text": "lyönnin voima eteenpäin ja ilmanvastus.\n",
+              "parent": "8383d8aa-8e90-4561-bcf9-e96acfa942e4",
+              "choices": []
+            },
+            {
+              "id": 6,
+              "text": "painovoima ja lyönnin voima eteenpäin.\n",
+              "parent": "8383d8aa-8e90-4561-bcf9-e96acfa942e4",
+              "choices": []
+            },
+            {
+              "id": 7,
+              "text": "painovoima, lyönnin voima eteenpäin ja ilmanvastus.\n",
+              "parent": "8383d8aa-8e90-4561-bcf9-e96acfa942e4",
+              "choices": []
+            },
+            {
+              "id": 8,
+              "text": "painovoima ja ilmanvastus.\n",
+              "parent": "8383d8aa-8e90-4561-bcf9-e96acfa942e4",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "8383d8aa-8e90-4561-bcf9-e96acfa942e4",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2020-12-16T13:22:40.849989"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Jalkapalloilija potkaisee palloa. Mikä seuraavista väittämistä pitää paikkansa potkun tapahtuessa? 2 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 89267,
+          "content": {
+            "text": "Jalkapalloilija potkaisee palloa. Mikä seuraavista väittämistä pitää paikkansa potkun tapahtuessa? 2 p.\n",
+            "displayNumber": "1.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-12-16T14:15:12.220295",
+          "max_score": 2,
+          "groupping": null,
+          "id": 2944513,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "text": "Jalka kohdistaa suuremman voiman palloon kuin pallo jalkaan.\n",
+              "parent": "094c157b-5008-441e-a684-c7257e808fb0",
+              "choices": []
+            },
+            {
+              "id": 2,
+              "text": "Pallo ja jalka eivät kohdista voimaa toisiinsa.\n",
+              "parent": "094c157b-5008-441e-a684-c7257e808fb0",
+              "choices": []
+            },
+            {
+              "id": 3,
+              "text": "Pallo kohdistaa suuremman voiman jalkaan kuin jalka palloon.\n",
+              "parent": "094c157b-5008-441e-a684-c7257e808fb0",
+              "choices": []
+            },
+            {
+              "id": 4,
+              "text": "Pallo ja jalka kohdistavat yhtä suuret voimat toisiinsa.\n",
+              "parent": "094c157b-5008-441e-a684-c7257e808fb0",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "094c157b-5008-441e-a684-c7257e808fb0",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2020-12-16T13:22:40.847763"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Osa I: 20 pisteen tehtävä\n\nVastaa tehtävään 1.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 89267,
+          "content": {
+            "text": "### Osa I: 20 pisteen tehtävä\n\nVastaa tehtävään 1.\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-12-16T14:15:12.215089",
+          "max_score": null,
+          "groupping": null,
+          "id": 2944511,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "e32095b0-7a9f-47e4-9e18-c63fad25dd36",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2020-12-16T13:22:40.842924"
+        }
+      ],
+      "name": "Fysiikka, syksy 2020",
+      "settings": {
+        "overrideTitle": true
+      },
+      "exam_type": "yo-koe",
+      "classification": {
+        "category": "",
+        "disable_saving": false,
+        "hide_review_buttons": false,
+        "exam_type": "yo-koe",
+        "year": "2020",
+        "language": "fi-FI",
+        "hide_statistics": false,
+        "show_exam_series": false,
+        "force_yletunnus": false,
+        "subject": "fysiikka",
+        "published": true,
+        "semester": "fall"
+      },
+      "published_at": "2020-12-16T14:15:10.000Z",
+      "language": "fi-FI",
+      "id": 89267,
+      "reviews": [],
+      "is_open": true,
+      "uuid": "9a85084f-a39c-4809-bc8d-a86d65493750"
+    }
+  ]
+}

@@ -1,0 +1,1417 @@
+{
+  "meta": {
+    "count": 1
+  },
+  "data": [
+    {
+      "tags": [
+        ""
+      ],
+      "main_text": "Koe koostuu 13 tehtävästä, joista vastataan kymmeneen. Tehtävät on jaettu kolmeen osaan. A-osassa on neljä kaikille pakollista tehtävää. B1-osassa on viisi tehtävää, joista vastataan kolmeen. B2-osassa on neljä tehtävää, joista vastataan kolmeen. Kaikki tehtävät arvostellaan pistein 0–12, joten kokeen maksimipistemäärä on 120.\n\n&NewLine;\n\nA-osassa saat käyttää koejärjestelmässä olevaa taulukkokirjaa ja perusohjelmia. A-osa palautetaan tehtävän 4 jälkeen olevalla painikkeella. Tämän jälkeen A-osan vastauksia ei voi enää muokata. A-osan palauttamisen jälkeen kaikki koejärjestelmän ohjelmat ovat käytettävissäsi. Voit vastata B-osien tehtäviin myös ennen A-osan palauttamista.\n\n&NewLine;\n\nUseimmissa tehtävissä kaikkien osatehtävien vastaukset kirjoitetaan samaan vastauskenttään. Jaottele vastauksesi osatehtävien mukaisesti. Halutessasi voit tuottaa vastausten tueksi piirroksia, kaavioita tai taulukoita ja liittää niistä kuvakaappauksen mihin tahansa tekstivastaukseen.\n\n&NewLine;\n\nÄlä jätä mitään merkintöjä sellaisen tehtävän vastaukselle varattuun tilaan, jota et halua jättää arvosteltavaksi.\n\n&NewLine;\n\n**Huom. Abitreenien harjoittelukokeessa ei voi käyttää kuvakaappauksia eikä kaavaeditoria.**\n",
+      "characters": null,
+      "deleted_at": null,
+      "series_uuids": [],
+      "questions": [
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Kaavoja 12 p.**\n\n​\n\nMatematiikan sovelluksissa käytetään erilaisia kaavoja. Tässä tehtävänä on joko ratkaista kysytty suure kaavasta (kohdat 1–4) tai laskea sen lukuarvo (kohdat 5 ja 6). Jokaisesta osatehtävästä voi saada 2 pistettä.\n\n​\n\n1.Ratkaise aika t: [MATH text=v=v\\_0+at.]\n\n​\n\n2.Ratkaise moolimassa M: [MATH text=n=\\frac{m}{M}.]\n\n​\n\n3.Ratkaise nopeus v: [MATH text=E=\\frac{1}{2}mv^2.]\n\n​\n\n4.Ratkaise kateetin pituus a: [MATH text=a^2+b^2=c^2]\n\n​\n\n5.Laske säde r: [MATH text=V=\\frac{4\\pi r^3}{3}{,}\\ kun\\ V=2]\n\n​\n\n6.Laske aika t: [MATH text=K=k\\left(1+\\frac{p}{100}\\right)^t{,}\\ kun\\ K=1000{,}\\ k=500\\ ja\\ p=2]\n\n​\n",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso tehtävän oikeat ratkaisut täältä. |url=https://drive.google.com/file/d/1GdsINEQ3TDYiShOY\\_xdlpQxxLfncWrS0/view#3]\n",
+          "exam_id": 103086,
+          "content": {
+            "text": "**Kaavoja 12 p.**\n\n​\n\nMatematiikan sovelluksissa käytetään erilaisia kaavoja. Tässä tehtävänä on joko ratkaista kysytty suure kaavasta (kohdat 1–4) tai laskea sen lukuarvo (kohdat 5 ja 6). Jokaisesta osatehtävästä voi saada 2 pistettä.\n\n​\n\n1.Ratkaise aika t: [MATH text=v=v\\_0+at.]\n\n​\n\n2.Ratkaise moolimassa M: [MATH text=n=\\frac{m}{M}.]\n\n​\n\n3.Ratkaise nopeus v: [MATH text=E=\\frac{1}{2}mv^2.]\n\n​\n\n4.Ratkaise kateetin pituus a: [MATH text=a^2+b^2=c^2]\n\n​\n\n5.Laske säde r: [MATH text=V=\\frac{4\\pi r^3}{3}{,}\\ kun\\ V=2]\n\n​\n\n6.Laske aika t: [MATH text=K=k\\left(1+\\frac{p}{100}\\right)^t{,}\\ kun\\ K=1000{,}\\ k=500\\ ja\\ p=2]\n\n​\n",
+            "displayNumber": "3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-07-21T10:56:30.043356",
+          "max_score": null,
+          "groupping": null,
+          "id": 3318153,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "b8ac446e-5950-4e01-a11e-cde41891d318",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2021-06-16T11:45:36.562643"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Jalkapallomatematiikkaa 12 p.**\n\n&NewLine;\n\nAineisto\n\n&NewLine;\n\n[LINK text=2.A Kuva: Jalkapallokenttä ylhäältä päin|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-23\\_N\\_fi/attachments/index.html#2.A]\n\n&NewLine;\n\nJalkapallokentän maalin leveys on 7,32 metriä. Kohtisuoraan 11,0 metrin päässä maaliviivan keskipisteestä sijaitsee rangaistuspotkupiste (aineisto 2.A). Kuinka suuressa kulmassa maali näkyy rangaistuspotkupisteeltä katsottuna? Kulma mitataan kentän pintaa pitkin. Anna vastaus asteen tarkkuudella.",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso tehtävän ratkaisu täältä. |url=https://drive.google.com/file/d/1GdsINEQ3TDYiShOY\\_xdlpQxxLfncWrS0/view#3]\n",
+          "exam_id": 103086,
+          "content": {
+            "text": "**Jalkapallomatematiikkaa 12 p.**\n\n&NewLine;\n\nAineisto\n\n&NewLine;\n\n[LINK text=2.A Kuva: Jalkapallokenttä ylhäältä päin|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-23\\_N\\_fi/attachments/index.html#2.A]\n\n&NewLine;\n\nJalkapallokentän maalin leveys on 7,32 metriä. Kohtisuoraan 11,0 metrin päässä maaliviivan keskipisteestä sijaitsee rangaistuspotkupiste (aineisto 2.A). Kuinka suuressa kulmassa maali näkyy rangaistuspotkupisteeltä katsottuna? Kulma mitataan kentän pintaa pitkin. Anna vastaus asteen tarkkuudella.",
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-07-21T10:56:30.023232",
+          "max_score": null,
+          "groupping": null,
+          "id": 3318699,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "81864f43-69fc-45a2-b7cb-9cf8553a1f83",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2021-06-16T13:01:03.711395"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Pii 12 p.**\n\n&NewLine;\n\nAineisto:\n\n[LINK text=9.A Taulukko: Piin desimaalit|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-23\\_N\\_fi/attachments/index.html#9.A]\n\n&NewLine;\n\nTaulukossa 9.A on luvun π ensimmäiset 297 desimaalia, joista on muodostettu 99 lukua jakamalla ne kolmen numeron ryhmiin. Selvitä näin syntyneiden 99 luvun\n\n&NewLine;\n\n1. vaihteluväli (2 p.)\n\n2. moodi ja mediaani (3 p.)\n\n3. keskiarvo ja keskihajonta. (3 p.)\n\n4. Pohdi, vaikuttaako tämän aineiston perusteella siltä, että nämä 99 lukua ovat jakautuneet normaalijakauman mukaisesti. (4 p.)",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso tehtävän ratkaisut täältä.|url=https://drive.google.com/file/d/1GdsINEQ3TDYiShOY\\_xdlpQxxLfncWrS0/view#3]\n",
+          "exam_id": 103086,
+          "content": {
+            "text": "**Pii 12 p.**\n\n&NewLine;\n\nAineisto:\n\n[LINK text=9.A Taulukko: Piin desimaalit|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-23\\_N\\_fi/attachments/index.html#9.A]\n\n&NewLine;\n\nTaulukossa 9.A on luvun π ensimmäiset 297 desimaalia, joista on muodostettu 99 lukua jakamalla ne kolmen numeron ryhmiin. Selvitä näin syntyneiden 99 luvun\n\n&NewLine;\n\n1. vaihteluväli (2 p.)\n\n2. moodi ja mediaani (3 p.)\n\n3. keskiarvo ja keskihajonta. (3 p.)\n\n4. Pohdi, vaikuttaako tämän aineiston perusteella siltä, että nämä 99 lukua ovat jakautuneet normaalijakauman mukaisesti. (4 p.)",
+            "displayNumber": "9."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-07-21T10:56:30.012656",
+          "max_score": null,
+          "groupping": null,
+          "id": 3318783,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "18a77bec-f0d7-429b-94ca-34e9b5584312",
+          "order_number": 11,
+          "multipart": true,
+          "created_at": "2021-06-16T13:39:25.684421"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Autojen hiilidioksidipäästöt 12 p.**\n\n&NewLine;\n\nAutojen hiilidioksidipäästöt ilmoitetaan yksikkönä grammaa/kilometri. EU on päättänyt uusien autojen päästörajoista vuoteen 2030 saakka:\n\n&NewLine;\n\n**Vuosi\t& Päästöraja**\n\n2015:\t130 g/km\n\n&NewLine;\n\n2020:\t95 g/km\n\n&NewLine;\n\n2025:\t15 % alempi kuin vuonna 2020\n\n&NewLine;\n\n2030:\t37,5 % alempi kuin vuonna 2020\n\n&NewLine;\n\n1.Kuinka monta prosenttia pienempi on päästöraja vuonna 2020 vuoteen 2015 verrattuna? Anna vastaus 0,1 prosenttiyksikön tarkkuudella. (4 p.)\n\n&NewLine;\n\n2.Kuinka monta prosenttia pienempi on tavoiteltu päästöraja vuonna 2030 vuoteen 2025 verrattuna? Anna vastaus 0,1 prosenttiyksikön tarkkuudella. (4 p.)\n\n&NewLine;\n\n3.Muodosta laskentaohjelmaa käyttämällä vuosien 2015, 2020, 2025 ja 2030 päästörajoja havainnollistava pylväsdiagrammi. (4 p.)\n",
+          "deleted_at": null,
+          "feedback": "[LINK text=Tehtävän ratkaisut täältä.|url=https://drive.google.com/file/d/1GdsINEQ3TDYiShOY\\_xdlpQxxLfncWrS0/view#3]\n",
+          "exam_id": 103086,
+          "content": {
+            "text": "**Autojen hiilidioksidipäästöt 12 p.**\n\n&NewLine;\n\nAutojen hiilidioksidipäästöt ilmoitetaan yksikkönä grammaa/kilometri. EU on päättänyt uusien autojen päästörajoista vuoteen 2030 saakka:\n\n&NewLine;\n\n**Vuosi\t& Päästöraja**\n\n2015:\t130 g/km\n\n&NewLine;\n\n2020:\t95 g/km\n\n&NewLine;\n\n2025:\t15 % alempi kuin vuonna 2020\n\n&NewLine;\n\n2030:\t37,5 % alempi kuin vuonna 2020\n\n&NewLine;\n\n1.Kuinka monta prosenttia pienempi on päästöraja vuonna 2020 vuoteen 2015 verrattuna? Anna vastaus 0,1 prosenttiyksikön tarkkuudella. (4 p.)\n\n&NewLine;\n\n2.Kuinka monta prosenttia pienempi on tavoiteltu päästöraja vuonna 2030 vuoteen 2025 verrattuna? Anna vastaus 0,1 prosenttiyksikön tarkkuudella. (4 p.)\n\n&NewLine;\n\n3.Muodosta laskentaohjelmaa käyttämällä vuosien 2015, 2020, 2025 ja 2030 päästörajoja havainnollistava pylväsdiagrammi. (4 p.)\n",
+            "displayNumber": "6."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-07-21T10:56:29.98544",
+          "max_score": null,
+          "groupping": null,
+          "id": 3318758,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "f1be994a-6da2-46c4-8776-7ef86e92a9f2",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2021-06-16T13:34:08.849779"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Keno-peli 12 p.**\n\n&NewLine;\n\nAineisto:\n\n&NewLine;\n\n[LINK text=7.A Taulukko: Kenotason 4 tulokset, kertoimet ja rivien lukumäärät|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-23\\_N\\_fi/attachments/index.html#7.A]\n\n&NewLine;\n\nKenossa arvotaan kaksikymmentä (20) numeroa seitsemästäkymmenestä (70) numerosta. Pelin tasolla 4 valitaan neljä numeroa näistä seitsemästäkymmenestä. Näin muodostuu 916 895 eri riviä. Tulos \"3 oikein\" tarkoittaa, että valituista numeroista täsmälleen 3 kuuluu arvottujen kahdenkymmenen numeron joukkoon jne. Voittosumma saadaan kertomalla valittu panos tuloksen kertoimella (aineisto 7.A).\n\n&NewLine;\n\n1.Mikä on pelirivin todennäköisin tulos? Entä mikä on epätodennäköisin tulos? (2 p.)\n\n&NewLine;\n\n2.Matti pelaa yhden pelirivin ja hänen panoksensa on 3 euroa. Hän saa tuloksen 4 oikein. Kuinka paljon hän voittaa? (2 p.)\n\n&NewLine;\n\n3.Matti pelaa kaksi peliriviä. Mikä on todennäköisyys, että toisella pelirivillä on neljä oikein ja toisella ei yhtään oikein? (4 p.)\n\n&NewLine;\n\n4.Miten \"4 oikein\" -rivien lukumäärä 4 845 lasketaan? (4 p.)",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso tehtävän ratkaisu täältä.|url=https://drive.google.com/file/d/1GdsINEQ3TDYiShOY\\_xdlpQxxLfncWrS0/view#3]\n",
+          "exam_id": 103086,
+          "content": {
+            "text": "**Keno-peli 12 p.**\n\n&NewLine;\n\nAineisto:\n\n&NewLine;\n\n[LINK text=7.A Taulukko: Kenotason 4 tulokset, kertoimet ja rivien lukumäärät|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-23\\_N\\_fi/attachments/index.html#7.A]\n\n&NewLine;\n\nKenossa arvotaan kaksikymmentä (20) numeroa seitsemästäkymmenestä (70) numerosta. Pelin tasolla 4 valitaan neljä numeroa näistä seitsemästäkymmenestä. Näin muodostuu 916 895 eri riviä. Tulos \"3 oikein\" tarkoittaa, että valituista numeroista täsmälleen 3 kuuluu arvottujen kahdenkymmenen numeron joukkoon jne. Voittosumma saadaan kertomalla valittu panos tuloksen kertoimella (aineisto 7.A).\n\n&NewLine;\n\n1.Mikä on pelirivin todennäköisin tulos? Entä mikä on epätodennäköisin tulos? (2 p.)\n\n&NewLine;\n\n2.Matti pelaa yhden pelirivin ja hänen panoksensa on 3 euroa. Hän saa tuloksen 4 oikein. Kuinka paljon hän voittaa? (2 p.)\n\n&NewLine;\n\n3.Matti pelaa kaksi peliriviä. Mikä on todennäköisyys, että toisella pelirivillä on neljä oikein ja toisella ei yhtään oikein? (4 p.)\n\n&NewLine;\n\n4.Miten \"4 oikein\" -rivien lukumäärä 4 845 lasketaan? (4 p.)",
+            "displayNumber": "7."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-07-21T10:56:29.98286",
+          "max_score": null,
+          "groupping": null,
+          "id": 3318759,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "98613cb6-c1a1-4bfe-a6c1-a6270233c454",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2021-06-16T13:34:08.852075"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Kirja-arvioita 12 p.**\n\n&NewLine;\n\nKirjaviisauteen kyllästynyt dosentti aikoo myydä kaikki kirjansa antikvariaattiin. Tarjouspyyntöä varten hän arvioi kirjojen lukumäärää.\n\n&NewLine;\n\n1.Kolmella umpimähkäisellä mittauksella hän saa seuraavat tulokset:\n\n&NewLine;\n\nMittaus 1: 25 kirjaa yhteensä 65,0 cm\n\nMittaus 2: 28 kirjaa yhteensä 76,0 cm\n\nMittaus 3: 14 kirjaa yhteensä 30,0 cm\n\n&NewLine;\n\nMissä näistä kolmesta mittauksesta on keskimäärin paksuimmat kirjat? (3 p.)\n\n&NewLine;\n\n2.Kirjoja on yhteensä 38,07 hyllymetriä. Dosentti arvioi kirjojen kokonaismäärää kohdan 1 kolmen mittauksen perusteella. Hänellä on mielessään kaksi menetelmää:\n\n&NewLine;\n\nMenetelmä 1: Jaan pituuden 38,07 kohdassa 1 laskettujen keskiarvojen keskiarvolla.\n\n&NewLine;\n\nMenetelmä 2: Lasken kolmen mittauksen kirjamäärät ja yhteispaksuuden ja saan näin arvion keskimääräisen kirjan paksuudesta. Jaan pituuden 38,07 tällä luvulla.\n\n&NewLine;\n\nLaske kummankin menetelmän mukainen arvio kirjojen kokonaismäärälle ja arvioi, kumpi menetelmä on parempi. (9 p.)\n\n&NewLine;\n\n&NewLine;\n",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso tehtävän ratkaisut täältä.|url=https://drive.google.com/file/d/1GdsINEQ3TDYiShOY\\_xdlpQxxLfncWrS0/view#3]\n",
+          "exam_id": 103086,
+          "content": {
+            "text": "**Kirja-arvioita 12 p.**\n\n&NewLine;\n\nKirjaviisauteen kyllästynyt dosentti aikoo myydä kaikki kirjansa antikvariaattiin. Tarjouspyyntöä varten hän arvioi kirjojen lukumäärää.\n\n&NewLine;\n\n1.Kolmella umpimähkäisellä mittauksella hän saa seuraavat tulokset:\n\n&NewLine;\n\nMittaus 1: 25 kirjaa yhteensä 65,0 cm\n\nMittaus 2: 28 kirjaa yhteensä 76,0 cm\n\nMittaus 3: 14 kirjaa yhteensä 30,0 cm\n\n&NewLine;\n\nMissä näistä kolmesta mittauksesta on keskimäärin paksuimmat kirjat? (3 p.)\n\n&NewLine;\n\n2.Kirjoja on yhteensä 38,07 hyllymetriä. Dosentti arvioi kirjojen kokonaismäärää kohdan 1 kolmen mittauksen perusteella. Hänellä on mielessään kaksi menetelmää:\n\n&NewLine;\n\nMenetelmä 1: Jaan pituuden 38,07 kohdassa 1 laskettujen keskiarvojen keskiarvolla.\n\n&NewLine;\n\nMenetelmä 2: Lasken kolmen mittauksen kirjamäärät ja yhteispaksuuden ja saan näin arvion keskimääräisen kirjan paksuudesta. Jaan pituuden 38,07 tällä luvulla.\n\n&NewLine;\n\nLaske kummankin menetelmän mukainen arvio kirjojen kokonaismäärälle ja arvioi, kumpi menetelmä on parempi. (9 p.)\n\n&NewLine;\n\n&NewLine;\n",
+            "displayNumber": "11."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-07-21T10:56:29.98025",
+          "max_score": null,
+          "groupping": null,
+          "id": 3318811,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "94162cb3-04f7-47ca-981a-58211dd3337e",
+          "order_number": 14,
+          "multipart": true,
+          "created_at": "2021-06-16T13:52:00.796513"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Asunnon ostaminen 12 p.**\n\n&NewLine;\n\nJessi on ostamassa asuntoa ja on löytänyt kaksi vaihtoehtoa, jotka ovat hänen mielestään yhtä mukavia. Hän valitsee asunnon taloudellisin perustein. Asuntojen tiedot ovat seuraavat:\n\n&NewLine;\n\nAsunto 1: 2 h + k, 47 m2, myyntihinta 89 000 €, yhtiövastike 220 €/kk\n\n&NewLine;\n\nAsunto 2: 1 h + avok. + s, 42 m2, myyntihinta 96 000 €, yhtiövastike 147 €/kk\n\n&NewLine;\n\n1. Laske asuntojen neliöhinnat. (2 p.)\n2. Jessillä on 19 000 euroa säästöjä. Hän aikoo maksaa loppuosan asunnon hinnasta ottamalla kymmenen vuoden tasaerälainan, jonka vuosikorko on 2,4 %. Kuinka paljon rahaa Jessiltä kuluu kymmenen vuoden aikana korkoihin ja vastikkeisiin näissä kahdessa eri asuntovaihtoehdossa? Lainaa lyhennetään kuukausittain. (7 p.)\n3. Kuvaile sanallisesti, mitä muita seikkoja kannattaa ottaa huomioon, jos halutaan tarkemmin arvioida näiden kahden asuntovaihtoehdon kokonaisedullisuutta. (3 p.)\n",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso tehtävän ratkaisut.|url=https://drive.google.com/file/d/1GdsINEQ3TDYiShOY\\_xdlpQxxLfncWrS0/view#3]\n",
+          "exam_id": 103086,
+          "content": {
+            "text": "**Asunnon ostaminen 12 p.**\n\n&NewLine;\n\nJessi on ostamassa asuntoa ja on löytänyt kaksi vaihtoehtoa, jotka ovat hänen mielestään yhtä mukavia. Hän valitsee asunnon taloudellisin perustein. Asuntojen tiedot ovat seuraavat:\n\n&NewLine;\n\nAsunto 1: 2 h + k, 47 m2, myyntihinta 89 000 €, yhtiövastike 220 €/kk\n\n&NewLine;\n\nAsunto 2: 1 h + avok. + s, 42 m2, myyntihinta 96 000 €, yhtiövastike 147 €/kk\n\n&NewLine;\n\n1. Laske asuntojen neliöhinnat. (2 p.)\n2. Jessillä on 19 000 euroa säästöjä. Hän aikoo maksaa loppuosan asunnon hinnasta ottamalla kymmenen vuoden tasaerälainan, jonka vuosikorko on 2,4 %. Kuinka paljon rahaa Jessiltä kuluu kymmenen vuoden aikana korkoihin ja vastikkeisiin näissä kahdessa eri asuntovaihtoehdossa? Lainaa lyhennetään kuukausittain. (7 p.)\n3. Kuvaile sanallisesti, mitä muita seikkoja kannattaa ottaa huomioon, jos halutaan tarkemmin arvioida näiden kahden asuntovaihtoehdon kokonaisedullisuutta. (3 p.)\n",
+            "displayNumber": "12."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-07-21T10:56:29.977417",
+          "max_score": null,
+          "groupping": null,
+          "id": 3318812,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "73ba56fe-4a16-41a8-bcef-c473bbd6b199",
+          "order_number": 15,
+          "multipart": true,
+          "created_at": "2021-06-16T13:52:00.799521"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Funktioiden kuvaajat 12 p.**\n\n&NewLine;\n\nTutkitaan funktioiden\n\n&NewLine;\n\nf(x) = [MATH text=7x^4-8x^3-7x^2+8x-1]\n\ng(x) = [MATH text=-4x^3+2x^2+6x+1]\n\nh(x) = [MATH text=\\sqrt{4x+2}-1]\n\np(x) = [MATH text=\\mid x-3\\mid]\n\n&NewLine;\n\nkuvaajia. Voit vastata kysymyksiin 2–5 kuvaajien perusteella, mutta esitä myös lausekkeeseen perustuva perustelu sille, että ehto todella toteutuu.\n\n&NewLine;\n\n_Esimerkki: Mikä kuvaajista kulkee pisteen (0,1) kautta?_\n\n&NewLine;\n\n_Vastaus: Kyseessä on funktion g kuvaaja, sillä muuttujan arvolla x = 0 on_\n\n[MATH text=g\\left(0\\right)=-4\\cdot0^3+2\\cdot0^2+6\\cdot0+1=1]\n\n&NewLine;\n\n1. Piirrä funktioiden kuvaajat koordinaatistoon. Valitse akselien mittakaavat sopiviksi. (2 p.)\n2. Mikä kuvaajista leikkaa y-akselin pisteessä (0,3)? (2 p.)\n3. Minkä funktion derivaatalla on nollakohta muuttujan arvolla x ≈ 0,4? (2 p.)\n4. Mikä funktioista saa ainoastaan lukua 1 suurempia arvoja, kun x>1? (3 p.)\n5. Mikä kuvaajista leikkaa x-akselin neljä kertaa? (3 p.)\n\n&NewLine;\n\n**Huomaathan, että Abitreenien harjoittelukokeessa ei voi käyttää kuvakaappauksia eikä kaavaeditoria.**\n",
+          "deleted_at": null,
+          "feedback": "[LINK text=Tehtävän ratkaisut.|url=https://drive.google.com/file/d/1GdsINEQ3TDYiShOY\\_xdlpQxxLfncWrS0/view#3]\n",
+          "exam_id": 103086,
+          "content": {
+            "text": "**Funktioiden kuvaajat 12 p.**\n\n&NewLine;\n\nTutkitaan funktioiden\n\n&NewLine;\n\nf(x) = [MATH text=7x^4-8x^3-7x^2+8x-1]\n\ng(x) = [MATH text=-4x^3+2x^2+6x+1]\n\nh(x) = [MATH text=\\sqrt{4x+2}-1]\n\np(x) = [MATH text=\\mid x-3\\mid]\n\n&NewLine;\n\nkuvaajia. Voit vastata kysymyksiin 2–5 kuvaajien perusteella, mutta esitä myös lausekkeeseen perustuva perustelu sille, että ehto todella toteutuu.\n\n&NewLine;\n\n_Esimerkki: Mikä kuvaajista kulkee pisteen (0,1) kautta?_\n\n&NewLine;\n\n_Vastaus: Kyseessä on funktion g kuvaaja, sillä muuttujan arvolla x = 0 on_\n\n[MATH text=g\\left(0\\right)=-4\\cdot0^3+2\\cdot0^2+6\\cdot0+1=1]\n\n&NewLine;\n\n1. Piirrä funktioiden kuvaajat koordinaatistoon. Valitse akselien mittakaavat sopiviksi. (2 p.)\n2. Mikä kuvaajista leikkaa y-akselin pisteessä (0,3)? (2 p.)\n3. Minkä funktion derivaatalla on nollakohta muuttujan arvolla x ≈ 0,4? (2 p.)\n4. Mikä funktioista saa ainoastaan lukua 1 suurempia arvoja, kun x>1? (3 p.)\n5. Mikä kuvaajista leikkaa x-akselin neljä kertaa? (3 p.)\n\n&NewLine;\n\n**Huomaathan, että Abitreenien harjoittelukokeessa ei voi käyttää kuvakaappauksia eikä kaavaeditoria.**\n",
+            "displayNumber": "13."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-07-21T10:56:29.974517",
+          "max_score": null,
+          "groupping": null,
+          "id": 3318813,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "99a31b2a-8422-4102-890b-e6baf923e8c6",
+          "order_number": 16,
+          "multipart": true,
+          "created_at": "2021-06-16T13:52:00.802173"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Suorat 12 p.**\n\n&NewLine;\n\nAineisto:\n\n[LINK text=4.A Kuva: GeoGebra-kuvakaappaus|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-23\\_N\\_fi/attachments/index.html#4.A]\n\n&NewLine;\n\nKuvaan 4.A on piirretty kuusi suoraa ja kolme pistettä. Alla on kuuden suoran yhtälöt. Valitse kunkin yhtälön kohdalta, esittääkö se kuvassa näkyvää pisteen A, B tai C kautta kulkevaa suoraa vai ei. Oikea vastaus 2 p., väärä vastaus 0 p., ei vastausta 0 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 103086,
+          "content": {
+            "text": "**Suorat 12 p.**\n\n&NewLine;\n\nAineisto:\n\n[LINK text=4.A Kuva: GeoGebra-kuvakaappaus|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-23\\_N\\_fi/attachments/index.html#4.A]\n\n&NewLine;\n\nKuvaan 4.A on piirretty kuusi suoraa ja kolme pistettä. Alla on kuuden suoran yhtälöt. Valitse kunkin yhtälön kohdalta, esittääkö se kuvassa näkyvää pisteen A, B tai C kautta kulkevaa suoraa vai ei. Oikea vastaus 2 p., väärä vastaus 0 p., ei vastausta 0 p.\n",
+            "displayNumber": "4."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "2780d8a0-deb1-4a8b-9475-c9d81bba92d9",
+            "420aad8a-7655-46fe-bc11-fa4a06c438ed",
+            "2f1caba6-1757-4378-8a00-38159c93fa6d",
+            "4f721ea1-5326-4460-a721-ca58915bab0d",
+            "8c0020b3-4efb-4848-9b49-7f7e2c21d173",
+            "30661e4c-2876-4f64-b999-dbdc02997e3f"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-07-21T10:56:29.993057",
+          "max_score": null,
+          "groupping": null,
+          "id": 3318700,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "06bc8eb5-ffba-4fef-873a-862559fb160a",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2021-06-16T13:01:03.715112"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Taitellaan pahvista laatikko 12 p.**\n\n​\n\nAineisto:\n\n[LINK text=8.A Kuva: Leikattu pahvilevy|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-23\\_N\\_fi/attachments/index.html#8.A]\n\n​\n\nNeliön muotoisen pahvilevyn sivun pituus on 1,0 m. Sen jokaisesta kulmasta leikataan pois pienempi neliö, jonka sivun pituus on x (aineisto 8.A). Tämän jälkeen kaikki neljä reunoille jäänyttä suorakulmion muotoista osaa taitetaan 90 astetta ylöspäin ja teipataan kiinni vierekkäisiin osiin niin, että syntyy suorakulmainen laatikko ilman kantta. Millä muuttujan x arvolla tämän laatikon tilavuus on mahdollisimman suuri?",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso tehtävän ratkaisu täältä.|url=https://drive.google.com/file/d/1GdsINEQ3TDYiShOY\\_xdlpQxxLfncWrS0/view#3]\n",
+          "exam_id": 103086,
+          "content": {
+            "text": "**Taitellaan pahvista laatikko 12 p.**\n\n​\n\nAineisto:\n\n[LINK text=8.A Kuva: Leikattu pahvilevy|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-23\\_N\\_fi/attachments/index.html#8.A]\n\n​\n\nNeliön muotoisen pahvilevyn sivun pituus on 1,0 m. Sen jokaisesta kulmasta leikataan pois pienempi neliö, jonka sivun pituus on x (aineisto 8.A). Tämän jälkeen kaikki neljä reunoille jäänyttä suorakulmion muotoista osaa taitetaan 90 astetta ylöspäin ja teipataan kiinni vierekkäisiin osiin niin, että syntyy suorakulmainen laatikko ilman kantta. Millä muuttujan x arvolla tämän laatikon tilavuus on mahdollisimman suuri?",
+            "displayNumber": "8."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-07-21T10:56:29.991056",
+          "max_score": null,
+          "groupping": null,
+          "id": 3318782,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "f9cf3793-463d-43c5-955e-90340e890c3e",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2021-06-16T13:39:25.681375"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Yhtälön 4(x+2)=12 ratkaisu x on (2 p.)\n\n&NewLine;\n\n[SELECT id=1]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 103086,
+          "content": {
+            "text": "Yhtälön 4(x+2)=12 ratkaisu x on (2 p.)\n\n&NewLine;\n\n[SELECT id=1]\n",
+            "displayNumber": "1.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-07-21T10:56:29.988352",
+          "max_score": 2,
+          "groupping": null,
+          "id": 3318687,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "parent": "7ec03c37-4dab-4138-91f4-5ae4a60d9b42",
+              "choices": [
+                {
+                  "id": "3ab7aa1c-753b-4101-b895-3f4cd2882fad",
+                  "text": "−10"
+                },
+                {
+                  "id": "4f6a6c3e-0e22-4c1c-b4c9-e9495f25e1b1",
+                  "text": "−9"
+                },
+                {
+                  "id": "db2372ee-d95f-4593-8bf2-575b1e172db9",
+                  "text": "−8"
+                },
+                {
+                  "id": "e687bd29-15a9-41fd-a9d0-19b0db4b2b55",
+                  "text": "−7"
+                },
+                {
+                  "id": "9bfacaac-6bcf-4fde-9f5d-b5d8ef3571aa",
+                  "text": "−6"
+                },
+                {
+                  "id": "e2e8dbac-bf1f-4c76-8375-b725a64e93d5",
+                  "text": "−5"
+                },
+                {
+                  "id": "214cbef7-7ef9-4c02-86c9-e488bfb238a1",
+                  "text": "−4"
+                },
+                {
+                  "id": "eefef5ce-9f05-4bad-b0b2-9c765f6377c9",
+                  "text": "−3"
+                },
+                {
+                  "id": "80e0f66b-802d-4297-9aa0-1bc826e5e7a8",
+                  "text": "−2"
+                },
+                {
+                  "id": "bce48820-06cc-4743-bb3f-c9e1092ab32b",
+                  "text": "−1"
+                },
+                {
+                  "id": "541e245c-6783-41af-a7c3-b55eaaada37e",
+                  "text": "0"
+                },
+                {
+                  "id": "36994fb1-e4fa-4db9-aca0-62481379fbcb",
+                  "text": "1",
+                  "correct": true
+                },
+                {
+                  "id": "8ef869b4-b301-4b6b-ba7e-fc75a66715ce",
+                  "text": "2"
+                },
+                {
+                  "id": "10622649-c9a2-4958-b170-30eda00a7c00",
+                  "text": "3"
+                },
+                {
+                  "id": "7a8033bc-6e26-4764-9fd5-6bdbc5e368fb",
+                  "text": "4"
+                },
+                {
+                  "id": "f20a763e-cb91-4c65-94c8-5cd1fa660461",
+                  "text": "5"
+                },
+                {
+                  "id": "94383cb2-1855-466d-9bbe-7a93a2994f00",
+                  "text": "6"
+                },
+                {
+                  "id": "12026048-6246-4a87-8c5d-430b0a8271e2",
+                  "text": "7"
+                },
+                {
+                  "id": "3d3c6be1-f0ef-4766-a167-3ab968611eac",
+                  "text": "8"
+                },
+                {
+                  "id": "2150f427-0296-48aa-8217-258a6326e45c",
+                  "text": "9"
+                },
+                {
+                  "id": "03d593a6-5555-470d-bb98-7e8915231800",
+                  "text": "10"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "7ec03c37-4dab-4138-91f4-5ae4a60d9b42",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2021-06-16T12:25:23.156211"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Lausekkeen 5(3+2)−5 ⋅ 4 arvo on  (_2 p.)_\n\n&NewLine;\n\n[SELECT id=1]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 103086,
+          "content": {
+            "text": "Lausekkeen 5(3+2)−5 ⋅ 4 arvo on  (_2 p.)_\n\n&NewLine;\n\n[SELECT id=1]\n",
+            "displayNumber": "1.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-07-21T10:56:30.004547",
+          "max_score": 2,
+          "groupping": null,
+          "id": 3318150,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "parent": "d498aba7-d7eb-4c39-97d0-ecd175d558bc",
+              "choices": [
+                {
+                  "id": "c9ea5331-e433-455f-91e1-c934d534a3bc",
+                  "text": "−10"
+                },
+                {
+                  "id": "a778254c-c7ba-42a6-998b-8b090187153d",
+                  "text": "−9"
+                },
+                {
+                  "id": "9a250ebf-77c5-47fd-a554-3f0dc2eb8c27",
+                  "text": "−8"
+                },
+                {
+                  "id": "2d4b9ea0-dcb9-4a57-a2e3-6b0e7b65aea3",
+                  "text": "−7"
+                },
+                {
+                  "id": "dc58e1b3-8d1b-4eea-a9d7-aa0d95a06a77",
+                  "text": "−6"
+                },
+                {
+                  "id": "fab35329-b490-408d-9f7f-36360690254d",
+                  "text": "−5"
+                },
+                {
+                  "id": "d75be9f9-596a-42c7-8513-e9d041d6ab47",
+                  "text": "−4"
+                },
+                {
+                  "id": "cafeaa05-68ed-4e6f-97a9-0216855a809d",
+                  "text": "−3"
+                },
+                {
+                  "id": "f8882efb-00bc-4ab5-b79b-44db2a641870",
+                  "text": "−2"
+                },
+                {
+                  "id": "8005db46-c34e-41b0-b661-85109f39d6e1",
+                  "text": "−1"
+                },
+                {
+                  "id": "9946b082-1336-4dd7-86b0-4806e1e3180d",
+                  "text": "0"
+                },
+                {
+                  "id": "7ddd371b-4c9b-4703-bea7-20649f6aaf5c",
+                  "text": "1"
+                },
+                {
+                  "id": "2d004e99-5458-4b1d-b92e-06e5a0712ca5",
+                  "text": "2"
+                },
+                {
+                  "id": "abeff976-9260-40b9-976c-8871c7d08d93",
+                  "text": "3"
+                },
+                {
+                  "id": "34e996bc-6f01-4d54-bd8e-d3fe0b851afd",
+                  "text": "4"
+                },
+                {
+                  "id": "d601ca89-31e1-4758-9a32-3a48f93a0df0",
+                  "text": "5",
+                  "correct": true
+                },
+                {
+                  "id": "f952ee08-c976-4291-a6b0-c15dc84276a0",
+                  "text": "6"
+                },
+                {
+                  "id": "39cfc1be-898e-4ff7-be75-8d772fd6a651",
+                  "text": "7"
+                },
+                {
+                  "id": "fa2a334c-c1c8-40c0-b44a-7486680a39c5",
+                  "text": "8"
+                },
+                {
+                  "id": "0eeeda43-3805-4db4-a049-9c59e50d5e05",
+                  "text": "9"
+                },
+                {
+                  "id": "7acbaea9-afaa-4562-bf3d-2c81595b37a0",
+                  "text": "10"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "d498aba7-d7eb-4c39-97d0-ecd175d558bc",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2021-06-16T11:45:36.553939"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Laskuja 12 p.**\n\n&NewLine;\n\nOikea vastaus 2 p., väärä vastaus 0 p., ei vastausta 0 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 103086,
+          "content": {
+            "text": "**Laskuja 12 p.**\n\n&NewLine;\n\nOikea vastaus 2 p., väärä vastaus 0 p., ei vastausta 0 p.\n",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "d498aba7-d7eb-4c39-97d0-ecd175d558bc",
+            "1b1aa9e4-1f1b-4ecb-9973-4734cb0a5357",
+            "7ec03c37-4dab-4138-91f4-5ae4a60d9b42",
+            "de17fea7-8525-4e0d-8870-4505d93814eb",
+            "cbcf0f81-a1f2-444f-9d5a-b704d8d138fa",
+            "81461c83-fb74-4d30-8412-327cdc33d067"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-07-21T10:56:30.045362",
+          "max_score": null,
+          "groupping": null,
+          "id": 3318149,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "3a81466f-5b01-4cbc-9f78-f2a57ffc3d92",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2021-06-16T11:45:36.550605"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "[MATH text=y-\\frac{3}{2}=\\frac{1}{6}x] _(2 p.)_\n\n&NewLine;\n\n[SELECT id=6]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 103086,
+          "content": {
+            "text": "[MATH text=y-\\frac{3}{2}=\\frac{1}{6}x] _(2 p.)_\n\n&NewLine;\n\n[SELECT id=6]\n",
+            "displayNumber": "4.6."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-07-21T10:56:30.025866",
+          "max_score": 2,
+          "groupping": null,
+          "id": 3318737,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 6,
+              "parent": "30661e4c-2876-4f64-b999-dbdc02997e3f",
+              "choices": [
+                {
+                  "id": "d896aae4-2119-4a1b-97b1-e833c08d74ab",
+                  "text": "Suora näkyy kuvassa ja kulkee pisteen A kautta.",
+                  "correct": true
+                },
+                {
+                  "id": "11970366-3181-4bdd-a4b8-5bd2802ec73f",
+                  "text": "Suora näkyy kuvassa ja kulkee pisteen B kautta."
+                },
+                {
+                  "id": "f27ba297-70d0-4925-b809-a7a1c55f7413",
+                  "text": "Suora näkyy kuvassa ja kulkee pisteen C kautta."
+                },
+                {
+                  "id": "9fbaa008-445d-4724-8c7d-174423e22077",
+                  "text": "Suoraa ei ole piirretty kuvaan."
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "30661e4c-2876-4f64-b999-dbdc02997e3f",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2021-06-16T13:29:07.211957"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Koiran ikä 12 p.**\n\n&NewLine;\n\nErään vanhan käsityksen mukaan koiran ikä kerrotaan luvulla 7, jotta saadaan kuva siitä, kuinka vanhaa ihmistä koira vastaa. Esimerkiksi vanhimmat ihmiset ovat yli 100-vuotiaita, mutta koirat elävät harvoin yli 20-vuotiaiksi. Viime aikoina on esitetty muitakin tapoja tulkita koiran ikää. Tarkastellaan seuraavaa mallia, joka perustuu logaritmiin.\n\n&NewLine;\n\nJos koiran todellinen ikä on t (vuotta), niin 10-kantaisen logaritmin avulla lausekkeella 37 lg ⁡ t + 31 voidaan laskea vastaava ihmisikä.\n\n&NewLine;\n\n1. Koiran todellinen ikä on 2 vuotta. Mitä ihmisikää se vastaa tämän mallin mukaan? (3 p.)\n\n2. Koiran ikää vastaava ihmisikä mallin mukaan on 25 vuotta. Mikä on koiran todellinen ikä? (3 p.)\n\n3. Arvioi, kuinka hyvin malli toimii alhaisen ja korkean iän kohdalla. (6 p.)\n",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso tehtävän ratkaisut täältä.|url=https://drive.google.com/file/d/1GdsINEQ3TDYiShOY\\_xdlpQxxLfncWrS0/view#3]\n",
+          "exam_id": 103086,
+          "content": {
+            "text": "**Koiran ikä 12 p.**\n\n&NewLine;\n\nErään vanhan käsityksen mukaan koiran ikä kerrotaan luvulla 7, jotta saadaan kuva siitä, kuinka vanhaa ihmistä koira vastaa. Esimerkiksi vanhimmat ihmiset ovat yli 100-vuotiaita, mutta koirat elävät harvoin yli 20-vuotiaiksi. Viime aikoina on esitetty muitakin tapoja tulkita koiran ikää. Tarkastellaan seuraavaa mallia, joka perustuu logaritmiin.\n\n&NewLine;\n\nJos koiran todellinen ikä on t (vuotta), niin 10-kantaisen logaritmin avulla lausekkeella 37 lg ⁡ t + 31 voidaan laskea vastaava ihmisikä.\n\n&NewLine;\n\n1. Koiran todellinen ikä on 2 vuotta. Mitä ihmisikää se vastaa tämän mallin mukaan? (3 p.)\n\n2. Koiran ikää vastaava ihmisikä mallin mukaan on 25 vuotta. Mikä on koiran todellinen ikä? (3 p.)\n\n3. Arvioi, kuinka hyvin malli toimii alhaisen ja korkean iän kohdalla. (6 p.)\n",
+            "displayNumber": "10."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-07-21T10:56:30.01526",
+          "max_score": null,
+          "groupping": null,
+          "id": 3318810,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "bc2c4f43-dd83-44d7-b2b2-005943b10648",
+          "order_number": 13,
+          "multipart": true,
+          "created_at": "2021-06-16T13:52:00.793769"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kaiuttimen alkuperäinen hinta on 120 euroa. Mikä sen hinta on 30 % alennuksen jälkeen? (2 p.)\n\n&NewLine;\n\n[SELECT id=2]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 103086,
+          "content": {
+            "text": "Kaiuttimen alkuperäinen hinta on 120 euroa. Mikä sen hinta on 30 % alennuksen jälkeen? (2 p.)\n\n&NewLine;\n\n[SELECT id=2]\n",
+            "displayNumber": "1.4."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-07-21T10:56:30.007251",
+          "max_score": 2,
+          "groupping": null,
+          "id": 3318688,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 2,
+              "parent": "de17fea7-8525-4e0d-8870-4505d93814eb",
+              "choices": [
+                {
+                  "id": "190c6799-ee74-4276-826e-fd95bc2f5890",
+                  "text": "36 e"
+                },
+                {
+                  "id": "82d78b17-710d-4882-9b97-7738fe735096",
+                  "text": "80 e"
+                },
+                {
+                  "id": "45be9cc8-7510-4da2-9dfc-1554949334a9",
+                  "text": "82 e"
+                },
+                {
+                  "id": "a2389701-62a7-4179-8845-7778d5d1f0de",
+                  "text": "84 e",
+                  "correct": true
+                },
+                {
+                  "id": "672c6489-8e32-4fbe-8bdb-2f4cf61167ae",
+                  "text": "90 e"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "de17fea7-8525-4e0d-8870-4505d93814eb",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2021-06-16T12:25:23.15861"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Lausekkeen 3x+8 arvo kun x = −2 on (2 p.)\n\n&NewLine;\n\n[SELECT id=1]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 103086,
+          "content": {
+            "text": "Lausekkeen 3x+8 arvo kun x = −2 on (2 p.)\n\n&NewLine;\n\n[SELECT id=1]\n",
+            "displayNumber": "1.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-07-21T10:56:30.000992",
+          "max_score": 2,
+          "groupping": null,
+          "id": 3318151,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "parent": "1b1aa9e4-1f1b-4ecb-9973-4734cb0a5357",
+              "choices": [
+                {
+                  "id": "dfe996f6-1475-4ca6-8152-9039ddc0d2ad",
+                  "text": "−10"
+                },
+                {
+                  "id": "e4dcb7b7-b41e-4f3b-b98e-5b43a9abe352",
+                  "text": "−9"
+                },
+                {
+                  "id": "f562acb4-b957-44d8-b067-f8bfd984f035",
+                  "text": "−8"
+                },
+                {
+                  "id": "5b5652f7-a4db-46f0-8914-2d344bd16601",
+                  "text": "−7"
+                },
+                {
+                  "id": "3d07767b-c9ac-4e80-a35b-4e190ec15e43",
+                  "text": "−6"
+                },
+                {
+                  "id": "5f791ec6-f2ca-49ef-8908-dadf926f213d",
+                  "text": "−5"
+                },
+                {
+                  "id": "5c7cc33d-551a-44e0-ac11-0c5c75d3e863",
+                  "text": "−4"
+                },
+                {
+                  "id": "5041af66-6561-421f-8d21-e04f59c94341",
+                  "text": "−3"
+                },
+                {
+                  "id": "5d4c6e46-0079-46e7-8714-d6daaa40c284",
+                  "text": "−2"
+                },
+                {
+                  "id": "3a371c8d-97e4-482e-8fc5-6883bc2a5a9d",
+                  "text": "−1"
+                },
+                {
+                  "id": "cc409bfa-c1d1-45d4-abe7-47752a9df7f0",
+                  "text": "0"
+                },
+                {
+                  "id": "bb7a78c5-23c4-4621-8642-1f8ddcdac202",
+                  "text": "1"
+                },
+                {
+                  "id": "f2ea89a7-bc66-403a-897d-77591f68c68d",
+                  "text": "2",
+                  "correct": true
+                },
+                {
+                  "id": "f3b568af-665d-425d-9dae-1401a96b26cc",
+                  "text": "3"
+                },
+                {
+                  "id": "4b121a68-27ba-4e26-be13-e9207b5f14f2",
+                  "text": "4"
+                },
+                {
+                  "id": "3dd8780b-353f-4f6c-8083-ab73407c4ab4",
+                  "text": "5"
+                },
+                {
+                  "id": "f904b6e9-d751-4df0-b83f-ee370834b4ca",
+                  "text": "6"
+                },
+                {
+                  "id": "ca0a2590-4bbf-459a-8d31-1412c49450ea",
+                  "text": "7"
+                },
+                {
+                  "id": "31ee87bf-bff0-4261-8b38-e737b67a44c8",
+                  "text": "8"
+                },
+                {
+                  "id": "a70287ed-2ab6-418f-8b09-fedaf9977c46",
+                  "text": "9"
+                },
+                {
+                  "id": "53125b4b-325b-40ae-a87e-26c0c9ed7783",
+                  "text": "10"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "1b1aa9e4-1f1b-4ecb-9973-4734cb0a5357",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2021-06-16T11:45:36.556776"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Tuotteen verottomaan hintaan lisätään arvonlisävero, jonka suuruus on 24 %. Mikä on arvonlisäveron osuus tuotteen myyntihinnasta kokonaisina prosentteina? 2 p.\n\n​\n\n[SELECT id=4]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 103086,
+          "content": {
+            "text": "Tuotteen verottomaan hintaan lisätään arvonlisävero, jonka suuruus on 24 %. Mikä on arvonlisäveron osuus tuotteen myyntihinnasta kokonaisina prosentteina? 2 p.\n\n​\n\n[SELECT id=4]\n",
+            "displayNumber": "1.6."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-07-21T10:56:29.995842",
+          "max_score": 2,
+          "groupping": null,
+          "id": 3318697,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 4,
+              "parent": "81461c83-fb74-4d30-8412-327cdc33d067",
+              "choices": [
+                {
+                  "id": "94919ad8-f735-4d8c-b5ab-9de05cd0d7ef",
+                  "text": "19 %",
+                  "correct": true
+                },
+                {
+                  "id": "c53c08b8-9545-4100-9e2f-cd80ca3b37ed",
+                  "text": "21 %"
+                },
+                {
+                  "id": "171f13fd-a376-44c2-85b7-0b6bc5b3e580",
+                  "text": "24 %"
+                },
+                {
+                  "id": "9bf8d4fe-a115-4b5c-a43c-82bf97e80b70",
+                  "text": "76 %"
+                },
+                {
+                  "id": "a7fe3dbf-fcdb-4a84-b8ef-8a6e4ff77cb7",
+                  "text": "124 %"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "81461c83-fb74-4d30-8412-327cdc33d067",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2021-06-16T13:01:03.704703"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Alla on esitetty tehtävä ja siihen kaksi ratkaisua. (2 p.)\n\n&NewLine;\n\nTehtävä: Kuinka monta prosenttia enemmän 210 on kuin 200?\n\nRatkaisu 1: 210 / 200 = 1,05; 1,05−1 = 0,05. Vastaus: 5 %.\n\nRatkaisu 2: 200 / 210 = 0,95; 1−0,95 = 0,05. Vastaus: 5 %.\n\n&NewLine;\n\nMikä seuraavista vaihtoehdoista on totta?\n\n[SELECT id=3]\n\n&NewLine;\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 103086,
+          "content": {
+            "text": "Alla on esitetty tehtävä ja siihen kaksi ratkaisua. (2 p.)\n\n&NewLine;\n\nTehtävä: Kuinka monta prosenttia enemmän 210 on kuin 200?\n\nRatkaisu 1: 210 / 200 = 1,05; 1,05−1 = 0,05. Vastaus: 5 %.\n\nRatkaisu 2: 200 / 210 = 0,95; 1−0,95 = 0,05. Vastaus: 5 %.\n\n&NewLine;\n\nMikä seuraavista vaihtoehdoista on totta?\n\n[SELECT id=3]\n\n&NewLine;\n",
+            "displayNumber": "1.5."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-07-21T10:56:29.998493",
+          "max_score": 2,
+          "groupping": null,
+          "id": 3318696,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 3,
+              "parent": "cbcf0f81-a1f2-444f-9d5a-b704d8d138fa",
+              "choices": [
+                {
+                  "id": "725eeda7-6284-42ae-a05d-dece5bffdf61",
+                  "text": "Kumpikin ratkaisu on väärin."
+                },
+                {
+                  "id": "a268df66-6275-494b-95ec-9031522047cb",
+                  "text": "Vain ratkaisu 1 on oikein.",
+                  "correct": true
+                },
+                {
+                  "id": "5bd9c8c7-d1a4-474e-88ec-7d15a6b565ee",
+                  "text": "Vain ratkaisu 2 on oikein."
+                },
+                {
+                  "id": "5686c535-e9ce-42b4-a72d-3d3aea4aaaca",
+                  "text": "Molemmat ratkaisut ovat oikein."
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "cbcf0f81-a1f2-444f-9d5a-b704d8d138fa",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2021-06-16T13:01:03.702182"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Lipputulot 12 p.**\n\n&NewLine;\n\nMaaotteluun on ostettu 4 802 lippua. Pääkatsomon lippu maksaa 35 euroa ja ylä- ja sivukatsomoiden liput 25 euroa. Ottelun lipputuloja kertyi yhteensä 136 900 euroa. Kuinka moni katsojista istui pääkatsomossa?\n",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso tehtävän ratkaisu täältä.|url=https://drive.google.com/file/d/1GdsINEQ3TDYiShOY\\_xdlpQxxLfncWrS0/view#3]\n",
+          "exam_id": 103086,
+          "content": {
+            "text": "**Lipputulot 12 p.**\n\n&NewLine;\n\nMaaotteluun on ostettu 4 802 lippua. Pääkatsomon lippu maksaa 35 euroa ja ylä- ja sivukatsomoiden liput 25 euroa. Ottelun lipputuloja kertyi yhteensä 136 900 euroa. Kuinka moni katsojista istui pääkatsomossa?\n",
+            "displayNumber": "5."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-07-21T10:56:30.009859",
+          "max_score": null,
+          "groupping": null,
+          "id": 3318757,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "09065628-849c-4e6f-b2d4-45719973951b",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2021-06-16T13:34:08.847413"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### B2-osa\n\nVastaa kolmeen tehtävään.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 103086,
+          "content": {
+            "text": "### B2-osa\n\nVastaa kolmeen tehtävään.\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-07-21T10:56:30.018082",
+          "max_score": null,
+          "groupping": null,
+          "id": 3318784,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "5b48b9aa-e47c-4b0a-a209-af9877f7fd57",
+          "order_number": 12,
+          "multipart": true,
+          "created_at": "2021-06-16T13:39:25.68696"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### B1-osa\n\nVastaa kolmeen tehtävään.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 103086,
+          "content": {
+            "text": "### B1-osa\n\nVastaa kolmeen tehtävään.\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-07-21T10:56:30.020664",
+          "max_score": null,
+          "groupping": null,
+          "id": 3318756,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "91012448-f3b8-497e-b346-7781028332f7",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2021-06-16T13:34:08.844904"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "3y+7x = 1 _(2 p.)_\n\n&NewLine;\n\n[SELECT id=6]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 103086,
+          "content": {
+            "text": "3y+7x = 1 _(2 p.)_\n\n&NewLine;\n\n[SELECT id=6]\n",
+            "displayNumber": "4.5."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-07-21T10:56:30.02848",
+          "max_score": 2,
+          "groupping": null,
+          "id": 3318719,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 6,
+              "parent": "8c0020b3-4efb-4848-9b49-7f7e2c21d173",
+              "choices": [
+                {
+                  "id": "223f6410-9c1d-46c3-8abf-06c57c440190",
+                  "text": "Suora näkyy kuvassa ja kulkee pisteen A kautta."
+                },
+                {
+                  "id": "a1c458dc-6732-4fe2-803f-6ca798dd723d",
+                  "text": "Suora näkyy kuvassa ja kulkee pisteen B kautta."
+                },
+                {
+                  "id": "d3b97829-7039-4f61-929f-899d96786465",
+                  "text": "Suora näkyy kuvassa ja kulkee pisteen C kautta."
+                },
+                {
+                  "id": "5d085b2a-1aba-4cd9-a4b2-a0c0d27b8641",
+                  "text": "Suoraa ei ole piirretty kuvaan.",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "8c0020b3-4efb-4848-9b49-7f7e2c21d173",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2021-06-16T13:25:35.875836"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "y−3 = 3(x+4) _(2 p.)_\n\n&NewLine;\n\n[SELECT id=6]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 103086,
+          "content": {
+            "text": "y−3 = 3(x+4) _(2 p.)_\n\n&NewLine;\n\n[SELECT id=6]\n",
+            "displayNumber": "4.4."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-07-21T10:56:30.030933",
+          "max_score": 2,
+          "groupping": null,
+          "id": 3318718,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 6,
+              "parent": "4f721ea1-5326-4460-a721-ca58915bab0d",
+              "choices": [
+                {
+                  "id": "ac295f84-6ea9-44c0-9f0a-b14a777035fa",
+                  "text": "Suora näkyy kuvassa ja kulkee pisteen A kautta."
+                },
+                {
+                  "id": "75de8f6d-c7c2-4e0d-b2c3-e9c4495e8ddb",
+                  "text": "Suora näkyy kuvassa ja kulkee pisteen B kautta.",
+                  "correct": true
+                },
+                {
+                  "id": "2342684e-ec1e-4f09-b5d2-bd7e0d684ddf",
+                  "text": "Suora näkyy kuvassa ja kulkee pisteen C kautta."
+                },
+                {
+                  "id": "35f4c0ea-16ac-4194-a5a8-e6817683b88b",
+                  "text": "Suoraa ei ole piirretty kuvaan."
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "4f721ea1-5326-4460-a721-ca58915bab0d",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2021-06-16T13:25:35.87199"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "y−2 = x−3 _(2 p.)_\n\n&NewLine;\n\n[SELECT id=6]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 103086,
+          "content": {
+            "text": "y−2 = x−3 _(2 p.)_\n\n&NewLine;\n\n[SELECT id=6]\n",
+            "displayNumber": "4.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-07-21T10:56:30.03338",
+          "max_score": 2,
+          "groupping": null,
+          "id": 3318717,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 6,
+              "parent": "2f1caba6-1757-4378-8a00-38159c93fa6d",
+              "choices": [
+                {
+                  "id": "5b35185e-91b0-4e37-a999-a45131877079",
+                  "text": "Suora näkyy kuvassa ja kulkee pisteen A kautta."
+                },
+                {
+                  "id": "0639c90d-003a-4564-937c-93b21de3140d",
+                  "text": "Suora näkyy kuvassa ja kulkee pisteen B kautta."
+                },
+                {
+                  "id": "b38c27b8-8353-4afe-a4ba-c3e6e9df451d",
+                  "text": "Suora näkyy kuvassa ja kulkee pisteen C kautta."
+                },
+                {
+                  "id": "01ed31f4-bd37-41f1-991a-dc9bc51965f3",
+                  "text": "Suoraa ei ole piirretty kuvaan.",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "2f1caba6-1757-4378-8a00-38159c93fa6d",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2021-06-16T13:25:35.865954"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "y = −2x−5 _(2 p.)_\n\n​\n\n[SELECT id=6]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 103086,
+          "content": {
+            "text": "y = −2x−5 _(2 p.)_\n\n​\n\n[SELECT id=6]\n",
+            "displayNumber": "4.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-07-21T10:56:30.035974",
+          "max_score": 2,
+          "groupping": null,
+          "id": 3318702,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 6,
+              "parent": "420aad8a-7655-46fe-bc11-fa4a06c438ed",
+              "choices": [
+                {
+                  "id": "6477ff53-f8b1-48c8-86ca-6db26a93fc3c",
+                  "text": "Suora näkyy kuvassa ja kulkee pisteen A kautta."
+                },
+                {
+                  "id": "c78e54a4-c804-444f-9234-91bf6c354f35",
+                  "text": "Suora näkyy kuvassa ja kulkee pisteen B kautta.",
+                  "correct": true
+                },
+                {
+                  "id": "bdd53552-2449-4c53-b867-f50dfeec7e3b",
+                  "text": "Suora näkyy kuvassa ja kulkee pisteen C kautta."
+                },
+                {
+                  "id": "2ba326c4-838c-48cb-bdd2-43cc33a1cca5",
+                  "text": "Suoraa ei ole piirretty kuvaan."
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "420aad8a-7655-46fe-bc11-fa4a06c438ed",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2021-06-16T13:01:03.720805"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "y = 2x (_2 p.)_\n\n​\n\n[SELECT id=5]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 103086,
+          "content": {
+            "text": "y = 2x (_2 p.)_\n\n​\n\n[SELECT id=5]\n",
+            "displayNumber": "4.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-07-21T10:56:30.038429",
+          "max_score": 2,
+          "groupping": null,
+          "id": 3318701,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 5,
+              "parent": "2780d8a0-deb1-4a8b-9475-c9d81bba92d9",
+              "choices": [
+                {
+                  "id": "6974b881-d9d3-421b-8a89-c37baedcf369",
+                  "text": "Suora näkyy kuvassa ja kulkee pisteen A kautta."
+                },
+                {
+                  "id": "b87b7260-8d33-4093-852a-77221cc7dad1",
+                  "text": "Suora näkyy kuvassa ja kulkee pisteen B kautta."
+                },
+                {
+                  "id": "f0af88c7-7e52-4e11-8561-03ce445243c4",
+                  "text": "Suora näkyy kuvassa ja kulkee pisteen C kautta."
+                },
+                {
+                  "id": "12e9a5b7-f946-424f-8c09-e695687f4e96",
+                  "text": "Suoraa ei ole piirretty kuvaan.",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "2780d8a0-deb1-4a8b-9475-c9d81bba92d9",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2021-06-16T13:01:03.718255"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### A-osa\n\nVastaa neljään tehtävään.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 103086,
+          "content": {
+            "text": "### A-osa\n\nVastaa neljään tehtävään.\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-07-21T10:56:30.040839",
+          "max_score": null,
+          "groupping": null,
+          "id": 3318698,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "9069f633-c99f-409d-85e5-03ed1bd368ee",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2021-06-16T13:01:03.708365"
+        }
+      ],
+      "name": "Matematiikka, lyhyt oppimäärä, kevät 2021",
+      "settings": {
+        "overrideTitle": true
+      },
+      "exam_type": "yo-koe",
+      "classification": {
+        "category": "",
+        "disable_saving": false,
+        "hide_review_buttons": false,
+        "exam_type": "yo-koe",
+        "year": "2021",
+        "language": "fi-FI",
+        "hide_statistics": false,
+        "show_exam_series": false,
+        "force_yletunnus": false,
+        "subject": "matematiikka-lyhyt",
+        "published": true,
+        "semester": "spring"
+      },
+      "published_at": "2021-06-16T13:52:46.000Z",
+      "language": "fi-FI",
+      "id": 103086,
+      "reviews": [],
+      "is_open": true,
+      "uuid": "3019e4a9-0e5f-46be-9cc8-5050cc55ca7e"
+    }
+  ]
+}

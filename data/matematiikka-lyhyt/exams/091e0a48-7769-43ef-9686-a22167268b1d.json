@@ -1,0 +1,512 @@
+{
+  "meta": {
+    "count": 1
+  },
+  "data": [
+    {
+      "tags": [
+        ""
+      ],
+      "main_text": "\n",
+      "characters": null,
+      "deleted_at": null,
+      "series_uuids": [],
+      "questions": [
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Eräs dosentti pohti tasokuvioiden pinta-alojen ja piirien suhteita. Hänen mukaansa tasokuviota sanotaan pulleaksi, jos sen pinta-ala on suurempi kuin kahdeskymmenesosa sen\n\npiirin toisesta potenssista.\n\n\n\na) Anna kaksi eri esimerkkiä kuvioista, jotka eivät ole pulleita (dosentin määritelmän\n\nmukaan).\n\n\n\nb) Anna kaksi eri esimerkkiä kuvioista, jotka ovat pulleita (dosentin määritelmän mukaan).\n\n\n\nEri esimerkeiksi lasketaan kuviot, jotka eivät ole yhdenmuotoisia. Muista myös perustella,\n\nmiksi antamasi esimerkit ovat tai eivät ole pulleita.\n",
+          "deleted_at": null,
+          "feedback": "Suorakulmainen kolmio, sivujen pituudet 1, 1, [MATH text=\\sqrt{2}] ⇒ piiri ≈ 3,41, pinta-ala = 0,5 1\n\n(3,41)[SUP text=2]/20 ≈ 0,58 > 0,5 ⇒ ei ole pullea. 1\n\nSuorakulmio, sivut 1 ja 3: piiri = 8, pinta-ala = 3 ⇒ 8[SUP text=2]/20 = 3,2 > 3 ⇒ ei ole\n\npullea. \n\nYksikköympyrä: piiri = 2[MATH text=π], pinta-ala = [MATH text=π]\n\n(2[MATH text=π])[SUP text=2]/20 ≈ 1,97 < [MATH text=π] ⇒ on pullea. \n\nYksikköneliö: piiri = 4, pinta-ala = 1 ⇒ 4[SUP text=2]/20 = 4/5 < 1 ⇒ on pullea\n",
+          "exam_id": 42572,
+          "content": {
+            "text": "Eräs dosentti pohti tasokuvioiden pinta-alojen ja piirien suhteita. Hänen mukaansa tasokuviota sanotaan pulleaksi, jos sen pinta-ala on suurempi kuin kahdeskymmenesosa sen\n\npiirin toisesta potenssista.\n\n\n\na) Anna kaksi eri esimerkkiä kuvioista, jotka eivät ole pulleita (dosentin määritelmän\n\nmukaan).\n\n\n\nb) Anna kaksi eri esimerkkiä kuvioista, jotka ovat pulleita (dosentin määritelmän mukaan).\n\n\n\nEri esimerkeiksi lasketaan kuviot, jotka eivät ole yhdenmuotoisia. Muista myös perustella,\n\nmiksi antamasi esimerkit ovat tai eivät ole pulleita.\n",
+            "displayNumber": "11."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-05-31T11:30:25.691644",
+          "max_score": null,
+          "groupping": null,
+          "id": 1429386,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "fc7dbcd9-5698-4990-981f-7c4f5177881c",
+          "order_number": 14,
+          "multipart": true,
+          "created_at": "2019-07-17T09:33:44.217242"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Hyttysten määrä oli kesätapahtuman alkaessa klo 16.00 noin 80, tuntia myöhemmin noin\n\n120 ja klo 19.00 noin 270. Oletetaan, että hyttysten määrä noudattaa eksponentiaalisen\n\nkasvun mallia.\n\na) Arvioi mallin perusteella hyttysten määrää tilaisuuden päättyessä klo 20.00.\n\n\n\nb) Mikä seuraavista lausekkeista kuvaa parhaiten hyttysten määrää, kun aikaa _t_ mitataan tunteina tilaisuuden alusta lähtien: 80 + 40_t_ vai [MATH text=  80 · 1,5^t] vai [MATH text=  8 · 10^{t+1}] ?\n\n\n\nPerustele vastauksesi.\n",
+          "deleted_at": null,
+          "feedback": "Koska 120/80 = 1,5 ja kyseessä on eksponentiaalinen malli, \n\nniin hyttysten määrä lisääntyy tunnin aikana 1,5-kertaiseksi [tarkistus: 120 ·\n\n(1,5)[SUP text=2] = 270]. \n\n​\n\nHyttysten määrä klo 20 on 1,5 · 270 = 405 ≈ 400. \n\nOikea lauseke on 80 · 1,5[SUP text=t] , \n\nkoska siinä on oikea alkuarvo 80 \n\nja oikea kasvukerroin 1,5.\n",
+          "exam_id": 42572,
+          "content": {
+            "text": "Hyttysten määrä oli kesätapahtuman alkaessa klo 16.00 noin 80, tuntia myöhemmin noin\n\n120 ja klo 19.00 noin 270. Oletetaan, että hyttysten määrä noudattaa eksponentiaalisen\n\nkasvun mallia.\n\na) Arvioi mallin perusteella hyttysten määrää tilaisuuden päättyessä klo 20.00.\n\n\n\nb) Mikä seuraavista lausekkeista kuvaa parhaiten hyttysten määrää, kun aikaa _t_ mitataan tunteina tilaisuuden alusta lähtien: 80 + 40_t_ vai [MATH text=  80 · 1,5^t] vai [MATH text=  8 · 10^{t+1}] ?\n\n\n\nPerustele vastauksesi.\n",
+            "displayNumber": "4."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-05-31T11:30:25.688474",
+          "max_score": null,
+          "groupping": null,
+          "id": 1429005,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "ba5054f7-063d-4930-96a2-5b2ecad904ca",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2019-07-17T08:12:47.772818"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Moodi ja keskiarvo ovat esimerkkejä jakauman sijaintiluvuista.\n\n\n\na) Kerro sanallisesti, miten jakauman moodi ja keskiarvo lasketaan.\n\n\n\nb) Anna esimerkki yhdestä jakaumasta, jossa moodi ja keskiarvo ovat yhtä suuret, ja toisesta jakaumasta, jossa ne ovat eri suuret. Muista myös perustella, miksi esimerkeilläsi\n\non vaaditut ominaisuudet\n",
+          "deleted_at": null,
+          "feedback": "Selitetty moodin laskeminen. \n\nSelitetty keskiarvon laskeminen. \n\nEsimerkki jakaumasta, jossa moodi = keskiarvo. \n\nEsimerkki jakaumasta, jossa moodi ja keskiarvo erisuuret. \n\nPerustelut.\n",
+          "exam_id": 42572,
+          "content": {
+            "text": "Moodi ja keskiarvo ovat esimerkkejä jakauman sijaintiluvuista.\n\n\n\na) Kerro sanallisesti, miten jakauman moodi ja keskiarvo lasketaan.\n\n\n\nb) Anna esimerkki yhdestä jakaumasta, jossa moodi ja keskiarvo ovat yhtä suuret, ja toisesta jakaumasta, jossa ne ovat eri suuret. Muista myös perustella, miksi esimerkeilläsi\n\non vaaditut ominaisuudet\n",
+            "displayNumber": "12."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-05-31T11:30:25.684949",
+          "max_score": null,
+          "groupping": null,
+          "id": 1429459,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "ef08a45a-8272-4bc9-871c-6bfeaac1ebf2",
+          "order_number": 15,
+          "multipart": true,
+          "created_at": "2019-07-17T09:34:37.177855"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Suomalaiset ovat viimeisten vuosikymmenten aikana kasvaneet entistä pidemmiksi, minkä vuoksi poikien ja tyttöjen kasvukäyrät on täytynyt uudistaa. Täysikasvuisen miehen\n\npituus noudattaa nykyisin normaalijakaumaa niin, että keskiarvo on 180,7 cm ja keskihajonta 6,0 cm. Täysikasvuisen naisen pituus on normaalijakautunut, keskiarvo on 167,5 cm\n\nja keskihajonta 5,4 cm.\n\n\n\na) Kuinka suurella todennäköisyydellä umpimähkään valittu täysikasvuinen suomalaismies on vähintään 190 cm pitkä?\n\n\n\nb) Kuinka suuri prosentuaalinen osuus kaikista täysikasvuisista suomalaisnaisista on pituudeltaan alle 162 cm? Anna vastaus yhden prosenttiyksikön tarkkuudella.\n\n\n\nc) Millä pituuden arvolla _L_ on voimassa: Vain 4,0 % naisista kasvaa pidemmäksi kuin _L _?\n\nAnna vastaus yhden senttimetrin tarkkuudella.\n",
+          "deleted_at": null,
+          "feedback": "Käytetään normaalijakaumaa [MATH text=N(µ,σ²)] , jossa [MATH text=µ=180,7] ja [MATH text=σ=6,0     ].\n\nMiehen pituutta _Y_ koskeva todennäköisyys on [MATH text=P(Y≥190)]\n\njoka saadaan laskimella suoraan tai normeerauksen kautta taulukosta:\n\ntodennäköisyys on 0,0606 ≈ 0,061 eli 6,1 %. \n\nKäytetään normaalijakaumaa [MATH text=N(µ,σ²)] , jossa [MATH text=µ=167,5] ja  [MATH text=σ=5,4  ].\n\nNaisen pituutta X koskeva todennäköisyys on [MATH text=P(X≥162)]\n\njoka saadaan laskimella suoraan tai normeerauksen kautta taulukosta:\n\ntodennäköisyys on 0,15 ⇒ 15 %. \n\nKysytty pituus _L_ saadaan ehdosta [MATH text=P(X≥L)]=0,04, \n\njoka voidaan ratkaista laskimella tai normeerauksen kautta taulukosta.\n\n⇒ L ≈ 176,955 ≈ 177.\n",
+          "exam_id": 42572,
+          "content": {
+            "text": "Suomalaiset ovat viimeisten vuosikymmenten aikana kasvaneet entistä pidemmiksi, minkä vuoksi poikien ja tyttöjen kasvukäyrät on täytynyt uudistaa. Täysikasvuisen miehen\n\npituus noudattaa nykyisin normaalijakaumaa niin, että keskiarvo on 180,7 cm ja keskihajonta 6,0 cm. Täysikasvuisen naisen pituus on normaalijakautunut, keskiarvo on 167,5 cm\n\nja keskihajonta 5,4 cm.\n\n\n\na) Kuinka suurella todennäköisyydellä umpimähkään valittu täysikasvuinen suomalaismies on vähintään 190 cm pitkä?\n\n\n\nb) Kuinka suuri prosentuaalinen osuus kaikista täysikasvuisista suomalaisnaisista on pituudeltaan alle 162 cm? Anna vastaus yhden prosenttiyksikön tarkkuudella.\n\n\n\nc) Millä pituuden arvolla _L_ on voimassa: Vain 4,0 % naisista kasvaa pidemmäksi kuin _L _?\n\nAnna vastaus yhden senttimetrin tarkkuudella.\n",
+            "displayNumber": "7."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-05-31T11:30:25.678144",
+          "max_score": null,
+          "groupping": null,
+          "id": 1429035,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "bceb7145-37c9-4187-8885-9c77fa472537",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2019-07-17T08:26:32.014392"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Digitaalisessa muodossa tallennetun tiedoston koko ilmoitetaan yleensä tavuina. Tavun tavallisimmat monikerrat\n\novat kilotavu (10[SUP text=3]\n tavua), megatavu (10[SUP text=6]\n tavua) ja gigatavu (10[SUP text=9]\n tavua). Käytännössä tiedot tallennetaan kuitenkin binaarisessa muodossa, jolloin kilo-, mega- ja gigatavun oikea koko on vastaavassa järjestyksessä\n\n2[SUP text=10], 2[SUP text=20] ja 2[SUP text=30] tavua. \n\n\n\nOheinen taulukko kuvaa sitä, kuinka monta prosenttia\n\npienempiä ovat kymmenen potensseina esitetyt tavun monikerrat, kun niitä verrataan vastaaviin kakkosen potensseihin. Selvitä, kuinka taulukkoon merkityt giga- ja teratavujen prosenttien lukuarvot saadaan.\n\n\n\nkilotavu 2,34 %\n\nmegatavu 4,63 %\n\ngigatavu 6,87 %\n\nteratavu 9,05 %\n\npetatavu 11,18 %\n\neksatavu 13,26 %\n\n\n\n\n",
+          "deleted_at": null,
+          "feedback": "Gigatavu: Vertailun kantalukuna on 2[SUP text=30]. \n\nErotus 10[SUP text=9] − 2[SUP text=30] = −73741824. \n\nSuhteellinen ero \n\n[MATH text=\\frac{−73741824.}{2^{30}}]\n\n≈ −0,0686774, joka selittää arvon 6,87 %. \n\nTeratavu: Vastaava lasku [MATH text=\\frac{10^{20}-2^{40}}{2^{40}}]\n\n≈ −0,0905053, joka selittää arvon 9,05 %.\n",
+          "exam_id": 42572,
+          "content": {
+            "text": "Digitaalisessa muodossa tallennetun tiedoston koko ilmoitetaan yleensä tavuina. Tavun tavallisimmat monikerrat\n\novat kilotavu (10[SUP text=3]\n tavua), megatavu (10[SUP text=6]\n tavua) ja gigatavu (10[SUP text=9]\n tavua). Käytännössä tiedot tallennetaan kuitenkin binaarisessa muodossa, jolloin kilo-, mega- ja gigatavun oikea koko on vastaavassa järjestyksessä\n\n2[SUP text=10], 2[SUP text=20] ja 2[SUP text=30] tavua. \n\n\n\nOheinen taulukko kuvaa sitä, kuinka monta prosenttia\n\npienempiä ovat kymmenen potensseina esitetyt tavun monikerrat, kun niitä verrataan vastaaviin kakkosen potensseihin. Selvitä, kuinka taulukkoon merkityt giga- ja teratavujen prosenttien lukuarvot saadaan.\n\n\n\nkilotavu 2,34 %\n\nmegatavu 4,63 %\n\ngigatavu 6,87 %\n\nteratavu 9,05 %\n\npetatavu 11,18 %\n\neksatavu 13,26 %\n\n\n\n\n",
+            "displayNumber": "8."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-05-31T11:30:25.674847",
+          "max_score": null,
+          "groupping": null,
+          "id": 1429054,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "3769d4fe-b7d6-42ee-9f71-ea8d9ee2570d",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2019-07-17T08:32:09.50492"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Muotoilukilpailun palkintolautakunta myöntää muistolaatan kilpailun parhaille teoksille. Lautakunnan taiteellinen avustaja tekee ensimmäisen version laatan pienoismallista käyttämällä Geogebra-ohjelman koordinaatistopiirrosta. Hän aloittaa suorakulmiosta, jonka leveys on 6 ja korkeus 9 pituusyksikköä. Leikkaamalla pois tämän suorakulmion kaikki neljä kulmaa eri tavoilla hän päätyy viereisen kuvion monikulmioon. Määritä tämän monikulmion pinta-ala. [IMS id=39-5779705d2ed63a65752]",
+          "deleted_at": null,
+          "feedback": "Laatta sisältyy suorakulmioon, jonka pinta-ala on 6 · 9 = 54. \n\n⇒ Laatan pinta-ala saadaan vähentämällä tästä kolmioiden alat. \n\nKolmioiden alat ovat 3, 3, 4 ja 1, \n\njoiden summa on 11. \n\nTulos 54 − 11 = 43.\n",
+          "exam_id": 42572,
+          "content": {
+            "text": "Muotoilukilpailun palkintolautakunta myöntää muistolaatan kilpailun parhaille teoksille. Lautakunnan taiteellinen avustaja tekee ensimmäisen version laatan pienoismallista käyttämällä Geogebra-ohjelman koordinaatistopiirrosta. Hän aloittaa suorakulmiosta, jonka leveys on 6 ja korkeus 9 pituusyksikköä. Leikkaamalla pois tämän suorakulmion kaikki neljä kulmaa eri tavoilla hän päätyy viereisen kuvion monikulmioon. Määritä tämän monikulmion pinta-ala. [IMS id=39-5779705d2ed63a65752]",
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-05-31T11:30:25.665324",
+          "max_score": null,
+          "groupping": null,
+          "id": 1428992,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "aeb445a0-2be8-422e-b064-788bf599e258",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2019-07-17T08:05:26.710654"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**A-osa**\n\n\n\nRatkaise kaikki tämän osan tehtävät 1–4. Tehtävät arvostellaan pistein 0–6. Kunkin tehtävän ratkaisu kirjoitetaan tehtävän alla olevaan ruudukkoon. Vastausta voi tarvittaessa jatkaa erillisellä puoliarkilla. Apuvälineenä saat käyttää taulukkokirjaa. Laskimen käyttö ei ole sallittua sinä aikana, kun tämä koevihko on hallussasi. \n\nKoevihko ja mahdolliset A-osan erilliset vastausarkit on palautettava viimeistään kolmen tunnin kuluttua kokeen alkamisesta lukion määräämällä tavalla.\n\n\n\n_Huom: Abitreenien harjoittelukokeessa et voi lisätä vastaukseen kuvakaappauksia. Voit harjoitella kaavioiden piirtämistä toisessa ohjelmassa ja verrata niitä hyvän vastauksen piirteisiin. Tämä sähköinen harjoittelukoe perustuu Ylioppilastutkintolautakunnan tekemään syksyn 2018 matematiikan ylioppilaskokeeseen._\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 42572,
+          "content": {
+            "text": "**A-osa**\n\n\n\nRatkaise kaikki tämän osan tehtävät 1–4. Tehtävät arvostellaan pistein 0–6. Kunkin tehtävän ratkaisu kirjoitetaan tehtävän alla olevaan ruudukkoon. Vastausta voi tarvittaessa jatkaa erillisellä puoliarkilla. Apuvälineenä saat käyttää taulukkokirjaa. Laskimen käyttö ei ole sallittua sinä aikana, kun tämä koevihko on hallussasi. \n\nKoevihko ja mahdolliset A-osan erilliset vastausarkit on palautettava viimeistään kolmen tunnin kuluttua kokeen alkamisesta lukion määräämällä tavalla.\n\n\n\n_Huom: Abitreenien harjoittelukokeessa et voi lisätä vastaukseen kuvakaappauksia. Voit harjoitella kaavioiden piirtämistä toisessa ohjelmassa ja verrata niitä hyvän vastauksen piirteisiin. Tämä sähköinen harjoittelukoe perustuu Ylioppilastutkintolautakunnan tekemään syksyn 2018 matematiikan ylioppilaskokeeseen._\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-05-31T11:30:25.661849",
+          "max_score": null,
+          "groupping": null,
+          "id": 1428985,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "50c4c99d-608b-45b3-b57c-7661d04eb252",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2019-07-17T07:59:48.336506"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Lahjaveroa on maksettava, kun omaisuus siirtyy toiselle henkilölle lahjana ja lahjan arvo\n\non 5 000 euroa tai enemmän. Lahjaveroa on maksettava myös silloin, kun samalta lahjan\n\nantajalta kolmen vuoden aikana saatujen lahjojen yhteisarvo on 5 000 euroa tai enemmän.\n\nTällöin lahjojen arvo lasketaan yhteen ja verotus toimitetaan yhteissumman perusteella.\n\nAiemmin maksetut lahjaverot vähennetään maksettavan veron määrästä.\n\n\n\n[IMS id=39-5779745d2eda2df119b]\n\n\n\n\n\nJannika sai isoäidiltään kolmena vuonna peräkkäin rahalahjan. Hän sai ensimmäisenä\n\nvuonna 4 300 e, seuraavana 3 800 e ja kolmantena vuonna 2 100 e.\n\nKuinka paljon Jannika maksaa eri vuosina veroa saamistaan lahjoista? Oletetaan, että\n\nverotus pysyy samana koko kolmen vuoden ajan\n",
+          "deleted_at": null,
+          "feedback": "1. vuonna ei veroa, koska 4 300 < 5 000. \n\n\n\n2. vuonna lahjat yhteensä 4 300 + 3 800 = 8 100 euroa. \n\nTästä veroa vakioerän 100 lisäksi 0,08 · (8100 − 5000) \n\neli yhteensä 348 euroa.\n\n \n\n3. vuonna lahjat yhteensä 10 200, josta veroa 100 + 0,08 · (10200 − 5000) = 516\n\neuroa. \n\n⇒ 516 − 348 = 168 euroa on 3. vuoden vero.\n",
+          "exam_id": 42572,
+          "content": {
+            "text": "Lahjaveroa on maksettava, kun omaisuus siirtyy toiselle henkilölle lahjana ja lahjan arvo\n\non 5 000 euroa tai enemmän. Lahjaveroa on maksettava myös silloin, kun samalta lahjan\n\nantajalta kolmen vuoden aikana saatujen lahjojen yhteisarvo on 5 000 euroa tai enemmän.\n\nTällöin lahjojen arvo lasketaan yhteen ja verotus toimitetaan yhteissumman perusteella.\n\nAiemmin maksetut lahjaverot vähennetään maksettavan veron määrästä.\n\n\n\n[IMS id=39-5779745d2eda2df119b]\n\n\n\n\n\nJannika sai isoäidiltään kolmena vuonna peräkkäin rahalahjan. Hän sai ensimmäisenä\n\nvuonna 4 300 e, seuraavana 3 800 e ja kolmantena vuonna 2 100 e.\n\nKuinka paljon Jannika maksaa eri vuosina veroa saamistaan lahjoista? Oletetaan, että\n\nverotus pysyy samana koko kolmen vuoden ajan\n",
+            "displayNumber": "6."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-05-31T11:30:25.655146",
+          "max_score": null,
+          "groupping": null,
+          "id": 1429026,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "a416cdd0-8fb8-4721-bc19-fea4d45ab320",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2019-07-17T08:21:23.007912"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Jos valitset tämän tehtävän, ratkaise joko 9.1 TAI 9.2. (Voit valita kumman tahansa tehtävän riippumatta siitä, minkä opetussuunnitelman mukaan olet opiskellut.)**\n\n\n\n9.1 (Vanha opetussuunnitelma, ennen 1.8.2016 lukion aloittaneet)\n\nTarkastellaan muotoa\n\n[MATH text=a\\_n=2\\sin\\left(\\frac{\\pi}{2}n\\right)+5\\cos\\left(\\frac{\\pi}{2}n\\right)]\n\n olevia lukuja, kun\n\n_n_ = 1, 2, 3,... \n\nLaske niin monta jonon alkupään lukua, että huomaat jonon toistavan itseään eli olevan jaksollinen. Näyttää siltä, että jollakin luvulla _k ≥ 1_ on voimassa[MATH text=a\\_{n+k}=a\\_n] kaikilla indeksin _n_\n\narvoilla. Mikä on pienin tällainen luku _k _?\n\n\n\nTAI\n\n\n\n9.2 (Uusi opetussuunnitelma, 1.8.2016 tai sen jälkeen lukion aloittaneet)\n\n\n\nTiettyä kolikkoa heitettiin 10 kertaa. Mikä on todennäköisyys, että tuloksena oli 8 klaavaa\n\nja 2 kruunaa? Oletetaan, että sekä kruunan että klaavan todennäköisyys on [MATH text=\\frac{1}{2}]\n",
+          "deleted_at": null,
+          "feedback": "Jonon alku: (2, − 5, − 2, 5, 2, − 5, − 2, 5, 2,...) \n\n⇒ jonossa toistuu jaksollisesti 2, − 5, − 2, 5. \n\n\n\nPienin _k_ = 4,  joka voidaan perustella yhteenlaskukaavojen avulla.\n\nTodennäköisyydet liittyvät binomijakaumaan, jossa _p = q = 1/2._ \n\nKlaavoista termi (1/2)[SUP text=8], kruunista (1/2)[SUP text=2]. \n\nKerroin \n\n[MATH text=\\left(\\frac{8}{10}\\right)=\\left(\\frac{10}{2}\\right)=45]\n\nKysytty todennäköisyys 45(1/2)[SUP text=8](1/2)[SUP text=2] = 45/1024 ≈ 0,044.\n",
+          "exam_id": 42572,
+          "content": {
+            "text": "**Jos valitset tämän tehtävän, ratkaise joko 9.1 TAI 9.2. (Voit valita kumman tahansa tehtävän riippumatta siitä, minkä opetussuunnitelman mukaan olet opiskellut.)**\n\n\n\n9.1 (Vanha opetussuunnitelma, ennen 1.8.2016 lukion aloittaneet)\n\nTarkastellaan muotoa\n\n[MATH text=a\\_n=2\\sin\\left(\\frac{\\pi}{2}n\\right)+5\\cos\\left(\\frac{\\pi}{2}n\\right)]\n\n olevia lukuja, kun\n\n_n_ = 1, 2, 3,... \n\nLaske niin monta jonon alkupään lukua, että huomaat jonon toistavan itseään eli olevan jaksollinen. Näyttää siltä, että jollakin luvulla _k ≥ 1_ on voimassa[MATH text=a\\_{n+k}=a\\_n] kaikilla indeksin _n_\n\narvoilla. Mikä on pienin tällainen luku _k _?\n\n\n\nTAI\n\n\n\n9.2 (Uusi opetussuunnitelma, 1.8.2016 tai sen jälkeen lukion aloittaneet)\n\n\n\nTiettyä kolikkoa heitettiin 10 kertaa. Mikä on todennäköisyys, että tuloksena oli 8 klaavaa\n\nja 2 kruunaa? Oletetaan, että sekä kruunan että klaavan todennäköisyys on [MATH text=\\frac{1}{2}]\n",
+            "displayNumber": "9."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-05-31T11:30:25.651502",
+          "max_score": null,
+          "groupping": null,
+          "id": 1429065,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "18d070f7-fd20-49f8-b752-6f17f9559c78",
+          "order_number": 11,
+          "multipart": true,
+          "created_at": "2019-07-17T08:33:25.167616"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**B2-osa Ratkaise kolme tehtävistä 10–13.**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 42572,
+          "content": {
+            "text": "**B2-osa Ratkaise kolme tehtävistä 10–13.**\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-05-31T11:30:25.647435",
+          "max_score": null,
+          "groupping": null,
+          "id": 1429088,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "9a423ae9-1a2c-42a5-878d-a99c0e4ec99c",
+          "order_number": 12,
+          "multipart": true,
+          "created_at": "2019-07-17T09:22:49.196864"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Tarkastellaan funktiota _f(x)=(x − 2)(x + 3)._\n\n\n\na) Laske _f(4)_. \n\nb) Ratkaise yhtälö_ f(x)=0. _\n\nc) Ratkaise yhtälö _f(x) = −6_\n",
+          "deleted_at": null,
+          "feedback": "_f(4) = (4 − 2)(4 + 3) 1_\n\n_= 14 _\n\n\n\n_f(x)=(x − 2)(x + 3) = 0 ⇔ x − 2=0 tai x +3=0 _\n\n_⇔ x = 2 tai x = −3 _\n\n\n\n_f(x) = −6 ⇔ x2 + x − 6 = −6 ⇔ x(x + 1) = 0 1_\n\n_⇔ x = 0 tai x = −1_\n",
+          "exam_id": 42572,
+          "content": {
+            "text": "Tarkastellaan funktiota _f(x)=(x − 2)(x + 3)._\n\n\n\na) Laske _f(4)_. \n\nb) Ratkaise yhtälö_ f(x)=0. _\n\nc) Ratkaise yhtälö _f(x) = −6_\n",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-05-31T11:30:25.642659",
+          "max_score": null,
+          "groupping": null,
+          "id": 1428987,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "af20e974-50c4-43c7-99eb-769596a4f8c9",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2019-07-17T08:00:31.803461"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Määritä kaikki positiiviset kokonaisluvut x, joilla lukujono 27, x, 3 on\n\n\n\na) aritmeettinen \n\nb) geometrinen.\n",
+          "deleted_at": null,
+          "feedback": "Aritmeettinen jono: _x_ − 27 = 3 − _x _\n\n⇔ 2_x_ = 30 \n\n⇔ _x_ = 15 \n\n​\n\nGeometrinen jono: \n\n​\n\n[MATH text=\\frac{3}{x}=\\frac{x}{27}]\n\n​\n\n⇔ [MATH text=x² = 81]\n\n⇔ _x_ = 9\n",
+          "exam_id": 42572,
+          "content": {
+            "text": "Määritä kaikki positiiviset kokonaisluvut x, joilla lukujono 27, x, 3 on\n\n\n\na) aritmeettinen \n\nb) geometrinen.\n",
+            "displayNumber": "3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-05-31T11:30:25.658776",
+          "max_score": null,
+          "groupping": null,
+          "id": 1428996,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "75216310-9425-4dfd-a897-cfa7d16ac5dc",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2019-07-17T08:05:53.212737"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**B-osa**\n\n\n\n**B-osan tehtävät arvostellaan pistein 0–6. Jos teet tehtävän 5, kirjoita sen ratkaisu kokoarkille.**\n\n\n\n**Muussa tapauksessa kirjoita kokoarkille vain nimitietosi. Muiden tehtävien ratkaisut kirjoitetaan jokainen omalle puoliarkille. Puoliarkit kootaan kokoarkin sisään. Apuvälineinä saat käyttää taulukkokirjaa ja laskinta. Laskimen saat kuitenkin haltuusi vasta sitten, kun olet palauttanut A-osan tehtävävihkosi. Sekä B1- että B2-osassa ratkaistaan kolme tehtävää.**\n\n\n\n**B1-osa Ratkaise kolme tehtävistä 5–9.**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 42572,
+          "content": {
+            "text": "**B-osa**\n\n\n\n**B-osan tehtävät arvostellaan pistein 0–6. Jos teet tehtävän 5, kirjoita sen ratkaisu kokoarkille.**\n\n\n\n**Muussa tapauksessa kirjoita kokoarkille vain nimitietosi. Muiden tehtävien ratkaisut kirjoitetaan jokainen omalle puoliarkille. Puoliarkit kootaan kokoarkin sisään. Apuvälineinä saat käyttää taulukkokirjaa ja laskinta. Laskimen saat kuitenkin haltuusi vasta sitten, kun olet palauttanut A-osan tehtävävihkosi. Sekä B1- että B2-osassa ratkaistaan kolme tehtävää.**\n\n\n\n**B1-osa Ratkaise kolme tehtävistä 5–9.**\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-05-31T11:30:25.668802",
+          "max_score": null,
+          "groupping": null,
+          "id": 1429011,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "5b84c7cd-5564-4161-b7fe-cbbab026d73f",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2019-07-17T08:13:28.990608"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Oheiseen koordinaatistoon on piirretty funktioiden f(x) ja g(x) kuvaajat. Arvioi seuraavien yhtälöiden ratkaisuja kuvan perusteella.\n\na) _f(x) = g(x)_\n\nb)_ f ' (x)=0_\n\nc) _g ' (x)=1_\n\n​\n\n[IMS id=39-5779735d2ed92d77e7f]\n",
+          "deleted_at": null,
+          "feedback": "_f(x) = g(x_), kun _x_ ≈ −2,5 \n\ntai _x_ ≈ 3,2. \n\n\n\n_f ' (x)_=0 ⇔ kuvaajalla on vaakasuora tangentti \n\n⇔ _x_ ≈ 1,0 \n\n\n\n_g'(x)_=1 ⇔ kuvaajan_ y = g(x)_ tangentti on nouseva ja 45 asteen kulmassa\n\nvaakatasoon nähden \n\n⇔ x ≈ −1,0\n",
+          "exam_id": 42572,
+          "content": {
+            "text": "Oheiseen koordinaatistoon on piirretty funktioiden f(x) ja g(x) kuvaajat. Arvioi seuraavien yhtälöiden ratkaisuja kuvan perusteella.\n\na) _f(x) = g(x)_\n\nb)_ f ' (x)=0_\n\nc) _g ' (x)=1_\n\n​\n\n[IMS id=39-5779735d2ed92d77e7f]\n",
+            "displayNumber": "5."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-05-31T11:30:25.671889",
+          "max_score": null,
+          "groupping": null,
+          "id": 1429018,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "a995e00f-41c2-404e-9d49-0200bae05b45",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2019-07-17T08:18:35.097566"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Luomuviljelijä on hankkinut materiaalin 400 metrin pituiseen aitaan. Hän aikoo rajata\n\nsillä niitystä suorakulmion muotoisen alan, joka lisäksi jaetaan kuvion mukaisesti kolmeen\n\nyhtäsuureen osaan kahdella ulkoreunan suuntaisella sisäaidalla. Määritä aitauksen suurin\n\nmahdollinen kokonaispinta-ala.\n\n​\n\n[IMS id=39-5779945d2eecb61c98d]\n",
+          "deleted_at": null,
+          "feedback": "Olkoot _x_ (kuvassa vaakasuora) ja_ y_ suorakulmion sivujen pituudet. \n\n400 m aitaa ⇒ _2x_ + _4y_ = 400 ⇒ _x_ = 200 − _2y._ \n\nPinta-ala _A = xy_ = (200 − 2_y)y_ = 200_y_ − 2_y_[SUP text=2] = _A(y)_ [jossa 0 [MATH text=≤] y [MATH text=≤] 100]. \n\nDerivaatan nollakohta: _A'(y)_ = 200 − 4_y_ = 0 ⇔ y = 50. \n\nTämä antaa maksimin, koska_ A_(0) = _A_(100) = 0 (tai merkkikaavio). \n\nSuurin mahdollinen pinta-ala on _A_(50) = 5 000 neliömetriä.\n",
+          "exam_id": 42572,
+          "content": {
+            "text": "Luomuviljelijä on hankkinut materiaalin 400 metrin pituiseen aitaan. Hän aikoo rajata\n\nsillä niitystä suorakulmion muotoisen alan, joka lisäksi jaetaan kuvion mukaisesti kolmeen\n\nyhtäsuureen osaan kahdella ulkoreunan suuntaisella sisäaidalla. Määritä aitauksen suurin\n\nmahdollinen kokonaispinta-ala.\n\n​\n\n[IMS id=39-5779945d2eecb61c98d]\n",
+            "displayNumber": "13."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-05-31T11:30:25.681854",
+          "max_score": null,
+          "groupping": null,
+          "id": 1429519,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "a63955b3-4418-478b-9034-8e63344b5ec5",
+          "order_number": 16,
+          "multipart": true,
+          "created_at": "2019-07-17T09:38:14.50032"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Ilmatieteen laitoksen tilastoista selviää, milloin maamme eri osiin tulee pysyvä lumipeite\n\nja milloin se lähtee. Ajalla, jona lumipeite on pysyvä, tarkoitetaan talven pisintä jaksoa,\n\njolloin lunta on maassa yhtäjaksoisesti vähintään 1 cm.\n\n​\n\na) Kartassa on esitetty pistein neljä kaupunkia A–D. Arvioi ja laske, kuinka kauan kunkin neljän kaupungin alueella on pysyvä lumipeite.\n\n​\n\nb) Eräässä Pohjois-Suomen kaupungissa pysyvän lumipeitteen kesto on arviolta 210 päivää. Kyseisen kaupungin lumipeitteen kestoa merkitään indeksiarvolla 100. Arvioi ja\n\nlaske, mitä lukuarvoja kaupungit A–D saavat, kun indeksiarvot ovat suoraan verrannollisia pysyvän lumipeitteen kestoon.\n\n​\n\n[IMS id=39-5779815d2ee81d468e0]\n",
+          "deleted_at": null,
+          "feedback": "Kaupunki A: alku 16.–26.11., loppu 20.–30.4. \n\nPuolivälien pvm 21.11.–25.4. ⇒ pysyvä lumipeite n. 156 päivää. \n\nLaskettu kolmen muun kaupungin luvut \n\nA:n indeksi 100 · 156/210. \n\n≈ 74 1\n\nLaskettu muiden kaupunkien indeksit\n",
+          "exam_id": 42572,
+          "content": {
+            "text": "Ilmatieteen laitoksen tilastoista selviää, milloin maamme eri osiin tulee pysyvä lumipeite\n\nja milloin se lähtee. Ajalla, jona lumipeite on pysyvä, tarkoitetaan talven pisintä jaksoa,\n\njolloin lunta on maassa yhtäjaksoisesti vähintään 1 cm.\n\n​\n\na) Kartassa on esitetty pistein neljä kaupunkia A–D. Arvioi ja laske, kuinka kauan kunkin neljän kaupungin alueella on pysyvä lumipeite.\n\n​\n\nb) Eräässä Pohjois-Suomen kaupungissa pysyvän lumipeitteen kesto on arviolta 210 päivää. Kyseisen kaupungin lumipeitteen kestoa merkitään indeksiarvolla 100. Arvioi ja\n\nlaske, mitä lukuarvoja kaupungit A–D saavat, kun indeksiarvot ovat suoraan verrannollisia pysyvän lumipeitteen kestoon.\n\n​\n\n[IMS id=39-5779815d2ee81d468e0]\n",
+            "displayNumber": "10."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-05-31T11:30:25.695016",
+          "max_score": null,
+          "groupping": null,
+          "id": 1429089,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "0396669b-84a5-4278-b7a7-14b4a0abec84",
+          "order_number": 13,
+          "multipart": true,
+          "created_at": "2019-07-17T09:22:49.199488"
+        }
+      ],
+      "name": "Matematiikka, lyhyt oppimäärä syksy 2018",
+      "settings": {},
+      "exam_type": "yo-koe",
+      "classification": {
+        "category": "",
+        "disable_saving": false,
+        "hide_review_buttons": false,
+        "exam_type": "yo-koe",
+        "year": "2018",
+        "language": "fi-FI",
+        "hide_statistics": false,
+        "show_exam_series": false,
+        "force_yletunnus": false,
+        "subject": "matematiikka-lyhyt",
+        "published": true,
+        "semester": "fall"
+      },
+      "published_at": "2019-07-17T09:39:57.631Z",
+      "language": "fi-FI",
+      "id": 42572,
+      "reviews": [],
+      "is_open": true,
+      "uuid": "091e0a48-7769-43ef-9686-a22167268b1d"
+    }
+  ]
+}

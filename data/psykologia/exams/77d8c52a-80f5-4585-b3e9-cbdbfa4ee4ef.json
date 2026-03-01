@@ -1,0 +1,563 @@
+{
+  "meta": {
+    "count": 1
+  },
+  "data": [
+    {
+      "tags": [
+        ""
+      ],
+      "main_text": "**Enintään 6 tehtävään saa vastata. Tehtävät arvostellaan pistein 0-6, paitsi muita vaativammat, +:lla merkityt jokeritehtävät, jotka arvostellaan pistein 0-9. Moniosaisissa, esimerkiksi a-, b- ja c-kohdan sisältävissä tehtävissä voidaan erikseen ilmoittaa eri alakohtien enimmäispistemäärät.**\n",
+      "characters": null,
+      "deleted_at": null,
+      "series_uuids": [],
+      "questions": [
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "välittäjäaine\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1862,
+          "content": {
+            "text": "välittäjäaine\n",
+            "displayNumber": "f)"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-07-19T09:28:31.979133",
+          "max_score": null,
+          "groupping": null,
+          "id": 29024,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "1faaf7d4-20c0-48d5-a768-d49e073d3720",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2017-06-12T08:44:49.176211"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-204676",
+            "18-252837"
+          ],
+          "main_text": "Vertaa ryhmätyöskentelyä ja yksilöllisiä työmuotoja kouluopetuksessa.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1862,
+          "content": {
+            "text": "Vertaa ryhmätyöskentelyä ja yksilöllisiä työmuotoja kouluopetuksessa.\n",
+            "displayNumber": "5."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T09:28:31.985416",
+          "max_score": null,
+          "groupping": null,
+          "id": 29060,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "1018b520-0787-41de-9211-c5ca49aae36a",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2017-06-12T08:45:27.849879"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-210286",
+            "18-252839",
+            "18-204708"
+          ],
+          "main_text": "Määrittele enintään kahdella virkkeellä kukin seuraavista käsitteistä.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1862,
+          "content": {
+            "text": "Määrittele enintään kahdella virkkeellä kukin seuraavista käsitteistä.\n",
+            "displayNumber": "4."
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "d66a0eb2-31c6-4940-90e7-3563ae1c06ea",
+            "e61c4d1b-694b-4d58-be8c-d8be12069cf7",
+            "35abed40-0605-4fc0-a06f-76f583493293",
+            "bff19a79-c846-438c-a955-2a5f70210440",
+            "ae3a2911-66d4-4525-b8a5-f451861be4d6",
+            "1faaf7d4-20c0-48d5-a768-d49e073d3720"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T09:28:31.982288",
+          "max_score": null,
+          "groupping": null,
+          "id": 28921,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "23d75b56-f68a-4f51-a9b2-d40c4816e1b2",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2017-06-12T08:42:10.875699"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-205101",
+            "18-252839",
+            "18-253197"
+          ],
+          "main_text": "Laadi tutkimussuunnitelma omaelämänkerrallisen muistin tutkimiseksi.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1862,
+          "content": {
+            "text": "Laadi tutkimussuunnitelma omaelämänkerrallisen muistin tutkimiseksi.\n",
+            "displayNumber": "8."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T09:28:31.988291",
+          "max_score": null,
+          "groupping": null,
+          "id": 29111,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "2235515f-a163-4e54-8690-306325924c39",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2017-06-12T08:48:06.178862"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "keskushermosto\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1862,
+          "content": {
+            "text": "keskushermosto\n",
+            "displayNumber": "a)"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-07-19T09:28:31.991413",
+          "max_score": null,
+          "groupping": null,
+          "id": 28930,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "d66a0eb2-31c6-4940-90e7-3563ae1c06ea",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-06-12T08:42:30.589042"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "talamus\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1862,
+          "content": {
+            "text": "talamus\n",
+            "displayNumber": "b)"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-07-19T09:28:31.994424",
+          "max_score": null,
+          "groupping": null,
+          "id": 28936,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "e61c4d1b-694b-4d58-be8c-d8be12069cf7",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2017-06-12T08:42:43.008683"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-219634",
+            "18-252838"
+          ],
+          "main_text": "Tarkastele sosiaalisten suhteiden merkitystä elämänkaaren eri vaiheissa.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1862,
+          "content": {
+            "text": "Tarkastele sosiaalisten suhteiden merkitystä elämänkaaren eri vaiheissa.\n",
+            "displayNumber": "+9."
+          },
+          "images": null,
+          "settings": {
+            "joker": true,
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T09:28:31.997433",
+          "max_score": null,
+          "groupping": null,
+          "id": 29126,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "0f3e3260-07d5-49a3-8b94-24d5ec98fa8f",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2017-06-12T08:48:49.058098"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "hermosolu\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1862,
+          "content": {
+            "text": "hermosolu\n",
+            "displayNumber": "c)"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-07-19T09:28:32.000269",
+          "max_score": null,
+          "groupping": null,
+          "id": 28943,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "35abed40-0605-4fc0-a06f-76f583493293",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2017-06-12T08:42:57.612039"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "aksoni\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1862,
+          "content": {
+            "text": "aksoni\n",
+            "displayNumber": "d)"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-07-19T09:28:32.003399",
+          "max_score": null,
+          "groupping": null,
+          "id": 28951,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "bff19a79-c846-438c-a955-2a5f70210440",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2017-06-12T08:44:11.838192"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "myeliinituppi\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1862,
+          "content": {
+            "text": "myeliinituppi\n",
+            "displayNumber": "e)"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-07-19T09:28:32.007221",
+          "max_score": null,
+          "groupping": null,
+          "id": 28960,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "ae3a2911-66d4-4525-b8a5-f451861be4d6",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2017-06-12T08:44:33.689716"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252838",
+            "18-207137",
+            "18-205400"
+          ],
+          "main_text": "Mitkä psykologiset tekijät muokkaavat nuoren itsetuntoa? [IMS id=39-408041593e535277f87|caption=Bill Watterson, Lassi ja Leevi \"Täältä pesee\" (1995)]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1862,
+          "content": {
+            "text": "Mitkä psykologiset tekijät muokkaavat nuoren itsetuntoa? [IMS id=39-408041593e535277f87|caption=Bill Watterson, Lassi ja Leevi \"Täältä pesee\" (1995)]\n",
+            "displayNumber": "3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T09:28:32.013525",
+          "max_score": null,
+          "groupping": null,
+          "id": 28917,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "a456c76f-fa35-493d-822d-c01f9d17994c",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2017-06-12T08:41:38.22655"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252838",
+            "18-210006"
+          ],
+          "main_text": "Emma on 8 kuukauden ikäinen perheen esikoinen. Äiti (23 v) vastaa pääasiallisesti yksin Emman hoidosta, koska Emman isä (34 v) matkustelee työnsä vuoksi paljon. Ensimmäiset kuukaudet sujuivat äidin mukaan hyvin. Hän kertoo jaksaneensa Emman kanssa hyvin, kunhan vain muisti ottaa päiväunet Emman kanssa samanaikaisesti. Viimeisen kuukauden aikana Emma on alkanut heräillä ja valvoa öisin. Emma nukahtaa pitkän nukuttamisen jälkeen. Kun äiti yrittää jättää Emman nukahtamaan itsenäisesti, Emma alkaa itkeä kovaäänisesti hänen peräänsä. Nukahdettuaan Emma nukkuu enintään kaksi tuntia yhtäjaksoisesti ja herätessään itkee kovasti. Uudelleen nukahtaakseen Emma tarvitsee usein tuttipullon ja rauhoittavan sylin. \n\nEmman äiti kertoo, että hänestä tuntuu usein kuin ei olisi nukkunut lainkaan yön aikana. Päiväaikaan Emma ottaa vain muutamat lyhyet päiväunet, joiden aikana äiti ei ehdi levätä. Emman äiti kuvailee olotilaansa väsyneeksi ja sekavaksi. Hän tunnistaa öiseen aikaan myös vihantunteita Emmaa kohtaan. \n\nEmman äiti kertoo kuulleensa unikoulusta, jossa lapsi lasketaan illalla omaan sänkyynsä ja hänen annetaan nukahtaa itsenäisesti. Jos lapsi alkaa omaan sänkyynsä jäädessään itkeä vanhemman perään, hänen annetaan itkeä eikä hänen luoksensa mennä. Jos itku jatkuu pitkään, lasta saatetaan käydä katsomassa ja silittämässä hetkellisesti, mutta häntä ei esimerkiksi nosteta syliin. Samalla tavalla toimitaan myös, jos lapsi herää yöllä. Unikoulun kerrotaan auttavan lasta oppimaan nukahtamaan illalla itsenäisesti ja nukkumaan heräilemättä läpi yön. Emman äiti miettiikin nyt, pitäisikö hänen aloittaa unikoulun pitäminen Emmalle. \n\n​\n\nTarkastele psykologisen tiedon valossa yllä kuvatun unikoulun merkitystä Emman varhaislapsuuden psyykkiselle kehitykselle.\n\n​\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1862,
+          "content": {
+            "text": "Emma on 8 kuukauden ikäinen perheen esikoinen. Äiti (23 v) vastaa pääasiallisesti yksin Emman hoidosta, koska Emman isä (34 v) matkustelee työnsä vuoksi paljon. Ensimmäiset kuukaudet sujuivat äidin mukaan hyvin. Hän kertoo jaksaneensa Emman kanssa hyvin, kunhan vain muisti ottaa päiväunet Emman kanssa samanaikaisesti. Viimeisen kuukauden aikana Emma on alkanut heräillä ja valvoa öisin. Emma nukahtaa pitkän nukuttamisen jälkeen. Kun äiti yrittää jättää Emman nukahtamaan itsenäisesti, Emma alkaa itkeä kovaäänisesti hänen peräänsä. Nukahdettuaan Emma nukkuu enintään kaksi tuntia yhtäjaksoisesti ja herätessään itkee kovasti. Uudelleen nukahtaakseen Emma tarvitsee usein tuttipullon ja rauhoittavan sylin. \n\nEmman äiti kertoo, että hänestä tuntuu usein kuin ei olisi nukkunut lainkaan yön aikana. Päiväaikaan Emma ottaa vain muutamat lyhyet päiväunet, joiden aikana äiti ei ehdi levätä. Emman äiti kuvailee olotilaansa väsyneeksi ja sekavaksi. Hän tunnistaa öiseen aikaan myös vihantunteita Emmaa kohtaan. \n\nEmman äiti kertoo kuulleensa unikoulusta, jossa lapsi lasketaan illalla omaan sänkyynsä ja hänen annetaan nukahtaa itsenäisesti. Jos lapsi alkaa omaan sänkyynsä jäädessään itkeä vanhemman perään, hänen annetaan itkeä eikä hänen luoksensa mennä. Jos itku jatkuu pitkään, lasta saatetaan käydä katsomassa ja silittämässä hetkellisesti, mutta häntä ei esimerkiksi nosteta syliin. Samalla tavalla toimitaan myös, jos lapsi herää yöllä. Unikoulun kerrotaan auttavan lasta oppimaan nukahtamaan illalla itsenäisesti ja nukkumaan heräilemättä läpi yön. Emman äiti miettiikin nyt, pitäisikö hänen aloittaa unikoulun pitäminen Emmalle. \n\n​\n\nTarkastele psykologisen tiedon valossa yllä kuvatun unikoulun merkitystä Emman varhaislapsuuden psyykkiselle kehitykselle.\n\n​\n",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T09:28:32.016709",
+          "max_score": null,
+          "groupping": null,
+          "id": 28249,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "593b2057-d234-4e6d-b01d-18e2c096c0bc",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-06-12T08:16:48.816354"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-205512",
+            "18-252840"
+          ],
+          "main_text": "Pohdi pessismiin vaikuttavia psykologisia tekijöitä.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1862,
+          "content": {
+            "text": "Pohdi pessismiin vaikuttavia psykologisia tekijöitä.\n",
+            "displayNumber": "7."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T09:28:32.020259",
+          "max_score": null,
+          "groupping": null,
+          "id": 29097,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "b1ce569d-f606-4d10-96de-4cf2ec5331ec",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2017-06-12T08:47:18.198849"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-204708",
+            "18-204316",
+            "18-252839"
+          ],
+          "main_text": "Peilisolut ovat hermosoluja, jotka reagoivat toisen ihmisen tekemiin liikkeisiin sekä ilmeinä ja eleinä näkyviin tunteisiin. Esimerkiksi jos henkilö näkee toisen tekevän jonkin tavoitteellisen teon, vaikkapa kaatavan kahvia, aktivoituvat ne solut, jotka aktivoituisivat, kun katselija itse kaataisi kahvia. Lisäksi peilisolut reagoivat toisen ihmisen kokemiin tuntoaistimuksiin ja toisen ihmisen aikomuksiin ja päämääriin. Pohdi peilisolujen mahdollista merkitystä autismikirjon sairauksissa, joita ovat muun muassa autismi ja Aspergerin oireyhtymä.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1862,
+          "content": {
+            "text": "Peilisolut ovat hermosoluja, jotka reagoivat toisen ihmisen tekemiin liikkeisiin sekä ilmeinä ja eleinä näkyviin tunteisiin. Esimerkiksi jos henkilö näkee toisen tekevän jonkin tavoitteellisen teon, vaikkapa kaatavan kahvia, aktivoituvat ne solut, jotka aktivoituisivat, kun katselija itse kaataisi kahvia. Lisäksi peilisolut reagoivat toisen ihmisen kokemiin tuntoaistimuksiin ja toisen ihmisen aikomuksiin ja päämääriin. Pohdi peilisolujen mahdollista merkitystä autismikirjon sairauksissa, joita ovat muun muassa autismi ja Aspergerin oireyhtymä.\n",
+            "displayNumber": "6."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T09:28:32.023115",
+          "max_score": null,
+          "groupping": null,
+          "id": 29072,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "27aa3e77-c61a-40e1-9293-edccfb7c13ae",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2017-06-12T08:46:36.566179"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252838",
+            "18-205983",
+            "18-252841"
+          ],
+          "main_text": "Alla kuvatun tutkimuksen tavoitteena oli selvittää, onko ihmisellä synnynnäinen valmius auttaa muita. Tutkimuksessa tarkasteltiin ihmisten auttamiskäyttäytymistä. Auttamiskäyttäytyminen edellyttää sekä toisen tavoitteen ymmärtämistä että altruistista motivaatiota toisen auttamiseen huolimatta sen aiheuttamasta vaivasta. Tutkimukseen osallistui 24 lasta, jotka olivat 18 kk:n ikäisiä. Koe koostui useista tilanteista, joiden avulla voitiin arvioida lasten auttamiskäyttäytymistä (ks. taulukko 1). Kussakin tilanteessa aikuisella kokeenjohtajalla oli vaikeuksia saavuttaa tavoitteitaan ilman lapsen apua. Jokaiseen tilanteeseen liittyi kontrollitilanne, jossa ei esiintynyt vastaavaa auttamisen tarvetta. Lapset eivät entuudestaan tunteneet kokeenjohtajaa.\n\n​\n\nTaulukko 1. Kolme lasten auttamiskäyttäytymisen tutkimiseksi luotua tilannetta\n\n[IMS id=39-408040593e5275a0ca0] Tutkimustulokset osoittivat, että lapset auttoivat kokeenjohtajaa useammin koe- kuin kontrollitilanteessa (kuvio 1). 24 osanottajasta 22 auttoi aikuista ainakin yhdessä tilanteessa. Auttaminen tapahtui ilman, että aikuisen tarvitsi kiinnittää huomiota lapseen tai mainita hänen nimeään. Lapset ojensivat pudonneita esineitä, avasivat kaapin oven ja auttoivat saavuttamaan hankalasti tavoitettavan esineen.\n\n​\n\nKuvio 1. Auttamiskäyttäytyminen kolmessa erilaisessa koe- ja kontrollitilanteessa\n\n[IMS id=39-408034593e51f5ab6be|caption=Lähde: F. Warneken & M. Tomasello, Science, volume 311 (2006)] Pohdi yllä kuvatun tutkimuksen ja psykologisen tiedon pohjalta auttamiskäyttäytymisen taustalla olevia psykologisia tekijöitä.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1862,
+          "content": {
+            "text": "Alla kuvatun tutkimuksen tavoitteena oli selvittää, onko ihmisellä synnynnäinen valmius auttaa muita. Tutkimuksessa tarkasteltiin ihmisten auttamiskäyttäytymistä. Auttamiskäyttäytyminen edellyttää sekä toisen tavoitteen ymmärtämistä että altruistista motivaatiota toisen auttamiseen huolimatta sen aiheuttamasta vaivasta. Tutkimukseen osallistui 24 lasta, jotka olivat 18 kk:n ikäisiä. Koe koostui useista tilanteista, joiden avulla voitiin arvioida lasten auttamiskäyttäytymistä (ks. taulukko 1). Kussakin tilanteessa aikuisella kokeenjohtajalla oli vaikeuksia saavuttaa tavoitteitaan ilman lapsen apua. Jokaiseen tilanteeseen liittyi kontrollitilanne, jossa ei esiintynyt vastaavaa auttamisen tarvetta. Lapset eivät entuudestaan tunteneet kokeenjohtajaa.\n\n​\n\nTaulukko 1. Kolme lasten auttamiskäyttäytymisen tutkimiseksi luotua tilannetta\n\n[IMS id=39-408040593e5275a0ca0] Tutkimustulokset osoittivat, että lapset auttoivat kokeenjohtajaa useammin koe- kuin kontrollitilanteessa (kuvio 1). 24 osanottajasta 22 auttoi aikuista ainakin yhdessä tilanteessa. Auttaminen tapahtui ilman, että aikuisen tarvitsi kiinnittää huomiota lapseen tai mainita hänen nimeään. Lapset ojensivat pudonneita esineitä, avasivat kaapin oven ja auttoivat saavuttamaan hankalasti tavoitettavan esineen.\n\n​\n\nKuvio 1. Auttamiskäyttäytyminen kolmessa erilaisessa koe- ja kontrollitilanteessa\n\n[IMS id=39-408034593e51f5ab6be|caption=Lähde: F. Warneken & M. Tomasello, Science, volume 311 (2006)] Pohdi yllä kuvatun tutkimuksen ja psykologisen tiedon pohjalta auttamiskäyttäytymisen taustalla olevia psykologisia tekijöitä.\n",
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T09:28:32.026018",
+          "max_score": null,
+          "groupping": null,
+          "id": 28832,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "13ea6009-5410-409e-90cb-84cccbd2cec5",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2017-06-12T08:39:05.85945"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-214285",
+            "18-252841"
+          ],
+          "main_text": "Seksuaalisen suuntautumisen eli orientaation vaihtelulle on yritetty etsiä syitä läpi historian. Alla on esitetty erilaisia näkökulmia ja uskomuksia asiaan. Pohdi näitä käsityksiä psykologisen tiedon pohjalta ja selitä, mistä seksuaalisuuden suuntautumisen vaihtelu johtuu ja onko seksuaalinen suuntautuminen yksilön oma valinta ja voidaanko sitä muuttaa.\n\n[IMS id=39-408047593e5683afec2]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1862,
+          "content": {
+            "text": "Seksuaalisen suuntautumisen eli orientaation vaihtelulle on yritetty etsiä syitä läpi historian. Alla on esitetty erilaisia näkökulmia ja uskomuksia asiaan. Pohdi näitä käsityksiä psykologisen tiedon pohjalta ja selitä, mistä seksuaalisuuden suuntautumisen vaihtelu johtuu ja onko seksuaalinen suuntautuminen yksilön oma valinta ja voidaanko sitä muuttaa.\n\n[IMS id=39-408047593e5683afec2]\n",
+            "displayNumber": "+10."
+          },
+          "images": null,
+          "settings": {
+            "joker": true,
+            "material": true,
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T09:28:32.010097",
+          "max_score": null,
+          "groupping": null,
+          "id": 29455,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "7d1687fa-9a0e-42d0-94a0-adce5f1171d9",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2017-06-12T08:55:06.410422"
+        }
+      ],
+      "name": "Psykologia kevät 2012 ",
+      "settings": {},
+      "exam_type": "yo-koe",
+      "classification": {
+        "category": "",
+        "hide_review_buttons": null,
+        "exam_type": "yo-koe",
+        "year": "2012",
+        "language": "fi-FI",
+        "show_exam_series": null,
+        "force_yletunnus": false,
+        "subject": "psykologia",
+        "published": true,
+        "semester": "spring"
+      },
+      "published_at": "2017-06-12T08:14:01.850Z",
+      "language": "fi-FI",
+      "id": 1862,
+      "reviews": [],
+      "is_open": true,
+      "uuid": "77d8c52a-80f5-4585-b3e9-cbdbfa4ee4ef"
+    }
+  ]
+}

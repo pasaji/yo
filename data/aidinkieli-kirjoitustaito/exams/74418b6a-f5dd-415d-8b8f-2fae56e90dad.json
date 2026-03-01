@@ -1,0 +1,678 @@
+{
+  "meta": {
+    "count": 1
+  },
+  "data": [
+    {
+      "tags": [
+        ""
+      ],
+      "main_text": "",
+      "characters": null,
+      "deleted_at": null,
+      "series_uuids": [],
+      "questions": [
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-220046",
+            "18-88880"
+          ],
+          "main_text": "[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_essee\\_kevat\\_2013.pdf|text=Tasa-arvon kahdet kasvot]: pohdi sukupuolten tasa-arvon toteutumista tilastoaineiston avulla.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16293,
+          "content": {
+            "text": "[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_essee\\_kevat\\_2013.pdf|text=Tasa-arvon kahdet kasvot]: pohdi sukupuolten tasa-arvon toteutumista tilastoaineiston avulla.\n",
+            "displayNumber": "11."
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-12T09:50:27.885605",
+          "max_score": null,
+          "groupping": null,
+          "id": 537235,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "f68dcf57-6ddb-4a1f-9b93-11122534e586",
+          "order_number": 12,
+          "multipart": true,
+          "created_at": "2017-07-07T07:08:04.48503"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-208136",
+            "18-207818"
+          ],
+          "main_text": "Toisten mielestä koulunkäynti on liian helppoa, toisten mielestä se on liian vaativaa. Mitä mieltä sinä olet?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16293,
+          "content": {
+            "text": "Toisten mielestä koulunkäynti on liian helppoa, toisten mielestä se on liian vaativaa. Mitä mieltä sinä olet?\n",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {
+            "titleEssay": false,
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-12T09:50:27.896987",
+          "max_score": null,
+          "groupping": null,
+          "id": 526849,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "fdedc762-de31-4101-b1ef-19d777410943",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2017-07-06T12:24:22.491432"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Pohdi, mitä tarkoittaa usko ihmisyyteen L. Onervan runossa _Uskontunnustus_\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16293,
+          "content": {
+            "text": "Pohdi, mitä tarkoittaa usko ihmisyyteen L. Onervan runossa _Uskontunnustus_\n"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-07-12T09:50:27.899878",
+          "max_score": null,
+          "groupping": null,
+          "id": 526847,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "6ecbe526-8353-4cf6-b328-28bf4b0b350d",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2017-07-06T12:24:22.486147"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-219634"
+          ],
+          "main_text": null,
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16293,
+          "content": {
+            "displayNumber": "9."
+          },
+          "images": null,
+          "settings": {
+            "material": true
+          },
+          "child_ids": [
+            "9b6c8d77-655f-4386-bcc9-440193d52a58",
+            "785d4acf-61c7-4661-b9ef-27d24b1555d6"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-12T09:50:27.903255",
+          "max_score": null,
+          "groupping": null,
+          "id": 526862,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "305cc742-a80a-4a7c-bc8e-8b07f343e220",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2017-07-06T12:24:22.533172"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-205317",
+            "18-212574"
+          ],
+          "main_text": null,
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16293,
+          "content": {
+            "displayNumber": "10."
+          },
+          "images": null,
+          "settings": {
+            "material": true
+          },
+          "child_ids": [
+            "6ecbe526-8353-4cf6-b328-28bf4b0b350d",
+            "7de931f2-5080-41e3-a3dd-b08f06c5876f"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-12T09:50:27.906133",
+          "max_score": null,
+          "groupping": null,
+          "id": 526864,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "24df9b40-f4d2-4895-80e7-7e3993a363ed",
+          "order_number": 11,
+          "multipart": true,
+          "created_at": "2017-07-06T12:24:22.540431"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Valokuvaaja Pieter Hugo on kuvannut ghanalaisella kaatopaikalla, kun nuoret miehet polttavat elektroniikkajätettä kerätäkseen metalliosat uudelleen myytäviksi. Eero Järnefeltin maalaus kuvaa kaskenpolttoa 1800-luvun Savossa. Analysoi ja tulkitse kuvia vertaillen.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16293,
+          "content": {
+            "text": "Valokuvaaja Pieter Hugo on kuvannut ghanalaisella kaatopaikalla, kun nuoret miehet polttavat elektroniikkajätettä kerätäkseen metalliosat uudelleen myytäviksi. Eero Järnefeltin maalaus kuvaa kaskenpolttoa 1800-luvun Savossa. Analysoi ja tulkitse kuvia vertaillen.\n"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-07-12T09:50:27.908943",
+          "max_score": null,
+          "groupping": null,
+          "id": 526843,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "9bfdf8e8-b7e9-4939-827d-93d88dcd9c99",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-07-06T12:24:22.472636"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**HINTA**\n\n​\n\nOlin nukkumassa lauantaina yötuurin jäljiltä, kun Kimi soitti ja herätti minut. Jollain lailla ilahduin, sillä emme olleet jutelleet sen jälkeen kun olin joutunut lähtemään pois kotoa. Muutamaa viikkoa aiemmin olin saanut kortin Kanadasta ja ihmetellyt, mistä pikkuveli oli saanut rahat matkaan.\n\n​\n\nKimi oli majaillut Torontossa kaverinsa sukulaisten luona. Olivat ottaneet huoneesta paljon vähemmän kuin mitä hotelliin olisi mennyt. Isäntäväellä oli autovuokraamo ja veli kuvaili huolellisesti, miten he olivat ajaneet pitkin kaupunkia jatketulla limousinella. Kaveri oli siellä rakennusmiehenä, pime- ästi, sillä työlupia ei tavallisille työmiehille irronnut.\n\n​\n\nJokin maassa viehätti minua, ja hetken ajattelin muuttoa suomalaisalueille. Mieleen läikähti kuva koulukirjasta: siirtolaismetsureita Kanadassa, kahden hevosen reessä yksi valtava pölkky, punapuu tai jokin. Ehdin ajatella itseni autonkuljettajaksi Torontoon: kuvittelin päälleni hännystakin ja valkoiset sormikkaat, niskaan ponnarin ja käsiini limousinen jalopuisen ratin. Mikäs siinä, jos alla pulputtaisi kasipyttykone.\n\n​\n\nTiesin, ettei veljelläkään ollut mitään toiveammattia täällä ja kysyin, aikoiko hän lähteä Kanadaan kirjoitusten jälkeen ja hakea sieltä töitä. Hän ei osannut sanoa, siellä oli samanlainen työttömyys, mutta uudelleen hän tahtoisi mennä. Kimi kehui kaupungin kokoa, valtavaa näkötornia joka kaatuessaan yltäisi johonkin suurista järvistä jonka nimeä veli ei muistanut. Mieleeni vilahti sanoja: Erie, Ontario. En olisi osannut lausua niitä oikein. Isäntäväki oli käyttänyt heitä Niagaralla, mutta oli ollut sumuista.\n\n​\n\nVeli puhui kiireettä ja siitä arvasin, ettei ukko ollut kotona. En välittänyt kysyä, missä se oli tai mitä niille kuului.\n\n​\n\nKimi kertoi ostaneensa Sky Dome -hallista Hard Rock Café -teepaidan, semmoisen jonka minä olin ostanut Amsterdamista ja jota pikkuveljen oli pitänyt saada lainata ensimmäisiin tansseihinsa. Oli ollut ihme, että olin päässyt koko matkalle. Olin ollut koko sen kesän renkinä kylän taloissa ja maksoin kotiin ylläpidon, mutta ukon mielestä loput hankkeet olisi pitänyt jättää hautumaan moneksi vuodeksi korkeakorkoiselle.\n\n​\n\nKysäisin Kimiltä, oliko matka tullut kalliiksi. Ei kuulemma, lennot eestaas nelisen tonnia ja majoitus päälle; ja takaisin tullessa oli sattunut joku buukkausvirhe ja he olivat saaneet paikat ensimmäisestä luokasta, toisen luokan hinnalla, ja samassa koneessa oli ollut yksi ministeri joka oli joutunut rahvaan osastolle. Tiedustelin sitten, oliko veljellä ollut jotain hanketta koulun lomassa, kerta oli saanut rahat kokoon. Veli ryhtyi kertomaan kiinalaisista ravintoloista ja ylisti kanansiipiä hunajavalkosipulikastikkeen kanssa, soittamalla sai kaikkea kotiin ja heillä oli sitä paitsi ollut isäntäperheelle viemisiksi kotimaista kahvia ja ruisleipä, jonka äiti oli tehnyt.\n\n​\n\nLopulta kysyin suoraan, mistä hän oli saanut rahat, kotoako muka. Kimi sanoi nopeasti joo ja alkoi puhua Zipoista, joita oli ostanut puoli tusinaa kiinalaiselta kauppiaalta. Lukion pojat ostivat niitä häneltä ja nettoa jäi viisikymppiä per sytkäri.\n\n– Mistä hyvästä onnistuit saamaan ukolta rahaa, kysyin. Kimi oli vähän aikaa hiljaa.\n\n– Siellä on muuten semmoinen Suomitalo, hän sanoi.\n\n– Nyt jätkä vastaat, minä sanoin.\n\n– Ukko antoi, suosiolla.\n\n– Ihanko totta. Mistä hyvästä se nyt olisi rahaa alkanut jakaa, kysyin. Ukko ei ollut antanut minulle rahaa edes tansseihin jos olin saanut kokeista huonomman kuin kasin. Eikä Kimin lukupää ollut sen parempi.\n\n– No se oli pikkujuttu, veli sanoi.\n\n– Minkälainen, kysyin. Jotain ukolle mieliksi, ajattelin.\n\n– Tukka vaan pois, Kimi sanoi ja selitti kiireesti, että olisihan se pitänyt lyhentää kummiskin pian, kun hän aikoi inttiin heti kirjoitusten jälkeen.\n\n​\n\nAjattelin Kimin tuuheaa harjaa joka oli yltänyt hartioille jo silloin, kun läksin kotoa. Ukko oli ostanut hänet. Puheitten vuoksi ukko ei ollut uskaltanut käyttää entisiä keinojaan.\n\n​\n\nUkko oli ollut ovela ja voittanut toisen erän. Matka oli ollut Kimille tärkein, ja armeijaankin se oli lupautunut. Helvetin luopio, mieleeni sävähti ja inhoten ajattelin, miten ukko oli nauttinut nähdessään edes nuoremman poikansa keropäisenä. Ja Kimi oli matkustanut, niin kuin mikä tahansa farkkutakkinen ääliö.\n\n​\n\nLettini takia minun oli pitänyt lähteä kotoa. Ukko oli sanonut ettei se elätä saatanan pitkätukkia, ja hintiksikin se oli epäillyt. Minä olin lähtenyt, vaikka olin tiennyt että katkaisemalla tuulitukkani olisin saanut jäädä ja käydä lukion loppuun ja kaipa olisin sitten päässyt johonkin kouluun enkä käyttäisi vammaisia paskalla niin kuin nyt.\n\n​\n\nÄänestä kuulin että Kimi oli nolo. Mutta en sanonut mitään, sillä käsitin, että toiset ovat heikompia kuin toiset. Kysyin vielä jotain, koulusta kai, ja Kimi alkoi lopetella puhelua. – Soitellaan, sanoin viimeiseksi, vaikka minusta tuntui etten soittaisi Kimille koskaan.\n\n[CITE source=Sari Mikkonen, Naistenpyörä (1995)]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16293,
+          "content": {
+            "text": "**HINTA**\n\n​\n\nOlin nukkumassa lauantaina yötuurin jäljiltä, kun Kimi soitti ja herätti minut. Jollain lailla ilahduin, sillä emme olleet jutelleet sen jälkeen kun olin joutunut lähtemään pois kotoa. Muutamaa viikkoa aiemmin olin saanut kortin Kanadasta ja ihmetellyt, mistä pikkuveli oli saanut rahat matkaan.\n\n​\n\nKimi oli majaillut Torontossa kaverinsa sukulaisten luona. Olivat ottaneet huoneesta paljon vähemmän kuin mitä hotelliin olisi mennyt. Isäntäväellä oli autovuokraamo ja veli kuvaili huolellisesti, miten he olivat ajaneet pitkin kaupunkia jatketulla limousinella. Kaveri oli siellä rakennusmiehenä, pime- ästi, sillä työlupia ei tavallisille työmiehille irronnut.\n\n​\n\nJokin maassa viehätti minua, ja hetken ajattelin muuttoa suomalaisalueille. Mieleen läikähti kuva koulukirjasta: siirtolaismetsureita Kanadassa, kahden hevosen reessä yksi valtava pölkky, punapuu tai jokin. Ehdin ajatella itseni autonkuljettajaksi Torontoon: kuvittelin päälleni hännystakin ja valkoiset sormikkaat, niskaan ponnarin ja käsiini limousinen jalopuisen ratin. Mikäs siinä, jos alla pulputtaisi kasipyttykone.\n\n​\n\nTiesin, ettei veljelläkään ollut mitään toiveammattia täällä ja kysyin, aikoiko hän lähteä Kanadaan kirjoitusten jälkeen ja hakea sieltä töitä. Hän ei osannut sanoa, siellä oli samanlainen työttömyys, mutta uudelleen hän tahtoisi mennä. Kimi kehui kaupungin kokoa, valtavaa näkötornia joka kaatuessaan yltäisi johonkin suurista järvistä jonka nimeä veli ei muistanut. Mieleeni vilahti sanoja: Erie, Ontario. En olisi osannut lausua niitä oikein. Isäntäväki oli käyttänyt heitä Niagaralla, mutta oli ollut sumuista.\n\n​\n\nVeli puhui kiireettä ja siitä arvasin, ettei ukko ollut kotona. En välittänyt kysyä, missä se oli tai mitä niille kuului.\n\n​\n\nKimi kertoi ostaneensa Sky Dome -hallista Hard Rock Café -teepaidan, semmoisen jonka minä olin ostanut Amsterdamista ja jota pikkuveljen oli pitänyt saada lainata ensimmäisiin tansseihinsa. Oli ollut ihme, että olin päässyt koko matkalle. Olin ollut koko sen kesän renkinä kylän taloissa ja maksoin kotiin ylläpidon, mutta ukon mielestä loput hankkeet olisi pitänyt jättää hautumaan moneksi vuodeksi korkeakorkoiselle.\n\n​\n\nKysäisin Kimiltä, oliko matka tullut kalliiksi. Ei kuulemma, lennot eestaas nelisen tonnia ja majoitus päälle; ja takaisin tullessa oli sattunut joku buukkausvirhe ja he olivat saaneet paikat ensimmäisestä luokasta, toisen luokan hinnalla, ja samassa koneessa oli ollut yksi ministeri joka oli joutunut rahvaan osastolle. Tiedustelin sitten, oliko veljellä ollut jotain hanketta koulun lomassa, kerta oli saanut rahat kokoon. Veli ryhtyi kertomaan kiinalaisista ravintoloista ja ylisti kanansiipiä hunajavalkosipulikastikkeen kanssa, soittamalla sai kaikkea kotiin ja heillä oli sitä paitsi ollut isäntäperheelle viemisiksi kotimaista kahvia ja ruisleipä, jonka äiti oli tehnyt.\n\n​\n\nLopulta kysyin suoraan, mistä hän oli saanut rahat, kotoako muka. Kimi sanoi nopeasti joo ja alkoi puhua Zipoista, joita oli ostanut puoli tusinaa kiinalaiselta kauppiaalta. Lukion pojat ostivat niitä häneltä ja nettoa jäi viisikymppiä per sytkäri.\n\n– Mistä hyvästä onnistuit saamaan ukolta rahaa, kysyin. Kimi oli vähän aikaa hiljaa.\n\n– Siellä on muuten semmoinen Suomitalo, hän sanoi.\n\n– Nyt jätkä vastaat, minä sanoin.\n\n– Ukko antoi, suosiolla.\n\n– Ihanko totta. Mistä hyvästä se nyt olisi rahaa alkanut jakaa, kysyin. Ukko ei ollut antanut minulle rahaa edes tansseihin jos olin saanut kokeista huonomman kuin kasin. Eikä Kimin lukupää ollut sen parempi.\n\n– No se oli pikkujuttu, veli sanoi.\n\n– Minkälainen, kysyin. Jotain ukolle mieliksi, ajattelin.\n\n– Tukka vaan pois, Kimi sanoi ja selitti kiireesti, että olisihan se pitänyt lyhentää kummiskin pian, kun hän aikoi inttiin heti kirjoitusten jälkeen.\n\n​\n\nAjattelin Kimin tuuheaa harjaa joka oli yltänyt hartioille jo silloin, kun läksin kotoa. Ukko oli ostanut hänet. Puheitten vuoksi ukko ei ollut uskaltanut käyttää entisiä keinojaan.\n\n​\n\nUkko oli ollut ovela ja voittanut toisen erän. Matka oli ollut Kimille tärkein, ja armeijaankin se oli lupautunut. Helvetin luopio, mieleeni sävähti ja inhoten ajattelin, miten ukko oli nauttinut nähdessään edes nuoremman poikansa keropäisenä. Ja Kimi oli matkustanut, niin kuin mikä tahansa farkkutakkinen ääliö.\n\n​\n\nLettini takia minun oli pitänyt lähteä kotoa. Ukko oli sanonut ettei se elätä saatanan pitkätukkia, ja hintiksikin se oli epäillyt. Minä olin lähtenyt, vaikka olin tiennyt että katkaisemalla tuulitukkani olisin saanut jäädä ja käydä lukion loppuun ja kaipa olisin sitten päässyt johonkin kouluun enkä käyttäisi vammaisia paskalla niin kuin nyt.\n\n​\n\nÄänestä kuulin että Kimi oli nolo. Mutta en sanonut mitään, sillä käsitin, että toiset ovat heikompia kuin toiset. Kysyin vielä jotain, koulusta kai, ja Kimi alkoi lopetella puhelua. – Soitellaan, sanoin viimeiseksi, vaikka minusta tuntui etten soittaisi Kimille koskaan.\n\n[CITE source=Sari Mikkonen, Naistenpyörä (1995)]\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-07-12T09:50:27.91193",
+          "max_score": null,
+          "groupping": null,
+          "id": 527622,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "785d4acf-61c7-4661-b9ef-27d24b1555d6",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-07-06T12:35:04.389575"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-219030"
+          ],
+          "main_text": "Miltä lentoliikenteen tulevaisuus näyttää?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16293,
+          "content": {
+            "text": "Miltä lentoliikenteen tulevaisuus näyttää?\n",
+            "displayNumber": "3."
+          },
+          "images": null,
+          "settings": {
+            "titleEssay": false,
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-12T09:50:27.921164",
+          "max_score": null,
+          "groupping": null,
+          "id": 526856,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "4761ff73-9e3b-465f-9861-8aa8e2ba74d2",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2017-07-06T12:24:22.51604"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-215171"
+          ],
+          "main_text": "Tarvitaanko ikärajoja?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16293,
+          "content": {
+            "text": "Tarvitaanko ikärajoja?\n",
+            "displayNumber": "5."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-12T09:50:27.927008",
+          "max_score": null,
+          "groupping": null,
+          "id": 526854,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "3725f6f4-191c-4428-8fbe-eea0c25a0245",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2017-07-06T12:24:22.510588"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-204583"
+          ],
+          "main_text": "Missä, miten ja mitä ihmiset lukevat? \n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16293,
+          "content": {
+            "text": "Missä, miten ja mitä ihmiset lukevat? \n",
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {
+            "titleEssay": false,
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-12T09:50:27.932667",
+          "max_score": null,
+          "groupping": null,
+          "id": 526857,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "e337e325-6735-4f07-a8f9-5ff353c1f9f5",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2017-07-06T12:24:22.518802"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Analysoi ja tulkitse veljesten välisiä suhteita Sari Mikkosen novellissa _Hinta_.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16293,
+          "content": {
+            "text": "Analysoi ja tulkitse veljesten välisiä suhteita Sari Mikkosen novellissa _Hinta_.\n"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-07-12T09:50:27.915453",
+          "max_score": null,
+          "groupping": null,
+          "id": 526851,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "9b6c8d77-655f-4386-bcc9-440193d52a58",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2017-07-06T12:24:22.497039"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-215287"
+          ],
+          "main_text": "**Hyvä, paha yksinäisyys**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16293,
+          "content": {
+            "text": "**Hyvä, paha yksinäisyys**\n",
+            "displayNumber": "6."
+          },
+          "images": null,
+          "settings": {
+            "titleEssay": true,
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-12T09:50:27.918437",
+          "max_score": null,
+          "groupping": null,
+          "id": 526853,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "cb65eadc-7a1c-424e-9694-86d1e23e766f",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2017-07-06T12:24:22.502897"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-218539",
+            "18-212764"
+          ],
+          "main_text": "​\n\n[IMS id=39-414088595e2d2e99479]\n\n[IMS id=39-414091595e2d9bc1c0a]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16293,
+          "content": {
+            "text": "​\n\n[IMS id=39-414088595e2d2e99479]\n\n[IMS id=39-414091595e2d9bc1c0a]\n",
+            "displayNumber": "8."
+          },
+          "images": null,
+          "settings": {
+            "material": true
+          },
+          "child_ids": [
+            "9bfdf8e8-b7e9-4939-827d-93d88dcd9c99"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-12T09:50:27.924175",
+          "max_score": null,
+          "groupping": null,
+          "id": 526859,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "05ee8b5c-d1e3-40a4-afa0-e491ba66c42b",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2017-07-06T12:24:22.52464"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-218144"
+          ],
+          "main_text": "”Kerro mitä syöt, niin minä kerron, millainen olet.” Mitä ruokavalinnat kertovat nykyihmisistä?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16293,
+          "content": {
+            "text": "”Kerro mitä syöt, niin minä kerron, millainen olet.” Mitä ruokavalinnat kertovat nykyihmisistä?\n",
+            "displayNumber": "4."
+          },
+          "images": null,
+          "settings": {
+            "titleEssay": false,
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-12T09:50:27.929858",
+          "max_score": null,
+          "groupping": null,
+          "id": 526855,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "dd089522-bf4e-49e8-8869-52de53585555",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2017-07-06T12:24:22.513409"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-218587",
+            "18-16104",
+            "18-204172"
+          ],
+          "main_text": "Tutkimus (2012) väittää, että nuorten yhteiskunnallisen osallistumisen tavat ovat muuttuneet aiempaa radikaaleimmiksi. Yhtenä mahdollisena syynä tutkimusryhmä pitää sitä, että nuoret eivät ole päässeet vaikuttamaan koulussa. Ota kantaa näkemykseen.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16293,
+          "content": {
+            "text": "Tutkimus (2012) väittää, että nuorten yhteiskunnallisen osallistumisen tavat ovat muuttuneet aiempaa radikaaleimmiksi. Yhtenä mahdollisena syynä tutkimusryhmä pitää sitä, että nuoret eivät ole päässeet vaikuttamaan koulussa. Ota kantaa näkemykseen.\n",
+            "displayNumber": "7."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-12T09:50:27.940081",
+          "max_score": null,
+          "groupping": null,
+          "id": 526852,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "a5ac817c-129d-4989-9cf0-e2ad353f0aaa",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2017-07-06T12:24:22.499841"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Ohje: Osaan tehtävistä liittyy aineistoa, jota on hyödynnettävä tehtävänannon mukaan. Lue tehtävät, silmäile aineistot läpi ja valitse tehtävistä yksi. Tehtävät arvostellaan pistein 0–60. Kirjoita ehyt ja kielellisesti huoliteltu teksti. Valmiit otsikot on lihavoitu. Muussa tapauksessa anna kirjoituksellesi oma otsikko. Jos valitset aineistotehtävän, tekstisi pitää olla siten ehyt, että lukija voi ymmärtää tekstisi, vaikka ei tunnekaan aineistoa. Aineistotehtävissä tulee viitata aineistoon.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16293,
+          "content": {
+            "text": "Ohje: Osaan tehtävistä liittyy aineistoa, jota on hyödynnettävä tehtävänannon mukaan. Lue tehtävät, silmäile aineistot läpi ja valitse tehtävistä yksi. Tehtävät arvostellaan pistein 0–60. Kirjoita ehyt ja kielellisesti huoliteltu teksti. Valmiit otsikot on lihavoitu. Muussa tapauksessa anna kirjoituksellesi oma otsikko. Jos valitset aineistotehtävän, tekstisi pitää olla siten ehyt, että lukija voi ymmärtää tekstisi, vaikka ei tunnekaan aineistoa. Aineistotehtävissä tulee viitata aineistoon.\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-12T09:50:27.894151",
+          "max_score": null,
+          "groupping": null,
+          "id": 526850,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "0d6dce8f-be1d-4aee-b3cb-ee3d87f1a86c",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-07-06T12:24:22.494121"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-217329",
+            "18-213947"
+          ],
+          "main_text": "Pohdi poliisin tilastoaineiston valossa, onko kansalaisten turvallisuus uhattuna. \n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_essee\\_kevat\\_2013\\_3.pdf|text=Tilastotietoja Poliisin vuosikertomuksesta 2010]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16293,
+          "content": {
+            "text": "Pohdi poliisin tilastoaineiston valossa, onko kansalaisten turvallisuus uhattuna. \n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_essee\\_kevat\\_2013\\_3.pdf|text=Tilastotietoja Poliisin vuosikertomuksesta 2010]\n",
+            "displayNumber": "14."
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-12T09:50:27.891345",
+          "max_score": null,
+          "groupping": null,
+          "id": 537236,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "de481f8d-dcc5-4699-8e1e-ec60dd63cdb0",
+          "order_number": 15,
+          "multipart": true,
+          "created_at": "2017-07-07T07:08:04.488255"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-210432",
+            "18-220090"
+          ],
+          "main_text": "Mitä urheiluohjelmia Yleisradion tulisi näyttää? Ota kantaa urheiluohjelmien maksullisuuteen hyödyntäen Petteri Järvisen verkkokolumnia\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_essee\\_kevat\\_2013\\_2.pdf|text=Petteri Järvinen: Penkkiurheilija, sinua rahastetaan]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16293,
+          "content": {
+            "text": "Mitä urheiluohjelmia Yleisradion tulisi näyttää? Ota kantaa urheiluohjelmien maksullisuuteen hyödyntäen Petteri Järvisen verkkokolumnia\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_essee\\_kevat\\_2013\\_2.pdf|text=Petteri Järvinen: Penkkiurheilija, sinua rahastetaan]\n",
+            "displayNumber": "13."
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-12T09:50:27.882662",
+          "max_score": null,
+          "groupping": null,
+          "id": 537233,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "dcff1b96-3ce3-4ed2-8e5d-4a5f757f3f92",
+          "order_number": 14,
+          "multipart": true,
+          "created_at": "2017-07-07T07:08:04.477373"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-205262"
+          ],
+          "main_text": "Millaisia mielikuvia Suomesta saa maahantulijoille jaettavasta opasvihkosta?\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_essee\\_kevat\\_2013\\_1.pdf|text=Perustietoa Suomesta]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16293,
+          "content": {
+            "text": "Millaisia mielikuvia Suomesta saa maahantulijoille jaettavasta opasvihkosta?\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_essee\\_kevat\\_2013\\_1.pdf|text=Perustietoa Suomesta]\n",
+            "displayNumber": "12."
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-12T09:50:27.888522",
+          "max_score": null,
+          "groupping": null,
+          "id": 537234,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "fa11e6bd-6d03-4d5e-a531-9fcd30b803e0",
+          "order_number": 13,
+          "multipart": true,
+          "created_at": "2017-07-07T07:08:04.480401"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**USKONTUNNUSTUS**\n\nMinä uskon\n\nvapauden, veljeyden ja tasa-arvoisuuden\n\nkolmiyhteiseen jumaluuteen,\n\nkaikkien kansojen valveutumiseen\n\nja maailman yhdysvaltoihin,\n\nsuoraan sanaan,\n\nriimittömään runouteen,\n\narkipäiväisen työn korkeaan pyhitykseen\n\nja työntekijäin pyhään\n\n      yhteiseen seurakuntaan;\n\nihmissuvun\n\nhelvetilliseen pahuuteen\n\n      ja taivaalliseen hyvyyteen\n\nja sen iankaikkiseen ylösnousemukseen.\n\nMinä uskon\n\nihmisen poikaan ja tyttäreen,\n\nuuteen polveen,\n\nuuteen aikaan,\n\nsiihen, mitä ei vielä ole,\n\nja siihen, mitä ei kenties koskaan tule:\n\nyksilöiden itsevapautuksen\n\n       vapahdustyöhön . . .\n\n[CITE source=L. Onerva, Yö ja päivä (1933) ]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16293,
+          "content": {
+            "text": "**USKONTUNNUSTUS**\n\nMinä uskon\n\nvapauden, veljeyden ja tasa-arvoisuuden\n\nkolmiyhteiseen jumaluuteen,\n\nkaikkien kansojen valveutumiseen\n\nja maailman yhdysvaltoihin,\n\nsuoraan sanaan,\n\nriimittömään runouteen,\n\narkipäiväisen työn korkeaan pyhitykseen\n\nja työntekijäin pyhään\n\n      yhteiseen seurakuntaan;\n\nihmissuvun\n\nhelvetilliseen pahuuteen\n\n      ja taivaalliseen hyvyyteen\n\nja sen iankaikkiseen ylösnousemukseen.\n\nMinä uskon\n\nihmisen poikaan ja tyttäreen,\n\nuuteen polveen,\n\nuuteen aikaan,\n\nsiihen, mitä ei vielä ole,\n\nja siihen, mitä ei kenties koskaan tule:\n\nyksilöiden itsevapautuksen\n\n       vapahdustyöhön . . .\n\n[CITE source=L. Onerva, Yö ja päivä (1933) ]\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-07-12T09:50:27.936785",
+          "max_score": null,
+          "groupping": null,
+          "id": 527623,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "7de931f2-5080-41e3-a3dd-b08f06c5876f",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-07-06T12:35:04.392928"
+        }
+      ],
+      "name": "Äidinkieli essee kevät 2013",
+      "settings": {},
+      "exam_type": "yo-koe",
+      "classification": {
+        "category": "",
+        "hide_review_buttons": null,
+        "exam_type": "yo-koe",
+        "year": "2013",
+        "language": "fi-FI",
+        "show_exam_series": null,
+        "force_yletunnus": false,
+        "subject": "äidinkieli-suomi-essee",
+        "published": true,
+        "semester": "spring"
+      },
+      "published_at": "2017-07-06T12:24:22.468Z",
+      "language": "fi-FI",
+      "id": 16293,
+      "reviews": [],
+      "is_open": true,
+      "uuid": "74418b6a-f5dd-415d-8b8f-2fae56e90dad"
+    }
+  ]
+}

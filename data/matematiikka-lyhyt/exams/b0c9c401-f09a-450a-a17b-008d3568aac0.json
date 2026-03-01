@@ -1,0 +1,1382 @@
+{
+  "meta": {
+    "count": 1
+  },
+  "data": [
+    {
+      "tags": [
+        ""
+      ],
+      "main_text": "Koe koostuu 13 tehtävästä, joista vastataan kymmeneen. Tehtävät on jaettu kolmeen osaan. A-osassa on neljä kaikille pakollista tehtävää. B1-osassa on viisi tehtävää, joista vastataan kolmeen. B2-osassa on neljä tehtävää, joista vastataan kolmeen. Kaikki tehtävät arvostellaan pistein 0–12, joten kokeen maksimipistemäärä on 120.\n\n&NewLine;\n\nA-osassa saat käyttää taulukkokirjaa ja koejärjestelmän tarjoamia perusohjelmia. A-osa palautetaan tehtävän 4 jälkeen olevalla painikkeella. Tämän jälkeen A-osan vastauksia ei voi enää muokata. A-osan palauttamisen jälkeen kaikki koejärjestelmän ohjelmat ovat käytettävissäsi. Lisäksi saat käyttöön oman laskimesi. Voit vastata B-osien tehtäviin myös ennen A-osan palauttamista.\n\n&NewLine;\n\nUseimmissa tehtävissä kaikkien osatehtävien vastaukset kirjoitetaan samaan vastauskenttään. Jaottele vastauksesi osatehtävien mukaisesti. Halutessasi voit tuottaa vastausten tueksi piirroksia, kaavioita tai taulukoita ja liittää niistä kuvakaappauksen mihin tahansa tekstivastaukseen.\n\n&NewLine;\n\nÄlä jätä mitään merkintöjä sellaisen tehtävän vastaukselle varattuun tilaan, jota et halua jättää arvosteltavaksi.\n",
+      "characters": null,
+      "deleted_at": null,
+      "series_uuids": [],
+      "questions": [
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Sievennys 12 p.**\n\n&NewLine;\n\nPoista sulut ja sievennä lausekkeet.\n\nÄlä perustele tämän tehtävän vastauksia. Tässä tehtävässä ei voi käyttää kuvakaappauksia eikä kaavaeditoria, joten toinen potenssi x[SUP text=2] kirjoitetaan vastauslaatikkoon muodossa x^2. Kunkin vastauksen maksimipituus on 30 merkkiä.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 71709,
+          "content": {
+            "text": "**Sievennys 12 p.**\n\n&NewLine;\n\nPoista sulut ja sievennä lausekkeet.\n\nÄlä perustele tämän tehtävän vastauksia. Tässä tehtävässä ei voi käyttää kuvakaappauksia eikä kaavaeditoria, joten toinen potenssi x[SUP text=2] kirjoitetaan vastauslaatikkoon muodossa x^2. Kunkin vastauksen maksimipituus on 30 merkkiä.\n",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "ce55dba3-c95d-4de5-9585-3cb4065c40d6",
+            "a7320783-3360-4898-a57b-013a46f8dea6",
+            "adfbec5b-1615-47c4-96ac-ba8565336c24",
+            "4fd047f0-90c7-48cb-8cd2-c4611058b774",
+            "a459eb87-fa2d-4d38-891f-f0ad74ba797c",
+            "9302f01b-debb-4e44-a754-42badbd4547f"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2021-02-10T14:37:33.547538",
+          "max_score": null,
+          "groupping": null,
+          "id": 2344364,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "bc5db57f-aacf-4d98-903e-0507054f0894",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2020-05-29T11:45:03.480455"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Neuleyritys 12 p.**\n\n&NewLine;\n\nAineisto\n\n10.A [LINK url=https://yle.fi/plus/abitreenit/2020/kevat/2020-03-18\\_N\\_fi/attachments/index.html#10.%20A|text=Taulukko: Yrityksen kulut]\n\n10.B [LINK url=https://yle.fi/plus/abitreenit/2020/kevat/2020-03-18\\_N\\_fi/attachments/index.html#10.%20B|text=Teksti: Miten arvonlisäveron määrä lasketaan?]\n\n&NewLine;\n\nNaapurukset Pauli ja Johanna päättävät perustaa lasten neuleita valmistavan yrityksen.\n\n&NewLine;\n\n1. Yritys myy neuleita 70 euron kappalehinnalla. Kuinka monta tilausta tarvitaan kuukaudessa, jotta tulot kattavat taulukossa 10. A luetellut kulut? (4 p.)\n2. Pauli ja Johanna miettivät, että yrityksen olisi hyvä tehdä voittoa, ja tuumaavat, että tähän voisi päästä, jos kuukausittain valmistetaan ja myydään 100 neuletta. Riittävätkö kuukauden tarpeisiin varatut langat tähän, kun merinovillalanka maksaa 39 euroa kilolta ja yhteen neulepaitaan tarvitaan 250 grammaa lankaa? (4 p.)\n3. Aloittelevina yrittäjinä Paulilta ja Johannalta on jäänyt laskuissaan arvonlisävero sekä lomat huomioimatta. Kerro, miten näiden seikkojen ottaminen huomioon vaikuttaa siihen, kuinka paljon myyntituloja yritys tarvitsee ollakseen kannattava. Tietoa arvonlisäveron laskemisesta löytyy tekstistä 10. B. (4 p.)\n\n&NewLine;\n\n_Huom. Abitreenien harjoittelukokeessa ei voi käyttää kuvakaappauksia eikä kaavaeditoria._\n",
+          "deleted_at": null,
+          "feedback": "Kulut ovat 5 625 euroa \n\nNeuleita täytyy siis myydä [MATH text=\\frac{5625}{70}\\approx80{,}4], eli vähintään 81 TAI 80,4 TAI 80 (tämä\n\ntarkkuus; riittää laskea omalla luvulla).\n\n​\n\n100 · 0,25 · 39 = 975 > 400 TAI [MATH text=\\frac{400}{0{,}25·39}] ≈ 41 < 100 tai muu variaatio 3\n\neli lankaa varten ei ole varattu riittävästi rahaa.\n",
+          "exam_id": 71709,
+          "content": {
+            "text": "**Neuleyritys 12 p.**\n\n&NewLine;\n\nAineisto\n\n10.A [LINK url=https://yle.fi/plus/abitreenit/2020/kevat/2020-03-18\\_N\\_fi/attachments/index.html#10.%20A|text=Taulukko: Yrityksen kulut]\n\n10.B [LINK url=https://yle.fi/plus/abitreenit/2020/kevat/2020-03-18\\_N\\_fi/attachments/index.html#10.%20B|text=Teksti: Miten arvonlisäveron määrä lasketaan?]\n\n&NewLine;\n\nNaapurukset Pauli ja Johanna päättävät perustaa lasten neuleita valmistavan yrityksen.\n\n&NewLine;\n\n1. Yritys myy neuleita 70 euron kappalehinnalla. Kuinka monta tilausta tarvitaan kuukaudessa, jotta tulot kattavat taulukossa 10. A luetellut kulut? (4 p.)\n2. Pauli ja Johanna miettivät, että yrityksen olisi hyvä tehdä voittoa, ja tuumaavat, että tähän voisi päästä, jos kuukausittain valmistetaan ja myydään 100 neuletta. Riittävätkö kuukauden tarpeisiin varatut langat tähän, kun merinovillalanka maksaa 39 euroa kilolta ja yhteen neulepaitaan tarvitaan 250 grammaa lankaa? (4 p.)\n3. Aloittelevina yrittäjinä Paulilta ja Johannalta on jäänyt laskuissaan arvonlisävero sekä lomat huomioimatta. Kerro, miten näiden seikkojen ottaminen huomioon vaikuttaa siihen, kuinka paljon myyntituloja yritys tarvitsee ollakseen kannattava. Tietoa arvonlisäveron laskemisesta löytyy tekstistä 10. B. (4 p.)\n\n&NewLine;\n\n_Huom. Abitreenien harjoittelukokeessa ei voi käyttää kuvakaappauksia eikä kaavaeditoria._\n",
+            "displayNumber": "10."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2021-02-10T14:37:33.5059",
+          "max_score": null,
+          "groupping": null,
+          "id": 2352496,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "b7a0f79c-8417-4308-8e18-692bfb4a7145",
+          "order_number": 13,
+          "multipart": true,
+          "created_at": "2020-06-02T08:36:37.437223"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Jaksollisuus / Nopan heitto 12 p.**\n\n&NewLine;\n\nJos valitset tämän tehtävän, ratkaise joko 1. Jaksollisuus TAI 2. Nopan heitto. Voit valita kumman tahansa tehtävän riippumatta siitä, minkä opetussuunnitelman mukaisesti olet opiskellut.\n\n&NewLine;\n\n1. Jaksollisuus (Vanha opetussuunnitelma, ennen 1.8.2016 lukion aloittaneet) (12 p.)\n\n&NewLine;\n\nKummalla funktiolla on lyhyempi jakso: [MATH text=f(t)=\\sin⁡(3t)vaig(t)=\\cos^2⁡(2t)]? Perustele väitteesi.\n\n&NewLine;\n\n1. Nopan heitto (Uusi opetussuunnitelma, 1.8.2016 tai sen jälkeen lukion aloittaneet) (12 p.)\n\n&NewLine;\n\nNoppaa heitetään 10 kertaa. Mikä on todennäköisyys, että saadaan täsmälleen 2 kuutosta?\n\nKirjoita tähän vastauskenttään joko tehtävän 1. Jaksollisuus TAI tehtävän 2. Nopan heitto ratkaisu.\n\n&NewLine;\n\n_Huom. Abitreenien harjoittelukokeessa ei voi käyttää kuvakaappauksia eikä kaavaeditoria._\n\n&NewLine;\n",
+          "deleted_at": null,
+          "feedback": "**9.1.**\n\n&NewLine;\n\nFunktioiden cos x ja sin x jakso on 2π.\n\nFunktion cos[SUP text=2](x) jakso on π.\n\n⇒ Funktion cos[SUP text=2](2t) jakso on π/2.\n\nFunktion sin 3t jakso on 2π/3.\n\n⇒ Funktion cos[SUP text=2] 2t jakso on lyhyempi.\n\n&NewLine;\n\nTAI (Geogebra tms. ratkaisu)\n\n&NewLine;\n\nPiirretty cos[SUP text=2](2t) 1\n\n⇒ jakso on π/2 4\n\nPiirretty sin(3t) 1\n\n⇒ jakso on 2π/3 4\n\n⇒ Funktion cos[SUP text=2] 2t jakso on lyhyempi.\n\n&NewLine;\n\n**9.2.**\n\n&NewLine;\n\nBinomikaava, maininta binomitodennäköisyydestä, tms. (1)\n\nKerroin on [MATH text=\\binom{10}{2}] TAI [MATH text=\\binom{10}{8}].\n\nYhtä noppaa heitettäessä kuutosen todennäköisyys on [MATH text=\\frac{1}{6}].\n\nTodennäköisyys saada muu kuin 6 on [MATH text=\\frac{5}{6}].\n\nTodennäköisyys on [MATH text=\\binom{10}{2}·\\left(\\frac{1}{6}\\right)^2\\left(\\frac{5}{6}\\right)^8] (kolme tekijää 1, eksponentit 1+1)\n\n[MATH text=\\frac{5859375}{20155392}] TAI 0,2907 (kaikki tarkkuudet hyväksytään).\n\n&NewLine;\n\nTAI (Geogebra tms. ratkaisu)\n\n&NewLine;\n\nKäytetty binomitodennäköisyyttä 2\n\nSyötetty parametrit oikein: 10, 1/6, 2, täsmälleen (kaksi) 2+2+2+2\n\nVastaus [MATH text=\\frac{5859375}{20155392}] TAI 0,2907 (kaikki tarkkuudet hyväksytään).\n",
+          "exam_id": 71709,
+          "content": {
+            "text": "**Jaksollisuus / Nopan heitto 12 p.**\n\n&NewLine;\n\nJos valitset tämän tehtävän, ratkaise joko 1. Jaksollisuus TAI 2. Nopan heitto. Voit valita kumman tahansa tehtävän riippumatta siitä, minkä opetussuunnitelman mukaisesti olet opiskellut.\n\n&NewLine;\n\n1. Jaksollisuus (Vanha opetussuunnitelma, ennen 1.8.2016 lukion aloittaneet) (12 p.)\n\n&NewLine;\n\nKummalla funktiolla on lyhyempi jakso: [MATH text=f(t)=\\sin⁡(3t)vaig(t)=\\cos^2⁡(2t)]? Perustele väitteesi.\n\n&NewLine;\n\n1. Nopan heitto (Uusi opetussuunnitelma, 1.8.2016 tai sen jälkeen lukion aloittaneet) (12 p.)\n\n&NewLine;\n\nNoppaa heitetään 10 kertaa. Mikä on todennäköisyys, että saadaan täsmälleen 2 kuutosta?\n\nKirjoita tähän vastauskenttään joko tehtävän 1. Jaksollisuus TAI tehtävän 2. Nopan heitto ratkaisu.\n\n&NewLine;\n\n_Huom. Abitreenien harjoittelukokeessa ei voi käyttää kuvakaappauksia eikä kaavaeditoria._\n\n&NewLine;\n",
+            "displayNumber": "9."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2021-02-10T14:37:33.503113",
+          "max_score": null,
+          "groupping": null,
+          "id": 2352369,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "8eccfaf2-798a-4e22-98ec-0a22957530e1",
+          "order_number": 11,
+          "multipart": true,
+          "created_at": "2020-06-02T08:34:47.280583"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Nations League 12 p.**\n\n&NewLine;\n\nNations League -jalkapalloturnaus järjestettiin ensimmäisen kerran vuonna 2018. Turnauksessa pelataan seuraavien sääntöjen mukaan:\n\n&NewLine;\n\n- Joukkueet on jaettu neljään liigaan: A, B, C ja D.\n- Molemmissa liigoissa A ja B on 12 joukkuetta, jotka on jaettu neljään kolmen joukkueen lohkoon.\n- Molemmissa liigoissa C ja D on 15 joukkuetta, jotka on jaettu yhteen kolmen joukkueen ja kolmeen neljän joukkueen lohkoon.\n- Jokaisessa lohkossa kukin joukkue pelaa lohkon kaikkia muita joukkueita vastaan kaksi kertaa: yhden kotipelin ja yhden vieraspelin.\n- Liigan A neljä lohkovoittajaa pelaavat lopputurnauksen, jossa on kaksi välieräottelua, yksi pronssiottelu sekä loppuottelu.\n\n&NewLine;\n\nKuinka monta ottelua pelataan yhdessä Nations League -turnauksessa?\n\n&NewLine;\n\n_Huom. Abitreenien harjoittelukokeessa ei voi käyttää kuvakaappauksia eikä kaavaeditoria._\n",
+          "deleted_at": null,
+          "feedback": "Kolmen joukkueen lohkoissa pelataan yhteensä 6 ottelua. \n\nNeljän joukkueen lohkoissa pelataan yhteensä 12 ottelua. \n\nKolmen joukkueen lohkoja on 4 A- ja B-liigoissa ja 1 C- ja D-liigoissa. \n\nNeljän joukkueen lohkoja on 3 C- ja D-liigoissa eikä yhtään A- ja B-liigoissa. \n\nKolmen joukkueen lohkoja on yhteensä 10 ja neljän joukkueen lohkoja 6. \n\nAlkukarsinnoissa pelataan siis yhteensä 6 · 10 + 12 · 6 \n\n= 132 peliä \n\n Toinen kierros pelataan ainoastaan liigassa A, toisella kierroksella on 4 ottelua. \n\n⇒ Yhteensä 136 ottelua.\n\n&NewLine;\n\nTAI\n\n&NewLine;\n\nKolmen joukkueen lohkoissa pelataan yhteensä 6 ottelua. \n\nNeljän joukkueen lohkoissa pelataan yhteensä 12 ottelua\n\nLiigat A ja B: 4 · 6 = 24 ottelua \n\nLiigat C ja D: 1 · 6+3 · 12 = 42 ottelua 2\n\nLiigat yhteensä 2 · 24 + 2 · 42 = 132 ottelua\n\nToinen kierros pelataan ainoastaan liigassa A, toisella kierroksella on 4 ottelua. \n\n⇒ Yhteensä 136 ottelua. \n",
+          "exam_id": 71709,
+          "content": {
+            "text": "**Nations League 12 p.**\n\n&NewLine;\n\nNations League -jalkapalloturnaus järjestettiin ensimmäisen kerran vuonna 2018. Turnauksessa pelataan seuraavien sääntöjen mukaan:\n\n&NewLine;\n\n- Joukkueet on jaettu neljään liigaan: A, B, C ja D.\n- Molemmissa liigoissa A ja B on 12 joukkuetta, jotka on jaettu neljään kolmen joukkueen lohkoon.\n- Molemmissa liigoissa C ja D on 15 joukkuetta, jotka on jaettu yhteen kolmen joukkueen ja kolmeen neljän joukkueen lohkoon.\n- Jokaisessa lohkossa kukin joukkue pelaa lohkon kaikkia muita joukkueita vastaan kaksi kertaa: yhden kotipelin ja yhden vieraspelin.\n- Liigan A neljä lohkovoittajaa pelaavat lopputurnauksen, jossa on kaksi välieräottelua, yksi pronssiottelu sekä loppuottelu.\n\n&NewLine;\n\nKuinka monta ottelua pelataan yhdessä Nations League -turnauksessa?\n\n&NewLine;\n\n_Huom. Abitreenien harjoittelukokeessa ei voi käyttää kuvakaappauksia eikä kaavaeditoria._\n",
+            "displayNumber": "4."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2021-02-10T14:37:33.500822",
+          "max_score": null,
+          "groupping": null,
+          "id": 2348248,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "3114b907-54f7-4c17-af13-7a7f012e4a89",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2020-06-02T07:38:22.779203"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Meerin virheet 12 p.**\n\n&NewLine;\n\nMeeri on ratkaissut seuraavan tehtävän: _Määritä funktion_ [MATH text=2x^3−7x^2+5x] suurin arvo, kun [MATH text=−1\\le x\\le3]. Hänen ratkaisunsa on seuraava:\n\n&NewLine;\n\nSuurin arvo eli maksimi löydetään derivaatan avulla, ts. [MATH text=6x^2−14x+5=0]. Ratkaisukaavalla saadaan [MATH text=x=\\frac{7\\pm\\sqrt{16}}{6}] eli [MATH text=x=\\frac{3}{6}=\\frac{1}{2}] tai [MATH text=x=\\frac{11}{6}]. Merkkikaavion avulla nähdään, että ensimmäinen näistä on maksimikohta, joten funktion suurin arvo on\n\n[MATH text=6⋅(\\frac{1}{2})^2−14⋅\\frac{1}{2}+5=−\\frac{1}{2}].\n\n&NewLine;\n\nSelitä, mitä virheitä Meerin ratkaisussa on. Esitä myös korjattu versio ratkaisusta.\n\n&NewLine;\n\n_Huom. Abitreenien harjoittelukokeessa ei voi käyttää kuvakaappauksia eikä kaavaeditoria._\n",
+          "deleted_at": null,
+          "feedback": "Meeri on laskenut nollakohdat väärin, \n\nsillä [MATH text=x=\\frac{1}{2}] ei toteuta yhtälöä [MATH text=6x^2−14x+5=0] TAI sillä nollakohdat ovat [MATH text=x=\\frac{7\\pm\\sqrt{1}9}{6}] (sieventämätön tai likiarvot riittävät). \n\n&NewLine;\n\nMeeri on sijoittanut virheellisesti derivaatan nollakohdan derivaatan eikä funk-\n\ntion lausekkeeseen. \n\n&NewLine;\n\nLisäksi Meeri ei ole tutkinut välin päätepisteitä, joissa suurin arvo saattaa myös\n\nsijaita TAI tutkinut sitä päätepistettä, jossa kulkukaavion mukaan pitäisi tutkia\n\nfunktiota. \n\nOikea ratkaisu:\n\nNollakohdat ovat  [MATH text=\\frac{7\\pm\\sqrt{1}9}{6}]. \n\n&NewLine;\n\nMerkkikaavion mukaan funktion käyttäytyminen välillä on +|−|+. Laskettu funk-\n\ntion arvot kohdissa [MATH text=x=\\frac{7−\\sqrt{1}9}{6}] ja [MATH text=x=3] TAI tutkittu molemmat nollakohdat sekä\n\nvälin päätepisteet. (Jos katsottu vain kuvaajasta, tästä kohdasta 0 p.) \n\n⇒ suurin arvo on 2 · 3[SUP text=3] − 7 · 3[SUP text=2]+5 · 3=6 TAI f(3) = 6.\n",
+          "exam_id": 71709,
+          "content": {
+            "text": "**Meerin virheet 12 p.**\n\n&NewLine;\n\nMeeri on ratkaissut seuraavan tehtävän: _Määritä funktion_ [MATH text=2x^3−7x^2+5x] suurin arvo, kun [MATH text=−1\\le x\\le3]. Hänen ratkaisunsa on seuraava:\n\n&NewLine;\n\nSuurin arvo eli maksimi löydetään derivaatan avulla, ts. [MATH text=6x^2−14x+5=0]. Ratkaisukaavalla saadaan [MATH text=x=\\frac{7\\pm\\sqrt{16}}{6}] eli [MATH text=x=\\frac{3}{6}=\\frac{1}{2}] tai [MATH text=x=\\frac{11}{6}]. Merkkikaavion avulla nähdään, että ensimmäinen näistä on maksimikohta, joten funktion suurin arvo on\n\n[MATH text=6⋅(\\frac{1}{2})^2−14⋅\\frac{1}{2}+5=−\\frac{1}{2}].\n\n&NewLine;\n\nSelitä, mitä virheitä Meerin ratkaisussa on. Esitä myös korjattu versio ratkaisusta.\n\n&NewLine;\n\n_Huom. Abitreenien harjoittelukokeessa ei voi käyttää kuvakaappauksia eikä kaavaeditoria._\n",
+            "displayNumber": "13."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2021-02-10T14:37:33.498524",
+          "max_score": null,
+          "groupping": null,
+          "id": 2352821,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "23995c05-3899-4a24-bc16-794271fa168e",
+          "order_number": 16,
+          "multipart": true,
+          "created_at": "2020-06-02T08:40:35.51012"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Times Square 12 p.**\n\n&NewLine;\n\nAineisto\n\n5.A [LINK url=https://yle.fi/plus/abitreenit/2020/kevat/2020-03-18\\_N\\_fi/attachments/index.html#5.%20A|text=Teksti: Times Square]\n\n&NewLine;\n\nArvioi tekstin 5. A tietojen perusteella, kuinka monta ihmistä pitäisi olla neliömetrillä, jos juhlijoita todellakin olisi kaksi miljoonaa. Laske, kuinka monta neliösenttimetriä maata kullakin kahdella miljoonalla ihmisellä olisi keskimäärin jalkojensa alla, jos juhlijoita olisi kaksi miljoonaa. Arvioi myös, onko tämä enemmän vai vähemmän kuin aikuisen ihmisen jalkapohjien pinta-ala.\n\n&NewLine;\n\n_Huom. Abitreenien harjoittelukokeessa ei voi käyttää kuvakaappauksia eikä kaavaeditoria._\n",
+          "deleted_at": null,
+          "feedback": "Times Squaren pinta-ala on noin [MATH text=\\frac{51000}{3}] = 17000 neliömetriä. \n\n​\n\nKullakin neliömetrillä [MATH text=\\frac{2000000}{51000}·3\\approx]\n\n118 TAI 120 ihmistä \n\nKullakin noin [MATH text=\\frac{1}{118}\\approx0{,}0085m^2(=85cm^2)] maata TAI [MATH text=\\frac{1}{120}\\approx0{,}0083m^2]\n\n Järkevähkö arvio yhden (tai kahden) jalan mitoista: 5–15 cm ja 10–40 cm\n\n Yhden ihmisen kahden jalan vaatima pinta-ala on siis 100–1200 cm[SUP text=2] \n\nOikea, järkevästi perusteltu johtopäätös, ja 83 TAI 85 cm[SUP text=2] oikein\n",
+          "exam_id": 71709,
+          "content": {
+            "text": "**Times Square 12 p.**\n\n&NewLine;\n\nAineisto\n\n5.A [LINK url=https://yle.fi/plus/abitreenit/2020/kevat/2020-03-18\\_N\\_fi/attachments/index.html#5.%20A|text=Teksti: Times Square]\n\n&NewLine;\n\nArvioi tekstin 5. A tietojen perusteella, kuinka monta ihmistä pitäisi olla neliömetrillä, jos juhlijoita todellakin olisi kaksi miljoonaa. Laske, kuinka monta neliösenttimetriä maata kullakin kahdella miljoonalla ihmisellä olisi keskimäärin jalkojensa alla, jos juhlijoita olisi kaksi miljoonaa. Arvioi myös, onko tämä enemmän vai vähemmän kuin aikuisen ihmisen jalkapohjien pinta-ala.\n\n&NewLine;\n\n_Huom. Abitreenien harjoittelukokeessa ei voi käyttää kuvakaappauksia eikä kaavaeditoria._\n",
+            "displayNumber": "5."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2021-02-10T14:37:33.492558",
+          "max_score": null,
+          "groupping": null,
+          "id": 2348950,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "959ca21b-6360-4423-8bb9-db47d04a2af7",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2020-06-02T07:47:22.212571"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Murtoluvut 12 p.**\n\n&NewLine;\n\nLaske alla olevat murtolukulaskut kohdissa 2.1.–2.4. ja ratkaise yhtälö kohdassa 2.5.\n\nÄlä perustele tämän tehtävän vastauksia. Tässä tehtävässä ei voi käyttää kuvakaappauksia eikä kaavaeditoria, joten murtoluku x y kirjoitetaan muodossa x/y. Kunkin vastauksen maksimipituus on 10 merkkiä.\n\n&NewLine;\n\nVain tarkka arvo käy vastaukseksi.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 71709,
+          "content": {
+            "text": "**Murtoluvut 12 p.**\n\n&NewLine;\n\nLaske alla olevat murtolukulaskut kohdissa 2.1.–2.4. ja ratkaise yhtälö kohdassa 2.5.\n\nÄlä perustele tämän tehtävän vastauksia. Tässä tehtävässä ei voi käyttää kuvakaappauksia eikä kaavaeditoria, joten murtoluku x y kirjoitetaan muodossa x/y. Kunkin vastauksen maksimipituus on 10 merkkiä.\n\n&NewLine;\n\nVain tarkka arvo käy vastaukseksi.\n",
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "8998c192-645c-4141-a9c4-9c27328fec5a",
+            "b63bb331-84d5-45cd-b8c6-cc03fb11f626",
+            "975aa786-b849-4330-a1e3-a76763a12c31",
+            "98df0f74-bab0-4364-bf6e-108f6922a392",
+            "86be213e-29aa-4599-b5cc-964f3da712bb"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2021-02-10T14:37:33.49028",
+          "max_score": null,
+          "groupping": null,
+          "id": 2344460,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "9ebc2ca4-42db-49d6-aab4-3b88f7fa5eb2",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2020-05-29T11:59:08.992315"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Suklaarasia 12 p.**\n\n&NewLine;\n\nAineisto\n\n7.A [LINK url=https://yle.fi/plus/abitreenit/2020/kevat/2020-03-18\\_N\\_fi/attachments/index.html#7.%20A|text=Kuva: Suklaarasia]\n\n&NewLine;\n\nSuklaakonvehtirasia 7. A on muodoltaan särmiö, jonka pohja on säännöllinen kahdeksankulmio. Kahdeksankulmion sivun pituus on 4,2 cm ja rasian korkeus 6,6 cm. Laske rasian tilavuus.\n\n&NewLine;\n\n_Huom. Abitreenien harjoittelukokeessa ei voi käyttää kuvakaappauksia eikä kaavaeditoria._\n",
+          "deleted_at": null,
+          "feedback": "Kahdeksankulmio saadaan neliöstä poistamalla jokaisesta kulmasta suorakulmainen kolmio.\n\n​\n\nTällaisen kolmion kateetin pituus on [MATH text=\\frac{4{,}2}{\\sqrt{2}}\\approx2{,}97]\n\nja pinta-ala [MATH text=\\frac{4{,}2}{\\sqrt{2}}\\cdot\\frac{4{,}2}{\\sqrt{2}}\\cdot\\frac{1}{2}=4{,}41]\n\nNeliön pinta-ala on [MATH text=(4{,}2+2·\\frac{4{,}2}{\\sqrt{2}})^2\\approx102{,}81.]\n\nKahdeksankulmion pinta-ala siis [MATH text=(4{,}2+2·\\frac{4{,}2}{\\sqrt{2}})^2−2\\frac{4{,}2}{\\sqrt{2}}·\\frac{4{,}2}{\\sqrt{2}}\\approx85{,}17.]\n\nTilavuus saadaan pohjan pinta-alan ja korkeuden tulona\n\n⇒ Tilavuus (85,17 · 6,6) ≈ 562,14 ≈ 560 cm[SUP text=3]\n\n​\n\nTAI\n\n​\n\nKahdeksankulmio muodostuu kahdeksasta tasakylkisestä kolmiosta. \n\nKärkikulma on 360◦/8 = 45◦. \n\nPuolet kärkikulmasta on siis 22,5◦ \n\nja kolmion korkeus  [MATH text=h=\\frac{2{,}1}{\\tan(22{,}5◦)}\\approx5{,}07.]\n\nKolmion ala on siis  [MATH text=\\frac{1}{2}·\\frac{2{,}1}{\\tan(22{,}5◦)}·4{,}2\\approx10{,}65.]\n\nKahdeksankulmion pinta-ala on [MATH text=8·\\frac{1}{2}·\\frac{2{,}1}{\\tan(22{,}5◦)}·4{,}2\\approx85{,}17.]\n\n Tilavuus saadaan pohjan pinta-alan ja korkeuden tulona \n\n⇒ Tilavuus (85,17 · 6,6) ≈ 562,14 ≈ 560 cm[SUP text=3]\n\n​\n\nTAI\n\n​\n\n(Geogebra tms ratkaisu)\n\nPiirretty konveksi 8-kulmio. \n\nPerusteltu säännöllisyys esim. kerrottu komento ”säännöllinen 8-kulmio”. \n\nPiirroksessa mitattu jokaisen sivun pituudeksi 4,2 TAI muu perustelu. \n\nPinta-ala 85,17 ja perusteluna esim. komento. \n\n Tilavuus saadaan pohjan pinta-alan ja korkeuden tulona. \n\n⇒ Tilavuus (85,17 · 6,6) ≈ 562,14 ≈ 560 cm[SUP text=3]\n",
+          "exam_id": 71709,
+          "content": {
+            "text": "**Suklaarasia 12 p.**\n\n&NewLine;\n\nAineisto\n\n7.A [LINK url=https://yle.fi/plus/abitreenit/2020/kevat/2020-03-18\\_N\\_fi/attachments/index.html#7.%20A|text=Kuva: Suklaarasia]\n\n&NewLine;\n\nSuklaakonvehtirasia 7. A on muodoltaan särmiö, jonka pohja on säännöllinen kahdeksankulmio. Kahdeksankulmion sivun pituus on 4,2 cm ja rasian korkeus 6,6 cm. Laske rasian tilavuus.\n\n&NewLine;\n\n_Huom. Abitreenien harjoittelukokeessa ei voi käyttää kuvakaappauksia eikä kaavaeditoria._\n",
+            "displayNumber": "7."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2021-02-10T14:37:33.480352",
+          "max_score": null,
+          "groupping": null,
+          "id": 2350977,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "d9899068-1527-44a7-b832-80b16f9a437d",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2020-06-02T08:20:53.412189"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Lauseke [MATH text=\\frac{3}{y}]\n\n&NewLine;\n\nRiippuvuus [SELECT id=15] 1 p. \n\n&NewLine;\n\nMallin tyyppi  [SELECT id=16] 1 p. \n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 71709,
+          "content": {
+            "text": "Lauseke [MATH text=\\frac{3}{y}]\n\n&NewLine;\n\nRiippuvuus [SELECT id=15] 1 p. \n\n&NewLine;\n\nMallin tyyppi  [SELECT id=16] 1 p. \n"
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2021-02-10T14:37:33.485021",
+          "max_score": 2,
+          "groupping": null,
+          "id": 2345577,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 15,
+              "parent": "32bd3188-bb4b-4578-ad69-2d64cb76fa29",
+              "choices": [
+                {
+                  "id": "9bdfad96-2bae-48be-a685-4d04abcb8a83",
+                  "text": "suoraan verrannollinen"
+                },
+                {
+                  "id": "bebe76a9-23ee-4723-9f0f-30407f467b28",
+                  "text": "kääntäen verrannollinen",
+                  "correct": true
+                },
+                {
+                  "id": "316625c6-328e-4bf1-b35e-a6ea340e68de",
+                  "text": "ei kumpikaan"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 16,
+              "parent": "32bd3188-bb4b-4578-ad69-2d64cb76fa29",
+              "choices": [
+                {
+                  "id": "f23e75cd-47d4-41c2-bc71-25fc6637fb8e",
+                  "text": "polynominen"
+                },
+                {
+                  "id": "cde1f238-d5de-4494-9733-20d0b4e89fb3",
+                  "text": "eksponentiaalinen"
+                },
+                {
+                  "id": "2d963c8c-0a14-4f5f-8596-90fb9128a16d",
+                  "text": "ei kumpikaan",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "32bd3188-bb4b-4578-ad69-2d64cb76fa29",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2020-06-01T12:59:35.492822"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### A-osa\n\nVastaa neljään tehtävään.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 71709,
+          "content": {
+            "text": "### A-osa\n\nVastaa neljään tehtävään.\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2021-02-10T14:37:33.487649",
+          "max_score": null,
+          "groupping": null,
+          "id": 2344362,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "07447a2b-3e1b-4d2a-b1c2-8ab68adfb0b3",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2020-05-29T11:44:46.90652"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Lauseke [MATH text=7t+3t]\n\n​\n\nRiippuvuus [SELECT id=15] 1 p.\n\n​\n\nMallin tyyppi [SELECT id=16] 1 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 71709,
+          "content": {
+            "text": "Lauseke [MATH text=7t+3t]\n\n​\n\nRiippuvuus [SELECT id=15] 1 p.\n\n​\n\nMallin tyyppi [SELECT id=16] 1 p.\n"
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2021-02-10T14:37:33.508418",
+          "max_score": 2,
+          "groupping": null,
+          "id": 2347965,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 15,
+              "parent": "6dc62c10-0473-462a-a1ed-3738603a4a76",
+              "choices": [
+                {
+                  "id": "3e5f00b1-041b-4c9b-aef8-6967418d6d21",
+                  "text": "suoraan verrannollinen",
+                  "correct": true
+                },
+                {
+                  "id": "9ed610c9-29f5-45f0-a4b2-20db4b940107",
+                  "text": "kääntäen verrannollinen",
+                  "correct": false
+                },
+                {
+                  "id": "24e8a754-10a3-4a20-a6b9-62a8941a79ea",
+                  "text": "ei kumpikaan",
+                  "correct": false
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 16,
+              "parent": "6dc62c10-0473-462a-a1ed-3738603a4a76",
+              "choices": [
+                {
+                  "id": "7c2e5b61-adda-4e1a-8f04-96f2e932ff81",
+                  "text": "polynominen",
+                  "correct": true
+                },
+                {
+                  "id": "35fa2d78-5ceb-4c0f-a1aa-266cb22b9e74",
+                  "text": "eksponentiaalinen",
+                  "correct": false
+                },
+                {
+                  "id": "49147aa4-9a1d-460e-85d5-981137dd298c",
+                  "text": "ei kumpikaan",
+                  "correct": false
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "6dc62c10-0473-462a-a1ed-3738603a4a76",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2020-06-02T07:36:37.598675"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Lauseke [MATH text=2^{x-0{,}6}]\n\n​\n\nRiippuvuus [SELECT id=15] 1 p.\n\n​\n\nMallin tyyppi [SELECT id=16] 1 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 71709,
+          "content": {
+            "text": "Lauseke [MATH text=2^{x-0{,}6}]\n\n​\n\nRiippuvuus [SELECT id=15] 1 p.\n\n​\n\nMallin tyyppi [SELECT id=16] 1 p.\n"
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2021-02-10T14:37:33.510602",
+          "max_score": 2,
+          "groupping": null,
+          "id": 2345680,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 15,
+              "parent": "eedb2c86-4ff8-4f52-b57c-6b0eba8e30a3",
+              "choices": [
+                {
+                  "id": "e224e635-1c03-4398-9985-1056f4ab411e",
+                  "text": "suoraan verrannollinen"
+                },
+                {
+                  "id": "4f56ba30-d74e-4974-9d8c-b974aafe889b",
+                  "text": "kääntäen verrannollinen",
+                  "correct": false
+                },
+                {
+                  "id": "e2c62d2e-eb30-4277-8ca4-f52ca8fb61d6",
+                  "text": "ei kumpikaan",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 16,
+              "parent": "eedb2c86-4ff8-4f52-b57c-6b0eba8e30a3",
+              "choices": [
+                {
+                  "id": "df276547-92aa-434d-a427-c0b8e15f9819",
+                  "text": "polynominen"
+                },
+                {
+                  "id": "9760865c-f650-41af-883f-962ccb434a8b",
+                  "text": "eksponentiaalinen",
+                  "correct": true
+                },
+                {
+                  "id": "1bfc7269-81b1-4e04-853c-2cafd6a477b3",
+                  "text": "ei kumpikaan",
+                  "correct": false
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "eedb2c86-4ff8-4f52-b57c-6b0eba8e30a3",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2020-06-01T13:12:23.645452"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Funktion väheneminen 12 p.**\n\n&NewLine;\n\nSelvitä derivaatan avulla, missä välin [MATH text=−1\\le x\\le3] kohdassa funktio [MATH text=f(x)=2x^2−x+5] vähenee nopeimmin.\n\n&NewLine;\n\n_Huom. Abitreenien harjoittelukokeessa ei voi käyttää kuvakaappauksia eikä kaavaeditoria._\n",
+          "deleted_at": null,
+          "feedback": "f'(x)=4x − 1 (2 p. per kerroin) \n\nperustelu derivaatan minimille \n\n⇒ derivaatta saa pienimmän arvonsa kohdassa x = −1. \n\n Funktio vähenee nopeimmin, kun derivaatta on mahdollisimman pieni. \n\n⇒ Funktio vähenee nopeimmin kohdassa x = −1.\n",
+          "exam_id": 71709,
+          "content": {
+            "text": "**Funktion väheneminen 12 p.**\n\n&NewLine;\n\nSelvitä derivaatan avulla, missä välin [MATH text=−1\\le x\\le3] kohdassa funktio [MATH text=f(x)=2x^2−x+5] vähenee nopeimmin.\n\n&NewLine;\n\n_Huom. Abitreenien harjoittelukokeessa ei voi käyttää kuvakaappauksia eikä kaavaeditoria._\n",
+            "displayNumber": "8."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2021-02-10T14:37:33.512814",
+          "max_score": null,
+          "groupping": null,
+          "id": 2351556,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "fd8ec034-9c7e-4b74-b736-ad84f2133a4b",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2020-06-02T08:26:23.468117"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Lauseke [MATH text=\\frac{4t-2}{3}]\n\n​\n\nRiippuvuus [SELECT id=15] 1 p.\n\n​\n\nMallin tyyppi [SELECT id=16] 1 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 71709,
+          "content": {
+            "text": "Lauseke [MATH text=\\frac{4t-2}{3}]\n\n​\n\nRiippuvuus [SELECT id=15] 1 p.\n\n​\n\nMallin tyyppi [SELECT id=16] 1 p.\n"
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2021-02-10T14:37:33.514865",
+          "max_score": 2,
+          "groupping": null,
+          "id": 2347457,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 15,
+              "parent": "7f67a1cc-440e-43e5-8c7f-1c39afc4c788",
+              "choices": [
+                {
+                  "id": "d25a2b99-b4e0-4bb1-aec2-f781f95dfe9d",
+                  "text": "suoraan verrannollinen"
+                },
+                {
+                  "id": "bd062df9-4216-430b-8c0a-484a13c74536",
+                  "text": "kääntäen verrannollinen",
+                  "correct": false
+                },
+                {
+                  "id": "780cd172-f33f-41cc-b1ee-1ec5458ff009",
+                  "text": "ei kumpikaan",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 16,
+              "parent": "7f67a1cc-440e-43e5-8c7f-1c39afc4c788",
+              "choices": [
+                {
+                  "id": "0e46e963-db9c-4771-a4e1-d4e5cc4b6b20",
+                  "text": "polynominen",
+                  "correct": true
+                },
+                {
+                  "id": "8aa8dad6-e6d0-4c53-bcaa-3942bd417e9a",
+                  "text": "eksponentiaalinen",
+                  "correct": false
+                },
+                {
+                  "id": "1f9364ab-786d-443a-b81f-27ff97a8e3fc",
+                  "text": "ei kumpikaan",
+                  "correct": false
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "7f67a1cc-440e-43e5-8c7f-1c39afc4c788",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2020-06-02T07:33:30.859966"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### B2-osa\n\nVastaa kolmeen tehtävään.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 71709,
+          "content": {
+            "text": "### B2-osa\n\nVastaa kolmeen tehtävään.\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2021-02-10T14:37:33.517095",
+          "max_score": null,
+          "groupping": null,
+          "id": 2352463,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "3ef85c6a-de85-4b5e-8778-6ebfadba54bd",
+          "order_number": 12,
+          "multipart": true,
+          "created_at": "2020-06-02T08:35:51.549788"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Toisen asteen polynomi 12 p.**\n\n&NewLine;\n\nTutkitaan toisen asteen polynomia [MATH text=p(x)]. Polynomista tiedetään vain, että sen arvo kohdassa [MATH text=x = − ]2 on negatiivinen ja että sen arvo kohdassa [MATH text=x = 1] on positiivinen. Voiko näiden tietojen perusteella selvittää termin [MATH text=x^2] kertoimen etumerkin tai yhtälön [MATH text=p ( x ) = 0] ratkaisujen lukumäärän?\n\n&NewLine;\n\n_Huom. Abitreenien harjoittelukokeessa ei voi käyttää kuvakaappauksia eikä kaavaeditoria._\n",
+          "deleted_at": null,
+          "feedback": "Toiseen asteen termin kerrointa ei voi annetuista tiedoista päätellä. \n\n Perustelu: Annettu polynomin lauseke, jossa x2-kerroin on positiivinen (1 p.)\n\nja tarkistettu ehdot (1 p.); toinen esimerkki negatiivisella kertoimella samalla\n\ntavalla (2 p.) TAI \n\npositiivinen etumerkki vastaa ylöspäin aukeavaa, negatiivinen alaspäin aukeavaa\n\nparaabelia (1 p.) ja ehdot p(−2) < 0 ja p(1) > 0 toteuttava paraabeli voi aueta\n\nkumpaan suuntaan tahansa (1 p.)\n\nNollakohtia on kaksi, \n\nsillä polynomi saa sekä positiivisia että negatiivisia arvoja (joten sillä on ainakin\n\nyksi nollakohta) \n\nja yksi nollakohta on mahdollinen vain, jos polynomi sivuaa x-akselia.\n\n&NewLine;\n\nTAI\n\n&NewLine;\n\nToiseen asteen termin kerrointa ei voi annetuista tiedoista päätellä. \n\nPerustelu: Piirretty oikean näköinen kuva, joka näyttää esittävän kahta paraabelia\n\noikeilla rajoituksilla \n\nAnnettu paraabelien yhtälöt (2 p.) TAI positiivinen etumerkki vastaa ylöspäin\n\naukeavaa, negatiivinen alaspäin aukeavaa paraabelia (1 p.)  \n\nMerkitty kriittiset pisteet paraabelilta tai x-akselilta TAI selitetty miksi annetut\n\nparaabelit toteuttavat vaaditut ehdot \n\nNollakohtia on kaksi, \n\nsillä polynomi saa sekä positiivisia että negatiivisia arvoja (joten sillä on ainakin\n\nyksi nollakohta) \n\nja yksi nollakohta on mahdollinen vain, jos polynomi sivuaa x-akselia.\n",
+          "exam_id": 71709,
+          "content": {
+            "text": "**Toisen asteen polynomi 12 p.**\n\n&NewLine;\n\nTutkitaan toisen asteen polynomia [MATH text=p(x)]. Polynomista tiedetään vain, että sen arvo kohdassa [MATH text=x = − ]2 on negatiivinen ja että sen arvo kohdassa [MATH text=x = 1] on positiivinen. Voiko näiden tietojen perusteella selvittää termin [MATH text=x^2] kertoimen etumerkin tai yhtälön [MATH text=p ( x ) = 0] ratkaisujen lukumäärän?\n\n&NewLine;\n\n_Huom. Abitreenien harjoittelukokeessa ei voi käyttää kuvakaappauksia eikä kaavaeditoria._\n",
+            "displayNumber": "12."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2021-02-10T14:37:33.519421",
+          "max_score": null,
+          "groupping": null,
+          "id": 2352680,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "b9d99d23-247f-4784-a43d-54afa0b0ee3a",
+          "order_number": 15,
+          "multipart": true,
+          "created_at": "2020-06-02T08:39:10.832868"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Poista sulut ja sievennä lauseke. 2 p.\n\n6 ( 2 x − 8 ) = [GAP id=2]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 71709,
+          "content": {
+            "text": "Poista sulut ja sievennä lauseke. 2 p.\n\n6 ( 2 x − 8 ) = [GAP id=2]\n",
+            "displayNumber": "1.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2021-02-10T14:37:33.522327",
+          "max_score": 1,
+          "groupping": null,
+          "id": 2344376,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 2,
+              "parent": "a7320783-3360-4898-a57b-013a46f8dea6",
+              "choices": [],
+              "correct": "12x - 48 | 12x-48",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "a7320783-3360-4898-a57b-013a46f8dea6",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2020-05-29T11:46:55.895097"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Poista sulut ja sievennä lauseke. 2 p.\n\n2 x ( 3 x − y ) − ( 2 y + 2 x ) ( x − 3 y ) = [GAP id=6]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 71709,
+          "content": {
+            "text": "Poista sulut ja sievennä lauseke. 2 p.\n\n2 x ( 3 x − y ) − ( 2 y + 2 x ) ( x − 3 y ) = [GAP id=6]\n",
+            "displayNumber": "1.6."
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2021-02-10T14:37:33.524498",
+          "max_score": 1,
+          "groupping": null,
+          "id": 2344443,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 6,
+              "parent": "9302f01b-debb-4e44-a754-42badbd4547f",
+              "choices": [],
+              "correct": "4x^2+6y^2+2xy | 2(2x^2+3y^2+xy) | 4x^2+6y^2+2xy|2(2x^2+3y^2+xy)",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "9302f01b-debb-4e44-a754-42badbd4547f",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2020-05-29T11:57:39.632322"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Poista sulut ja sievennä lauseke. 2 p.\n\n5 y − ( 3 y − 1 ) = [GAP id=1]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 71709,
+          "content": {
+            "text": "Poista sulut ja sievennä lauseke. 2 p.\n\n5 y − ( 3 y − 1 ) = [GAP id=1]\n",
+            "displayNumber": "1.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2021-02-10T14:37:33.526487",
+          "max_score": 1,
+          "groupping": null,
+          "id": 2344369,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "parent": "ce55dba3-c95d-4de5-9585-3cb4065c40d6",
+              "choices": [],
+              "correct": "2y + 1 | 2y+1",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "ce55dba3-c95d-4de5-9585-3cb4065c40d6",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2020-05-29T11:46:21.939709"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Poista sulut ja sievennä lauseke. 2 p.\n\n( x + 4 ) ( x − 4 ) = [GAP id=3]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 71709,
+          "content": {
+            "text": "Poista sulut ja sievennä lauseke. 2 p.\n\n( x + 4 ) ( x − 4 ) = [GAP id=3]\n",
+            "displayNumber": "1.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2021-02-10T14:37:33.528711",
+          "max_score": 1,
+          "groupping": null,
+          "id": 2344391,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 3,
+              "parent": "adfbec5b-1615-47c4-96ac-ba8565336c24",
+              "choices": [],
+              "correct": "x^2 - 16 | x^2-16",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "adfbec5b-1615-47c4-96ac-ba8565336c24",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2020-05-29T11:53:01.773222"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Poista sulut ja sievennä lauseke. 2 p.\n\n[MATH text=\\frac{9(xy)^2}{−3x}] = [GAP id=5]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 71709,
+          "content": {
+            "text": "Poista sulut ja sievennä lauseke. 2 p.\n\n[MATH text=\\frac{9(xy)^2}{−3x}] = [GAP id=5]\n",
+            "displayNumber": "1.5."
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2021-02-10T14:37:33.530686",
+          "max_score": 1,
+          "groupping": null,
+          "id": 2344421,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 5,
+              "parent": "a459eb87-fa2d-4d38-891f-f0ad74ba797c",
+              "choices": [],
+              "correct": "- 3xy^2 | -3xy^2",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "a459eb87-fa2d-4d38-891f-f0ad74ba797c",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2020-05-29T11:56:00.379367"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Poista sulut ja sievennä lauseke. 2 p.\n\n( 4 x − 2 ) [SUP text=2] = [GAP id=4]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 71709,
+          "content": {
+            "text": "Poista sulut ja sievennä lauseke. 2 p.\n\n( 4 x − 2 ) [SUP text=2] = [GAP id=4]\n",
+            "displayNumber": "1.4."
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2021-02-10T14:37:33.532732",
+          "max_score": 1,
+          "groupping": null,
+          "id": 2344402,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 4,
+              "parent": "4fd047f0-90c7-48cb-8cd2-c4611058b774",
+              "choices": [],
+              "correct": "16x^2 - 16x + 4|4 ( 4x^2 - 4x + 1 ) | 16x^2-16x+4|4(4x^2-4x+1)",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "4fd047f0-90c7-48cb-8cd2-c4611058b774",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2020-05-29T11:53:53.847133"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Laske murtolukulasku. 2 p.\n\n[MATH text=1\\frac{7}{15}−\\frac{9}{15}] = [GAP id=7]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 71709,
+          "content": {
+            "text": "Laske murtolukulasku. 2 p.\n\n[MATH text=1\\frac{7}{15}−\\frac{9}{15}] = [GAP id=7]\n",
+            "displayNumber": "2.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2021-02-10T14:37:33.534628",
+          "max_score": 1,
+          "groupping": null,
+          "id": 2344470,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 7,
+              "parent": "8998c192-645c-4141-a9c4-9c27328fec5a",
+              "choices": [],
+              "correct": "13/15",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "8998c192-645c-4141-a9c4-9c27328fec5a",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2020-05-29T12:01:19.453992"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Laske murtolukulasku. 2 p.\n\n[MATH text=\\frac{3}{7}+\\frac{1}{3}] = [GAP id=8]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 71709,
+          "content": {
+            "text": "Laske murtolukulasku. 2 p.\n\n[MATH text=\\frac{3}{7}+\\frac{1}{3}] = [GAP id=8]\n",
+            "displayNumber": "2.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2021-02-10T14:37:33.536966",
+          "max_score": 1,
+          "groupping": null,
+          "id": 2345316,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 8,
+              "parent": "b63bb331-84d5-45cd-b8c6-cc03fb11f626",
+              "choices": [],
+              "correct": "16/21",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "b63bb331-84d5-45cd-b8c6-cc03fb11f626",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2020-06-01T12:40:43.562925"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Laske murtolukulasku. 2 p.\n\n[MATH text=\\frac{1}{4}⋅3\\frac{2}{7}] = [GAP id=9]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 71709,
+          "content": {
+            "text": "Laske murtolukulasku. 2 p.\n\n[MATH text=\\frac{1}{4}⋅3\\frac{2}{7}] = [GAP id=9]\n",
+            "displayNumber": "2.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2021-02-10T14:37:33.53893",
+          "max_score": 1,
+          "groupping": null,
+          "id": 2345339,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 9,
+              "parent": "975aa786-b849-4330-a1e3-a76763a12c31",
+              "choices": [],
+              "correct": "23/28",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "975aa786-b849-4330-a1e3-a76763a12c31",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2020-06-01T12:43:53.827718"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Laske murtolukulasku. 2 p.\n\n[MATH text=\\frac{3}{8}:\\frac{6}{11}] = [GAP id=10]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 71709,
+          "content": {
+            "text": "Laske murtolukulasku. 2 p.\n\n[MATH text=\\frac{3}{8}:\\frac{6}{11}] = [GAP id=10]\n",
+            "displayNumber": "2.4."
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2021-02-10T14:37:33.541355",
+          "max_score": 1,
+          "groupping": null,
+          "id": 2345364,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 10,
+              "parent": "98df0f74-bab0-4364-bf6e-108f6922a392",
+              "choices": [],
+              "correct": "11/16 | 0,6875",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "98df0f74-bab0-4364-bf6e-108f6922a392",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2020-06-01T12:45:49.018477"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Ratkaise yhtälö [MATH text=\\frac{1}{3}x+\\frac{1}{4}=\\frac{1}{5}x+\\frac{1}{6}]. 4 p.\n\nx = [GAP id=13]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 71709,
+          "content": {
+            "text": "Ratkaise yhtälö [MATH text=\\frac{1}{3}x+\\frac{1}{4}=\\frac{1}{5}x+\\frac{1}{6}]. 4 p.\n\nx = [GAP id=13]\n",
+            "displayNumber": "2.5."
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2021-02-10T14:37:33.543337",
+          "max_score": 1,
+          "groupping": null,
+          "id": 2345433,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 13,
+              "parent": "86be213e-29aa-4599-b5cc-964f3da712bb",
+              "choices": [],
+              "correct": "x = −5/8 | −0,625 | -5/8 | -0,625",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "86be213e-29aa-4599-b5cc-964f3da712bb",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2020-06-01T12:48:25.261646"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### B1-osa\n\nVastaa kolmeen tehtävään.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 71709,
+          "content": {
+            "text": "### B1-osa\n\nVastaa kolmeen tehtävään.\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2021-02-10T14:37:33.54535",
+          "max_score": null,
+          "groupping": null,
+          "id": 2348299,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "561b8067-5f66-46ba-a4c2-0e1a13c22892",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2020-06-02T07:39:30.857045"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Nelitahokas 12 p.**\n\n&NewLine;\n\nAineisto\n\n11.A [LINK url=https://yle.fi/plus/abitreenit/2020/kevat/2020-03-18\\_N\\_fi/attachments/index.html#11.%20A|text=GeoGebra-tiedosto: Nelitahokas]\n\n&NewLine;\n\nNelitahokkaassa [MATH text=ABCD] on [MATH text=AB=AC=BC=AD=BD=1]. Mikä on nelitahokkaan suurin mahdollinen tilavuus?\n\n&NewLine;\n\nVoit käyttää GeoGebra-tiedostoa 11. A tehtävän tilanteen hahmottamiseksi, mutta tämä ei ole välttämätöntä ratkaisun kannalta. Muista myös, että pelkät kokeilut eivät riitä matemaattisen väitteen perusteluksi.\n\n&NewLine;\n\n_Huom. Abitreenien harjoittelukokeessa ei voi käyttää kuvakaappauksia eikä kaavaeditoria._\n",
+          "deleted_at": null,
+          "feedback": "Nelitahokkaan pohja on tasasivuinen kolmio, 1\n\njonka sivun pituus on 1 ja korkeus √3/2 TAI sijoitus a = 1 kaavaan [MATH text=\\frac{\\sqrt{3}}{4}a^2] ja ala [MATH text=\\frac{\\sqrt{3}}{4}]. \n\n​\n\n(Tilavuus on suoraan verrannollinen pohjan pinta-alan ja korkeuden tuloon), jo-\n\nten maksimoidaan korkeus. \n\n​\n\nKorkeus on [MATH text=\\sqrt{\\frac{3}{4}−x^2}] tai  [MATH text=\\frac{\\sqrt{3}}{2}\\sinθ] (1 p.), jonka suurin arvo saavutetaan kun x = 0\n\ntai θ = 90 astetta (2 p.) TAI korkeus on suurimmillaan, kun kolmiot ABC ja\n\nABD ovat kohtisuorassa (3 p.). \n\nKorkeus on tällöin tasasivuisen kolmion korkeus, eli √3/2. \n\n⇒ Tilavuus on [MATH text=\\frac{1}{3}·\\frac{\\sqrt{3}}{2}·\\frac{\\sqrt{3}}{4}=\\frac{1}{8}].\n\n​\n\nTAI\n\n​\n\nTehtävä on periaatteessa mahdollista ratkaista myös asettamalla muu kuin tasa-\n\nsivuinen kolmio pohjaksi, muodostamalla tilavuuden lauseke, jonka derivoi, jne.\n\n​\n\nTällöin pisteet: pohjakolmion ala (2 p.), korkeuden lauseke (3 p.), tilavuuden\n\nlauseke (3 p.), derivointi ja nollakohdat (2 p.), sijoitus kaavaan ja johtopäätös\n\n(2 p.).\n",
+          "exam_id": 71709,
+          "content": {
+            "text": "**Nelitahokas 12 p.**\n\n&NewLine;\n\nAineisto\n\n11.A [LINK url=https://yle.fi/plus/abitreenit/2020/kevat/2020-03-18\\_N\\_fi/attachments/index.html#11.%20A|text=GeoGebra-tiedosto: Nelitahokas]\n\n&NewLine;\n\nNelitahokkaassa [MATH text=ABCD] on [MATH text=AB=AC=BC=AD=BD=1]. Mikä on nelitahokkaan suurin mahdollinen tilavuus?\n\n&NewLine;\n\nVoit käyttää GeoGebra-tiedostoa 11. A tehtävän tilanteen hahmottamiseksi, mutta tämä ei ole välttämätöntä ratkaisun kannalta. Muista myös, että pelkät kokeilut eivät riitä matemaattisen väitteen perusteluksi.\n\n&NewLine;\n\n_Huom. Abitreenien harjoittelukokeessa ei voi käyttää kuvakaappauksia eikä kaavaeditoria._\n",
+            "displayNumber": "11."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2021-02-10T14:37:33.550473",
+          "max_score": null,
+          "groupping": null,
+          "id": 2352611,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "f62bf10c-5c19-4702-9db8-4d8c8c4510c9",
+          "order_number": 14,
+          "multipart": true,
+          "created_at": "2020-06-02T08:37:48.558038"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Mallien luokittelu 12 p.**\n\n&NewLine;\n\nAlla on esitetty kuusi mallia. Merkitse kunkin lausekkeen osalta, kuvaako se suoraan verrannollista tai kääntäen verrannollista riippuvuutta. Valitse lisäksi, onko kyseessä polynominen tai eksponentiaalinen malli. Oikea vastaus 1 p., väärä vastaus 0 p., ei vastausta 0 p.\n\n&NewLine;\n\nVastauksia ei tarvitse perustella.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 71709,
+          "content": {
+            "text": "**Mallien luokittelu 12 p.**\n\n&NewLine;\n\nAlla on esitetty kuusi mallia. Merkitse kunkin lausekkeen osalta, kuvaako se suoraan verrannollista tai kääntäen verrannollista riippuvuutta. Valitse lisäksi, onko kyseessä polynominen tai eksponentiaalinen malli. Oikea vastaus 1 p., väärä vastaus 0 p., ei vastausta 0 p.\n\n&NewLine;\n\nVastauksia ei tarvitse perustella.\n",
+            "displayNumber": "3."
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "32bd3188-bb4b-4578-ad69-2d64cb76fa29",
+            "eedb2c86-4ff8-4f52-b57c-6b0eba8e30a3",
+            "7f67a1cc-440e-43e5-8c7f-1c39afc4c788",
+            "c66c9551-1c60-476f-9fa0-ebd356d83961",
+            "6dc62c10-0473-462a-a1ed-3738603a4a76",
+            "6195df5c-39da-4539-a39d-cb2cf79f89b0"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2021-02-10T14:37:33.552671",
+          "max_score": null,
+          "groupping": null,
+          "id": 2345492,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "89b3cdaf-69c5-4dd0-8406-d56a6abea783",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2020-06-01T12:50:14.075528"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Lapsiperhetilastoja 12 p.**\n\n&NewLine;\n\nAineisto\n\n6.A [LINK url=https://yle.fi/plus/abitreenit/2020/kevat/2020-03-18\\_N\\_fi/attachments/index.html#6.%20A|text=Taulukko: Lapsiperheet]\n\n&NewLine;\n\nTaulukossa 6. A on esitetty lapsiperheiden lasten lukumäärä Suomessa vuoden 2017 lopussa.\n\n&NewLine;\n\nLaske lapsiperheiden lasten lukumäärän moodi, mediaani ja keskiarvo. (6 p.)\n\nMikä on suomalaisen lapsiperheen lapsen sisarusten lukumäärän keskiarvo? (6 p.)\n\n&NewLine;\n\n_Huom. Abitreenien harjoittelukokeessa ei voi käyttää kuvakaappauksia eikä kaavaeditoria._\n",
+          "deleted_at": null,
+          "feedback": "moodi on 1 ja perustelu ”suurin frekvenssi” \n\nmediaani on 2 ja perustelu ”suhteellinen frekvenssi ylittää 0,5” \n\nkeskiarvo on 1,84786 ... ≈ 1,85 lasta\n\n&NewLine;\n\nJos perheessä on k lasta, niin jokaisella heistä on k − 1 sisarusta \n\n lasten kokonaismäärä 1046336 \n\nsisarusten kokonaismäärä 1464824 \n\nlaskettu keskiarvo omilla arvoilla (1,39955 ... ≈ 1,40)\n",
+          "exam_id": 71709,
+          "content": {
+            "text": "**Lapsiperhetilastoja 12 p.**\n\n&NewLine;\n\nAineisto\n\n6.A [LINK url=https://yle.fi/plus/abitreenit/2020/kevat/2020-03-18\\_N\\_fi/attachments/index.html#6.%20A|text=Taulukko: Lapsiperheet]\n\n&NewLine;\n\nTaulukossa 6. A on esitetty lapsiperheiden lasten lukumäärä Suomessa vuoden 2017 lopussa.\n\n&NewLine;\n\nLaske lapsiperheiden lasten lukumäärän moodi, mediaani ja keskiarvo. (6 p.)\n\nMikä on suomalaisen lapsiperheen lapsen sisarusten lukumäärän keskiarvo? (6 p.)\n\n&NewLine;\n\n_Huom. Abitreenien harjoittelukokeessa ei voi käyttää kuvakaappauksia eikä kaavaeditoria._\n",
+            "displayNumber": "6."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2021-02-10T14:37:33.554628",
+          "max_score": null,
+          "groupping": null,
+          "id": 2349590,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "f715e11b-5599-4b0d-b546-831593aef6ba",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2020-06-02T08:01:00.517105"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Lauseke [MATH text=x^2+3x-1]\n\n​\n\nRiippuvuus [SELECT id=15] 1 p.\n\n​\n\nMallin tyyppi [SELECT id=16] 1 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 71709,
+          "content": {
+            "text": "Lauseke [MATH text=x^2+3x-1]\n\n​\n\nRiippuvuus [SELECT id=15] 1 p.\n\n​\n\nMallin tyyppi [SELECT id=16] 1 p.\n"
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2021-02-10T14:37:33.556825",
+          "max_score": 2,
+          "groupping": null,
+          "id": 2347626,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 15,
+              "parent": "c66c9551-1c60-476f-9fa0-ebd356d83961",
+              "choices": [
+                {
+                  "id": "e6f655f5-7268-48dd-89f3-e8a8ca4e758b",
+                  "text": "suoraan verrannollinen"
+                },
+                {
+                  "id": "05fc5ca1-7395-46b9-bae6-2fbd2d37eecc",
+                  "text": "kääntäen verrannollinen",
+                  "correct": false
+                },
+                {
+                  "id": "f4b68fed-e7a5-4e0b-b387-2b84b12b46b3",
+                  "text": "ei kumpikaan",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 16,
+              "parent": "c66c9551-1c60-476f-9fa0-ebd356d83961",
+              "choices": [
+                {
+                  "id": "948ace7f-e970-45fa-b1e7-654be391caae",
+                  "text": "polynominen",
+                  "correct": true
+                },
+                {
+                  "id": "ec488ca8-b02a-44b4-bf91-ed2bf5a77ab0",
+                  "text": "eksponentiaalinen",
+                  "correct": false
+                },
+                {
+                  "id": "f1e9c6f6-e025-4a18-9085-14df07c1ca5a",
+                  "text": "ei kumpikaan",
+                  "correct": false
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "c66c9551-1c60-476f-9fa0-ebd356d83961",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2020-06-02T07:34:26.699602"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Lauseke [MATH text=\\frac{4x+2}{2x^2+x}]\n\n​\n\nRiippuvuus [SELECT id=15] 1 p.\n\n​\n\nMallin tyyppi [SELECT id=16] 1 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 71709,
+          "content": {
+            "text": "Lauseke [MATH text=\\frac{4x+2}{2x^2+x}]\n\n​\n\nRiippuvuus [SELECT id=15] 1 p.\n\n​\n\nMallin tyyppi [SELECT id=16] 1 p.\n"
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2021-02-10T14:37:33.558918",
+          "max_score": 2,
+          "groupping": null,
+          "id": 2348157,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 15,
+              "parent": "6195df5c-39da-4539-a39d-cb2cf79f89b0",
+              "choices": [
+                {
+                  "id": "5c26624d-0438-4f60-a89c-2d2e2dd7f3ef",
+                  "text": "suoraan verrannollinen",
+                  "correct": false
+                },
+                {
+                  "id": "c810a3a9-6927-4ef8-9c4d-05e60d00a54a",
+                  "text": "kääntäen verrannollinen",
+                  "correct": true
+                },
+                {
+                  "id": "a97a175a-197b-4d7a-891c-9ed69de912fd",
+                  "text": "ei kumpikaan",
+                  "correct": false
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 16,
+              "parent": "6195df5c-39da-4539-a39d-cb2cf79f89b0",
+              "choices": [
+                {
+                  "id": "667249e4-1f95-4118-8ab3-b8f3bfca2fc5",
+                  "text": "polynominen",
+                  "correct": false
+                },
+                {
+                  "id": "b79f3f99-8927-4a59-a639-20661128cf66",
+                  "text": "eksponentiaalinen",
+                  "correct": false
+                },
+                {
+                  "id": "adf8f589-7ca2-461d-b4d4-24ea90d9cb1c",
+                  "text": "ei kumpikaan",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "6195df5c-39da-4539-a39d-cb2cf79f89b0",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2020-06-02T07:37:49.039133"
+        }
+      ],
+      "name": "Matematiikka, lyhyt oppimäärä kevät 2020",
+      "settings": {
+        "overrideTitle": true
+      },
+      "exam_type": "yo-koe",
+      "classification": {
+        "category": "",
+        "disable_saving": false,
+        "hide_review_buttons": false,
+        "exam_type": "yo-koe",
+        "year": "2020",
+        "language": "fi-FI",
+        "hide_statistics": false,
+        "show_exam_series": false,
+        "force_yletunnus": false,
+        "subject": "matematiikka-lyhyt",
+        "published": true,
+        "semester": "spring"
+      },
+      "published_at": "2020-06-02T10:30:29.000Z",
+      "language": "fi-FI",
+      "id": 71709,
+      "reviews": [],
+      "is_open": true,
+      "uuid": "b0c9c401-f09a-450a-a17b-008d3568aac0"
+    }
+  ]
+}

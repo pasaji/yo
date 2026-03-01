@@ -1,0 +1,2822 @@
+{
+  "meta": {
+    "count": 1
+  },
+  "data": [
+    {
+      "tags": [
+        ""
+      ],
+      "main_text": "​\n",
+      "characters": null,
+      "deleted_at": null,
+      "series_uuids": [],
+      "questions": [
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**3 PRODUCTION**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 8737,
+          "content": {
+            "text": "**3 PRODUCTION**\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-06-21T11:24:45.449707",
+          "max_score": null,
+          "groupping": null,
+          "id": 224000,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "a2cd0cf9-e488-406c-8ff8-77e78980e570",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2017-06-21T08:46:30.991947"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**2 GRAMMAR AND VOCABULARY**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 8737,
+          "content": {
+            "text": "**2 GRAMMAR AND VOCABULARY**\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-06-21T11:24:45.452721",
+          "max_score": null,
+          "groupping": null,
+          "id": 223999,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "dd19543c-3519-44a4-a5d6-36cacae11302",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2017-06-21T08:46:30.989297"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**1 READING COMPREHENSION**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 8737,
+          "content": {
+            "text": "**1 READING COMPREHENSION**\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-06-21T11:24:45.455629",
+          "max_score": null,
+          "groupping": null,
+          "id": 223998,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "7d8a1cc1-3010-43b4-b858-00f423a631f1",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-06-21T08:46:30.986229"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Read the text carefully and for each _item (26–55) choose the alternative that __**best **__fits the context. _\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 8737,
+          "content": {
+            "text": "Read the text carefully and for each _item (26–55) choose the alternative that __**best **__fits the context. _\n",
+            "questionType": "grammar",
+            "displayNumber": "2.1"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "65f1f0da-12bc-49a7-8357-bebb95c201c8"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-06-21T11:24:45.458594",
+          "max_score": null,
+          "groupping": null,
+          "id": 224002,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "ead156f7-5570-4d78-85fc-d9ec25066e45",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2017-06-21T08:46:30.997201"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "_Write a composition of between 150 and 250 words on one of the following topics. Follow the guidance._\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 8737,
+          "content": {
+            "text": "_Write a composition of between 150 and 250 words on one of the following topics. Follow the guidance._\n",
+            "questionType": "writing"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "aebdb54b-aa08-4780-b5ba-991665834c28",
+            "9e054562-6df3-4c13-81f1-c2eb6ca7c11d",
+            "d18790b4-d255-4991-807a-5a034fa8948b",
+            "c95e8d3c-4e96-4cb0-9995-2a4d22ec1785"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-06-21T11:24:45.461403",
+          "max_score": null,
+          "groupping": null,
+          "id": 224001,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "0cfd5ce6-edfe-402a-96aa-c723229d0cac",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2017-06-21T08:46:30.994736"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**My Kind of TV-programmes **\n\nThe BBC is planning its programmes for the coming year. Write an online letter to the directors to suggest the kinds of programmes you would like to watch and at what times of the day/week. Give reasons for your suggestions.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 8737,
+          "content": {
+            "text": "**My Kind of TV-programmes **\n\nThe BBC is planning its programmes for the coming year. Write an online letter to the directors to suggest the kinds of programmes you would like to watch and at what times of the day/week. Give reasons for your suggestions.\n",
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:24:45.46439",
+          "max_score": null,
+          "groupping": null,
+          "id": 224023,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "c95e8d3c-4e96-4cb0-9995-2a4d22ec1785",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2017-06-21T08:47:54.128727"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "_Fill in the blanks using the suggestions where given._\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 8737,
+          "content": {
+            "text": "_Fill in the blanks using the suggestions where given._\n",
+            "questionType": "grammar",
+            "displayNumber": "2.2"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "efa90a55-0be9-4aea-9d80-54e001db981c"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-06-21T11:24:45.467259",
+          "max_score": null,
+          "groupping": null,
+          "id": 224003,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "ab304d8c-884f-4984-a988-7d041010de36",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2017-06-21T08:46:31.000105"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Jesus Christ and the legends of Glastonbury**\n\n​\n\nSung at rugby matches and patriotic occasions like the Last Night of the Proms, [SELECT id=11] hymn ‘Jerusalem’ has become England’s unofficial national anthem. Its uplifting lines conjure up the wild idea that Jesus Christ himself set foot in England at some moment during [SELECT id=12] thirty-three years on earth. If Pytheas the Greek and Julius Caesar could make [SELECT id=13] from the Mediterranean, why not the Saviour?\n\n​\n\nIt could not possibly be. If Christ [SELECT id=14] the time and means to travel the five thousand miles all the way from Palestine across Europe to England and back again in the [SELECT id=15] of his brief life, it would certainly have been recorded in the Gospels. And would not Christ himself have referred to the great adventure [SELECT id=16] in his teaching?\n\n​\n\nThe myth has entered the folk memory sideways, through the fables inspired by Joseph of Arimathea, the rich disciple who [SELECT id=17] the tomb for Christ’s body after the crucifixion. The Gospels tell us quite a lot about Joseph (not to be confused [SELECT id=18] Christ’s father, Joseph the carpenter).\n\n​\n\nA well-respected member of the Sanhedrin, or the Supreme Council of the Jews, Joseph had kept secret his dangerous conversion to the message of Jesus. [SELECT id=19] was only a man of such standing who could have gone to Pontius Pilate, the Roman governor of Judaea, and [SELECT id=20] for Christ’s dead body.\n\n​\n\nBut over the centuries – and we [SELECT id=21] of more than a dozen centuries – extra exploits were attributed to this substantial and intriguing character. Joseph [SELECT id=22] to have been one of the disciples who travelled to northern Europe preaching the gospel. He was credited with [SELECT id=23] the first monastery in Britain. Other tales supposed that he had made his wealth in the metals trade, and had been in the [SELECT id=24] of visiting the south-west in search of Cornwall’s tin and Somerset’s high-quality lead. [SELECT id=25] even imagined that Joseph was the uncle of the Virgin Mary, and therefore the great-uncle of Christ, [SELECT id=26] might have brought the boy along on one of his business trips to the region.\n\n​\n\nIn 1502 came the first mention of a [SELECT id=27] relic that might lend some substance to these extraordinary tales – a hawthorn bush growing at Glastonbury Abbey in Somerset. Blossoming unusually around Christmastime, in the depths of winter and on Christ’s birthday, it was known as the Holy Thorn and was said to have been planted by Joseph of Arimathea himself when he [SELECT id=28] his staff into the ground and it took root. It was further said that Joseph had cut his staff from [SELECT id=29] same bush as Christ’s crown of thorns – and modern botanists have established that the Glastonbury thorn, a pinkish-flowered hawthorn, is indeed a plant that originated in the Middle East. It blooms in Glastonbury to this day and the first sprig of blossom is ceremonially cut every year and presented to the Queen, who [SELECT id=30] it on her desk over Christmas.\n\n​\n\nIn 1808, at the height of Britain’s bitter wars against Napoleon, the artist and poet William Blake pulled together the elements of the various Jesus and Glastonbury legends [SELECT id=31] the poem that we now know as ‘Jerusalem’. Blake was a mystic and a radical, then making his living in a grimy engraving workshop in the sooty slums of London, where he dreamed of angels. He abhorred [SELECT id=32] he memorably described as the ‘dark satanic mills’ of industrial Britain, and he nursed the vision that a shining new society might be built. Jerusalem in our own day [SELECT id=33] be a sadly afflicted and tragically unholy place, but to Blake it was something glorious.\n\n​\n\nJust over a century later, during the horrors of World War I when the flower of Europe’s youth [SELECT id=34] slaughtered in the trenches of northern France, the composer Hubert Parry set the visionary words to music. [SELECT id=35] first time the stirring strains of ‘Jerusalem’ were heard in public was at a ‘Votes for Women’ concert in 1916, setting the note of reform and regeneration that the anthem retains to this day.\n\n​\n\nLet us say one more time – we can be as sure [SELECT id=36] the sun rises that Jesus Christ [SELECT id=37] set foot in Glastonbury, or anywhere else in England. The legend of Joseph of Arimathea is not history. But over the centuries the story would play its part in inspiring history. In words and music, ‘Jerusalem’ gives wing to the sense of hope and shared endeavour that a community needs if it [SELECT id=38] to believe in itself – a vision of a national spirit as clean and [SELECT id=39] as England’s beautiful green countryside. Things may be good, but [SELECT id=40] get too self-satisfied – ‘better must come’. [CITE source=Robert Lacey, Great Tales from English History. London 2008 (2003).]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 8737,
+          "content": {
+            "text": "**Jesus Christ and the legends of Glastonbury**\n\n​\n\nSung at rugby matches and patriotic occasions like the Last Night of the Proms, [SELECT id=11] hymn ‘Jerusalem’ has become England’s unofficial national anthem. Its uplifting lines conjure up the wild idea that Jesus Christ himself set foot in England at some moment during [SELECT id=12] thirty-three years on earth. If Pytheas the Greek and Julius Caesar could make [SELECT id=13] from the Mediterranean, why not the Saviour?\n\n​\n\nIt could not possibly be. If Christ [SELECT id=14] the time and means to travel the five thousand miles all the way from Palestine across Europe to England and back again in the [SELECT id=15] of his brief life, it would certainly have been recorded in the Gospels. And would not Christ himself have referred to the great adventure [SELECT id=16] in his teaching?\n\n​\n\nThe myth has entered the folk memory sideways, through the fables inspired by Joseph of Arimathea, the rich disciple who [SELECT id=17] the tomb for Christ’s body after the crucifixion. The Gospels tell us quite a lot about Joseph (not to be confused [SELECT id=18] Christ’s father, Joseph the carpenter).\n\n​\n\nA well-respected member of the Sanhedrin, or the Supreme Council of the Jews, Joseph had kept secret his dangerous conversion to the message of Jesus. [SELECT id=19] was only a man of such standing who could have gone to Pontius Pilate, the Roman governor of Judaea, and [SELECT id=20] for Christ’s dead body.\n\n​\n\nBut over the centuries – and we [SELECT id=21] of more than a dozen centuries – extra exploits were attributed to this substantial and intriguing character. Joseph [SELECT id=22] to have been one of the disciples who travelled to northern Europe preaching the gospel. He was credited with [SELECT id=23] the first monastery in Britain. Other tales supposed that he had made his wealth in the metals trade, and had been in the [SELECT id=24] of visiting the south-west in search of Cornwall’s tin and Somerset’s high-quality lead. [SELECT id=25] even imagined that Joseph was the uncle of the Virgin Mary, and therefore the great-uncle of Christ, [SELECT id=26] might have brought the boy along on one of his business trips to the region.\n\n​\n\nIn 1502 came the first mention of a [SELECT id=27] relic that might lend some substance to these extraordinary tales – a hawthorn bush growing at Glastonbury Abbey in Somerset. Blossoming unusually around Christmastime, in the depths of winter and on Christ’s birthday, it was known as the Holy Thorn and was said to have been planted by Joseph of Arimathea himself when he [SELECT id=28] his staff into the ground and it took root. It was further said that Joseph had cut his staff from [SELECT id=29] same bush as Christ’s crown of thorns – and modern botanists have established that the Glastonbury thorn, a pinkish-flowered hawthorn, is indeed a plant that originated in the Middle East. It blooms in Glastonbury to this day and the first sprig of blossom is ceremonially cut every year and presented to the Queen, who [SELECT id=30] it on her desk over Christmas.\n\n​\n\nIn 1808, at the height of Britain’s bitter wars against Napoleon, the artist and poet William Blake pulled together the elements of the various Jesus and Glastonbury legends [SELECT id=31] the poem that we now know as ‘Jerusalem’. Blake was a mystic and a radical, then making his living in a grimy engraving workshop in the sooty slums of London, where he dreamed of angels. He abhorred [SELECT id=32] he memorably described as the ‘dark satanic mills’ of industrial Britain, and he nursed the vision that a shining new society might be built. Jerusalem in our own day [SELECT id=33] be a sadly afflicted and tragically unholy place, but to Blake it was something glorious.\n\n​\n\nJust over a century later, during the horrors of World War I when the flower of Europe’s youth [SELECT id=34] slaughtered in the trenches of northern France, the composer Hubert Parry set the visionary words to music. [SELECT id=35] first time the stirring strains of ‘Jerusalem’ were heard in public was at a ‘Votes for Women’ concert in 1916, setting the note of reform and regeneration that the anthem retains to this day.\n\n​\n\nLet us say one more time – we can be as sure [SELECT id=36] the sun rises that Jesus Christ [SELECT id=37] set foot in Glastonbury, or anywhere else in England. The legend of Joseph of Arimathea is not history. But over the centuries the story would play its part in inspiring history. In words and music, ‘Jerusalem’ gives wing to the sense of hope and shared endeavour that a community needs if it [SELECT id=38] to believe in itself – a vision of a national spirit as clean and [SELECT id=39] as England’s beautiful green countryside. Things may be good, but [SELECT id=40] get too self-satisfied – ‘better must come’. [CITE source=Robert Lacey, Great Tales from English History. London 2008 (2003).]\n"
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:24:45.474151",
+          "max_score": null,
+          "groupping": null,
+          "id": 224287,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 11,
+              "choices": [
+                {
+                  "id": "7555e47a-0c06-40d7-adac-62ee05c5a6cc",
+                  "text": "a"
+                },
+                {
+                  "id": "52ab2bed-3df8-4dd9-8475-452363c08ec2",
+                  "text": "an"
+                },
+                {
+                  "id": "9e91ade7-5621-46fe-9869-fc72f8208b7a",
+                  "text": "the",
+                  "correct": true
+                },
+                {
+                  "id": "92d606d2-5a92-46e8-abfc-e64925b9af77",
+                  "text": "-"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 12,
+              "choices": [
+                {
+                  "id": "ac035f01-6c80-499e-867c-ee451db51ac4",
+                  "text": "all"
+                },
+                {
+                  "id": "b396365e-9fd2-46e3-83e0-ab18b7260f51",
+                  "text": "his",
+                  "correct": true
+                },
+                {
+                  "id": "796438c9-0ab6-4ae8-b386-395b23b9c7c7",
+                  "text": "the"
+                },
+                {
+                  "id": "acde94ec-d887-4330-bdcb-d126ac5d92dd",
+                  "text": "-"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 13,
+              "hint": "",
+              "choices": [
+                {
+                  "id": "347522cf-1eda-47bf-b373-3a5aeaa92456",
+                  "text": "it",
+                  "correct": true
+                },
+                {
+                  "id": "bb5b3211-59e6-4033-89b5-ea62d071dae6",
+                  "text": "that"
+                },
+                {
+                  "id": "171dcb1f-1c86-4d4a-9511-cfe0f1f09e8a",
+                  "text": "them"
+                },
+                {
+                  "id": "3b2078a1-d0b7-40d7-9dc3-226656705fce",
+                  "text": "-"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 14,
+              "choices": [
+                {
+                  "id": "562ea1e3-f8c5-4153-b687-a007225b4aa5",
+                  "text": "had"
+                },
+                {
+                  "id": "c2c2feb5-209c-4ef9-b202-e6584c268011",
+                  "text": "had had",
+                  "correct": true
+                },
+                {
+                  "id": "58f1032c-bd69-46b4-a89c-469820d538f8",
+                  "text": "would have"
+                },
+                {
+                  "id": "386d275c-b26d-4688-80dd-f35f350a7725",
+                  "text": "would have had"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 15,
+              "choices": [
+                {
+                  "id": "c86c1109-5926-4221-abda-1884861aad7b",
+                  "text": "cause"
+                },
+                {
+                  "id": "999bc9b3-e2e1-4e90-9476-d49b5b03d8d4",
+                  "text": "coarse"
+                },
+                {
+                  "id": "efbdcdd5-e150-4ca6-8384-f28ccc26470d",
+                  "text": "course",
+                  "correct": true
+                },
+                {
+                  "id": "1c9cb0c9-82ea-4d03-9509-adea47c89f28",
+                  "text": "curse"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 16,
+              "choices": [
+                {
+                  "id": "fd6de5af-abd7-45ee-9e53-7aeed6d088a4",
+                  "text": "anywhere"
+                },
+                {
+                  "id": "4e88daac-c3f2-49ca-ac6c-f3d93b2fe601",
+                  "text": "everywhere"
+                },
+                {
+                  "id": "dec35215-b3eb-4648-a986-17aaf334af05",
+                  "text": "nowhere"
+                },
+                {
+                  "id": "ae9927c9-dc0a-4f8c-a7e9-19fb04bf7daa",
+                  "text": "somewhere",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 17,
+              "choices": [
+                {
+                  "id": "0ca77fc6-7353-4538-aefe-9d866b9ad44d",
+                  "text": "provided",
+                  "correct": true
+                },
+                {
+                  "id": "b0423b31-95c7-490a-80b3-e34ad31f264b",
+                  "text": "provided for"
+                },
+                {
+                  "id": "79db3b29-626d-4f30-b352-439bbff30a35",
+                  "text": "has provided"
+                },
+                {
+                  "id": "469ca212-9dcb-474e-9cae-80e6f91aeb18",
+                  "text": "provided with"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 18,
+              "choices": [
+                {
+                  "id": "8f822170-18e2-42d2-bcce-7f7fc24608e7",
+                  "text": "by"
+                },
+                {
+                  "id": "a83f0555-b798-416c-87ae-706137f355a7",
+                  "text": "of"
+                },
+                {
+                  "id": "9981a5bb-f50e-40ba-bb6d-6279a9883c24",
+                  "text": "to"
+                },
+                {
+                  "id": "5a8d6510-4e7a-4904-bcae-23f77c14b1a4",
+                  "text": "with",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 19,
+              "choices": [
+                {
+                  "id": "6966d8e0-b79c-4c81-b0da-abeb00ba55c6",
+                  "text": "He"
+                },
+                {
+                  "id": "8624b037-22ae-4e32-9163-7c52237e6321",
+                  "text": "It",
+                  "correct": true
+                },
+                {
+                  "id": "e3d908e8-bb6e-4911-89e4-e6677a3f103b",
+                  "text": "One"
+                },
+                {
+                  "id": "9e5c3aac-15a2-4ec9-9488-55ab8a5e58f4",
+                  "text": "There"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 20,
+              "choices": [
+                {
+                  "id": "6f3340f2-4f1e-4c1a-91a2-a3f04da0de48",
+                  "text": "ask"
+                },
+                {
+                  "id": "bd3a0672-c234-4406-97a6-dd9bd6c1a706",
+                  "text": "asks"
+                },
+                {
+                  "id": "838e9df7-36ca-4eff-b936-6f0de1b6cb78",
+                  "text": "asked",
+                  "correct": true
+                },
+                {
+                  "id": "3a892793-dc0f-4974-a667-4df66e14dfc1",
+                  "text": "asking"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 21,
+              "choices": [
+                {
+                  "id": "4b126e0a-c98e-4c39-8a69-a4967eaf3008",
+                  "text": "talk"
+                },
+                {
+                  "id": "356da2ea-d656-4236-95ba-aca4c8bb82fc",
+                  "text": "talking"
+                },
+                {
+                  "id": "3416cd42-d6fb-46c7-bed4-8f4873b69b08",
+                  "text": "are talking",
+                  "correct": true
+                },
+                {
+                  "id": "7da09cc6-8917-45eb-9cff-3000ba8f8d76",
+                  "text": "have talked"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 22,
+              "choices": [
+                {
+                  "id": "464cc75b-fe52-403e-8c62-3124adc878bb",
+                  "text": "says"
+                },
+                {
+                  "id": "406f7cbe-a208-4613-822e-0f88306a3601",
+                  "text": "it is said"
+                },
+                {
+                  "id": "b5de9f14-e50c-45ee-a366-015f1cee9d52",
+                  "text": "is said",
+                  "correct": true
+                },
+                {
+                  "id": "4e06fb2f-e302-4f24-bf09-2c67d1d6717d",
+                  "text": "has said"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 23,
+              "choices": [
+                {
+                  "id": "4fb326af-c176-483f-8464-93be5c2b8108",
+                  "text": "finding"
+                },
+                {
+                  "id": "034d3200-1ddc-4aa9-b7b1-8a4899958978",
+                  "text": "founding",
+                  "correct": true
+                },
+                {
+                  "id": "d9c593ee-253f-4567-8252-69fbc8428202",
+                  "text": "to find"
+                },
+                {
+                  "id": "86af2d06-f042-4430-9fb6-2fcc39265b34",
+                  "text": "has founded"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 24,
+              "choices": [
+                {
+                  "id": "4aced326-b4d5-4b24-ab15-6f7258b05b96",
+                  "text": "custom"
+                },
+                {
+                  "id": "eecbc619-291c-4667-88c9-ee14e309904a",
+                  "text": "habit",
+                  "correct": true
+                },
+                {
+                  "id": "95038562-93f7-4b43-94ed-684158752a93",
+                  "text": "manner"
+                },
+                {
+                  "id": "9a16ebad-a945-4d91-8a9c-e2a438961ba5",
+                  "text": "way"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 25,
+              "choices": [
+                {
+                  "id": "135549af-0b3d-4b81-93c7-ccb932123a27",
+                  "text": "It was",
+                  "correct": true
+                },
+                {
+                  "id": "8cd60b5d-6603-4473-8527-e92a2e53be7f",
+                  "text": "It has"
+                },
+                {
+                  "id": "f3e5235c-3d36-4ae1-9f0d-39c79b8cbfea",
+                  "text": "There was"
+                },
+                {
+                  "id": "8bb27923-8aad-4396-9322-1d474779005e",
+                  "text": "There has"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 26,
+              "choices": [
+                {
+                  "id": "3a157d8b-3d72-4585-a1b0-7dc0bffd45da",
+                  "text": "although"
+                },
+                {
+                  "id": "1046708d-45de-4d43-a2bc-d0f3930126b7",
+                  "text": "and so",
+                  "correct": true
+                },
+                {
+                  "id": "ea39e995-4ae2-4955-9777-212a5fd4847a",
+                  "text": "and yet"
+                },
+                {
+                  "id": "5fa9f916-caf5-4408-8aa5-f926da680067",
+                  "text": "but"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 27,
+              "choices": [
+                {
+                  "id": "3e5aadb4-3802-4c92-a1bf-010feb630c6b",
+                  "text": "alive"
+                },
+                {
+                  "id": "42a13064-8740-4d99-9420-12961c52a358",
+                  "text": "life"
+                },
+                {
+                  "id": "70e45205-73fd-4a69-a486-07d2748d61b6",
+                  "text": "lively"
+                },
+                {
+                  "id": "e16467f7-d08b-418d-b98e-7e8ffad4f3ce",
+                  "text": "living",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 28,
+              "choices": [
+                {
+                  "id": "cc6df560-76e9-4620-851e-7b4944fb9649",
+                  "text": "stack"
+                },
+                {
+                  "id": "2c3b08cb-2216-475b-9372-0918772ddc50",
+                  "text": "stacked"
+                },
+                {
+                  "id": "67509b05-1497-4456-93dc-a52a4d8aa2a9",
+                  "text": "stick"
+                },
+                {
+                  "id": "7351fb32-4044-438d-8126-7bcfdb58216c",
+                  "text": "stuck",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 29,
+              "choices": [
+                {
+                  "id": "514090a5-0f53-4232-95d3-8fd31147801f",
+                  "text": "a"
+                },
+                {
+                  "id": "b510d03e-a91d-4311-874f-1f892c003f91",
+                  "text": "an"
+                },
+                {
+                  "id": "8146685e-0398-4826-80a3-e5bbeba8f106",
+                  "text": "the",
+                  "correct": true
+                },
+                {
+                  "id": "f7b906fa-59b9-4959-8f6f-4a38aae6a87c",
+                  "text": "-"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 30,
+              "choices": [
+                {
+                  "id": "0a537447-3200-490c-8999-5e22b27d0815",
+                  "text": "hold"
+                },
+                {
+                  "id": "7a46b6ee-1fe2-4466-8b2d-66a1ea11affd",
+                  "text": "keeps",
+                  "correct": true
+                },
+                {
+                  "id": "8b74fa25-10d6-4175-a580-9c724dac0db6",
+                  "text": "likes"
+                },
+                {
+                  "id": "1de43aa7-4b3e-42d6-994d-53d780b466c6",
+                  "text": "wears"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 31,
+              "choices": [
+                {
+                  "id": "cfeb27bb-c028-4c7e-82bd-8c8c8f5c268e",
+                  "text": "create"
+                },
+                {
+                  "id": "51442aaa-8b87-41df-841a-58a69875604b",
+                  "text": "to create",
+                  "correct": true
+                },
+                {
+                  "id": "3b255bc5-a48d-49c4-a6d7-2b9436010fbc",
+                  "text": "created"
+                },
+                {
+                  "id": "5c12bf8b-dc52-44dc-9e74-47129101c14f",
+                  "text": "has created"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 32,
+              "choices": [
+                {
+                  "id": "830a922c-9009-4f91-9ad4-8ea58621c369",
+                  "text": "that"
+                },
+                {
+                  "id": "6f8848c3-f1d6-4030-95bd-9b6211909bd7",
+                  "text": "what",
+                  "correct": true
+                },
+                {
+                  "id": "04c81086-6390-4888-8c5b-9040393727af",
+                  "text": "which"
+                },
+                {
+                  "id": "adec7b27-0760-441a-a059-5cc543457b09",
+                  "text": "-"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 33,
+              "choices": [
+                {
+                  "id": "9807fc03-5ab2-4784-a2db-89b6c3149345",
+                  "text": "may",
+                  "correct": true
+                },
+                {
+                  "id": "ffc1af57-c854-42bd-90e0-60f8009f19c2",
+                  "text": "must"
+                },
+                {
+                  "id": "18011dfc-1fe5-4153-92b0-840a51f1ec8a",
+                  "text": "ought"
+                },
+                {
+                  "id": "c45e2228-4c96-4fe0-9b23-55d9e175f9e5",
+                  "text": "shall"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 34,
+              "choices": [
+                {
+                  "id": "aa7c484b-735b-474a-95b2-7668950b852e",
+                  "text": "to be"
+                },
+                {
+                  "id": "c035f0ab-f933-4e2c-a361-c8e83071aba2",
+                  "text": "has been"
+                },
+                {
+                  "id": "29cd5331-d62c-48ad-8dc3-6cba73515c57",
+                  "text": "was"
+                },
+                {
+                  "id": "de684f98-3b89-4359-91da-2c583a280ae2",
+                  "text": "was being",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 35,
+              "choices": [
+                {
+                  "id": "f8e04081-32c3-4f3f-bdde-86311c2be45c",
+                  "text": "At"
+                },
+                {
+                  "id": "52f35a72-8e13-47d1-9471-cd743fe9ea80",
+                  "text": "For"
+                },
+                {
+                  "id": "2aa23e42-d54f-4774-a208-2d50fca08fa4",
+                  "text": "The",
+                  "correct": true
+                },
+                {
+                  "id": "126ec99e-cfa1-4d2a-a0cb-89826b211c9d",
+                  "text": "When"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 36,
+              "choices": [
+                {
+                  "id": "0bf2442e-a14f-4589-8a1f-4393b56ccc6f",
+                  "text": "as",
+                  "correct": true
+                },
+                {
+                  "id": "cb96726c-6877-41b7-b4e6-cb28c8f01fcd",
+                  "text": "than"
+                },
+                {
+                  "id": "4f1eba85-30c0-4c81-8b2a-3049574445b1",
+                  "text": "that"
+                },
+                {
+                  "id": "bea74775-1000-4423-8e86-8150973c2dc2",
+                  "text": "when"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 37,
+              "choices": [
+                {
+                  "id": "bf3d7a96-f742-489e-9fd2-6e981d9a5da6",
+                  "text": "did"
+                },
+                {
+                  "id": "fa778a5d-c2d3-432a-952f-580b5bc96ca2",
+                  "text": "did not",
+                  "correct": true
+                },
+                {
+                  "id": "577e59db-32c5-4bcc-9694-47cbbd248cef",
+                  "text": "might"
+                },
+                {
+                  "id": "5092eaeb-7ac2-476c-b3bd-f952720eb58f",
+                  "text": "might not"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 38,
+              "choices": [
+                {
+                  "id": "1e528772-6ead-401a-9cc6-a08844cbf73e",
+                  "text": "is",
+                  "correct": true
+                },
+                {
+                  "id": "2aef39b5-812a-4ca0-99bf-363fed268905",
+                  "text": "has"
+                },
+                {
+                  "id": "aacc207f-5d71-480b-80aa-b99b56d28949",
+                  "text": "was"
+                },
+                {
+                  "id": "751e7ab7-d512-4bb1-9166-ecfcb6d9f837",
+                  "text": "will"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 39,
+              "choices": [
+                {
+                  "id": "95c1eef4-9980-4220-ba00-11785759df89",
+                  "text": "poor"
+                },
+                {
+                  "id": "50b29300-e4e4-44b0-a055-21752853116c",
+                  "text": "pore"
+                },
+                {
+                  "id": "6efa23a5-a180-40dc-bdac-1cf26f0bedff",
+                  "text": "pour"
+                },
+                {
+                  "id": "c6a5fbd9-d30d-4035-8403-7dfddbb0da4b",
+                  "text": "pure",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 40,
+              "choices": [
+                {
+                  "id": "3365affc-d98b-4aaa-8aa9-e29af997a58f",
+                  "text": "let me"
+                },
+                {
+                  "id": "72b534cc-7e79-4b0f-bb3b-a28ed13bf6b8",
+                  "text": "let's"
+                },
+                {
+                  "id": "45c7a3fa-43d6-463a-b2f0-78719e0bf3a0",
+                  "text": "let us"
+                },
+                {
+                  "id": "87368e6b-529d-43cd-a677-90e1fbbd76fe",
+                  "text": "let us not",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "65f1f0da-12bc-49a7-8357-bebb95c201c8",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-06-21T09:00:46.490065"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mikä kalmareiden käytöksessä ihmetyttää tutkijoita?\n\n(Mainitse kaksi asiaa.)\n",
+          "deleted_at": null,
+          "feedback": "**4 p.**\n",
+          "exam_id": 8737,
+          "content": {
+            "text": "Mikä kalmareiden käytöksessä ihmetyttää tutkijoita?\n\n(Mainitse kaksi asiaa.)\n",
+            "displayNumber": "a)"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:24:45.478722",
+          "max_score": null,
+          "groupping": null,
+          "id": 224496,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "a2a2d138-cbe7-4796-9ca9-6173edb93fe1",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2017-06-21T09:18:51.053576"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**“If I ran the country, I’d throw Halloween on the bonfire”**\n\nThis is what Dominic Sandbrook writes in the _BBC History Magazine_. Is there any festive day you consider useless and why? Write a letter to the editor of this magazine and explain your reasons for getting rid of the festival you have chosen.\n\n​\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 8737,
+          "content": {
+            "text": "**“If I ran the country, I’d throw Halloween on the bonfire”**\n\nThis is what Dominic Sandbrook writes in the _BBC History Magazine_. Is there any festive day you consider useless and why? Write a letter to the editor of this magazine and explain your reasons for getting rid of the festival you have chosen.\n\n​\n",
+            "displayNumber": "3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:24:45.48264",
+          "max_score": null,
+          "groupping": null,
+          "id": 224022,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "d18790b4-d255-4991-807a-5a034fa8948b",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2017-06-21T08:47:54.125686"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Millä kahdella tavalla kalmareiden arvellaan lähiaikoina olevan haitaksi?\n",
+          "deleted_at": null,
+          "feedback": "**4 p.**\n",
+          "exam_id": 8737,
+          "content": {
+            "text": "Millä kahdella tavalla kalmareiden arvellaan lähiaikoina olevan haitaksi?\n",
+            "displayNumber": "b)"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:24:45.487325",
+          "max_score": null,
+          "groupping": null,
+          "id": 224495,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "5053f1d9-20db-4e7c-90cc-b324c88942ed",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2017-06-21T09:18:51.050914"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mikä Fernandon tavoite oli Kookossaarten kapinassa, ja miksi kapina epäonnistui?\n",
+          "deleted_at": null,
+          "feedback": "**4 p.**\n",
+          "exam_id": 8737,
+          "content": {
+            "text": "Mikä Fernandon tavoite oli Kookossaarten kapinassa, ja miksi kapina epäonnistui?\n"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:24:45.49032",
+          "max_score": null,
+          "groupping": null,
+          "id": 224536,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "0d50a48c-d1ca-4174-83c9-240a91e338ab",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2017-06-21T09:19:52.529207"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Minkä eron puolalaiset tutkijat löysivät miesten ja naisten välillä?\n",
+          "deleted_at": null,
+          "feedback": "**4 p.**\n",
+          "exam_id": 8737,
+          "content": {
+            "text": "Minkä eron puolalaiset tutkijat löysivät miesten ja naisten välillä?\n",
+            "displayNumber": "d)"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:24:45.493179",
+          "max_score": null,
+          "groupping": null,
+          "id": 224588,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "4e9e9d23-af2e-42de-894a-c2710abdb0c7",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2017-06-21T09:22:29.007493"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mitä ennen oletettiin tatuoimisen ja lävistysten syyksi, ja minkä uuden selityksen tutkimus antaa?\n",
+          "deleted_at": null,
+          "feedback": "**4 p.**\n",
+          "exam_id": 8737,
+          "content": {
+            "text": "Mitä ennen oletettiin tatuoimisen ja lävistysten syyksi, ja minkä uuden selityksen tutkimus antaa?\n",
+            "displayNumber": "e)"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:24:45.496045",
+          "max_score": null,
+          "groupping": null,
+          "id": 224589,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "fdcf844d-1c21-4ccb-ae83-4d92bbadb5dd",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2017-06-21T09:22:29.010115"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**1.1a Science update: Readers’ questions for the experts at Science Illustrated **\n\n​\n\n**Q:** Why can’t we tickle ourselves? \n\n**A:** Most people can’t resist giggling when their feet are tickled. But it’s nearly impossible to create the sensation by yourself. Researchers believe the reason for this resistance lies in our cerebellum, the region of the brain that controls motor function. \n\nIn 2000, neuroscientist Sarah-Jayne Blakemore and her colleagues imaged brain activity in six people as they tickled themselves and were tickled by a robot. When the subjects tickled themselves, the cerebellum anticipated the sensory reaction and stopped other sensory areas in the brain from responding. When the tickle was unexpected, the cerebellum didn’t stop the reaction. \n\n​\n\n**Q:** Is running in sneakers bad for you? \n\n**A:** In his 2009 book _Born to Run_, journalist Chris McDougall chronicled the barefoot running style of Mexico’s Tarahumara Indians. Their sneakerless long-distance treks and immunity to the kinds of foot and leg injuries that plague many runners helped spawn a subculture of barefoot joggers. Despite claims by barefoot enthusiasts that shoes hurt more than help by altering how our bodies naturally evolved to move, research into the subject is inconclusive. As of yet, there is no evidence that directly supports either argument, says Benno Nigg, an expert in biomechanics. His research suggests that our bodies adjust to whatever footwear we have on. \n\n​\n\n**Q:** Where does matter that gets sucked into a black hole end up? \n\n**A:** One theory is that white holes, which have never actually been observed, expel matter sucked into black holes back into the universe. The concept is an entirely mathematical solution to the equations in Albert Einstein’s general theory of relativity, which explains how gravity governs time and space.\n\nAfter using Einstein’s equations to support the existence of black holes – where gravity pulls matter and light seemingly into oblivion – physicists started questioning where that matter goes. In 1935, Einstein and Nathan Rosen suggested that a bridge, or wormhole, might connect a black hole to a white hole that discharges the matter. One problem: white holes can exist only in a universe where time can move backward, which is improbable in our universe. But scientists haven’t ruled out the possibility that they exist in other universes, which, of course, also have yet to be observed. \n\nOther scientists, however, have suggested what is perhaps a more plausible explanation: the matter getting sucked into a black hole could get stretched and torn apart, and eventually become part of the black hole itself. [CITE source=Science Illustrated, November / December 2010]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 8737,
+          "content": {
+            "text": "**1.1a Science update: Readers’ questions for the experts at Science Illustrated **\n\n​\n\n**Q:** Why can’t we tickle ourselves? \n\n**A:** Most people can’t resist giggling when their feet are tickled. But it’s nearly impossible to create the sensation by yourself. Researchers believe the reason for this resistance lies in our cerebellum, the region of the brain that controls motor function. \n\nIn 2000, neuroscientist Sarah-Jayne Blakemore and her colleagues imaged brain activity in six people as they tickled themselves and were tickled by a robot. When the subjects tickled themselves, the cerebellum anticipated the sensory reaction and stopped other sensory areas in the brain from responding. When the tickle was unexpected, the cerebellum didn’t stop the reaction. \n\n​\n\n**Q:** Is running in sneakers bad for you? \n\n**A:** In his 2009 book _Born to Run_, journalist Chris McDougall chronicled the barefoot running style of Mexico’s Tarahumara Indians. Their sneakerless long-distance treks and immunity to the kinds of foot and leg injuries that plague many runners helped spawn a subculture of barefoot joggers. Despite claims by barefoot enthusiasts that shoes hurt more than help by altering how our bodies naturally evolved to move, research into the subject is inconclusive. As of yet, there is no evidence that directly supports either argument, says Benno Nigg, an expert in biomechanics. His research suggests that our bodies adjust to whatever footwear we have on. \n\n​\n\n**Q:** Where does matter that gets sucked into a black hole end up? \n\n**A:** One theory is that white holes, which have never actually been observed, expel matter sucked into black holes back into the universe. The concept is an entirely mathematical solution to the equations in Albert Einstein’s general theory of relativity, which explains how gravity governs time and space.\n\nAfter using Einstein’s equations to support the existence of black holes – where gravity pulls matter and light seemingly into oblivion – physicists started questioning where that matter goes. In 1935, Einstein and Nathan Rosen suggested that a bridge, or wormhole, might connect a black hole to a white hole that discharges the matter. One problem: white holes can exist only in a universe where time can move backward, which is improbable in our universe. But scientists haven’t ruled out the possibility that they exist in other universes, which, of course, also have yet to be observed. \n\nOther scientists, however, have suggested what is perhaps a more plausible explanation: the matter getting sucked into a black hole could get stretched and torn apart, and eventually become part of the black hole itself. [CITE source=Science Illustrated, November / December 2010]\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:24:45.498932",
+          "max_score": null,
+          "groupping": null,
+          "id": 224726,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "67f02d33-fb77-4277-aa54-ec1430e57721",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-06-21T09:26:31.71518"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "_Lue seuraavat tekstit ja vastaa niiden pohjalta __**lyhyesti suomeksi**__ kysymyksiin a–e._\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 8737,
+          "content": {
+            "text": "_Lue seuraavat tekstit ja vastaa niiden pohjalta __**lyhyesti suomeksi**__ kysymyksiin a–e._\n",
+            "questionType": "reading",
+            "displayNumber": "1.2"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "547d039c-1382-49c7-afb2-d99e3329d536",
+            "5053f1d9-20db-4e7c-90cc-b324c88942ed",
+            "a2a2d138-cbe7-4796-9ca9-6173edb93fe1",
+            "b3fff134-1dfc-4426-b5df-540789995d6e",
+            "0d50a48c-d1ca-4174-83c9-240a91e338ab",
+            "05c882e7-1411-4327-a32e-b5a1b5d88945",
+            "4e9e9d23-af2e-42de-894a-c2710abdb0c7",
+            "fdcf844d-1c21-4ccb-ae83-4d92bbadb5dd"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-06-21T11:24:45.502139",
+          "max_score": null,
+          "groupping": null,
+          "id": 224011,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "0a04fb50-30b6-43ba-8e01-d09ba8b4d189",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2017-06-21T08:46:44.675475"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Chalk and Talk or More Modern Technology?** \n\nYou have been invited to give the students’ point-of-view in a youth delegation discussing what makes good teaching. Are traditional methods, like blackboards and exercise books, enough, or do we need the latest gadgets? Write your speech.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 8737,
+          "content": {
+            "text": "**Chalk and Talk or More Modern Technology?** \n\nYou have been invited to give the students’ point-of-view in a youth delegation discussing what makes good teaching. Are traditional methods, like blackboards and exercise books, enough, or do we need the latest gadgets? Write your speech.\n",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:24:45.505106",
+          "max_score": null,
+          "groupping": null,
+          "id": 224020,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "aebdb54b-aa08-4780-b5ba-991665834c28",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-06-21T08:47:54.116418"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**American Pet Ownership **\n\nConsider the statistics below and explain what they tell about pets owned by Americans. What do these figures reveal about the owners and the society they live in? Do not repeat these numbers in your composition, but instead draw conclusions from them. [IMS id=39-410961594a3373267cf|caption=Source: AAPMA statistics, exoticpets.about.com]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 8737,
+          "content": {
+            "text": "**American Pet Ownership **\n\nConsider the statistics below and explain what they tell about pets owned by Americans. What do these figures reveal about the owners and the society they live in? Do not repeat these numbers in your composition, but instead draw conclusions from them. [IMS id=39-410961594a3373267cf|caption=Source: AAPMA statistics, exoticpets.about.com]\n",
+            "displayNumber": "4."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:24:45.507974",
+          "max_score": null,
+          "groupping": null,
+          "id": 224021,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "9e054562-6df3-4c13-81f1-c2eb6ca7c11d",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2017-06-21T08:47:54.121096"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**1.1b Old world, new world**\n\n​\n\nThe first American pilgrims happened to live in the midst of perhaps the most exciting period in the history of the English language – a time when 12,000 words were being added to the language at home and revolutionary activities were taking place in every realm of human endeavour. It was also a time of considerable change in the structure of the language. The 104 pilgrims who sailed from Plymouth in 1620 were among the first generation of people to use the _s_ form with verbs, saying _has_ rather than _hath_, _runs_ rather than _runneth_. Similarly, _thee_ and _thou_ pronoun forms were dying out. Had the pilgrims come a quarter of a century earlier, America might well have preserved those forms, as it preserved other archaisms such as _gotten_. \n\n​\n\nThe new settlers in America obviously had to come up with new words to describe their New World, and this necessity naturally increased as they moved inland. Partly this was achieved by borrowing from others who inhabited or explored the untamed continent. From the Dutch they took _landscape_ and _cookie_. They also may have taken Yankee, as a corruption of the Dutch Jan Kees (‘John Cheese’). The suggestion is that Jan Kees was a name used for a Dutchman in America, rather like John Bull for an Englishman, but the historical evidence is slight. \n\n​\n\nOften the new immigrants borrowed Indian terms, though these could take some swallowing. Consequently, Indian loanwords were often shortened and modified. The English-sounding _hickory_ was created out of the Indian _pawcohiccora_. Some idea of the bewilderments of Indian orthography is indicated by the fact that _Chippewa_ and _Ojibway_ are different names for the same tribe as interpreted by different people at different times. Sometimes words went through many transformations before they sat comfortably on the English-speaking tongue. Manhattan has been variously recorded as _Manhates_, _Manthanes_, _Manhattae_, and at least half a dozen others. Even the simple word Iowa has been recorded with sixty-four spellings. Despite the difficulties of rendering them into English, Indian names were borrowed for the names of more than half the American states and for countless thousands of rivers, lakes, and towns. Yet Americans borrowed no more than three or four dozen Indian words for everyday objects – among them _canoe_, _raccoon_, _hammock_, and _tobacco_. [CITE source=Bill Bryson, Mother Tongue, 1991]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 8737,
+          "content": {
+            "text": "**1.1b Old world, new world**\n\n​\n\nThe first American pilgrims happened to live in the midst of perhaps the most exciting period in the history of the English language – a time when 12,000 words were being added to the language at home and revolutionary activities were taking place in every realm of human endeavour. It was also a time of considerable change in the structure of the language. The 104 pilgrims who sailed from Plymouth in 1620 were among the first generation of people to use the _s_ form with verbs, saying _has_ rather than _hath_, _runs_ rather than _runneth_. Similarly, _thee_ and _thou_ pronoun forms were dying out. Had the pilgrims come a quarter of a century earlier, America might well have preserved those forms, as it preserved other archaisms such as _gotten_. \n\n​\n\nThe new settlers in America obviously had to come up with new words to describe their New World, and this necessity naturally increased as they moved inland. Partly this was achieved by borrowing from others who inhabited or explored the untamed continent. From the Dutch they took _landscape_ and _cookie_. They also may have taken Yankee, as a corruption of the Dutch Jan Kees (‘John Cheese’). The suggestion is that Jan Kees was a name used for a Dutchman in America, rather like John Bull for an Englishman, but the historical evidence is slight. \n\n​\n\nOften the new immigrants borrowed Indian terms, though these could take some swallowing. Consequently, Indian loanwords were often shortened and modified. The English-sounding _hickory_ was created out of the Indian _pawcohiccora_. Some idea of the bewilderments of Indian orthography is indicated by the fact that _Chippewa_ and _Ojibway_ are different names for the same tribe as interpreted by different people at different times. Sometimes words went through many transformations before they sat comfortably on the English-speaking tongue. Manhattan has been variously recorded as _Manhates_, _Manthanes_, _Manhattae_, and at least half a dozen others. Even the simple word Iowa has been recorded with sixty-four spellings. Despite the difficulties of rendering them into English, Indian names were borrowed for the names of more than half the American states and for countless thousands of rivers, lakes, and towns. Yet Americans borrowed no more than three or four dozen Indian words for everyday objects – among them _canoe_, _raccoon_, _hammock_, and _tobacco_. [CITE source=Bill Bryson, Mother Tongue, 1991]\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:24:45.510836",
+          "max_score": null,
+          "groupping": null,
+          "id": 224796,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "8e5bc180-6fae-4c8d-bab5-791d1913cad1",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2017-06-21T09:31:36.902789"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**1.1c Shuffle up and deal**\n\n​\n\nPinpointing a precise moment when the world changes is never easy, even in retrospect. Yet it is possible to say with relative confidence that the world of gambling was changed dramatically by an event around a green felt table at Binion’s Horseshoe in Las Vegas on May 23rd, 2003, the final day of that year’s World Series of Poker (WSOP). The hand immediately preceding the final table – the last nine of the tournament’s 839 competitors who would play for $2.5m – pitted Phil Ivey, one of the sharpest and most ruthless players of his time, against Chris Moneymaker, an unknown 27-year-old accountant from Nashville. The newcomer eliminated Mr Ivey thanks to a lucky draw on the last card dealt. Mr Ivey, a stone-faced old-school player, declined to shake hands. Mr Moneymaker went on to win the tournament. \n\n​\n\nHis victory created what came to be called “the Moneymaker effect”: interest in poker soared. Suddenly spending time playing a game on a computer looked like a road to riches. And those riches seemed attainable. The stars in poker, unlike those in professional sport, look very much like the spectators; they just happen to be more successful. In the years since Mr Moneymaker’s victory, the tournament has variously been won by a patent lawyer, a Hollywood agent and a 21-year-old professional poker player. \n\n​\n\nIt is not just professional poker that has changed out of all recognition in the past decade, but all forms of gambling worldwide. The reason has been simple: for the first time anyone who wants to gamble and has an internet connection can do so. The desire has been there for much of recorded history. An excavation of a bronze-age city in south-eastern Iran turned up a pair of dice dating back nearly 5,000 years. Islam forbids gambling, but the Bible mentions casting lots to determine an outcome.\n\n​\n\nGambling’s widespread and enduring appeal comes as much from the hope of imposing order on the fundamental randomness of the world as from the expectation of economic gain (though that certainly has its charms). Blaming a bad result on an offended spirit or a good result on divine favour is far more comforting than accepting the cold indifference of probability. \n\n​\n\nObviously, the numbers make most forms of gambling a useless game. The odds of winning the jackpot in America’s richest lottery are one in 176m, whereas a European version available to players in nine western European countries, offers slightly better odds: one in 76m. Roulette players, on average, will hit their number once in 36 or 37 attempts. Poker players’ chances of being dealt a royal flush are much the same as being struck by lightning. [CITE source=The Economist, July 8, 2010]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 8737,
+          "content": {
+            "text": "**1.1c Shuffle up and deal**\n\n​\n\nPinpointing a precise moment when the world changes is never easy, even in retrospect. Yet it is possible to say with relative confidence that the world of gambling was changed dramatically by an event around a green felt table at Binion’s Horseshoe in Las Vegas on May 23rd, 2003, the final day of that year’s World Series of Poker (WSOP). The hand immediately preceding the final table – the last nine of the tournament’s 839 competitors who would play for $2.5m – pitted Phil Ivey, one of the sharpest and most ruthless players of his time, against Chris Moneymaker, an unknown 27-year-old accountant from Nashville. The newcomer eliminated Mr Ivey thanks to a lucky draw on the last card dealt. Mr Ivey, a stone-faced old-school player, declined to shake hands. Mr Moneymaker went on to win the tournament. \n\n​\n\nHis victory created what came to be called “the Moneymaker effect”: interest in poker soared. Suddenly spending time playing a game on a computer looked like a road to riches. And those riches seemed attainable. The stars in poker, unlike those in professional sport, look very much like the spectators; they just happen to be more successful. In the years since Mr Moneymaker’s victory, the tournament has variously been won by a patent lawyer, a Hollywood agent and a 21-year-old professional poker player. \n\n​\n\nIt is not just professional poker that has changed out of all recognition in the past decade, but all forms of gambling worldwide. The reason has been simple: for the first time anyone who wants to gamble and has an internet connection can do so. The desire has been there for much of recorded history. An excavation of a bronze-age city in south-eastern Iran turned up a pair of dice dating back nearly 5,000 years. Islam forbids gambling, but the Bible mentions casting lots to determine an outcome.\n\n​\n\nGambling’s widespread and enduring appeal comes as much from the hope of imposing order on the fundamental randomness of the world as from the expectation of economic gain (though that certainly has its charms). Blaming a bad result on an offended spirit or a good result on divine favour is far more comforting than accepting the cold indifference of probability. \n\n​\n\nObviously, the numbers make most forms of gambling a useless game. The odds of winning the jackpot in America’s richest lottery are one in 176m, whereas a European version available to players in nine western European countries, offers slightly better odds: one in 76m. Roulette players, on average, will hit their number once in 36 or 37 attempts. Poker players’ chances of being dealt a royal flush are much the same as being struck by lightning. [CITE source=The Economist, July 8, 2010]\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:24:45.514178",
+          "max_score": null,
+          "groupping": null,
+          "id": 224862,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "f36acda3-f650-426a-bc0e-c19d1fc34728",
+          "order_number": 17,
+          "multipart": true,
+          "created_at": "2017-06-21T09:35:37.201601"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**1.1e Damselflies in distress**\n\n​\n\nDragonflies and damselflies have shrunk since the time when some had wingspans of 70 centimetres, some 300 million years ago, perhaps because the atmosphere nowadays has less oxygen to power such monstrous insects. But a few modern species carry on the supersize tradition. One is the African damselfly C_oryphagrion grandis_, which has a body up to 12 centimetres long. All the other giant damselflies live in South America. It seems the African species is a relative that got separated from its brethren when the two continents broke apart 120 million years ago. \n\n​\n\nIn a reversal of the natural order of things, these flies feed on spiders, hovering in front of them and plucking the luckless insects from their webs. Their young live in water, normally in pools between the roots of trees or in hollowed-out trunks, and sometimes in discarded coconut shells. The larvae are carnivores, and not above eating each other. As a result, it is rare to find more than one larva in a single tree hole, says damselfly expert Viola Clausnitzer. Damselflies live in coastal forests that once formed a continuous belt in east Africa but are now fragmented, forcing the creatures into small, vulnerable populations. [CITE source=New Scientist, October 30, 2010]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 8737,
+          "content": {
+            "text": "**1.1e Damselflies in distress**\n\n​\n\nDragonflies and damselflies have shrunk since the time when some had wingspans of 70 centimetres, some 300 million years ago, perhaps because the atmosphere nowadays has less oxygen to power such monstrous insects. But a few modern species carry on the supersize tradition. One is the African damselfly C_oryphagrion grandis_, which has a body up to 12 centimetres long. All the other giant damselflies live in South America. It seems the African species is a relative that got separated from its brethren when the two continents broke apart 120 million years ago. \n\n​\n\nIn a reversal of the natural order of things, these flies feed on spiders, hovering in front of them and plucking the luckless insects from their webs. Their young live in water, normally in pools between the roots of trees or in hollowed-out trunks, and sometimes in discarded coconut shells. The larvae are carnivores, and not above eating each other. As a result, it is rare to find more than one larva in a single tree hole, says damselfly expert Viola Clausnitzer. Damselflies live in coastal forests that once formed a continuous belt in east Africa but are now fragmented, forcing the creatures into small, vulnerable populations. [CITE source=New Scientist, October 30, 2010]\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:24:45.517323",
+          "max_score": null,
+          "groupping": null,
+          "id": 224890,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "2b43ad15-115a-4f82-9115-37ca16a7d37e",
+          "order_number": 26,
+          "multipart": true,
+          "created_at": "2017-06-21T09:36:45.160874"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Squid on the Fly **\n\n​\n\nThe millions of Humboldt squid, aka jumbo flying squid, live “fast and furious” lives, says oceanographer Ken Baltz. “They hunt and eat and hunt and eat” for a year or two, then expire. Their diet is mainly fish, an occasional floating seabird – and sometimes each other. Once in a great while they “fly” by ejecting themselves from the water. Given that a squid’s body plus tentacles can run six feet and top the scales at 80 pounds, that’s quite a feat. Flight might be a way to evade predators, although scientists don’t know exactly why squids soar. Nor do they understand why the squid can quickly change from red to pink to maroon: maybe to confuse the prey, maybe to signal each other. \n\n​\n\nNow this warm-water denizen is in the news because of an unexpected incursion into the northern Pacific. Its big appetite will surely affect the ecosystem there. If salmon are also on the menu, adds William Gilly, a biologist at Hopkins Marine Station of Stanford University, Northwest fisheries will suffer. But he doesn’t buy reports of summer 2009 attacks on San Diego scuba divers. “A squid might nudge with a toothed appendage to assess edibility,” he says. “They’re smart and curious and really tactile.” Anyone in a wet suit would be deemed unfit for cephalopod consumption. [CITE source=Source: National Geographic, August 2010]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 8737,
+          "content": {
+            "text": "**Squid on the Fly **\n\n​\n\nThe millions of Humboldt squid, aka jumbo flying squid, live “fast and furious” lives, says oceanographer Ken Baltz. “They hunt and eat and hunt and eat” for a year or two, then expire. Their diet is mainly fish, an occasional floating seabird – and sometimes each other. Once in a great while they “fly” by ejecting themselves from the water. Given that a squid’s body plus tentacles can run six feet and top the scales at 80 pounds, that’s quite a feat. Flight might be a way to evade predators, although scientists don’t know exactly why squids soar. Nor do they understand why the squid can quickly change from red to pink to maroon: maybe to confuse the prey, maybe to signal each other. \n\n​\n\nNow this warm-water denizen is in the news because of an unexpected incursion into the northern Pacific. Its big appetite will surely affect the ecosystem there. If salmon are also on the menu, adds William Gilly, a biologist at Hopkins Marine Station of Stanford University, Northwest fisheries will suffer. But he doesn’t buy reports of summer 2009 attacks on San Diego scuba divers. “A squid might nudge with a toothed appendage to assess edibility,” he says. “They’re smart and curious and really tactile.” Anyone in a wet suit would be deemed unfit for cephalopod consumption. [CITE source=Source: National Geographic, August 2010]\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:24:45.52045",
+          "max_score": null,
+          "groupping": null,
+          "id": 224494,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "547d039c-1382-49c7-afb2-d99e3329d536",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-06-21T09:18:51.047912"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "_Read texts 1.1a–1.1f and then answer questions 1–25. Choose the __**best**__ alternative for each item._\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 8737,
+          "content": {
+            "text": "_Read texts 1.1a–1.1f and then answer questions 1–25. Choose the __**best**__ alternative for each item._\n",
+            "questionType": "reading",
+            "displayNumber": "1.1"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "67f02d33-fb77-4277-aa54-ec1430e57721",
+            "8e5bc180-6fae-4c8d-bab5-791d1913cad1",
+            "f36acda3-f650-426a-bc0e-c19d1fc34728",
+            "1e2fe129-f769-4a9f-9881-2cca7a3ba0cf",
+            "2b43ad15-115a-4f82-9115-37ca16a7d37e",
+            "c40b5030-2297-484c-a456-175f719f66c9",
+            "5860348e-28a6-4673-857a-9b595147e99e",
+            "8b8a96c2-ed10-483f-a995-82d810526f3f",
+            "8c863822-c120-40f1-8e4d-9a210924f44c",
+            "0795dbd1-dac4-4ec4-b2be-c292ed29222e",
+            "2e6efb45-8271-48b8-9771-8cd8a74dbd52",
+            "6dbd3636-1d7e-4dda-82de-1338a26260d7",
+            "3a7b38e4-8094-438f-adc2-65f1a0a34f66",
+            "89a2b181-d9d1-407e-b0c7-3df2def6d198",
+            "e2e2bc6c-7f0b-4279-838c-fd37740ff235",
+            "562aeec4-cf37-4138-b20b-c8de2200563d",
+            "a8476860-bb2c-4409-9e09-17d82a3214c8",
+            "6e71ad63-97ea-4e4d-9acc-07846a1cf5de",
+            "5494260f-73ab-4aa5-9b0f-285aa03451a6",
+            "ff955041-8533-45be-8473-35f6d6659813",
+            "b9f2ee8b-4ece-4036-82c0-9e965b388a0e",
+            "35052090-c627-4657-aadd-db38fb516a8d",
+            "735f8588-3150-4004-9dde-4fe799e8ab26",
+            "ec42aead-c3fa-400a-b649-a70bc00253a1",
+            "4d6d7a5f-369c-4cad-bb11-a8a4ddd017d1",
+            "57613f0a-9c5c-4b87-b133-81b7d980cbc9",
+            "d0d4459c-bc4a-4fe5-982d-b6e9e9d6a840",
+            "0029b78d-96dc-46a3-a347-8eb06e924547",
+            "3407cd3f-6789-4e76-b1fa-925c1c47e208",
+            "9542da7c-ac9c-4e7f-a250-34b68097aa4c",
+            "9f72c5d8-6262-4d0d-9c0a-a74d98a1a7ed"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-06-21T11:24:45.523373",
+          "max_score": null,
+          "groupping": null,
+          "id": 224010,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "100d60f6-fed6-4172-a6c9-10768883920b",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2017-06-21T08:46:44.672652"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**1.1d Life lessons: ways to win people over**\n\n​\n\nAlthough most folks say they want to hear what they can gain by taking your advice, they’re actually more influenced by what they have to lose by not heeding it. For example, you’ll get further with your boss if you emphasize the revenue you’ll miss out on by not pursuing a project, rather than by citing any potential benefits. That’s why the phrase “Don’t miss it!” is more effective in ads than “Take this opportunity.” – Noah Goldstein \n\n​\n\nAs an online journalist, I often get yelled at for something I’ve written. These attacks usually appear on other people’s blogs, and (as long as they are rational) I try to repost them on my own. Doing this helps prevent “flame wars” (an escalating exchange of nasty cyberdialogue), because I am listening to and stating their opinions, after all. Outside the internet, the same rule applies. If you’re trying to explain to your kid that he can’t stay up late, begin by stating his opinion – “Look, I know that you want to read the last 492 pages of _Harry Potter_” – before adding your two cents. Even if he’s reluctant to concede the point, he’ll appreciate the fact that you listened to him in the first place. – Ben Smith [CITE source=Real Simple, November 2010]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 8737,
+          "content": {
+            "text": "**1.1d Life lessons: ways to win people over**\n\n​\n\nAlthough most folks say they want to hear what they can gain by taking your advice, they’re actually more influenced by what they have to lose by not heeding it. For example, you’ll get further with your boss if you emphasize the revenue you’ll miss out on by not pursuing a project, rather than by citing any potential benefits. That’s why the phrase “Don’t miss it!” is more effective in ads than “Take this opportunity.” – Noah Goldstein \n\n​\n\nAs an online journalist, I often get yelled at for something I’ve written. These attacks usually appear on other people’s blogs, and (as long as they are rational) I try to repost them on my own. Doing this helps prevent “flame wars” (an escalating exchange of nasty cyberdialogue), because I am listening to and stating their opinions, after all. Outside the internet, the same rule applies. If you’re trying to explain to your kid that he can’t stay up late, begin by stating his opinion – “Look, I know that you want to read the last 492 pages of _Harry Potter_” – before adding your two cents. Even if he’s reluctant to concede the point, he’ll appreciate the fact that you listened to him in the first place. – Ben Smith [CITE source=Real Simple, November 2010]\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:24:45.526366",
+          "max_score": null,
+          "groupping": null,
+          "id": 224863,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "1e2fe129-f769-4a9f-9881-2cca7a3ba0cf",
+          "order_number": 23,
+          "multipart": true,
+          "created_at": "2017-06-21T09:35:37.205599"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Why are white holes problematic?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 8737,
+          "content": {
+            "text": "Why are white holes problematic?\n",
+            "displayNumber": "6."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:24:45.529395",
+          "max_score": null,
+          "groupping": null,
+          "id": 224964,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 98,
+              "text": "They require time reversal\n",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 99,
+              "text": "Only a few scientists have recognized them\n",
+              "choices": []
+            },
+            {
+              "id": 100,
+              "text": "They cannot be found in any universe\n",
+              "choices": []
+            }
+          ],
+          "uuid": "8b8a96c2-ed10-483f-a995-82d810526f3f",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2017-06-21T09:39:33.187713"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What does a wormhole theoretically do?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 8737,
+          "content": {
+            "text": "What does a wormhole theoretically do?\n",
+            "displayNumber": "5."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:24:45.532231",
+          "max_score": null,
+          "groupping": null,
+          "id": 224965,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 101,
+              "text": "It may serve as a tunnel through universes\n",
+              "choices": []
+            },
+            {
+              "id": 102,
+              "text": "It could provide a link between black and white holes\n",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 103,
+              "text": "It might destroy the matter sucked in by a black hole\n",
+              "choices": []
+            }
+          ],
+          "uuid": "8c863822-c120-40f1-8e4d-9a210924f44c",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2017-06-21T09:39:33.19067"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "When do we experience the sensation of tickling?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 8737,
+          "content": {
+            "text": "When do we experience the sensation of tickling?\n",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:24:45.535157",
+          "max_score": null,
+          "groupping": null,
+          "id": 224969,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 113,
+              "text": "When the brain’s sensory parts are activated\n",
+              "choices": []
+            },
+            {
+              "id": 114,
+              "text": "When we are tuned into it\n",
+              "choices": []
+            },
+            {
+              "id": 115,
+              "text": "When we are not waiting for it\n",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "3a7b38e4-8094-438f-adc2-65f1a0a34f66",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2017-06-21T09:39:33.202341"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What happened to the settlers’ English in North America?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 8737,
+          "content": {
+            "text": "What happened to the settlers’ English in North America?\n",
+            "displayNumber": "9."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:24:45.538058",
+          "max_score": null,
+          "groupping": null,
+          "id": 224975,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 89,
+              "text": "Its vocabulary was altered altogether\n",
+              "choices": []
+            },
+            {
+              "id": 90,
+              "text": "It underwent an adaptation in pronunciation\n",
+              "choices": []
+            },
+            {
+              "id": 91,
+              "text": "It retained certain grammatical features\n",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "5494260f-73ab-4aa5-9b0f-285aa03451a6",
+          "order_number": 11,
+          "multipart": true,
+          "created_at": "2017-06-21T09:39:33.223765"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "How are the offspring characterized?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 8737,
+          "content": {
+            "text": "How are the offspring characterized?\n",
+            "displayNumber": "23."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:24:45.540874",
+          "max_score": null,
+          "groupping": null,
+          "id": 224984,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 47,
+              "text": "The larvae rarely consume meat\n",
+              "choices": []
+            },
+            {
+              "id": 48,
+              "text": "Siblings live together in built-up areas\n",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 49,
+              "text": "The young usually lead solitary lives\n",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "0029b78d-96dc-46a3-a347-8eb06e924547",
+          "order_number": 28,
+          "multipart": true,
+          "created_at": "2017-06-21T09:39:33.250126"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "How does the text characterize gambling?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 8737,
+          "content": {
+            "text": "How does the text characterize gambling?\n",
+            "displayNumber": "19."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:24:45.543659",
+          "max_score": null,
+          "groupping": null,
+          "id": 224977,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 59,
+              "text": "Gambling makes people rich\n",
+              "choices": []
+            },
+            {
+              "id": 60,
+              "text": "The odds of winning are substantial\n",
+              "choices": []
+            },
+            {
+              "id": 61,
+              "text": "Gambling hardly ever pays off\n",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "b9f2ee8b-4ece-4036-82c0-9e965b388a0e",
+          "order_number": 22,
+          "multipart": true,
+          "created_at": "2017-06-21T09:39:33.229652"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What does Benno Nigg say about running?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 8737,
+          "content": {
+            "text": "What does Benno Nigg say about running?\n",
+            "displayNumber": "4."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:24:45.547217",
+          "max_score": null,
+          "groupping": null,
+          "id": 224966,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 104,
+              "text": "Proper shoes are necessary for all distances\n",
+              "choices": []
+            },
+            {
+              "id": 105,
+              "text": "Barefoot runners tend to develop fewer injuries\n",
+              "choices": []
+            },
+            {
+              "id": 106,
+              "text": "It does not matter what shoes we wear\n",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "0795dbd1-dac4-4ec4-b2be-c292ed29222e",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2017-06-21T09:39:33.193477"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "According to Ben Smith, how can you persuade someone else?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 8737,
+          "content": {
+            "text": "According to Ben Smith, how can you persuade someone else?\n",
+            "displayNumber": "21."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:24:45.554396",
+          "max_score": null,
+          "groupping": null,
+          "id": 224982,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 53,
+              "text": "By becoming an active online commentator\n",
+              "choices": []
+            },
+            {
+              "id": 54,
+              "text": "By repeating the other person’s argument\n",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 55,
+              "text": "By showing that you have set an example\n",
+              "choices": []
+            }
+          ],
+          "uuid": "57613f0a-9c5c-4b87-b133-81b7d980cbc9",
+          "order_number": 25,
+          "multipart": true,
+          "created_at": "2017-06-21T09:39:33.244344"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "How did the settlers name places?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 8737,
+          "content": {
+            "text": "How did the settlers name places?\n",
+            "displayNumber": "13."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:24:45.55037",
+          "max_score": null,
+          "groupping": null,
+          "id": 224971,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 77,
+              "text": "By choosing only Indian place names\n",
+              "choices": []
+            },
+            {
+              "id": 78,
+              "text": "By alternating between Indian and other place names\n",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 79,
+              "text": "By putting together Indian and English words\n",
+              "choices": []
+            }
+          ],
+          "uuid": "e2e2bc6c-7f0b-4279-838c-fd37740ff235",
+          "order_number": 15,
+          "multipart": true,
+          "created_at": "2017-06-21T09:39:33.208419"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What characterized the world in the early 17th century?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 8737,
+          "content": {
+            "text": "What characterized the world in the early 17th century?\n",
+            "displayNumber": "8."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:24:45.557686",
+          "max_score": null,
+          "groupping": null,
+          "id": 224976,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 92,
+              "text": "Languages were undergoing drastic changes\n",
+              "choices": []
+            },
+            {
+              "id": 93,
+              "text": "Revolutions were sweeping through Europe\n",
+              "choices": []
+            },
+            {
+              "id": 94,
+              "text": "All areas of life were in transition\n",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "ff955041-8533-45be-8473-35f6d6659813",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2017-06-21T09:39:33.226613"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What is said about the history of gambling?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 8737,
+          "content": {
+            "text": "What is said about the history of gambling?\n",
+            "displayNumber": "17."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:24:45.561013",
+          "max_score": null,
+          "groupping": null,
+          "id": 224979,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 65,
+              "text": "All the major world religions ban gambling\n",
+              "choices": []
+            },
+            {
+              "id": 66,
+              "text": "Gambling has always been a pastime\n",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 67,
+              "text": "Gambling practices have remained unchanged\n",
+              "choices": []
+            }
+          ],
+          "uuid": "735f8588-3150-4004-9dde-4fe799e8ab26",
+          "order_number": 20,
+          "multipart": true,
+          "created_at": "2017-06-21T09:39:33.235537"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What is the overall conclusion of this text excerpt?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 8737,
+          "content": {
+            "text": "What is the overall conclusion of this text excerpt?\n",
+            "displayNumber": "14."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:24:45.563901",
+          "max_score": null,
+          "groupping": null,
+          "id": 224970,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 74,
+              "text": "Language change is affected by interaction\n",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 75,
+              "text": "Language change is motivated by personal choices\n",
+              "choices": []
+            },
+            {
+              "id": 76,
+              "text": "Language change remains a mystery\n",
+              "choices": []
+            }
+          ],
+          "uuid": "89a2b181-d9d1-407e-b0c7-3df2def6d198",
+          "order_number": 16,
+          "multipart": true,
+          "created_at": "2017-06-21T09:39:33.205458"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Why can’t we tickle ourselves?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 8737,
+          "content": {
+            "text": "Why can’t we tickle ourselves?\n",
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:24:45.566786",
+          "max_score": null,
+          "groupping": null,
+          "id": 224968,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 110,
+              "text": "We are not sensitive to ourselves\n",
+              "choices": []
+            },
+            {
+              "id": 111,
+              "text": "Our brains prevent it\n",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 112,
+              "text": "It causes discomfort\n",
+              "choices": []
+            }
+          ],
+          "uuid": "6dbd3636-1d7e-4dda-82de-1338a26260d7",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2017-06-21T09:39:33.199508"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What does Noah Goldstein say helps in winning people over?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 8737,
+          "content": {
+            "text": "What does Noah Goldstein say helps in winning people over?\n",
+            "displayNumber": "20."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:24:45.569708",
+          "max_score": null,
+          "groupping": null,
+          "id": 224983,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 56,
+              "text": "Telling someone what she will not get if she doesn’t cooperate\n",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 57,
+              "text": "Making the other person feel appreciated to flatter their egos\n",
+              "choices": []
+            },
+            {
+              "id": 58,
+              "text": "Always leaving room for discussion to allow people to have their say\n",
+              "choices": []
+            }
+          ],
+          "uuid": "d0d4459c-bc4a-4fe5-982d-b6e9e9d6a840",
+          "order_number": 24,
+          "multipart": true,
+          "created_at": "2017-06-21T09:39:33.247121"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**1.1f A Question of Belief**\n\n​\n\nThe back cover of Donna Leon’s _A Question of Belief _outlines the book as follows:\n\nAs Venice experiences a debilitating heatwave, Commissario Brunetti prepares to escape the city and spend time with his family in the mountains. For Inspettore Vianello, however, the weather is the last thing on his mind; it appears his aunt has become obsessed with horoscopes and has been withdrawing large amounts of money from the family business. Not knowing what to do, he consults Brunetti and asks permission to trail her. This ‘unofficial’ investigation leads them to the flat of Stefano Gorini. But who is this man? And why is Vianello’s aunt giving him large amounts of money? \n\n​\n\nMeanwhile, Brunetti receives a visit from a friend who works at the Commune, the City of Venice. It seems that discrepancies have been occurring at the Courthouse involving Judge Luisa Coltellini and Araldo Fontana, an usher with a flawless track record. Intrigued, Brunetti asks Signorina Elletra to find out what she can while he is away on his family holiday. \n\n​\n\nWhen news reaches Brunetti that Araldo Fontana has been murdered in a violent attack, he returns to the city to head up the investigation. But why would someone want a good man dead, and what might his death have to do with the discrepancies at the Courthouse? It soon becomes clear that things are not what they seem, and, as suspicions arise, Brunetti has to dig ever deeper to uncover the truth behind the façade. [CITE source=Donna Leon, A Question of Belief, 2010]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 8737,
+          "content": {
+            "text": "**1.1f A Question of Belief**\n\n​\n\nThe back cover of Donna Leon’s _A Question of Belief _outlines the book as follows:\n\nAs Venice experiences a debilitating heatwave, Commissario Brunetti prepares to escape the city and spend time with his family in the mountains. For Inspettore Vianello, however, the weather is the last thing on his mind; it appears his aunt has become obsessed with horoscopes and has been withdrawing large amounts of money from the family business. Not knowing what to do, he consults Brunetti and asks permission to trail her. This ‘unofficial’ investigation leads them to the flat of Stefano Gorini. But who is this man? And why is Vianello’s aunt giving him large amounts of money? \n\n​\n\nMeanwhile, Brunetti receives a visit from a friend who works at the Commune, the City of Venice. It seems that discrepancies have been occurring at the Courthouse involving Judge Luisa Coltellini and Araldo Fontana, an usher with a flawless track record. Intrigued, Brunetti asks Signorina Elletra to find out what she can while he is away on his family holiday. \n\n​\n\nWhen news reaches Brunetti that Araldo Fontana has been murdered in a violent attack, he returns to the city to head up the investigation. But why would someone want a good man dead, and what might his death have to do with the discrepancies at the Courthouse? It soon becomes clear that things are not what they seem, and, as suspicions arise, Brunetti has to dig ever deeper to uncover the truth behind the façade. [CITE source=Donna Leon, A Question of Belief, 2010]\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:24:45.573013",
+          "max_score": null,
+          "groupping": null,
+          "id": 224918,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "c40b5030-2297-484c-a456-175f719f66c9",
+          "order_number": 29,
+          "multipart": true,
+          "created_at": "2017-06-21T09:38:17.022989"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Is running in sneakers unwise?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 8737,
+          "content": {
+            "text": "Is running in sneakers unwise?\n",
+            "displayNumber": "3."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:24:45.576242",
+          "max_score": null,
+          "groupping": null,
+          "id": 224967,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 107,
+              "text": "Studies suggest that this is the case\n",
+              "choices": []
+            },
+            {
+              "id": 108,
+              "text": "It is difficult to draw definite conclusions\n",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 109,
+              "text": "Using sneakers seems advisable\n",
+              "choices": []
+            }
+          ],
+          "uuid": "2e6efb45-8271-48b8-9771-8cd8a74dbd52",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2017-06-21T09:39:33.196511"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Body art** \n\n​\n\nResearchers at the University of Wroclaw in Poland measured about 200 men and women – half of them inked or pierced in places other than their earlobes – for body symmetry, or how similar their right and left sides are. (Greater similarity indicates genetic health and is associated with sexual attractiveness.) \n\n​\n\nAmong the research subjects, men with bodily decorations exhibited greater symmetry than those without, whereas no differences emerged in women. Because people who are less symmetric did not opt more often for tattoos or piercings, researchers rejected one widely held hypothesis that suggested people use physical graffiti to hide or distract from imperfections in their appearance. \n\n​\n\nThe results jibe with a different theory – getting stuck with needles can endanger one’s health via infections, so the study supports the evolutionary “handicap” theory that only those of high biological quality can afford such risky behavior. The impulse to get inked may be a risk-taking behavior inherited from ancestors who were strong enough to endure injuries and survive – as opposed to those whose ancestors survived by avoiding risk and injury. Therefore, at least in men, body art could serve as an “honest” signal of fitness in the Darwinian sense. So maybe that’s why pierced, tattooed rock stars do so well with the ladies. [CITE source=Source: Scientific American Mind, May/June 2010]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 8737,
+          "content": {
+            "text": "**Body art** \n\n​\n\nResearchers at the University of Wroclaw in Poland measured about 200 men and women – half of them inked or pierced in places other than their earlobes – for body symmetry, or how similar their right and left sides are. (Greater similarity indicates genetic health and is associated with sexual attractiveness.) \n\n​\n\nAmong the research subjects, men with bodily decorations exhibited greater symmetry than those without, whereas no differences emerged in women. Because people who are less symmetric did not opt more often for tattoos or piercings, researchers rejected one widely held hypothesis that suggested people use physical graffiti to hide or distract from imperfections in their appearance. \n\n​\n\nThe results jibe with a different theory – getting stuck with needles can endanger one’s health via infections, so the study supports the evolutionary “handicap” theory that only those of high biological quality can afford such risky behavior. The impulse to get inked may be a risk-taking behavior inherited from ancestors who were strong enough to endure injuries and survive – as opposed to those whose ancestors survived by avoiding risk and injury. Therefore, at least in men, body art could serve as an “honest” signal of fitness in the Darwinian sense. So maybe that’s why pierced, tattooed rock stars do so well with the ladies. [CITE source=Source: Scientific American Mind, May/June 2010]\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:24:45.579108",
+          "max_score": null,
+          "groupping": null,
+          "id": 224567,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "05c882e7-1411-4327-a32e-b5a1b5d88945",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2017-06-21T09:21:14.301027"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What does this novel’s opening setting involve?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 8737,
+          "content": {
+            "text": "What does this novel’s opening setting involve?\n",
+            "displayNumber": "24."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:24:45.583696",
+          "max_score": null,
+          "groupping": null,
+          "id": 224987,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 44,
+              "text": "An unusually busy day for a police inspector in Italy\n",
+              "choices": []
+            },
+            {
+              "id": 45,
+              "text": "Someone’s superstitious behavior resulting in an investigation\n",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 46,
+              "text": "A professional offering a friend unwanted advice\n",
+              "choices": []
+            }
+          ],
+          "uuid": "9f72c5d8-6262-4d0d-9c0a-a74d98a1a7ed",
+          "order_number": 30,
+          "multipart": true,
+          "created_at": "2017-06-21T09:39:33.25927"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What happened as Indian words were taken into English?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 8737,
+          "content": {
+            "text": "What happened as Indian words were taken into English?\n",
+            "displayNumber": "12."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:24:45.586597",
+          "max_score": null,
+          "groupping": null,
+          "id": 224972,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 80,
+              "text": "The words underwent certain changes\n",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 81,
+              "text": "Their meanings were altered\n",
+              "choices": []
+            },
+            {
+              "id": 82,
+              "text": "The words were lengthened\n",
+              "choices": []
+            }
+          ],
+          "uuid": "562aeec4-cf37-4138-b20b-c8de2200563d",
+          "order_number": 14,
+          "multipart": true,
+          "created_at": "2017-06-21T09:39:33.211208"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What explains the overall attraction of gambling?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 8737,
+          "content": {
+            "text": "What explains the overall attraction of gambling?\n",
+            "displayNumber": "18."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:24:45.589509",
+          "max_score": null,
+          "groupping": null,
+          "id": 224978,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 62,
+              "text": "It guarantees a reasonable income\n",
+              "choices": []
+            },
+            {
+              "id": 63,
+              "text": "It offers a unique pastime\n",
+              "choices": []
+            },
+            {
+              "id": 64,
+              "text": "It serves as a means to view reality\n",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "35052090-c627-4657-aadd-db38fb516a8d",
+          "order_number": 21,
+          "multipart": true,
+          "created_at": "2017-06-21T09:39:33.232657"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "How has the world of gambling changed?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 8737,
+          "content": {
+            "text": "How has the world of gambling changed?\n",
+            "displayNumber": "16."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:24:45.59244",
+          "max_score": null,
+          "groupping": null,
+          "id": 224980,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 68,
+              "text": "People from all walks of life now attend tournaments in person\n",
+              "choices": []
+            },
+            {
+              "id": 69,
+              "text": "Online access has made playing effortless\n",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 70,
+              "text": "The number of professional players has increased\n",
+              "choices": []
+            }
+          ],
+          "uuid": "ec42aead-c3fa-400a-b649-a70bc00253a1",
+          "order_number": 19,
+          "multipart": true,
+          "created_at": "2017-06-21T09:39:33.238456"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What’s the “Moneymaker effect”?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 8737,
+          "content": {
+            "text": "What’s the “Moneymaker effect”?\n",
+            "displayNumber": "15."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:24:45.595359",
+          "max_score": null,
+          "groupping": null,
+          "id": 224981,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 71,
+              "text": "Gambling quickly becomes less popular\n",
+              "choices": []
+            },
+            {
+              "id": 72,
+              "text": "Gambling is viewed as an unlikely means to success\n",
+              "choices": []
+            },
+            {
+              "id": 73,
+              "text": "Gambling offers equal chances for success\n\n​\n",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "4d6d7a5f-369c-4cad-bb11-a8a4ddd017d1",
+          "order_number": 18,
+          "multipart": true,
+          "created_at": "2017-06-21T09:39:33.241442"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What is said about the African damselfly?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 8737,
+          "content": {
+            "text": "What is said about the African damselfly?\n",
+            "displayNumber": "22."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:24:45.599521",
+          "max_score": null,
+          "groupping": null,
+          "id": 224985,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 50,
+              "text": "Its ability to consume oxygen is exceptional\n",
+              "choices": []
+            },
+            {
+              "id": 51,
+              "text": "An identical species was spotted in another part of the world\n",
+              "choices": []
+            },
+            {
+              "id": 52,
+              "text": "It comes from a long line of prehistoric insects\n",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "3407cd3f-6789-4e76-b1fa-925c1c47e208",
+          "order_number": 27,
+          "multipart": true,
+          "created_at": "2017-06-21T09:39:33.253142"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What is said about the origins of the word _Yankee_?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 8737,
+          "content": {
+            "text": "What is said about the origins of the word _Yankee_?\n",
+            "displayNumber": "11."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:24:45.602537",
+          "max_score": null,
+          "groupping": null,
+          "id": 224973,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 83,
+              "text": "The origins are probably clear\n",
+              "choices": []
+            },
+            {
+              "id": 84,
+              "text": "The origins are in the Dutch language\n",
+              "choices": []
+            },
+            {
+              "id": 85,
+              "text": "The origins are unclear\n",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "a8476860-bb2c-4409-9e09-17d82a3214c8",
+          "order_number": 13,
+          "multipart": true,
+          "created_at": "2017-06-21T09:39:33.214164"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "According to this text, what actions will Brunetti now take?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 8737,
+          "content": {
+            "text": "According to this text, what actions will Brunetti now take?\n",
+            "displayNumber": "25."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:24:45.60736",
+          "max_score": null,
+          "groupping": null,
+          "id": 224986,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 41,
+              "text": "Outline a plan for necessary actions to be taken\n",
+              "choices": []
+            },
+            {
+              "id": 42,
+              "text": "Leave the case alone for the foreseeable future\n",
+              "choices": []
+            },
+            {
+              "id": 43,
+              "text": "Look beneath the surface of things\n",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "9542da7c-ac9c-4e7f-a250-34b68097aa4c",
+          "order_number": 31,
+          "multipart": true,
+          "created_at": "2017-06-21T09:39:33.256122"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What motivated the settlers to adopt new loan words?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 8737,
+          "content": {
+            "text": "What motivated the settlers to adopt new loan words?\n",
+            "displayNumber": "10."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:24:45.616105",
+          "max_score": null,
+          "groupping": null,
+          "id": 224974,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 86,
+              "text": "The abundance of inappropriate terms in English\n",
+              "choices": []
+            },
+            {
+              "id": 87,
+              "text": "The need for accurate characterization of the surroundings\n",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 88,
+              "text": "The new possibilities for choosing words\n",
+              "choices": []
+            }
+          ],
+          "uuid": "6e71ad63-97ea-4e4d-9acc-07846a1cf5de",
+          "order_number": 12,
+          "multipart": true,
+          "created_at": "2017-06-21T09:39:33.217024"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**What was the Cocos Islands Mutiny? **\n\n​\n\nDuring the Second World War, only three servicemen from British and Commonwealth forces were executed for mutiny. All three were participants in the Cocos Islands Mutiny, which took place in May 1942 on the small group of islands of that name in the Indian Ocean. Soldiers from what was then Ceylon (now Sri Lanka) were garrisoned on one of the Cocos Islands to defend a vital radio and telegraph station. On the night of 8 May, a dozen of them, led by Bombardier Gratien Fernando, an advocate of Ceylonese independence from Britain, attempted to take control of the island. The mutineers were stopped when their Bren gun jammed at a crucial moment. Three men, including Fernando, were hanged at the Welikada Prison in Colombo, Ceylon in August 1942. [CITE source=Source: BBC History Magazine, November 2010]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 8737,
+          "content": {
+            "text": "**What was the Cocos Islands Mutiny? **\n\n​\n\nDuring the Second World War, only three servicemen from British and Commonwealth forces were executed for mutiny. All three were participants in the Cocos Islands Mutiny, which took place in May 1942 on the small group of islands of that name in the Indian Ocean. Soldiers from what was then Ceylon (now Sri Lanka) were garrisoned on one of the Cocos Islands to defend a vital radio and telegraph station. On the night of 8 May, a dozen of them, led by Bombardier Gratien Fernando, an advocate of Ceylonese independence from Britain, attempted to take control of the island. The mutineers were stopped when their Bren gun jammed at a crucial moment. Three men, including Fernando, were hanged at the Welikada Prison in Colombo, Ceylon in August 1942. [CITE source=Source: BBC History Magazine, November 2010]\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:24:45.610246",
+          "max_score": null,
+          "groupping": null,
+          "id": 224497,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "b3fff134-1dfc-4426-b5df-540789995d6e",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2017-06-21T09:18:51.056456"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What most likely happens to the matter subsumed into a black hole?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 8737,
+          "content": {
+            "text": "What most likely happens to the matter subsumed into a black hole?\n",
+            "displayNumber": "7."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:24:45.613307",
+          "max_score": null,
+          "groupping": null,
+          "id": 224963,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 95,
+              "text": "The matter slowly dissolves forever\n",
+              "choices": []
+            },
+            {
+              "id": 96,
+              "text": "The matter immediately ceases from existing\n",
+              "choices": []
+            },
+            {
+              "id": 97,
+              "text": "The matter simply integrates into the black hole\n",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "5860348e-28a6-4673-857a-9b595147e99e",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2017-06-21T09:39:33.184903"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**In defence of teachers**\n\n​\n\nAs a secondary school teacher, I was angered to read Sean Lang’s critique of history teaching in schools. Dr Lang seems to forget that we teach young people aged 11 to 13, 16, 17 or 18 ([GAP id=1] how long they choose to study history). We don’t teach university students, who have already been inspired[GAP id=2] my colleagues and me. We, therefore, have to battle hormones, social life, lack of interest [GAP id=3] school, the opposite sex and other curricular subjects to engage the [GAP id=4] attention.\n\n​\n\nAs historians [GAP id=5], we would like a break from the Nazis also, but the simple truth is that these are the subjects the kids want to learn about, and a walk into any history bookshop shows you they are not alone. There is so much media generated regarding these topics that it is a great vehicle for teaching in [GAP id=6] variety of ways to [GAP id=6] variety of pupils; not all of whom have the means and ability to go to university.\n\n​\n\nDr Lang seems to forget that out of a class of 30, perhaps one or two [GAP id=7] to study history at university level and that, essentially, he sees the cream of our crop. That is why the move towards content to teach skills is an important development. At a time [GAP id=8] there is so much information available, pupils must [GAP id=9] not to trust all that they read.\n\n​\n\nTherefore, if I say goodbye to a boy aged 13 knowing he will never study history again and the one thing he remembers is not why William the Conqueror [GAP id=10] the battle of Hastings, but that information is biased and must be questioned, then I consider my job well done. Emma Slavin, Glasgow [CITE source=BBC History Magazine, November 2010]\n",
+          "deleted_at": null,
+          "feedback": "Valitettavasti Abitreeneillä ei ole tämän kokeen produktiivisten tehtävien oikeita vastauksia. Pahoittelemme tästä aiheutunutta harmia!\n",
+          "exam_id": 8737,
+          "content": {
+            "text": "**In defence of teachers**\n\n​\n\nAs a secondary school teacher, I was angered to read Sean Lang’s critique of history teaching in schools. Dr Lang seems to forget that we teach young people aged 11 to 13, 16, 17 or 18 ([GAP id=1] how long they choose to study history). We don’t teach university students, who have already been inspired[GAP id=2] my colleagues and me. We, therefore, have to battle hormones, social life, lack of interest [GAP id=3] school, the opposite sex and other curricular subjects to engage the [GAP id=4] attention.\n\n​\n\nAs historians [GAP id=5], we would like a break from the Nazis also, but the simple truth is that these are the subjects the kids want to learn about, and a walk into any history bookshop shows you they are not alone. There is so much media generated regarding these topics that it is a great vehicle for teaching in [GAP id=6] variety of ways to [GAP id=6] variety of pupils; not all of whom have the means and ability to go to university.\n\n​\n\nDr Lang seems to forget that out of a class of 30, perhaps one or two [GAP id=7] to study history at university level and that, essentially, he sees the cream of our crop. That is why the move towards content to teach skills is an important development. At a time [GAP id=8] there is so much information available, pupils must [GAP id=9] not to trust all that they read.\n\n​\n\nTherefore, if I say goodbye to a boy aged 13 knowing he will never study history again and the one thing he remembers is not why William the Conqueror [GAP id=10] the battle of Hastings, but that information is biased and must be questioned, then I consider my job well done. Emma Slavin, Glasgow [CITE source=BBC History Magazine, November 2010]\n"
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-06-21T11:24:45.470265",
+          "max_score": null,
+          "groupping": null,
+          "id": 224228,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "hint": "riippuen",
+              "choices": [],
+              "correct": "-",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 2,
+              "choices": [],
+              "correct": "-",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 3,
+              "hint": "prepositio",
+              "choices": [],
+              "correct": "-",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 4,
+              "hint": "oppilaiden",
+              "choices": [],
+              "correct": "-",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 5,
+              "hint": "itse",
+              "choices": [],
+              "correct": "-",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 6,
+              "hint": "",
+              "choices": [],
+              "correct": "-",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 7,
+              "hint": "choose",
+              "choices": [],
+              "correct": "-",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 8,
+              "hint": "jolloin",
+              "choices": [],
+              "correct": "-",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 9,
+              "hint": "teach",
+              "choices": [],
+              "correct": "-",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 10,
+              "hint": "win",
+              "choices": [],
+              "correct": "-",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "efa90a55-0be9-4aea-9d80-54e001db981c",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-06-21T08:56:08.173624"
+        }
+      ],
+      "name": "Englanti pitkä oppimäärä kevät 2012",
+      "settings": {},
+      "exam_type": "yo-koe",
+      "classification": {
+        "category": "written",
+        "hide_review_buttons": null,
+        "exam_type": "yo-koe",
+        "year": "2012",
+        "language": "fi-FI",
+        "show_exam_series": null,
+        "force_yletunnus": false,
+        "subject": "englanti-pitkä",
+        "published": true,
+        "semester": "spring"
+      },
+      "published_at": "2017-06-21T08:45:24.589Z",
+      "language": "fi-FI",
+      "id": 8737,
+      "reviews": [],
+      "is_open": true,
+      "uuid": "27b3a6e6-cecd-43f3-b5a2-0a77a028cd02"
+    }
+  ]
+}

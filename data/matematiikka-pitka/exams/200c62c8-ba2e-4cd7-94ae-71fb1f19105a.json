@@ -1,0 +1,754 @@
+{
+  "meta": {
+    "count": 1
+  },
+  "data": [
+    {
+      "tags": [
+        ""
+      ],
+      "main_text": "Koe koostuu 13 tehtävästä, joista vastataan kymmeneen. Tehtävät on jaettu kolmeen osaan. A-osassa on neljä kaikille pakollista tehtävää. B1-osassa on viisi tehtävää, joista vastataan kolmeen. B2-osassa on neljä tehtävää, joista vastataan kolmeen. Kaikki tehtävät arvostellaan pistein 0–12, joten kokeen maksimipistemäärä on 120.\n\n​\n\nA-osassa saat käyttää taulukkokirjaa ja koejärjestelmän tarjoamia perusohjelmia. A-osa palautetaan tehtävän 4 jäljessä olevalla painikkeella. Tämän jälkeen A-osan vastauksia ei voi enää muokata. A-osan palauttamisen jälkeen kaikki koejärjestelmän ohjelmat ovat käytettävissäsi. Lisäksi saat käyttöön oman laskimesi. Voit vastata B-osien tehtäviin myös ennen A-osan palauttamista.\n\n​\n\nUseimmissa tehtävissä kaikkien osatehtävien vastaukset kirjoitetaan samaan vastauskenttään. Jaottele vastauksesi osatehtävien mukaisesti. Halutessasi voit tuottaa vastausten tueksi piirroksia, kaavioita tai taulukoita ja liittää niistä kuvakaappauksen mihin tahansa tekstivastaukseen.\n\n​\n\nÄlä jätä mitään merkintöjä sellaisen tehtävän vastaukselle varattuun tilaan, jota et halua jättää arvosteltavaksi.\n\n​\n\nA-osa\n\nPakolliset tehtävät.\n\n  1. Kolmio (ei aineistoa)\n\n  2. Derivaatta ja integraali (ei aineistoa)\n\n  3. Pistetulo (ei aineistoa)\n\n  4. Eksponentti- ja trigonometriset funktiot (ei aineistoa)\n\n​\n\nB1-osa\n\nVastaa kolmeen tehtävään.\n\n  5. Polynomiepäyhtälö (ei aineistoa)\n\n  6. Kaksi paraabelia (ei aineistoa)\n\n  7. Satunnaispolynomit (ei aineistoa)\n\n  8. Suuria lukuja (ei aineistoa)\n\n  9. Käänteisfunktio (ei aineistoa)\n\n​\n\nB2-osa\n\nVastaa kolmeen tehtävään.\n\n  10. Pomppiva pallo (ei aineistoa)\n\n  11. Newtonin menetelmä (kuva-aineisto)\n\n  12. Summan arviointi (tiedostoaineisto)\n\n  13. Joukon alkioiden summa (ei aineistoa)\n\n​\n\nVoit avata tehtäviin liittyvät aineistot erilliseen välilehteen [LINK url=http://yle.fi/plus/abitreenit/2019/syksy/M-fi/attachments/index.html|text=tästä linkistä]. Myös tehtävänantojen yhteydessä on suorat linkit aineistoihin.\n",
+      "characters": null,
+      "deleted_at": null,
+      "series_uuids": [],
+      "questions": [
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Käänteisfunktio \n\n​\n\nTarkastellaan funktiota  [MATH text=f:][MATH text=R→R], [MATH text=f(x)=\\frac{x}{1+\\left|x\\right|}]\n\n9.1. Osoita, että funktio  on aidosti kasvava, ja määritä sen arvojoukko tarkastelemalla raja-arvoja \n\n​\n\n[MATH text=\\lim \\_{x\\rightarrow -\\infty }] ja [MATH text=\\lim \\_{x\\rightarrow \\infty }]\n\n​\n\n9.2. Muodosta funktion [MATH text=f] käänteisfunktion [MATH text=f^{-1}]  lauseke.\n",
+          "deleted_at": null,
+          "feedback": "[MATH text=39-6231615df77a49af8e3]\n",
+          "exam_id": 59299,
+          "content": {
+            "text": "Käänteisfunktio \n\n​\n\nTarkastellaan funktiota  [MATH text=f:][MATH text=R→R], [MATH text=f(x)=\\frac{x}{1+\\left|x\\right|}]\n\n9.1. Osoita, että funktio  on aidosti kasvava, ja määritä sen arvojoukko tarkastelemalla raja-arvoja \n\n​\n\n[MATH text=\\lim \\_{x\\rightarrow -\\infty }] ja [MATH text=\\lim \\_{x\\rightarrow \\infty }]\n\n​\n\n9.2. Muodosta funktion [MATH text=f] käänteisfunktion [MATH text=f^{-1}]  lauseke.\n",
+            "displayNumber": "9."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-05-31T10:59:49.462646",
+          "max_score": null,
+          "groupping": null,
+          "id": 1886830,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "bcf1227f-196f-45aa-bc40-d0b771002d97",
+          "order_number": 11,
+          "multipart": true,
+          "created_at": "2019-12-16T12:27:16.816948"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Derivaatta ja integraali\n\n&NewLine;\n\nMääritä seuraavien funktioiden derivaattafunktiot tai integraalifunktiot ja kirjoita pelkät vastaukset annettuihin vastauskenttiin. Älä perustele tämän tehtävän vastauksia.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 59299,
+          "content": {
+            "text": "Derivaatta ja integraali\n\n&NewLine;\n\nMääritä seuraavien funktioiden derivaattafunktiot tai integraalifunktiot ja kirjoita pelkät vastaukset annettuihin vastauskenttiin. Älä perustele tämän tehtävän vastauksia.\n",
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "0c2302e5-8de3-41b7-9113-e7132c974d35",
+            "a99eb3a8-cebf-4bd7-a812-d51292ee15d4",
+            "381c42d5-c547-4234-9495-1bf6be793dd9",
+            "bbe758a7-9929-407d-8199-157fcd7fd695"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-05-31T10:59:49.455844",
+          "max_score": null,
+          "groupping": null,
+          "id": 1886193,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "95187183-87a2-4d39-b740-72076c8cf863",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2019-12-16T10:35:13.141332"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Pistetulo \n\n&NewLine;\n\nMääritä kaikki tason vektorit [MATH text=\\overline{\\text{u}}], jotka toteuttavat ehdot \n\n&NewLine;\n\n[MATH text=\\left(\\frac{3}{5}\\overline{\\text{i}}+\\frac{4}{5}\\overline{\\text{j}}\\right)\\cdot\\overline{\\text{u}}=3] ja [MATH text=\\overline{\\text{u}}\\cdot\\overline{\\text{u}}\\ =\\ 25]\n",
+          "deleted_at": null,
+          "feedback": "[IMS id=39-6230805df762c446a48]\n",
+          "exam_id": 59299,
+          "content": {
+            "text": "Pistetulo \n\n&NewLine;\n\nMääritä kaikki tason vektorit [MATH text=\\overline{\\text{u}}], jotka toteuttavat ehdot \n\n&NewLine;\n\n[MATH text=\\left(\\frac{3}{5}\\overline{\\text{i}}+\\frac{4}{5}\\overline{\\text{j}}\\right)\\cdot\\overline{\\text{u}}=3] ja [MATH text=\\overline{\\text{u}}\\cdot\\overline{\\text{u}}\\ =\\ 25]\n",
+            "displayNumber": "3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-05-31T10:59:49.452894",
+          "max_score": null,
+          "groupping": null,
+          "id": 1886360,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "27d036a5-ff9a-45e0-a1fb-e5621b5095a7",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2019-12-16T10:54:28.818612"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kolmio (12 p.)\n\n&NewLine;\n\nSuorakulmaisen kolmion kateettien pituudet ovat 350 ja 1200. Kirjoita kohdissa 1.1.–1.3. pelkät vastausten lukuarvot annettuihin vastauskenttiin. Älä perustele tämän tehtävän vastauksia. Tässä tehtävässä ei voi käyttää kaavaeditoria. Kunkin vastauksen maksimipituus on 10 merkkiä.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 59299,
+          "content": {
+            "text": "Kolmio (12 p.)\n\n&NewLine;\n\nSuorakulmaisen kolmion kateettien pituudet ovat 350 ja 1200. Kirjoita kohdissa 1.1.–1.3. pelkät vastausten lukuarvot annettuihin vastauskenttiin. Älä perustele tämän tehtävän vastauksia. Tässä tehtävässä ei voi käyttää kaavaeditoria. Kunkin vastauksen maksimipituus on 10 merkkiä.\n",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "f8bd16d2-d09b-4977-8947-42190f83f641",
+            "f79e1ec1-2d81-431b-9b46-9f045e27800a",
+            "9b1bd989-bd6a-4aee-b57d-a772069e4ce6"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-05-31T10:59:49.407125",
+          "max_score": null,
+          "groupping": null,
+          "id": 1886184,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "c10f1184-c070-427d-bf64-3bda23df19c5",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2019-12-16T10:30:37.971466"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**B2-osa**\n\n&NewLine;\n\n**Ratkaise kolme tehtävistä 10–13. Tässä osassa saat käyttää kaikkia koejärjestelmän ohjelmia ja omaa laskintasi, kun olet palauttanut A-osan vastaukset.**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 59299,
+          "content": {
+            "text": "**B2-osa**\n\n&NewLine;\n\n**Ratkaise kolme tehtävistä 10–13. Tässä osassa saat käyttää kaikkia koejärjestelmän ohjelmia ja omaa laskintasi, kun olet palauttanut A-osan vastaukset.**\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-05-31T10:59:49.402841",
+          "max_score": null,
+          "groupping": null,
+          "id": 2248444,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "24f655d5-6b91-4f6d-8b95-09c80a6f7353",
+          "order_number": 12,
+          "multipart": true,
+          "created_at": "2020-03-31T12:36:36.698037"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Newtonin menetelmä (12 p.)\n\n&NewLine;\n\nAineisto:\n\n11.A [LINK text=Kuva: Funktion kuvaaja|url=https://yle.fi/plus/abitreenit/2019/syksy/M-fi/attachments/index.html#11.A]\n\n&NewLine;\n\nToisinaan Newtonin menetelmä ei suppene kohti haluttua nollakohtaa, vaan juuttuu kahden eri pisteen välille: on olemassa sellaiset pisteet  ja  että   ja  kaikille .\n\n&NewLine;\n\nEsitä tilanne graafisesti funktion 11.A kuvaajan tapauksessa ja määritä pisteiden  ja  likiarvot. Voit tehdä piirto-ohjelmalla merkintöjä kuvaan 11.A ja liittää sen vastaukseesi. Selitä sanallisesti, missä tilanteessa edellä mainittu ilmiö esiintyy.",
+          "deleted_at": null,
+          "feedback": "[IMS id=39-6231885df77d3f6b71e]\n",
+          "exam_id": 59299,
+          "content": {
+            "text": "Newtonin menetelmä (12 p.)\n\n&NewLine;\n\nAineisto:\n\n11.A [LINK text=Kuva: Funktion kuvaaja|url=https://yle.fi/plus/abitreenit/2019/syksy/M-fi/attachments/index.html#11.A]\n\n&NewLine;\n\nToisinaan Newtonin menetelmä ei suppene kohti haluttua nollakohtaa, vaan juuttuu kahden eri pisteen välille: on olemassa sellaiset pisteet  ja  että   ja  kaikille .\n\n&NewLine;\n\nEsitä tilanne graafisesti funktion 11.A kuvaajan tapauksessa ja määritä pisteiden  ja  likiarvot. Voit tehdä piirto-ohjelmalla merkintöjä kuvaan 11.A ja liittää sen vastaukseesi. Selitä sanallisesti, missä tilanteessa edellä mainittu ilmiö esiintyy.",
+            "displayNumber": "11."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-05-31T10:59:49.399491",
+          "max_score": null,
+          "groupping": null,
+          "id": 1887071,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "977307c1-93f8-47ec-ac99-3526293482a5",
+          "order_number": 14,
+          "multipart": true,
+          "created_at": "2019-12-16T12:48:02.556675"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Suuria lukuja (12 p.)\n\n​\n\n Mitkä luvuista \n\n111 111 111, 222 222 222, 333 333 333\n\n ovat jaollisia yhdeksällä?\n\n​\n\nOnko luku \n\n[MATH text=111111111^{111111111}+ 222222222^{222222222}+333333333^{333333333}]\n\n​\n\njaollinen yhdeksällä? Perustele vastauksesi.\n\n​\n",
+          "deleted_at": null,
+          "feedback": "Luku on jaollinen yhdeksällä jos ja vain jos sen numeroiden summa on jaollinen\n\nyhdeksällä.\n\nLukujen 111 111 111, 222 222 222 ja 333 333 333 numeroiden summat ovat 9, 18 ja\n\n27, eli kaikki ovat jaollisia yhdeksällä. (Voi laskea myös suoraan laskimella.)\n\n&NewLine;\n\n&NewLine;\n\nJos n on jaollinen yhdeksällä, niin myös n[SUP text=k] on jaollinen yhdeksällä, kun k on\n\npositiivinen kokonaisluku TAI 111 111 111[SUP text=111 111 111] = 111 111 111 · n, missä n on\n\nkokonaisluku \n\nSiten 111 111 111[SUP text=111 111 111] on jaollinen yhdeksällä, samoin muut termit\n\n\u001d Myös summa on siten jaollinen yhdeksällä\n",
+          "exam_id": 59299,
+          "content": {
+            "text": "Suuria lukuja (12 p.)\n\n​\n\n Mitkä luvuista \n\n111 111 111, 222 222 222, 333 333 333\n\n ovat jaollisia yhdeksällä?\n\n​\n\nOnko luku \n\n[MATH text=111111111^{111111111}+ 222222222^{222222222}+333333333^{333333333}]\n\n​\n\njaollinen yhdeksällä? Perustele vastauksesi.\n\n​\n",
+            "displayNumber": "8."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-05-31T10:59:49.390518",
+          "max_score": null,
+          "groupping": null,
+          "id": 1886737,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "fd44de8b-613b-4246-be94-c6bfd67ae0e5",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2019-12-16T12:18:54.680674"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Joukon alkioiden summa (12 p.)\n\n​\n\nTarkastellaan joukkoja \n\n​\n\n[MATH text=A\\_1] = {0} , [MATH text=A\\_2] = {1,2}, [MATH text=A\\_3] = {3,4,5}, [MATH text=A\\_4] = {6,7,8,9,}, ...\n\n​\n\nJoukossa [MATH text=A\\_k] on siis [MATH text=k] alkiota, jotka ovat peräkkäisiä kokonaislukuja ja joista pienin on yhtä suurempi kuin joukon [MATH text=A\\_{k-1}]  suurin alkio. Joukon alkioiden summa tarkoittaa sitä, että joukkoon kuuluvat luvut lasketaan yhteen. Esimerkiksi joukon [MATH text=A\\_3]  alkioiden summa on 3 + 4 +5 = 12 .\n\n​\n\nMääritä joukon [MATH text=A\\_6]  alkioiden summa sekä joukon [MATH text=A\\_{2019}]  alkioiden summa. Muodosta yleinen polynomifunktio [MATH text=P(k)] , joka antaa joukon [MATH text=A\\_k]  alkioiden summan kaikilla \n",
+          "deleted_at": null,
+          "feedback": "[IMS id=39-6232075df77e6140941]\n",
+          "exam_id": 59299,
+          "content": {
+            "text": "Joukon alkioiden summa (12 p.)\n\n​\n\nTarkastellaan joukkoja \n\n​\n\n[MATH text=A\\_1] = {0} , [MATH text=A\\_2] = {1,2}, [MATH text=A\\_3] = {3,4,5}, [MATH text=A\\_4] = {6,7,8,9,}, ...\n\n​\n\nJoukossa [MATH text=A\\_k] on siis [MATH text=k] alkiota, jotka ovat peräkkäisiä kokonaislukuja ja joista pienin on yhtä suurempi kuin joukon [MATH text=A\\_{k-1}]  suurin alkio. Joukon alkioiden summa tarkoittaa sitä, että joukkoon kuuluvat luvut lasketaan yhteen. Esimerkiksi joukon [MATH text=A\\_3]  alkioiden summa on 3 + 4 +5 = 12 .\n\n​\n\nMääritä joukon [MATH text=A\\_6]  alkioiden summa sekä joukon [MATH text=A\\_{2019}]  alkioiden summa. Muodosta yleinen polynomifunktio [MATH text=P(k)] , joka antaa joukon [MATH text=A\\_k]  alkioiden summan kaikilla \n",
+            "displayNumber": "13."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-05-31T10:59:49.396502",
+          "max_score": null,
+          "groupping": null,
+          "id": 1887160,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "b06ad613-3a31-4db9-825e-f119d5953ab7",
+          "order_number": 16,
+          "multipart": true,
+          "created_at": "2019-12-16T12:54:44.425738"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Tarkista, että vastasit oikeaan määrään tehtäviä. Älä jätä mitään merkintöjä sellaisen tehtävän vastaukselle varattuun tilaan, jota et halua jättää arvosteltavaksi.**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 59299,
+          "content": {
+            "text": "**Tarkista, että vastasit oikeaan määrään tehtäviä. Älä jätä mitään merkintöjä sellaisen tehtävän vastaukselle varattuun tilaan, jota et halua jättää arvosteltavaksi.**\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-05-31T10:59:49.410805",
+          "max_score": null,
+          "groupping": null,
+          "id": 1887187,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "3a87d85a-9a4f-4118-a3c5-48cb7c7cdf4f",
+          "order_number": 17,
+          "multipart": true,
+          "created_at": "2019-12-16T12:54:56.947044"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kaksi paraabelia\n\n​\n\nAnna esimerkki kahdesta paraabelista, joilla on täsmälleen yksi sivuamispiste; sivuamispiste ei saa olla kummankaan paraabelin huippupiste. Anna paraabelit muodossa [MATH text=y=ax^2+bx+c] .\n",
+          "deleted_at": null,
+          "feedback": "[IMS id=39-6231365df7747e62580]\n",
+          "exam_id": 59299,
+          "content": {
+            "text": "Kaksi paraabelia\n\n​\n\nAnna esimerkki kahdesta paraabelista, joilla on täsmälleen yksi sivuamispiste; sivuamispiste ei saa olla kummankaan paraabelin huippupiste. Anna paraabelit muodossa [MATH text=y=ax^2+bx+c] .\n",
+            "displayNumber": "6."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-05-31T10:59:49.413891",
+          "max_score": null,
+          "groupping": null,
+          "id": 1886521,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "68657270-9140-43cd-8c40-2b52f406770e",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2019-12-16T11:36:54.416332"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Satunnaispolynomit (12 p.)\n\n​\n\nToisen asteen polynomissa x[SUP text=2] [MATH text=-nx+n]  esiintyvä luku [MATH text=n]  arvotaan heittämällä tavallista 6-sivuista noppaa ja polynomissa [MATH text=x^2-mx+m] esiintyvä luku [MATH text=m]  arvotaan heittämällä 8-sivuista noppaa, jonka silmäluvut ovat 1,2,.....8. Kuinka suurella todennäköisyydellä ainakin toisella polynomilla on kaksinkertainen nollakohta?",
+          "deleted_at": null,
+          "feedback": "[IMS id=39-6231405df775c409a0b]\n",
+          "exam_id": 59299,
+          "content": {
+            "text": "Satunnaispolynomit (12 p.)\n\n​\n\nToisen asteen polynomissa x[SUP text=2] [MATH text=-nx+n]  esiintyvä luku [MATH text=n]  arvotaan heittämällä tavallista 6-sivuista noppaa ja polynomissa [MATH text=x^2-mx+m] esiintyvä luku [MATH text=m]  arvotaan heittämällä 8-sivuista noppaa, jonka silmäluvut ovat 1,2,.....8. Kuinka suurella todennäköisyydellä ainakin toisella polynomilla on kaksinkertainen nollakohta?",
+            "displayNumber": "7."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-05-31T10:59:49.417022",
+          "max_score": null,
+          "groupping": null,
+          "id": 1886626,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "349a2b09-f6dd-498c-b3d4-832541809cb8",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2019-12-16T12:14:03.987997"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Eksponentti- ja trigonometriset funktiot \n\n&NewLine;\n\nMääritellään [MATH text=f(x)=e^{\\sin x}] , kun [MATH text=x ∈ ℝ].\n\n&NewLine;\n\n4.1. Määritä funktion [MATH text=f(x)]\n\n  suurin ja pienin arvo. \n\n4.2. Osoita, että [MATH text=f(x)≥e^{1-\\cos x}] kaikilla [MATH text=0≤x≤\\frac{\\pi}{2}]\n",
+          "deleted_at": null,
+          "feedback": "[IMS id=39-6230845df76a2d81099]\n",
+          "exam_id": 59299,
+          "content": {
+            "text": "Eksponentti- ja trigonometriset funktiot \n\n&NewLine;\n\nMääritellään [MATH text=f(x)=e^{\\sin x}] , kun [MATH text=x ∈ ℝ].\n\n&NewLine;\n\n4.1. Määritä funktion [MATH text=f(x)]\n\n  suurin ja pienin arvo. \n\n4.2. Osoita, että [MATH text=f(x)≥e^{1-\\cos x}] kaikilla [MATH text=0≤x≤\\frac{\\pi}{2}]\n",
+            "displayNumber": "4."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-05-31T10:59:49.420174",
+          "max_score": null,
+          "groupping": null,
+          "id": 1886425,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "932cd1ab-5692-40c2-bb4a-f9d610d9a2b1",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2019-12-16T11:28:17.387699"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kolmion pinta-ala on \\_\\_\\_\\_\\_\\_\\_.\n",
+          "deleted_at": null,
+          "feedback": "210000\n",
+          "exam_id": 59299,
+          "content": {
+            "text": "Kolmion pinta-ala on \\_\\_\\_\\_\\_\\_\\_.\n",
+            "displayNumber": "1.1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-31T10:59:49.423031",
+          "max_score": null,
+          "groupping": null,
+          "id": 1886187,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "9b1bd989-bd6a-4aee-b57d-a772069e4ce6",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2019-12-16T10:30:37.980237"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**A-osa**\n\n**Ratkaise kaikki tämän osan tehtävät 1–4.**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 59299,
+          "content": {
+            "text": "**A-osa**\n\n**Ratkaise kaikki tämän osan tehtävät 1–4.**\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-05-31T10:59:49.425993",
+          "max_score": null,
+          "groupping": null,
+          "id": 1886183,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "03ddec29-c2c0-424e-9607-dad9610d6266",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2019-12-16T10:30:37.967764"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kolmion hypotenuusan pituus on \\_\\_\\_.\n",
+          "deleted_at": null,
+          "feedback": "1250 \n",
+          "exam_id": 59299,
+          "content": {
+            "text": "Kolmion hypotenuusan pituus on \\_\\_\\_.\n",
+            "displayNumber": "1.2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-31T10:59:49.428866",
+          "max_score": null,
+          "groupping": null,
+          "id": 1886186,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "f79e1ec1-2d81-431b-9b46-9f045e27800a",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2019-12-16T10:30:37.977294"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kun [MATH text=f(x)] = [MATH text=x^3+x^2], niin [MATH text=\\int\\_{ }^{ }f\\left(x\\right)dx] = \\_\\_\\_ + [MATH text=C]\n",
+          "deleted_at": null,
+          "feedback": "[MATH text=\\frac{1}{4}x^{4\\ }+\\frac{1}{3}x^3]\n",
+          "exam_id": 59299,
+          "content": {
+            "text": "Kun [MATH text=f(x)] = [MATH text=x^3+x^2], niin [MATH text=\\int\\_{ }^{ }f\\left(x\\right)dx] = \\_\\_\\_ + [MATH text=C]\n",
+            "displayNumber": "2.2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-31T10:59:49.437148",
+          "max_score": null,
+          "groupping": null,
+          "id": 1886196,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "381c42d5-c547-4234-9495-1bf6be793dd9",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2019-12-16T10:35:13.149984"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kun f(x) = 4x + 3 , niin [MATH text=f'](x) = \\_\\_\\_\n",
+          "deleted_at": null,
+          "feedback": "4\n",
+          "exam_id": 59299,
+          "content": {
+            "text": "Kun f(x) = 4x + 3 , niin [MATH text=f'](x) = \\_\\_\\_\n",
+            "displayNumber": "2.1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-31T10:59:49.446671",
+          "max_score": null,
+          "groupping": null,
+          "id": 1886197,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "bbe758a7-9929-407d-8199-157fcd7fd695",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2019-12-16T10:35:13.152843"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**B1-osa**\n\n**Ratkaise kolme tehtävistä 5–9. Tässä osassa saat käyttää kaikkia koejärjestelmän ohjelmia ja omaa laskintasi, kun olet palauttanut A-osan vastaukset.**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 59299,
+          "content": {
+            "text": "**B1-osa**\n\n**Ratkaise kolme tehtävistä 5–9. Tässä osassa saat käyttää kaikkia koejärjestelmän ohjelmia ja omaa laskintasi, kun olet palauttanut A-osan vastaukset.**\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-05-31T10:59:49.449569",
+          "max_score": null,
+          "groupping": null,
+          "id": 1886440,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "096e04a6-ff42-4f2f-aca7-ce7c2b886dcf",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2019-12-16T11:28:41.527842"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Polynomiepäyhtälö \n\n​\n\nRatkaise epäyhtälö [MATH text=x^3-2x^2-11x+12≥0]. Voit käyttää esimerkiksi laskinohjelmistoa. Selitä sanallisesti (enintään 1000 merkillä), miten polynomifunktion tulomuotoa [MATH text=p(x)=(x-a)(x-b)(x-c)] voidaan käyttää epäyhtälön [MATH text=p(x)≥0]  ratkaisemiseen, kun [MATH text=a<b<c] .\n\n​\n",
+          "deleted_at": null,
+          "feedback": "[IMS id=39-6230915df76bbf48807]\n",
+          "exam_id": 59299,
+          "content": {
+            "text": "Polynomiepäyhtälö \n\n​\n\nRatkaise epäyhtälö [MATH text=x^3-2x^2-11x+12≥0]. Voit käyttää esimerkiksi laskinohjelmistoa. Selitä sanallisesti (enintään 1000 merkillä), miten polynomifunktion tulomuotoa [MATH text=p(x)=(x-a)(x-b)(x-c)] voidaan käyttää epäyhtälön [MATH text=p(x)≥0]  ratkaisemiseen, kun [MATH text=a<b<c] .\n\n​\n",
+            "displayNumber": "5."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-05-31T10:59:49.459578",
+          "max_score": null,
+          "groupping": null,
+          "id": 1886456,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "5b32f435-192e-4c92-93bc-41c95ad14666",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2019-12-16T11:30:34.286061"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kun [MATH text=f(x)=12\\sin(3x)] niin, [MATH text=\\int\\_{ }^{ }f\\left(x\\right)dx] = \\_\\_ [MATH text=C]\n",
+          "deleted_at": null,
+          "feedback": "[MATH text=-4\\cos(3x)]\n",
+          "exam_id": 59299,
+          "content": {
+            "text": "Kun [MATH text=f(x)=12\\sin(3x)] niin, [MATH text=\\int\\_{ }^{ }f\\left(x\\right)dx] = \\_\\_ [MATH text=C]\n",
+            "displayNumber": "2.4."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-31T10:59:49.466154",
+          "max_score": null,
+          "groupping": null,
+          "id": 1886194,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "0c2302e5-8de3-41b7-9113-e7132c974d35",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2019-12-16T10:35:13.144258"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Pomppiva pallo (12 p.)\n\n&NewLine;\n\nPomppivan pallon korkeutta lattiasta kuvaa tietokonepelissä funktio\n\n[MATH text=h(x)=\\frac{25\\left|\\sin\\left(x\\right)\\right|}{x+5}] , [MATH text=x≥0] ,\n\n&NewLine;\n\nkun [MATH text=x] on pallon vaakasuoraan kulkema matka ja [MATH text=h(x)] on pallon korkeus metreinä. Kuinka moni pomppu on yli metrin korkuinen?\n\n&NewLine;\n",
+          "deleted_at": null,
+          "feedback": "Vastaus:_ Kuusi pomppua_ \n\nPerustelut\n\nKuva, jossa y = 1 tai ruudukko, jossa 1 kohdalla viiva \n\nSelitys, mikä on kuvan ja vastauksen yhteys \n\nEi ylityksiä kuvan ulkopuolella, koska pomput pienenevät TAI sini rajoitettu ja\n\njakaja on suuri \n\nSeitsemäs pomppu on alle yhden metrin (zoomattu kuva tai lasku)\n",
+          "exam_id": 59299,
+          "content": {
+            "text": "Pomppiva pallo (12 p.)\n\n&NewLine;\n\nPomppivan pallon korkeutta lattiasta kuvaa tietokonepelissä funktio\n\n[MATH text=h(x)=\\frac{25\\left|\\sin\\left(x\\right)\\right|}{x+5}] , [MATH text=x≥0] ,\n\n&NewLine;\n\nkun [MATH text=x] on pallon vaakasuoraan kulkema matka ja [MATH text=h(x)] on pallon korkeus metreinä. Kuinka moni pomppu on yli metrin korkuinen?\n\n&NewLine;\n",
+            "displayNumber": "10."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-05-31T10:59:49.46926",
+          "max_score": null,
+          "groupping": null,
+          "id": 1887003,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "ff7ce8bc-bbc7-49c9-8067-e417b52c3cad",
+          "order_number": 13,
+          "multipart": true,
+          "created_at": "2019-12-16T12:41:37.004007"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Summan arviointi (12 p.)\n\n&NewLine;\n\nAineisto:\n\n12.A [LINK url=https://yle.fi/plus/abitreenit/2019/syksy/M-fi/attachments/index.html#12.A|text=Tiedosto: Pylväät]\n\n&NewLine;\n\nOlkoon [MATH text=n] positiivinen kokonaisluku. Osoita, että\n\n&NewLine;\n\n[MATH text=\\frac{127}{7}\\left(n-1\\right)^7\\le\\sum\\_{k=n}^{2n-1}k^6\\le\\frac{127}{7}n^7]\n\n&NewLine;\n\n&NewLine;\n\nVoit käyttää aineistoa 12.A tehtävän tilanteen hahmottamiseksi, mutta tämä ei ole välttämätöntä ratkaisun kannalta. Muista myös, että pelkät kokeilut eivät riitä matemaattisen väitteen perusteluksi.\n\n&NewLine;\n",
+          "deleted_at": null,
+          "feedback": "[IMS id=39-6231905df77de31da92]\n",
+          "exam_id": 59299,
+          "content": {
+            "text": "Summan arviointi (12 p.)\n\n&NewLine;\n\nAineisto:\n\n12.A [LINK url=https://yle.fi/plus/abitreenit/2019/syksy/M-fi/attachments/index.html#12.A|text=Tiedosto: Pylväät]\n\n&NewLine;\n\nOlkoon [MATH text=n] positiivinen kokonaisluku. Osoita, että\n\n&NewLine;\n\n[MATH text=\\frac{127}{7}\\left(n-1\\right)^7\\le\\sum\\_{k=n}^{2n-1}k^6\\le\\frac{127}{7}n^7]\n\n&NewLine;\n\n&NewLine;\n\nVoit käyttää aineistoa 12.A tehtävän tilanteen hahmottamiseksi, mutta tämä ei ole välttämätöntä ratkaisun kannalta. Muista myös, että pelkät kokeilut eivät riitä matemaattisen väitteen perusteluksi.\n\n&NewLine;\n",
+            "displayNumber": "12."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-05-31T10:59:49.472416",
+          "max_score": null,
+          "groupping": null,
+          "id": 1887134,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "659639c4-4f1c-461b-83a1-1b7ed0b4288e",
+          "order_number": 15,
+          "multipart": true,
+          "created_at": "2019-12-16T12:52:51.977379"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kolmion hypotenuusaa vasten piirretyn korkeusjanan pituus on \\_\\_\\_.\n",
+          "deleted_at": null,
+          "feedback": "336/336,0/340\n",
+          "exam_id": 59299,
+          "content": {
+            "text": "Kolmion hypotenuusaa vasten piirretyn korkeusjanan pituus on \\_\\_\\_.\n",
+            "displayNumber": "1.3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-31T10:59:49.475235",
+          "max_score": null,
+          "groupping": null,
+          "id": 1886185,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "f8bd16d2-d09b-4977-8947-42190f83f641",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2019-12-16T10:30:37.974637"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kun [MATH text=f(x)=(2x-1)^7], niin [MATH text=f'(x)] = \\_\\_\\_\n",
+          "deleted_at": null,
+          "feedback": "[MATH text=14(2x-1)^6]\n",
+          "exam_id": 59299,
+          "content": {
+            "text": "Kun [MATH text=f(x)=(2x-1)^7], niin [MATH text=f'(x)] = \\_\\_\\_\n",
+            "displayNumber": "2.3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-05-31T10:59:49.478289",
+          "max_score": null,
+          "groupping": null,
+          "id": 1886195,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "a99eb3a8-cebf-4bd7-a812-d51292ee15d4",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2019-12-16T10:35:13.147226"
+        }
+      ],
+      "name": "Matematiikka, pitkä oppimäärä syksy 2019",
+      "settings": {},
+      "exam_type": "yo-koe",
+      "classification": {
+        "category": "",
+        "disable_saving": false,
+        "hide_review_buttons": false,
+        "exam_type": "yo-koe",
+        "year": "2019",
+        "language": "fi-FI",
+        "hide_statistics": false,
+        "show_exam_series": false,
+        "force_yletunnus": false,
+        "subject": "matematiikka-pitkä",
+        "published": true,
+        "semester": "fall"
+      },
+      "published_at": "2019-12-16T13:17:56.000Z",
+      "language": "fi-FI",
+      "id": 59299,
+      "reviews": [],
+      "is_open": true,
+      "uuid": "200c62c8-ba2e-4cd7-94ae-71fb1f19105a"
+    }
+  ]
+}

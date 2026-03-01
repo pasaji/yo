@@ -1,0 +1,380 @@
+{
+  "meta": {
+    "count": 1
+  },
+  "data": [
+    {
+      "tags": [
+        ""
+      ],
+      "main_text": "**Enintään 6 tehtävään saa vastata. Tehtävät arvostellaan pistein 0-6, paitsi muita vaativammat, +:lla merkityt jokeritehtävät, jotka arvostellaan pistein 0-9. Moniosaisissa, esimerkiksi a-, b- ja c-kohdan sisältävissä tehtävissä voidaan erikseen ilmoittaa eri alakohtien enimmäispistemäärät.**\n",
+      "characters": null,
+      "deleted_at": null,
+      "series_uuids": [],
+      "questions": [
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252838",
+            "18-216307"
+          ],
+          "main_text": "Pohdi niitä yksilö- ja sosiaalipsykologisia tekijöitä, jotka vaikuttavat nuoren liittymiseen johonkin ääriryhmään.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1065,
+          "content": {
+            "text": "Pohdi niitä yksilö- ja sosiaalipsykologisia tekijöitä, jotka vaikuttavat nuoren liittymiseen johonkin ääriryhmään.\n",
+            "displayNumber": "+9."
+          },
+          "images": null,
+          "settings": {
+            "joker": true,
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T09:35:50.088239",
+          "max_score": null,
+          "groupping": null,
+          "id": 17076,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "9384df93-4506-4204-a55a-7e142ac260b7",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2017-06-09T08:56:09.600854"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-208020",
+            "18-252839"
+          ],
+          "main_text": "\"Älykkyys on perinnöllistä.\" Arvioi väitettä psykologisen tutkimustiedon pohjalta ja esitä perusteluja väitteen puolesta ja sitä vastaan.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1065,
+          "content": {
+            "text": "\"Älykkyys on perinnöllistä.\" Arvioi väitettä psykologisen tutkimustiedon pohjalta ja esitä perusteluja väitteen puolesta ja sitä vastaan.\n",
+            "displayNumber": "+10."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T09:35:50.094817",
+          "max_score": null,
+          "groupping": null,
+          "id": 17149,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "17d54896-bfce-469a-9673-5ff5b11ac78e",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2017-06-09T08:57:47.59595"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252837",
+            "18-252838",
+            "18-252839",
+            "18-252840",
+            "18-252841",
+            "18-253197"
+          ],
+          "main_text": "Esittele yksi sinulle tärkeä koe tai tutkimus: mitä tutkittiin, millä menetelmillä, ja mitä tuloksia saatiin? Perustele lisäksi, miksi valitsemasi koe tai tutkimus on sinulle tärkeä. Arvioi myös lyhyesti sen merkitystä psykologialle.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1065,
+          "content": {
+            "text": "Esittele yksi sinulle tärkeä koe tai tutkimus: mitä tutkittiin, millä menetelmillä, ja mitä tuloksia saatiin? Perustele lisäksi, miksi valitsemasi koe tai tutkimus on sinulle tärkeä. Arvioi myös lyhyesti sen merkitystä psykologialle.\n",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T09:35:50.09809",
+          "max_score": null,
+          "groupping": null,
+          "id": 15044,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "a5356c09-43cd-4de8-a6d7-e63887526894",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-06-09T08:06:46.029636"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-143886",
+            "18-252838",
+            "18-215968"
+          ],
+          "main_text": "Mitä haasteita liittyy vauvaikäisen psyykkisen kehityksen tutkimiseen?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1065,
+          "content": {
+            "text": "Mitä haasteita liittyy vauvaikäisen psyykkisen kehityksen tutkimiseen?\n",
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T09:35:50.10863",
+          "max_score": null,
+          "groupping": null,
+          "id": 15046,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "9ca5eae7-f31b-444c-877f-eea6b8bb2138",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2017-06-09T08:07:19.488263"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252839",
+            "18-208051"
+          ],
+          "main_text": "Nykyään ihmiset puhuvat usein kännykkäänsä julkisilla paikoilla, kuten liikennevälineissä, joissa on paljon taustahälyä ja muita häiriötekijöitä. Miten kännykän käyttäjän on mahdollista keskittyä puhelinkeskusteluunsa tällaisissa tilanteissa? Perustele kognitiivisen psykologian näkökulmasta.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1065,
+          "content": {
+            "text": "Nykyään ihmiset puhuvat usein kännykkäänsä julkisilla paikoilla, kuten liikennevälineissä, joissa on paljon taustahälyä ja muita häiriötekijöitä. Miten kännykän käyttäjän on mahdollista keskittyä puhelinkeskusteluunsa tällaisissa tilanteissa? Perustele kognitiivisen psykologian näkökulmasta.\n",
+            "displayNumber": "6."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T09:35:50.1117",
+          "max_score": null,
+          "groupping": null,
+          "id": 15669,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "ecdb2934-3465-4969-ab06-90f630a37295",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2017-06-09T08:26:52.786512"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252838",
+            "18-208261"
+          ],
+          "main_text": "Mitä saamassasi kasvatuksessa on sellaista, mitä arvostat ja minkä haluat välittää myös omille lapsillesi? Valitse yksi keskeinen tekijä, jota kasvatuksessasi arvostat, ja tarkastele sen merkitystä kehityspsykologisin perustein.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1065,
+          "content": {
+            "text": "Mitä saamassasi kasvatuksessa on sellaista, mitä arvostat ja minkä haluat välittää myös omille lapsillesi? Valitse yksi keskeinen tekijä, jota kasvatuksessasi arvostat, ja tarkastele sen merkitystä kehityspsykologisin perustein.\n",
+            "displayNumber": "3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T09:35:50.114921",
+          "max_score": null,
+          "groupping": null,
+          "id": 15062,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "58049f9b-7b71-4170-b389-72a5394abe2b",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2017-06-09T08:08:33.563677"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-128677",
+            "18-204029",
+            "18-252838"
+          ],
+          "main_text": "Piaget'n teorian mukaan formaalit eli muodolliset operaatiot ovat ajattelun kehityksen viimeinen vaihe. Käsittele ajattelun kehittymistä tämän vaiheen jälkeen. Postformaaliin ajatteluun liittyy muun muassa mustavalkoisten joko-tai-päätelmien muuttuminen erilaiset näkökannat salliviksi sekä-että-päätelmiksi.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1065,
+          "content": {
+            "text": "Piaget'n teorian mukaan formaalit eli muodolliset operaatiot ovat ajattelun kehityksen viimeinen vaihe. Käsittele ajattelun kehittymistä tämän vaiheen jälkeen. Postformaaliin ajatteluun liittyy muun muassa mustavalkoisten joko-tai-päätelmien muuttuminen erilaiset näkökannat salliviksi sekä-että-päätelmiksi.\n",
+            "displayNumber": "4."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T09:35:50.076689",
+          "max_score": null,
+          "groupping": null,
+          "id": 15111,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "9ced4d77-2c87-4c8a-a694-aeae91025c37",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2017-06-09T08:12:39.321259"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252837",
+            "18-252838",
+            "18-208312",
+            "18-204676"
+          ],
+          "main_text": "Oheisessa tekstissä käsitellään koulumenestyksen ja temperamentin välisiä yhteyksiä. Esitä tämän tekstin ja muun psykologisen tiedon pohjalta perusteltuja ehdotuksia, miten opetuksessa ja kouluympäristössä voitaisiin ottaa temperamenttierot huomioon siten, että tuettaisiin jokaisen oppilaan oppimista.\n\n​\n\n_Tutkimukset osoittavat, että oppilaan temperamentin ja hänen koulumenestyksensä välillä on yhteys. Temperamentti siis vaikuttaa lapsen kognitiiviseen suoriutumiseen koulussa. Temperamentin on osoitettu olevan ennen kaikkea yhteydessä siihen, millaista opiskelustrategiaa tai opiskelutyyliä oppiaine vaatii. Temperamentilla on suorin yhteys koulumenestykseen silloin, kun hyvä oppiminen vaatii toistoa eli samanlaisen tehtävän suorittamista uudelleen ja uudelleen tai sitkeyttä ja peräänantamattomuutta eli kärsivällisyyttä pohtia samaa asiaa niin kauan, että lopulta osaa sen. _\n\n_Hyvä koulumenestys esimerkiksi matematiikassa kysyy juuri edellä mainittuja ominaisuuksia: jatkuvaa harjoittelua eli saman tehtävän toistamista, kunnes tietynlaisten tehtävien suorittaminen tapahtuu jo rutiinilla, ja uuden tehtävän ääressä viipymistä niin kauan, kunnes on ymmärtänyt asian. Missään ei ole kuitenkaan tutkittu, selittääkö synnynnäinen temperamentti mahdollisesti matemaattista lahjakkuutta. _\n\n_Vaikka yhteys temperamentin ja koulumenestyksen välillä on olemassa, ei asia kuitenkaan ole niin yksinkertainen, että temperamentti suoraan vaikuttaisi siihen, kuka on hyvä oppilas ja kuka menestyy koulussa, kuka ei. Kyse on jälleen siitä, että temperamentti tekee lapset erilaisiksi ja erilaiset lapset reagoivat eri tavoin samaan ympäristöön ja esimerkiksi saman opettajan antamaan opetukseen. Kun puhutaan lasten välisistä eroista, niin tässä yhteydessä ei siis tarkoiteta kognitiivisia tai motivationaalisia eroja lasten välillä ja niiden tuottamia eroja oppimisessa vaan sitä, että opettajalla on oma tyylinsä opettaa ja se sopii toisille lapsille paremmin kuin toisille._\n\n[CITE source=Ote teoksesta Keltikangas-Järvinen, L. (2004) Temperamentti - ihmisen yksilöllisyys]\n\n​\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1065,
+          "content": {
+            "text": "Oheisessa tekstissä käsitellään koulumenestyksen ja temperamentin välisiä yhteyksiä. Esitä tämän tekstin ja muun psykologisen tiedon pohjalta perusteltuja ehdotuksia, miten opetuksessa ja kouluympäristössä voitaisiin ottaa temperamenttierot huomioon siten, että tuettaisiin jokaisen oppilaan oppimista.\n\n​\n\n_Tutkimukset osoittavat, että oppilaan temperamentin ja hänen koulumenestyksensä välillä on yhteys. Temperamentti siis vaikuttaa lapsen kognitiiviseen suoriutumiseen koulussa. Temperamentin on osoitettu olevan ennen kaikkea yhteydessä siihen, millaista opiskelustrategiaa tai opiskelutyyliä oppiaine vaatii. Temperamentilla on suorin yhteys koulumenestykseen silloin, kun hyvä oppiminen vaatii toistoa eli samanlaisen tehtävän suorittamista uudelleen ja uudelleen tai sitkeyttä ja peräänantamattomuutta eli kärsivällisyyttä pohtia samaa asiaa niin kauan, että lopulta osaa sen. _\n\n_Hyvä koulumenestys esimerkiksi matematiikassa kysyy juuri edellä mainittuja ominaisuuksia: jatkuvaa harjoittelua eli saman tehtävän toistamista, kunnes tietynlaisten tehtävien suorittaminen tapahtuu jo rutiinilla, ja uuden tehtävän ääressä viipymistä niin kauan, kunnes on ymmärtänyt asian. Missään ei ole kuitenkaan tutkittu, selittääkö synnynnäinen temperamentti mahdollisesti matemaattista lahjakkuutta. _\n\n_Vaikka yhteys temperamentin ja koulumenestyksen välillä on olemassa, ei asia kuitenkaan ole niin yksinkertainen, että temperamentti suoraan vaikuttaisi siihen, kuka on hyvä oppilas ja kuka menestyy koulussa, kuka ei. Kyse on jälleen siitä, että temperamentti tekee lapset erilaisiksi ja erilaiset lapset reagoivat eri tavoin samaan ympäristöön ja esimerkiksi saman opettajan antamaan opetukseen. Kun puhutaan lasten välisistä eroista, niin tässä yhteydessä ei siis tarkoiteta kognitiivisia tai motivationaalisia eroja lasten välillä ja niiden tuottamia eroja oppimisessa vaan sitä, että opettajalla on oma tyylinsä opettaa ja se sopii toisille lapsille paremmin kuin toisille._\n\n[CITE source=Ote teoksesta Keltikangas-Järvinen, L. (2004) Temperamentti - ihmisen yksilöllisyys]\n\n​\n",
+            "displayNumber": "7."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T09:35:50.081451",
+          "max_score": null,
+          "groupping": null,
+          "id": 15670,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "af24a3fe-8f3d-4f9e-971e-dba49b3411ca",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2017-06-09T08:26:52.789964"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252841",
+            "18-208149"
+          ],
+          "main_text": "Valitse jokin TV-sarja tai muu TV-ohjelma. Tee suunnitelma sen positiivisten ja negatiivisten vaikutusten tutkimiseksi. Voit käyttää hyväksesi yhtä alla olevista ohjelmista tai valita jonkin muun TV-ohjelman.\n\n[IMS id=39-407463593a5cd61bc58][IMS id=39-407465593a5ea37f296|caption=1) http://nyt.hs.fi/kuvat/iso\\_webkuva/1101981250637.jpeg 2) www.helsinki.fi/.../images/2004/teksti\\_vk48.jpg 3) www.wallpaperbase.com/---/movie/24/24\\_1.jpg 4) http://www.wallpaperbase.com/wallpapers/movie/24/24\\_1.jpg 5) http://img43.exs.cx/img43/8420/34bo.jpg 6) www.uta.fi/.../kirsisalo2\\_400.jpg 8) http://net5.sbs.nl/images/database/l/lost/wallpaper/wa\\_lost-cast\\_02.jpg 9) http://www.amazon.ca/exec/obidos/ASIN/1563318393 10) http://www.yle.fi/uutiset]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1065,
+          "content": {
+            "text": "Valitse jokin TV-sarja tai muu TV-ohjelma. Tee suunnitelma sen positiivisten ja negatiivisten vaikutusten tutkimiseksi. Voit käyttää hyväksesi yhtä alla olevista ohjelmista tai valita jonkin muun TV-ohjelman.\n\n[IMS id=39-407463593a5cd61bc58][IMS id=39-407465593a5ea37f296|caption=1) http://nyt.hs.fi/kuvat/iso\\_webkuva/1101981250637.jpeg 2) www.helsinki.fi/.../images/2004/teksti\\_vk48.jpg 3) www.wallpaperbase.com/---/movie/24/24\\_1.jpg 4) http://www.wallpaperbase.com/wallpapers/movie/24/24\\_1.jpg 5) http://img43.exs.cx/img43/8420/34bo.jpg 6) www.uta.fi/.../kirsisalo2\\_400.jpg 8) http://net5.sbs.nl/images/database/l/lost/wallpaper/wa\\_lost-cast\\_02.jpg 9) http://www.amazon.ca/exec/obidos/ASIN/1563318393 10) http://www.yle.fi/uutiset]\n",
+            "displayNumber": "8."
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T09:35:50.085165",
+          "max_score": null,
+          "groupping": null,
+          "id": 16912,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "d96e52a6-cebd-4b8c-9d42-8914c083e7a4",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2017-06-09T08:53:40.123953"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-204648",
+            "18-252839"
+          ],
+          "main_text": "Potilas, jolla on ollut aivoverenkierron häiriö, tulee neuropsykologin vastaanotolle. Potilas itse kokee muistinsa heikentyneen. Neuropsykologin tekemässä tutkimuksessa käy ilmi, että potilaalla on vaikeuksia painaa mieleen sanalistoja sekä hänelle luettuja tarinoita ja sanapareja. Hän kuitenkin oppii ja pystyy palauttamaan mieleensä näkemiään kuvia ja kuvioita. Myös muilta osin potilaan suoriutuminen kognitiivisissa tehtävissä on normaalitasoista.\n\nAlla olevaan taulukkoon on koottu potilaan testitulokset ja vertailutietoja sadan (100) samanikäisen terveen koehenkilön suoritusten keskiarvo. Testitulokset ovat kuvitteelliset. Maksimipistemäärä kustakin testistä on 12.\n\n[IMS id=39-407449593a5963729a6] Pohdi yllä kuvattujen tutkimustulosten ja neuropsykologisen tiedon perusteella aivoverenkierron häiriön aiheuttaman aivovaurion sijaintia.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1065,
+          "content": {
+            "text": "Potilas, jolla on ollut aivoverenkierron häiriö, tulee neuropsykologin vastaanotolle. Potilas itse kokee muistinsa heikentyneen. Neuropsykologin tekemässä tutkimuksessa käy ilmi, että potilaalla on vaikeuksia painaa mieleen sanalistoja sekä hänelle luettuja tarinoita ja sanapareja. Hän kuitenkin oppii ja pystyy palauttamaan mieleensä näkemiään kuvia ja kuvioita. Myös muilta osin potilaan suoriutuminen kognitiivisissa tehtävissä on normaalitasoista.\n\nAlla olevaan taulukkoon on koottu potilaan testitulokset ja vertailutietoja sadan (100) samanikäisen terveen koehenkilön suoritusten keskiarvo. Testitulokset ovat kuvitteelliset. Maksimipistemäärä kustakin testistä on 12.\n\n[IMS id=39-407449593a5963729a6] Pohdi yllä kuvattujen tutkimustulosten ja neuropsykologisen tiedon perusteella aivoverenkierron häiriön aiheuttaman aivovaurion sijaintia.\n",
+            "displayNumber": "5."
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T09:35:50.091242",
+          "max_score": null,
+          "groupping": null,
+          "id": 15480,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "51777f4f-a5a8-4b3d-a12c-7202dc98b9ee",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2017-06-09T08:18:58.593247"
+        }
+      ],
+      "name": "Psykologia syksy 2007",
+      "settings": {},
+      "exam_type": "yo-koe",
+      "classification": {
+        "category": "",
+        "hide_review_buttons": null,
+        "exam_type": "yo-koe",
+        "year": "2007",
+        "language": "fi-FI",
+        "show_exam_series": null,
+        "force_yletunnus": false,
+        "subject": "psykologia",
+        "published": true,
+        "semester": "fall"
+      },
+      "published_at": "2017-06-09T08:03:36.464Z",
+      "language": "fi-FI",
+      "id": 1065,
+      "reviews": [],
+      "is_open": true,
+      "uuid": "c15656f5-0048-431b-9227-89f289d9a052"
+    }
+  ]
+}

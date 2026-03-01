@@ -1,0 +1,1034 @@
+{
+  "meta": {
+    "count": 1
+  },
+  "data": [
+    {
+      "tags": [
+        ""
+      ],
+      "main_text": "Koe koostuu yhdeksästä tehtävästä, joista vastataan viiteen. Tehtävät on jaettu kolmeen osaan. Osien I ja II tehtävistä saa kustakin enintään 20 pistettä ja osan III tehtävistä kustakin enintään 30 pistettä. Kokeen maksimipistemäärä on 120. Vastaa vähintään yhteen mutta enintään kahteen tehtävään kustakin osasta. \n",
+      "characters": null,
+      "deleted_at": null,
+      "series_uuids": [],
+      "questions": [
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "”Pärjään hyvin koulussa.” 2 p.\n\n&NewLine;\n\nTämä lause kuvaa parhaiten\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 83391,
+          "content": {
+            "text": "”Pärjään hyvin koulussa.” 2 p.\n\n&NewLine;\n\nTämä lause kuvaa parhaiten\n",
+            "displayNumber": "1.4."
+          },
+          "images": null,
+          "settings": {
+            "points": "",
+            "optionsLayout": "1",
+            "customizedPoints": true
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2021-01-20T10:38:24.766539",
+          "max_score": 2,
+          "groupping": null,
+          "id": 2742949,
+          "question_type": "CUSTOMIZED_FEEDBACK",
+          "options": [
+            {
+              "id": 16,
+              "text": "ulkoista motivaatiota.",
+              "parent": "9c09ecdc-52d0-4bf4-b75e-c9216b4e3119",
+              "points": "-1",
+              "choices": []
+            },
+            {
+              "id": 17,
+              "text": "itseä vahingoittavaa tulkintatyyliä/strategiaa.",
+              "parent": "9c09ecdc-52d0-4bf4-b75e-c9216b4e3119",
+              "points": "-1",
+              "choices": []
+            },
+            {
+              "id": 18,
+              "text": "pystyvyysuskomuksia/minäpystyvyysuskomuksia.",
+              "parent": "9c09ecdc-52d0-4bf4-b75e-c9216b4e3119",
+              "points": "2",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 19,
+              "text": "En vastaa.",
+              "parent": "9c09ecdc-52d0-4bf4-b75e-c9216b4e3119",
+              "points": "0",
+              "choices": []
+            }
+          ],
+          "uuid": "9c09ecdc-52d0-4bf4-b75e-c9216b4e3119",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2020-11-04T09:24:35.47465"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "”En koskaan pärjää englannin kokeissa. Äitikään ei pärjännyt.” 2 p.\n\n&NewLine;\n\nTämä lause kuvaa parhaiten\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 83391,
+          "content": {
+            "text": "”En koskaan pärjää englannin kokeissa. Äitikään ei pärjännyt.” 2 p.\n\n&NewLine;\n\nTämä lause kuvaa parhaiten\n",
+            "displayNumber": "1.9."
+          },
+          "images": null,
+          "settings": {
+            "points": "",
+            "optionsLayout": "1",
+            "customizedPoints": true
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2021-01-20T10:38:24.763794",
+          "max_score": 2,
+          "groupping": null,
+          "id": 2742968,
+          "question_type": "CUSTOMIZED_FEEDBACK",
+          "options": [
+            {
+              "id": 36,
+              "text": "ulkoista motivaatiota.",
+              "parent": "d9950f8c-23ca-44d6-acb7-adabe0d0bd30",
+              "points": "-1",
+              "choices": []
+            },
+            {
+              "id": 37,
+              "text": "sisäistä motivaatiota.",
+              "parent": "d9950f8c-23ca-44d6-acb7-adabe0d0bd30",
+              "points": "-1",
+              "choices": []
+            },
+            {
+              "id": 38,
+              "text": "pystyvyysuskomuksia/minäpystyvyysuskomuksia.\n\n&NewLine;",
+              "parent": "d9950f8c-23ca-44d6-acb7-adabe0d0bd30",
+              "points": "2",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 39,
+              "text": "En vastaa.",
+              "parent": "d9950f8c-23ca-44d6-acb7-adabe0d0bd30",
+              "points": "0",
+              "choices": []
+            }
+          ],
+          "uuid": "d9950f8c-23ca-44d6-acb7-adabe0d0bd30",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2020-11-04T09:28:45.30905"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": " ”Opiskelen matematiikkaa, koska siitä saa parhaat pisteet todistusvalinnassa.” 2 p.\n\n&NewLine;\n\nTämä lause kuvaa parhaiten\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 83391,
+          "content": {
+            "text": " ”Opiskelen matematiikkaa, koska siitä saa parhaat pisteet todistusvalinnassa.” 2 p.\n\n&NewLine;\n\nTämä lause kuvaa parhaiten\n",
+            "displayNumber": "1.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "",
+            "optionsLayout": "1",
+            "customizedPoints": true
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2021-01-20T10:38:24.761067",
+          "max_score": 2,
+          "groupping": null,
+          "id": 2742935,
+          "question_type": "CUSTOMIZED_FEEDBACK",
+          "options": [
+            {
+              "id": 2,
+              "text": "ulkoista motivaatiota.",
+              "parent": "aba8728b-11cd-489f-8af5-9129122e06d0",
+              "points": "2",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 3,
+              "text": "itseä vahingoittavaa tulkintatyyliä/strategiaa.",
+              "parent": "aba8728b-11cd-489f-8af5-9129122e06d0",
+              "points": "-1",
+              "choices": []
+            },
+            {
+              "id": 4,
+              "text": "optimistista tulkintatyyliä/strategiaa.",
+              "parent": "aba8728b-11cd-489f-8af5-9129122e06d0",
+              "points": "-1",
+              "choices": []
+            },
+            {
+              "id": 5,
+              "text": "En vastaa.",
+              "parent": "aba8728b-11cd-489f-8af5-9129122e06d0",
+              "points": "0",
+              "choices": []
+            }
+          ],
+          "uuid": "aba8728b-11cd-489f-8af5-9129122e06d0",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2020-11-04T09:20:09.2403"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "”Aion mennä opiskelemaan yliopistoon kauppatieteitä.” 2 p.\n\n&NewLine;\n\nTämä lause kuvaa parhaiten\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 83391,
+          "content": {
+            "text": "”Aion mennä opiskelemaan yliopistoon kauppatieteitä.” 2 p.\n\n&NewLine;\n\nTämä lause kuvaa parhaiten\n",
+            "displayNumber": "1.10."
+          },
+          "images": null,
+          "settings": {
+            "points": "",
+            "optionsLayout": "1",
+            "customizedPoints": true
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2021-01-20T10:38:24.755445",
+          "max_score": 2,
+          "groupping": null,
+          "id": 2742986,
+          "question_type": "CUSTOMIZED_FEEDBACK",
+          "options": [
+            {
+              "id": 40,
+              "text": "ulkoista motivaatiota.",
+              "parent": "7dd4da2d-2d4b-458a-8b15-04ed2c4d3cbc",
+              "points": "-1",
+              "choices": []
+            },
+            {
+              "id": 41,
+              "text": "itseä vahingoittavaa tulkintatyyliä/strategiaa.",
+              "parent": "7dd4da2d-2d4b-458a-8b15-04ed2c4d3cbc",
+              "points": "-1",
+              "choices": []
+            },
+            {
+              "id": 42,
+              "text": "optimistista tulkintatyyliä/strategiaa.",
+              "parent": "7dd4da2d-2d4b-458a-8b15-04ed2c4d3cbc",
+              "points": "2",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 43,
+              "text": "En vastaa.",
+              "parent": "7dd4da2d-2d4b-458a-8b15-04ed2c4d3cbc",
+              "points": "0",
+              "choices": []
+            }
+          ],
+          "uuid": "7dd4da2d-2d4b-458a-8b15-04ed2c4d3cbc",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2020-11-04T09:29:58.565764"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "”Muut vain osaavat heti, ja minussa on jotain vikaa, koska en opi millään.” 2 p.\n\n&NewLine;\n\nTämä lause kuvaa parhaiten\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 83391,
+          "content": {
+            "text": "”Muut vain osaavat heti, ja minussa on jotain vikaa, koska en opi millään.” 2 p.\n\n&NewLine;\n\nTämä lause kuvaa parhaiten\n",
+            "displayNumber": "1.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "",
+            "optionsLayout": "1",
+            "customizedPoints": true
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2021-01-20T10:38:24.736386",
+          "max_score": 2,
+          "groupping": null,
+          "id": 2742937,
+          "question_type": "CUSTOMIZED_FEEDBACK",
+          "options": [
+            {
+              "id": 8,
+              "text": "sisäistä motivaatiota.",
+              "parent": "bf27c3f8-318f-40ea-8d15-435369c50a8b",
+              "points": "-1",
+              "choices": []
+            },
+            {
+              "id": 9,
+              "text": "optimistista tulkintatyyliä/strategiaa.",
+              "parent": "bf27c3f8-318f-40ea-8d15-435369c50a8b",
+              "points": "-1",
+              "choices": []
+            },
+            {
+              "id": 10,
+              "text": "pystyvyysuskomuksia/minäpystyvyysuskomuksia.",
+              "parent": "bf27c3f8-318f-40ea-8d15-435369c50a8b",
+              "points": "2",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 11,
+              "text": "En vastaa.",
+              "parent": "bf27c3f8-318f-40ea-8d15-435369c50a8b",
+              "points": "0",
+              "choices": []
+            }
+          ],
+          "uuid": "bf27c3f8-318f-40ea-8d15-435369c50a8b",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2020-11-04T09:20:09.245899"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Hermoston ja psyykkisen kehityksen yhteys 20 p.**\n\n&NewLine;\n\nAnna kaksi esimerkkiä siitä, miten keskushermoston kehitys on yhteydessä yksilön kehitykseen. Vastauksen enimmäispituus on 2 000 merkkiä.\n",
+          "deleted_at": null,
+          "feedback": "Vastaaja osoittaa ymmärtävänsä keskushermoston rajautuvan aivoihin ja selkäytimeen sekä käsittelee\n\nkeskushermostoa ja valitsemiaan esimerkkejä kehityksellisestä näkökulmasta. Keskushermoston kehitystä\n\nvoidaan käsitellä joko rakenteiden tai toimintojen kautta. Keskushermoston toimintaa voidaan hahmottaa\n\neri tasoilla, esimerkiksi isoaivolohkojen tyypillisinä toimintoina tai hermosolujen toiminnan kautta. Yksilön\n\nkehitystä käsiteltäessä voidaan keskittyä vaikkapa kognitiivisiin toimintoihin, emootioihin tai motivaatioon,\n\nja sitä voidaan hahmottaa erilaisten teorioiden, kehitysvaiheiden tai virstanpylväiden kautta. Vastaaja voi\n\nkäsitellä vastauksessaan myös motorista tai sensorista kehitystä. Vastaus edellyttää kahden näkökulman\n\nyhdistämistä kehityspsykologian näkökulmaa painottaen, jolloin hermoston rakenne tai toimintakin tulee\n\nkäsitellyksi kehityksen kautta. Käsiteltäviä sisältöjä voivat olla esimerkiksi hermoston kypsymisen ja aivojen\n\nmuovautumisen yhteys psyykkiseen kehitykseen yleensä tai tiettyyn psyykkisen kehityksen osa-alueeseen.\n\nEsimerkit voivat koskea vaikkapa otsalohkoja ja toiminnanohjausta, hippokampusta ja muistia, pikkuaivoja ja\n\nmotoriikkaa, aivokuoren aistinalueita ja havainnointia tai myelinisaatiota ja reaktioaikoja. Vastaus voi\n\npainottua lapsuuden kehitykseen, mutta myös myöhempiin elämänvaiheisiin.\n\n&NewLine;\n\n9−11 p. Vastauksessa annetaan kaksi esimerkkiä siitä, miten hermoston kehitys on yhteydessä yksilön\n\nkehitykseen. Vastaukseen sisältyy pääosin mielekästä psykologista tietoa ja käsitteistöä. Tiedon hallinta on\n\nhyvää, mutta osittain rajoittunutta. Vastaus on pääosin tehtävänannon mukainen.\n\n&NewLine;\n\n15−17 p. Vastauksessa annetaan kaksi esimerkkiä siitä, miten hermoston kehitys on yhteydessä yksilön\n\nkehitykseen. Vastaukseen sisältyy monipuolista psykologista tietoa ja käsitteistöä. Tiedon hallinta on\n\nkiitettävää. Vastaus on pääosin tehtävänannon mukainen. Vastaus muodostaa kiitettävän kokonaisuuden.\n\n&NewLine;\n\nJos merkkejä on 50 % yli sallitun määrän, vähennetään 2 pistettä, 100 % ylityksestä vähennetään 4 pistettä.\n",
+          "exam_id": 83391,
+          "content": {
+            "text": "**Hermoston ja psyykkisen kehityksen yhteys 20 p.**\n\n&NewLine;\n\nAnna kaksi esimerkkiä siitä, miten keskushermoston kehitys on yhteydessä yksilön kehitykseen. Vastauksen enimmäispituus on 2 000 merkkiä.\n",
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2021-01-20T10:38:24.725798",
+          "max_score": null,
+          "groupping": null,
+          "id": 2743674,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "847c9c4d-159d-4f27-80d2-aacf125aa085",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2020-11-04T12:59:02.891496"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Piilokamera 20 p.**\n\n​\n\nAineisto\n\n​\n\nVideo: [LINK url=https://yle.fi/plus/abitreenit/2020/syksy/2020-09-29\\_PS\\_fi/attachments/index.html#4.%20A|text=Piilokameravideo ihmisistä hississä]\n\n​\n\nVideolla [LINK url=https://yle.fi/plus/abitreenit/2020/syksy/2020-09-29\\_PS\\_fi/attachments/index.html#4.%20A|text=4. A] on katkelma amerikkalaisen piilokameraohjelman jaksosta vuodelta 1962. Selitä, mikä psykologinen ilmiö videolla nähdään ja mihin ilmiö perustuu. Arvioi lisäksi, mitä myönteisiä ja kielteisiä vaikutuksia ilmiöstä voi seurata.\n",
+          "deleted_at": null,
+          "feedback": "Videolla esitetään piilokameraa varten lavastettu tilanne, jossa (ainakin piilokameraohjelman juontajan\n\nmukaan) satunnainen ohikulkija menee hissiin ja kokee ryhmäpainetta käyttäytyä samalla tavalla kuin\n\npiilokameran työntekijät, joita on hississä useita. Vastauksen tulee koostua neljästä yhtä tärkeästä osasta:\n\nilmiön tunnistaminen ja selittäminen, ilmiön perusteiden kuvaaminen sekä myönteisten ja kielteisten\n\nseurausten arviointi.\n\n&NewLine;\n\nVideolla nähtävä ilmiö on psykologinen mukautuminen eli konformisuus. Konformistinen käyttäytyminen on\n\noman käyttäytymisen muokkaamista enemmistön toiminnan mukaiseksi, ilman että kukaan suoraan pyytää\n\ntai painostaa yksilöä. Tästä huolimatta ryhmätilanteissa yksilö kokee painetta tai halua toimia ryhmän\n\nnormien mukaan silloinkin, kun normit eivät tunnu järkeviltä. Paineen tunne lisääntyy ryhmän koon\n\nkasvaessa ja ihmiset mukautuvat voimakkaimmin sellaisen ryhmän normeihin, jota he arvostavat tai johon\n\nhe samaistuvat. Mukautuminen voi olla tietoista tai tiedostamatonta. Pelkkä konformismi-termin\n\nmainitseminen ei riitä, vaan ilmiö tulee selittää. Vastaavasti täsmällisen termin puuttuminen, jos ilmiö on\n\nselitetty oikein, on vain vähäinen puute.\n\n&NewLine;\n\nMukautuvuuden olemassaoloa voi selittää evoluutiopsykologian näkökulmasta: ihminen on erittäin\n\nsosiaalinen laji, ja ihmisten selviytyminen sekä lisääntymismenestys, joka on keskeinen evoluutiota ohjaava\n\ntekijä, riippuu heidän kyvystään toimia ryhmissä. Mukautuminen ryhmän normeihin on siten voinut kehittyä\n\nevoluution myötä edistämään elämistä ryhmissä. Ilmiötä voidaan selittää myös aivojen toiminnan tai\n\ntunteiden ja sosiaalipsykologian näkökulmasta, jolloin oleellista on yhteenkuuluvuuden tarve sekä\n\n&NewLine;\n\nhylkäämisen ja yksinäisyyden aiheuttamat negatiiviset tunteet. Kehityspsykologian näkökulmasta voidaan\n\ntodeta, että tarve mukautua on suurimmillaan nuoruudessa ja voi liittyä identiteetin etsintään.\n\n&NewLine;\n\nRyhmän normien omaksuminen spontaanisti ilman ryhmän painostusta tukee nopeaa uusiin ryhmiin\n\nliittymistä ja saattaa siten edistää ryhmien harmoniaa ja vähentää konflikteja. Se voi myös edistää ryhmien\n\ntehokasta toimintaa päämäärien saavuttamiseksi. Mukautuminen on eräs tapa, jolla erityisesti lapset\n\noppivat ympäröivän maailman toimintatapoja.\n\n&NewLine;\n\nTaipumus mukautua voi kuitenkin olla myös kielteinen asia, koska sitä kautta yksilö voi päätyä toimimaan\n\ntavoilla, jotka eivät ole hänen arvojensa mukaisia tai ovat sosiaalisesti tai yhteiskunnallisesti haitallisia.\n\nMukautuvuus voi johtaa myös ryhmäajatteluun, jossa ryhmän koheesion ylläpitämiseksi ryhmä tekee\n\nhuonompia päätöksiä kuin sen jäsenet tekisivät yksinään. Nuorien elämää lähellä olevia esimerkkejä\n\nkielteisestä mukautumisesta ovat esimerkiksi vastentahtoiset päihde- ja seksikokeilut, koska nuori kokee\n\nenemmistön tekevän niin, tai koulukiusaamiseen osallistuminen tai sen hyväksyminen, koska kiusaamisesta\n\non tullut ryhmässä normi.\n\n&NewLine;\n\nKonformisuutta on tutkittu useissa sosiaalipsykologian klassikkotutkimuksissa. Lukion oppimateriaalissa\n\nnäistä on usein mainittu Aschin janakoe sekä Sherifin pistekoe. Milgramin sähköshokkikoe ja Zimbardon\n\nvankilakoe taas eivät suoraan tutkineet mukautuvuutta, koska niiden koehenkilöitä painostettiin suoraan\n\ntoimimaan tietyllä tavalla. Vastauksen liittäminen tutkimustuloksiin on kokelaalle ansio.\n\n&NewLine;\n\n9−11 p. Vastauksessa tunnistetaan psykologinen ilmiö mukautuvuudeksi ja sen selitetään olevan\n\nenemmistön toimintatavan omaksumista ilman pakkoa. Ilmiötä ja sen seurauksia arvioidaan asianmukaisen\n\npsykologisen tiedon avulla, mutta vastaus jää pinnalliseksi.\n\n&NewLine;\n\n15−17 p. Kokelas tunnistaa ilmiön ja selittää sen monipuolisesti ja oikein viitaten psykologiseen\n\ntutkimustietoon. Ilmiön myönteisiä sekä kielteisiä seurauksia arvioidaan laajan psykologisen tiedon valossa.\n",
+          "exam_id": 83391,
+          "content": {
+            "text": "**Piilokamera 20 p.**\n\n​\n\nAineisto\n\n​\n\nVideo: [LINK url=https://yle.fi/plus/abitreenit/2020/syksy/2020-09-29\\_PS\\_fi/attachments/index.html#4.%20A|text=Piilokameravideo ihmisistä hississä]\n\n​\n\nVideolla [LINK url=https://yle.fi/plus/abitreenit/2020/syksy/2020-09-29\\_PS\\_fi/attachments/index.html#4.%20A|text=4. A] on katkelma amerikkalaisen piilokameraohjelman jaksosta vuodelta 1962. Selitä, mikä psykologinen ilmiö videolla nähdään ja mihin ilmiö perustuu. Arvioi lisäksi, mitä myönteisiä ja kielteisiä vaikutuksia ilmiöstä voi seurata.\n",
+            "displayNumber": "4."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2021-01-20T10:38:24.713185",
+          "max_score": null,
+          "groupping": null,
+          "id": 2743677,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "77f851b4-c3ad-4cfb-b803-b43dca3f703e",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2020-11-04T12:59:02.899987"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Väitteitä mielenterveydestä 20 p.**\n\n​\n\nAineisto\n\n​\n\nTeksti ja animaatiot: [LINK url=https://yle.fi/plus/abitreenit/2020/syksy/2020-09-29\\_PS\\_fi/attachments/index.html#6.%20A|text=“Kerran hullu, aina hullu” – ja muita myyttejä mielenterveydestä]\n\n​\n\nAineistossa [LINK url=https://yle.fi/plus/abitreenit/2020/syksy/2020-09-29\\_PS\\_fi/attachments/index.html#6.%20A|text=6. A] on väitteitä artikkelista, joka käsittelee mielenterveyteen liittyviä myyttejä. Valitse väitteistä kaksi. Arvioi väitteiden todenperäisyyttä suhteessa psykologiseen tietoon mielenterveyden häiriöistä. Eri väitteiden arvioinnissa on mahdollista hyödyntää osin samojakin tietoja, mutta älä kuitenkaan toista täysin samoja argumentteja molempien perusteluissa, vaan pyri soveltamaan osaamistasi monipuolisesti.\n",
+          "deleted_at": null,
+          "feedback": "Vastaukseen on valittu kaksi väitettä, joita molempia arvioidaan asianmukaisen psykologisen tiedon varassa.\n\nHyvässä vastauksessa psykologista tietoa osataan käyttää niin väitettä vastaan kuin sen puolesta. Hyvässä\n\nvastauksessa väitettä voidaan tarkastella joko yhden tai useamman mielenterveyden häiriön kautta tai\n\nyleisellä tasolla. Väitteet tarjoavat mahdollisuuden pohtia esim. perimän ja ympäristön välistä suhdetta\n\nmielenterveyden häiriöiden taustalla, geenien merkitystä, mielenterveyshäiriöiden moninaisuutta, niiden\n\npysyvyyttä, esiintyvyyttä, puhkeamisikää, paranemisen mahdollisuutta, neurobiologiaa ja yhteiskunnan\n\nsuhdetta mielenterveyshäiriöihin sairautena. Hyvässä vastauksessa on osattu nostaa esiin valittujen\n\nesimerkkien kautta useita eri näkökulmia ja hyödynnetty hyvin psykologian eri osa-alueiden tarjoamaa\n\ntietoa ja käsitteistöä.\n\n&NewLine;\n\n9−11 p. Mielenterveyteen liittyvien kahden väitteen todenperäisyyttä arvioidaan ja perustellaan mielekkään\n\npsykologisen tiedon ja käsitteistön varassa. Psykologisen tiedon soveltaminen ja arviointi on hyvää.\n\nVastauksessa on vähintään kaksi toisistaan poikkeavaa näkökulmaa, joiden perustelut ovat paikkansa\n\npitäviä. Tiedon hallinta on kokonaisuudessaan hyvää, mutta osittain rajoittunutta. Vastaus on pääosin\n\ntehtävänannon mukainen, mutta osa tekstistä jää irralliseksi. Vastaus on jäsentynyt.\n\n&NewLine;\n\n15−17 p. Mielenterveyteen liittyvien kahden väitteen todenperäisyyttä arvioidaan ja pohditaan usean\n\npsykologisen näkökulman kautta. Vastauksessa käytetty psykologinen tieto ja käsitteistö on monipuolista, ja\n\nsitä osataan hyödyntää argumentoitaessa niin väitettä vastaan kuin sen puolesta. Perustelut ovat selkeitä ja\n\nvakuuttavia. Tiedon hallinta on kiitettävää. Aineistoa on hyödynnetty hyvin. Kokonaisuus on kiitettävä.\n",
+          "exam_id": 83391,
+          "content": {
+            "text": "**Väitteitä mielenterveydestä 20 p.**\n\n​\n\nAineisto\n\n​\n\nTeksti ja animaatiot: [LINK url=https://yle.fi/plus/abitreenit/2020/syksy/2020-09-29\\_PS\\_fi/attachments/index.html#6.%20A|text=“Kerran hullu, aina hullu” – ja muita myyttejä mielenterveydestä]\n\n​\n\nAineistossa [LINK url=https://yle.fi/plus/abitreenit/2020/syksy/2020-09-29\\_PS\\_fi/attachments/index.html#6.%20A|text=6. A] on väitteitä artikkelista, joka käsittelee mielenterveyteen liittyviä myyttejä. Valitse väitteistä kaksi. Arvioi väitteiden todenperäisyyttä suhteessa psykologiseen tietoon mielenterveyden häiriöistä. Eri väitteiden arvioinnissa on mahdollista hyödyntää osin samojakin tietoja, mutta älä kuitenkaan toista täysin samoja argumentteja molempien perusteluissa, vaan pyri soveltamaan osaamistasi monipuolisesti.\n",
+            "displayNumber": "6."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2021-01-20T10:38:24.705651",
+          "max_score": null,
+          "groupping": null,
+          "id": 2743679,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "eeb2454e-b4c1-4405-8000-f0642f0cbb3a",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2020-11-04T12:59:02.905877"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Kasvaminen älypuhelimen kanssa 30 p.**\n\n&NewLine;\n\nÄlypuhelimet ovat nykyään äärimmäisen suosittuja laitteita erityisesti nuorten keskuudessa. Vuonna 2018 suomalaisista nuorista (16–24-vuotiaista) 99 % omisti älypuhelimen ja 93 % käytti sillä sosiaalista mediaa. (Väestön tieto- ja viestintätekniikan käyttö -tutkimus 2018, Tilastokeskus.)\n\n&NewLine;\n\nÄlypuhelimet ja sosiaalinen media eivät kuitenkaan ole vanha keksintö: ensimmäinen Applen iPhone julkaistiin vuonna 2007, ja Instagram avautui vuonna 2010. Tämän vuoksi 2000-luvulla syntyneet nuoret ovat ensimmäinen sukupolvi, joka on kasvanut ympäristössä, jossa älypuhelimet ja sosiaalinen media ovat osa arkea.\n\n&NewLine;\n\nPohdi, millaisia psykologisia vaikutuksia älypuhelinten ja sosiaalisen median parissa kasvamisella on ollut 2000-luvulla syntyneisiin nuoriin.\n",
+          "deleted_at": null,
+          "feedback": "Tehtävää voi lähestyä hyödyntämällä monenlaista psykologista tietoa. Jatkuvasti mukana oleva sosiaalinen\n\nmedia värittää voimakkaasti nuorten sosiaalista maailmaa ja vaikuttaa heidän hyvinvointiinsa. Toisaalta\n\njatkuva älylaitteiden käyttö vaikuttaa myös kognitiivisiin toimintoihin ja kasvaminen näiden laitteiden parissa\n\ntodennäköisesti muokkaa aivojen kehittymistä. Tutkimus aiheesta on vielä alkutekijöissään, joten selviä\n\nvastauksia kaikkiin älyteknologian vaikutuksiin ei löydy kirjallisuudesta. Kokelaalle on ansio, jos hän\n\ntunnistaa aiheeseen liittyvän lisätutkimuksen tarpeen.\n\n&NewLine;\n\nAnsiokkaassa vastauksessa kokelas pohtii useasta näkökulmasta älypuhelinten ja sosiaalisen median\n\nvaikutusta nuorten kehitykseen sekä hyvinvointiin ankkuroiden pohdintansa psykologiseen tietoon.\n\nMahdollisia näkökulmia voivat olla mm. seuraavat:\n\n&NewLine;\n\nKehityspsykologiasta tiedämme, että aivojen plastisuus lapsena on suurta. Siksi kosketusnäyttöjen\n\nkäyttäminen nuoresta iästä asti todennäköisesti muokkaa lasten hienomotoriikan ja tarkkaavaisuuden\n\nkehitystä myös hermostollisella tasolla. Laitteita käyttäneiden nuorten kyky hahmottaa laitteiden toimintaa\n\nja käyttää niitä voi siten kehittyä todella tehokkaaksi. Vastaavasti hienomotoriset taidot, jotka ovat olleet\n\ntärkeitä aikaisemmille sukupolville, kuten kaunokirjoitus käsin, saattavat jäädä nykyisillä nuorilla\n\nautomatisoitumatta. Älypuhelinten ja sosiaalisen median käyttöön liittyy usein se, että joudutaan jatkuvasti\n\ntoimimaan monien ärsykkeiden virrassa, mistä seuraa keskeytyksiä ja vaikeuksia ylläpitää tarkkaavaisuutta\n\nyhdessä asiassa. Jatkuvalla älypuhelimen käytöllä onkin havaittu olevan tarkkaavaisuutta heikentäviä\n\nvaikutuksia. Nopeatempoiseen älylaitteiden maailmaan sopeutumisen seurauksena saattaakin olla heikko\n\nkeskittymiskyky ja jatkuva tarve saada uusia ärsykkeitä.\n\n&NewLine;\n\nVarhaisesta sosiaalisesta kehityksestä tiedetään, että kiintymyssuhteet ja erityisesti pääasiallisen huolehtijan\n\nläsnäolo ovat tärkeitä emotionaaliselle kehitykselle. Älylaitteiden jatkuva käyttäminen saattaa tehdä\n\nihmisistä vähemmän läsnäolevia sosiaalisissa tilanteissa. Siten esimerkiksi se, että vanhemman huomio\n\nkiinnittyy enemmän ruutuihin kuin lapseen, voi olla varhaisten kiintymyssuhteiden kehityksen riskitekijä.\n\nToisaalta älylaitteet ja sosiaalinen media tarjoavat myös tavan pitää kiinteästi yhteyttä perheeseen ja muihin\n\ntärkeisiin ihmisiin ajasta ja paikasta riippumatta.\n\n&NewLine;\n\nÄlylaitteiden ja sosiaalisen median käytön myötä tulee todennäköisemmäksi, että lapset törmäävät entistä\n\nnuorempina kehitystasolleen sopimattomaan sisältöön, kuten väkivaltaan ja pornoon. Myös erilaiset\n\n&NewLine;\n\nääriryhmät ja rikolliset voivat hyödyntää sosiaalista mediaa tavoittaakseen sanomallaan nuoria, joiden voi\n\nolla vaikea erottaa epäilyttävää sisältöä luotettavasta. Aikuisten valvonta ja neuvonta on tärkeää näiden\n\nasioiden käsittelyssä.\n\n&NewLine;\n\nSosiaalipsykologian näkökulmasta älylaitteisiin ja sosiaaliseen mediaan liittyy runsaasti kiinnostavia\n\nnäkökulmia. Nuoruuteen kuuluvia haasteita ovat sosiaalisen hyväksynnän etsiminen, ryhmän normeihin\n\nsopeutuminen ja yhteenkuuluvuuden tavoittelu. Älylaitteiden ja sosiaalisen median käyttäminen ovat\n\noleellisessa osassa 2000-luvulla syntyneiden nuorten tavassa kohdata nämä kehityshaasteet. Oman paikan\n\nja roolin etsiminen tapahtuu sosiaalisen median piirissä, ja siihen liittyviä uusia haasteita ovat esimerkiksi\n\ntaito oppia jakamaan sosiaalisessa mediassa kokemuksia ja sisältöjä niin, että vuorovaikutus olisi\n\npsykologisesti positiivista eikä kuluttavaa. Oman kuvan rakentamiseen sosiaalisessa mediassa liittyy nuorilla\n\npaljon paineita, ja myös virtuaalikiusaaminen on tänä aikana yleinen ilmiö.\n\n&NewLine;\n\nToisaalta sosiaalinen media ja uusi teknologia antavat nuorille uusia mahdollisuuksia toteuttaa itseään ja\n\nluovuuttaan. Nykyään nuoren, tai jopa lapsen, on mahdollista saavuttaa sosiaalisessa mediassa\n\n&NewLine;\n\nkansainvälistä mainetta ja rakentaa tätä kautta menestyksellinen ura esimerkiksi tubettajana Youtube-\n\npalvelussa. Nuoruuteen tyypillisesti liittyvät idolit ja vahvat perheen ulkopuoliset mielipidevaikuttajat\n\n&NewLine;\n\nlöytyvät nykyään usein sosiaalisesta mediasta ja saattavat olla nuorten vertaisia, joko nuorten itsensä ikäisiä\n\ntai hieman heitä vanhempia ja kokeneempia. Uusien teknologioiden käyttäminen tarjoaa sellaisia\n\nlaajennettuja tietoresursseja, sosiaalisia kontakteja ja oppimisen mahdollisuuksia, joita vanhempien\n\nsukupolvien on usein vaikea ymmärtää. Koulut tai vanhemmat eivät välttämättä pysty ihanteellisesti\n\ntukemaan nuoria luovassa ja oppimista tukevassa älyteknologian käytössä.\n\n&NewLine;\n\nPersoonallisuuspsykologian näkökulmasta identiteetin rakentuminen ja persoonan kehittyminen liittyy\n\n2000-luvun nuorilla myös heidän rooliinsa sosiaalisessa mediassa. Se antaa heille uuden mahdollisuuden\n\nkokeilla erilaisia rooleja ja kontrolloida muiden heistä näkemää kuvaa. Terveyden ja hyvinvoinnin\n\nnäkökulmasta älylaitteissa ja sosiaalisessa mediassa on liikakäytön ja addiktion riski: nämä laitteet ja\n\npalvelut on tehty hyvin koukuttaviksi. Monet käyttävät niitä lähes koko valveillaoloaikansa ja saattavat jatkaa\n\nyömyöhään, ja laitteiden käyttö yöllä saattaa häiritä nukkumista ja vuorokausirytmiä. Sosiaalisen median\n\njatkuvan käytön on havaittu olevan yhteydessä masennusoireisiin ja siihen, että tyytyväisyys elämään\n\nheikkenee, tosin tutkimustulokset ovat osin ristiriitaisia. Addiktion riski on erityisen suuri lapsilla, koska\n\nheidän psyykkinen itsesäätelynsä ei ole aikuisen tasolla, ja he tarvitsevat aikuisen apua käytön\n\nrajoittamisessa ja toimintansa suuntaamisessa kehityksellisesti mielekkäisiin kohteisiin.\n\n&NewLine;\n\n13–16 p. Vastaukseen sisältyy useita mielekkäitä näkökulmia älypuhelinten ja sosiaalisen median\n\nvaikutuksista nuorten kehitykseen. Vastaus on hyvin jäsentynyt ja enimmäkseen ankkuroitu asianmukaiseen\n\npsykologiseen tietoon. Paikoin pohdinnassa on kuitenkin arkikokemukseen perustuvia argumentteja tai\n\nlinkki psykologiseen tietoon jää keinotekoiseksi.\n\n&NewLine;\n\n22−25 p. Vastaukseen sisältyy näkökulmia usealta psykologian osa-alueelta. Siinä on tunnistettu useita\n\nälypuhelinten ja sosiaalisen median negatiivisia ja positiivisia vaikutuksia sekä pohdittu ja kehitelty aihetta\n\noivaltavasti. Pohdinta on kiitettävästi ankkuroitu psykologiseen tietoon, ja vastaus on hyvin jäsennelty.\n",
+          "exam_id": 83391,
+          "content": {
+            "text": "**Kasvaminen älypuhelimen kanssa 30 p.**\n\n&NewLine;\n\nÄlypuhelimet ovat nykyään äärimmäisen suosittuja laitteita erityisesti nuorten keskuudessa. Vuonna 2018 suomalaisista nuorista (16–24-vuotiaista) 99 % omisti älypuhelimen ja 93 % käytti sillä sosiaalista mediaa. (Väestön tieto- ja viestintätekniikan käyttö -tutkimus 2018, Tilastokeskus.)\n\n&NewLine;\n\nÄlypuhelimet ja sosiaalinen media eivät kuitenkaan ole vanha keksintö: ensimmäinen Applen iPhone julkaistiin vuonna 2007, ja Instagram avautui vuonna 2010. Tämän vuoksi 2000-luvulla syntyneet nuoret ovat ensimmäinen sukupolvi, joka on kasvanut ympäristössä, jossa älypuhelimet ja sosiaalinen media ovat osa arkea.\n\n&NewLine;\n\nPohdi, millaisia psykologisia vaikutuksia älypuhelinten ja sosiaalisen median parissa kasvamisella on ollut 2000-luvulla syntyneisiin nuoriin.\n",
+            "displayNumber": "7."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2021-01-20T10:38:24.693643",
+          "max_score": null,
+          "groupping": null,
+          "id": 2743681,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "e57cac99-13cc-4f4a-9f66-9862f704eff2",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2020-11-04T12:59:02.910655"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Ilmastoahdistus 30 p.**\n\n&NewLine;\n\nAineisto\n\n&NewLine;\n\nTeksti: [LINK url=https://yle.fi/plus/abitreenit/2020/syksy/2020-09-29\\_PS\\_fi/attachments/index.html#9.%20A|text=Ilmastoahdistuksen määrittely]\n\nTeksti ja video: [LINK url=https://yle.fi/plus/abitreenit/2020/syksy/2020-09-29\\_PS\\_fi/attachments/index.html#9.%20B|text=Greta Thunbergin esittely]\n\n&NewLine;\n\nAineistot 9. A ja 9. B antavat perustietoja ilmastoahdistuksesta ja Greta Thunbergistä, joka on ehkä maailman tunnetuin ilmastoaktivisti. Pohdi ilmastoahdistusilmiötä ja sen merkitystä nuorten psyykkiselle kehitykselle.\n",
+          "deleted_at": null,
+          "feedback": "Ilmastoahdistus on sekä yhteiskunnallinen että yksilöpsykologinen ilmiö. Kysymyksessä pyydetään\n\npohtimaan ilmiötä nimenomaan nuorten psyykkisen kehityksen kautta. Vastauksessa voidaan pohtia ilmiötä\n\nesimerkiksi maailmankuvan muodostumisen kautta sekä arvioida sitä, miten erilaiset jatkuvat uhat ja niistä\n\naiheutuva pitkäkestoinen stressi vaikuttavat kehittyvään psyykeen.\n\n&NewLine;\n\nYhteiskunnallinen ulottuvuus on merkittävä, sillä samojen tunteiden ja stressin kokemukset koskettavat koko\n\nsukupolvea samanaikaisesti. Toisin kuin yleensä, ilmiöön liittyvät mielenterveysaspektit eivät siten\n\nselitykään välttämättä yksilöpsykologisilla kehityspoluilla. Kuitenkin se, miten nuoret käsittelevät ja työstävät\n\nmahdollista ilmastoahdistustaan, liittyy varmasti yksilöpsykologisiin tekijöihin, kuten optimismiin\n\npersoonallisuuspiirteenä, yksilölliseen ahdistusherkkyyteen ja minäpystyvyyskokemukseen. Tätä kautta ilmiö\n\nliittyy yksilön emotionaaliseen joustavuuteen (resilienssi) ja tunteidensäätelytaitoihin.\n\n&NewLine;\n\nKysymystä voi lähteä pohtimaan myös pelkojen säätelyn kautta. Monissa ahdistushäiriöissä käytetään\n\npelkojen työstämisessä vaiheittaista altistamista pelolle. Ilmastouhassa kyse ei kuitenkaan ole\n\nepärealistisesta tai epätodennäköisestä uhkakuvasta, vaan tieteeseen perustuvasta ennusteesta.\n\n&NewLine;\n\nKeskeinen teema ilmastoahdistuksessa onkin yksilön ja yhteisön suhde. Yksilön näkökulmasta ahdistus voi\n\nkäydä ylivoimaiseksi, koska pelkästään omilla valinnoilla ei voi ratkaista koko ongelmaa. Toisaalta, jos nuori\n\nkokee itsensä osaksi esimerkiksi sukupolvensa yhteisöä, joka voi yhdessä toimia paremman tulevaisuuden\n\npuolesta ja vaikuttaa poliittisesti, voi ilmastoahdistus voimaannuttaa ja auttaa tekemään tärkeitä\n\nelämänvalintoja ja suuntaamaan kehityspolkuja positiivisesti.\n\n&NewLine;\n\nIlmastoahdistuksen käsittelyyn liittyvät kehityspolut voivat myös vaikuttaa identiteetin ja arvomaailman\n\nkehitykseen sekä konkreettisesti yksilöiden valintoihin ja sitä kautta heidän kokemusmaailmaansa.\n\nIlmastoahdistus voi aiheuttaa myös ajattelun ja yhteiskunnan polarisoitumista, jossa ilmastoahdistuksen\n\nvastakohtana on ilmastouhkien kieltäminen.\n\n&NewLine;\n\n13–16 p. Vastaukseen sisältyy useita mielekkäitä näkökulmia ilmastoahdistukseen ja nuoruuteen, ja vastaus\n\non enimmäkseen ankkuroitu asianmukaiseen psykologiseen tietoon. Vastaus on hyvin jäsentynyt ja sisältää\n\npohdintaa, kehittelyä ja psykologiseen tietoon pohjautuvia perusteluja. Muutamissa paikoissa pohdinnassa\n\non kuitenkin arkikokemukseen perustuvia argumentteja tai linkki psykologiseen tietoon jää ohueksi.\n\n&NewLine;\n\n22–25 p. Vastaukseen sisältyy näkökulmia usealta psykologian osa-alueelta. Pohdinta on kiitettävästi\n\nankkuroitu psykologiseen tietoon, ja vastaus on hyvin jäsennelty.\n",
+          "exam_id": 83391,
+          "content": {
+            "text": "**Ilmastoahdistus 30 p.**\n\n&NewLine;\n\nAineisto\n\n&NewLine;\n\nTeksti: [LINK url=https://yle.fi/plus/abitreenit/2020/syksy/2020-09-29\\_PS\\_fi/attachments/index.html#9.%20A|text=Ilmastoahdistuksen määrittely]\n\nTeksti ja video: [LINK url=https://yle.fi/plus/abitreenit/2020/syksy/2020-09-29\\_PS\\_fi/attachments/index.html#9.%20B|text=Greta Thunbergin esittely]\n\n&NewLine;\n\nAineistot 9. A ja 9. B antavat perustietoja ilmastoahdistuksesta ja Greta Thunbergistä, joka on ehkä maailman tunnetuin ilmastoaktivisti. Pohdi ilmastoahdistusilmiötä ja sen merkitystä nuorten psyykkiselle kehitykselle.\n",
+            "displayNumber": "9."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2021-01-20T10:38:24.688899",
+          "max_score": null,
+          "groupping": null,
+          "id": 2743999,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "44f26c37-3265-4482-a142-46031b1fdf12",
+          "order_number": 12,
+          "multipart": true,
+          "created_at": "2020-11-04T13:55:32.903241"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Lasten ajattelun vertailu 20 p.**\n\n​\n\nAineisto\n\n​\n\nVideo:[LINK url=https://yle.fi/plus/abitreenit/2020/syksy/2020-09-29\\_PS\\_fi/attachments/index.html#3.%20A|text= Lapsi A]\n\nVideo:[LINK url=https://yle.fi/plus/abitreenit/2020/syksy/2020-09-29\\_PS\\_fi/attachments/index.html#3.%20B|text= Lapsi B]\n\n​\n\nAineistossa on kaksi videota, 3. A ja 3. B. Videoiden lapset ovat keskenään eri-ikäisiä. Vertaile näiden lasten ajattelun kehitystä kehityspsykologisen tiedon valossa. Vastauksen enimmäispituus on 2 000 merkkiä.\n",
+          "deleted_at": null,
+          "feedback": "Molemmissa aineiston videoissa tehdään klassinen mielen teorian tehtävä. Lapselle esitetään, miten tuttu\n\nesine (muovailuvahapurkki/suklaakarkkipussi) sisältää jotain epätyypillistä ja yllättävää. Tehtävässä lapsen\n\ntulee päätellä, mitä henkilö, joka ei ole ollut mukana tämänhetkisessä tilanteessa, ajattelisi olevan tutun\n\nesineen sisällä, jos hän tulisi paikalle. Lasten toisistaan poikkeavat vastaukset samankaltaiseen kysymykseen\n\ntarjoavat mahdollisuuden vertailun tekemiseen ja kehityspsykologisen tiedon hyödyntämiseen, kun\n\nselitetään, miten ajattelu kehittyy. Videoilla esiintyvät noin 4- ja 5-vuotiaat lapset. Noin neljän vuoden iässä\n\nlapsi alkaa hahmottaa, että muilla ihmisillä on oma tietoisuus, ajatukset ja tunteet. Tätä kutsutaan mielen\n\nteoriaksi. Tämä taito erottaa videon lapset toisistaan. Hyvässä vastauksessa ymmärretään sen tärkeys, että\n\nkyky nähdä asiat toisen näkökulmasta on kehittynyt, ja että se on yhteydessä sosiaalisten tunteiden, kuten\n\nhäpeän ja empatian, kehitykseen. Vastauksessa ei edellytetä lapsen iän määrittelyä, mutta hyvässä\n\nvastauksessa käy ilmi, että vastaaja on sijoittanut lapset oikeaan ikävaiheeseen. Vastauksessa voidaan kertoa\n\nesimerkiksi, missä iässä keskimäärin lapsi ymmärtää, että toisella ihmisellä on omat ajatukset ja tunteet.\n\nHyvässä vastauksessa voidaan huomioida myös se, että lasten taidoissa voi olla isojakin yksilöiden välisiä\n\neroja. Yksilöiden välisiä eroja voidaan pohtia myös autismikirjon häiriöiden kautta, joissa mielen teorian\n\nkehittyminen on usein rajoittunutta.\n",
+          "exam_id": 83391,
+          "content": {
+            "text": "**Lasten ajattelun vertailu 20 p.**\n\n​\n\nAineisto\n\n​\n\nVideo:[LINK url=https://yle.fi/plus/abitreenit/2020/syksy/2020-09-29\\_PS\\_fi/attachments/index.html#3.%20A|text= Lapsi A]\n\nVideo:[LINK url=https://yle.fi/plus/abitreenit/2020/syksy/2020-09-29\\_PS\\_fi/attachments/index.html#3.%20B|text= Lapsi B]\n\n​\n\nAineistossa on kaksi videota, 3. A ja 3. B. Videoiden lapset ovat keskenään eri-ikäisiä. Vertaile näiden lasten ajattelun kehitystä kehityspsykologisen tiedon valossa. Vastauksen enimmäispituus on 2 000 merkkiä.\n",
+            "displayNumber": "3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2021-01-20T10:38:24.720245",
+          "max_score": null,
+          "groupping": null,
+          "id": 2743675,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "0212dc14-8d2d-4656-9842-8e1402d864b0",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2020-11-04T12:59:02.894515"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "”Tehtävät olivat niin tylsiä. Oli paljon kivempaa katsoa jalkapalloa.” 2 p.\n\n&NewLine;\n\nTämä lause kuvaa parhaiten\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 83391,
+          "content": {
+            "text": "”Tehtävät olivat niin tylsiä. Oli paljon kivempaa katsoa jalkapalloa.” 2 p.\n\n&NewLine;\n\nTämä lause kuvaa parhaiten\n",
+            "displayNumber": "1.7."
+          },
+          "images": null,
+          "settings": {
+            "points": "",
+            "optionsLayout": "1",
+            "customizedPoints": true
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2021-01-20T10:38:24.730614",
+          "max_score": 2,
+          "groupping": null,
+          "id": 2742966,
+          "question_type": "CUSTOMIZED_FEEDBACK",
+          "options": [
+            {
+              "id": 28,
+              "text": "sisäistä motivaatiota.",
+              "parent": "43e94d57-7df1-4df6-8766-04c2e64ee676",
+              "points": "-1",
+              "choices": []
+            },
+            {
+              "id": 29,
+              "text": "itseä vahingoittavaa tulkintatyyliä/strategiaa.",
+              "parent": "43e94d57-7df1-4df6-8766-04c2e64ee676",
+              "points": "2",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 30,
+              "text": "pystyvyysuskomuksia/minäpystyvyysuskomuksia.",
+              "parent": "43e94d57-7df1-4df6-8766-04c2e64ee676",
+              "points": "-1",
+              "choices": []
+            },
+            {
+              "id": 31,
+              "text": "En vastaa.",
+              "parent": "43e94d57-7df1-4df6-8766-04c2e64ee676",
+              "points": "0",
+              "choices": []
+            }
+          ],
+          "uuid": "43e94d57-7df1-4df6-8766-04c2e64ee676",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2020-11-04T09:28:45.289048"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "”Opiskelen psykologiaa, koska se on niin kiinnostavaa.” 2 p.\n\n&NewLine;\n\nTämä lause kuvaa parhaiten\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 83391,
+          "content": {
+            "text": "”Opiskelen psykologiaa, koska se on niin kiinnostavaa.” 2 p.\n\n&NewLine;\n\nTämä lause kuvaa parhaiten\n",
+            "displayNumber": "1.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "",
+            "optionsLayout": "1",
+            "customizedPoints": true
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2021-01-20T10:38:24.733611",
+          "max_score": 2,
+          "groupping": null,
+          "id": 2742948,
+          "question_type": "CUSTOMIZED_FEEDBACK",
+          "options": [
+            {
+              "id": 12,
+              "text": "sisäistä motivaatiota.",
+              "parent": "5462769b-3014-4ee6-a91b-be1119d0d948",
+              "points": "2",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 13,
+              "text": "optimistista tulkintatyyliä/strategiaa.",
+              "parent": "5462769b-3014-4ee6-a91b-be1119d0d948",
+              "points": "-1",
+              "choices": []
+            },
+            {
+              "id": 14,
+              "text": "pystyvyysuskomuksia/minäpystyvyysuskomuksia.",
+              "parent": "5462769b-3014-4ee6-a91b-be1119d0d948",
+              "points": "-1",
+              "choices": [],
+              "feedback": "&NewLine;\n"
+            },
+            {
+              "id": 15,
+              "text": "En vastaa.",
+              "parent": "5462769b-3014-4ee6-a91b-be1119d0d948",
+              "points": "0",
+              "choices": [],
+              "correct": false
+            }
+          ],
+          "uuid": "5462769b-3014-4ee6-a91b-be1119d0d948",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2020-11-04T09:24:35.471544"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Monivalintatehtävä opiskelusta 20 p.**\n\n&NewLine;\n\nValitse, minkälaista motivaatiota tai tulkintatyyliä lauseet 1.1.–1.10. kuvaavat parhaiten. Oikeita vastauksia on joka kohdassa yksi. Oikea vastaus 2 p., väärä vastaus −1 p., ei vastausta 0 p.\n\n&NewLine;\n\nTehtävä ei ole pakollinen, ja siihen voi jättää vastaamatta. Jos olet aloittanut tehtävään vastaamisen, mutta et haluakaan jättää tehtävää arvosteltavaksi, merkitse jokaiseen väittämään vaihtoehto ”En vastaa”.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 83391,
+          "content": {
+            "text": "**Monivalintatehtävä opiskelusta 20 p.**\n\n&NewLine;\n\nValitse, minkälaista motivaatiota tai tulkintatyyliä lauseet 1.1.–1.10. kuvaavat parhaiten. Oikeita vastauksia on joka kohdassa yksi. Oikea vastaus 2 p., väärä vastaus −1 p., ei vastausta 0 p.\n\n&NewLine;\n\nTehtävä ei ole pakollinen, ja siihen voi jättää vastaamatta. Jos olet aloittanut tehtävään vastaamisen, mutta et haluakaan jättää tehtävää arvosteltavaksi, merkitse jokaiseen väittämään vaihtoehto ”En vastaa”.\n",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "aba8728b-11cd-489f-8af5-9129122e06d0",
+            "bf27c3f8-318f-40ea-8d15-435369c50a8b",
+            "5462769b-3014-4ee6-a91b-be1119d0d948",
+            "9c09ecdc-52d0-4bf4-b75e-c9216b4e3119",
+            "33e41109-e267-44a3-b2e3-48a238dbe8a5",
+            "68b6cc2a-9c45-4a49-a7b7-dee2cd1d0a39",
+            "43e94d57-7df1-4df6-8766-04c2e64ee676",
+            "56fc36d2-2589-4936-9605-bf34eb620b44",
+            "d9950f8c-23ca-44d6-acb7-adabe0d0bd30",
+            "7dd4da2d-2d4b-458a-8b15-04ed2c4d3cbc"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2021-01-20T10:38:24.738987",
+          "max_score": null,
+          "groupping": null,
+          "id": 2742933,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "61bc1d82-9b14-4826-a2e6-0c7293581bf6",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2020-11-04T09:20:09.234383"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Tutkimustehtävä nukkumisesta (30 p.)**\n\n&NewLine;\n\nSuunnittele kokeellinen tutkimusasetelma, jossa tutkitaan, miten huonosti tai liian vähän nukkuvien ihmisten nukkumista voitaisiin parantaa.\n\n&NewLine;\n\nAloita suunnittelu sen pohtimisesta, mikä voisi olla mielekäs riippumaton muuttuja tutkimuksessasi, kun riippuva muuttuja on nukkuminen. Voit tarkentaa ja rajata nukkumiseen liittyvää ongelmaa. Kirjoita perustelut riippumattoman muuttujan valinnalle. Kirjoita sen jälkeen tutkimuskysymyksesi kysymyksen muotoon. Muotoile hypoteesi ja perustele se psykologisella tiedolla. Voit joko kirjoittaa lyhyen kuvauksen tutkimuksen kulusta ja menetelmistä tai piirtää siitä kuvan, josta edellä kuvatut seikat käyvät ilmi selkeällä tavalla. Pohdi suunnitelmasi vahvuuksia ja heikkouksia.\n",
+          "deleted_at": null,
+          "feedback": "Tehtävä edellyttää tutkimussuunnitelman laatimista, johon sisältyvät ongelman rajaaminen sekä\n\nkysymyksen ja hypoteesin asettaminen, osanottajien tai osanottajaryhmien määritteleminen ja rekrytointi,\n\nasetelman ja menetelmien valitseminen sekä muuttujien määrittely. Mielekkään, aiheeseen sopivan\n\nriippumattoman muuttujan keksiminen vaatii tiedon kehittelyä, joka osoitetaan muuttujan valinnan ja\n\nhypoteesin perusteluissa. Tämä edellyttää, että vastauksessa tarkennetaan, mikä nukkumiseen liittyvä\n\nongelma tekee siitä riittämätöntä tai huonoa. Mahdollisia unen laatuun ja määrään liittyviä ongelmia voivat\n\nolla vaikkapa vaikeus nukahtaa, vaikeus mennä ajoissa nukkumaan, yölliset heräämiset tai stressin\n\naiheuttama ylivireystila iltaisin. Nukkumisen haasteet voivat liittyä myös ympäristöön, kuten liian aikaisiin\n\nkouluaamuihin tai rauhattomaan nukkumistilaan. Hyvässä vastauksessa on oivallettu, että kokeellisessa\n\ntutkimuksessa riippumattomassa muuttujassa on vaihtelua, yleisimmin yksilöiden välillä (esimerkiksi\n\ninterventio toisessa ryhmässä, verrokkiryhmässä ei interventiota). Ryhmiin satunnaistaminen on keino\n\nvähentää häiriömuuttujien vaikutusta tulokseen. Tutkimuksen vahvuuksien ja heikkouksien analyysi liittyy\n\nasetelmien, tutkittavien ja menetelmien valintaan, ja siihen voi luontevasti liittää pohdintaa tutkimuksen\n\nluotettavuudesta, pätevyydestä sekä eettisyydestä.\n\n&NewLine;\n\n13−16 p. Tutkimuskysymys ja hypoteesi ovat selkeät ja perustellut. Tutkimussuunnitelma on mielekäs, ja\n\nsen varassa olisi mahdollista tutkia tarkoitettua ilmiötä. Asetelmaan ja menetelmiin viitataan oikeilla\n\nkäsitteillä. Tutkimuksen vahvuuksia ja heikkouksia on pohdittu jonkin verran.\n\n&NewLine;\n\n22−25 p. Tutkimuskysymystä ja hypoteesia on kehitelty ja perusteltu oivaltavasti. Tutkimussuunnitelma on\n\nhuolellisesti laadittu. Menetelmälliset käsitteet ovat täsmällisiä suhteessa valittuihin tutkimuskysymyksiin.\n\nTutkimuksen vahvuuksien ja heikkouksien pohtiminen on syvällistä.\n",
+          "exam_id": 83391,
+          "content": {
+            "text": "**Tutkimustehtävä nukkumisesta (30 p.)**\n\n&NewLine;\n\nSuunnittele kokeellinen tutkimusasetelma, jossa tutkitaan, miten huonosti tai liian vähän nukkuvien ihmisten nukkumista voitaisiin parantaa.\n\n&NewLine;\n\nAloita suunnittelu sen pohtimisesta, mikä voisi olla mielekäs riippumaton muuttuja tutkimuksessasi, kun riippuva muuttuja on nukkuminen. Voit tarkentaa ja rajata nukkumiseen liittyvää ongelmaa. Kirjoita perustelut riippumattoman muuttujan valinnalle. Kirjoita sen jälkeen tutkimuskysymyksesi kysymyksen muotoon. Muotoile hypoteesi ja perustele se psykologisella tiedolla. Voit joko kirjoittaa lyhyen kuvauksen tutkimuksen kulusta ja menetelmistä tai piirtää siitä kuvan, josta edellä kuvatut seikat käyvät ilmi selkeällä tavalla. Pohdi suunnitelmasi vahvuuksia ja heikkouksia.\n",
+            "displayNumber": "8."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2021-01-20T10:38:24.741689",
+          "max_score": null,
+          "groupping": null,
+          "id": 2743682,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "5fabafef-168e-4b33-830f-31394df855b4",
+          "order_number": 11,
+          "multipart": true,
+          "created_at": "2020-11-04T12:59:02.913431"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "”Opiskelen lukiossa psykologiaa, koska kaveritkin opiskelevat.” 2 p.\n\n&NewLine;\n\nTämä lause kuvaa parhaiten\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 83391,
+          "content": {
+            "text": "”Opiskelen lukiossa psykologiaa, koska kaveritkin opiskelevat.” 2 p.\n\n&NewLine;\n\nTämä lause kuvaa parhaiten\n",
+            "displayNumber": "1.8."
+          },
+          "images": null,
+          "settings": {
+            "points": "",
+            "optionsLayout": "1",
+            "customizedPoints": true
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2021-01-20T10:38:24.74444",
+          "max_score": 2,
+          "groupping": null,
+          "id": 2742967,
+          "question_type": "CUSTOMIZED_FEEDBACK",
+          "options": [
+            {
+              "id": 32,
+              "text": "ulkoista motivaatiota.",
+              "parent": "56fc36d2-2589-4936-9605-bf34eb620b44",
+              "points": "2",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 33,
+              "text": "itseä vahingoittavaa tulkintatyyliä/strategiaa.",
+              "parent": "56fc36d2-2589-4936-9605-bf34eb620b44",
+              "points": "-1",
+              "choices": []
+            },
+            {
+              "id": 34,
+              "text": "pystyvyysuskomuksia/minäpystyvyysuskomuksia.",
+              "parent": "56fc36d2-2589-4936-9605-bf34eb620b44",
+              "points": "-1",
+              "choices": []
+            },
+            {
+              "id": 35,
+              "text": "En vastaa.",
+              "parent": "56fc36d2-2589-4936-9605-bf34eb620b44",
+              "points": "0",
+              "choices": []
+            }
+          ],
+          "uuid": "56fc36d2-2589-4936-9605-bf34eb620b44",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2020-11-04T09:28:45.301049"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Osa III: 30 pisteen tehtävät**\n\n&NewLine;\n\nVastaa 1–2 tehtävään.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 83391,
+          "content": {
+            "text": "**Osa III: 30 pisteen tehtävät**\n\n&NewLine;\n\nVastaa 1–2 tehtävään.\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2021-01-20T10:38:24.747105",
+          "max_score": null,
+          "groupping": null,
+          "id": 2743680,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "cdbd4c17-cd35-4ff2-8e29-cbefcff6bdd1",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2020-11-04T12:59:02.908329"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Tiedekysymykseen vastaaminen 20 p.**\n\n&NewLine;\n\nMiksi ajatukset ovat näkymättömiä? Näin kysyi 6-vuotias Sona Helsingin Sanomien Lasten tiedekysymykset -palstalla 15.3.2019. Miten vastaisit tähän kysymykseen lukio-opiskelijalle psykologisen tiedon varassa?\n",
+          "deleted_at": null,
+          "feedback": "Ihmisen ajattelulla voidaan tarkoittaa hänen tietoisia kokemuksiaan, tahdonalaisia ajatuksiaan, kuten\n\nsisäistä puhetta, sekä myös tiedostamatonta tiedonkäsittelyä. Tietoiset kokemukset ovat subjektiivisia, niitä\n\nei voi havaita ulkopuolelta, ja ainoastaan kokemuksen kokija tietää miltä ne tuntuvat. Myöskään\n\ntiedostamatonta tiedonkäsittelyä ei voi suoraan ulkoapäin havaita.\n\n&NewLine;\n\nIhmisen kokemukset ja ajatukset näkyvät kuitenkin epäsuorasti hänen kehonsa toiminnasta ja reaktioista\n\nsekä hänen käyttäytymisestään. Neuropsykologisesta näkökulmasta ajatusten taustalla olevaa aivojen\n\ntoimintaa voi tarkkailla ja mitata aivokuvantamismenetelmien avulla, ja siten ajatuksiin liittyvää hermoston\n\ntoimintaa voi tehdä näkyväksi. Aivojen toiminnan kuvantamisesta ei kuitenkaan pysty päättelemään\n\nsuoraan, mitä ihminen ajattelee, koska yksilön muistia ja ajatuksia ylläpitävä hermoverkosto on rakentunut\n\nhänen kokemusmaailmansa mukaisesti.\n\n&NewLine;\n\nAjatukset voivat olla muistamista ja suunnittelua ja voivat näkyä esimerkiksi puheessa ja toiminnassa sekä\n\ntunteina. Kehityspsykologisesta näkökulmasta osa itseä ohjaavasta puheesta muuttuu sisäiseksi puheeksi\n\n(Vygotski). Tunteiden säätelyn kehitys on myös yhteydessä ajatusten näkymättömyyteen tai näkymiseen.\n\nAjatuksiin liittyy usein tunteita, ja tunteisiin liittyvien usein universaalien ilmeiden avulla ihmiset voivat\n\nilmentää ajatuksiaan sekä ymmärtää ja nähdä toisten ihmisten tunteita ja niihin liittyviä ajatuksia. Aikuiset\n\npystyvät säätelemään tunteitaan ja niiden näyttämistä ja ymmärtämistä lapsia paremmin.\n\n&NewLine;\n\nKognitiivisesta näkökulmasta esimerkiksi Neisserin havaintokehä ja oppiminen kuvaavat myös ajatuksia ja\n\noivaltamista. Sisäiset mallit ja niiden muokkautuminen ovat suurelta osin näkymättömiä. Ihmisen\n\ntoiminnasta ja puheesta voi kuitenkin nähdä jotain hänen ajatuksistaan, esimerkiksi mihin hänen\n\nhuomionsa kiinnittyy ja minkälaisista asioista hän on kiinnostunut.\n\n&NewLine;\n\nSonan esittämään kysymykseen vastasi Helsingin Sanomissa kliinisen neurofysiologian professori Sampsa\n\nVanhatalo Helsingin yliopistosta (Lastensairaala) näin: ”Ihmisellä on monenlaisia ajatuksia. Osa\n\najatuksistamme näkyy kokemuksina ja tuntemuksina. Ne yleensä ohjaavat toimintaamme. Niitä kutsutaan\n\ntunneajatuksiksi. Sitten on järkiajatuksia, joita pohdimme hyvin järjestelmällisesti ja tietoisesti. Kaikki\n\najatukset syntyvät pään sisällä aivoissa. Aivot ovat kuin valtavan monimutkainen tietokone, jossa pienet\n\nsähkösykäykset ja välittäjäaineet vievät viestejä miljoonien aivosolujen välillä. Voimme mitata aivojen\n\nsähkösykäyksiä tai verenkiertoa. Mikään niistä ei kuitenkaan ole sama kuin ajatus. Ajatukset ovat sitä, että\n\nmiljoonat mikroskooppisen pienet aivosolut toimivat yhtä aikaa. Tätä yhteistyötä on mahdotonta nähdä,\n\nvaikka kuinka kurkistaisi aivojen sisään. Meidän on kuitenkin helppo nähdä ajatusten vaikutuksia. Jotkin\n\najatukset voivat saada koko elimistön mukaansa. Esimerkiksi isot huolet voivat aiheuttaa mahakipua tai\n\npäänsärkyä. Silloin toinen ihminen voi nähdä nuo ajatukset kärsimyksenä. Samalla tavalla toinen ihminen\n\nnäkee helposti naamastasi, kun sinulla on iloisia ajatuksia.” Sampsa Vanhatalon vastaus on kirjoitettu 6-\n\nvuotiaalle, mutta siinä esitetyt esimerkit ovat hyviä ja mahdollisia tapoja selittää asiaa myös nuorille.\n\n&NewLine;\n\nHyvässä vastauksessa kysymystä pohditaan eri näkökulmista. Vastauksessa tuodaan esille, että ajatukset\n\nvoivat sekä olla näkymättömiä että joskus myös näkyä eri tavoilla.\n\n&NewLine;\n\n9−11 p. Hyvässä vastauksessa käsitellään ajatuksien näkymättömyyttä psykologisen tiedon varassa, ja\n\nvastaus on kohdistettu nuorelle. Vastauksessa on oivallettu, että ajatukset voivat olla myös näkyviä.\n\nPsykologisen tiedon hallinta on hyvää.\n\n&NewLine;\n\n15−17 p. Kiitettävässä vastauksessa ajatuksien näkymättömyyttä käsitellään laajemmin ja useista\n\npsykologisista näkökulmista siten, että vastaus on kohdistettu nuorelle. Ajatuksien näkymättömyydestä ja\n\nnäkymisestä on oivaltavia esimerkkejä. Vastaus muodostaa kiitettävän kokonaisuuden.\n",
+          "exam_id": 83391,
+          "content": {
+            "text": "**Tiedekysymykseen vastaaminen 20 p.**\n\n&NewLine;\n\nMiksi ajatukset ovat näkymättömiä? Näin kysyi 6-vuotias Sona Helsingin Sanomien Lasten tiedekysymykset -palstalla 15.3.2019. Miten vastaisit tähän kysymykseen lukio-opiskelijalle psykologisen tiedon varassa?\n",
+            "displayNumber": "5."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2021-01-20T10:38:24.749888",
+          "max_score": null,
+          "groupping": null,
+          "id": 2743678,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "fe521238-526c-4865-96db-a6571e3d145a",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2020-11-04T12:59:02.90316"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Osa II: 20 pisteen tehtävät**\n\n&NewLine;\n\nVastaa 1–2 tehtävään.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 83391,
+          "content": {
+            "text": "**Osa II: 20 pisteen tehtävät**\n\n&NewLine;\n\nVastaa 1–2 tehtävään.\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2021-01-20T10:38:24.752809",
+          "max_score": null,
+          "groupping": null,
+          "id": 2743676,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "711127fb-518d-4777-9e8a-29175ff803e8",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2020-11-04T12:59:02.897433"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "”Ei tästä tule mitään. Minua pelottaa.” 2 p.\n\n&NewLine;\n\nTämä lause kuvaa parhaiten\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 83391,
+          "content": {
+            "text": "”Ei tästä tule mitään. Minua pelottaa.” 2 p.\n\n&NewLine;\n\nTämä lause kuvaa parhaiten\n",
+            "displayNumber": "1.5."
+          },
+          "images": null,
+          "settings": {
+            "points": "",
+            "optionsLayout": "1",
+            "customizedPoints": true
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2021-01-20T10:38:24.758321",
+          "max_score": 2,
+          "groupping": null,
+          "id": 2742950,
+          "question_type": "CUSTOMIZED_FEEDBACK",
+          "options": [
+            {
+              "id": 20,
+              "text": "sisäistä motivaatiota.",
+              "parent": "33e41109-e267-44a3-b2e3-48a238dbe8a5",
+              "points": "-1",
+              "choices": []
+            },
+            {
+              "id": 21,
+              "text": "itseä vahingoittavaa tulkintatyyliä/strategiaa.",
+              "parent": "33e41109-e267-44a3-b2e3-48a238dbe8a5",
+              "points": "2",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 22,
+              "text": "optimistista tulkintatyyliä/strategiaa.",
+              "parent": "33e41109-e267-44a3-b2e3-48a238dbe8a5",
+              "points": "-1",
+              "choices": []
+            },
+            {
+              "id": 23,
+              "text": "En vastaa.",
+              "parent": "33e41109-e267-44a3-b2e3-48a238dbe8a5",
+              "points": "0",
+              "choices": []
+            }
+          ],
+          "uuid": "33e41109-e267-44a3-b2e3-48a238dbe8a5",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2020-11-04T09:24:35.477754"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "”Aika helppo koe. Ainakin, jos oli tehnyt kurssin tehtävät.” 2 p.\n\n&NewLine;\n\nTämä lause kuvaa parhaiten\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 83391,
+          "content": {
+            "text": "”Aika helppo koe. Ainakin, jos oli tehnyt kurssin tehtävät.” 2 p.\n\n&NewLine;\n\nTämä lause kuvaa parhaiten\n",
+            "displayNumber": "1.6."
+          },
+          "images": null,
+          "settings": {
+            "points": "",
+            "optionsLayout": "1",
+            "customizedPoints": true
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2021-01-20T10:38:24.769609",
+          "max_score": 2,
+          "groupping": null,
+          "id": 2742951,
+          "question_type": "CUSTOMIZED_FEEDBACK",
+          "options": [
+            {
+              "id": 24,
+              "text": "ulkoista motivaatiota.",
+              "parent": "68b6cc2a-9c45-4a49-a7b7-dee2cd1d0a39",
+              "points": "-1",
+              "choices": []
+            },
+            {
+              "id": 25,
+              "text": "optimistista tulkintatyyliä/strategiaa.",
+              "parent": "68b6cc2a-9c45-4a49-a7b7-dee2cd1d0a39",
+              "points": "2",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 26,
+              "text": "itseä vahingoittavaa tulkintatyyliä/strategiaa.",
+              "parent": "68b6cc2a-9c45-4a49-a7b7-dee2cd1d0a39",
+              "choices": []
+            },
+            {
+              "id": 27,
+              "text": "En vastaa.",
+              "parent": "68b6cc2a-9c45-4a49-a7b7-dee2cd1d0a39",
+              "points": "0",
+              "choices": []
+            }
+          ],
+          "uuid": "68b6cc2a-9c45-4a49-a7b7-dee2cd1d0a39",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2020-11-04T09:24:35.480954"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Osa I: 20 pisteen tehtävät**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 83391,
+          "content": {
+            "text": "**Osa I: 20 pisteen tehtävät**\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2021-01-20T10:38:24.772216",
+          "max_score": null,
+          "groupping": null,
+          "id": 2742928,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "b3ba17ec-8bee-471d-87a3-cb7ce80e4eff",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2020-11-04T09:20:09.217951"
+        }
+      ],
+      "name": "Psykologia syksy 2020",
+      "settings": {
+        "overrideTitle": true
+      },
+      "exam_type": "yo-koe",
+      "classification": {
+        "category": "",
+        "disable_saving": false,
+        "hide_review_buttons": false,
+        "exam_type": "yo-koe",
+        "year": "2020",
+        "language": "fi-FI",
+        "hide_statistics": false,
+        "show_exam_series": false,
+        "force_yletunnus": false,
+        "subject": "psykologia",
+        "published": true,
+        "semester": "fall"
+      },
+      "published_at": "2020-11-04T13:55:35.000Z",
+      "language": "fi-FI",
+      "id": 83391,
+      "reviews": [],
+      "is_open": true,
+      "uuid": "e46e513d-1785-459f-b914-63a6959e2b5f"
+    }
+  ]
+}

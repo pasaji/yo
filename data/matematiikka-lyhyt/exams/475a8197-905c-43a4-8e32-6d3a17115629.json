@@ -1,0 +1,1354 @@
+{
+  "meta": {
+    "count": 1
+  },
+  "data": [
+    {
+      "tags": [
+        ""
+      ],
+      "main_text": "Koe koostuu 11 tehtävästä, joista vastataan yhdeksään. Tehtävät on jaettu kahteen osaan. A-osassa on kuusi tehtävää, joista vastataan viiteen. B-osassa on viisi tehtävää, joista vastataan neljään. Tehtävät 1–9 arvostellaan pistein 0–12, ja tehtävät 10 ja 11 pistein 0–18. Kokeen maksimipistemäärä on 120 ja sen voi saavuttaa vain, jos vastaa tehtäviin 10 ja 11.\n\n&NewLine;\n\nA-osassa saat käyttää koejärjestelmässä olevaa taulukkokirjaa ja perusohjelmia. A-osa palautetaan tehtävän 6 jälkeen olevalla painikkeella. Tämän jälkeen A-osan vastauksia ei voi enää muokata. A-osan palauttamisen jälkeen kaikki koejärjestelmän ohjelmat ovat käytettävissäsi. Voit vastata B-osan tehtäviin myös ennen A-osan palauttamista.\n\n&NewLine;\n\nUseimmissa tehtävissä kaikkien osatehtävien vastaukset kirjoitetaan samaan vastauskenttään. Jaottele vastauksesi osatehtävien mukaisesti. Halutessasi voit tuottaa vastausten tueksi piirroksia, kaavioita tai taulukoita ja liittää niistä kuvakaappauksen mihin tahansa tekstivastaukseen.\n\n&NewLine;\n\nÄlä jätä mitään merkintöjä sellaisen tehtävän vastaukselle varattuun tilaan, jota et halua jättää arvosteltavaksi.",
+      "characters": null,
+      "deleted_at": null,
+      "series_uuids": [],
+      "questions": [
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Laske. 2 p.\n\nReseptin mukaan kuuteen annokseen pannacottaa tarvitaan 1[MATH text=\\frac{1}{2}] desilitraa maitoa. Yhdestä litrasta maitoa saa [GAP id=3] annosta.",
+          "deleted_at": null,
+          "feedback": "36: Oletettu, että kuusi annosta on kvantti, jolloin litrasta saa 36 annosta ja jää desilitra maitoa.(1 p.)",
+          "exam_id": 224915,
+          "content": {
+            "text": "#### Laske. 2 p.\n\nReseptin mukaan kuuteen annokseen pannacottaa tarvitaan 1[MATH text=\\frac{1}{2}] desilitraa maitoa. Yhdestä litrasta maitoa saa [GAP id=3] annosta.",
+            "displayNumber": "1.3"
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-12-20T09:36:35.617541",
+          "max_score": 2,
+          "groupping": null,
+          "id": 7177570,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 3,
+              "parent": "8f994824-430f-4f5e-b152-ddae719bb352",
+              "choices": [],
+              "correct": "40|36",
+              "isCaseSensitive": false
+            }
+          ],
+          "uuid": "8f994824-430f-4f5e-b152-ddae719bb352",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2024-10-09T11:04:30.177142"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Laske. 2 p.\n\nJuna lähtee Oulusta kello 9.48 ja on perillä Helsingissä kello 15.25. Junamatkan kesto on [GAP id=1] tuntia ja [GAP id=2] minuuttia.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 224915,
+          "content": {
+            "text": "#### Laske. 2 p.\n\nJuna lähtee Oulusta kello 9.48 ja on perillä Helsingissä kello 15.25. Junamatkan kesto on [GAP id=1] tuntia ja [GAP id=2] minuuttia.",
+            "displayNumber": "1.2"
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-12-20T09:36:35.60793",
+          "max_score": 4,
+          "groupping": null,
+          "id": 7177569,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "hint": "1 p. ",
+              "parent": "63d21f0d-7085-4f05-999f-96bb095fedba",
+              "choices": [],
+              "correct": "5",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 2,
+              "hint": "1 p. ",
+              "parent": "63d21f0d-7085-4f05-999f-96bb095fedba",
+              "choices": [],
+              "correct": "37",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "63d21f0d-7085-4f05-999f-96bb095fedba",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2024-10-09T11:04:30.17365"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Laske. 3 p.\n\nHarrin palkka on 4200 euroa kuukaudessa. Hänen palkastaan vähennetään 24 % ennakonpidätystä ja 9 % pakollisia eläke- ja työttömyysvakuutusmaksuja. Harrin nettopalkka euron tarkkuudella on [GAP id=4] euroa. **HUOM.! Abitreenien harjoituskokeen pisteytys poikkeaa YTL:n alkuperäisestä kokeesta.** ",
+          "deleted_at": null,
+          "feedback": "Virheellinen vastaus 2905, joka antaa pisteen (laskettu periaatteella [MATH text=4200\\cdot (1-0\\mathrm{,}24)(1-0\\mathrm{,}09) \\approx 2905)].",
+          "exam_id": 224915,
+          "content": {
+            "text": "#### Laske. 3 p.\n\nHarrin palkka on 4200 euroa kuukaudessa. Hänen palkastaan vähennetään 24 % ennakonpidätystä ja 9 % pakollisia eläke- ja työttömyysvakuutusmaksuja. Harrin nettopalkka euron tarkkuudella on [GAP id=4] euroa. **HUOM.! Abitreenien harjoituskokeen pisteytys poikkeaa YTL:n alkuperäisestä kokeesta.** ",
+            "displayNumber": "1.4"
+          },
+          "images": null,
+          "settings": {
+            "points": "3"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-12-20T09:36:35.604905",
+          "max_score": 3,
+          "groupping": null,
+          "id": 7177576,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 4,
+              "hint": "3 p.",
+              "parent": "4dba3bed-0389-41c8-a12e-e9a7b618db88",
+              "choices": [],
+              "correct": "2418|2905",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "4dba3bed-0389-41c8-a12e-e9a7b618db88",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2024-10-09T11:05:39.550694"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Kuulantyöntö 12 p.\n\nRyan Crouserin 18.2.2023 työntämän huipputuloksen perusteella on mallinnettu kuulantyönnön tulosta metreinä polynomifunktiolla\n\n[MATH text=f(x)=-0{,}0126x^2+1{,}07x+0{,}630], kun muuttuja [MATH text= 0\\le x\\le 60] on työnnön suuntakulma asteina (vaakatasosta mitattuna). Määritä derivaattaa käyttämällä suurimpaan työntötulokseen johtava työntökulma asteen sadasosan tarkkuudella ja sitä vastaava työntötulos yhden senttimetrin tarkkuudella.",
+          "deleted_at": null,
+          "feedback": "Funktion derivaatta on [MATH text=f'(x)=2\\cdot (-0\\mathrm{,}0126)x+1\\mathrm{,}07=-0\\mathrm{,}0252x+1\\mathrm{,}07]. \n\n(yritetty derivoida 1 p, aste oikein 1 p. ja 1 p./termi)\n\n4 p.\n\nEi pisteitä jatkosta, jos derivaatta ei ole ensimmäisen asteen polynomi.\n\nDerivaatan nollakohta on [MATH text=x=42{,}4603\\approx 42{,}46].\n\n2 p.\n\nKoska kyseessä on alaspäin aukeava paraabeli, antaa derivaatan nollakohta funktion suurimman arvon.\n\n3 p.\n\nFunktion suurin arvo on siis noin [MATH text=f(42\\mathrm{,}4603)\\approx 23\\mathrm{,}35] metriä.\n\n3 p.",
+          "exam_id": 224915,
+          "content": {
+            "text": "### Kuulantyöntö 12 p.\n\nRyan Crouserin 18.2.2023 työntämän huipputuloksen perusteella on mallinnettu kuulantyönnön tulosta metreinä polynomifunktiolla\n\n[MATH text=f(x)=-0{,}0126x^2+1{,}07x+0{,}630], kun muuttuja [MATH text= 0\\le x\\le 60] on työnnön suuntakulma asteina (vaakatasosta mitattuna). Määritä derivaattaa käyttämällä suurimpaan työntötulokseen johtava työntökulma asteen sadasosan tarkkuudella ja sitä vastaava työntötulos yhden senttimetrin tarkkuudella.",
+            "displayNumber": "4."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-12-20T09:36:35.593811",
+          "max_score": null,
+          "groupping": null,
+          "id": 7177638,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "7fa521e0-739f-4f6a-bca4-534c869ccc05",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2024-10-09T11:10:24.749371"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Lainojen vertailu 12 p.\n\nNaava ja Silmu ottavat kumpikin 9 000 euron lainan. Naavan laina on tasalyhennyslaina ja Silmun laina on annuiteettilaina. Kummankin lainan vuotuinen korkokanta on 5 % ja laina-aika 3 vuotta. He lyhentävät lainojaan kerran vuodessa. Kumman viimeinen maksuerä on suurempi?",
+          "deleted_at": null,
+          "feedback": "Annuiteettilainan jokainen maksuerä on [MATH text=9000\\cdot 1\\mathrm{,}05^3\\cdot \\frac{1-1\\mathrm{,}05}{1-1\\mathrm{,}05^3}=3304\\mathrm{,}88] euroa. \n\n(Korkokerroin oikein 1 p./osoittaja 1 p./nimittäjä 1 p./9000 1 p./vastaus 1 p.)\n\n5 p.\n\nTasalyhennyslainan viimeinen lyhennys on [MATH text=\\frac{9000}{3}]=3000 euroa,\n\n3 p.\n\nja lisäksi maksetaan tästä kertynyt korko, joten koko maksuerän suuruus on [MATH text=3000\\cdot 1\\mathrm{,}05=3150] euroa.\n\n2 p.\n\nViimeinen erä on siis suurempi annuiteettilainalla.\n\n2 p.\n\nTehtävän voi ratkaista myös rakentamalla perustelun sen varaan, että tasalyhennyslainassa erät pienenevät ja annuiteettilainassa erät pysyvät samoina.\n",
+          "exam_id": 224915,
+          "content": {
+            "text": "### Lainojen vertailu 12 p.\n\nNaava ja Silmu ottavat kumpikin 9 000 euron lainan. Naavan laina on tasalyhennyslaina ja Silmun laina on annuiteettilaina. Kummankin lainan vuotuinen korkokanta on 5 % ja laina-aika 3 vuotta. He lyhentävät lainojaan kerran vuodessa. Kumman viimeinen maksuerä on suurempi?",
+            "displayNumber": "5."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-12-20T09:36:35.591103",
+          "max_score": null,
+          "groupping": null,
+          "id": 7177639,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "430a19ff-8f63-42ca-a1af-0fda7147b045",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2024-10-09T11:10:24.752876"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Terminen talvi 18 p.\n\n#### Aineisto\n\n10.A Teksti: [LINK text=Termisen talven määritelmä ja esimerkki|url=https://yle.fi/plus/abitreenit/2024/syksy/matematiikka_lyhyt/attachments/index.html#10.A]\n\n10.B Taulukko: [LINK text=Keskilämpötilat Enontekiön Kilpisjärven Saanan havaintoasemalta aikaväliltä 1.9.2021–30.11.2021|url=https://yle.fi/plus/abitreenit/2024/syksy/matematiikka_lyhyt/attachments/index.html#10.B]\n\n&NewLine;\n\nValitse osatehtävissä 10.1–10.2 oikea vaihtoehto. Näitä vastauksia ei tarvitse perustella. Oikea vastaus 1–2 p., väärä vastaus 0 p., ei vastausta 0 p. Jos olet aloittanut tehtävään vastaamisen, mutta et haluakaan jättää tehtävää arvosteltavaksi, poista vastauksesi valitsemalla pudotusvalikosta tyhjä rivi.\n\nTarkastellaan Saanan havaintoaseman lämpötiloja taulukosta 10.B käyttäen tekstin 10.A käsitteitä. Teksti on Ilmatieteen laitoksen termisiä vuodenaikoja koskeva esitys kokonaisuudessaan. Tehtävän ratkaisua varten täytyy tekstistä hakea itse tarvittavat tiedot.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 224915,
+          "content": {
+            "text": "### Terminen talvi 18 p.\n\n#### Aineisto\n\n10.A Teksti: [LINK text=Termisen talven määritelmä ja esimerkki|url=https://yle.fi/plus/abitreenit/2024/syksy/matematiikka_lyhyt/attachments/index.html#10.A]\n\n10.B Taulukko: [LINK text=Keskilämpötilat Enontekiön Kilpisjärven Saanan havaintoasemalta aikaväliltä 1.9.2021–30.11.2021|url=https://yle.fi/plus/abitreenit/2024/syksy/matematiikka_lyhyt/attachments/index.html#10.B]\n\n&NewLine;\n\nValitse osatehtävissä 10.1–10.2 oikea vaihtoehto. Näitä vastauksia ei tarvitse perustella. Oikea vastaus 1–2 p., väärä vastaus 0 p., ei vastausta 0 p. Jos olet aloittanut tehtävään vastaamisen, mutta et haluakaan jättää tehtävää arvosteltavaksi, poista vastauksesi valitsemalla pudotusvalikosta tyhjä rivi.\n\nTarkastellaan Saanan havaintoaseman lämpötiloja taulukosta 10.B käyttäen tekstin 10.A käsitteitä. Teksti on Ilmatieteen laitoksen termisiä vuodenaikoja koskeva esitys kokonaisuudessaan. Tehtävän ratkaisua varten täytyy tekstistä hakea itse tarvittavat tiedot.",
+            "displayNumber": "10."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "725c2fd4-6b8b-49f0-806c-8be98c35b9db",
+            "f7ebb36d-071d-4aad-b441-ce31ab7d3497",
+            "b79fbff5-387f-484d-b995-edc7468b50e8",
+            "9d48d1d9-20f7-4260-95d7-34e5e375128c",
+            "6ffcb34e-694d-47e1-a973-50b7c8a0aea4"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-12-20T09:36:35.588162",
+          "max_score": null,
+          "groupping": null,
+          "id": 7178141,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "4e3fea54-5bb7-4399-b883-21398fe8daaf",
+          "order_number": 13,
+          "multipart": true,
+          "created_at": "2024-10-09T11:40:53.992247"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Moottoritien kustannukset 12 p.\n\nHelsingin Sanomat kirjoitti 20.6.1972:\n\n[CITE source=Suomen suurin tietyö jyrää maiseman halki Helsingistä Lahteen. Leveimmillään kuusikaistainen Lahden moottoritie maksaa noin 320 miljoonaa markkaa, yli 3 markkaa millimetri.]\n\nVuonna 2018 valmistuneessa tiehankkeessa Haminasta Vaalimaalle kulkevan 32 kilometrin pituisen moottoritieosuuden hinta oli 550 miljoonaa euroa. Tässä tehtävässä eri vuosien kustannuksia verrataan käyttämällä \"Aku Ankka -indeksiä\", joka perustuu seuraavaan tietoon: Aku Ankka -lehden irtonumero maksoi 0,80 markkaa vuonna 1972 ja 3,50 euroa vuonna 2018.\n\n&NewLine;\n\nMitkä olivat Helsinki–Lahti-moottoritien kustannukset vuoden 2018 rahassa?\n\n&NewLine;\n\nKuinka monta prosenttia kalliimpi Hamina–Vaalimaa-moottoritie oli kilometriä kohti kuin Helsinki–Lahti-moottoritie rahan arvon muutos huomioiden?",
+          "deleted_at": null,
+          "feedback": "Aku Ankan hinnan perusteella voidaan arvioida, että rahan arvo on muuttunut suurin piirtein kertoimella[MATH text= \\frac{3\\mathrm{,}50}{0\\mathrm{,}80}\\frac{\\textrm{euro}}{\\textrm{mk}}=4\\mathrm{,}375\\frac{\\textrm{euro}}{\\textrm{mk}}].\n\n3 p.\n\nKustannukset olivat siis [MATH text=320\\cdot 4\\mathrm{,}375=1400] miljoonaa euroa.\n\n3 p.\n\nVuoden 2018 rahassa Helsinki–Lahti olisi maksanut kilometriä kohti noin [MATH text=3\\cdot 10^6\\cdot 4\\mathrm{,}375=13125000] euroa.\n\n2 p.\n\nHamina–Vaalimaa maksoi [MATH text=\\frac{550 000 000}{32}=17 187 500 ] euroa kilometriä kohti.\n\n2 p.\n\nUusi moottoritie on siis [MATH text=\\frac{17 187 500-13 125 000}{13 125 000}\\approx 31 %] % kalliimpi kuin vanha.\n\n2 p.\n\nVertailun voi suorittaa myös vuoden 1972 rahassa.",
+          "exam_id": 224915,
+          "content": {
+            "text": "### Moottoritien kustannukset 12 p.\n\nHelsingin Sanomat kirjoitti 20.6.1972:\n\n[CITE source=Suomen suurin tietyö jyrää maiseman halki Helsingistä Lahteen. Leveimmillään kuusikaistainen Lahden moottoritie maksaa noin 320 miljoonaa markkaa, yli 3 markkaa millimetri.]\n\nVuonna 2018 valmistuneessa tiehankkeessa Haminasta Vaalimaalle kulkevan 32 kilometrin pituisen moottoritieosuuden hinta oli 550 miljoonaa euroa. Tässä tehtävässä eri vuosien kustannuksia verrataan käyttämällä \"Aku Ankka -indeksiä\", joka perustuu seuraavaan tietoon: Aku Ankka -lehden irtonumero maksoi 0,80 markkaa vuonna 1972 ja 3,50 euroa vuonna 2018.\n\n&NewLine;\n\nMitkä olivat Helsinki–Lahti-moottoritien kustannukset vuoden 2018 rahassa?\n\n&NewLine;\n\nKuinka monta prosenttia kalliimpi Hamina–Vaalimaa-moottoritie oli kilometriä kohti kuin Helsinki–Lahti-moottoritie rahan arvon muutos huomioiden?",
+            "displayNumber": "8."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-12-20T09:36:35.58528",
+          "max_score": null,
+          "groupping": null,
+          "id": 7177733,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "85f3a32c-8e75-4302-902a-c31a6e0bea1c",
+          "order_number": 11,
+          "multipart": true,
+          "created_at": "2024-10-09T11:15:52.316055"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Jakaumia, kuvaajia ja todennäköisyyksiä 12 p.\n\n#### Aineisto\n\n6.A Kuva: [LINK text= Onnistumistodennäköisyyksiä prosentteina|url=https://yle.fi/plus/abitreenit/2024/syksy/matematiikka_lyhyt/attachments/index.html#6.A]\n\n&NewLine;\n\nValitse oikea vaihtoehto. Vastauksia ei tarvitse perustella. Oikea vastaus 2–3 p., väärä vastaus 0 p., ei vastausta 0 p.\n\n&NewLine;\n\nJos olet aloittanut tehtävään vastaamisen, mutta et haluakaan jättää tehtävää arvosteltavaksi, poista vastauksesi valitsemalla pudotusvalikosta tyhjä rivi.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 224915,
+          "content": {
+            "text": "### Jakaumia, kuvaajia ja todennäköisyyksiä 12 p.\n\n#### Aineisto\n\n6.A Kuva: [LINK text= Onnistumistodennäköisyyksiä prosentteina|url=https://yle.fi/plus/abitreenit/2024/syksy/matematiikka_lyhyt/attachments/index.html#6.A]\n\n&NewLine;\n\nValitse oikea vaihtoehto. Vastauksia ei tarvitse perustella. Oikea vastaus 2–3 p., väärä vastaus 0 p., ei vastausta 0 p.\n\n&NewLine;\n\nJos olet aloittanut tehtävään vastaamisen, mutta et haluakaan jättää tehtävää arvosteltavaksi, poista vastauksesi valitsemalla pudotusvalikosta tyhjä rivi.",
+            "displayNumber": "6."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "ac79b9ed-9d27-40f8-b1a8-500233009968",
+            "883dbe68-2566-4ddb-b8f1-e7267dbddab4"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-12-20T09:36:35.582244",
+          "max_score": null,
+          "groupping": null,
+          "id": 7177641,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "c69e4222-bf41-49ba-bcd1-c3c56894948a",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2024-10-09T11:10:24.761696"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Juomalaseja mainoksessa 12 p.\n\n#### Aineisto\n\n3.A Kuva: [LINK text=Esimerkkimuodostelma|url=https://yle.fi/plus/abitreenit/2024/syksy/matematiikka_lyhyt/attachments/index.html#3.A]\n\n&NewLine;\n\nMainostoimisto suunnittelee astianpesuaineen mainosvideon. Tuottajan ajatuksena on asettaa suuri määrä juomalaseja kolmion muotoiseen kuvioon kuvan 3.A mukaisesti. Ensimmäisellä rivillä on yksi lasi, toisella rivillä kaksi, kolmannella rivillä kolme ja niin edelleen siten, että seuraavalla rivillä on aina yksi lasi enemmän kuin edellisellä rivillä.\n\n1. Kuinka monta juomalasia on kymmenellä ensimmäisellä lasirivillä yhteensä? **(3 p.)**\n2. Määritä lauseke juomalasien kokonaismäärälle, kun lasirivejä on n kappaletta. **(4 p.)**\n3. Kuinka monta lasiriviä on 3916 juomalasin muodostelmassa? **(5 p.)**",
+          "deleted_at": null,
+          "feedback": "[MATH text=1+2+3+\\cdots +10=55]\n\n3 p.\n\nKyseessä on aritmeettinen jono, jossa [MATH text=a_1=1] ja d=1.\n\n2 p.\n\nSiispä [MATH text=1+2+3+\\cdots +n=\\frac{n(n+1)}{2}].\n\n2 p.\n\nRatkaistaan yhtälö [MATH text=\\frac{n(n+1)}{2}=3916].\n\n1 p.\n\nSijoitetaan toisen asteen yhtälön ratkaisukaavaan tai esimerkiksi Speedcrunchiin yhtälöstä [MATH text=n^2+n-7832=0] poimitut kertoimet.\n\n2 p.\n\nSaadaan n=88 tai n=-89. Koska negatiivinen vastaus on mieletön, on lasirivejä 88.\n\n2 p.",
+          "exam_id": 224915,
+          "content": {
+            "text": "### Juomalaseja mainoksessa 12 p.\n\n#### Aineisto\n\n3.A Kuva: [LINK text=Esimerkkimuodostelma|url=https://yle.fi/plus/abitreenit/2024/syksy/matematiikka_lyhyt/attachments/index.html#3.A]\n\n&NewLine;\n\nMainostoimisto suunnittelee astianpesuaineen mainosvideon. Tuottajan ajatuksena on asettaa suuri määrä juomalaseja kolmion muotoiseen kuvioon kuvan 3.A mukaisesti. Ensimmäisellä rivillä on yksi lasi, toisella rivillä kaksi, kolmannella rivillä kolme ja niin edelleen siten, että seuraavalla rivillä on aina yksi lasi enemmän kuin edellisellä rivillä.\n\n1. Kuinka monta juomalasia on kymmenellä ensimmäisellä lasirivillä yhteensä? **(3 p.)**\n2. Määritä lauseke juomalasien kokonaismäärälle, kun lasirivejä on n kappaletta. **(4 p.)**\n3. Kuinka monta lasiriviä on 3916 juomalasin muodostelmassa? **(5 p.)**",
+            "displayNumber": "3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-12-20T09:36:35.577691",
+          "max_score": null,
+          "groupping": null,
+          "id": 7177610,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "ec394c67-59a4-43a8-8eb4-d73ec4099384",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2024-10-09T11:07:17.771669"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Suhteellinen vaalitapa 18 p.\n\n#### Aineisto\n\n11.A Taulukko: [LINK text=Äänestystulokset|url=https://yle.fi/plus/abitreenit/2024/syksy/matematiikka_lyhyt/attachments/index.html#11.A]\n\n11.B Teksti: [LINK text=D'Hondtin suhteellinen vaalitapa|url=https://yle.fi/plus/abitreenit/2024/syksy/matematiikka_lyhyt/attachments/index.html#11.B]\n\n&NewLine;\n\nKuvitteellisessa Keski-Maan vaalipiirissä on neljä puoluetta: Hobittipuolue, Ihmispuolue, Haltiapuolue ja Kääpiöpuolue. Taulukossa 11.A on esitetty Keski-Maassa toimitetun vaalin äänestystulokset.\n\nVastaa seuraaviin kysymyksiin olettaen, että Keski-Maassa käytetään d'Hondtin suhteellista vaalitapaa, joka on kuvattu tekstissä 11.B.\n\n1. Mikä oli vaalien äänestysprosentti, kun Keski-Maassa on 290 754 äänioikeutettua? **(3 p.)**\n2. Laske kunkin ehdokkaan vertausluku. Ketkä tulevat valituiksi, kun vaalipiiristä valitaan viisi edustajaa? **(5 p.)**\n3. Kuinka monta henkilökohtaista ääntä enemmän Pippinin olisi pitänyt saada, jotta hän olisi tullut valituksi ilman arvontaa? Oletetaan, että muiden äänimäärät eivät muutu. **(5 p.)**\n4. Suhteellisen vaalitavan tavoite on, että edustajien paikat jakautuvat samassa suhteessa kuin puolueiden saamat äänet. Pohdi, kuinka hyvin tämä toteutui näissä vaaleissa. **(5 p.)**",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso hyvän vastauksen piirteet täältä.|url=https://yle.fi/plus/abitreenit/2024/syksy/matematiikka_lyhyt/hvp_lopulliset_matematiikka_lyhyt.pdf]",
+          "exam_id": 224915,
+          "content": {
+            "text": "### Suhteellinen vaalitapa 18 p.\n\n#### Aineisto\n\n11.A Taulukko: [LINK text=Äänestystulokset|url=https://yle.fi/plus/abitreenit/2024/syksy/matematiikka_lyhyt/attachments/index.html#11.A]\n\n11.B Teksti: [LINK text=D'Hondtin suhteellinen vaalitapa|url=https://yle.fi/plus/abitreenit/2024/syksy/matematiikka_lyhyt/attachments/index.html#11.B]\n\n&NewLine;\n\nKuvitteellisessa Keski-Maan vaalipiirissä on neljä puoluetta: Hobittipuolue, Ihmispuolue, Haltiapuolue ja Kääpiöpuolue. Taulukossa 11.A on esitetty Keski-Maassa toimitetun vaalin äänestystulokset.\n\nVastaa seuraaviin kysymyksiin olettaen, että Keski-Maassa käytetään d'Hondtin suhteellista vaalitapaa, joka on kuvattu tekstissä 11.B.\n\n1. Mikä oli vaalien äänestysprosentti, kun Keski-Maassa on 290 754 äänioikeutettua? **(3 p.)**\n2. Laske kunkin ehdokkaan vertausluku. Ketkä tulevat valituiksi, kun vaalipiiristä valitaan viisi edustajaa? **(5 p.)**\n3. Kuinka monta henkilökohtaista ääntä enemmän Pippinin olisi pitänyt saada, jotta hän olisi tullut valituksi ilman arvontaa? Oletetaan, että muiden äänimäärät eivät muutu. **(5 p.)**\n4. Suhteellisen vaalitavan tavoite on, että edustajien paikat jakautuvat samassa suhteessa kuin puolueiden saamat äänet. Pohdi, kuinka hyvin tämä toteutui näissä vaaleissa. **(5 p.)**",
+            "displayNumber": "11."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-12-20T09:36:35.571025",
+          "max_score": null,
+          "groupping": null,
+          "id": 7179428,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "76f6cf36-397f-46bb-a05f-6852b14dc30d",
+          "order_number": 14,
+          "multipart": true,
+          "created_at": "2024-10-11T12:22:03.869908"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Yhdistä seuraaviin väitteisiin sopiva onnistumistodennäköisyyden jakauma kuvasta 6.A. Heitetään kerran kahta noppaa ja tavoitteena on saada **6 p.**\n\n&NewLine;\n\nkummankin nopan silmäluvuksi parillinen. [SELECT id=13] 2 p.\n\n&NewLine;\n\nsilmälukujen tuloksi parillinen luku. [SELECT id=14] 2 p.\n\n&NewLine;\n\nsilmälukujen summa, joka ei ole kolmella jaollinen. [SELECT id=15] 2 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 224915,
+          "content": {
+            "text": "Yhdistä seuraaviin väitteisiin sopiva onnistumistodennäköisyyden jakauma kuvasta 6.A. Heitetään kerran kahta noppaa ja tavoitteena on saada **6 p.**\n\n&NewLine;\n\nkummankin nopan silmäluvuksi parillinen. [SELECT id=13] 2 p.\n\n&NewLine;\n\nsilmälukujen tuloksi parillinen luku. [SELECT id=14] 2 p.\n\n&NewLine;\n\nsilmälukujen summa, joka ei ole kolmella jaollinen. [SELECT id=15] 2 p.",
+            "displayNumber": "6.1"
+          },
+          "images": null,
+          "settings": {
+            "points": ""
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-12-20T09:36:35.565468",
+          "max_score": null,
+          "groupping": null,
+          "id": 7179592,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 13,
+              "parent": "ac79b9ed-9d27-40f8-b1a8-500233009968",
+              "choices": [
+                {
+                  "id": "dc76e701-09fe-447f-92ee-e8b8a002277e",
+                  "text": "Jakauma 1",
+                  "correct": true
+                },
+                {
+                  "id": "a25832ae-26a5-40ab-8a11-b716be8b6dbf",
+                  "text": "Jakauma 2"
+                },
+                {
+                  "id": "72d15166-fdf3-4a09-8739-8e8b2b1c1263",
+                  "text": "Jakauma 3"
+                },
+                {
+                  "id": "c8434a4c-e1d6-4825-8cc1-7cf4c17f25c6",
+                  "text": "Jakauma 4"
+                },
+                {
+                  "id": "702faf64-69c8-4867-bead-a2682d4cad9a",
+                  "text": "Jakauma 5"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 14,
+              "parent": "ac79b9ed-9d27-40f8-b1a8-500233009968",
+              "choices": [
+                {
+                  "id": "48e147ea-2ec9-43db-b0c2-6a0f41f006ec",
+                  "text": "Jakauma 1"
+                },
+                {
+                  "id": "9fe6dc6f-171d-4e49-b43b-592d06ac1d50",
+                  "text": "Jakauma 2"
+                },
+                {
+                  "id": "11daeaf4-1668-45f6-83a6-18e6eb9118f9",
+                  "text": "Jakauma 3",
+                  "correct": true
+                },
+                {
+                  "id": "296f1bf7-487b-4d93-b9c3-af6f9c99f19e",
+                  "text": "Jakauma 4"
+                },
+                {
+                  "id": "d90bbb15-779e-4ed0-a80d-18ef8acdf43d",
+                  "text": "Jakauma 5"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 15,
+              "parent": "ac79b9ed-9d27-40f8-b1a8-500233009968",
+              "choices": [
+                {
+                  "id": "c252041d-373e-42c8-b03e-af529fe1b76c",
+                  "text": "Jakauma 1"
+                },
+                {
+                  "id": "cd51178b-1e95-43dd-b4a4-35383104a305",
+                  "text": "Jakauma 2"
+                },
+                {
+                  "id": "4c081148-3170-4603-b8ba-3242aa507f91",
+                  "text": "Jakauma 3"
+                },
+                {
+                  "id": "ac04ead1-9be4-4a87-98de-676e015cc4c1",
+                  "text": "Jakauma 4",
+                  "correct": true
+                },
+                {
+                  "id": "7ef6d898-8c4a-4daa-b22a-7bd3038ff592",
+                  "text": "Jakauma 5"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "ac79b9ed-9d27-40f8-b1a8-500233009968",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2024-10-11T12:34:26.906032"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Korttipakassa on neljä maata, joista kussakin kortit numeroilla 2–10. Pakasta nostetaan kaksi korttia ilman takaisinpanoa. 6 p.\n\n&NewLine;\n\nMikä on todennäköisyys sille, että kummankin kortin numero on parillinen?\n\n [SELECT id=16] 3 p.\n\nMikä on todennäköisyys sille, että korttien numeroiden tulo on parillinen?  3 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 224915,
+          "content": {
+            "text": "Korttipakassa on neljä maata, joista kussakin kortit numeroilla 2–10. Pakasta nostetaan kaksi korttia ilman takaisinpanoa. 6 p.\n\n&NewLine;\n\nMikä on todennäköisyys sille, että kummankin kortin numero on parillinen?\n\n [SELECT id=16] 3 p.\n\nMikä on todennäköisyys sille, että korttien numeroiden tulo on parillinen?  3 p.",
+            "displayNumber": "6.2"
+          },
+          "images": null,
+          "settings": {
+            "points": "3"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-12-20T09:36:35.562291",
+          "max_score": 6,
+          "groupping": null,
+          "id": 7179621,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 16,
+              "parent": "883dbe68-2566-4ddb-b8f1-e7267dbddab4",
+              "choices": [
+                {
+                  "id": "29bb0f48-d6cc-4e2e-ad5e-f49ae4777383",
+                  "text": "1/4"
+                },
+                {
+                  "id": "1b763c84-9479-4178-a5f0-fba498e4cdf8",
+                  "text": "1/2"
+                },
+                {
+                  "id": "80cb8c6b-4e22-4ab4-9234-ca61323cb9ef",
+                  "text": "17/72"
+                },
+                {
+                  "id": "f4562311-6f6d-4f08-a081-b4b1ba3d0774",
+                  "text": "25/54"
+                },
+                {
+                  "id": "39c2c944-a978-4432-bb20-99a4935f893f",
+                  "text": "5/18"
+                },
+                {
+                  "id": "5f5a46bc-bb53-4fb0-9010-6f01f489d35d",
+                  "text": "ei mikään ylläolevista",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 17,
+              "parent": "883dbe68-2566-4ddb-b8f1-e7267dbddab4",
+              "choices": [
+                {
+                  "id": "357f0971-bc83-43c9-a81a-a76fc6a5bebd",
+                  "text": "1/4"
+                },
+                {
+                  "id": "d2da459a-e624-4f59-8394-03729055d113",
+                  "text": "17/21",
+                  "correct": true
+                },
+                {
+                  "id": "eda0f00d-5b90-4132-bbf1-3de3472ba1df",
+                  "text": "18/36"
+                },
+                {
+                  "id": "3df16694-af97-473c-bafe-b14f29f5e7ca",
+                  "text": "3/4"
+                },
+                {
+                  "id": "cce502f6-35af-485e-9d8a-46f5fe22c888",
+                  "text": "5/6"
+                },
+                {
+                  "id": "bde9a835-12a4-4c3f-b7e3-41b2bbcf515d",
+                  "text": "65/81"
+                },
+                {
+                  "id": "953f2bac-9a39-49c2-9d23-e5f08f00adfb",
+                  "text": "ei mikään ylläolevista"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "883dbe68-2566-4ddb-b8f1-e7267dbddab4",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2024-10-11T12:37:43.690557"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Perusteltu binomijakauma 12 p.\n\nNoppaa heitetään kuusi kertaa. Todennäköisyys saada silmäluku 6 täsmälleen neljä kertaa on binomitodennäköisyyden kaavan mukaan[MATH text={6 \\choose 4} \\big(\\tfrac16\\big)^4 \\big(\\tfrac56\\big)^2 = \\frac{125}{15552} \\approx 0{,}00804].\n\nSelitä käytetty kaava ja kaikki siinä esiintyvät osat, eli perustele binomitodennäköisyyden kaava tässä tilanteessa.",
+          "deleted_at": null,
+          "feedback": "[MATH text=\\frac{1}{6}] on todennäköisyys saada silmäluku 6 yhdellä heitolla.\n\n1 p.\n\n[MATH text=\\left(\\frac{1}{6}\\right)^4] on todennäköisyys saada silmäluku 6 jokaisella neljällä heitolla.\n\n2 p.\n\n[MATH text=\\frac{5}{6}] on todennäköisyys saada jokin muu kuin silmäluku 6 yhdellä heitolla.\n\n1 p.\n\n[MATH text=\\left(\\frac{5}{6}\\right)^2] on todennäköisyys saada jokin muu kuin silmäluku 6 kummallakin heitolla.\n\n2 p.\n\nYllä olevat luvut kerrotaan keskenään, koska halutaan saada selville sen todennäköisyys, että molemmat tapahtumat toteutuvat.\n\n2 p.\n\nBinomikerroin [MATH text=\\binom{6}{4}] kertoo sen, miten moneen järjestykseen, esimerkiksi jonoon, neljä kuutosta ja kaksi jotakin muuta silmälukua voidaan asettaa,\n\n2 p.\n\nsillä mahdollisia paikkoja jonossa on kuusi kappaletta ja näistä valitaan ne neljä, joihin tulee kuutonen.\n\n2 p.",
+          "exam_id": 224915,
+          "content": {
+            "text": "### Perusteltu binomijakauma 12 p.\n\nNoppaa heitetään kuusi kertaa. Todennäköisyys saada silmäluku 6 täsmälleen neljä kertaa on binomitodennäköisyyden kaavan mukaan[MATH text={6 \\choose 4} \\big(\\tfrac16\\big)^4 \\big(\\tfrac56\\big)^2 = \\frac{125}{15552} \\approx 0{,}00804].\n\nSelitä käytetty kaava ja kaikki siinä esiintyvät osat, eli perustele binomitodennäköisyyden kaava tässä tilanteessa.",
+            "displayNumber": "9."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-12-20T09:36:35.575118",
+          "max_score": null,
+          "groupping": null,
+          "id": 7177753,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "4264044d-5e42-473b-856b-77f2807b00f4",
+          "order_number": 12,
+          "multipart": true,
+          "created_at": "2024-10-09T11:16:44.785408"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Piparkakkurasiat 12 p.\n\n#### Aineisto\n\n7.A Kuva: [LINK text=Rasiat eri kuvakulmista|url=https://yle.fi/plus/abitreenit/2024/syksy/matematiikka_lyhyt/attachments/index.html#7.A]\n\n&NewLine;\n\nJoulun piparkakut pakataan kolmeen erikokoiseen ympyräpohjaiseen peltirasiaan, jotka näkyvät kuvassa 7.A.\n\n- Suurimman rasian ympärysmitta on 78,5 cm ja korkeus on 10,0 cm.\n- Keskimmäisen rasian säde on 1,5 cm pienempi ja korkeus 1,0 cm pienempi kuin suurimman rasian.\n- Pienimmän rasian säde on 2,5 cm pienempi ja korkeus 1,0 cm pienempi kuin keskimmäisen rasian.\n\nLaske rasioiden yhteistilavuus desilitran tarkkuudella.\n\n\n",
+          "deleted_at": null,
+          "feedback": "Suurimman rasian ympärysmitta on  cm, jolloin sen säde on [MATH text=\\frac{78\\mathrm{,}5}{2\\pi}] cm.\n\n2 p.\n\nKeskimmäisen rasian säde senttimetreissä on [MATH text=\\frac{78\\mathrm{,}5}{2\\pi}-1\\mathrm{,}5] ja pienimmän rasian säde [MATH text=\\frac{78\\mathrm{,}5}{2\\pi}-1\\mathrm{,}5-2\\mathrm{,}5].\n\n2 p.\n\n&NewLine;\n\nRasioiden korkeudet ovat 10 cm‚ 9 cm ja 8 cm.\n\n2 p.\n\nTilavuudet ovat siis [MATH text=\\left(\\frac{78\\mathrm{,}5}{2\\pi}\\right)^2\\pi\\cdot 10\\approx 4903\\mathrm{,}763 cm^{3}], [MATH text=\\left(\\frac{78\\mathrm{,}5}{2\\pi}-1\\mathrm{,}5\\right)^2\\pi\\cdot 9\\approx 3417,254 cm^{3}] ja [MATH text=\\left(\\frac{78\\mathrm{,}5}{2\\pi}-1\\mathrm{,}5-2\\mathrm{,}5\\right)^2\\pi\\cdot 8\\approx 1813\\mathrm{,}134 cm^{3}].\n\n2 p.\n\nYhteenlaskettu tilavuus on siis [MATH text=4903\\mathrm{,}763+3417,254+1813\\mathrm{,}134=10134\\mathrm{,}151 cm^{3}].\n\n2 p.\n\nTämä on noin 101 dl TAI 1[MATH text=0\\mathrm{,}1 l].\n\n2 p.",
+          "exam_id": 224915,
+          "content": {
+            "text": "### Piparkakkurasiat 12 p.\n\n#### Aineisto\n\n7.A Kuva: [LINK text=Rasiat eri kuvakulmista|url=https://yle.fi/plus/abitreenit/2024/syksy/matematiikka_lyhyt/attachments/index.html#7.A]\n\n&NewLine;\n\nJoulun piparkakut pakataan kolmeen erikokoiseen ympyräpohjaiseen peltirasiaan, jotka näkyvät kuvassa 7.A.\n\n- Suurimman rasian ympärysmitta on 78,5 cm ja korkeus on 10,0 cm.\n- Keskimmäisen rasian säde on 1,5 cm pienempi ja korkeus 1,0 cm pienempi kuin suurimman rasian.\n- Pienimmän rasian säde on 2,5 cm pienempi ja korkeus 1,0 cm pienempi kuin keskimmäisen rasian.\n\nLaske rasioiden yhteistilavuus desilitran tarkkuudella.\n\n\n",
+            "displayNumber": "7."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-12-20T09:36:35.596991",
+          "max_score": null,
+          "groupping": null,
+          "id": 7177732,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "6f28fa2c-0b5e-46db-962a-27e161fb8966",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2024-10-09T11:15:52.313471"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Laske. 3 p.\n\nAlma maksaa kuukaudessa 12 euron ennakkomaksun vedenkäytöstään. Kuuden kuukauden välein isännöitsijä lähettää todelliseen kulutukseen perustuvan tasauslaskun, jossa on huomioitu jo maksetut ennakkomaksut. Tammi–kesäkuussa Alman veden kulutus oli [MATH text=17{,}012\\ \\textrm{m}^3], ja veden hinta on [MATH text=4{,}63 euroa/m^3]. Alman tammi–kesäkuun tasauslaskun loppusumma kokonaisiksi euroiksi pyöristettynä on [GAP id=5] euroa.",
+          "deleted_at": null,
+          "feedback": "-7: Ajateltu laskuun etumerkki. (1 p.)\n\n401: Ajateltu vedenkäyttö kuukausittain. (1 p.)\n\n67: Laskettu vedenkäyttö oikein, mutta ajateltu 12 euroa kertasummana. (1 p.)\n\n19: Yhdistetty tasauslasku ja viimeinen ennakkomaksu. (1 p.)",
+          "exam_id": 224915,
+          "content": {
+            "text": "#### Laske. 3 p.\n\nAlma maksaa kuukaudessa 12 euron ennakkomaksun vedenkäytöstään. Kuuden kuukauden välein isännöitsijä lähettää todelliseen kulutukseen perustuvan tasauslaskun, jossa on huomioitu jo maksetut ennakkomaksut. Tammi–kesäkuussa Alman veden kulutus oli [MATH text=17{,}012\\ \\textrm{m}^3], ja veden hinta on [MATH text=4{,}63 euroa/m^3]. Alman tammi–kesäkuun tasauslaskun loppusumma kokonaisiksi euroiksi pyöristettynä on [GAP id=5] euroa.",
+            "displayNumber": "1.5"
+          },
+          "images": null,
+          "settings": {
+            "points": "3"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-12-20T09:36:35.599734",
+          "max_score": 3,
+          "groupping": null,
+          "id": 7177577,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 5,
+              "hint": "3 p.",
+              "parent": "cbaca1a6-ebcb-4838-bab2-df6da50f4722",
+              "choices": [],
+              "correct": "7|-7|401|67|19",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "cbaca1a6-ebcb-4838-bab2-df6da50f4722",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2024-10-09T11:05:39.553787"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Yhtälö ja kolmio 12 p.\n\n**1.** Ratkaise yhtälö [MATH text=x^2+14=9x]. **(4 p.)**\n\n&NewLine;\n\n**2.** Suora [MATH text=y=-2x+6] rajaa positiivisten x- ja y-akseleiden kanssa suorakulmaisen kolmion. Määritä tämän kolmion pinta-ala ja hypotenuusan pituus. **(8 p.)**",
+          "deleted_at": null,
+          "feedback": "Tulkintaohje: Rivin pisteet saa kokonaisuudessaan, jos on tehty oikea asia kuvatulle objektille (jossa voi olla aiemmalta riviltä periytyneitä virheitä), pienet laskuvirheet –1 p., pahempi virhe: 0 p.\n\n&NewLine;\n\nToisen asteen yhtälön ratkaisukaavalla[MATH text= x=\\frac{9\\pm \\sqrt{9^2-4\\cdot 14}}{2}].\n\n2 p.\n\nTästä sieventämällä saadaan x=2 ja x=7.\n\n2 p.\n\nSuora leikkaa x-akselin, kun y=0. Yhtälöstä -2x+6=0 saadaan x=3.\n\n2 p.\n\nSuora leikkaa y-akselin, kun x=0.\n\nSaadaan y=6.\n\n2 p.\n\nKoska kateetit ovat 3 ja 6, pinta-ala on [MATH text=\\frac{3\\cdot 6}{2}=9].\n\n2 p.\n\nHypotenuusan pituus on [MATH text=\\sqrt{3^2+6^2}=\\sqrt{45}=3\\sqrt{5}\\ (\\approx 6\\mathrm{,}7)].\n\n2 p.",
+          "exam_id": 224915,
+          "content": {
+            "text": "### Yhtälö ja kolmio 12 p.\n\n**1.** Ratkaise yhtälö [MATH text=x^2+14=9x]. **(4 p.)**\n\n&NewLine;\n\n**2.** Suora [MATH text=y=-2x+6] rajaa positiivisten x- ja y-akseleiden kanssa suorakulmaisen kolmion. Määritä tämän kolmion pinta-ala ja hypotenuusan pituus. **(8 p.)**",
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-12-20T09:36:35.602488",
+          "max_score": null,
+          "groupping": null,
+          "id": 7177601,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "464358f4-11bc-4148-8d85-94e0bb28f491",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2024-10-09T11:06:43.924015"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Määritä lämpösumman avulla, milloin terminen talvi alkoi Saanalla vuonna 2021. 10 p.",
+          "deleted_at": null,
+          "feedback": "Muodostetaan ensin taulukkolaskentaohjelmaan sarake, jossa on lämpösumma. Tämä saadaan rekursiivisesti lisäämällä edelliseen lämpösummaan seuraavan päivän lämpötila.\n\n4 p.\n\nLoppuosan tehtävästä voi ratkaista usealla eri tavalla. Ensimmäinen ratkaisutapa perustuu graafiseen tarkasteluun: \n\nPiirretään kuvaaja lämpösummasta.\n\n[IMS id=39-136239067091ed0aeebe]\n2 p.\n\nKuvaajan avulla näkee suurin piirtein, milloin huippu saavutetaan ja tämän jälkeen voi lukea taulukosta suurimman arvon [MATH text=48\\mathrm{,}4] astetta.\n\n1 p.\n\nTämä saavutettiin 6.10.2021.\n\n1 p.\n\nTalvi alkoi siis 7.10.2021.\n\n2 p.\n\nTAI\n\nMAX-komennolla saadaan lämpösumman suurimmaksi arvoksi [MATH text=48\\mathrm{,}4] astetta.\n\n3 p.\n\nTämä saavutettiin 6.10.2021.\n\n1 p.\n\nTalvi alkoi siis 7.10.2021.\n\n2 p.",
+          "exam_id": 224915,
+          "content": {
+            "text": "Määritä lämpösumman avulla, milloin terminen talvi alkoi Saanalla vuonna 2021. 10 p.",
+            "displayNumber": "10.3.2"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-12-20T09:36:35.611767",
+          "max_score": null,
+          "groupping": null,
+          "id": 7179427,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "6ffcb34e-694d-47e1-a973-50b7c8a0aea4",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2024-10-11T12:22:03.867594"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "*Kokeen tehtävät loppuvat tähän.*\n\n&NewLine;\n\n\n**Lähteet**\n\n\n\n**8.** Lähde: *Suomen suurin tie maksaa kolme markkaa milli*. Helsingin sanomat. Julkaistu: 20.6.1972.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 224915,
+          "content": {
+            "text": "*Kokeen tehtävät loppuvat tähän.*\n\n&NewLine;\n\n\n**Lähteet**\n\n\n\n**8.** Lähde: *Suomen suurin tie maksaa kolme markkaa milli*. Helsingin sanomat. Julkaistu: 20.6.1972."
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-12-20T09:36:35.614617",
+          "max_score": null,
+          "groupping": null,
+          "id": 7179455,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "ded5fd7e-6b9e-4c0b-9e27-17dee8da5f42",
+          "order_number": 15,
+          "multipart": true,
+          "created_at": "2024-10-11T12:22:44.549981"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Syyskuun keskilämpötila asteen tarkkuudella oli [SELECT id=11]  celsiusastetta.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 224915,
+          "content": {
+            "text": "Syyskuun keskilämpötila asteen tarkkuudella oli [SELECT id=11]  celsiusastetta.",
+            "displayNumber": "10.2"
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-12-20T09:36:35.620062",
+          "max_score": 2,
+          "groupping": null,
+          "id": 7179424,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 11,
+              "hint": "1 p.",
+              "parent": "f7ebb36d-071d-4aad-b441-ce31ab7d3497",
+              "choices": [
+                {
+                  "id": "82e81ae9-47a1-489d-9acf-9889953b3c45",
+                  "text": "-5"
+                },
+                {
+                  "id": "e5a99e97-1311-4a08-8219-687c377ec4ff",
+                  "text": "-4"
+                },
+                {
+                  "id": "d2669a8e-7712-4c5a-8252-5794b97bf01f",
+                  "text": "-3"
+                },
+                {
+                  "id": "724401ca-87d2-4e9e-abe4-6ebc230387df",
+                  "text": "-2"
+                },
+                {
+                  "id": "38dadac2-2388-4c63-baf1-b61188e28201",
+                  "text": "-1"
+                },
+                {
+                  "id": "6eb32b53-1185-49dd-be9e-adc38b406a56",
+                  "text": "0"
+                },
+                {
+                  "id": "e1c3d055-f351-4fb0-a7cf-692fc40cd11c",
+                  "text": "1",
+                  "correct": true
+                },
+                {
+                  "id": "45335259-7fe7-4524-bb73-d71599bcf185",
+                  "text": "2"
+                },
+                {
+                  "id": "6b77b46d-027e-4eb0-a8cc-019ffe08e5f8",
+                  "text": "3"
+                },
+                {
+                  "id": "5de446ed-050c-4e81-bc46-c2efdced9f08",
+                  "text": "4"
+                },
+                {
+                  "id": "269eb336-df30-4371-addd-7cd55a332f88",
+                  "text": "5"
+                },
+                {
+                  "id": "a80ae380-5692-4773-84dc-ca0d9b136b02",
+                  "text": "6"
+                },
+                {
+                  "id": "c444f5f2-f401-4f46-b5a0-a65a2c5d4286",
+                  "text": "7"
+                },
+                {
+                  "id": "168c06db-78ea-4f19-94e3-deeb33daf34a",
+                  "text": "8"
+                },
+                {
+                  "id": "c2134180-c594-4e8e-97ae-4d233d060959",
+                  "text": "9"
+                },
+                {
+                  "id": "71942ed8-48da-4285-9eaa-cb832d52f2e2",
+                  "text": "10"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "f7ebb36d-071d-4aad-b441-ce31ab7d3497",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2024-10-11T12:22:03.860124"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Valitse oikea vaihtoehto. 2 p.\n\nSyyskuun korkein päivän keskilämpötila asteen tarkkuudella oli  [SELECT id=11] celsiusastetta, ja se saavutettiin [SELECT id=12].",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 224915,
+          "content": {
+            "text": "#### Valitse oikea vaihtoehto. 2 p.\n\nSyyskuun korkein päivän keskilämpötila asteen tarkkuudella oli  [SELECT id=11] celsiusastetta, ja se saavutettiin [SELECT id=12].",
+            "displayNumber": "10.1"
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-12-20T09:36:35.622062",
+          "max_score": 2,
+          "groupping": null,
+          "id": 7179402,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 11,
+              "hint": "1 p.",
+              "parent": "725c2fd4-6b8b-49f0-806c-8be98c35b9db",
+              "choices": [
+                {
+                  "id": "42791eed-fc49-41ca-9279-fa8781f4a76c",
+                  "text": "-5"
+                },
+                {
+                  "id": "4a4d6b60-80f5-42ae-b54c-e944b320cbc4",
+                  "text": "-4"
+                },
+                {
+                  "id": "1d0319bc-2cff-4179-b2d7-abddd66634b7",
+                  "text": "-3"
+                },
+                {
+                  "id": "0ecb5d03-c38c-4027-b61b-1fcc0a008998",
+                  "text": "-2"
+                },
+                {
+                  "id": "f7dae464-ceb7-4793-8634-3eff8887414f",
+                  "text": "-1"
+                },
+                {
+                  "id": "b23fb94e-c48d-4abc-9bea-7dd7778c9f08",
+                  "text": "0"
+                },
+                {
+                  "id": "a77b3cfb-4986-4de4-82e6-b9327c379722",
+                  "text": "1"
+                },
+                {
+                  "id": "82e806a1-752e-4357-868a-00750b1ef1ad",
+                  "text": "2"
+                },
+                {
+                  "id": "ac3e78aa-e5d4-4d9e-aaf6-3d45cfc3976b",
+                  "text": "3"
+                },
+                {
+                  "id": "b6d0cced-1358-44d8-a0c9-d70527bbec44",
+                  "text": "4"
+                },
+                {
+                  "id": "5b79d4f1-c883-428a-b332-aac15b0e269d",
+                  "text": "5"
+                },
+                {
+                  "id": "3bda4a98-328c-4abb-9145-37998e716cf8",
+                  "text": "6"
+                },
+                {
+                  "id": "fb33b2bb-fa2a-44f6-9c19-0e9d0764a807",
+                  "text": "7",
+                  "correct": true
+                },
+                {
+                  "id": "1eced1d5-a102-4d6c-8382-9cc561ce05ed",
+                  "text": "8"
+                },
+                {
+                  "id": "2fd36455-c9b4-4b64-ad38-78134ec2fcc5",
+                  "text": "9"
+                },
+                {
+                  "id": "dcfae436-c894-43a0-be68-8b5f55949d4b",
+                  "text": "10"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 12,
+              "hint": "1 p.",
+              "parent": "725c2fd4-6b8b-49f0-806c-8be98c35b9db",
+              "choices": [
+                {
+                  "id": "262530ef-0374-47ea-be53-c1b7ad835199",
+                  "text": "1.9."
+                },
+                {
+                  "id": "8ba1ea3f-b3c6-4bec-a5ba-931b335b5205",
+                  "text": "2.9."
+                },
+                {
+                  "id": "c072f7b3-97e0-478c-b35b-4054ecec93f0",
+                  "text": "3.9."
+                },
+                {
+                  "id": "5de53de9-6305-42c5-a7e0-4080cdc9415a",
+                  "text": "4.9."
+                },
+                {
+                  "id": "94d6bc49-0a60-4309-8d41-3bbc6dc6f3b0",
+                  "text": "5.9."
+                },
+                {
+                  "id": "fd652984-99b4-4495-9e45-a29aeb737dca",
+                  "text": "6.9."
+                },
+                {
+                  "id": "f40e4320-662b-412d-9546-8a74e0569db0",
+                  "text": "7.9."
+                },
+                {
+                  "id": "119f1260-42b9-4586-b15f-9664d23829af",
+                  "text": "8.9."
+                },
+                {
+                  "id": "5001c580-fb5d-40e5-9762-b7a6312cc443",
+                  "text": "9.9."
+                },
+                {
+                  "id": "bd745ed3-d112-4737-83bc-2305bdf8dd3e",
+                  "text": "10.9."
+                },
+                {
+                  "id": "fbf43ac8-560f-4329-87c9-32e823ccfa6a",
+                  "text": "11.9."
+                },
+                {
+                  "id": "a63c5e92-03fe-47c6-b8cd-4181ab5f819b",
+                  "text": "12.9."
+                },
+                {
+                  "id": "b7d14100-ac08-4027-b7b1-6ad06b6024d2",
+                  "text": "13.9."
+                },
+                {
+                  "id": "46ad8785-aca6-4744-ac63-f918397e91cb",
+                  "text": "14.9."
+                },
+                {
+                  "id": "071eff5b-8d92-4a83-9615-7213a2e2db73",
+                  "text": "15.9."
+                },
+                {
+                  "id": "13d97ebe-6c0c-453e-a5d8-bc7d391f2362",
+                  "text": "16.9."
+                },
+                {
+                  "id": "64d7496c-4a3d-4c0d-9db4-95de18899410",
+                  "text": "17.9."
+                },
+                {
+                  "id": "d3e557e1-1ed5-4723-835a-522bcae0b276",
+                  "text": "18.9."
+                },
+                {
+                  "id": "0afa9405-d3bd-45ae-869e-61f067fe1649",
+                  "text": "19.9."
+                },
+                {
+                  "id": "fb1d41c7-c814-4331-8404-073cad3eb61c",
+                  "text": "20.9."
+                },
+                {
+                  "id": "e0b5d476-6703-4e2e-bb89-e32b9aface6c",
+                  "text": "21.9."
+                },
+                {
+                  "id": "cc28ee0c-894a-411a-bba9-78e41dfb04e7",
+                  "text": "22.9."
+                },
+                {
+                  "id": "e73f1f85-64ff-4f65-bb1f-c4269476afdc",
+                  "text": "23.9."
+                },
+                {
+                  "id": "b1f873a0-87dd-4341-b4be-fb89ef2e85aa",
+                  "text": "24.9."
+                },
+                {
+                  "id": "9e49c7df-f19a-404c-95a3-ed2e33e2243c",
+                  "text": "25.9."
+                },
+                {
+                  "id": "d9014280-2ab2-425a-8c24-99231fbe45a7",
+                  "text": "26.9."
+                },
+                {
+                  "id": "56826865-0e15-4eeb-98da-ba6333b845c5",
+                  "text": "27.9.",
+                  "correct": true
+                },
+                {
+                  "id": "365d07e5-6bf7-4d79-921e-6b91bb9640e3",
+                  "text": "28.9."
+                },
+                {
+                  "id": "0a28c1be-db58-4661-a293-a4fee032845e",
+                  "text": "29.9."
+                },
+                {
+                  "id": "dfaf14f6-79f4-4ff7-b767-8fdbc703c00a",
+                  "text": "30.9."
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "725c2fd4-6b8b-49f0-806c-8be98c35b9db",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2024-10-11T12:19:32.7108"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Piirrä pylväsdiagrammi päivittäisistä keskilämpötiloista. 4 p.\n\n### \n",
+          "deleted_at": null,
+          "feedback": "Piirretään kuvaaja keskilämpotiloista. Kuvassa x-akselilla on päivämäärä juoksevalla numeroinnilla niin, että ensimmäinen päivä on 1.9. ja viimeinen päivä (91. päivä) on 30.11.\n4 p.\n\n\n\n[IMS id=39-136238467091e685db32]",
+          "exam_id": 224915,
+          "content": {
+            "text": "Piirrä pylväsdiagrammi päivittäisistä keskilämpötiloista. 4 p.\n\n### \n",
+            "displayNumber": "10.3.1"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-12-20T09:36:35.624794",
+          "max_score": null,
+          "groupping": null,
+          "id": 7179426,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "9d48d1d9-20f7-4260-95d7-34e5e375128c",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2024-10-11T12:22:03.865314"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### **10.3** Kirjoita osatehtävien 10.3.1 ja 10.3.2 vastaukset vastauskenttään. 14 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 224915,
+          "content": {
+            "text": "#### **10.3** Kirjoita osatehtävien 10.3.1 ja 10.3.2 vastaukset vastauskenttään. 14 p."
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-12-20T09:36:35.627861",
+          "max_score": null,
+          "groupping": null,
+          "id": 7179425,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "b79fbff5-387f-484d-b995-edc7468b50e8",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2024-10-11T12:22:03.862948"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Voit käydä tarkastelemassa A-osan vastauksiasi nyt.\n\n&NewLine;\nPalautettuasi A-osan et voi enää muokata A-osan vastauksia.\n\n•••\n\nSaat estetyt laskinohjelmat käyttöösi palautettuasi A-osan.\n\n*(Palautus ei ole käytössä Abitreenien harjoituskokeessa)*",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 224915,
+          "content": {
+            "text": "Voit käydä tarkastelemassa A-osan vastauksiasi nyt.\n\n&NewLine;\nPalautettuasi A-osan et voi enää muokata A-osan vastauksia.\n\n•••\n\nSaat estetyt laskinohjelmat käyttöösi palautettuasi A-osan.\n\n*(Palautus ei ole käytössä Abitreenien harjoituskokeessa)*"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-12-20T09:36:35.630589",
+          "max_score": null,
+          "groupping": null,
+          "id": 7177730,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "636108cc-5e04-46bd-9888-46038e03561c",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2024-10-09T11:15:52.308304"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "## B-osa\n\nVastaa neljään tehtävään.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 224915,
+          "content": {
+            "text": "## B-osa\n\nVastaa neljään tehtävään."
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-12-20T09:36:35.632794",
+          "max_score": null,
+          "groupping": null,
+          "id": 7177731,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "2719e787-7a2d-46b5-b1ba-39f21ad287b1",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2024-10-09T11:15:52.311076"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Arjen matematiikkaa 12 p.\n\nKirjoita tämän tehtävän vastauskenttiin pelkät laskujen lopputulokset ilman välivaiheita ja perusteluja. Jokaisen osatehtävän vastaus on kokonaisluku.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 224915,
+          "content": {
+            "text": "### Arjen matematiikkaa 12 p.\n\nKirjoita tämän tehtävän vastauskenttiin pelkät laskujen lopputulokset ilman välivaiheita ja perusteluja. Jokaisen osatehtävän vastaus on kokonaisluku.",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "038adfb2-3a1d-4a63-bf3a-d1a286cf56e2",
+            "63d21f0d-7085-4f05-999f-96bb095fedba",
+            "8f994824-430f-4f5e-b152-ddae719bb352",
+            "4dba3bed-0389-41c8-a12e-e9a7b618db88",
+            "cbaca1a6-ebcb-4838-bab2-df6da50f4722"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-12-20T09:36:35.634829",
+          "max_score": null,
+          "groupping": null,
+          "id": 7177567,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "967b3a03-1e75-4359-aacc-29662541377f",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2024-10-09T11:04:30.167864"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "## A-osa\n\nVastaa viiteen tehtävään.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 224915,
+          "content": {
+            "text": "## A-osa\n\nVastaa viiteen tehtävään."
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-12-20T09:36:35.637024",
+          "max_score": null,
+          "groupping": null,
+          "id": 7177566,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "b96b6b49-f43a-464b-a2c2-1652aa25389f",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2024-10-09T11:04:30.149068"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### \nLaske. 2 p.\n\nSuklaapatukat maksavat yksittäin 2 euroa, mutta kolmen patukan pakkauksen saa 4 eurolla. Kymmenen suklaapatukkaa maksaa halvimmillaan [GAP id=1] euroa.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 224915,
+          "content": {
+            "text": "#### \nLaske. 2 p.\n\nSuklaapatukat maksavat yksittäin 2 euroa, mutta kolmen patukan pakkauksen saa 4 eurolla. Kymmenen suklaapatukkaa maksaa halvimmillaan [GAP id=1] euroa.",
+            "displayNumber": "1.1"
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-12-20T09:36:35.63937",
+          "max_score": 2,
+          "groupping": null,
+          "id": 7177568,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "hint": "2 p.",
+              "parent": "038adfb2-3a1d-4a63-bf3a-d1a286cf56e2",
+              "choices": [],
+              "correct": "14",
+              "isCaseSensitive": false
+            }
+          ],
+          "uuid": "038adfb2-3a1d-4a63-bf3a-d1a286cf56e2",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2024-10-09T11:04:30.170797"
+        }
+      ],
+      "name": "Matematiikka, lyhyt oppimäärä syksy 2024",
+      "settings": {},
+      "exam_type": "yo-koe",
+      "classification": {
+        "category": "",
+        "disable_saving": false,
+        "hide_review_buttons": false,
+        "exam_type": "yo-koe",
+        "year": "2024",
+        "language": "fi-FI",
+        "hide_statistics": false,
+        "show_exam_series": false,
+        "force_yletunnus": false,
+        "subject": "matematiikka-lyhyt",
+        "published": true,
+        "semester": "fall"
+      },
+      "published_at": "2024-10-11T12:52:30.000Z",
+      "language": "fi-FI",
+      "id": 224915,
+      "reviews": [],
+      "is_open": true,
+      "uuid": "475a8197-905c-43a4-8e32-6d3a17115629"
+    }
+  ]
+}

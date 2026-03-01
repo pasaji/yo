@@ -1,0 +1,4599 @@
+{
+  "meta": {
+    "count": 1
+  },
+  "data": [
+    {
+      "tags": [
+        ""
+      ],
+      "main_text": "",
+      "characters": null,
+      "deleted_at": null,
+      "series_uuids": [],
+      "questions": [
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What happened to Joe’s stepfather that day? \n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "What happened to Joe’s stepfather that day? \n",
+            "displayNumber": "5.5."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.14578",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1925427,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 276,
+              "text": "He disappeared",
+              "parent": "ff9423b8-f9bb-4d3a-8401-95e486192aa6",
+              "choices": []
+            },
+            {
+              "id": 277,
+              "text": "He survived",
+              "parent": "ff9423b8-f9bb-4d3a-8401-95e486192aa6",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 278,
+              "text": "He was injured",
+              "parent": "ff9423b8-f9bb-4d3a-8401-95e486192aa6",
+              "choices": []
+            }
+          ],
+          "uuid": "ff9423b8-f9bb-4d3a-8401-95e486192aa6",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2020-01-10T11:31:44.983371"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Why have scientists failed in finding the critical chemical?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "Why have scientists failed in finding the critical chemical?\n",
+            "displayNumber": "4.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.140397",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1925087,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 273,
+              "text": "Chemicals change their behavior according to temperature",
+              "parent": "798a969e-de0a-4df2-9d30-a4b731c4c06b",
+              "choices": []
+            },
+            {
+              "id": 274,
+              "text": "They have examined only a small portion of chemicals",
+              "parent": "798a969e-de0a-4df2-9d30-a4b731c4c06b",
+              "choices": []
+            },
+            {
+              "id": 275,
+              "text": "The benefits come from chemicals mixing together",
+              "parent": "798a969e-de0a-4df2-9d30-a4b731c4c06b",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "798a969e-de0a-4df2-9d30-a4b731c4c06b",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2020-01-10T11:28:00.190987"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mikä on tiesuolan vaihtoehdon merkittävin vahvuus, ja mikä on sen huono puoli? (6 p.)\n",
+          "deleted_at": null,
+          "feedback": "- Se on ympäristöystävällinen (3p)\n\n- Se ei tehoa jäähän/ei estä liukkautta (3p)\n\n​\n\nMax 6p\n",
+          "exam_id": 29472,
+          "content": {
+            "text": "Mikä on tiesuolan vaihtoehdon merkittävin vahvuus, ja mikä on sen huono puoli? (6 p.)\n",
+            "displayNumber": "12.3"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.106893",
+          "max_score": null,
+          "groupping": null,
+          "id": 1108188,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "2d1a5177-22ac-4ac8-a53e-55d8580a3b67",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2018-07-30T08:40:55.925961"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "[GAP id=233]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "[GAP id=233]\n",
+            "displayNumber": "13.3"
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.100119",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1110004,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 233,
+              "parent": "98f8b18d-4167-4cc9-b953-76c65d2a69fb",
+              "choices": [],
+              "correct": "riding",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "98f8b18d-4167-4cc9-b953-76c65d2a69fb",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2018-07-30T08:48:04.815334"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What was one main problem with the completed railway line? (2 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "What was one main problem with the completed railway line? (2 p.)\n",
+            "displayNumber": "8.5"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.069821",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1098277,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 200,
+              "text": "It had an excessive number of tunnels and bridges",
+              "parent": "02116f69-9bcf-469e-8f5b-3dcecf4a695b",
+              "choices": []
+            },
+            {
+              "id": 201,
+              "text": "It was too difficult to keep the stations maintained",
+              "parent": "02116f69-9bcf-469e-8f5b-3dcecf4a695b",
+              "choices": []
+            },
+            {
+              "id": 202,
+              "text": "It was quite inconvenient for the local residents",
+              "parent": "02116f69-9bcf-469e-8f5b-3dcecf4a695b",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "02116f69-9bcf-469e-8f5b-3dcecf4a695b",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2018-07-30T07:34:10.702652"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "In the writer’s view, what can be said about Gallup’s estimate of how much employees’ unhappiness costs the American economy? (2 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "In the writer’s view, what can be said about Gallup’s estimate of how much employees’ unhappiness costs the American economy? (2 p.)\n",
+            "displayNumber": "11.5"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.035073",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1103930,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 219,
+              "text": "It is not known if it is an accurate estimate",
+              "parent": "0b91670a-c087-4d56-b0f4-30f16d875b48",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 220,
+              "text": "It is probably an overestimate of the costs",
+              "parent": "0b91670a-c087-4d56-b0f4-30f16d875b48",
+              "choices": []
+            },
+            {
+              "id": 221,
+              "text": "It is at least a partially accurate estimate",
+              "parent": "0b91670a-c087-4d56-b0f4-30f16d875b48",
+              "choices": []
+            }
+          ],
+          "uuid": "0b91670a-c087-4d56-b0f4-30f16d875b48",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2018-07-30T08:23:17.368104"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "The baby’s perambulator or pram was designed in 1733 by the Palladian architect William Kent for his client, the fourth Duke of Devonshire. To save any [SELECT id=241]  on the part of His Grace, the wheeled basket was designed to be pulled by a goat. [SELECT id=242]   in the mid-1950s, the first collapsible buggy was also English, Saffron Walden-born Owen Maclaren [SELECT id=243]   the undercarriage for the Supermarine Spitfire.\n\n​\n\n---\n\n​\n\nBicycles are faster, lighter, use sexier materials and are [SELECT id=244]  hugely more expensive than ever before, but the arrangement of a diamond frame and two similar-sized wheels really hasn’t changed much since 1885. John Kemp Starley introduced the concept with his Rover safety cycle, a design which proved so influential that in Poland a bike is still referred [SELECT id=245]   as a ‘rower’. \n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "The baby’s perambulator or pram was designed in 1733 by the Palladian architect William Kent for his client, the fourth Duke of Devonshire. To save any [SELECT id=241]  on the part of His Grace, the wheeled basket was designed to be pulled by a goat. [SELECT id=242]   in the mid-1950s, the first collapsible buggy was also English, Saffron Walden-born Owen Maclaren [SELECT id=243]   the undercarriage for the Supermarine Spitfire.\n\n​\n\n---\n\n​\n\nBicycles are faster, lighter, use sexier materials and are [SELECT id=244]  hugely more expensive than ever before, but the arrangement of a diamond frame and two similar-sized wheels really hasn’t changed much since 1885. John Kemp Starley introduced the concept with his Rover safety cycle, a design which proved so influential that in Poland a bike is still referred [SELECT id=245]   as a ‘rower’. \n"
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.020242",
+          "max_score": 5,
+          "groupping": null,
+          "id": 1110615,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 241,
+              "parent": "549bfc63-fbed-4c72-b652-906b87071be4",
+              "choices": [
+                {
+                  "id": "42970f05-1f22-4791-8665-e6c5f480e127",
+                  "text": "exhibitions"
+                },
+                {
+                  "id": "ba86996f-0fb1-40d5-9f31-3b5c98a9aaf1",
+                  "text": "exerises"
+                },
+                {
+                  "id": "2ff0bf5e-0992-42d3-becd-6910a5b4bf8f",
+                  "text": "exemptions"
+                },
+                {
+                  "id": "a291f630-ac7e-419d-9989-3c900a3aa092",
+                  "text": "exertions",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 242,
+              "parent": "549bfc63-fbed-4c72-b652-906b87071be4",
+              "choices": [
+                {
+                  "id": "5543966d-c90c-4170-ac80-235ba6b07a9d",
+                  "text": "Patent"
+                },
+                {
+                  "id": "c9a289ce-7ebf-4e2d-abd6-369388e233a8",
+                  "text": "Patented",
+                  "correct": true
+                },
+                {
+                  "id": "7884a9cc-c9bd-492a-bddd-efbd2549353d",
+                  "text": "Patents"
+                },
+                {
+                  "id": "8e413646-0d5a-484c-9a78-714dda93f8e4",
+                  "text": "Patenting"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 243,
+              "parent": "549bfc63-fbed-4c72-b652-906b87071be4",
+              "choices": [
+                {
+                  "id": "83cd538c-2ebb-45d7-ac26-0af3449fda70",
+                  "text": "designing previously"
+                },
+                {
+                  "id": "ef370dd8-be54-42a7-a6a9-c8aaeb8fe510",
+                  "text": "previously designed"
+                },
+                {
+                  "id": "cf623f3b-90ac-4f5d-a109-8fad15beee29",
+                  "text": "having previously designed",
+                  "correct": true
+                },
+                {
+                  "id": "e29f3f85-0599-4fa2-a80c-bc6d8e97e304",
+                  "text": "has previously designed"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 244,
+              "parent": "549bfc63-fbed-4c72-b652-906b87071be4",
+              "choices": [
+                {
+                  "id": "22222ac1-782b-4cb6-8faf-7b50fdf38e33",
+                  "text": "consequently",
+                  "correct": true
+                },
+                {
+                  "id": "735193ab-57dc-4bc6-996a-49afdad266cd",
+                  "text": "approximately"
+                },
+                {
+                  "id": "79fb082d-b510-4a5d-af0f-dd510ab4de00",
+                  "text": "preferably"
+                },
+                {
+                  "id": "d3a5282c-2f75-4a6c-9bcb-757abc17f3da",
+                  "text": "reversely"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 245,
+              "parent": "549bfc63-fbed-4c72-b652-906b87071be4",
+              "choices": [
+                {
+                  "id": "9eb9d095-7fc8-4c65-98bf-8a2600fc0d07",
+                  "text": "to",
+                  "correct": true
+                },
+                {
+                  "id": "7f7b6944-03ee-4f61-b3bb-8f35334dbb5e",
+                  "text": "for"
+                },
+                {
+                  "id": "1f456be7-5abe-413d-9578-887500dafde9",
+                  "text": "in"
+                },
+                {
+                  "id": "2bd594ab-905a-4e4b-bc25-736e9547ff62",
+                  "text": "up"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "549bfc63-fbed-4c72-b652-906b87071be4",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2018-07-30T09:48:17.362481"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Happy\n\n&NewLine;\n\n**Read the text carefully and then answer the questions. Choose the best alternative for each item.**\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/kevat/EA-fi/EA-fi/attachments/index.html#q11|text=Avaa aineisto]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "Happy\n\n&NewLine;\n\n**Read the text carefully and then answer the questions. Choose the best alternative for each item.**\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/kevat/EA-fi/EA-fi/attachments/index.html#q11|text=Avaa aineisto]\n",
+            "questionType": "reading",
+            "displayNumber": "11."
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "494f353e-faa1-4232-8a63-ec9e33282451",
+            "e130b534-aed2-4e25-a3b7-f5e390965452",
+            "4e7ab1ed-6253-4a84-b1b6-88619c7e67b3",
+            "554a2161-5a74-4a3f-a14d-83e25fdbc273",
+            "0b91670a-c087-4d56-b0f4-30f16d875b48",
+            "0158f1dc-656a-4729-abfe-cdd52adcb075",
+            "af4e55f0-ca18-41a4-b258-2fbcdcd6ed98",
+            "e63c71c1-e950-4031-bbfa-ad4c25b676ac",
+            "8ebc12b7-4e6e-46b5-94c4-515f7c48b988",
+            "82c70b28-8829-4570-881f-b684d71f2f5c",
+            "b135f27c-dd3c-48c1-93c7-187161756bf7",
+            "2c7e8a07-8add-44b0-ba99-deed711454dd",
+            "099167cf-c5e7-4d09-8108-35e0cbf4f82a"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-03T06:29:24.014199",
+          "max_score": null,
+          "groupping": null,
+          "id": 1086156,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "becce6df-4c67-4129-a6be-2f6a13a2f679",
+          "order_number": 14,
+          "multipart": true,
+          "created_at": "2018-07-30T06:04:36.629946"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "\n\nHow to Speak Persuasively\n\n&NewLine;\n\nThis podcast discusses ways to affect people through speech. You can listen to this part twice: first straight through and then in short sections. Read the questions carefully and then listen to the recording.\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/kevat/EA-fi/EA-fi/index.html|text=Kuuntele aineistot täältä]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "\n\nHow to Speak Persuasively\n\n&NewLine;\n\nThis podcast discusses ways to affect people through speech. You can listen to this part twice: first straight through and then in short sections. Read the questions carefully and then listen to the recording.\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/kevat/EA-fi/EA-fi/index.html|text=Kuuntele aineistot täältä]",
+            "questionType": "listening-comprehension",
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "dcdadc11-7233-479a-90e9-ac884876de3a",
+            "d5137f22-c364-42cd-8d50-e8f871aeeb17",
+            "8a3890ba-68d3-4bd3-b7df-623241a9ff04",
+            "cb2b2157-931d-4ab6-945b-2a1bc24be4f9"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-03T06:29:24.011692",
+          "max_score": null,
+          "groupping": null,
+          "id": 1924610,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "844c0afc-9a70-4377-a4ac-4a855a3d30d3",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2020-01-10T11:21:08.104868"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Airplane Contrails\n\n&NewLine;\n\nThis is a podcast about airplane contrails. You can listen to this part twice: first straight through and then in short sections. Read the questions carefully and then listen to the recording.\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/kevat/EA-fi/EA-fi/index.html|text=Kuuntele aineistot täältä]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "Airplane Contrails\n\n&NewLine;\n\nThis is a podcast about airplane contrails. You can listen to this part twice: first straight through and then in short sections. Read the questions carefully and then listen to the recording.\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/kevat/EA-fi/EA-fi/index.html|text=Kuuntele aineistot täältä]",
+            "questionType": "listening-comprehension",
+            "displayNumber": "6."
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "558fd0df-1fa5-4946-b6be-e43e8224e7db",
+            "02763ccd-0edd-4b0d-bfab-fc63a4f15b8b",
+            "834ff268-f7eb-44c8-909e-80004283800e",
+            "fcd54397-c75b-45ec-b637-f77369dfa490"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-03T06:29:24.007358",
+          "max_score": null,
+          "groupping": null,
+          "id": 1925796,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "19b5802a-4a4c-4fc4-9f1d-2bd54c75a470",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2020-01-10T11:35:28.671265"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "News Snippets\n\n&NewLine;\n\nThis recording has five news stories. You can listen to 7.1.–7.3. once only. Listen to the recording and answer the questions in Finnish.\n\n\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/kevat/EA-fi/EA-fi/index.html|text=Kuuntele aineistot täältä]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "News Snippets\n\n&NewLine;\n\nThis recording has five news stories. You can listen to 7.1.–7.3. once only. Listen to the recording and answer the questions in Finnish.\n\n\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/kevat/EA-fi/EA-fi/index.html|text=Kuuntele aineistot täältä]",
+            "questionType": "listening-comprehension",
+            "displayNumber": "7."
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "3dd6b351-0bdb-4d5d-b724-0a2267201c47",
+            "3e3d6bc1-f566-496b-828e-c868077dbac3",
+            "bd47bd07-0d86-4812-8b23-0f2d4af15414",
+            "1b9d581d-84c1-40bd-886a-696b77967e95",
+            "6d7880e7-5e09-4c23-bed4-8d1bcb980edd"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-03T06:29:23.998424",
+          "max_score": null,
+          "groupping": null,
+          "id": 1926185,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "42e78438-e863-4464-9d2b-b248786c9b41",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2020-01-10T11:39:09.254772"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "According to Rhianna Patrick, which two things has music helped do for the young?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "According to Rhianna Patrick, which two things has music helped do for the young?\n",
+            "displayNumber": "1.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:23.986873",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1924401,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 264,
+              "text": "Draw attention to local issues, and remind them of their heritage",
+              "parent": "6fb1583e-88e6-4403-a766-b9da990da037",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 265,
+              "text": "Remember their past, and distance them from society",
+              "parent": "6fb1583e-88e6-4403-a766-b9da990da037",
+              "choices": []
+            },
+            {
+              "id": 266,
+              "text": "Feel less lonely, and fix relationships with family members",
+              "parent": "6fb1583e-88e6-4403-a766-b9da990da037",
+              "choices": []
+            }
+          ],
+          "uuid": "6fb1583e-88e6-4403-a766-b9da990da037",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2020-01-10T11:18:44.762229"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Choose the pair of words for the gap that best fits the context in the paragraph that starts with “One problem with tracking happiness...” (2 p.)\n\n​\n\n_They should concentrate on eliminating [SELECT id=222], such as time-wasting meetings and pointless memos._\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "Choose the pair of words for the gap that best fits the context in the paragraph that starts with “One problem with tracking happiness...” (2 p.)\n\n​\n\n_They should concentrate on eliminating [SELECT id=222], such as time-wasting meetings and pointless memos._\n",
+            "displayNumber": "11.6"
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:23.98262",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1105098,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 222,
+              "parent": "e63c71c1-e950-4031-bbfa-ad4c25b676ac",
+              "choices": [
+                {
+                  "id": "4e410573-ff57-46a0-a49a-8e1629d7d319",
+                  "text": "specific annoyances",
+                  "correct": true
+                },
+                {
+                  "id": "9425b69b-b971-4669-9b4b-b2b310e6cf3e",
+                  "text": "unexpected delays"
+                },
+                {
+                  "id": "41eb41ba-c385-4645-bafa-2b84754a58e4",
+                  "text": "external restrictions"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "e63c71c1-e950-4031-bbfa-ad4c25b676ac",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2018-07-30T08:27:16.461094"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "At the beginning of April 1789, HMS Bounty left Tahiti, [GAP id=246] plants to the West Indies. The ship had been in Tahiti since the previous autumn, and the crew had amused [GAP id=247] in the sunshine with the local women. But as they ploughed through [GAP id=248], they chafed at the restoration of discipline under the captain, William Bligh. By the night of 27 April, his old friend Fletcher Christian had decided to act.\n\n​\n\nIn the early hours of the following morning, Christian and [GAP id=249] allies secured the upper deck and armed themselves with muskets. Some time after five o’clock, Christian led them to Bligh’s cabin. [GAP id=250] his own account, the captain “called [GAP id=251] I could in hopes of assistance”, but the mutineers managed to drag him away. [GAP id=252], the Bounty was in chaos. On the quarterdeck, [GAP id=253] mutineers, Bligh shouted for help, [GAP id=254] his shipmates to “knock Christian down”. Amid the general chaos, Christian exhorted the men to back him instead.\n\n​\n\n[GAP id=255] to Christian’s expectation, many of the men were determined to support the captain, not the mutineers, [GAP id=256] suggests Bligh’s reputation for hardness is ill deserved. In all, eighteen men [GAP id=257] in the ship’s launch. The carpenter’s mates wanted to go too, but Christian [GAP id=258] it. “Never fear lads,” Bligh said. “I’ll do you [GAP id=259], if ever I reach England.”\n\n​\n\nBligh [GAP id=260]. reach England, months later. But the mutineers’ fate was wretched. Many were captured, others killed. Christian was killed on Pitcairn in 1793.\n\n​\n\n_Lähde: Dominic Sandbrook, BBC History Magazine, April 2016_\n\n_Kuva: http://bit.ly/2jOdvVF (27.9.2016)_",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "At the beginning of April 1789, HMS Bounty left Tahiti, [GAP id=246] plants to the West Indies. The ship had been in Tahiti since the previous autumn, and the crew had amused [GAP id=247] in the sunshine with the local women. But as they ploughed through [GAP id=248], they chafed at the restoration of discipline under the captain, William Bligh. By the night of 27 April, his old friend Fletcher Christian had decided to act.\n\n​\n\nIn the early hours of the following morning, Christian and [GAP id=249] allies secured the upper deck and armed themselves with muskets. Some time after five o’clock, Christian led them to Bligh’s cabin. [GAP id=250] his own account, the captain “called [GAP id=251] I could in hopes of assistance”, but the mutineers managed to drag him away. [GAP id=252], the Bounty was in chaos. On the quarterdeck, [GAP id=253] mutineers, Bligh shouted for help, [GAP id=254] his shipmates to “knock Christian down”. Amid the general chaos, Christian exhorted the men to back him instead.\n\n​\n\n[GAP id=255] to Christian’s expectation, many of the men were determined to support the captain, not the mutineers, [GAP id=256] suggests Bligh’s reputation for hardness is ill deserved. In all, eighteen men [GAP id=257] in the ship’s launch. The carpenter’s mates wanted to go too, but Christian [GAP id=258] it. “Never fear lads,” Bligh said. “I’ll do you [GAP id=259], if ever I reach England.”\n\n​\n\nBligh [GAP id=260]. reach England, months later. But the mutineers’ fate was wretched. Many were captured, others killed. Christian was killed on Pitcairn in 1793.\n\n​\n\n_Lähde: Dominic Sandbrook, BBC History Magazine, April 2016_\n\n_Kuva: http://bit.ly/2jOdvVF (27.9.2016)_"
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:23.957513",
+          "max_score": 15,
+          "groupping": null,
+          "id": 1110895,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 246,
+              "hint": "carry",
+              "parent": "dc187c18-21ca-4a28-af15-ea806e84363b",
+              "choices": [],
+              "correct": "carrying",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 247,
+              "hint": "pronomini",
+              "parent": "dc187c18-21ca-4a28-af15-ea806e84363b",
+              "choices": [],
+              "correct": "themselves",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 248,
+              "hint": "Tyynimeri",
+              "parent": "dc187c18-21ca-4a28-af15-ea806e84363b",
+              "choices": [],
+              "correct": "the Pacific Ocean|the Pacific",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 249,
+              "hint": "muutama",
+              "parent": "dc187c18-21ca-4a28-af15-ea806e84363b",
+              "choices": [],
+              "correct": "a few",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 250,
+              "hint": "Prepositio",
+              "parent": "dc187c18-21ca-4a28-af15-ea806e84363b",
+              "choices": [],
+              "correct": "by|By",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 251,
+              "hint": "niin äänekkäästi kuin",
+              "parent": "dc187c18-21ca-4a28-af15-ea806e84363b",
+              "choices": [],
+              "correct": "as loudly as",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 252,
+              "hint": "siihen mennessä",
+              "parent": "dc187c18-21ca-4a28-af15-ea806e84363b",
+              "choices": [],
+              "correct": "By now|By then|That time|By now|By then|That time| By that time",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 253,
+              "hint": "surround",
+              "parent": "dc187c18-21ca-4a28-af15-ea806e84363b",
+              "choices": [],
+              "correct": "surrounded by",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 254,
+              "hint": "urge",
+              "parent": "dc187c18-21ca-4a28-af15-ea806e84363b",
+              "choices": [],
+              "correct": "urging",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 255,
+              "hint": "Vastoin",
+              "parent": "dc187c18-21ca-4a28-af15-ea806e84363b",
+              "choices": [],
+              "correct": "Contrary",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 256,
+              "hint": "relatiivipronomini",
+              "parent": "dc187c18-21ca-4a28-af15-ea806e84363b",
+              "choices": [],
+              "correct": "which",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 257,
+              "hint": "liittyi Bligh'in",
+              "parent": "dc187c18-21ca-4a28-af15-ea806e84363b",
+              "choices": [],
+              "correct": "joined Bligh",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 258,
+              "hint": "forbid",
+              "parent": "dc187c18-21ca-4a28-af15-ea806e84363b",
+              "choices": [],
+              "correct": "forbade",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 259,
+              "hint": "oikeus",
+              "parent": "dc187c18-21ca-4a28-af15-ea806e84363b",
+              "choices": [],
+              "correct": "justice",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 260,
+              "hint": "verbi",
+              "parent": "dc187c18-21ca-4a28-af15-ea806e84363b",
+              "choices": [],
+              "correct": "did|was able to|managed to",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "dc187c18-21ca-4a28-af15-ea806e84363b",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2018-07-30T11:15:48.480627"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "_The BBC’s Journalism Trainee Scheme is the flagship journalism entry and training scheme run by the BBC Academy. Since 2007 we have recruited and trained scores of high-quality journalists, many of whom continue to work on high-profile programmes and in newsrooms across the BBC._\n\n&NewLine;\n\n_The scheme offers vocational journalists the opportunity to immerse themselves in BBC News for a year of high quality training and work experience. Successful applicants need to be able to demonstrate creativity, resilience in a high-pressure environment, and a thorough understanding of the role of the BBC’s journalism._\n\n&NewLine;\n\nVideo: BBC Journalism Trainee Scheme\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/kevat/EA-fi/EA-fi/attachments/index.html#q17.1|text=Avaa aineisto]\n\n&NewLine;\n\nYou have decided to apply for the BBC Journalism Trainee Scheme. You can watch the video, if you like, to get a better idea of the scheme. To apply you are required to write either a piece of news or a text on a cultural topic (sports, theatre, fine arts, music, etc.). Write your text.\n",
+          "deleted_at": null,
+          "feedback": "Max. 99 p.\n",
+          "exam_id": 29472,
+          "content": {
+            "text": "_The BBC’s Journalism Trainee Scheme is the flagship journalism entry and training scheme run by the BBC Academy. Since 2007 we have recruited and trained scores of high-quality journalists, many of whom continue to work on high-profile programmes and in newsrooms across the BBC._\n\n&NewLine;\n\n_The scheme offers vocational journalists the opportunity to immerse themselves in BBC News for a year of high quality training and work experience. Successful applicants need to be able to demonstrate creativity, resilience in a high-pressure environment, and a thorough understanding of the role of the BBC’s journalism._\n\n&NewLine;\n\nVideo: BBC Journalism Trainee Scheme\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/kevat/EA-fi/EA-fi/attachments/index.html#q17.1|text=Avaa aineisto]\n\n&NewLine;\n\nYou have decided to apply for the BBC Journalism Trainee Scheme. You can watch the video, if you like, to get a better idea of the scheme. To apply you are required to write either a piece of news or a text on a cultural topic (sports, theatre, fine arts, music, etc.). Write your text.\n",
+            "displayNumber": "17.1"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:23.955135",
+          "max_score": null,
+          "groupping": null,
+          "id": 1086184,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "d0678e57-a92f-4469-97ba-c28fee122e50",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2018-07-30T06:04:36.696007"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Koe koostuu neljästä osasta: kuullunymmärtämistehtävät, tekstin­ymmärtämistehtävät, sanasto- ja rakennetehtävät ja kirjallinen tuottaminen.\n\n​\n\nVoit tehdä tehtävät haluamassasi järjestyksessä. Noudata tehtäväkohtaisia vastaamisohjeita. Voit muuttaa antamiasi vastauksia koska tahansa kokeen aikana. Tee kukin tehtävä loppuun ennen kuin aloitat seuraavan.\n\n​\n\nVastaa monivalintatehtäviin ja monivalinta-aukkotehtäviin napsauttamalla kulloinkin sopivinta vaihtoehtoa. Kirjoita avoimissa tehtävissä vastauksesi tehtävän yhteydessä olevaan vastauskenttään. Tehtävissä voi olla myös tehtäväkohtaista ohjeistusta.\n\n​\n\nLisää kielikokeen vastausohjeita on linkissä [LINK url=http://yle.fi/plus/abitreenit/2018/kevat/EA-fi/EA-fi/attachments/Kielikokeen-ohjeistus.pdf|text=Kielikokeen ohjeistus].\n\n​\n\nKuullunymmärtämistehtävien äänitteet ja videot saat käynnistää omaan tahtiisi napsauttamalla siihen liittyvää painiketta. Kun olet käyttänyt sallitut kuuntelukerrat, et voi enää kuunnella äänitettä uudelleen. Käytetyt painikkeet tunnistaa niiden muuttuneesta väristä. Varaa aikaa kuullun­ymmärtämistehtävien tekemiseen yhteensä noin 1 tunti.\n\n​\n\nVideot katsotaan aineistovälilehdellä olevalla mediasoittimella. Videoita voit katsoa niin monta kertaa kuin haluat. Voit myös pysäyttää videoiden toiston ja kelata niitä eteen- tai taaksepäin.\n\n​\n\nJoissakin tehtävissä on aineistoa, joka löytyy erilliseltä välilehdeltä. Sinne pääset [LINK url=http://yle.fi/plus/abitreenit/2018/kevat/EA-fi/EA-fi/attachments/index.html|text=tästä linkistä]. Yksittäisen tehtävän aineistoon pääset myös suoraan napsauttamalla kyseisen tehtävän yhteydessä olevaa Avaa aineisto -linkkiä.\n\n​\n\nOnnea kokeeseen!\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "Koe koostuu neljästä osasta: kuullunymmärtämistehtävät, tekstin­ymmärtämistehtävät, sanasto- ja rakennetehtävät ja kirjallinen tuottaminen.\n\n​\n\nVoit tehdä tehtävät haluamassasi järjestyksessä. Noudata tehtäväkohtaisia vastaamisohjeita. Voit muuttaa antamiasi vastauksia koska tahansa kokeen aikana. Tee kukin tehtävä loppuun ennen kuin aloitat seuraavan.\n\n​\n\nVastaa monivalintatehtäviin ja monivalinta-aukkotehtäviin napsauttamalla kulloinkin sopivinta vaihtoehtoa. Kirjoita avoimissa tehtävissä vastauksesi tehtävän yhteydessä olevaan vastauskenttään. Tehtävissä voi olla myös tehtäväkohtaista ohjeistusta.\n\n​\n\nLisää kielikokeen vastausohjeita on linkissä [LINK url=http://yle.fi/plus/abitreenit/2018/kevat/EA-fi/EA-fi/attachments/Kielikokeen-ohjeistus.pdf|text=Kielikokeen ohjeistus].\n\n​\n\nKuullunymmärtämistehtävien äänitteet ja videot saat käynnistää omaan tahtiisi napsauttamalla siihen liittyvää painiketta. Kun olet käyttänyt sallitut kuuntelukerrat, et voi enää kuunnella äänitettä uudelleen. Käytetyt painikkeet tunnistaa niiden muuttuneesta väristä. Varaa aikaa kuullun­ymmärtämistehtävien tekemiseen yhteensä noin 1 tunti.\n\n​\n\nVideot katsotaan aineistovälilehdellä olevalla mediasoittimella. Videoita voit katsoa niin monta kertaa kuin haluat. Voit myös pysäyttää videoiden toiston ja kelata niitä eteen- tai taaksepäin.\n\n​\n\nJoissakin tehtävissä on aineistoa, joka löytyy erilliseltä välilehdeltä. Sinne pääset [LINK url=http://yle.fi/plus/abitreenit/2018/kevat/EA-fi/EA-fi/attachments/index.html|text=tästä linkistä]. Yksittäisen tehtävän aineistoon pääset myös suoraan napsauttamalla kyseisen tehtävän yhteydessä olevaa Avaa aineisto -linkkiä.\n\n​\n\nOnnea kokeeseen!\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-03T06:29:23.951509",
+          "max_score": null,
+          "groupping": null,
+          "id": 1086168,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "117d8ceb-6a93-47c2-b1d0-275f21f12602",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2018-07-30T06:04:36.656091"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Choose a word that means about the same as the bold word and fits the context. (4 p.)**\n\n​\n\nMarenco said he left the military with emotional and physical problems, but he [SELECT id=237] **took advantage of** the G.I. Bill law to get his bachelor’s degree at Florida International University, with a double major in marketing and business administration. After months of not being able to find a job, he returned to the university to get his master’s degree in international business.\n\n​\n\nAgain, he failed to get a job. So he turned his energy and focus to an idea that had been long [SELECT id=238] **brewing**, the [SELECT id=239] **creation** of personal development and self-help books. From all of his life experiences, he developed his idea for a life planner that also helps users organize and [SELECT id=240] **define** their values about the various aspects of their lives, including community and personal relationships, finances and even spirituality. Nowhere else had he seen a planner with this holistic approach.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "**Choose a word that means about the same as the bold word and fits the context. (4 p.)**\n\n​\n\nMarenco said he left the military with emotional and physical problems, but he [SELECT id=237] **took advantage of** the G.I. Bill law to get his bachelor’s degree at Florida International University, with a double major in marketing and business administration. After months of not being able to find a job, he returned to the university to get his master’s degree in international business.\n\n​\n\nAgain, he failed to get a job. So he turned his energy and focus to an idea that had been long [SELECT id=238] **brewing**, the [SELECT id=239] **creation** of personal development and self-help books. From all of his life experiences, he developed his idea for a life planner that also helps users organize and [SELECT id=240] **define** their values about the various aspects of their lives, including community and personal relationships, finances and even spirituality. Nowhere else had he seen a planner with this holistic approach.\n"
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:23.946215",
+          "max_score": 4,
+          "groupping": null,
+          "id": 1110614,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 237,
+              "parent": "a72a7fcf-7710-42c5-ab24-8732c1bcab19",
+              "choices": [
+                {
+                  "id": "25b4d55f-00a0-44ab-bbf1-c9b61ca97f37",
+                  "text": "employed"
+                },
+                {
+                  "id": "1f22217f-9823-453c-8d53-c6de954340f3",
+                  "text": "embraced"
+                },
+                {
+                  "id": "3c909396-3e3e-4a76-b9c3-2f08b1c2194c",
+                  "text": "exploited",
+                  "correct": true
+                },
+                {
+                  "id": "7d33db10-0f2c-4334-94ae-1ba0457815d4",
+                  "text": "exercised"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 238,
+              "parent": "a72a7fcf-7710-42c5-ab24-8732c1bcab19",
+              "choices": [
+                {
+                  "id": "32274032-f16e-47e5-b133-b8b012fdc337",
+                  "text": "forming",
+                  "correct": true
+                },
+                {
+                  "id": "c11da3f0-e34e-470e-b5b3-e12f4a47e644",
+                  "text": "looming"
+                },
+                {
+                  "id": "9e2b7227-60e0-41d2-9df8-04763c73e009",
+                  "text": "plotting"
+                },
+                {
+                  "id": "b5f4deb2-26af-4e2f-9950-0a72b86adec9",
+                  "text": "scheming"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 239,
+              "parent": "a72a7fcf-7710-42c5-ab24-8732c1bcab19",
+              "choices": [
+                {
+                  "id": "638dc360-9cdb-49ec-91d9-5f3920f78a5d",
+                  "text": "production",
+                  "correct": true
+                },
+                {
+                  "id": "ae6d18ce-dc05-45f9-939d-f63855330d8f",
+                  "text": "constitution"
+                },
+                {
+                  "id": "0429f114-0225-4b2f-95d3-3e201ef21a04",
+                  "text": "foundation"
+                },
+                {
+                  "id": "871183d6-5c79-405c-a787-e27ed7923812",
+                  "text": "organisation"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 240,
+              "parent": "a72a7fcf-7710-42c5-ab24-8732c1bcab19",
+              "choices": [
+                {
+                  "id": "9fc6e6f8-84da-46cd-92c5-0d685e426cc4",
+                  "text": "construct"
+                },
+                {
+                  "id": "884be24a-f233-4a46-b34e-caec82250921",
+                  "text": "prescribe"
+                },
+                {
+                  "id": "f0000031-b12b-476b-ba1e-2a53776cb8cf",
+                  "text": "comment"
+                },
+                {
+                  "id": "bab2305f-804e-4f40-a9c7-53ceaf59d2d8",
+                  "text": "describe",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "a72a7fcf-7710-42c5-ab24-8732c1bcab19",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2018-07-30T09:48:17.36009"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Choose a sentence for the gap that best fits the meaning of the whole paragraph. (2 p.)\n\n​\n\n_Some firms are trying to create some wellbeing, too, showering their employees with mindfulness courses, yoga lessons and anything else that proves that managers are interested in “the whole person”. [SELECT id=218] Management theorists note that a big threat to corporate performance is widespread disengagement among workers. Happy people are more engaged and productive, say psychologists. Gallup claimed in 2013 that the “unhappiness” of employees costs the American economy $500 billion a year in lost productivity._\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "Choose a sentence for the gap that best fits the meaning of the whole paragraph. (2 p.)\n\n​\n\n_Some firms are trying to create some wellbeing, too, showering their employees with mindfulness courses, yoga lessons and anything else that proves that managers are interested in “the whole person”. [SELECT id=218] Management theorists note that a big threat to corporate performance is widespread disengagement among workers. Happy people are more engaged and productive, say psychologists. Gallup claimed in 2013 that the “unhappiness” of employees costs the American economy $500 billion a year in lost productivity._\n",
+            "displayNumber": "11.4"
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:23.941799",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1103595,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 218,
+              "parent": "554a2161-5a74-4a3f-a14d-83e25fdbc273",
+              "choices": [
+                {
+                  "id": "425b60dc-c504-4c06-bd86-5b1d661c64c9",
+                  "text": "However, other companies would be willing to go even further."
+                },
+                {
+                  "id": "d95bcfd3-123f-4b00-b662-7631b66f91de",
+                  "text": "However, only the misguided would take that at face value.",
+                  "correct": true
+                },
+                {
+                  "id": "3572de4b-2516-4161-a514-ca197037669b",
+                  "text": "However, such action has been criticized for being too expensive."
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "554a2161-5a74-4a3f-a14d-83e25fdbc273",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2018-07-30T08:18:42.137807"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Art and Intellectualism (video)\n\n&NewLine;\n\nThis is a video of musician Brian Eno discussing the distinction between art and intellectualism. He also talks about breaking boundaries, such as the boundary between music and visual art. You can play the video as many times as you want to and stop, fast forward and rewind it. Read the questions carefully and then watch the video.\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/kevat/EA-fi/EA-fi/attachments/index.html#q3|text=Avaa aineisto]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "Art and Intellectualism (video)\n\n&NewLine;\n\nThis is a video of musician Brian Eno discussing the distinction between art and intellectualism. He also talks about breaking boundaries, such as the boundary between music and visual art. You can play the video as many times as you want to and stop, fast forward and rewind it. Read the questions carefully and then watch the video.\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/kevat/EA-fi/EA-fi/attachments/index.html#q3|text=Avaa aineisto]",
+            "questionType": "listening-comprehension",
+            "displayNumber": "3."
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "14db571b-90aa-458e-b9d8-08541e102f05",
+            "551b1855-8126-41dc-9059-02f6b771118e",
+            "a4b0809d-a3e6-4424-9569-38b4070c79f4",
+            "67fbbc91-439b-40a1-95fa-a976523e882a"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-03T06:29:23.934591",
+          "max_score": null,
+          "groupping": null,
+          "id": 1924842,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "3f10c495-8cb3-4925-ab79-c9cf561614af",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2020-01-10T11:24:34.726152"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Persevering with Planners**\n\n&NewLine;\n\nChoose appropriate words to fill in the six gaps 13.1.–13.6. Use the correct form of the word. There are a few words too many. (6 p.)\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/kevat/EA-fi/EA-fi/attachments/index.html#q13|text=Avaa aineisto]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "**Persevering with Planners**\n\n&NewLine;\n\nChoose appropriate words to fill in the six gaps 13.1.–13.6. Use the correct form of the word. There are a few words too many. (6 p.)\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/kevat/EA-fi/EA-fi/attachments/index.html#q13|text=Avaa aineisto]\n",
+            "questionType": "grammar",
+            "displayNumber": "13."
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "fa1cb4bd-e9ac-424f-a88c-2c67aadc9448",
+            "98b97204-555d-422a-a06e-50024d3e97ee",
+            "98f8b18d-4167-4cc9-b953-76c65d2a69fb",
+            "e05bb45b-049f-48f6-9208-f989b14971f2",
+            "a3b2bc50-8116-4522-accf-042c4563927c",
+            "b57500e2-df5b-4a33-ae9a-8b42726d95e4",
+            "a72a7fcf-7710-42c5-ab24-8732c1bcab19"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-03T06:29:23.928036",
+          "max_score": null,
+          "groupping": null,
+          "id": 1086178,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "268e557c-f808-4d25-b27f-44a392e8173d",
+          "order_number": 17,
+          "multipart": true,
+          "created_at": "2018-07-30T06:04:36.677734"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What is one of the problems described in the paragraph that starts with “The idea of companies employing jolly good fellows…”? (2 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "What is one of the problems described in the paragraph that starts with “The idea of companies employing jolly good fellows…”? (2 p.)\n",
+            "displayNumber": "11.7"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:23.930295",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1104155,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 223,
+              "text": "Studying the impact of happiness programmes is costly",
+              "parent": "0158f1dc-656a-4729-abfe-cdd52adcb075",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 224,
+              "text": "Employees can develop problems in their facial muscles",
+              "parent": "0158f1dc-656a-4729-abfe-cdd52adcb075",
+              "choices": []
+            },
+            {
+              "id": 225,
+              "text": "Having to be happy all the time is emotionally taxing",
+              "parent": "0158f1dc-656a-4729-abfe-cdd52adcb075",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "0158f1dc-656a-4729-abfe-cdd52adcb075",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2018-07-30T08:23:31.734697"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Food Synergy\n\n&NewLine;\n\nA scientist talks about plant foods and their health benefits. You can listen to this part twice: first straight through and then in short sections. Read the questions carefully and then listen to the recording\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/kevat/EA-fi/EA-fi/index.html|text=Kuuntele aineistot täältä]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "Food Synergy\n\n&NewLine;\n\nA scientist talks about plant foods and their health benefits. You can listen to this part twice: first straight through and then in short sections. Read the questions carefully and then listen to the recording\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/kevat/EA-fi/EA-fi/index.html|text=Kuuntele aineistot täältä]",
+            "questionType": "listening-comprehension",
+            "displayNumber": "4."
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "800f0aba-e562-43a6-a544-783a3fdfcd51",
+            "7a2ae232-cdc3-4a28-a227-46eaadffa527",
+            "798a969e-de0a-4df2-9d30-a4b731c4c06b",
+            "392e790a-b3c9-4858-bd35-8d32fb1ff8ae"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-03T06:29:23.932103",
+          "max_score": null,
+          "groupping": null,
+          "id": 1925084,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "b0d0fbf5-a6f1-452d-b50b-0b6e94b56ca4",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2020-01-10T11:28:00.182471"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Hillsborough Survivor\n\n&NewLine;\n\nThe first recording offers some background information about an event called the Hillsborough disaster (on April 15, 1989). Following this you can listen to a news report where a man who survived the disaster is interviewed. You can listen to each section once only. Read the questions carefully and then listen to the recordings.\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/kevat/EA-fi/EA-fi/index.html|text=Kuuntele aineistot täältä]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "Hillsborough Survivor\n\n&NewLine;\n\nThe first recording offers some background information about an event called the Hillsborough disaster (on April 15, 1989). Following this you can listen to a news report where a man who survived the disaster is interviewed. You can listen to each section once only. Read the questions carefully and then listen to the recordings.\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/kevat/EA-fi/EA-fi/index.html|text=Kuuntele aineistot täältä]",
+            "questionType": "listening-comprehension",
+            "displayNumber": "5."
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "2d0efb5e-410a-4453-992c-b457ba851b90",
+            "ff9423b8-f9bb-4d3a-8401-95e486192aa6",
+            "7ee14b82-ee03-40f4-b10d-a4f89c479448",
+            "96386752-7ee3-42d2-a89c-89f74598379f",
+            "59e6a531-9442-4be6-b482-058f8d50c9a8",
+            "bde468de-f280-4759-9cb1-a993725dafac"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-03T06:29:23.960005",
+          "max_score": null,
+          "groupping": null,
+          "id": 1925425,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "527c6017-0b46-483a-9935-40c7ad43f96f",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2020-01-10T11:31:44.977374"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kokeen tekstit ja kuvat pohjautuvat seuraaviin lähteisiin:\n\n1. bbc.co.uk (1.9.2016); kuva: http://bbc.co.uk/radio4 (27.9.2016)\n\n2. scientificamerican.com (22.3.2017)\n\n4. nutritionfacts.org (22.3.2017); kuva: http://bit.ly/2iPY4MY (27.9.2016)\n\n5. en.wikipedia.org/wiki/Hillsborough\\_disaster; bbc.co.uk (22.3.2017); kuvat: http://bit.ly/2lLe7LT, http://bit.ly/2mBmg37, http://bit.ly/2lL1Wyk (27.9.2016)\n\n6. indianapublicmedia.org (22.3.2017); kuva: www.flickr.com (27.9.2016)\n\n7. bbc.com (adapted, 23.3.2017); Ylioppilastutkintolautakunta; bbc.com (22.3.2017); history.com (22.3.2017); theguardian.com (22.3.2017); kuvat: https://encrypted-tbn0.gstatic.com, http://bit.ly/2keLDX2 (27.9.2016)\n\n14. David Long, Bizarre England, London 2015; kuvat: http://bit.ly/2k3dKJu, http://bit.ly/2jOi7uM (27.9.2016)\n\n17.1. http://www.bbc.co.uk\n\n17.3. Kuva: http://poststar.com (27.9.2016)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "Kokeen tekstit ja kuvat pohjautuvat seuraaviin lähteisiin:\n\n1. bbc.co.uk (1.9.2016); kuva: http://bbc.co.uk/radio4 (27.9.2016)\n\n2. scientificamerican.com (22.3.2017)\n\n4. nutritionfacts.org (22.3.2017); kuva: http://bit.ly/2iPY4MY (27.9.2016)\n\n5. en.wikipedia.org/wiki/Hillsborough\\_disaster; bbc.co.uk (22.3.2017); kuvat: http://bit.ly/2lLe7LT, http://bit.ly/2mBmg37, http://bit.ly/2lL1Wyk (27.9.2016)\n\n6. indianapublicmedia.org (22.3.2017); kuva: www.flickr.com (27.9.2016)\n\n7. bbc.com (adapted, 23.3.2017); Ylioppilastutkintolautakunta; bbc.com (22.3.2017); history.com (22.3.2017); theguardian.com (22.3.2017); kuvat: https://encrypted-tbn0.gstatic.com, http://bit.ly/2keLDX2 (27.9.2016)\n\n14. David Long, Bizarre England, London 2015; kuvat: http://bit.ly/2k3dKJu, http://bit.ly/2jOi7uM (27.9.2016)\n\n17.1. http://www.bbc.co.uk\n\n17.3. Kuva: http://poststar.com (27.9.2016)\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-03T06:29:23.962014",
+          "max_score": null,
+          "groupping": null,
+          "id": 1116926,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "fa66e183-0853-476a-8b23-1102a388c591",
+          "order_number": 23,
+          "multipart": true,
+          "created_at": "2018-07-30T11:56:54.893781"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What happened at the Hillsborough stadium?\n\n​\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/kevat/EA-fi/EA-fi/index.html|text=Katso kuvavaihtoehdot täältä]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "What happened at the Hillsborough stadium?\n\n​\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/kevat/EA-fi/EA-fi/index.html|text=Katso kuvavaihtoehdot täältä]\n",
+            "displayNumber": "5.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:23.964561",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1925431,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 276,
+              "text": "A",
+              "parent": "bde468de-f280-4759-9cb1-a993725dafac",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 277,
+              "text": "B",
+              "parent": "bde468de-f280-4759-9cb1-a993725dafac",
+              "choices": []
+            },
+            {
+              "id": 278,
+              "text": "C",
+              "parent": "bde468de-f280-4759-9cb1-a993725dafac",
+              "choices": []
+            }
+          ],
+          "uuid": "bde468de-f280-4759-9cb1-a993725dafac",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2020-01-10T11:31:44.995308"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Why do the interviewers focus on more than just the applicants’ mastery of factual knowledge? (2 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "Why do the interviewers focus on more than just the applicants’ mastery of factual knowledge? (2 p.)\n",
+            "displayNumber": "9.3"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:23.966419",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1086151,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 121,
+              "text": "To emphasize the merits of tutoring",
+              "parent": "177d0924-3379-4409-a1e0-cef93b451564",
+              "choices": []
+            },
+            {
+              "id": 122,
+              "text": "To outline the importance of teaching",
+              "parent": "177d0924-3379-4409-a1e0-cef93b451564",
+              "choices": []
+            },
+            {
+              "id": 123,
+              "text": "To elicit traces of actual capabilities",
+              "parent": "177d0924-3379-4409-a1e0-cef93b451564",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "177d0924-3379-4409-a1e0-cef93b451564",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2018-07-30T06:04:36.619226"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "[GAP id=236]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "[GAP id=236]\n",
+            "displayNumber": "13.6"
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:23.96882",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1110274,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 236,
+              "parent": "b57500e2-df5b-4a33-ae9a-8b42726d95e4",
+              "choices": [],
+              "correct": "empower",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "b57500e2-df5b-4a33-ae9a-8b42726d95e4",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2018-07-30T08:48:25.305647"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "[GAP id=231]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "[GAP id=231]\n",
+            "displayNumber": "13.1"
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:23.970584",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1109739,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 231,
+              "parent": "fa1cb4bd-e9ac-424f-a88c-2c67aadc9448",
+              "choices": [],
+              "correct": "adopted",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "fa1cb4bd-e9ac-424f-a88c-2c67aadc9448",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2018-07-30T08:47:47.525779"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Innovations\n\n&NewLine;\n\n**Lue seuraavat tekstit ja vastaa kysymyksiin niiden pohjalta lyhyesti suomeksi. (24 p.)**\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/kevat/EA-fi/EA-fi/attachments/index.html#q12|text=Avaa aineisto]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "Innovations\n\n&NewLine;\n\n**Lue seuraavat tekstit ja vastaa kysymyksiin niiden pohjalta lyhyesti suomeksi. (24 p.)**\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/kevat/EA-fi/EA-fi/attachments/index.html#q12|text=Avaa aineisto]\n",
+            "questionType": "reading",
+            "displayNumber": "12."
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "9ddf30fc-e4f5-4512-89d5-5dbc54c33080",
+            "13045ea2-e243-4d58-8a13-6006776cae85",
+            "2d1a5177-22ac-4ac8-a53e-55d8580a3b67",
+            "967a4e39-2834-4dc4-8cbe-e5d366c0f1a1"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-03T06:29:23.972271",
+          "max_score": null,
+          "groupping": null,
+          "id": 1086167,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "d4cc3ec0-8b86-4b72-8012-6b05bd0433d8",
+          "order_number": 15,
+          "multipart": true,
+          "created_at": "2018-07-30T06:04:36.654015"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "How do sales people persuade their customers?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "How do sales people persuade their customers?\n",
+            "displayNumber": "2.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:23.974755",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1924614,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 267,
+              "text": "By letting them ask a lot of questions",
+              "parent": "cb2b2157-931d-4ab6-945b-2a1bc24be4f9",
+              "choices": []
+            },
+            {
+              "id": 268,
+              "text": "By pulling off different stunts and tricks",
+              "parent": "cb2b2157-931d-4ab6-945b-2a1bc24be4f9",
+              "choices": []
+            },
+            {
+              "id": 269,
+              "text": "By avoiding dictating things to them",
+              "parent": "cb2b2157-931d-4ab6-945b-2a1bc24be4f9",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "cb2b2157-931d-4ab6-945b-2a1bc24be4f9",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2020-01-10T11:21:08.115886"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Which statement about Charles Sharland is the most accurate? (2 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "Which statement about Charles Sharland is the most accurate? (2 p.)\n",
+            "displayNumber": "8.4"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:23.976966",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1097771,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 197,
+              "text": "He worked hard in order to retire early",
+              "parent": "4390e3f8-a69c-4b6a-b38e-ef02c78fa949",
+              "choices": []
+            },
+            {
+              "id": 198,
+              "text": "He became famous by working just a few years",
+              "parent": "4390e3f8-a69c-4b6a-b38e-ef02c78fa949",
+              "choices": []
+            },
+            {
+              "id": 199,
+              "text": "He devoted his life to his intense career",
+              "parent": "4390e3f8-a69c-4b6a-b38e-ef02c78fa949",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "4390e3f8-a69c-4b6a-b38e-ef02c78fa949",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2018-07-30T07:32:44.200527"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "How does Oxford University make the applicants feel as comfortable as possible on campus? (2 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "How does Oxford University make the applicants feel as comfortable as possible on campus? (2 p.)\n",
+            "displayNumber": "9.2"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:23.9788",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1086150,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 124,
+              "text": "By organizing social events",
+              "parent": "63fd012a-d963-4975-9915-b6c7f507b1ee",
+              "choices": []
+            },
+            {
+              "id": 125,
+              "text": "By offering a type of peer support",
+              "parent": "63fd012a-d963-4975-9915-b6c7f507b1ee",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 126,
+              "text": "By catering for individual needs",
+              "parent": "63fd012a-d963-4975-9915-b6c7f507b1ee",
+              "choices": []
+            }
+          ],
+          "uuid": "63fd012a-d963-4975-9915-b6c7f507b1ee",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2018-07-30T06:04:36.615626"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Miten ongelmaa on aiemmin yritetty ratkaista? Miten se on myöhemmin ratkaistu? (6 p.)\n",
+          "deleted_at": null,
+          "feedback": "- Aiemmin yritettiin kehittää sientä vastustavaa/sienille vastustuskykyistä maissia/sienille vastususkykyisiä (viljely)kasveja (3p)\n\n- Sienen annetaan kasvaa, mutta sitä estetään tuottamasta myrkkyä (3p)\n\n​\n\nMax 6p\n",
+          "exam_id": 29472,
+          "content": {
+            "text": "Miten ongelmaa on aiemmin yritetty ratkaista? Miten se on myöhemmin ratkaistu? (6 p.)\n",
+            "displayNumber": "12.4"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:23.980743",
+          "max_score": null,
+          "groupping": null,
+          "id": 1108189,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "967a4e39-2834-4dc4-8cbe-e5d366c0f1a1",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2018-07-30T08:40:55.928105"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "New Recruits\n\n&NewLine;\n\n**Read the text carefully and then answer the questions. Choose the best alternative for each item.**\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/kevat/EA-fi/EA-fi/attachments/index.html#q9|text=Avaa aineisto]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "New Recruits\n\n&NewLine;\n\n**Read the text carefully and then answer the questions. Choose the best alternative for each item.**\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/kevat/EA-fi/EA-fi/attachments/index.html#q9|text=Avaa aineisto]\n",
+            "questionType": "reading",
+            "displayNumber": "9."
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "fa8baf97-cf42-40d0-8324-c424a0b41234",
+            "63fd012a-d963-4975-9915-b6c7f507b1ee",
+            "177d0924-3379-4409-a1e0-cef93b451564",
+            "eadd7df6-31e4-4808-857d-f05ccebf4398",
+            "12a70e0a-11c0-451b-aacc-b4b24123b969",
+            "959fbc75-3a9c-4116-93e9-9443f8003320",
+            "b998a9c8-2ac4-4e8d-b35d-31fbec3171ac",
+            "438fd5e9-86e5-4121-99ba-9064d48688ff",
+            "3550778e-6402-4527-a8d0-62b73ebf5564"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-03T06:29:23.9849",
+          "max_score": null,
+          "groupping": null,
+          "id": 1086155,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "080b8a07-0fac-4f70-98e4-bce2c22e7bd6",
+          "order_number": 12,
+          "multipart": true,
+          "created_at": "2018-07-30T06:04:36.627817"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "In this study [GAP id=262] (_haastateltiin sataa ihmistä_) about their daily lives.\n\n​\n",
+          "deleted_at": null,
+          "feedback": "&NewLine;\n",
+          "exam_id": 29472,
+          "content": {
+            "text": "In this study [GAP id=262] (_haastateltiin sataa ihmistä_) about their daily lives.\n\n​\n",
+            "displayNumber": "16.2"
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:23.989711",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1112721,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 262,
+              "hint": "",
+              "parent": "94ebd0e7-adc9-49aa-b05b-64e1715a9109",
+              "choices": [],
+              "correct": "a hundred people were interviewed|one hundred people were interviewed|a hundred persons were interviewed|one hundred persons were interviewed",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "94ebd0e7-adc9-49aa-b05b-64e1715a9109",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2018-07-30T11:29:43.370744"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Write a composition of 700–1,300 characters on one of the topics below, following the instructions. Spaces and line breaks are not included in the character count. (99 p.)**\n\n​\n\n**Leave the three other text fields empty.**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "**Write a composition of 700–1,300 characters on one of the topics below, following the instructions. Spaces and line breaks are not included in the character count. (99 p.)**\n\n​\n\n**Leave the three other text fields empty.**\n",
+            "questionType": "writing",
+            "displayNumber": "17."
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "d0678e57-a92f-4469-97ba-c28fee122e50",
+            "316160e5-a1a7-4c1a-a715-2e20ee80fa38",
+            "803a4a6e-c002-4712-a1fa-533810454d06",
+            "5d8ef5c9-bd40-4cae-aed2-9c0cc7233807"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-03T06:29:23.99181",
+          "max_score": null,
+          "groupping": null,
+          "id": 1086183,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "1b7db03e-a71f-4da5-8c57-dd033a060f2f",
+          "order_number": 22,
+          "multipart": true,
+          "created_at": "2018-07-30T06:04:36.69386"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Robots will soon make human labour unnecessary.\n\n&NewLine;\n\nThe EU Joint Technology Initiatives wants to know young people’s views on automation. Write an essay discussing the revolution that is going on in different areas of working life from manufacturing to the care business: robots are being developed to carry out even more complex tasks and even to think for themselves. You can either pick one area, or discuss automation in general.\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/kevat/EA-fi/EA-fi/attachments/index.html#q17.2|text=Avaa aineisto]\n",
+          "deleted_at": null,
+          "feedback": "Max. 99 p.\n",
+          "exam_id": 29472,
+          "content": {
+            "text": "Robots will soon make human labour unnecessary.\n\n&NewLine;\n\nThe EU Joint Technology Initiatives wants to know young people’s views on automation. Write an essay discussing the revolution that is going on in different areas of working life from manufacturing to the care business: robots are being developed to carry out even more complex tasks and even to think for themselves. You can either pick one area, or discuss automation in general.\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/kevat/EA-fi/EA-fi/attachments/index.html#q17.2|text=Avaa aineisto]\n",
+            "displayNumber": "17.2"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:23.994199",
+          "max_score": null,
+          "groupping": null,
+          "id": 1086185,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "316160e5-a1a7-4c1a-a715-2e20ee80fa38",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2018-07-30T06:04:36.698117"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "According to the writer, what does the notion of ‘retentive mind’ translate into? (2 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "According to the writer, what does the notion of ‘retentive mind’ translate into? (2 p.)\n",
+            "displayNumber": "9.5"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:23.996197",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1099715,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 215,
+              "text": "Being knowledgeable",
+              "parent": "12a70e0a-11c0-451b-aacc-b4b24123b969",
+              "choices": []
+            },
+            {
+              "id": 216,
+              "text": "Absorbing information",
+              "parent": "12a70e0a-11c0-451b-aacc-b4b24123b969",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 217,
+              "text": "Storing every detail",
+              "parent": "12a70e0a-11c0-451b-aacc-b4b24123b969",
+              "choices": []
+            }
+          ],
+          "uuid": "12a70e0a-11c0-451b-aacc-b4b24123b969",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2018-07-30T07:58:36.537029"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What does the writer emphasize by bringing up an example of a seventeen-year-old? (2 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "What does the writer emphasize by bringing up an example of a seventeen-year-old? (2 p.)\n",
+            "displayNumber": "9.6"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.000786",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1099716,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 212,
+              "text": "Not all genders are equally witty",
+              "parent": "959fbc75-3a9c-4116-93e9-9443f8003320",
+              "choices": []
+            },
+            {
+              "id": 213,
+              "text": "Not all minds are created equal",
+              "parent": "959fbc75-3a9c-4116-93e9-9443f8003320",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 214,
+              "text": "Not all generations have equal wherewithal",
+              "parent": "959fbc75-3a9c-4116-93e9-9443f8003320",
+              "choices": []
+            }
+          ],
+          "uuid": "959fbc75-3a9c-4116-93e9-9443f8003320",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2018-07-30T07:58:36.53984"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What kind of questions did the writer pose in the entrance interviews? (2 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "What kind of questions did the writer pose in the entrance interviews? (2 p.)\n",
+            "displayNumber": "9.7"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.002899",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1099717,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 209,
+              "text": "Ones that were always fully his own inventions created on the spot",
+              "parent": "b998a9c8-2ac4-4e8d-b35d-31fbec3171ac",
+              "choices": []
+            },
+            {
+              "id": 210,
+              "text": "Ones that seemed to include elements inherited from a colleague",
+              "parent": "b998a9c8-2ac4-4e8d-b35d-31fbec3171ac",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 211,
+              "text": "Ones that tended to feature contents that interviewees are keen on",
+              "parent": "b998a9c8-2ac4-4e8d-b35d-31fbec3171ac",
+              "choices": []
+            }
+          ],
+          "uuid": "b998a9c8-2ac4-4e8d-b35d-31fbec3171ac",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2018-07-30T07:58:36.54247"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Australian Rap\n\n&NewLine;\n\nThis radio programme discusses Australian rap music. You can listen to this part twice: first straight through and then in short sections. Read the questions carefully and then listen to the recording.\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/kevat/EA-fi/EA-fi/index.html#1|text=Kuuntele aineisto täältä]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "Australian Rap\n\n&NewLine;\n\nThis radio programme discusses Australian rap music. You can listen to this part twice: first straight through and then in short sections. Read the questions carefully and then listen to the recording.\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/kevat/EA-fi/EA-fi/index.html#1|text=Kuuntele aineisto täältä]",
+            "questionType": "listening-comprehension",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "61031e20-9baa-4f1b-a074-aca1f38fc16b",
+            "6fb1583e-88e6-4403-a766-b9da990da037",
+            "7dc8fc35-3820-43f2-8539-94f868ee6cde"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-03T06:29:24.00516",
+          "max_score": null,
+          "groupping": null,
+          "id": 1924399,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "82ed2d69-27c2-4a56-a990-dde477149d48",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2020-01-10T11:18:44.756605"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "How does the writer view _University Challenge_ and _Who Wants to Be a Millionaire_? (2 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "How does the writer view _University Challenge_ and _Who Wants to Be a Millionaire_? (2 p.)\n",
+            "displayNumber": "9.4"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.018496",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1086154,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 118,
+              "text": "They do not appeal",
+              "parent": "eadd7df6-31e4-4808-857d-f05ccebf4398",
+              "choices": []
+            },
+            {
+              "id": 119,
+              "text": "They do not compare",
+              "parent": "eadd7df6-31e4-4808-857d-f05ccebf4398",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 120,
+              "text": "They do not impress",
+              "parent": "eadd7df6-31e4-4808-857d-f05ccebf4398",
+              "choices": []
+            }
+          ],
+          "uuid": "eadd7df6-31e4-4808-857d-f05ccebf4398",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2018-07-30T06:04:36.625664"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "The objective of this study was to find out what problems [GAP id=261] (_kotona asuvilla vanhuksilla on_).\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "The objective of this study was to find out what problems [GAP id=261] (_kotona asuvilla vanhuksilla on_).\n",
+            "displayNumber": "16.1"
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.023205",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1112578,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 261,
+              "hint": "",
+              "parent": "8f0639b1-f511-4154-a56e-5d803a5f903c",
+              "choices": [],
+              "correct": "the elderly living at home have|the elderly who live at home have|old people living at home have|senior citizens living at home have|old people who live at home have|senior citizens who live at home have",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "8f0639b1-f511-4154-a56e-5d803a5f903c",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2018-07-30T11:29:35.626599"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "[GAP id=235]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "[GAP id=235]\n",
+            "displayNumber": "13.5"
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.025102",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1110273,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 235,
+              "parent": "a3b2bc50-8116-4522-accf-042c4563927c",
+              "choices": [],
+              "correct": "reflect",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "a3b2bc50-8116-4522-accf-042c4563927c",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2018-07-30T08:48:25.303188"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Writing a Report\n\n​\n\n**For a school assignment you made a small-scale study that you are now reporting. Fill in the missing words in the text according to the information in parentheses. (6 p.)**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "Writing a Report\n\n​\n\n**For a school assignment you made a small-scale study that you are now reporting. Fill in the missing words in the text according to the information in parentheses. (6 p.)**\n",
+            "questionType": "grammar",
+            "displayNumber": "16"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "8f0639b1-f511-4154-a56e-5d803a5f903c",
+            "94ebd0e7-adc9-49aa-b05b-64e1715a9109",
+            "40f73821-13a2-486f-b241-50f02329a9f9"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-03T06:29:24.026656",
+          "max_score": null,
+          "groupping": null,
+          "id": 1112436,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "40ae5f1d-df40-4585-9fab-20558bd9030e",
+          "order_number": 20,
+          "multipart": true,
+          "created_at": "2018-07-30T11:29:07.115192"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "[GAP id=229]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "[GAP id=229]\n",
+            "displayNumber": "11.11"
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.029165",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1106308,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 229,
+              "parent": "2c7e8a07-8add-44b0-ba99-deed711454dd",
+              "choices": [],
+              "correct": "test|inspection|check|evaluation|inquiry|enquiry|investigation|assessment",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "2c7e8a07-8add-44b0-ba99-deed711454dd",
+          "order_number": 12,
+          "multipart": true,
+          "created_at": "2018-07-30T08:35:02.803798"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What is it that the author likes about the people of the Dales? (2 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "What is it that the author likes about the people of the Dales? (2 p.)\n",
+            "displayNumber": "8.1"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.030824",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1086135,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 133,
+              "text": "They are not too sharp in their remarks",
+              "parent": "f66fb815-9da9-442b-9246-56a5a9588cc8",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 134,
+              "text": "They are quite ready to express an opinion",
+              "parent": "f66fb815-9da9-442b-9246-56a5a9588cc8",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 135,
+              "text": "They will help you in any way they can",
+              "parent": "f66fb815-9da9-442b-9246-56a5a9588cc8",
+              "choices": []
+            }
+          ],
+          "uuid": "f66fb815-9da9-442b-9246-56a5a9588cc8",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2018-07-30T06:04:36.576664"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Which of the word choices in the second paragraph indicates the writer’s negative attitude towards the topic of the text? (2 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "Which of the word choices in the second paragraph indicates the writer’s negative attitude towards the topic of the text? (2 p.)\n",
+            "displayNumber": "11.2"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.032445",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1086163,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 103,
+              "text": "Delirium",
+              "parent": "e130b534-aed2-4e25-a3b7-f5e390965452",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 104,
+              "text": "Bubbly",
+              "parent": "e130b534-aed2-4e25-a3b7-f5e390965452",
+              "choices": []
+            },
+            {
+              "id": 105,
+              "text": "Mindfulness",
+              "parent": "e130b534-aed2-4e25-a3b7-f5e390965452",
+              "choices": []
+            }
+          ],
+          "uuid": "e130b534-aed2-4e25-a3b7-f5e390965452",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2018-07-30T06:04:36.645302"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Which of the following best describes the railway line? (2 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "Which of the following best describes the railway line? (2 p.)\n",
+            "displayNumber": "8.2"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.037267",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1086153,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 130,
+              "text": "Striking but superfluous",
+              "parent": "1ec98aa2-d005-404a-834c-03cde0feb183",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 131,
+              "text": "Plain and pointless",
+              "parent": "1ec98aa2-d005-404a-834c-03cde0feb183",
+              "choices": []
+            },
+            {
+              "id": 132,
+              "text": "Unattractive though useful",
+              "parent": "1ec98aa2-d005-404a-834c-03cde0feb183",
+              "choices": []
+            }
+          ],
+          "uuid": "1ec98aa2-d005-404a-834c-03cde0feb183",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2018-07-30T06:04:36.623533"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What does ‘fey’ choice mean in this context? (2 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "What does ‘fey’ choice mean in this context? (2 p.)\n",
+            "displayNumber": "10.2"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.039729",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1086137,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 112,
+              "text": "Too feminine",
+              "parent": "19ca17bc-47a9-4531-82cc-5a558fdf134e",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 113,
+              "text": "Too elitist",
+              "parent": "19ca17bc-47a9-4531-82cc-5a558fdf134e",
+              "choices": []
+            },
+            {
+              "id": 114,
+              "text": "Too costly",
+              "parent": "19ca17bc-47a9-4531-82cc-5a558fdf134e",
+              "choices": []
+            }
+          ],
+          "uuid": "19ca17bc-47a9-4531-82cc-5a558fdf134e",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2018-07-30T06:04:36.580909"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Which feature of contrails can be used in weather forecasting?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "Which feature of contrails can be used in weather forecasting?\n",
+            "displayNumber": "6.4."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.041681",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1925797,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 279,
+              "text": "Their saturation level",
+              "parent": "558fd0df-1fa5-4946-b6be-e43e8224e7db",
+              "choices": []
+            },
+            {
+              "id": 280,
+              "text": "Their height in the atmosphere",
+              "parent": "558fd0df-1fa5-4946-b6be-e43e8224e7db",
+              "choices": []
+            },
+            {
+              "id": 281,
+              "text": "Their visible life span",
+              "parent": "558fd0df-1fa5-4946-b6be-e43e8224e7db",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "558fd0df-1fa5-4946-b6be-e43e8224e7db",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2020-01-10T11:35:28.673931"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**PART II Reading Comprehension**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "**PART II Reading Comprehension**\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-03T06:29:24.043696",
+          "max_score": null,
+          "groupping": null,
+          "id": 1530470,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "29749a1c-89ad-44c4-86ad-48c49e872833",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2019-07-30T11:55:44.359288"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "As in many other [GAP id=263] (_Suomessa tehdyissä tutkimuksissa_), loneliness emerged as the most frequent problem with these people.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "As in many other [GAP id=263] (_Suomessa tehdyissä tutkimuksissa_), loneliness emerged as the most frequent problem with these people.\n",
+            "displayNumber": "16.3"
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.046494",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1112865,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 263,
+              "parent": "40f73821-13a2-486f-b241-50f02329a9f9",
+              "choices": [],
+              "correct": "studies made in Finland|research projects made in Finland|studies conducted in Finland|studies carried out in Finland|studies done in Finland|research projects conducted in Finland|research projects carried out in Finland|research projects done in Finland | researches made in Finland | researches done in Finland",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "40f73821-13a2-486f-b241-50f02329a9f9",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2018-07-30T11:30:04.509271"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What do contrails consist of?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "What do contrails consist of?\n",
+            "displayNumber": "6.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.048658",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1925799,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 279,
+              "text": "Water and condensed particles",
+              "parent": "834ff268-f7eb-44c8-909e-80004283800e",
+              "choices": []
+            },
+            {
+              "id": 280,
+              "text": "Water and dust molecules",
+              "parent": "834ff268-f7eb-44c8-909e-80004283800e",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 281,
+              "text": "Water in the form of vapor",
+              "parent": "834ff268-f7eb-44c8-909e-80004283800e",
+              "choices": []
+            }
+          ],
+          "uuid": "834ff268-f7eb-44c8-909e-80004283800e",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2020-01-10T11:35:28.680715"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What made Allport attempt to cancel the project? (2 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "What made Allport attempt to cancel the project? (2 p.)\n",
+            "displayNumber": "8.3"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.051122",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1097070,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 194,
+              "text": "He realised he could never get a loan for it",
+              "parent": "902070e1-44c3-47d8-bc07-3e43048f35b4",
+              "choices": []
+            },
+            {
+              "id": 195,
+              "text": "He realised the terrain was too challenging",
+              "parent": "902070e1-44c3-47d8-bc07-3e43048f35b4",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 196,
+              "text": "He realised there wouldn’t be enough passengers",
+              "parent": "902070e1-44c3-47d8-bc07-3e43048f35b4",
+              "choices": []
+            }
+          ],
+          "uuid": "902070e1-44c3-47d8-bc07-3e43048f35b4",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2018-07-30T07:26:53.434781"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What was found to be convincing?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "What was found to be convincing?\n",
+            "displayNumber": "2.4."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.053523",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1924611,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 267,
+              "text": "Making breaks in utterances",
+              "parent": "dcdadc11-7233-479a-90e9-ac884876de3a",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 268,
+              "text": "Talking at a brisk pace",
+              "parent": "dcdadc11-7233-479a-90e9-ac884876de3a",
+              "choices": []
+            },
+            {
+              "id": 269,
+              "text": "Having a natural intonation",
+              "parent": "dcdadc11-7233-479a-90e9-ac884876de3a",
+              "choices": []
+            }
+          ],
+          "uuid": "dcdadc11-7233-479a-90e9-ac884876de3a",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2020-01-10T11:21:08.107705"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What kind of prejudice does Brian Eno talk about?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "What kind of prejudice does Brian Eno talk about?\n",
+            "displayNumber": "3.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.055193",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1924846,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 270,
+              "text": "Prejudice against intelligent art audience",
+              "parent": "67fbbc91-439b-40a1-95fa-a976523e882a",
+              "choices": []
+            },
+            {
+              "id": 271,
+              "text": "Prejudice against artists who express their wit",
+              "parent": "67fbbc91-439b-40a1-95fa-a976523e882a",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 272,
+              "text": "Prejudice against art critics who try to be smart",
+              "parent": "67fbbc91-439b-40a1-95fa-a976523e882a",
+              "choices": []
+            }
+          ],
+          "uuid": "67fbbc91-439b-40a1-95fa-a976523e882a",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2020-01-10T11:24:34.738723"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Your school is organizing a theme week on Active Citizenship. You’ve been asked to give a talk on how one person can make a difference and change the world.\n\n&NewLine;\n\nIf you wish, you can use Billy Bragg’s song Never Buy the Sun as an inspiration. He didn’t like the way The Sun newspaper wrote about the Hillsborough disaster, and he wrote a song about it.\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/kevat/EA-fi/EA-fi/attachments/index.html#q17.4|text=Avaa aineisto]\n\n&NewLine;\n\nWrite your talk.\n",
+          "deleted_at": null,
+          "feedback": "Max. 99 p.\n",
+          "exam_id": 29472,
+          "content": {
+            "text": "Your school is organizing a theme week on Active Citizenship. You’ve been asked to give a talk on how one person can make a difference and change the world.\n\n&NewLine;\n\nIf you wish, you can use Billy Bragg’s song Never Buy the Sun as an inspiration. He didn’t like the way The Sun newspaper wrote about the Hillsborough disaster, and he wrote a song about it.\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/kevat/EA-fi/EA-fi/attachments/index.html#q17.4|text=Avaa aineisto]\n\n&NewLine;\n\nWrite your talk.\n",
+            "displayNumber": "17.4"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.057088",
+          "max_score": null,
+          "groupping": null,
+          "id": 1086187,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "5d8ef5c9-bd40-4cae-aed2-9c0cc7233807",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2018-07-30T06:04:36.70232"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What does Mark Rickards say about rap in Australia?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "What does Mark Rickards say about rap in Australia?\n",
+            "displayNumber": "1.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.05918",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1924402,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 264,
+              "text": "It is a channel used to express political messages as well as love stories",
+              "parent": "7dc8fc35-3820-43f2-8539-94f868ee6cde",
+              "choices": []
+            },
+            {
+              "id": 265,
+              "text": "It is being used by the aboriginal youth everywhere in the country",
+              "parent": "7dc8fc35-3820-43f2-8539-94f868ee6cde",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 266,
+              "text": "It is in competition with other musical genres in some communities",
+              "parent": "7dc8fc35-3820-43f2-8539-94f868ee6cde",
+              "choices": []
+            }
+          ],
+          "uuid": "7dc8fc35-3820-43f2-8539-94f868ee6cde",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2020-01-10T11:18:44.764947"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Why has Joe only now started looking for the man who saved his life? \n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "Why has Joe only now started looking for the man who saved his life? \n",
+            "displayNumber": "5.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.061103",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1925429,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 276,
+              "text": "He heard that someone had found him",
+              "parent": "96386752-7ee3-42d2-a89c-89f74598379f",
+              "choices": []
+            },
+            {
+              "id": 277,
+              "text": "He is now mature enough to deal with it",
+              "parent": "96386752-7ee3-42d2-a89c-89f74598379f",
+              "choices": []
+            },
+            {
+              "id": 278,
+              "text": "He recently saw him on television",
+              "parent": "96386752-7ee3-42d2-a89c-89f74598379f",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "96386752-7ee3-42d2-a89c-89f74598379f",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2020-01-10T11:31:44.989728"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "How do whole plant foods help people?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "How do whole plant foods help people?\n",
+            "displayNumber": "4.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.063274",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1925088,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 273,
+              "text": "They help in maintaining balance",
+              "parent": "392e790a-b3c9-4858-bd35-8d32fb1ff8ae",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 274,
+              "text": "They help in preventing illnesses",
+              "parent": "392e790a-b3c9-4858-bd35-8d32fb1ff8ae",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 275,
+              "text": "They help in losing weight",
+              "parent": "392e790a-b3c9-4858-bd35-8d32fb1ff8ae",
+              "choices": []
+            }
+          ],
+          "uuid": "392e790a-b3c9-4858-bd35-8d32fb1ff8ae",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2020-01-10T11:28:00.194367"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "How are cirrus clouds connected to contrails?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "How are cirrus clouds connected to contrails?\n",
+            "displayNumber": "6.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.06567",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1925800,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 279,
+              "text": "Contrails are condensed cirrus clouds",
+              "parent": "fcd54397-c75b-45ec-b637-f77369dfa490",
+              "choices": []
+            },
+            {
+              "id": 280,
+              "text": "Contrails can develop into cirrus clouds",
+              "parent": "fcd54397-c75b-45ec-b637-f77369dfa490",
+              "choices": []
+            },
+            {
+              "id": 281,
+              "text": "Contrails actually are cirrus clouds",
+              "parent": "fcd54397-c75b-45ec-b637-f77369dfa490",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "fcd54397-c75b-45ec-b637-f77369dfa490",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2020-01-10T11:35:28.683459"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**PART III  Grammar and Vocabulary**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "**PART III  Grammar and Vocabulary**\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-03T06:29:24.067575",
+          "max_score": null,
+          "groupping": null,
+          "id": 1086188,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "1470e1f8-633d-4e60-8694-8aa2b34b04a6",
+          "order_number": 16,
+          "multipart": true,
+          "created_at": "2018-07-30T06:04:36.704418"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mutiny\n\n&NewLine;\n\n**Fill in the blanks using suggestions given. (15 p.)**\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/kevat/EA-fi/EA-fi/attachments/index.html#q15|text=Avaa aineisto]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "Mutiny\n\n&NewLine;\n\n**Fill in the blanks using suggestions given. (15 p.)**\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/kevat/EA-fi/EA-fi/attachments/index.html#q15|text=Avaa aineisto]\n",
+            "questionType": "grammar",
+            "displayNumber": "15."
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "dc187c18-21ca-4a28-af15-ea806e84363b"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-03T06:29:24.072705",
+          "max_score": null,
+          "groupping": null,
+          "id": 1110616,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "7f609f28-cf50-4768-9c0e-ffbb5ef5ab67",
+          "order_number": 19,
+          "multipart": true,
+          "created_at": "2018-07-30T09:48:17.364909"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "The Road to Little Dribbling\n\n&NewLine;\n\n**Read the text carefully and then answer the questions. Choose the best alternative for each item.**\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/kevat/EA-fi/EA-fi/attachments/index.html#q8|text=Avaa aineisto]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "The Road to Little Dribbling\n\n&NewLine;\n\n**Read the text carefully and then answer the questions. Choose the best alternative for each item.**\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/kevat/EA-fi/EA-fi/attachments/index.html#q8|text=Avaa aineisto]\n",
+            "questionType": "reading",
+            "displayNumber": "8."
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "f66fb815-9da9-442b-9246-56a5a9588cc8",
+            "1ec98aa2-d005-404a-834c-03cde0feb183",
+            "902070e1-44c3-47d8-bc07-3e43048f35b4",
+            "4390e3f8-a69c-4b6a-b38e-ef02c78fa949",
+            "02116f69-9bcf-469e-8f5b-3dcecf4a695b"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-03T06:29:24.074626",
+          "max_score": null,
+          "groupping": null,
+          "id": 1086152,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "bead52c0-5818-413f-9253-91c3dfd04f28",
+          "order_number": 11,
+          "multipart": true,
+          "created_at": "2018-07-30T06:04:36.621387"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "How has hip hop changed over the years?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "How has hip hop changed over the years?\n",
+            "displayNumber": "1.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.076593",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1924400,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 264,
+              "text": "It is still the same, but with different options for production",
+              "parent": "61031e20-9baa-4f1b-a074-aca1f38fc16b",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 265,
+              "text": "It is now accessible to a narrower range of people than before",
+              "parent": "61031e20-9baa-4f1b-a074-aca1f38fc16b",
+              "choices": []
+            },
+            {
+              "id": 266,
+              "text": "It is more accessible to the older generations these days",
+              "parent": "61031e20-9baa-4f1b-a074-aca1f38fc16b",
+              "choices": []
+            }
+          ],
+          "uuid": "61031e20-9baa-4f1b-a074-aca1f38fc16b",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2020-01-10T11:18:44.759497"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What is common to the two companies _Delivering Happiness_ and _Plasticity Labs_? (2 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "What is common to the two companies _Delivering Happiness_ and _Plasticity Labs_? (2 p.)\n",
+            "displayNumber": "11.3"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.07875",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1086164,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 100,
+              "text": "They operate in the health-care business",
+              "parent": "4e7ab1ed-6253-4a84-b1b6-88619c7e67b3",
+              "choices": []
+            },
+            {
+              "id": 101,
+              "text": "They have their origins in another company",
+              "parent": "4e7ab1ed-6253-4a84-b1b6-88619c7e67b3",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 102,
+              "text": "They do research on customer behaviour",
+              "parent": "4e7ab1ed-6253-4a84-b1b6-88619c7e67b3",
+              "choices": []
+            }
+          ],
+          "uuid": "4e7ab1ed-6253-4a84-b1b6-88619c7e67b3",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2018-07-30T06:04:36.64744"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mitä lentokoneelle tapahtui, ja miksi Teddy ajatteli balettia lentäessään? Vastaa lyhyesti suomeksi. (6 p.)\n",
+          "deleted_at": null,
+          "feedback": "- Lentokone joutui ukkospilveen/-myrskyyn (3p)\n\n- Salamoinnin sininen valo toi hänen mieleensä lapsuudessa nähdyn baletin (3p)\n\n​\n\nMax 6p\n",
+          "exam_id": 29472,
+          "content": {
+            "text": "Mitä lentokoneelle tapahtui, ja miksi Teddy ajatteli balettia lentäessään? Vastaa lyhyesti suomeksi. (6 p.)\n",
+            "displayNumber": "10.1"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.080624",
+          "max_score": null,
+          "groupping": null,
+          "id": 1101863,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "e7a22b75-5818-43a5-b41f-047445bb4ff7",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2018-07-30T08:06:20.096582"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "A God in Ruins\n\n&NewLine;\n\n**Read the text carefully and then answer the questions.**\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/kevat/EA-fi/EA-fi/attachments/index.html#q10|text=Avaa aineisto]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "A God in Ruins\n\n&NewLine;\n\n**Read the text carefully and then answer the questions.**\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/kevat/EA-fi/EA-fi/attachments/index.html#q10|text=Avaa aineisto]\n",
+            "questionType": "reading",
+            "displayNumber": "10."
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "19ca17bc-47a9-4531-82cc-5a558fdf134e",
+            "e7a22b75-5818-43a5-b41f-047445bb4ff7"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-03T06:29:24.083089",
+          "max_score": null,
+          "groupping": null,
+          "id": 1086196,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "553b84e5-aa7d-4363-92ff-952cb3894be2",
+          "order_number": 13,
+          "multipart": true,
+          "created_at": "2018-07-30T06:04:36.721378"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**PART I Listening Comprehension**\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/kevat/EA-fi/EA-fi/index.html|text=Kuuntele aineistot täältä]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "**PART I Listening Comprehension**\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/kevat/EA-fi/EA-fi/index.html|text=Kuuntele aineistot täältä]\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-03T06:29:24.084927",
+          "max_score": null,
+          "groupping": null,
+          "id": 1086202,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "f1e03c1c-e9cd-4cbb-905c-528de9132518",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2018-07-30T06:04:36.73442"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "It’s a small world. This is a point we often make when we realise, for instance, that we have something in common with a new acquaintance, or when we experience something we have faced before. Write a blog post on how you have noticed that it is indeed a small world.\n\n​\n\n[IMS id=39-5009945b61ba59c01f9]\n",
+          "deleted_at": null,
+          "feedback": "Max. 99 p.\n",
+          "exam_id": 29472,
+          "content": {
+            "text": "It’s a small world. This is a point we often make when we realise, for instance, that we have something in common with a new acquaintance, or when we experience something we have faced before. Write a blog post on how you have noticed that it is indeed a small world.\n\n​\n\n[IMS id=39-5009945b61ba59c01f9]\n",
+            "displayNumber": "17.3"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.086837",
+          "max_score": null,
+          "groupping": null,
+          "id": 1086186,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "803a4a6e-c002-4712-a1fa-533810454d06",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2018-07-30T06:04:36.700224"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "[GAP id=230]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "[GAP id=230]\n",
+            "displayNumber": "11.12"
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.088878",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1106309,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 230,
+              "parent": "099167cf-c5e7-4d09-8108-35e0cbf4f82a",
+              "choices": [],
+              "correct": "bonus|prize|reward|gift|perk|raise",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "099167cf-c5e7-4d09-8108-35e0cbf4f82a",
+          "order_number": 13,
+          "multipart": true,
+          "created_at": "2018-07-30T08:35:02.806511"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mitä erikoista levysoittimella soitetaan, ja miten musiikki saadaan aikaiseksi? (6 p.)\n",
+          "deleted_at": null,
+          "feedback": "- Saarnen/puun vuosirenkaita/puukiekkoa/vuosirengasdataa (3p)\n\n- Siitä luettu data välitetään musiikinteko-ohjelmaan (3p)\n\n​\n\nMax 6p\n",
+          "exam_id": 29472,
+          "content": {
+            "text": "Mitä erikoista levysoittimella soitetaan, ja miten musiikki saadaan aikaiseksi? (6 p.)\n",
+            "displayNumber": "12.1"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.091719",
+          "max_score": null,
+          "groupping": null,
+          "id": 1108186,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "9ddf30fc-e4f5-4512-89d5-5dbc54c33080",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2018-07-30T08:40:55.921429"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "[GAP id=232]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "[GAP id=232]\n",
+            "displayNumber": "13.2"
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.094634",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1109871,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 232,
+              "parent": "98b97204-555d-422a-a06e-50024d3e97ee",
+              "choices": [],
+              "correct": "cleared",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "98b97204-555d-422a-a06e-50024d3e97ee",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2018-07-30T08:47:57.985462"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "[GAP id=234]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "[GAP id=234]\n",
+            "displayNumber": "13.4"
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.098225",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1110138,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 234,
+              "parent": "e05bb45b-049f-48f6-9208-f989b14971f2",
+              "choices": [],
+              "correct": "struck",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "e05bb45b-049f-48f6-9208-f989b14971f2",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2018-07-30T08:48:11.409728"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Fill in the blanks in the final paragraph of the text. Use words that make the most sense on the basis of the whole text. Write only ONE word in each gap. (5 x 2 p.)**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "**Fill in the blanks in the final paragraph of the text. Use words that make the most sense on the basis of the whole text. Write only ONE word in each gap. (5 x 2 p.)**\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.102785",
+          "max_score": null,
+          "groupping": null,
+          "id": 1104269,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "af4e55f0-ca18-41a4-b258-2fbcdcd6ed98",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2018-07-30T08:23:46.975044"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**PART IV  Production**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "**PART IV  Production**\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-03T06:29:24.104605",
+          "max_score": null,
+          "groupping": null,
+          "id": 1086190,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "9b665dcc-c45b-4580-a964-765e303d52a4",
+          "order_number": 21,
+          "multipart": true,
+          "created_at": "2018-07-30T06:04:36.70872"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mitä puutarhurit tekevät puille ja miksi?\n",
+          "deleted_at": null,
+          "feedback": "–  Irrottavat keltaiset lehdet puista (3 p.)\n\n– Se säästää aikaa\n",
+          "exam_id": 29472,
+          "content": {
+            "text": "Mitä puutarhurit tekevät puille ja miksi?\n",
+            "displayNumber": "7.1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.109372",
+          "max_score": null,
+          "groupping": null,
+          "id": 1926190,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "6d7880e7-5e09-4c23-bed4-8d1bcb980edd",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2020-01-10T11:39:09.267201"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mitkä kaksi asiaa tutkijat saivat selville siperiansarvikuonosta? \n",
+          "deleted_at": null,
+          "feedback": "– Se kuoli sukupuuttoon luultua myöhemmin (3 p.)\n\n– Se eli yhtä aikaa / jakoi elinympäristön nykyihmisen kanssa (3 p.)\n",
+          "exam_id": 29472,
+          "content": {
+            "text": "Mitkä kaksi asiaa tutkijat saivat selville siperiansarvikuonosta? \n",
+            "displayNumber": "7.4."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.111311",
+          "max_score": null,
+          "groupping": null,
+          "id": 1926187,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "3e3d6bc1-f566-496b-828e-c868077dbac3",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2020-01-10T11:39:09.259845"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mitä Pohjois-Walesin rannikkovesistössä oli tapahtunut, ja mitä siitä oli seurannut? \n",
+          "deleted_at": null,
+          "feedback": "– Meriheinä oli vahingoittunut (3 p.)\n\n– Kalalajit olivat vähentyneet / Kalakannat olivat pienentyneet (3 p.)\n",
+          "exam_id": 29472,
+          "content": {
+            "text": "Mitä Pohjois-Walesin rannikkovesistössä oli tapahtunut, ja mitä siitä oli seurannut? \n",
+            "displayNumber": "7.3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.113026",
+          "max_score": null,
+          "groupping": null,
+          "id": 1926188,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "bd47bd07-0d86-4812-8b23-0f2d4af15414",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2020-01-10T11:39:09.262422"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Millä välineellä keksijä liikkui? Mikä oli onnettomuuden syy (2 asiaa)?\n",
+          "deleted_at": null,
+          "feedback": "– Moottoroidulla keinutuolilla \n\n– Liika keinuminen / Suuri nopeus / Hallinnan menetys\n",
+          "exam_id": 29472,
+          "content": {
+            "text": "Millä välineellä keksijä liikkui? Mikä oli onnettomuuden syy (2 asiaa)?\n",
+            "displayNumber": "7.2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.11475",
+          "max_score": null,
+          "groupping": null,
+          "id": 1926189,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "1b9d581d-84c1-40bd-886a-696b77967e95",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2020-01-10T11:39:09.264677"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mitä sähköpostiviestien avulla tutkittiin, ja mitä tutkimus osoitti?\n",
+          "deleted_at": null,
+          "feedback": "– Ihmisten reaktioita kielivirheisiin \n\n– Introvertit suhtautuivat virheitä tekeviin negatiivisemmin kuin ekstrovertit\n",
+          "exam_id": 29472,
+          "content": {
+            "text": "Mitä sähköpostiviestien avulla tutkittiin, ja mitä tutkimus osoitti?\n",
+            "displayNumber": "7.5."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.116916",
+          "max_score": null,
+          "groupping": null,
+          "id": 1926186,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "3dd6b351-0bdb-4d5d-b724-0a2267201c47",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2020-01-10T11:39:09.257403"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What sometimes causes airplanes to not leave contrails at all? \n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "What sometimes causes airplanes to not leave contrails at all? \n",
+            "displayNumber": "6.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.118644",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1925798,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 279,
+              "text": "Rapid changes in the state of water",
+              "parent": "02763ccd-0edd-4b0d-bfab-fc63a4f15b8b",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 280,
+              "text": "Certain air pressure in the atmosphere",
+              "parent": "02763ccd-0edd-4b0d-bfab-fc63a4f15b8b",
+              "choices": []
+            },
+            {
+              "id": 281,
+              "text": "High levels of humidity in the air",
+              "parent": "02763ccd-0edd-4b0d-bfab-fc63a4f15b8b",
+              "choices": []
+            }
+          ],
+          "uuid": "02763ccd-0edd-4b0d-bfab-fc63a4f15b8b",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2020-01-10T11:35:28.676659"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mistä kahdesta syystä tämän kierrätysmateriaalin käyttö eri tuotteissa on ekologista? (6 p.)\n",
+          "deleted_at": null,
+          "feedback": "- Se vähentää fosfori- ja typpipäästöjä (3p)\n\n- Tuotteet ovat biohajoavia (3p)\n\n​\n\nMax 6p\n",
+          "exam_id": 29472,
+          "content": {
+            "text": "Mistä kahdesta syystä tämän kierrätysmateriaalin käyttö eri tuotteissa on ekologista? (6 p.)\n",
+            "displayNumber": "12.2"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.121516",
+          "max_score": null,
+          "groupping": null,
+          "id": 1108187,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "13045ea2-e243-4d58-8a13-6006776cae85",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2018-07-30T08:40:55.923799"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Wheels\n\n​\n\n**Read the text carefully and for each item choose the alternative that best fits the context. (5 p.)**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "Wheels\n\n​\n\n**Read the text carefully and for each item choose the alternative that best fits the context. (5 p.)**\n",
+            "questionType": "grammar",
+            "displayNumber": "14."
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "549bfc63-fbed-4c72-b652-906b87071be4"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-03T06:29:24.123945",
+          "max_score": null,
+          "groupping": null,
+          "id": 1086175,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "f41de3ff-3b5f-4817-b40d-b4871cbf49b3",
+          "order_number": 18,
+          "multipart": true,
+          "created_at": "2018-07-30T06:04:36.671293"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What did the critics accuse him of?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "What did the critics accuse him of?\n",
+            "displayNumber": "3.4."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.126326",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1924843,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 270,
+              "text": "Not knowing his place",
+              "parent": "14db571b-90aa-458e-b9d8-08541e102f05",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 271,
+              "text": "Not realising his popularity",
+              "parent": "14db571b-90aa-458e-b9d8-08541e102f05",
+              "choices": []
+            },
+            {
+              "id": 272,
+              "text": "Not representing himself well",
+              "parent": "14db571b-90aa-458e-b9d8-08541e102f05",
+              "choices": []
+            }
+          ],
+          "uuid": "14db571b-90aa-458e-b9d8-08541e102f05",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2020-01-10T11:24:34.729572"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "How were persuasion skills studied?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "How were persuasion skills studied?\n",
+            "displayNumber": "2.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.128295",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1924613,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 267,
+              "text": "By looking at survey responses",
+              "parent": "8a3890ba-68d3-4bd3-b7df-623241a9ff04",
+              "choices": []
+            },
+            {
+              "id": 268,
+              "text": "By interviewing 100 people",
+              "parent": "8a3890ba-68d3-4bd3-b7df-623241a9ff04",
+              "choices": []
+            },
+            {
+              "id": 269,
+              "text": "By examining taped phone calls",
+              "parent": "8a3890ba-68d3-4bd3-b7df-623241a9ff04",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "8a3890ba-68d3-4bd3-b7df-623241a9ff04",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2020-01-10T11:21:08.113167"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "[GAP id=227]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "[GAP id=227]\n",
+            "displayNumber": "11.10"
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.130862",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1106307,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 227,
+              "parent": "b135f27c-dd3c-48c1-93c7-187161756bf7",
+              "choices": [],
+              "correct": "contact",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "b135f27c-dd3c-48c1-93c7-187161756bf7",
+          "order_number": 11,
+          "multipart": true,
+          "created_at": "2018-07-30T08:35:02.80107"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Which best describes the way the writer assessed the prospective students? (2 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "Which best describes the way the writer assessed the prospective students? (2 p.)\n",
+            "displayNumber": "9.8"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.132695",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1099718,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 206,
+              "text": "He tried to aid them in bringing out their best",
+              "parent": "438fd5e9-86e5-4121-99ba-9064d48688ff",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 207,
+              "text": "He used to overlook their particular talent",
+              "parent": "438fd5e9-86e5-4121-99ba-9064d48688ff",
+              "choices": []
+            },
+            {
+              "id": 208,
+              "text": "He wanted them to realize their shortcomings",
+              "parent": "438fd5e9-86e5-4121-99ba-9064d48688ff",
+              "choices": [],
+              "correct": false
+            }
+          ],
+          "uuid": "438fd5e9-86e5-4121-99ba-9064d48688ff",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2018-07-30T07:58:36.545015"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What did Ron Kitaj do?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "What did Ron Kitaj do?\n",
+            "displayNumber": "3.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.134613",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1924844,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 270,
+              "text": "He performed tasks normally done by others",
+              "parent": "551b1855-8126-41dc-9059-02f6b771118e",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 271,
+              "text": "He published criticism of his own exhibition",
+              "parent": "551b1855-8126-41dc-9059-02f6b771118e",
+              "choices": []
+            },
+            {
+              "id": 272,
+              "text": "He signed all the cards describing his work",
+              "parent": "551b1855-8126-41dc-9059-02f6b771118e",
+              "choices": []
+            }
+          ],
+          "uuid": "551b1855-8126-41dc-9059-02f6b771118e",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2020-01-10T11:24:34.73284"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "How does Brian Eno relate to the claim that artists should be passionate and inarticulate? \n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "How does Brian Eno relate to the claim that artists should be passionate and inarticulate? \n",
+            "displayNumber": "3.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.137029",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1924845,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 270,
+              "text": "He discredits its rationale",
+              "parent": "a4b0809d-a3e6-4424-9569-38b4070c79f4",
+              "choices": []
+            },
+            {
+              "id": 271,
+              "text": "He doubts its validity",
+              "parent": "a4b0809d-a3e6-4424-9569-38b4070c79f4",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 272,
+              "text": "He ponders its implications",
+              "parent": "a4b0809d-a3e6-4424-9569-38b4070c79f4",
+              "choices": []
+            }
+          ],
+          "uuid": "a4b0809d-a3e6-4424-9569-38b4070c79f4",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2020-01-10T11:24:34.735775"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Why does the writer of the column compare him/herself with Lord Percy of Newcastle? (2 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "Why does the writer of the column compare him/herself with Lord Percy of Newcastle? (2 p.)\n",
+            "displayNumber": "11.1"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.138744",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1086166,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 106,
+              "text": "They are both concerned about the mismatch between education and working life",
+              "parent": "494f353e-faa1-4232-8a63-ec9e33282451",
+              "choices": []
+            },
+            {
+              "id": 107,
+              "text": "They are both critical of a particularly fashionable trend in society",
+              "parent": "494f353e-faa1-4232-8a63-ec9e33282451",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 108,
+              "text": "He/she is worried that an outdated management theory is becoming popular again",
+              "parent": "494f353e-faa1-4232-8a63-ec9e33282451",
+              "choices": []
+            }
+          ],
+          "uuid": "494f353e-faa1-4232-8a63-ec9e33282451",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2018-07-30T06:04:36.651871"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Why doesn’t research affect consumer behavior?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "Why doesn’t research affect consumer behavior?\n",
+            "displayNumber": "4.4."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.143945",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1925085,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 273,
+              "text": "The studies remain unpublished",
+              "parent": "800f0aba-e562-43a6-a544-783a3fdfcd51",
+              "choices": []
+            },
+            {
+              "id": 274,
+              "text": "The effects of the pills are too slow",
+              "parent": "800f0aba-e562-43a6-a544-783a3fdfcd51",
+              "choices": []
+            },
+            {
+              "id": 275,
+              "text": "People choose to ignore the results",
+              "parent": "800f0aba-e562-43a6-a544-783a3fdfcd51",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "800f0aba-e562-43a6-a544-783a3fdfcd51",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2020-01-10T11:28:00.185263"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "How was Joe saved? \n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "How was Joe saved? \n",
+            "displayNumber": "5.4."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.148294",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1925428,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 276,
+              "text": "He was hoisted across a barrier",
+              "parent": "7ee14b82-ee03-40f4-b10d-a4f89c479448",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 277,
+              "text": "He was ushered through the gate",
+              "parent": "7ee14b82-ee03-40f4-b10d-a4f89c479448",
+              "choices": []
+            },
+            {
+              "id": 278,
+              "text": "He was led by hand to safety",
+              "parent": "7ee14b82-ee03-40f4-b10d-a4f89c479448",
+              "choices": []
+            }
+          ],
+          "uuid": "7ee14b82-ee03-40f4-b10d-a4f89c479448",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2020-01-10T11:31:44.986258"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What does Joe expect from the meeting? \n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "What does Joe expect from the meeting? \n",
+            "displayNumber": "5.6."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.150264",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1925426,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 276,
+              "text": "To reach an agreement",
+              "parent": "2d0efb5e-410a-4453-992c-b457ba851b90",
+              "choices": []
+            },
+            {
+              "id": 277,
+              "text": "To find emotional peace",
+              "parent": "2d0efb5e-410a-4453-992c-b457ba851b90",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 278,
+              "text": "To reminisce about past events",
+              "parent": "2d0efb5e-410a-4453-992c-b457ba851b90",
+              "choices": []
+            }
+          ],
+          "uuid": "2d0efb5e-410a-4453-992c-b457ba851b90",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2020-01-10T11:31:44.980419"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Who was mainly to blame for the disaster? \n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "Who was mainly to blame for the disaster? \n",
+            "displayNumber": "5.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.152071",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1925430,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 276,
+              "text": "Unruly spectators",
+              "parent": "59e6a531-9442-4be6-b482-058f8d50c9a8",
+              "choices": []
+            },
+            {
+              "id": 277,
+              "text": "A law enforcement officer",
+              "parent": "59e6a531-9442-4be6-b482-058f8d50c9a8",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 278,
+              "text": "One of the referees",
+              "parent": "59e6a531-9442-4be6-b482-058f8d50c9a8",
+              "choices": []
+            }
+          ],
+          "uuid": "59e6a531-9442-4be6-b482-058f8d50c9a8",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2020-01-10T11:31:44.992487"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "[GAP id=228]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "[GAP id=228]\n",
+            "displayNumber": "11.9"
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.154115",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1106306,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 228,
+              "parent": "82c70b28-8829-4570-881f-b684d71f2f5c",
+              "choices": [],
+              "correct": "rule|regulation|ruling|guideline",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "82c70b28-8829-4570-881f-b684d71f2f5c",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2018-07-30T08:35:02.798353"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "[GAP id=226]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "[GAP id=226]\n",
+            "displayNumber": "11.8"
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.156025",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1106305,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 226,
+              "parent": "8ebc12b7-4e6e-46b5-94c4-515f7c48b988",
+              "choices": [],
+              "correct": "happiness",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "8ebc12b7-4e6e-46b5-94c4-515f7c48b988",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2018-07-30T08:35:02.795548"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What kind of dress code did the applicants have in the Oxford entrance interviews? (2 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "What kind of dress code did the applicants have in the Oxford entrance interviews? (2 p.)\n",
+            "displayNumber": "9.1"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.158393",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1086148,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 127,
+              "text": "Quite formal",
+              "parent": "fa8baf97-cf42-40d0-8324-c424a0b41234",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 128,
+              "text": "Very relaxed",
+              "parent": "fa8baf97-cf42-40d0-8324-c424a0b41234",
+              "choices": []
+            },
+            {
+              "id": 129,
+              "text": "Too casual",
+              "parent": "fa8baf97-cf42-40d0-8324-c424a0b41234",
+              "choices": []
+            }
+          ],
+          "uuid": "fa8baf97-cf42-40d0-8324-c424a0b41234",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2018-07-30T06:04:36.611391"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What was unexpected about the pitch?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "What was unexpected about the pitch?\n",
+            "displayNumber": "2.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.160476",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1924612,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 267,
+              "text": "The height of the voice was deemed irrelevant",
+              "parent": "d5137f22-c364-42cd-8d50-e8f871aeeb17",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 268,
+              "text": "A monotonous voice was less convincing",
+              "parent": "d5137f22-c364-42cd-8d50-e8f871aeeb17",
+              "choices": []
+            },
+            {
+              "id": 269,
+              "text": "Fluctuation in the voice was considered ineffective",
+              "parent": "d5137f22-c364-42cd-8d50-e8f871aeeb17",
+              "choices": []
+            }
+          ],
+          "uuid": "d5137f22-c364-42cd-8d50-e8f871aeeb17",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2020-01-10T11:21:08.110431"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What has Campbell found out?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "What has Campbell found out?\n",
+            "displayNumber": "4.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.162302",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1925086,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 273,
+              "text": "That vitamin pills seem to be ineffective",
+              "parent": "7a2ae232-cdc3-4a28-a227-46eaadffa527",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 274,
+              "text": "That fish oil might actually cause cancer",
+              "parent": "7a2ae232-cdc3-4a28-a227-46eaadffa527",
+              "choices": []
+            },
+            {
+              "id": 275,
+              "text": "That certain supplements prevent illnesses",
+              "parent": "7a2ae232-cdc3-4a28-a227-46eaadffa527",
+              "choices": []
+            }
+          ],
+          "uuid": "7a2ae232-cdc3-4a28-a227-46eaadffa527",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2020-01-10T11:28:00.188217"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Why did the writer primarily ask about the candidates’ ancestors? (2 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 29472,
+          "content": {
+            "text": "Why did the writer primarily ask about the candidates’ ancestors? (2 p.)\n",
+            "displayNumber": "9.9"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-03T06:29:24.164368",
+          "max_score": 2,
+          "groupping": null,
+          "id": 1099719,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 203,
+              "text": "To allow for thinking to take place",
+              "parent": "3550778e-6402-4527-a8d0-62b73ebf5564",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 204,
+              "text": "To establish common ground",
+              "parent": "3550778e-6402-4527-a8d0-62b73ebf5564",
+              "choices": []
+            },
+            {
+              "id": 205,
+              "text": "To make the situation comfortable",
+              "parent": "3550778e-6402-4527-a8d0-62b73ebf5564",
+              "choices": []
+            }
+          ],
+          "uuid": "3550778e-6402-4527-a8d0-62b73ebf5564",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2018-07-30T07:58:36.547754"
+        }
+      ],
+      "name": "Englanti, pitkä oppimäärä kevät 2018",
+      "settings": {
+        "overrideTitle": true
+      },
+      "exam_type": "yo-koe",
+      "classification": {
+        "category": "digital-exam",
+        "exam_type": "yo-koe",
+        "year": "2018",
+        "language": "fi-FI",
+        "show_exam_series": false,
+        "force_yletunnus": false,
+        "subject": "englanti-pitkä",
+        "published": true,
+        "semester": "spring"
+      },
+      "published_at": "2018-08-01T13:51:44.915Z",
+      "language": "fi-FI",
+      "id": 29472,
+      "reviews": [],
+      "is_open": true,
+      "uuid": "135d53f7-29e1-4675-a155-b19f3e31c8d8"
+    }
+  ]
+}

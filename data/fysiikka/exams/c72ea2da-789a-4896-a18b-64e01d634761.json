@@ -1,0 +1,2406 @@
+{
+  "meta": {
+    "count": 1
+  },
+  "data": [
+    {
+      "tags": [
+        ""
+      ],
+      "main_text": "&NewLine;\n",
+      "characters": null,
+      "deleted_at": null,
+      "series_uuids": [],
+      "questions": [
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Maapallon pinnan lämpösäteily 20 p.**\n\n​\n\n**Aineisto**\n\n[LINK text=11 A Kuva: Maanpinnan lämpösäteilyn spektri yläilmakehästä mitattuna|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#11.A]\n\n[LINK text=12 A Kuva: Maanpinnan lämpösäteilyn alueellinen jakauma yläilmakehästä mitattuna|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#11.B]\n\n​\n\nKuva [LINK text=11.A|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#11.A] esittää maapallon pinnan lähettämän lämpösäteilyn intensiteettijakaumaa eli spektriä, joka on mitattu ilmakehän yläosasta. Spektri on esitetty aaltoluvun eli aallonpituuden käänteisluvun funktiona.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 128101,
+          "content": {
+            "text": "**Maapallon pinnan lämpösäteily 20 p.**\n\n​\n\n**Aineisto**\n\n[LINK text=11 A Kuva: Maanpinnan lämpösäteilyn spektri yläilmakehästä mitattuna|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#11.A]\n\n[LINK text=12 A Kuva: Maanpinnan lämpösäteilyn alueellinen jakauma yläilmakehästä mitattuna|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#11.B]\n\n​\n\nKuva [LINK text=11.A|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#11.A] esittää maapallon pinnan lähettämän lämpösäteilyn intensiteettijakaumaa eli spektriä, joka on mitattu ilmakehän yläosasta. Spektri on esitetty aaltoluvun eli aallonpituuden käänteisluvun funktiona.\n",
+            "displayNumber": "11."
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "c52e1d3d-b1eb-48ff-a21a-8abd0ba5ecd7",
+            "5e803de6-70f5-4c27-943c-e2c6a165fb1a",
+            "9727bda2-b598-4c84-aa12-53fb2a7b64d8"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2022-04-20T05:46:32.097735",
+          "max_score": null,
+          "groupping": null,
+          "id": 4454021,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "ad4542b9-3921-4028-b4b8-dbcaa43381b1",
+          "order_number": 15,
+          "multipart": true,
+          "created_at": "2022-04-06T16:01:57.063667"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Autot A ja B etenevät liikenneympyrässä samaa ympyrärataa pitkin. Auton A nopeus on 20 km/h, ja auton B nopeus on 40 km/h. Mikä seuraavista väittämistä on tosi? **2 p.**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 128101,
+          "content": {
+            "text": "Autot A ja B etenevät liikenneympyrässä samaa ympyrärataa pitkin. Auton A nopeus on 20 km/h, ja auton B nopeus on 40 km/h. Mikä seuraavista väittämistä on tosi? **2 p.**\n",
+            "displayNumber": "1.2"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-04-20T05:46:32.09343",
+          "max_score": 2,
+          "groupping": null,
+          "id": 4454469,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 23,
+              "text": "Autolla B on nelinkertainen kiihtyvyys autoon A verrattuna.",
+              "parent": "a52e823e-e8ef-4319-b28b-e1e9520264fc",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 24,
+              "text": "Autolla B on noin 1,4-kertainen kiihtyvyys autoon A verrattuna.",
+              "parent": "a52e823e-e8ef-4319-b28b-e1e9520264fc",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 25,
+              "text": "Autolla B on kaksinkertainen kiihtyvyys autoon A verrattuna.",
+              "parent": "a52e823e-e8ef-4319-b28b-e1e9520264fc",
+              "choices": []
+            },
+            {
+              "id": 26,
+              "text": "Autoilla on yhtä suuri kiihtyvyys.",
+              "parent": "a52e823e-e8ef-4319-b28b-e1e9520264fc",
+              "choices": []
+            }
+          ],
+          "uuid": "a52e823e-e8ef-4319-b28b-e1e9520264fc",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2022-04-06T16:10:11.553325"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Vierivä lieriö 20 p.**\n\n&NewLine;\n\n**Aineisto**\n\n[LINK text=10 A Video: Vierivän lieriön liike hidastettuna|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#10.A]\n\n[LINK text=10 B Kuva: Lieriö|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#10.B]\n\n[LINK text=10 C Kuva: Lieriöön kohdistuva tukivoima|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#10.C]\n\n[LINK text=10 D Taulukko: Lieriön massakeskipisteen tason suuntainen nopeus|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#10.D]\n\n&NewLine;\n\nUmpinainen, muovista valmistettu lieriö, jonka pohja on ellipsin muotoinen, vierii liukumatta pitkin kaltevaa tasoa. Videossa [LINK text=10.A|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#10.A] on esitetty lieriön liike hidastettuna. Lieriön ja tason välillä vaikuttaa kitka, mutta lieriöön ei vaikuta muita liikevastusvoimia. Kuvassa [LINK text=10.B|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#10.B] lieriö on juuri päästetty vierimään, jolloin sen nopeus on vielä hyvin pieni.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 128101,
+          "content": {
+            "text": "**Vierivä lieriö 20 p.**\n\n&NewLine;\n\n**Aineisto**\n\n[LINK text=10 A Video: Vierivän lieriön liike hidastettuna|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#10.A]\n\n[LINK text=10 B Kuva: Lieriö|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#10.B]\n\n[LINK text=10 C Kuva: Lieriöön kohdistuva tukivoima|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#10.C]\n\n[LINK text=10 D Taulukko: Lieriön massakeskipisteen tason suuntainen nopeus|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#10.D]\n\n&NewLine;\n\nUmpinainen, muovista valmistettu lieriö, jonka pohja on ellipsin muotoinen, vierii liukumatta pitkin kaltevaa tasoa. Videossa [LINK text=10.A|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#10.A] on esitetty lieriön liike hidastettuna. Lieriön ja tason välillä vaikuttaa kitka, mutta lieriöön ei vaikuta muita liikevastusvoimia. Kuvassa [LINK text=10.B|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#10.B] lieriö on juuri päästetty vierimään, jolloin sen nopeus on vielä hyvin pieni.\n",
+            "displayNumber": "10."
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "074ba389-e236-4f09-b2bc-0c5c7cfdb823",
+            "0ee74bd8-e0c6-4e93-8c80-9e75a5fb53ee",
+            "8490b239-ff5b-4fa7-a95d-8d2d4de8411c",
+            "d85c54a4-a166-4cc4-ad0f-c8ea15331ca8",
+            "e8b41a50-224f-4a05-806f-762e3d125366"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2022-04-20T05:46:32.081832",
+          "max_score": null,
+          "groupping": null,
+          "id": 4453478,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "9be06ab4-2313-4060-ae46-e2d28272d535",
+          "order_number": 14,
+          "multipart": true,
+          "created_at": "2022-04-06T15:54:12.773375"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Itämeren aallot 15 p.**\n\n&NewLine;\n\n**Aineisto**\n\n[LINK text=6 A Teksti: Aallokko Itämerellä|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#6.A]\n\n&NewLine;\n\nAineistossa [LINK text=6.A|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#6.A] on tietoja Itämeren aallokon synnystä ja ominaisuuksista. Vastaa aineiston ja tietämyksesi perusteella kysymyksiin 6.1‒6.7.\n\n&NewLine;\n\nKysymyksissä 6.1–6.3 kirjoita vastauskenttiin pelkästään lopputuloksen lukuarvo ilman yksikköä yhden merkitsevän numeron tarkkuudella. Yksikkö on valmiiksi annettuna vastauskentän perässä. Kysymyksissä 6.4–6.7 vastaa valitsemalla oikea vaihtoehto. Jos olet aloittanut tehtävään vastaamisen, mutta et haluakaan jättää tehtävää arvosteltavaksi, kysymyksissä 6.1–6.3 tyhjennä vastaukset ja kysymyksissä 6.4–6.7 merkitse jokaiseen kysymykseen vaihtoehto ”en vastaa”.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 128101,
+          "content": {
+            "text": "**Itämeren aallot 15 p.**\n\n&NewLine;\n\n**Aineisto**\n\n[LINK text=6 A Teksti: Aallokko Itämerellä|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#6.A]\n\n&NewLine;\n\nAineistossa [LINK text=6.A|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#6.A] on tietoja Itämeren aallokon synnystä ja ominaisuuksista. Vastaa aineiston ja tietämyksesi perusteella kysymyksiin 6.1‒6.7.\n\n&NewLine;\n\nKysymyksissä 6.1–6.3 kirjoita vastauskenttiin pelkästään lopputuloksen lukuarvo ilman yksikköä yhden merkitsevän numeron tarkkuudella. Yksikkö on valmiiksi annettuna vastauskentän perässä. Kysymyksissä 6.4–6.7 vastaa valitsemalla oikea vaihtoehto. Jos olet aloittanut tehtävään vastaamisen, mutta et haluakaan jättää tehtävää arvosteltavaksi, kysymyksissä 6.1–6.3 tyhjennä vastaukset ja kysymyksissä 6.4–6.7 merkitse jokaiseen kysymykseen vaihtoehto ”en vastaa”.\n",
+            "displayNumber": "6."
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "21b6aa2c-36b6-4a2e-a041-a20770f15f2c",
+            "0ea8e174-f231-4e78-83ac-25fa2e677122",
+            "69429fe5-131d-4336-b69c-4870e99b37a3",
+            "1edafa85-5ab2-4c8a-8cb3-89a2df6a3c82",
+            "4fd8dc12-3908-438d-ab13-d59a54ee2b62",
+            "c2406f87-f36a-4a00-8ef6-f76a63989600",
+            "0ca0abec-a58c-4feb-aa2f-2c945e367845"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2022-04-20T05:46:32.077887",
+          "max_score": null,
+          "groupping": null,
+          "id": 4452640,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "a41ad7b9-e148-4f39-89dd-dbf5d6852b51",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2022-04-06T15:32:24.757105"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Roottorin koolla on merkittävä vaikutus tuulivoimalan tuottamaan sähkötehoon. Roottorin kokoa kuvaa pyyhkäisypinta-ala, joka tarkoittaa roottorin lapojen kärkien piirtämän ympyrän pinta-alaa (kuva [LINK text=2.A|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#2.A]).\n\n&NewLine;\n\nTaulukossa [LINK text=2.B|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#2.B] on annettu valmistajien tuulivoimaloille ilmoittamat tehot. Määritä taulukon tietojen perusteella, kuinka paljon tuulivoimalan teho tyypillisesti kasvaa, jos roottorin pyyhkäisypinta-ala kasvaa 25 m2. Käytä graafista esitystä.\n\n&NewLine;\n\n**12 p.**\n",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso hyvän vastauksen piirteet tästä.|url=https://drive.google.com/file/d/1neZF4McuMS9MteK7C0nzlmQTRVkF3NfT/view]\n",
+          "exam_id": 128101,
+          "content": {
+            "text": "Roottorin koolla on merkittävä vaikutus tuulivoimalan tuottamaan sähkötehoon. Roottorin kokoa kuvaa pyyhkäisypinta-ala, joka tarkoittaa roottorin lapojen kärkien piirtämän ympyrän pinta-alaa (kuva [LINK text=2.A|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#2.A]).\n\n&NewLine;\n\nTaulukossa [LINK text=2.B|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#2.B] on annettu valmistajien tuulivoimaloille ilmoittamat tehot. Määritä taulukon tietojen perusteella, kuinka paljon tuulivoimalan teho tyypillisesti kasvaa, jos roottorin pyyhkäisypinta-ala kasvaa 25 m2. Käytä graafista esitystä.\n\n&NewLine;\n\n**12 p.**\n",
+            "displayNumber": "2.1"
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "20",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-04-20T05:46:32.071421",
+          "max_score": null,
+          "groupping": null,
+          "id": 4452603,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "8757dcbc-6810-44fb-837d-f158ccb0fe66",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2022-04-06T15:29:31.398906"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Katuporan äänen intensiteettitaso 10 metrin etäisyydellä porasta on 100 dB. Kuinka suuri on kahden katuporan yhdessä tuottaman äänen intensiteettitaso samalla etäisyydellä? **2 p.**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 128101,
+          "content": {
+            "text": "Katuporan äänen intensiteettitaso 10 metrin etäisyydellä porasta on 100 dB. Kuinka suuri on kahden katuporan yhdessä tuottaman äänen intensiteettitaso samalla etäisyydellä? **2 p.**\n",
+            "displayNumber": "1.8"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-04-20T05:46:32.074513",
+          "max_score": 2,
+          "groupping": null,
+          "id": 4454975,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 23,
+              "text": "110 dB",
+              "parent": "95504ae1-a0bc-4ce9-bd09-5b3838e4d6e1",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 24,
+              "text": "103 dB",
+              "parent": "95504ae1-a0bc-4ce9-bd09-5b3838e4d6e1",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 25,
+              "text": "200 dB",
+              "parent": "95504ae1-a0bc-4ce9-bd09-5b3838e4d6e1",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 26,
+              "text": "141 dB",
+              "parent": "95504ae1-a0bc-4ce9-bd09-5b3838e4d6e1",
+              "choices": []
+            }
+          ],
+          "uuid": "95504ae1-a0bc-4ce9-bd09-5b3838e4d6e1",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2022-04-06T16:17:50.33103"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Valovastus 15 p.**\n\n&NewLine;\n\n**Aineisto**\n\n[LINK text=4 A Simulaatio: Valovastuskytkentä|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#4.A]\n\n&NewLine;\n\nValovastus on komponentti, jonka resistanssi riippuu siihen kohdistuvan valon voimakkuudesta. Valovastuksella voi siis muuttaa esimerkiksi piirin sähkövirtaa muuttamalla vastukseen osuvan valon määrää. Aineistossa [LINK text=4.A|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#4.A] on esitetty kytkentäkaavio ja simulaatio piiristä, jossa on jännitelähde, tavallinen vastus, valovastus ja ledi. Havaitaan, että piiriin kytketty ledi syttyy, kun valaistus vähenee. Vastaa simulaation avulla seuraaviin kysymyksiin.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 128101,
+          "content": {
+            "text": "**Valovastus 15 p.**\n\n&NewLine;\n\n**Aineisto**\n\n[LINK text=4 A Simulaatio: Valovastuskytkentä|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#4.A]\n\n&NewLine;\n\nValovastus on komponentti, jonka resistanssi riippuu siihen kohdistuvan valon voimakkuudesta. Valovastuksella voi siis muuttaa esimerkiksi piirin sähkövirtaa muuttamalla vastukseen osuvan valon määrää. Aineistossa [LINK text=4.A|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#4.A] on esitetty kytkentäkaavio ja simulaatio piiristä, jossa on jännitelähde, tavallinen vastus, valovastus ja ledi. Havaitaan, että piiriin kytketty ledi syttyy, kun valaistus vähenee. Vastaa simulaation avulla seuraaviin kysymyksiin.\n",
+            "displayNumber": "4."
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "e45636f1-a097-476a-8551-2161b46c4e63",
+            "57f9ed05-bd25-4396-a8aa-e5b2659af1e6",
+            "5ed6c63f-19f4-4d51-954f-0455a7a4d0f1",
+            "e764e1e5-4cdb-416f-96a9-76bf555f2d7d"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2022-04-20T05:46:32.062595",
+          "max_score": null,
+          "groupping": null,
+          "id": 4388927,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "8348a3aa-8e9d-49dc-a951-8a2884a0c590",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2022-04-04T14:38:38.801621"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Aalloista annettujen tietojen perusteella voidaan päätellä Itämeren syvyyden olevan tyypillisesti **yli 2 p.**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 128101,
+          "content": {
+            "text": "Aalloista annettujen tietojen perusteella voidaan päätellä Itämeren syvyyden olevan tyypillisesti **yli 2 p.**\n",
+            "displayNumber": "6.5"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-04-20T05:46:32.05693",
+          "max_score": 2,
+          "groupping": null,
+          "id": 4452753,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 4,
+              "text": "10 m",
+              "parent": "4fd8dc12-3908-438d-ab13-d59a54ee2b62",
+              "choices": []
+            },
+            {
+              "id": 5,
+              "text": "20 m",
+              "parent": "4fd8dc12-3908-438d-ab13-d59a54ee2b62",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 6,
+              "text": "40 m",
+              "parent": "4fd8dc12-3908-438d-ab13-d59a54ee2b62",
+              "choices": []
+            },
+            {
+              "id": 7,
+              "text": "80 m",
+              "parent": "4fd8dc12-3908-438d-ab13-d59a54ee2b62",
+              "choices": []
+            },
+            {
+              "id": 8,
+              "text": "130 m",
+              "parent": "4fd8dc12-3908-438d-ab13-d59a54ee2b62",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 9,
+              "text": "260 m",
+              "parent": "4fd8dc12-3908-438d-ab13-d59a54ee2b62",
+              "choices": []
+            },
+            {
+              "id": 10,
+              "text": "520 m",
+              "parent": "4fd8dc12-3908-438d-ab13-d59a54ee2b62",
+              "choices": []
+            },
+            {
+              "id": 11,
+              "text": "En vastaa",
+              "parent": "4fd8dc12-3908-438d-ab13-d59a54ee2b62",
+              "choices": []
+            }
+          ],
+          "uuid": "4fd8dc12-3908-438d-ab13-d59a54ee2b62",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2022-04-06T15:40:11.234778"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Koe koostuu 11 tehtävästä, joista vastataan seitsemään. Tehtävät on jaettu kolmeen osaan. Osassa 1 on yksi kaikille pakollinen 20 pisteen tehtävä. Osassa 2 on seitsemän 15 pisteen tehtävää, joista vastataan neljään. Osassa 3 on kolme 20 pisteen tehtävää, joista vastataan kahteen. Kokeen maksimipistemäärä on 120. Kaikki annetut vastaukset tulee perustella, jos perusteleminen on vastausteknisesti mahdollista. \n\n&NewLine;\n\nÄlä jätä mitään merkintöjä sellaisen tehtävän vastaukselle varattuun tilaan, jota et halua jättää arvosteltavaksi.\n\n&NewLine;\n\nHuom.! Tehtävässä 6 on erillinen ohje vastaamatta jättämisestä.\n\n&NewLine;\n\n**Huom! Huomaathan, että Abitreenien harjoittelukokeen vastauksiin ei voi liittää kuvia tai käyttää kaavaeditoria.**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 128101,
+          "content": {
+            "text": "Koe koostuu 11 tehtävästä, joista vastataan seitsemään. Tehtävät on jaettu kolmeen osaan. Osassa 1 on yksi kaikille pakollinen 20 pisteen tehtävä. Osassa 2 on seitsemän 15 pisteen tehtävää, joista vastataan neljään. Osassa 3 on kolme 20 pisteen tehtävää, joista vastataan kahteen. Kokeen maksimipistemäärä on 120. Kaikki annetut vastaukset tulee perustella, jos perusteleminen on vastausteknisesti mahdollista. \n\n&NewLine;\n\nÄlä jätä mitään merkintöjä sellaisen tehtävän vastaukselle varattuun tilaan, jota et halua jättää arvosteltavaksi.\n\n&NewLine;\n\nHuom.! Tehtävässä 6 on erillinen ohje vastaamatta jättämisestä.\n\n&NewLine;\n\n**Huom! Huomaathan, että Abitreenien harjoittelukokeen vastauksiin ei voi liittää kuvia tai käyttää kaavaeditoria.**\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2022-04-20T05:46:32.050707",
+          "max_score": null,
+          "groupping": null,
+          "id": 4388796,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "27358500-1e9e-4d0f-8717-23b6dcf03ed4",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2022-04-04T14:14:06.342105"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mikä on ledin kynnysjännitteen arvo?** 3 p.**\n",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso hyvän vastauksen piirteet tästä.|url=https://drive.google.com/file/d/1neZF4McuMS9MteK7C0nzlmQTRVkF3NfT/view]\n",
+          "exam_id": 128101,
+          "content": {
+            "text": "Mikä on ledin kynnysjännitteen arvo?** 3 p.**\n",
+            "displayNumber": "4.2"
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-04-20T05:46:32.05273",
+          "max_score": null,
+          "groupping": null,
+          "id": 4388967,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "57f9ed05-bd25-4396-a8aa-e5b2659af1e6",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2022-04-04T14:40:32.576433"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Tarkastellaan niitä valaistusvoimakkuuden arvoja, joilla ledi ei pala. Kasvaako vai pieneneekö piirin valovastuksen resistanssi valovoimakkuuden kasvaessa tällä alueella? **5 p.**\n",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso hyvän vastauksen piirteet tästä.|url=https://drive.google.com/file/d/1neZF4McuMS9MteK7C0nzlmQTRVkF3NfT/view]\n",
+          "exam_id": 128101,
+          "content": {
+            "text": "Tarkastellaan niitä valaistusvoimakkuuden arvoja, joilla ledi ei pala. Kasvaako vai pieneneekö piirin valovastuksen resistanssi valovoimakkuuden kasvaessa tällä alueella? **5 p.**\n",
+            "displayNumber": "4.4"
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-04-20T05:46:32.05526",
+          "max_score": null,
+          "groupping": null,
+          "id": 4388998,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "e764e1e5-4cdb-416f-96a9-76bf555f2d7d",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2022-04-04T14:41:42.643063"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Aalloista annettujen tietojen perusteella voidaan päätellä Itämeren syvyyden olevan tyypillisesti **alle 2 p.**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 128101,
+          "content": {
+            "text": "Aalloista annettujen tietojen perusteella voidaan päätellä Itämeren syvyyden olevan tyypillisesti **alle 2 p.**\n",
+            "displayNumber": "6.4"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-04-20T05:46:32.059",
+          "max_score": 2,
+          "groupping": null,
+          "id": 4452728,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 4,
+              "text": "10 m",
+              "parent": "1edafa85-5ab2-4c8a-8cb3-89a2df6a3c82",
+              "choices": []
+            },
+            {
+              "id": 5,
+              "text": "20 m",
+              "parent": "1edafa85-5ab2-4c8a-8cb3-89a2df6a3c82",
+              "choices": []
+            },
+            {
+              "id": 6,
+              "text": "40 m",
+              "parent": "1edafa85-5ab2-4c8a-8cb3-89a2df6a3c82",
+              "choices": []
+            },
+            {
+              "id": 7,
+              "text": "80 m",
+              "parent": "1edafa85-5ab2-4c8a-8cb3-89a2df6a3c82",
+              "choices": []
+            },
+            {
+              "id": 8,
+              "text": "130 m",
+              "parent": "1edafa85-5ab2-4c8a-8cb3-89a2df6a3c82",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 9,
+              "text": "260 m",
+              "parent": "1edafa85-5ab2-4c8a-8cb3-89a2df6a3c82",
+              "choices": []
+            },
+            {
+              "id": 10,
+              "text": "520 m",
+              "parent": "1edafa85-5ab2-4c8a-8cb3-89a2df6a3c82",
+              "choices": []
+            },
+            {
+              "id": 11,
+              "text": "En vastaa",
+              "parent": "1edafa85-5ab2-4c8a-8cb3-89a2df6a3c82",
+              "choices": []
+            }
+          ],
+          "uuid": "1edafa85-5ab2-4c8a-8cb3-89a2df6a3c82",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2022-04-06T15:39:21.391242"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Selitä, miksi hiukkasen on täytynyt kulkea kuvassa nuolella merkittyyn suuntaan eikä päinvastaiseen suuntaan. **4 p.**\n",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso hyvän vastauksen piirteet tästä.|url=https://drive.google.com/file/d/1neZF4McuMS9MteK7C0nzlmQTRVkF3NfT/view]\n",
+          "exam_id": 128101,
+          "content": {
+            "text": "Selitä, miksi hiukkasen on täytynyt kulkea kuvassa nuolella merkittyyn suuntaan eikä päinvastaiseen suuntaan. **4 p.**\n",
+            "displayNumber": "7.2"
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-04-20T05:46:32.060545",
+          "max_score": null,
+          "groupping": null,
+          "id": 4453008,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "1a6556e3-01c5-44ed-b026-b76af8a2c9a1",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2022-04-06T15:46:19.265467"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mitä tapahtuu ilmapallon sisällä olevalle ilmalle, kun ilmapallo puhkeaa äkillisesti? **2 p.**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 128101,
+          "content": {
+            "text": "Mitä tapahtuu ilmapallon sisällä olevalle ilmalle, kun ilmapallo puhkeaa äkillisesti? **2 p.**\n",
+            "displayNumber": "1.3"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-04-20T05:46:32.064265",
+          "max_score": 2,
+          "groupping": null,
+          "id": 4454523,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 23,
+              "text": "Sen tilavuus ja lämpötila kasvavat.",
+              "parent": "a7174286-402d-47e6-8d98-11e24231cd39",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 24,
+              "text": "Sen tilavuus kasvaa ja lämpötila laskee.",
+              "parent": "a7174286-402d-47e6-8d98-11e24231cd39",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 25,
+              "text": "Sen tilavuus kasvaa ja lämpötila pysyy vakiona.",
+              "parent": "a7174286-402d-47e6-8d98-11e24231cd39",
+              "choices": []
+            },
+            {
+              "id": 26,
+              "text": "Sen tilavuus pysyy vakiona ja lämpötila kasvaa.",
+              "parent": "a7174286-402d-47e6-8d98-11e24231cd39",
+              "choices": []
+            }
+          ],
+          "uuid": "a7174286-402d-47e6-8d98-11e24231cd39",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2022-04-06T16:11:19.190291"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Maissipellon energiatuotanto 20 p.**\n\n&NewLine;\n\n**Aineisto**\n\n[LINK text=9 A Taulukko: Maissinviljelyn ja bioetanolituotannon tärkeimmät tunnusluvut|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#9.A]\n\n&NewLine;\n\nBioetanoli on ylivoimaisesti käytetyin biopolttoaine maailmassa. Yli puolet bioetanolin runsaan sadan miljardin litran kokonaismäärästä valmistetaan viljellystä maissista Yhdysvalloissa. Etanolin valmistukseen käytetään maissin siemenet, ja muu osa maissista voidaan hyödyntää biojätteenä esimerkiksi lämmöntuotannossa. Taulukossa [LINK text=9.A|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#9.A] on tietoa maissinviljelyn ja maissiin pohjautuvan bioetanolituotannon tärkeimmistä tunnusluvuista.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 128101,
+          "content": {
+            "text": "**Maissipellon energiatuotanto 20 p.**\n\n&NewLine;\n\n**Aineisto**\n\n[LINK text=9 A Taulukko: Maissinviljelyn ja bioetanolituotannon tärkeimmät tunnusluvut|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#9.A]\n\n&NewLine;\n\nBioetanoli on ylivoimaisesti käytetyin biopolttoaine maailmassa. Yli puolet bioetanolin runsaan sadan miljardin litran kokonaismäärästä valmistetaan viljellystä maissista Yhdysvalloissa. Etanolin valmistukseen käytetään maissin siemenet, ja muu osa maissista voidaan hyödyntää biojätteenä esimerkiksi lämmöntuotannossa. Taulukossa [LINK text=9.A|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#9.A] on tietoa maissinviljelyn ja maissiin pohjautuvan bioetanolituotannon tärkeimmistä tunnusluvuista.\n",
+            "displayNumber": "9."
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "c5767543-0498-42f8-b277-828fca038033",
+            "0fa3323b-5db8-4d69-baf7-d77b3f0cf490",
+            "f3cb1755-fede-4b9f-a4a7-aa7f61ea9129",
+            "d1ec6a54-b9b5-4c59-bc1c-491c812e61f6"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2022-04-20T05:46:32.066138",
+          "max_score": null,
+          "groupping": null,
+          "id": 4453245,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "f9fb146a-9203-47b7-af88-112029867ec0",
+          "order_number": 13,
+          "multipart": true,
+          "created_at": "2022-04-06T15:50:28.703175"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Tarkastellaan kahta suljettua virtapiiriä, joissa on samanlainen akku teholähteenä. Virtapiiriin 1 on kytketty yksi hehkulamppu, ja virtapiiriin 2 on kytketty kaksi hehkulamppua rinnan. Kaikki lamput ovat samanlaisia. Mikä seuraavista väitteistä on tosi? **2 p.**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 128101,
+          "content": {
+            "text": "Tarkastellaan kahta suljettua virtapiiriä, joissa on samanlainen akku teholähteenä. Virtapiiriin 1 on kytketty yksi hehkulamppu, ja virtapiiriin 2 on kytketty kaksi hehkulamppua rinnan. Kaikki lamput ovat samanlaisia. Mikä seuraavista väitteistä on tosi? **2 p.**\n",
+            "displayNumber": "1.4"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-04-20T05:46:32.068033",
+          "max_score": 2,
+          "groupping": null,
+          "id": 4454632,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 23,
+              "text": "Kaikki kolme lamppua ovat yhtä kirkkaita.",
+              "parent": "ea400dad-539f-4678-9502-0df600c11855",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 24,
+              "text": "Virtapiirin 2 lampuilla on eri kirkkaudet.",
+              "parent": "ea400dad-539f-4678-9502-0df600c11855",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 25,
+              "text": "Virtapiirin 1 lamppu on kirkkain, ja virtapiirin 2 lamput ovat keskenään yhtä kirkkaita.",
+              "parent": "ea400dad-539f-4678-9502-0df600c11855",
+              "choices": []
+            },
+            {
+              "id": 26,
+              "text": "Virtapiirin 1 lamppu on himmein, ja virtapiirin 2 lamput ovat keskenään yhtä kirkkaita.",
+              "parent": "ea400dad-539f-4678-9502-0df600c11855",
+              "choices": []
+            }
+          ],
+          "uuid": "ea400dad-539f-4678-9502-0df600c11855",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2022-04-06T16:12:43.309251"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Sumukammio 15 p.**\n\n&NewLine;\n\n**Aineisto**\n\n[LINK text=7 A Kuva: Sumukammio|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#7.A]\n\n&NewLine;\n\nSumukammiossa tehdystä kokeesta piirrettiin aineiston [LINK text=7.A|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#7.A] mukainen kuva. Kuvassa näkyy katkoviivalla merkittynä varatun hiukkasen rata kammiossa. Hiukkasen kulkusuunta on merkitty pienellä sinisellä nuolella. Kammion alueella on homogeeninen magneettikenttä, jonka magneettivuon tiheyden suuruus on _B = 3,8 mT_. Magneettikentän suunta on kohtisuorasti kuvan tason sisään. Hiukkasen energia sen tullessa sumukammioon on 2,5 keV, ja sen radan säde _r_ = 45 mm. Kammion halkaisee kuvassa näkyvä ohut muovikalvo, josta hiukkanen pääsee läpi. Hiukkasen varaus on itseisarvoltaan alkeisvarauksen suuruinen.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 128101,
+          "content": {
+            "text": "**Sumukammio 15 p.**\n\n&NewLine;\n\n**Aineisto**\n\n[LINK text=7 A Kuva: Sumukammio|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#7.A]\n\n&NewLine;\n\nSumukammiossa tehdystä kokeesta piirrettiin aineiston [LINK text=7.A|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#7.A] mukainen kuva. Kuvassa näkyy katkoviivalla merkittynä varatun hiukkasen rata kammiossa. Hiukkasen kulkusuunta on merkitty pienellä sinisellä nuolella. Kammion alueella on homogeeninen magneettikenttä, jonka magneettivuon tiheyden suuruus on _B = 3,8 mT_. Magneettikentän suunta on kohtisuorasti kuvan tason sisään. Hiukkasen energia sen tullessa sumukammioon on 2,5 keV, ja sen radan säde _r_ = 45 mm. Kammion halkaisee kuvassa näkyvä ohut muovikalvo, josta hiukkanen pääsee läpi. Hiukkasen varaus on itseisarvoltaan alkeisvarauksen suuruinen.\n",
+            "displayNumber": "7."
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "2b74b19e-69e4-484b-a4b7-2db3b433b3e5",
+            "1a6556e3-01c5-44ed-b026-b76af8a2c9a1"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2022-04-20T05:46:32.06954",
+          "max_score": null,
+          "groupping": null,
+          "id": 4452889,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "2dc1e58a-bce2-435a-bb64-89f21c90e73d",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2022-04-06T15:44:05.596214"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kun johdinsilmukkaa pyöritetään magneettikentässä, siihen indusoituu lähdejännite. Mikä seuraavista muutoksista kasvattaa eniten johtimeen indusoituvan lähdejännitteen huippuarvoa?** 2 p.**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 128101,
+          "content": {
+            "text": "Kun johdinsilmukkaa pyöritetään magneettikentässä, siihen indusoituu lähdejännite. Mikä seuraavista muutoksista kasvattaa eniten johtimeen indusoituvan lähdejännitteen huippuarvoa?** 2 p.**\n",
+            "displayNumber": "1.9"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-04-20T05:46:32.076285",
+          "max_score": 2,
+          "groupping": null,
+          "id": 4455094,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 23,
+              "text": "Johdinsilmukan pinta-alan kolminkertaistaminen.",
+              "parent": "97bd39e7-b5cf-4ff0-8357-318b434af77a",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 24,
+              "text": "Pyöritysajan viisinkertaistaminen.",
+              "parent": "97bd39e7-b5cf-4ff0-8357-318b434af77a",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 25,
+              "text": "Pyöritysnopeuden nelinkertaistaminen.",
+              "parent": "97bd39e7-b5cf-4ff0-8357-318b434af77a",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 26,
+              "text": "Magneettivuon tiheyden kaksinkertaistaminen.",
+              "parent": "97bd39e7-b5cf-4ff0-8357-318b434af77a",
+              "choices": []
+            }
+          ],
+          "uuid": "97bd39e7-b5cf-4ff0-8357-318b434af77a",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2022-04-06T16:20:24.959475"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Bioetanolista saatavan energiantuotannon lisäksi maissia voi hyödyntää myös polttamalla maissinviljelystä syntyvän biojätteen kaukolämpövoimalassa, jossa 85 % biojätteiden sisältämästä energiasta saadaan hyötykäyttöön. Maissipelloille voitaisiin vaihtoehtoisesti asentaa aurinkokennoja viljelyn sijaan. Aurinkokennojen avulla on mahdollista hyödyntää 18 % Auringon säteilevästä energiasta.\n\n&NewLine;\n\nKuinka moninkertainen olisi samalta pellolta kennoilla kerätty aurinkoenergia verrattuna maissinviljelystä saatuun bioenergiaan? **4 p.**\n",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso hyvän vastauksen piirteet tästä.|url=https://drive.google.com/file/d/1neZF4McuMS9MteK7C0nzlmQTRVkF3NfT/view]\n",
+          "exam_id": 128101,
+          "content": {
+            "text": "Bioetanolista saatavan energiantuotannon lisäksi maissia voi hyödyntää myös polttamalla maissinviljelystä syntyvän biojätteen kaukolämpövoimalassa, jossa 85 % biojätteiden sisältämästä energiasta saadaan hyötykäyttöön. Maissipelloille voitaisiin vaihtoehtoisesti asentaa aurinkokennoja viljelyn sijaan. Aurinkokennojen avulla on mahdollista hyödyntää 18 % Auringon säteilevästä energiasta.\n\n&NewLine;\n\nKuinka moninkertainen olisi samalta pellolta kennoilla kerätty aurinkoenergia verrattuna maissinviljelystä saatuun bioenergiaan? **4 p.**\n",
+            "displayNumber": "9.3"
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-04-20T05:46:32.080161",
+          "max_score": null,
+          "groupping": null,
+          "id": 4453396,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "f3cb1755-fede-4b9f-a4a7-aa7f61ea9129",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2022-04-06T15:52:28.080377"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Laserpulssilla irrotetaan metallikappaleesta elektroneja. Miten voidaan kasvattaa irtoavien elektronien liike-energiaa? **2 p.**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 128101,
+          "content": {
+            "text": "Laserpulssilla irrotetaan metallikappaleesta elektroneja. Miten voidaan kasvattaa irtoavien elektronien liike-energiaa? **2 p.**\n",
+            "displayNumber": "1.10"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-04-20T05:46:32.084064",
+          "max_score": 2,
+          "groupping": null,
+          "id": 4455155,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 23,
+              "text": "Kasvattamalla laserpulssin valon aallonpituutta.",
+              "parent": "0bd5d97f-d68e-40d0-a8d2-f0e5c4d15fd7",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 24,
+              "text": "Kasvattamalla laserpulssin valon taajuutta.",
+              "parent": "0bd5d97f-d68e-40d0-a8d2-f0e5c4d15fd7",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 25,
+              "text": "Kasvattamalla laserpulssin kestoa.",
+              "parent": "0bd5d97f-d68e-40d0-a8d2-f0e5c4d15fd7",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 26,
+              "text": "Kasvattamalla laserpulssin valon intensiteettiä.",
+              "parent": "0bd5d97f-d68e-40d0-a8d2-f0e5c4d15fd7",
+              "choices": []
+            }
+          ],
+          "uuid": "0bd5d97f-d68e-40d0-a8d2-f0e5c4d15fd7",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2022-04-06T16:21:58.645813"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Sekä maissin viljely että varsinainen etanolituotanto vaativat Auringosta tulevan energian lisäksi myös pienen määrän muuta ulkoista energiaa, niin sanottua prosessienergiaa. Prosessin tuotolla tarkoitetaan prosessista saatavan nettoenergian määrän eli tuotetun energian ja prosessienergian erotuksen suhdetta prosessienergiaan.\n\n&NewLine;\n\nLaske bioetanoliin pohjautuvan energian tuotto prosentteina, jos viljelyyn ja etanolivalmistukseen kulunut prosessienergia on 7 460 kJ jokaista etanolilitraa kohden. **5 p.**\n",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso hyvän vastauksen piirteet tästä.|url=https://drive.google.com/file/d/1neZF4McuMS9MteK7C0nzlmQTRVkF3NfT/view]\n",
+          "exam_id": 128101,
+          "content": {
+            "text": "Sekä maissin viljely että varsinainen etanolituotanto vaativat Auringosta tulevan energian lisäksi myös pienen määrän muuta ulkoista energiaa, niin sanottua prosessienergiaa. Prosessin tuotolla tarkoitetaan prosessista saatavan nettoenergian määrän eli tuotetun energian ja prosessienergian erotuksen suhdetta prosessienergiaan.\n\n&NewLine;\n\nLaske bioetanoliin pohjautuvan energian tuotto prosentteina, jos viljelyyn ja etanolivalmistukseen kulunut prosessienergia on 7 460 kJ jokaista etanolilitraa kohden. **5 p.**\n",
+            "displayNumber": "9.2"
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-04-20T05:46:32.085888",
+          "max_score": null,
+          "groupping": null,
+          "id": 4453357,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "0fa3323b-5db8-4d69-baf7-d77b3f0cf490",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2022-04-06T15:52:00.815034"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": " Pilvenpiirtäjän korkeus on 400 m, ja kovassa tuulessa sen huippu heilahtelee jaksollisesti ääriasennosta toiseen. Mikä on pilvenpiirtäjässä etenevän, perusvärähtelyä vastaavan aallon aallonpituus? **2 p.**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 128101,
+          "content": {
+            "text": " Pilvenpiirtäjän korkeus on 400 m, ja kovassa tuulessa sen huippu heilahtelee jaksollisesti ääriasennosta toiseen. Mikä on pilvenpiirtäjässä etenevän, perusvärähtelyä vastaavan aallon aallonpituus? **2 p.**\n",
+            "displayNumber": "1.7"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-04-20T05:46:32.087643",
+          "max_score": 2,
+          "groupping": null,
+          "id": 4454916,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 23,
+              "text": "1 600 m",
+              "parent": "e3db1380-b2fb-465e-b081-deffe1a1490f",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 24,
+              "text": "400 m",
+              "parent": "e3db1380-b2fb-465e-b081-deffe1a1490f",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 25,
+              "text": "800 m",
+              "parent": "e3db1380-b2fb-465e-b081-deffe1a1490f",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 26,
+              "text": "200 m",
+              "parent": "e3db1380-b2fb-465e-b081-deffe1a1490f",
+              "choices": []
+            }
+          ],
+          "uuid": "e3db1380-b2fb-465e-b081-deffe1a1490f",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2022-04-06T16:16:57.74316"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Biljardipallo A törmää paikoillaan olevaan samanlaiseen palloon B. Pallo A jää törmäyksen jälkeen paikoilleen, kun taas pallo B alkaa liikkua eteenpäin. Oletetaan, että törmäys on kimmoinen. Mikä seuraavista kokonaisliikemäärää ja pallojen yhteenlaskettua liike-energiaa koskevista väittämistä on tosi? **2 p.**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 128101,
+          "content": {
+            "text": "Biljardipallo A törmää paikoillaan olevaan samanlaiseen palloon B. Pallo A jää törmäyksen jälkeen paikoilleen, kun taas pallo B alkaa liikkua eteenpäin. Oletetaan, että törmäys on kimmoinen. Mikä seuraavista kokonaisliikemäärää ja pallojen yhteenlaskettua liike-energiaa koskevista väittämistä on tosi? **2 p.**\n",
+            "displayNumber": "1.6"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-04-20T05:46:32.08964",
+          "max_score": 2,
+          "groupping": null,
+          "id": 4454801,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 23,
+              "text": "Liikemäärä ja liike-energia eivät kumpikaan säily.",
+              "parent": "915ecfef-cc15-4a3f-9711-3b2c075e3abf",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 24,
+              "text": "Liikemäärä säilyy, mutta liike-energia ei säily.",
+              "parent": "915ecfef-cc15-4a3f-9711-3b2c075e3abf",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 25,
+              "text": "Liikemäärä ja liike-energia säilyvät.",
+              "parent": "915ecfef-cc15-4a3f-9711-3b2c075e3abf",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 26,
+              "text": "Liikemäärä ei säily, ja liike-energia säilyy.",
+              "parent": "915ecfef-cc15-4a3f-9711-3b2c075e3abf",
+              "choices": []
+            }
+          ],
+          "uuid": "915ecfef-cc15-4a3f-9711-3b2c075e3abf",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2022-04-06T16:14:50.285253"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Monivalintatehtäviä fysiikan eri osa-alueilta 20 p.**\n\n&NewLine;\n\nValitse jokaisessa kohdassa 1.1–1.10 oikea vaihtoehto. Oikea vastaus 2 p., väärä vastaus 0 p., ei vastausta 0 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 128101,
+          "content": {
+            "text": "**Monivalintatehtäviä fysiikan eri osa-alueilta 20 p.**\n\n&NewLine;\n\nValitse jokaisessa kohdassa 1.1–1.10 oikea vaihtoehto. Oikea vastaus 2 p., väärä vastaus 0 p., ei vastausta 0 p.\n",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "22490d8f-4435-4488-bf72-bcaf55c84836",
+            "a52e823e-e8ef-4319-b28b-e1e9520264fc",
+            "a7174286-402d-47e6-8d98-11e24231cd39",
+            "ea400dad-539f-4678-9502-0df600c11855",
+            "dd4fc559-3633-4d78-a093-956ec7c1f04b",
+            "915ecfef-cc15-4a3f-9711-3b2c075e3abf",
+            "e3db1380-b2fb-465e-b081-deffe1a1490f",
+            "95504ae1-a0bc-4ce9-bd09-5b3838e4d6e1",
+            "97bd39e7-b5cf-4ff0-8357-318b434af77a",
+            "0bd5d97f-d68e-40d0-a8d2-f0e5c4d15fd7"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2022-04-20T05:46:32.091339",
+          "max_score": null,
+          "groupping": null,
+          "id": 4454364,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "31208ee5-938a-4c81-9122-c31af1fc2335",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2022-04-06T16:07:46.20304"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Etanoliauton polttomoottorilla saadaan etanolin energiasta hyötykäyttöön ainoastaan 44 %. Etanolia käyttävässä autossa 65 litran polttoainetankki takaa kuitenkin riittävän toimintasäteen. Sähköauton sähkömoottori hyödyntää sen sijaan jopa 89 % akun varastoituneesta energiasta, mutta tavallisen sähköauton akun energiatiheys on vain noin 150 Wh/kg.\n\n&NewLine;\n\nKuinka suuri pitää sähköauton akun massan olla, jotta täyteen ladatun sähköauton ja täyteen tankatun etanoliauton hyödynnettävien energioiden määrät olisivat yhtä suuret? **5 p.**\n",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso hyvän vastauksen piirteet tästä.|url=https://drive.google.com/file/d/1neZF4McuMS9MteK7C0nzlmQTRVkF3NfT/view]\n",
+          "exam_id": 128101,
+          "content": {
+            "text": "Etanoliauton polttomoottorilla saadaan etanolin energiasta hyötykäyttöön ainoastaan 44 %. Etanolia käyttävässä autossa 65 litran polttoainetankki takaa kuitenkin riittävän toimintasäteen. Sähköauton sähkömoottori hyödyntää sen sijaan jopa 89 % akun varastoituneesta energiasta, mutta tavallisen sähköauton akun energiatiheys on vain noin 150 Wh/kg.\n\n&NewLine;\n\nKuinka suuri pitää sähköauton akun massan olla, jotta täyteen ladatun sähköauton ja täyteen tankatun etanoliauton hyödynnettävien energioiden määrät olisivat yhtä suuret? **5 p.**\n",
+            "displayNumber": "9.4"
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-04-20T05:46:32.095782",
+          "max_score": null,
+          "groupping": null,
+          "id": 4453437,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "d1ec6a54-b9b5-4c59-bc1c-491c812e61f6",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2022-04-06T15:52:54.855895"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Elektroni saapuu homogeeniseen sähkökenttään kohtisuorasti kenttäviivoja vastaan. Miten elektroni käyttäytyy tultuaan sähkökenttään? **2 p.**\n\n&NewLine;\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 128101,
+          "content": {
+            "text": "Elektroni saapuu homogeeniseen sähkökenttään kohtisuorasti kenttäviivoja vastaan. Miten elektroni käyttäytyy tultuaan sähkökenttään? **2 p.**\n\n&NewLine;\n",
+            "displayNumber": "1.5"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-04-20T05:46:32.099773",
+          "max_score": 2,
+          "groupping": null,
+          "id": 4454688,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 23,
+              "text": "Elektroni alkaa liikkua pitkin ympyrärataa.",
+              "parent": "dd4fc559-3633-4d78-a093-956ec7c1f04b",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 24,
+              "text": "Elektroni jatkaa liikettään suoraviivaisesti.",
+              "parent": "dd4fc559-3633-4d78-a093-956ec7c1f04b",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 25,
+              "text": "Elektronin rata kaareutuu, kunnes sen liike on likimain kenttäviivojen suuntaista.",
+              "parent": "dd4fc559-3633-4d78-a093-956ec7c1f04b",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 26,
+              "text": "Elektroni pysähtyy.",
+              "parent": "dd4fc559-3633-4d78-a093-956ec7c1f04b",
+              "choices": []
+            }
+          ],
+          "uuid": "dd4fc559-3633-4d78-a093-956ec7c1f04b",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2022-04-06T16:14:14.28226"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Vauhdittomassa pituushypyssä ponnistetaan mahdollisimman pitkälle ilman alkuvauhtia. Mitä voit sanoa hyppääjään kohdistuvasta kokonaisvoimasta ponnistushetkellä? **2 p.**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 128101,
+          "content": {
+            "text": "Vauhdittomassa pituushypyssä ponnistetaan mahdollisimman pitkälle ilman alkuvauhtia. Mitä voit sanoa hyppääjään kohdistuvasta kokonaisvoimasta ponnistushetkellä? **2 p.**\n",
+            "displayNumber": "1.1"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-04-20T05:46:32.101713",
+          "max_score": 2,
+          "groupping": null,
+          "id": 4454416,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 23,
+              "text": "Kokonaisvoima on nolla.",
+              "parent": "22490d8f-4435-4488-bf72-bcaf55c84836",
+              "choices": []
+            },
+            {
+              "id": 24,
+              "text": "Kokonaisvoima suuntautuu vinosti eteen- ja ylöspäin.",
+              "parent": "22490d8f-4435-4488-bf72-bcaf55c84836",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 25,
+              "text": "Kokonaisvoima suuntautuu suoraan ylöspäin.",
+              "parent": "22490d8f-4435-4488-bf72-bcaf55c84836",
+              "choices": []
+            },
+            {
+              "id": 26,
+              "text": "Kokonaisvoima suuntautuu suoraan eteenpäin.",
+              "parent": "22490d8f-4435-4488-bf72-bcaf55c84836",
+              "choices": []
+            }
+          ],
+          "uuid": "22490d8f-4435-4488-bf72-bcaf55c84836",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2022-04-06T16:08:52.657385"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mitattuun dataan on sovitettu mustan kappaleen säteilyspektri. Kuinka suuri on sovitteen perusteella maapallon pintalämpötila? Hyödynnä tässä [LINK text=Wienin siirtymälakia taajuuden suhteen esitettynä|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/#11.2].** 8 p. **\n",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso tästä hyvän vastauksen piirteet.|url=https://drive.google.com/file/d/1neZF4McuMS9MteK7C0nzlmQTRVkF3NfT/view]\n",
+          "exam_id": 128101,
+          "content": {
+            "text": "Mitattuun dataan on sovitettu mustan kappaleen säteilyspektri. Kuinka suuri on sovitteen perusteella maapallon pintalämpötila? Hyödynnä tässä [LINK text=Wienin siirtymälakia taajuuden suhteen esitettynä|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/#11.2].** 8 p. **\n",
+            "displayNumber": "11.2"
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-04-20T05:46:32.103424",
+          "max_score": null,
+          "groupping": null,
+          "id": 4454263,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "9727bda2-b598-4c84-aa12-53fb2a7b64d8",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2022-04-06T16:05:11.989017"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": " Kuva [LINK text=11.B|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#11.B] esittää yläilmakehästä mitattua lämpösäteilyn intensiteetin alueellista jakaumaa maapallolla. Jakauma on keskiarvoistettu vuosilta 2003–2011. Selitä lyhyesti, mitkä tekijät vaikuttavat säteilyn alueellisiin vaihteluihin. **6 p.**\n",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso hyvän vastauksen piirteet tästä.|url=https://drive.google.com/file/d/1neZF4McuMS9MteK7C0nzlmQTRVkF3NfT/view]\n",
+          "exam_id": 128101,
+          "content": {
+            "text": " Kuva [LINK text=11.B|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#11.B] esittää yläilmakehästä mitattua lämpösäteilyn intensiteetin alueellista jakaumaa maapallolla. Jakauma on keskiarvoistettu vuosilta 2003–2011. Selitä lyhyesti, mitkä tekijät vaikuttavat säteilyn alueellisiin vaihteluihin. **6 p.**\n",
+            "displayNumber": "11.3"
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-04-20T05:46:32.105505",
+          "max_score": null,
+          "groupping": null,
+          "id": 4454213,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "5e803de6-70f5-4c27-943c-e2c6a165fb1a",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2022-04-06T16:04:00.112146"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Intensiteettijakauman muodossa erottuu selkeitä kuoppia kohdissa A ja B. Mikä on kohdan A kuoppaa vastaava aallonpituusväli? Mistä nämä kuopat intensiteettijakaumassa johtuvat?** 6 p.**\n",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso hyvän vastauksen piirteet tästä.|url=https://drive.google.com/file/d/1neZF4McuMS9MteK7C0nzlmQTRVkF3NfT/view]\n",
+          "exam_id": 128101,
+          "content": {
+            "text": "Intensiteettijakauman muodossa erottuu selkeitä kuoppia kohdissa A ja B. Mikä on kohdan A kuoppaa vastaava aallonpituusväli? Mistä nämä kuopat intensiteettijakaumassa johtuvat?** 6 p.**\n",
+            "displayNumber": "11.1"
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-04-20T05:46:32.107498",
+          "max_score": null,
+          "groupping": null,
+          "id": 4454116,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "c52e1d3d-b1eb-48ff-a21a-8abd0ba5ecd7",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2022-04-06T16:02:38.555917"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Maissipellolle Auringosta tuleva vuosittainen energia pinta-alaa kohden on keskimäärin 1,46 MWh/m2.\n\n&NewLine;\n\nLaske bioetanoliin pohjautuvan energiantuotannon maksimaalinen hyötysuhde (eli hyödynnettävän energian ja Auringosta tulleen energian suhde), jos korkeintaan 44 % etanolin vapautuvasta energiasta saadaan hyötykäyttöön. **6 p.**\n",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso hyvän vastauksen piirteet tästä.|url=https://drive.google.com/file/d/1neZF4McuMS9MteK7C0nzlmQTRVkF3NfT/view]\n",
+          "exam_id": 128101,
+          "content": {
+            "text": "Maissipellolle Auringosta tuleva vuosittainen energia pinta-alaa kohden on keskimäärin 1,46 MWh/m2.\n\n&NewLine;\n\nLaske bioetanoliin pohjautuvan energiantuotannon maksimaalinen hyötysuhde (eli hyödynnettävän energian ja Auringosta tulleen energian suhde), jos korkeintaan 44 % etanolin vapautuvasta energiasta saadaan hyötykäyttöön. **6 p.**\n",
+            "displayNumber": "9.1"
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-04-20T05:46:32.1102",
+          "max_score": null,
+          "groupping": null,
+          "id": 4453282,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "c5767543-0498-42f8-b277-828fca038033",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2022-04-06T15:51:20.081148"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Taulukossa [LINK text=10.D|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#10.D] on esitetty massakeskipisteen tason suuntainen nopeus ajan funktiona. Määritä sopivaa graafista esitystä käyttäen arvo, jota lieriön massakeskipisteen tason suuntainen kiihtyvyys lähestyy liikkeen edetessä. **5 p.**\n",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso hyvän vastauksen piirteet tästä.|url=https://drive.google.com/file/d/1neZF4McuMS9MteK7C0nzlmQTRVkF3NfT/view]\n",
+          "exam_id": 128101,
+          "content": {
+            "text": "Taulukossa [LINK text=10.D|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#10.D] on esitetty massakeskipisteen tason suuntainen nopeus ajan funktiona. Määritä sopivaa graafista esitystä käyttäen arvo, jota lieriön massakeskipisteen tason suuntainen kiihtyvyys lähestyy liikkeen edetessä. **5 p.**\n",
+            "displayNumber": "10.5"
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-04-20T05:46:32.112355",
+          "max_score": null,
+          "groupping": null,
+          "id": 4453698,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "e8b41a50-224f-4a05-806f-762e3d125366",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2022-04-06T15:59:04.694237"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Boori-neutronikaappaushoito 15 p.**\n\n&NewLine;\n\n**Aineisto**\n\n[LINK text=8 A Teksti: Uudenlaista sädehoitoa Meilahdessa|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#8.A]\n\n&NewLine;\n\nLue boori-neutronikaappaushoidosta kertova teksti [LINK text=8.A|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#8.A], ja vastaa artikkelin ja tietämyksesi perusteella tehtäviin 8.1–8.3.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 128101,
+          "content": {
+            "text": "**Boori-neutronikaappaushoito 15 p.**\n\n&NewLine;\n\n**Aineisto**\n\n[LINK text=8 A Teksti: Uudenlaista sädehoitoa Meilahdessa|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#8.A]\n\n&NewLine;\n\nLue boori-neutronikaappaushoidosta kertova teksti [LINK text=8.A|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#8.A], ja vastaa artikkelin ja tietämyksesi perusteella tehtäviin 8.1–8.3.\n",
+            "displayNumber": "8."
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "a67a95b2-3f63-435e-8d0d-8bfb29b2cb60",
+            "08bbaa37-d969-4afe-b387-31b3a445ceea",
+            "0f3d2e30-c3df-4bfa-bd64-588cb62703c2"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2022-04-20T05:46:32.1148",
+          "max_score": null,
+          "groupping": null,
+          "id": 4453040,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "dca7541a-2c00-47e3-954a-76cab27113a4",
+          "order_number": 11,
+          "multipart": true,
+          "created_at": "2022-04-06T15:47:03.379681"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Videossa [LINK text=10.A|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#10.A] havaitaan, että lieriö irtoaa jossain vaiheessa alustasta. Vastaa aineiston 10.C perusteella, millä ajanhetkellä tämä tapahtuu.** 4 p.**\n",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso hyvän vastauksen piirteet tästä.|url=https://drive.google.com/file/d/1neZF4McuMS9MteK7C0nzlmQTRVkF3NfT/view]\n",
+          "exam_id": 128101,
+          "content": {
+            "text": "Videossa [LINK text=10.A|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#10.A] havaitaan, että lieriö irtoaa jossain vaiheessa alustasta. Vastaa aineiston 10.C perusteella, millä ajanhetkellä tämä tapahtuu.** 4 p.**\n",
+            "displayNumber": "10.4"
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-04-20T05:46:32.117034",
+          "max_score": null,
+          "groupping": null,
+          "id": 4453652,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "d85c54a4-a166-4cc4-ad0f-c8ea15331ca8",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2022-04-06T15:58:25.546325"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Aineistossa [LINK text=10.C|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#10.C] on esitetty simuloimalla määritetty lieriöön kohdistuva tukivoima. Miksi tukivoimalla on paikallisia maksimi- ja minimiarvoja?** 5 p.**\n",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso hyvän vastauksen piirteet tästä.|url=https://drive.google.com/file/d/1neZF4McuMS9MteK7C0nzlmQTRVkF3NfT/view]\n",
+          "exam_id": 128101,
+          "content": {
+            "text": "Aineistossa [LINK text=10.C|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#10.C] on esitetty simuloimalla määritetty lieriöön kohdistuva tukivoima. Miksi tukivoimalla on paikallisia maksimi- ja minimiarvoja?** 5 p.**\n",
+            "displayNumber": "10.3"
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-04-20T05:46:32.119645",
+          "max_score": null,
+          "groupping": null,
+          "id": 4453607,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "8490b239-ff5b-4fa7-a95d-8d2d4de8411c",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2022-04-06T15:56:52.203821"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Onko lieriöön vaikuttava kitka liuku- vai lepokitkaa? **2 p.**\n",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso hyvän vastauksen piirteet tästä.|url=https://drive.google.com/file/d/1neZF4McuMS9MteK7C0nzlmQTRVkF3NfT/view]\n",
+          "exam_id": 128101,
+          "content": {
+            "text": "Onko lieriöön vaikuttava kitka liuku- vai lepokitkaa? **2 p.**\n",
+            "displayNumber": "10.2"
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-04-20T05:46:32.122214",
+          "max_score": null,
+          "groupping": null,
+          "id": 4453563,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "0ee74bd8-e0c6-4e93-8c80-9e75a5fb53ee",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2022-04-06T15:56:12.68846"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Piirrä kuva lieriöön vaikuttavista voimista kuvan [LINK text=10.B|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#10.B] mukaisessa tilanteessa. **4 p.**\n",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso hyvän vastauksen piirteet tästä.|url=https://drive.google.com/file/d/1neZF4McuMS9MteK7C0nzlmQTRVkF3NfT/view]\n",
+          "exam_id": 128101,
+          "content": {
+            "text": "Piirrä kuva lieriöön vaikuttavista voimista kuvan [LINK text=10.B|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#10.B] mukaisessa tilanteessa. **4 p.**\n",
+            "displayNumber": "10.1"
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-04-20T05:46:32.12429",
+          "max_score": null,
+          "groupping": null,
+          "id": 4453520,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "074ba389-e236-4f09-b2bc-0c5c7cfdb823",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2022-04-06T15:55:49.102642"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Tekstissä [LINK text=8.A|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#8.A] kerrotaan, että aiemmin boori-neutronikaappaushoidossa tarvitut neutronit saatiin ydinreaktorista. Kerro, kuinka neutroneita tuotetaan ydinreaktorissa. Miten uusi tekniikka eroaa tästä? **4 p.**\n\n​\n",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso hyvän vastauksen piirteet tästä.|url=https://drive.google.com/file/d/1neZF4McuMS9MteK7C0nzlmQTRVkF3NfT/view]\n",
+          "exam_id": 128101,
+          "content": {
+            "text": "Tekstissä [LINK text=8.A|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#8.A] kerrotaan, että aiemmin boori-neutronikaappaushoidossa tarvitut neutronit saatiin ydinreaktorista. Kerro, kuinka neutroneita tuotetaan ydinreaktorissa. Miten uusi tekniikka eroaa tästä? **4 p.**\n\n​\n",
+            "displayNumber": "8.3"
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-04-20T05:46:32.125894",
+          "max_score": null,
+          "groupping": null,
+          "id": 4453174,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "0f3d2e30-c3df-4bfa-bd64-588cb62703c2",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2022-04-06T15:48:50.50028"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Reaktiossa vapautuu lopulta alfahiukkanen, tytärydin ja gammahiukkanen. Vertaile näiden hiukkasten merkitystä syöpäsolujen paikallisessa tuhoamisessa. **6 p.**\n\n&NewLine;\n",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso hyvän vastauksen piirteet tästä.|url=https://drive.google.com/file/d/1neZF4McuMS9MteK7C0nzlmQTRVkF3NfT/view]\n",
+          "exam_id": 128101,
+          "content": {
+            "text": "Reaktiossa vapautuu lopulta alfahiukkanen, tytärydin ja gammahiukkanen. Vertaile näiden hiukkasten merkitystä syöpäsolujen paikallisessa tuhoamisessa. **6 p.**\n\n&NewLine;\n",
+            "displayNumber": "8.2"
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-04-20T05:46:32.131549",
+          "max_score": null,
+          "groupping": null,
+          "id": 4453139,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "08bbaa37-d969-4afe-b387-31b3a445ceea",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2022-04-06T15:48:12.175756"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kirjoita reaktioyhtälö välivaiheineen neutronikaappauksesta lopputuotteisiin. **5 p.**\n",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso hyvän vastauksen piirteet tästä.|url=https://drive.google.com/file/d/1neZF4McuMS9MteK7C0nzlmQTRVkF3NfT/view]\n",
+          "exam_id": 128101,
+          "content": {
+            "text": "Kirjoita reaktioyhtälö välivaiheineen neutronikaappauksesta lopputuotteisiin. **5 p.**\n",
+            "displayNumber": "8.1"
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-04-20T05:46:32.134404",
+          "max_score": null,
+          "groupping": null,
+          "id": 4453105,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "a67a95b2-3f63-435e-8d0d-8bfb29b2cb60",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2022-04-06T15:47:43.580229"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": " Määritä hiukkasen varauksen etumerkki ja hiukkasen massa. **11 p.**\n",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso hyvän vastauksen piirteet tästä.|url=https://drive.google.com/file/d/1neZF4McuMS9MteK7C0nzlmQTRVkF3NfT/view]\n",
+          "exam_id": 128101,
+          "content": {
+            "text": " Määritä hiukkasen varauksen etumerkki ja hiukkasen massa. **11 p.**\n",
+            "displayNumber": "7.1"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-04-20T05:46:32.136943",
+          "max_score": null,
+          "groupping": null,
+          "id": 4452977,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "2b74b19e-69e4-484b-a4b7-2db3b433b3e5",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2022-04-06T15:45:46.802644"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": " Tarkastellaan yleisesti tilannetta, jossa veden aallot lähestyvät rantaa vinosti. Ranta on loivasti madaltuva. Mikä seuraavista aaltoliikkeen ominaisuuksista **ei** tällöin muutu? **3 p.**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 128101,
+          "content": {
+            "text": " Tarkastellaan yleisesti tilannetta, jossa veden aallot lähestyvät rantaa vinosti. Ranta on loivasti madaltuva. Mikä seuraavista aaltoliikkeen ominaisuuksista **ei** tällöin muutu? **3 p.**\n",
+            "displayNumber": "6.7"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-04-20T05:46:32.139449",
+          "max_score": 2,
+          "groupping": null,
+          "id": 4452806,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 17,
+              "text": "Aallonpituus",
+              "parent": "0ca0abec-a58c-4feb-aa2f-2c945e367845",
+              "choices": []
+            },
+            {
+              "id": 18,
+              "text": "Amplitudi",
+              "parent": "0ca0abec-a58c-4feb-aa2f-2c945e367845",
+              "choices": []
+            },
+            {
+              "id": 19,
+              "text": "Etenemisnopeus",
+              "parent": "0ca0abec-a58c-4feb-aa2f-2c945e367845",
+              "choices": []
+            },
+            {
+              "id": 20,
+              "text": "Etenemissuunta",
+              "parent": "0ca0abec-a58c-4feb-aa2f-2c945e367845",
+              "choices": []
+            },
+            {
+              "id": 21,
+              "text": "Taajuus",
+              "parent": "0ca0abec-a58c-4feb-aa2f-2c945e367845",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 22,
+              "text": "En vastaa",
+              "parent": "0ca0abec-a58c-4feb-aa2f-2c945e367845",
+              "choices": []
+            }
+          ],
+          "uuid": "0ca0abec-a58c-4feb-aa2f-2c945e367845",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2022-04-06T15:42:20.745138"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mitä tarkoittaa aineistossa käytetty termi pyyhkäisymatka? **2 p.**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 128101,
+          "content": {
+            "text": "Mitä tarkoittaa aineistossa käytetty termi pyyhkäisymatka? **2 p.**\n",
+            "displayNumber": "6.6"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-04-20T05:46:32.1422",
+          "max_score": 2,
+          "groupping": null,
+          "id": 4452779,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 12,
+              "text": "Merialueen leveys havaintopaikan kohdalla",
+              "parent": "c2406f87-f36a-4a00-8ef6-f76a63989600",
+              "choices": []
+            },
+            {
+              "id": 13,
+              "text": "Matka, jolla tuuli on voinut vapaasti kasvattaa aallokkoa havaintopaikalle asti",
+              "parent": "c2406f87-f36a-4a00-8ef6-f76a63989600",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 14,
+              "text": "Matka, jonka aallot voivat vapaasti edetä havaintopaikalta rantaan asti",
+              "parent": "c2406f87-f36a-4a00-8ef6-f76a63989600",
+              "choices": []
+            },
+            {
+              "id": 15,
+              "text": "Havaintopaikan tuulen nopeuden ja kestoajan tulo",
+              "parent": "c2406f87-f36a-4a00-8ef6-f76a63989600",
+              "choices": []
+            },
+            {
+              "id": 16,
+              "text": "En vastaa",
+              "parent": "c2406f87-f36a-4a00-8ef6-f76a63989600",
+              "choices": []
+            }
+          ],
+          "uuid": "c2406f87-f36a-4a00-8ef6-f76a63989600",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2022-04-06T15:41:46.831209"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kuinka suurella nopeudella Itämeren tyypillisen aallokon korkeimmat aallot etenevät syvässä vedessä? **2 p.**\n\nVastaus: [GAP id=3] m/s\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 128101,
+          "content": {
+            "text": "Kuinka suurella nopeudella Itämeren tyypillisen aallokon korkeimmat aallot etenevät syvässä vedessä? **2 p.**\n\nVastaus: [GAP id=3] m/s\n",
+            "displayNumber": "6.3"
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-04-20T05:46:32.144406",
+          "max_score": 2,
+          "groupping": null,
+          "id": 4452704,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 3,
+              "parent": "69429fe5-131d-4336-b69c-4870e99b37a3",
+              "choices": [],
+              "correct": "8",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "69429fe5-131d-4336-b69c-4870e99b37a3",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2022-04-06T15:37:38.502655"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kuinka suuri on Itämeren tyypillisessä aallokossa korkeimpien aaltojen taajuus?** 2 p.**\n\nVastaus: [GAP id=2] Hz\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 128101,
+          "content": {
+            "text": "Kuinka suuri on Itämeren tyypillisessä aallokossa korkeimpien aaltojen taajuus?** 2 p.**\n\nVastaus: [GAP id=2] Hz\n",
+            "displayNumber": "6.2"
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-04-20T05:46:32.14635",
+          "max_score": 2,
+          "groupping": null,
+          "id": 4452681,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 2,
+              "parent": "0ea8e174-f231-4e78-83ac-25fa2e677122",
+              "choices": [],
+              "correct": "0,2",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "0ea8e174-f231-4e78-83ac-25fa2e677122",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2022-04-06T15:35:53.812376"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kuinka suuri on ollut Itämeren korkeimpien yksittäisten aaltojen amplitudi? **2 p**.\n\nVastaus: [GAP id=1] m\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 128101,
+          "content": {
+            "text": "Kuinka suuri on ollut Itämeren korkeimpien yksittäisten aaltojen amplitudi? **2 p**.\n\nVastaus: [GAP id=1] m\n",
+            "displayNumber": "6.1"
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-04-20T05:46:32.148046",
+          "max_score": 2,
+          "groupping": null,
+          "id": 4452660,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "parent": "21b6aa2c-36b6-4a2e-a041-a20770f15f2c",
+              "choices": [],
+              "correct": "7",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "21b6aa2c-36b6-4a2e-a041-a20770f15f2c",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2022-04-06T15:35:00.804082"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Nimeä kolme fysikaalisten tieteiden osa-aluetta, joiden asiantuntemusta tarvitaan tuulivoimalan suunnittelussa tai rakentamisessa. **3 p.**\n",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso hyvän vastauksen piirteet tästä.|url=https://drive.google.com/file/d/1neZF4McuMS9MteK7C0nzlmQTRVkF3NfT/view]\n",
+          "exam_id": 128101,
+          "content": {
+            "text": "Nimeä kolme fysikaalisten tieteiden osa-aluetta, joiden asiantuntemusta tarvitaan tuulivoimalan suunnittelussa tai rakentamisessa. **3 p.**\n",
+            "displayNumber": "2.2"
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-04-20T05:46:32.14977",
+          "max_score": null,
+          "groupping": null,
+          "id": 4452621,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "2917dcc9-d4ff-45e6-9537-9a75399de497",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2022-04-06T15:30:54.750921"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Tuulivoimala 15 p.**\n\n​\n\n**Aineisto**\n\n[LINK text=2 A Kuva: Tuulivoimalan roottorin kaaviokuva|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#2.A]\n\n[LINK text=2 B Taulukko: Tuulivoimaloiden ominaisuuksia|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#2.B]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 128101,
+          "content": {
+            "text": "**Tuulivoimala 15 p.**\n\n​\n\n**Aineisto**\n\n[LINK text=2 A Kuva: Tuulivoimalan roottorin kaaviokuva|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#2.A]\n\n[LINK text=2 B Taulukko: Tuulivoimaloiden ominaisuuksia|url=https://yle.fi/plus/abitreenit/2022/Kevat/2022-03-30\\_FY\\_fi/attachments/index.html#2.B]\n",
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "8757dcbc-6810-44fb-837d-f158ccb0fe66",
+            "2917dcc9-d4ff-45e6-9537-9a75399de497"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2022-04-20T05:46:32.151836",
+          "max_score": null,
+          "groupping": null,
+          "id": 4452570,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "e9185319-0edc-4745-8bbe-46415f3385ca",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2022-04-06T15:28:34.461342"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Osa 1: 20 pisteen tehtävät\n\n_Vastaa tehtävään 1._\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 128101,
+          "content": {
+            "text": "### Osa 1: 20 pisteen tehtävät\n\n_Vastaa tehtävään 1._\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2022-04-20T05:46:32.153897",
+          "max_score": null,
+          "groupping": null,
+          "id": 4388798,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "d0fb2b04-84ca-40fc-a14a-5ed16312a7a3",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2022-04-04T14:14:58.527657"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Hissin ollessa paikallaan opiskelija kiinnittää kännykkänsä riippumaan jousivaa’an koukkuun. Vaaka näyttää arvoa 1,93 N. Hissin lähdettyä liikkeelle vaa’an lukema on 2,23 N. Kumpaan suuntaan ja kuinka suurella kiihtyvyydellä hissi liikkuu?** 8 p.**\n",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso hyvän vastauksen piirteet tästä.|url=https://drive.google.com/file/d/1neZF4McuMS9MteK7C0nzlmQTRVkF3NfT/view]\n",
+          "exam_id": 128101,
+          "content": {
+            "text": "Hissin ollessa paikallaan opiskelija kiinnittää kännykkänsä riippumaan jousivaa’an koukkuun. Vaaka näyttää arvoa 1,93 N. Hissin lähdettyä liikkeelle vaa’an lukema on 2,23 N. Kumpaan suuntaan ja kuinka suurella kiihtyvyydellä hissi liikkuu?** 8 p.**\n",
+            "displayNumber": "5.1"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-04-20T05:46:32.155987",
+          "max_score": null,
+          "groupping": null,
+          "id": 4388816,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "2634a22d-2b29-42d7-9200-f39e1c007eb0",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2022-04-04T14:24:21.216241"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mitkä ovat vastusten R1 ja RLDR resistanssien arvot, kun valaistusvoimakkuus on 540 lx?** 4 p.**\n",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso hyvän vastauksen piirteet tästä.|url=https://drive.google.com/file/d/1neZF4McuMS9MteK7C0nzlmQTRVkF3NfT/view]\n",
+          "exam_id": 128101,
+          "content": {
+            "text": "Mitkä ovat vastusten R1 ja RLDR resistanssien arvot, kun valaistusvoimakkuus on 540 lx?** 4 p.**\n",
+            "displayNumber": "4.3"
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-04-20T05:46:32.157699",
+          "max_score": null,
+          "groupping": null,
+          "id": 4388982,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "5ed6c63f-19f4-4d51-954f-0455a7a4d0f1",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2022-04-04T14:41:18.373319"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "** Kaasun puristus 15 p.**\n\n&NewLine;\n\nSylinteri, jonka sisällä on herkästi liikkuva mäntä, täytetään 1,1 litralla ulkoilmaa. Ulkona vallitsee 5,0 ℃:n lämpötila ja ilmanpaine on 101 kPa. Mäntä painetaan nopeasti sylinterin sisään, jolloin sylinterissä olevan kaasun tilavuus pienenee 0,38 litraan ja paine kasvaa 447 kPa:iin. Mäntä lukitaan paikoilleen ja sylinteri tuodaan välittömästi laboratorioon. Sen jälkeen odotetaan, että kaasun lämpötila saavuttaa laboratorion lämpötilan 24 ℃.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 128101,
+          "content": {
+            "text": "** Kaasun puristus 15 p.**\n\n&NewLine;\n\nSylinteri, jonka sisällä on herkästi liikkuva mäntä, täytetään 1,1 litralla ulkoilmaa. Ulkona vallitsee 5,0 ℃:n lämpötila ja ilmanpaine on 101 kPa. Mäntä painetaan nopeasti sylinterin sisään, jolloin sylinterissä olevan kaasun tilavuus pienenee 0,38 litraan ja paine kasvaa 447 kPa:iin. Mäntä lukitaan paikoilleen ja sylinteri tuodaan välittömästi laboratorioon. Sen jälkeen odotetaan, että kaasun lämpötila saavuttaa laboratorion lämpötilan 24 ℃.\n",
+            "displayNumber": "3."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "78101518-7811-4d6c-94a7-20e4902b3418",
+            "4695edc6-709e-4b71-bc63-9bd2a22a52ab"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2022-04-20T05:46:32.15953",
+          "max_score": null,
+          "groupping": null,
+          "id": 4388837,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "2cbb1f16-459f-4840-a25a-153f5ec56cbc",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2022-04-04T14:26:47.055562"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": " Mikä on suurin valaistusvoimakkuuden arvo, jolla ledi vielä palaa? **3 p.**\n",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso hyvän vastauksen piirteet tästä.|url=https://drive.google.com/file/d/1neZF4McuMS9MteK7C0nzlmQTRVkF3NfT/view]\n",
+          "exam_id": 128101,
+          "content": {
+            "text": " Mikä on suurin valaistusvoimakkuuden arvo, jolla ledi vielä palaa? **3 p.**\n",
+            "displayNumber": "4.1"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-04-20T05:46:32.161497",
+          "max_score": null,
+          "groupping": null,
+          "id": 4388940,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "e45636f1-a097-476a-8551-2161b46c4e63",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2022-04-04T14:39:27.723723"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Selitä käsitteitä lämpö ja työ käyttäen, mitä muutoksia kaasun sisäenergiassa tapahtuu\n\n- kaasun puristuksen aikana\n- kaasun lämpötilan muuttuessa kohti laboratorion lämpötilaa.\n\n**7 p.**\n\n&NewLine;\n",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso hyvän vastauksen piirteet tästä.|url=https://drive.google.com/file/d/1neZF4McuMS9MteK7C0nzlmQTRVkF3NfT/view]\n",
+          "exam_id": 128101,
+          "content": {
+            "text": "Selitä käsitteitä lämpö ja työ käyttäen, mitä muutoksia kaasun sisäenergiassa tapahtuu\n\n- kaasun puristuksen aikana\n- kaasun lämpötilan muuttuessa kohti laboratorion lämpötilaa.\n\n**7 p.**\n\n&NewLine;\n",
+            "displayNumber": "3.2"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-04-20T05:46:32.163406",
+          "max_score": null,
+          "groupping": null,
+          "id": 4388916,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "4695edc6-709e-4b71-bc63-9bd2a22a52ab",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2022-04-04T14:36:22.569903"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Määritä kaasun paine, kun kaasun lämpötila on saavuttanut loppulämpötilan 24 ˚C. **8 p.**\n",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso hyvän vastauksen piirteet tästä.|url=https://drive.google.com/file/d/1neZF4McuMS9MteK7C0nzlmQTRVkF3NfT/view]\n",
+          "exam_id": 128101,
+          "content": {
+            "text": "Määritä kaasun paine, kun kaasun lämpötila on saavuttanut loppulämpötilan 24 ˚C. **8 p.**\n",
+            "displayNumber": "3.1"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-04-20T05:46:32.165249",
+          "max_score": null,
+          "groupping": null,
+          "id": 4388870,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "78101518-7811-4d6c-94a7-20e4902b3418",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2022-04-04T14:34:54.76318"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Hissin lähtiessä liikkeelle opiskelija havaitsee jousivaa’an jousen venyvän 4,5 cm lisää. Kuinka suuri on jousivaa’an jousen jousivakio?** 7 p.**\n",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso hyvän vastauksen piirteet tästä. |url=https://drive.google.com/file/d/1neZF4McuMS9MteK7C0nzlmQTRVkF3NfT/view]\n",
+          "exam_id": 128101,
+          "content": {
+            "text": "Hissin lähtiessä liikkeelle opiskelija havaitsee jousivaa’an jousen venyvän 4,5 cm lisää. Kuinka suuri on jousivaa’an jousen jousivakio?** 7 p.**\n",
+            "displayNumber": "5.2"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2022-04-20T05:46:32.167049",
+          "max_score": null,
+          "groupping": null,
+          "id": 4388829,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "15be4f31-0b49-4a2f-9729-97c6af0f9a67",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2022-04-04T14:25:44.343077"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Hissi 15 p.**\n\n&NewLine;\n\nOpiskelija tutkii hississä jousivaa’an avulla kiihtyvyyden ja voiman riippuvuutta toisistaan.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 128101,
+          "content": {
+            "text": "**Hissi 15 p.**\n\n&NewLine;\n\nOpiskelija tutkii hississä jousivaa’an avulla kiihtyvyyden ja voiman riippuvuutta toisistaan.\n",
+            "displayNumber": "5."
+          },
+          "images": null,
+          "settings": {
+            "material": false,
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "2634a22d-2b29-42d7-9200-f39e1c007eb0",
+            "15be4f31-0b49-4a2f-9729-97c6af0f9a67"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2022-04-20T05:46:32.168952",
+          "max_score": null,
+          "groupping": null,
+          "id": 4388810,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "418fa91a-7350-4674-a181-65bb5764611c",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2022-04-04T14:23:41.073692"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Osa 3: 20 pisteen tehtävät\n\n_Vastaa kahteen tehtävään._\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 128101,
+          "content": {
+            "text": "### Osa 3: 20 pisteen tehtävät\n\n_Vastaa kahteen tehtävään._\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2022-04-20T05:46:32.170643",
+          "max_score": null,
+          "groupping": null,
+          "id": 4388805,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "4bf4728c-7578-4814-b7b0-68308762bd02",
+          "order_number": 12,
+          "multipart": true,
+          "created_at": "2022-04-04T14:15:50.726696"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Osa 2: 15 pisteen tehtävät\n\n_Vastaa neljään tehtävään._\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 128101,
+          "content": {
+            "text": "### Osa 2: 15 pisteen tehtävät\n\n_Vastaa neljään tehtävään._\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2022-04-20T05:46:32.173448",
+          "max_score": null,
+          "groupping": null,
+          "id": 4388801,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "7c82467e-e6ff-4a9d-9d07-2d9586812f2d",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2022-04-04T14:15:19.004922"
+        }
+      ],
+      "name": "Fysiikka kevät 2022",
+      "settings": {
+        "hideTitle": false,
+        "overrideTitle": true
+      },
+      "exam_type": "yo-koe",
+      "classification": {
+        "category": "",
+        "disable_saving": false,
+        "hide_review_buttons": false,
+        "exam_type": "yo-koe",
+        "year": "2022",
+        "language": "fi-FI",
+        "hide_statistics": false,
+        "show_exam_series": false,
+        "force_yletunnus": false,
+        "subject": "fysiikka",
+        "published": true,
+        "semester": "spring"
+      },
+      "published_at": "2022-04-06T16:22:17.000Z",
+      "language": "fi-FI",
+      "id": 128101,
+      "reviews": [],
+      "is_open": true,
+      "uuid": "c72ea2da-789a-4896-a18b-64e01d634761"
+    }
+  ]
+}

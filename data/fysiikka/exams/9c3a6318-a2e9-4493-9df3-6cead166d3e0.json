@@ -1,0 +1,1864 @@
+{
+  "meta": {
+    "count": 1
+  },
+  "data": [
+    {
+      "tags": [
+        ""
+      ],
+      "main_text": "### Osa I: 20 pisteen tehtävä\n\nVastaa tehtävään 1.\n",
+      "characters": null,
+      "deleted_at": null,
+      "series_uuids": [],
+      "questions": [
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Määritä annetun aineiston perusteella, missä lämpötilassa vesi on höyrypuhdistimen paineastiassa, kun laite on käyttövalmis. 8 p.\n",
+          "deleted_at": null,
+          "feedback": "Tasapainotilassa höyrypuhdistimen säiliössä on nestemäistä vettä ja vesihöyryä. Systeemin tila on siis veden faasidiagrammissa kaasun ja nesteen rajakäyrällä. (4 p.)\n\nLaitteen arvokilven mukaan käyttöpaine on 3,5 bar. Veden lämpötila on faasidiagrammin mukaan tällöin noin 140 °C. (4 p.)\n",
+          "exam_id": 72305,
+          "content": {
+            "text": "Määritä annetun aineiston perusteella, missä lämpötilassa vesi on höyrypuhdistimen paineastiassa, kun laite on käyttövalmis. 8 p.\n",
+            "displayNumber": "11.1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T07:36:18.969066",
+          "max_score": null,
+          "groupping": null,
+          "id": 2647859,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "eb2470d2-da41-40a6-a5d1-244ad7a2972f",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2020-06-26T14:34:01.609516"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Röntgensäteily 15 p.**\n\n&NewLine;\n\nKuvassa 8. A on esitetty molybdeenianodisen röntgenputken tuottaman säteilyn spektri, kun kiihdytysjännitteen arvo on 28 kV.\n\n&NewLine;\n\n**Aineisto**\n\nKuva: [LINK url=http://yle.fi/plus/abitreenit/2020/kevat/2020-03-26\\_FY\\_fi/attachments/index.html#8.%20A|text=Röntgenputken säteilyn spektri]\n\n&NewLine;\n\n_Huom. Abitreenien harjoittelukokeessa ei voi käyttää kuvakaappauksia eikä kaavaeditoria._\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 72305,
+          "content": {
+            "text": "**Röntgensäteily 15 p.**\n\n&NewLine;\n\nKuvassa 8. A on esitetty molybdeenianodisen röntgenputken tuottaman säteilyn spektri, kun kiihdytysjännitteen arvo on 28 kV.\n\n&NewLine;\n\n**Aineisto**\n\nKuva: [LINK url=http://yle.fi/plus/abitreenit/2020/kevat/2020-03-26\\_FY\\_fi/attachments/index.html#8.%20A|text=Röntgenputken säteilyn spektri]\n\n&NewLine;\n\n_Huom. Abitreenien harjoittelukokeessa ei voi käyttää kuvakaappauksia eikä kaavaeditoria._\n",
+            "displayNumber": "8."
+          },
+          "images": null,
+          "settings": {
+            "material": true
+          },
+          "child_ids": [
+            "c109076f-e652-460e-96eb-7e08d1735c9d",
+            "9660044e-ad8a-4a1f-b9c8-4b05b4d84f2f"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-30T07:36:18.966151",
+          "max_score": null,
+          "groupping": null,
+          "id": 2647527,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "0a8130c7-87bb-4ef4-b52f-65b21eeeb82b",
+          "order_number": 14,
+          "multipart": true,
+          "created_at": "2020-06-26T14:07:52.987833"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Käytetään punaista laservaloa ja kohteeksi asetetaan hila. Hilassa on monta hyvin kapeaa rakoa, jotka ovat etäisyydellä a toisistaan. Tällöin varjostimelle syntyy kuvassa 4. B esitetty valokuvio. Mistä ilmiöstä on kyse? Vastausta ei tarvitse perustella. 3 p.\n",
+          "deleted_at": null,
+          "feedback": "4.1. Ilmiössä on kyse valon taipumisesta eli diffraktiosta. Varjostimelle syntyy valoisia pisteitä sellaisiin kohtiin, jossa eri raoista tulleen säteet interferoivat vahvistavasti. (3 p.)\n",
+          "exam_id": 72305,
+          "content": {
+            "text": "Käytetään punaista laservaloa ja kohteeksi asetetaan hila. Hilassa on monta hyvin kapeaa rakoa, jotka ovat etäisyydellä a toisistaan. Tällöin varjostimelle syntyy kuvassa 4. B esitetty valokuvio. Mistä ilmiöstä on kyse? Vastausta ei tarvitse perustella. 3 p.\n",
+            "displayNumber": "4.1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T07:36:18.956835",
+          "max_score": null,
+          "groupping": null,
+          "id": 2647067,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "ad522ba5-5a37-4329-86fc-6a67edc2d3bd",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2020-06-26T13:00:39.623955"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Suure, joka kuvaa hiukkasen tai kappaleen kykyä aiheuttaa tai tuntea sähköistä vuorovaikutusta, on 2 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 72305,
+          "content": {
+            "text": "Suure, joka kuvaa hiukkasen tai kappaleen kykyä aiheuttaa tai tuntea sähköistä vuorovaikutusta, on 2 p.\n",
+            "displayNumber": "1.10."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T07:36:18.947615",
+          "max_score": 2,
+          "groupping": null,
+          "id": 2358756,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 25,
+              "text": "potentiaali",
+              "parent": "0626ddf9-fb34-451d-9297-e10112cf9a6a",
+              "choices": []
+            },
+            {
+              "id": 26,
+              "text": "sähkökentän voimakkuus",
+              "parent": "0626ddf9-fb34-451d-9297-e10112cf9a6a",
+              "choices": []
+            },
+            {
+              "id": 27,
+              "text": "varaus",
+              "parent": "0626ddf9-fb34-451d-9297-e10112cf9a6a",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 28,
+              "text": "jännite",
+              "parent": "0626ddf9-fb34-451d-9297-e10112cf9a6a",
+              "choices": []
+            }
+          ],
+          "uuid": "0626ddf9-fb34-451d-9297-e10112cf9a6a",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2020-06-03T06:53:01.371672"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "[LINK url=http://yle.fi/plus/abitreenit/2020/kevat/2020-03-26\\_FY\\_fi/index.html#1|text=Katso video 1. D.] Huom.! Videossa ei ole ääntä. Videolla kuvattu ilmiö on 2 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 72305,
+          "content": {
+            "text": "[LINK url=http://yle.fi/plus/abitreenit/2020/kevat/2020-03-26\\_FY\\_fi/index.html#1|text=Katso video 1. D.] Huom.! Videossa ei ole ääntä. Videolla kuvattu ilmiö on 2 p.\n",
+            "displayNumber": "1.4."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T07:36:18.945122",
+          "max_score": 2,
+          "groupping": null,
+          "id": 2358718,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 5,
+              "text": "tasainen liike",
+              "parent": "717c246e-f829-4ec3-b85b-6f0ed63a0a5e",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 6,
+              "text": "tasaisesti kiihtyvä liike",
+              "parent": "717c246e-f829-4ec3-b85b-6f0ed63a0a5e",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 7,
+              "text": "vaimeneva värähdysliike",
+              "parent": "717c246e-f829-4ec3-b85b-6f0ed63a0a5e",
+              "choices": []
+            },
+            {
+              "id": 8,
+              "text": "seisova aaltoliike",
+              "parent": "717c246e-f829-4ec3-b85b-6f0ed63a0a5e",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "717c246e-f829-4ec3-b85b-6f0ed63a0a5e",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2020-06-03T06:46:55.065644"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Käytetään samaa laservaloa ja samoja etäisyyksiä kuin kohdassa 4.1., mutta kohteeksi asetetaan levy, jossa on vain kaksi hyvin kapeaa rakoa. Rakojen välinen etäisyys on a. Miten varjostimella havaittu kuvio muuttuu? 2 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 72305,
+          "content": {
+            "text": "Käytetään samaa laservaloa ja samoja etäisyyksiä kuin kohdassa 4.1., mutta kohteeksi asetetaan levy, jossa on vain kaksi hyvin kapeaa rakoa. Rakojen välinen etäisyys on a. Miten varjostimella havaittu kuvio muuttuu? 2 p.\n",
+            "displayNumber": "4.4."
+          },
+          "images": null,
+          "settings": {
+            "points": "",
+            "optionsLayout": "1",
+            "customizedPoints": true
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T07:36:18.940722",
+          "max_score": 2,
+          "groupping": null,
+          "id": 2647130,
+          "question_type": "CUSTOMIZED_FEEDBACK",
+          "options": [
+            {
+              "id": 44,
+              "text": "Varjostimella ei nähdä ollenkaan valoa.",
+              "parent": "f2e63e4b-88c0-417e-b790-775b3b2ec688",
+              "points": "0",
+              "choices": []
+            },
+            {
+              "id": 45,
+              "text": "Varjostimella nähdään vain yksi punainen täplä.",
+              "parent": "f2e63e4b-88c0-417e-b790-775b3b2ec688",
+              "points": "0",
+              "choices": []
+            },
+            {
+              "id": 46,
+              "text": "Varjostimella nähdään kaksi punaista täplää.",
+              "parent": "f2e63e4b-88c0-417e-b790-775b3b2ec688",
+              "points": "0",
+              "choices": []
+            },
+            {
+              "id": 47,
+              "text": "Varjostimella nähdään samankaltainen kuvio kuin kohdassa 4.1.",
+              "parent": "f2e63e4b-88c0-417e-b790-775b3b2ec688",
+              "points": "2",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 48,
+              "text": "En vastaa.",
+              "parent": "f2e63e4b-88c0-417e-b790-775b3b2ec688",
+              "points": "0",
+              "choices": []
+            }
+          ],
+          "uuid": "f2e63e4b-88c0-417e-b790-775b3b2ec688",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2020-06-26T13:09:38.016126"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Ionin ominaisvarauksen määrittäminen 20 p.**\n\n&NewLine;\n\nSelosta jokin menetelmä, jolla tuntemattoman ionin ominaisvaraus eli ionin varauksen ja massan suhde voidaan määrittää kokeellisesti. Kerro, mitä laitteistoja käytetään ja minkä suureiden arvot täytyy mitata tai tuntea. Johda yhtälö, jonka avulla ionin ominaisvaraus lasketaan mitatuista suureista. Mitkä tekijät koejärjestelyssä vaikuttavat oleellisesti tuloksen luotettavuuteen ja tarkkuuteen?\n",
+          "deleted_at": null,
+          "feedback": "Laite, jolla voidaan määrittää ionien ominaisvaraus, on nimeltään massaspektrometri.\n\nMassaspektrometrejä on useita erilaisia.\n\n&NewLine;\n\nIonin ominaisvaraus voidaan määrittää muun muassa seuraavan tyyppisillä massaspektrometreillä:\n\n• kvadrupoli-analysaattori\n\n• Ionien syklotroni-resonanssiin perustuva analysaattori\n\n• ionien lentoaika-analysaattori\n\n• magneettiset sektorianalysaattorit\n\n• sähköstaattiset analysaattorit.\n\n&NewLine;\n\nVastauksessa riittää, että kokelas kuvaa yhden tarkoitukseen sopivan laitteiston. Tehtävän\n\nesimerkkipisteitys:\n\n• toimiva idea (3 p.)\n\n• kokeessa käytettyjen välineiden mainitseminen (3 p.)\n\n• koelaitteiston toiminnan tarkempi kuvaus (5 p.)\n\n• ominaisvarauksen määritykseen käytettävän yhtälön johtaminen (5 p.)\n\n• mittausmenetelmään oleellisesti liittyvien tuloksen tarkkuuteen ja luotettavuuteen\n\nvaikuttavien tekijöiden kuvailu (vähintään kolme oleellisesti erilaista vaikuttavaa tekijää)\n\n(4 p.)\n\n&NewLine;\n\nLukion oppimateriaaleissa on usein kuvattu massaspektrometri, jossa on yhdistetty sähköstaattinen ja magneettinen analysaattori. Tällaisessa massaspektrometrissä on kolme osaa: kiihdyttävä sähkökenttä, sähköstaattinen ionien nopeusvalitsin ja analysointimagneettikenttä. Myös sellaiset laitteistot, joissa kiihdyttävän sähkökentän jälkeen on vain nopeusvalitsin ja detektori tai analysointimagneettikenttä ja detektori, soveltuvat ionin ominaisvarauksen määrittämiseen.\n\n&NewLine;\n\nAluksi ionit tulevat homogeeniseen sähkökenttään, jossa ionit kiihdytetään sopivaan nopeuteen. Nopeutta säädetään sähkökentän kiihdytysjännitteellä U:\n\n&NewLine;\n\n[MATH text=\\frac{1}{2}mv^2=qU{,}]\n\n[MATH text=v=\\sqrt{\\frac{2qU}{m}.}]\n\n&NewLine;\n\nVoidaan havaita, että ionit, joilla on eri ominaisvaraus q/m, saavat sähkökentässä eri nopeuden. Ionien nopeus saadaan määritettyä nopeusvalitsimessa, jossa on toisiaan vastaan kohtisuorasti homogeeninen sähkökenttä ja magneettikenttä. Kun ioni lentää kohtisuorasti sekä sähkökenttää että magneettikenttää vastaan, vain tietyllä nopeudella lentävät ionit saapuvat suoraan analysointimagneettikentän sisäänmenoon. Tällaisiin suoraan kulkeviin ioneihin vaikuttava sähköinen voima ja magneettinen voima ovat tasapainossa, eli\n\n&NewLine;\n\nqE = qvB,\n\n[MATH text=v=\\frac{E}{B}.]\n\n&NewLine;\n\nTarvitaan siis tietoa sekä sähkökentän voimakkuudesta E että magneettikentän magneettivuon tiheyden voimakkuudesta B. Vaikka ionien nopeudet olisivat yhtä suuret, niiden massojen ja varauksien ei tarvitse olla yhtä suuria.\n\n&NewLine;\n\nTämän jälkeen nopeusvalitsimen läpi päässeiden ionien lentorata kulkee kohtisuorasti homogeeniseen analysointimagneettikenttään. Magneettinen voima kaareuttaa ionien lentoradan ympyräradaksi. Radan säde saadaan määritettyä Newtonin II lain avulla:\n\n&NewLine;\n\n[MATH text=qvB′=\\frac{mv^2}{r}{,}]\n\n[MATH text=\\frac{q}{m}=\\frac{v}{rB^1}=\\frac{E}{rBB^1}]\n\n&NewLine;\n\nMassaspektrometrillä mitataan, mihin kohtaan ilmaisinta ioni osuu, ja siitä saadaan määritettyä lentoradan säde r. Myös nopeusvalitsimen sähkökentän voimakkuus E ja magneettikentän magneettivuon tiheys B sekä analysointimagneettikentän magneettivuon tiheys B’ täytyy tuntea. Tällöin voidaan ratkaista ionien ominaisvaraus q/m.\n\n&NewLine;\n\nTuloksen luotettavuuteen vaikuttavia tekijöitä ovat esimerkiksi mittauslaitteiston osien tarkoituksenmukaisuus ja toimivuus sekä mittaajan taidot laitteiden käytössä.\n\n&NewLine;\n\nTuloksen tarkkuuteen vaikuttavia tekijöitä ovat muun muassa:\n\n&NewLine;\n\n• Massaspektrometrin ilmaisimen erotuskyky, joka vaikuttaa siihen, että eri säteillä lentävät\n\nionit voidaan erotella toisistaan.\n\n• Analysointimagneettikentän sisäänmenoaukon koko. Mitä pienempi aukko, sitä tarkemmin\n\nvalituilla ioneilla on sama nopeus ja lentosuunta. Nopeuksien eroavaisuus vaikuttaa\n\nlentoradan säteeseen, ja siten tiettyä ominaisvarausta vastaavan intensiteettipiikin leveyteen\n\nilmaisimella.\n\n• Sähkö- ja magneettikenttien homogeenisuus.\n\n• Sähkökenttien ja magneettivuon tiheyden voimakkuuden mittaamisen käytettävien\n\nmittareiden tarkkuus.\n\n• Mittausdatan keräysaika. Mitä pidempään mitataan, sitä paremmin tiettyä ominaisvarausta\n\nvastaava intensiteettipiikki erottuu taustakohinasta, kun ioneja ehtii saapua enemmän\n\nilmaisimelle.\n\n&NewLine;\n",
+          "exam_id": 72305,
+          "content": {
+            "text": "**Ionin ominaisvarauksen määrittäminen 20 p.**\n\n&NewLine;\n\nSelosta jokin menetelmä, jolla tuntemattoman ionin ominaisvaraus eli ionin varauksen ja massan suhde voidaan määrittää kokeellisesti. Kerro, mitä laitteistoja käytetään ja minkä suureiden arvot täytyy mitata tai tuntea. Johda yhtälö, jonka avulla ionin ominaisvaraus lasketaan mitatuista suureista. Mitkä tekijät koejärjestelyssä vaikuttavat oleellisesti tuloksen luotettavuuteen ja tarkkuuteen?\n",
+            "displayNumber": "9."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-30T07:36:18.935535",
+          "max_score": null,
+          "groupping": null,
+          "id": 2647604,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "e2add3b7-94ed-4e7f-b5e9-2862a547fcb9",
+          "order_number": 16,
+          "multipart": true,
+          "created_at": "2020-06-26T14:20:10.772311"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kuinka suuri tehollinen sähkövirta kulkee puhdistimen sähkövastuksen läpi veden lämmityksen aikana? 4 p.\n",
+          "deleted_at": null,
+          "feedback": "Sähkövastus on puhtaasti resistiivinen, joten sen lämmitysteho on tehollisen jännitteen ja virran tulo. Tehollinen jännite on U = 230 V, joten vastaava tehollinen virta on\n\n&NewLine;\n\n[MATH text=I=\\frac{P}{U}=\\frac{1800\\ W}{230\\ V}=7{,}826\\ A\\approx7{,}8\\ A.] (4 p.)\n",
+          "exam_id": 72305,
+          "content": {
+            "text": "Kuinka suuri tehollinen sähkövirta kulkee puhdistimen sähkövastuksen läpi veden lämmityksen aikana? 4 p.\n",
+            "displayNumber": "11.3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-30T07:36:18.933284",
+          "max_score": null,
+          "groupping": null,
+          "id": 2647952,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "1ceec29b-16fe-4ae9-a20b-eb503af51e85",
+          "order_number": 19,
+          "multipart": true,
+          "created_at": "2020-06-26T14:39:57.401154"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Höyrypuhdistin 20 p.**\n\n&NewLine;\n\nHöyrypuhdistin on laite, joka koostuu paineastiasta ja sähkövastuksesta. Astiassa olevaa vettä lämmitetään sähkövastuksen avulla, jolloin astiaan muodostuu vesihöyryä. Höyryä johdetaan suuttimen kautta puhdistettavalle pinnalle. Kuvissa 11. A ja 11. B on annettu tietoa höyrypuhdistimesta. Kuvassa 11. C on esitetty veden faasidiagrammi. Vastaa tehtäviin 11.1.–11.3. annetun aineiston ja oman tietämyksesi avulla.\n\n&NewLine;\n\n**Aineisto**\n\n&NewLine;\n\nKuva 11 A: [LINK url=http://yle.fi/plus/abitreenit/2020/kevat/2020-03-26\\_FY\\_fi/attachments/index.html#11.%20A|text=Höyrypuhdistin]\n\nKuva 11 B: [LINK url=http://yle.fi/plus/abitreenit/2020/kevat/2020-03-26\\_FY\\_fi/attachments/index.html#11.%20B|text=Laitteen arvokilpi]\n\nKuva 11 C: [LINK url=http://yle.fi/plus/abitreenit/2020/kevat/2020-03-26\\_FY\\_fi/attachments/index.html#11.%20C|text=Veden faasidiagrammi]\n\n&NewLine;\n\n_Huom. Abitreenien harjoittelukokeessa ei voi käyttää kuvakaappauksia eikä kaavaeditoria._\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 72305,
+          "content": {
+            "text": "**Höyrypuhdistin 20 p.**\n\n&NewLine;\n\nHöyrypuhdistin on laite, joka koostuu paineastiasta ja sähkövastuksesta. Astiassa olevaa vettä lämmitetään sähkövastuksen avulla, jolloin astiaan muodostuu vesihöyryä. Höyryä johdetaan suuttimen kautta puhdistettavalle pinnalle. Kuvissa 11. A ja 11. B on annettu tietoa höyrypuhdistimesta. Kuvassa 11. C on esitetty veden faasidiagrammi. Vastaa tehtäviin 11.1.–11.3. annetun aineiston ja oman tietämyksesi avulla.\n\n&NewLine;\n\n**Aineisto**\n\n&NewLine;\n\nKuva 11 A: [LINK url=http://yle.fi/plus/abitreenit/2020/kevat/2020-03-26\\_FY\\_fi/attachments/index.html#11.%20A|text=Höyrypuhdistin]\n\nKuva 11 B: [LINK url=http://yle.fi/plus/abitreenit/2020/kevat/2020-03-26\\_FY\\_fi/attachments/index.html#11.%20B|text=Laitteen arvokilpi]\n\nKuva 11 C: [LINK url=http://yle.fi/plus/abitreenit/2020/kevat/2020-03-26\\_FY\\_fi/attachments/index.html#11.%20C|text=Veden faasidiagrammi]\n\n&NewLine;\n\n_Huom. Abitreenien harjoittelukokeessa ei voi käyttää kuvakaappauksia eikä kaavaeditoria._\n",
+            "displayNumber": "11."
+          },
+          "images": null,
+          "settings": {
+            "material": true
+          },
+          "child_ids": [
+            "eb2470d2-da41-40a6-a5d1-244ad7a2972f",
+            "d41edc91-141a-44e9-9626-93471fac5d69"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-30T07:36:18.930425",
+          "max_score": null,
+          "groupping": null,
+          "id": 2647814,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "726067fb-c7d6-4021-8eac-1f941361ea13",
+          "order_number": 18,
+          "multipart": true,
+          "created_at": "2020-06-26T14:33:21.81021"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Paineastian tilavuus on 1,0 litraa. Astia täytetään vesijohtovedellä, jonka lämpötila on +6,0 °C ja höyrypuhdistimen lämmitysvastus kytketään päälle. Kuinka pitkän ajan kuluttua puhdistin on käyttövalmis? 8 p.\n\n&NewLine;\n",
+          "deleted_at": null,
+          "feedback": "Arvokilven mukaan lämmitysvastuksen teho on P = 1800 W. (2 p.)\n\nKoska paineastia on täynnä vettä, kylläisen höyryn paine saavutetaan hyvin pienellä määrällä höyrystynyttä vettä. Tämä voidaan jättää huomiotta energiaa tarkasteltaessa. Veden lämmittämiseen tarvitaan energiaa ∆E = Q = cm∆T = P∆t, josta saadaan lämmitysajaksi\n\n&NewLine;\n\n [MATH text=∆t=\\frac{cm∆T}{P}=311{,}9222\\ s\\approx310\\ s\\approx5{,}2\\min{,}] kun [MATH text=m=1{,}0\\ kg{,}\\ c=4{,}19\\ \\frac{kJ}{k\\_gK}\\ ja\\ ∆T=(140−6)C∘=134C∘=134\\ K.]\n\n&NewLine;\n\n(Valmistajan ilmoituksen mukaan käyttövalmiiksi lämmittämiseen kuluu 6–6,5 min.) ( 6p.)\n",
+          "exam_id": 72305,
+          "content": {
+            "text": "Paineastian tilavuus on 1,0 litraa. Astia täytetään vesijohtovedellä, jonka lämpötila on +6,0 °C ja höyrypuhdistimen lämmitysvastus kytketään päälle. Kuinka pitkän ajan kuluttua puhdistin on käyttövalmis? 8 p.\n\n&NewLine;\n",
+            "displayNumber": "11.2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T07:36:18.928164",
+          "max_score": null,
+          "groupping": null,
+          "id": 2647905,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "d41edc91-141a-44e9-9626-93471fac5d69",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2020-06-26T14:38:01.992544"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**3. Merenpinnan nousu 15 p.**\n\n&NewLine;\n\nMaapallon valtameret lämpenevät ilmastonmuutoksen seurauksena. Tämä aiheuttaa merenpinnan nousua, joka 2000-luvulla on ollut suuruudeltaan noin 3 millimetriä vuodessa. Yksi syy merenpinnan nousuun on veden lämpölaajeneminen.\n\n&NewLine;\n\nMerien vuodessa keräämän lämpömäärän on arvioitu olevan noin [MATH text=1{,}3\\cdot10^{22}J]. Kuinka paljon merien keskimääräinen lämpötila kohoaa vuodessa? Entä kuinka suuri on lämpölaajenemisen aiheuttama merenpinnan korkeuden muutos vuodessa? Meriveden ominaisuudet riippuvat paineesta, lämpötilasta sekä suolapitoisuudesta, joten käytetään taulukossa 3. A annettuja, keskiarvoistettuja arvoja.\n\n&NewLine;\n\nAineisto\n\nTaulukko: [LINK url=http://yle.fi/plus/abitreenit/2020/kevat/2020-03-26\\_FY\\_fi/attachments/index.html#3.%20A|text=Tehtävässä tarvittavien suureiden keskimääräisiä arvoja]\n\n&NewLine;\n\n_Huom. Abitreenien harjoittelukokeessa ei voi käyttää kuvakaappauksia eikä kaavaeditoria._\n",
+          "deleted_at": null,
+          "feedback": "Valtamerien pinta-alasta ja syvyydestä saadaan meriveden tilavuus V = Ad. Tilavuuden ja keskimääräisen tiheyden avulla puolestaan määritetään meriveden massa m = ρV ja lämpökapasiteetti C = cm.\n\n&NewLine;\n\nKun merien vuodessa keräämä lämpömäärä on Q, on lämpötilanmuutos [MATH text=\\Delta T=\\frac{Q}{cm}\\frac{Q}{c\\rho Ad}.]\n\n&NewLine;\n\nSijoitetaan tähän [MATH text=Q=1{,}3\\cdot10^{22}J{,}\\ c=3{,}96\\cdot10^3J/\\left(kg\\ K\\right){,}\\ \\rho=1030\\ kg/m^3{,}\\ A=3{,}6\\cdot10^8km^2=3{,}6\\cdot10^{14}m^2\\ ja\\ d=3700\\ m{,}] jolloin saadaan lämpötilan muutokseksi\n\n&NewLine;\n\n[MATH text=\\Delta T=\\frac{1{,}3\\cdot10^{22}J}{3{,}96\\cdot10^3\\frac{J}{\\left(kg\\ K\\right)\\rho}\\cdot1030\\frac{kg}{m^3}\\cdot3{,}6\\cdot10^{14}m^2\\cdot3700\\ m}]\n\n&NewLine;\n\n[MATH text==2{,}3928013\\cdot10^{-3}K\\approx0{,}0024\\ K.]\n\n&NewLine;\n\n(6 p.)\n\n&NewLine;\n\nTämä aiheuttaa lämpölaajenemisen [MATH text=\\Delta V=\\gamma V\\Delta T] , jossa [MATH text=\\gamma] on tilavuuden lämpötilakerroin vedelle. \n\n&NewLine;\n\nTilavuuden muutos ei muuta oleellisesti merien pinta-alaa, mutta kylläkin niiden syvyyttä. Merenpinnan nousu on [MATH text=\\Delta h=\\frac{\\Delta V}{A}], josta saamme [MATH text=\\Delta h=\\frac{\\gamma V\\Delta T}{A}=\\frac{\\gamma VQ}{Ac\\rho V}=\\frac{\\gamma Q}{Ac\\rho}.]\n\n&NewLine;\n\n(6 p.)\n\n&NewLine;\n\nSijoitetaan lausekkeeseen seuraavat suureiden arvot: [MATH text=γ=1{,}37\\cdot10^{-4}1\\ ⁄\\ K{,}Q=1{,}3\\cdot10^{22}J{,}\\ A=3{,}6\\cdot10^8km^2=3{,}6\\cdot10^{14}m^2{,}\\ c=3{,}85\\cdot10^3J\\ ⁄\\ (kg\\ K)\\ ja\\ ρ=1030\\ kg3\\ /\\ m^3.]\n\n&NewLine;\n\nMerenpinnan nousu on [MATH text=\\Delta h=1{,}247566\\ mm\\ \\approx1{,}2\\ mm.]\n\n&NewLine;\n\n(3 p.)\n\n&NewLine;\n\nOn huomion arvoista, että lopputulos ei riipu merien syvyydestä – merien ei tarvitse siis lämmetä läpikotaisin, vaan riittää jos lämpenemistä tapahtuu esimerkiksi vain ensimmäisellä 500 metrillä.\n",
+          "exam_id": 72305,
+          "content": {
+            "text": "**3. Merenpinnan nousu 15 p.**\n\n&NewLine;\n\nMaapallon valtameret lämpenevät ilmastonmuutoksen seurauksena. Tämä aiheuttaa merenpinnan nousua, joka 2000-luvulla on ollut suuruudeltaan noin 3 millimetriä vuodessa. Yksi syy merenpinnan nousuun on veden lämpölaajeneminen.\n\n&NewLine;\n\nMerien vuodessa keräämän lämpömäärän on arvioitu olevan noin [MATH text=1{,}3\\cdot10^{22}J]. Kuinka paljon merien keskimääräinen lämpötila kohoaa vuodessa? Entä kuinka suuri on lämpölaajenemisen aiheuttama merenpinnan korkeuden muutos vuodessa? Meriveden ominaisuudet riippuvat paineesta, lämpötilasta sekä suolapitoisuudesta, joten käytetään taulukossa 3. A annettuja, keskiarvoistettuja arvoja.\n\n&NewLine;\n\nAineisto\n\nTaulukko: [LINK url=http://yle.fi/plus/abitreenit/2020/kevat/2020-03-26\\_FY\\_fi/attachments/index.html#3.%20A|text=Tehtävässä tarvittavien suureiden keskimääräisiä arvoja]\n\n&NewLine;\n\n_Huom. Abitreenien harjoittelukokeessa ei voi käyttää kuvakaappauksia eikä kaavaeditoria._\n",
+            "displayNumber": ""
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-30T07:36:18.924848",
+          "max_score": null,
+          "groupping": null,
+          "id": 2646845,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "3e945685-40d5-4c17-b9d0-d5541a41b345",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2020-06-25T07:58:36.244295"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Käytetään samoja etäisyyksiä ja samaa hilaa kuin kohdassa 4.1., mutta punainen laservalo korvataan vihreällä laservalolla. Miten varjostimella havaittu kuvio muuttuu? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 72305,
+          "content": {
+            "text": "Käytetään samoja etäisyyksiä ja samaa hilaa kuin kohdassa 4.1., mutta punainen laservalo korvataan vihreällä laservalolla. Miten varjostimella havaittu kuvio muuttuu? 3 p.\n",
+            "displayNumber": "4.6."
+          },
+          "images": null,
+          "settings": {
+            "points": "",
+            "optionsLayout": "1",
+            "customizedPoints": true
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T07:36:18.921814",
+          "max_score": 3,
+          "groupping": null,
+          "id": 2647179,
+          "question_type": "CUSTOMIZED_FEEDBACK",
+          "options": [
+            {
+              "id": 39,
+              "text": "Täplät siirtyvät lähemmäs toisiaan.",
+              "parent": "4e96cb79-ffac-442c-93fb-c3c3902665a4",
+              "points": "3",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 40,
+              "text": "Täplät siirtyvät kauemmas toisistaan.\n\n&NewLine;",
+              "parent": "4e96cb79-ffac-442c-93fb-c3c3902665a4",
+              "points": "0",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 41,
+              "text": "Täplät pysyvät paikoillaan.",
+              "parent": "4e96cb79-ffac-442c-93fb-c3c3902665a4",
+              "points": "0",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 42,
+              "text": "Reunimmaiset täplät häviävät, mutta täplien välimatkat varjostimella eivät muutu.",
+              "parent": "4e96cb79-ffac-442c-93fb-c3c3902665a4",
+              "points": "0",
+              "choices": []
+            },
+            {
+              "id": 43,
+              "text": "En vastaa.",
+              "parent": "4e96cb79-ffac-442c-93fb-c3c3902665a4",
+              "points": "0",
+              "choices": []
+            }
+          ],
+          "uuid": "4e96cb79-ffac-442c-93fb-c3c3902665a4",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2020-06-26T13:13:49.040403"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Kiertokäämimittari 15 p.**\n\n&NewLine;\n\nKiertokäämimittarin toiminta perustuu käämiin kohdistuvaan vääntöön magneettikentässä. Kiertokäämimittarilla voidaan mitata sähkövirtaa tai jännitettä halutulla mittausalueella kytkemällä mittarissa olevan käämin rinnalle tai sen kanssa sarjaan sopiva vastus. Kuvat 5. A ja 5. B esittävät eri mittausalueille asetettua kiertokäämimittaria ja vastaavaa mittarin sisäistä vastuskytkentää. Kun mittari näyttää maksimiarvoa, mittarin käämin läpi kulkee 0,10 mA sähkövirta. Käämin resistanssi on 360 Ω.\n\n&NewLine;\n\n**Aineisto**\n\n&NewLine;\n\nKuva: [LINK url=http://yle.fi/plus/abitreenit/2020/kevat/2020-03-26\\_FY\\_fi/attachments/index.html#5.%20A|text=Kiertokäämimittari ja sen kytkentä sähkövirran mittauksessa]\n\nKuva: [LINK url=http://yle.fi/plus/abitreenit/2020/kevat/2020-03-26\\_FY\\_fi/attachments/index.html#5.%20B|text=Kiertokäämimittari ja sen kytkentä jännitteen mittauksessa]\n\n&NewLine;\n\n_Huom. Abitreenien harjoittelukokeessa ei voi käyttää kuvakaappauksia eikä kaavaeditoria._\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 72305,
+          "content": {
+            "text": "**Kiertokäämimittari 15 p.**\n\n&NewLine;\n\nKiertokäämimittarin toiminta perustuu käämiin kohdistuvaan vääntöön magneettikentässä. Kiertokäämimittarilla voidaan mitata sähkövirtaa tai jännitettä halutulla mittausalueella kytkemällä mittarissa olevan käämin rinnalle tai sen kanssa sarjaan sopiva vastus. Kuvat 5. A ja 5. B esittävät eri mittausalueille asetettua kiertokäämimittaria ja vastaavaa mittarin sisäistä vastuskytkentää. Kun mittari näyttää maksimiarvoa, mittarin käämin läpi kulkee 0,10 mA sähkövirta. Käämin resistanssi on 360 Ω.\n\n&NewLine;\n\n**Aineisto**\n\n&NewLine;\n\nKuva: [LINK url=http://yle.fi/plus/abitreenit/2020/kevat/2020-03-26\\_FY\\_fi/attachments/index.html#5.%20A|text=Kiertokäämimittari ja sen kytkentä sähkövirran mittauksessa]\n\nKuva: [LINK url=http://yle.fi/plus/abitreenit/2020/kevat/2020-03-26\\_FY\\_fi/attachments/index.html#5.%20B|text=Kiertokäämimittari ja sen kytkentä jännitteen mittauksessa]\n\n&NewLine;\n\n_Huom. Abitreenien harjoittelukokeessa ei voi käyttää kuvakaappauksia eikä kaavaeditoria._\n",
+            "displayNumber": "5."
+          },
+          "images": null,
+          "settings": {
+            "points": "",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-30T07:36:18.914159",
+          "max_score": null,
+          "groupping": null,
+          "id": 2647205,
+          "question_type": "CUSTOMIZED_FEEDBACK",
+          "options": [],
+          "uuid": "1933b713-dd7e-4d41-893f-bf75bb216adf",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2020-06-26T13:25:29.578378"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Määritä laatikon ja radan välinen lepokitkakerroin simulaation avulla. 9 p.\n",
+          "deleted_at": null,
+          "feedback": "Lepokitka saa suurimman arvonsa [MATH text=\\mid F\\_{\\mu\\_o}\\mid\\ =\\ \\mu\\_0N] silloin, kun laatikko on juuri lähtemäisillään liikkeelle.\n\n&NewLine;\n\nKappaleiden tasapainoehdot:\n\n&NewLine;\n\nLaatikolle [MATH text=\\Sigma\\ \\overrightarrow{F\\_a}=m\\_a\\overrightarrow{a}\\_a=\\overrightarrow{0{,}}]\n\n&NewLine;\n\nx-suunta: [MATH text=\\Sigma\\ F\\_{a{,}x}=F\\_{\\mu\\_o}+T\\_a=0]\n\n&NewLine;\n\ny-suunta: [MATH text=\\Sigma\\ F\\_{a{,}y}=G\\_a+N=0]\n\n&NewLine;\n\nPunnukseen kohdistuu voimia vain y-suunnassa:\n\n&NewLine;\n\ny-suunta: [MATH text= \\Sigma\\ F\\_{b{,}y}=G\\_b+T\\_b=0]\n\n&NewLine;\n\nKoska lanka on kevyt, on [MATH text=T\\_a=T\\_b], joten\n\n&NewLine;\n\n[MATH text=\\mid F\\_{\\mu\\_o}\\mid\\ =\\ T\\_a=T\\_b=\\mid G\\_b\\mid=m\\_bg]\n\n&NewLine;\n\nLepokitkakerroin on\n\n&NewLine;\n\n[MATH text=\\mu\\_o=\\frac{\\mid F\\_{\\mu\\_o}\\mid}{N}=\\frac{m\\_bg}{m\\_ag}=\\frac{m\\_b}{m\\_a}]\n\n&NewLine;\n\n(5 p.)\n\n&NewLine;\n\nEtsitään simulaation avulla suurinta lepokitkaa vastaava rajatilanne varioimalla punnuksen massaa.\n\n&NewLine;\n\nAnnetaan valitut massan arvot.\n\n&NewLine;\n\nEsimerkiksi arvoilla [MATH text=m\\_a=1{,}000\\ kg\\ ja\\ m\\_b=0{,}340\\ kg\\ ] laatikko pysyy paikallaan, mutta kun [MATH text=m\\_b]=0,341 kg, laatikko lähtee liikkeelle.\n\n&NewLine;\n\nLepokitkakerroin on [MATH text=\\mu\\_o=\\frac{m\\_b}{m\\_a}=\\frac{0{,}340\\ kg}{1{,}000\\ kg}=0{,}34]\n\n&NewLine;\n\n4 p.\n\n&NewLine;\n\n&NewLine;\n\n&NewLine;\n",
+          "exam_id": 72305,
+          "content": {
+            "text": "Määritä laatikon ja radan välinen lepokitkakerroin simulaation avulla. 9 p.\n",
+            "displayNumber": "2.2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-30T07:36:18.911986",
+          "max_score": null,
+          "groupping": null,
+          "id": 2646700,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "18a5021d-f4d2-401b-95e4-93c6db017c85",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2020-06-25T07:43:36.567516"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Hyppy ilman laskuvarjoa 15 p.**\n\n&NewLine;\n\nHelsingin Sanomat julkaisi tiedesivuillaan 10.8.2016 uutisen (teksti 6. A) Luke Aikinsin ilman laskuvarjoa tekemästä hypystä. Hypystä kuvatusta videosta on poimittu hyppääjän korkeus ajan funktiona (mittausaineisto 6. B). Ajan mittaaminen alkoi hyppääjän poistuttua lentokoneesta. Vastaa tehtäviin 6.1. ja 6.2. olettaen hyppääjän massaksi varusteiden kanssa 95 kg.\n\n&NewLine;\n\n**Aineisto**\n\n&NewLine;\n\nTeksti: [LINK url=http://yle.fi/plus/abitreenit/2020/kevat/2020-03-26\\_FY\\_fi/attachments/index.html#6.%20A|text=Helsingin Sanomien uutinen hypystä]\n\nMittausaineisto: [LINK url=http://yle.fi/plus/abitreenit/2020/kevat/2020-03-26\\_FY\\_fi/attachments/index.html#6.%20B|text=Hyppääjän korkeus ajan funktiona]\n\n&NewLine;\n\n_Huom. Abitreenien harjoittelukokeessa ei voi käyttää kuvakaappauksia eikä kaavaeditoria._\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 72305,
+          "content": {
+            "text": "**Hyppy ilman laskuvarjoa 15 p.**\n\n&NewLine;\n\nHelsingin Sanomat julkaisi tiedesivuillaan 10.8.2016 uutisen (teksti 6. A) Luke Aikinsin ilman laskuvarjoa tekemästä hypystä. Hypystä kuvatusta videosta on poimittu hyppääjän korkeus ajan funktiona (mittausaineisto 6. B). Ajan mittaaminen alkoi hyppääjän poistuttua lentokoneesta. Vastaa tehtäviin 6.1. ja 6.2. olettaen hyppääjän massaksi varusteiden kanssa 95 kg.\n\n&NewLine;\n\n**Aineisto**\n\n&NewLine;\n\nTeksti: [LINK url=http://yle.fi/plus/abitreenit/2020/kevat/2020-03-26\\_FY\\_fi/attachments/index.html#6.%20A|text=Helsingin Sanomien uutinen hypystä]\n\nMittausaineisto: [LINK url=http://yle.fi/plus/abitreenit/2020/kevat/2020-03-26\\_FY\\_fi/attachments/index.html#6.%20B|text=Hyppääjän korkeus ajan funktiona]\n\n&NewLine;\n\n_Huom. Abitreenien harjoittelukokeessa ei voi käyttää kuvakaappauksia eikä kaavaeditoria._\n",
+            "displayNumber": "6."
+          },
+          "images": null,
+          "settings": {
+            "material": true
+          },
+          "child_ids": [
+            "b48ffe71-3e82-4775-ae64-8f0667c6a103",
+            "37c84303-f0b3-4cd2-9128-31b205440831"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-30T07:36:18.909369",
+          "max_score": null,
+          "groupping": null,
+          "id": 2647290,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "2b7da0db-b685-4b61-ac1c-fa419ba823e0",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2020-06-26T13:44:47.152145"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Pimeässä huoneessa 15 p.**\n\n&NewLine;\n\nPimeässä huoneessa tehdään kokeita laservalolla käyttäen kuvan 4. A koejärjestelyä. Kuvassa L on laser ja G tutkittava kohde. Tarkastellaan varjostimelle S tullutta valoa. Etäisyys kohteesta varjostimelle on paljon suurempi kuin käytetyn valon aallonpituus.\n\n&NewLine;\n\nKohdissa 4.2.–4.6. valitse tilanteeseen parhaiten soveltuva vaihtoehto. Oikea vastaus 3 p. / 2 p., väärä vastaus 0 p., ei vastausta 0 p.\n\n&NewLine;\n\nAineisto\n\nKuva: [LINK url=http://yle.fi/plus/abitreenit/2020/kevat/2020-03-26\\_FY\\_fi/attachments/index.html#4.%20A|text=Koejärjestely]\n\nKuva: [LINK url=http://yle.fi/plus/abitreenit/2020/kevat/2020-03-26\\_FY\\_fi/attachments/index.html#4.%20B|text=Valokuvio]\n\n&NewLine;\n\n_Huom. Abitreenien harjoittelukokeessa ei voi käyttää kuvakaappauksia eikä kaavaeditoria._\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 72305,
+          "content": {
+            "text": "**Pimeässä huoneessa 15 p.**\n\n&NewLine;\n\nPimeässä huoneessa tehdään kokeita laservalolla käyttäen kuvan 4. A koejärjestelyä. Kuvassa L on laser ja G tutkittava kohde. Tarkastellaan varjostimelle S tullutta valoa. Etäisyys kohteesta varjostimelle on paljon suurempi kuin käytetyn valon aallonpituus.\n\n&NewLine;\n\nKohdissa 4.2.–4.6. valitse tilanteeseen parhaiten soveltuva vaihtoehto. Oikea vastaus 3 p. / 2 p., väärä vastaus 0 p., ei vastausta 0 p.\n\n&NewLine;\n\nAineisto\n\nKuva: [LINK url=http://yle.fi/plus/abitreenit/2020/kevat/2020-03-26\\_FY\\_fi/attachments/index.html#4.%20A|text=Koejärjestely]\n\nKuva: [LINK url=http://yle.fi/plus/abitreenit/2020/kevat/2020-03-26\\_FY\\_fi/attachments/index.html#4.%20B|text=Valokuvio]\n\n&NewLine;\n\n_Huom. Abitreenien harjoittelukokeessa ei voi käyttää kuvakaappauksia eikä kaavaeditoria._\n",
+            "displayNumber": "4."
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "ad522ba5-5a37-4329-86fc-6a67edc2d3bd",
+            "b67dd838-e0d4-4e0e-83c0-a621f5f8558f",
+            "6b918673-e9c7-48af-9671-f79968146ea2",
+            "f2e63e4b-88c0-417e-b790-775b3b2ec688",
+            "38d7f23e-2167-47eb-b088-0a47acaefae1",
+            "4e96cb79-ffac-442c-93fb-c3c3902665a4"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-30T07:36:18.907044",
+          "max_score": null,
+          "groupping": null,
+          "id": 2647066,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "6c772480-e063-4906-b31a-fd9699639975",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2020-06-26T13:00:39.620675"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "LIGO:n datan analysoinnissa saatiin tulokseksi, että yhdistymisessä syntyneen kappaleen massa oli 62 kertaa Auringon massa. Tämän perusteella havainnon GW150914 voidaan tulkita seuranneen nimenomaan mustien aukkojen törmäyksestä eikä tavallisten tähtien tai neutronitähtien törmäyksestä. Miten tämä voidaan päätellä aineiston avulla? 7 p.\n",
+          "deleted_at": null,
+          "feedback": "Kuvasta 10.B (alapaneeli) nähdään, että signaalin alkaessa hetkellä 0,35 s, jolloin kappaleet kiertävät toisiaan (signaalin oskillaatio vakiotaajuudella), kappaleiden välinen etäisyys on noin neljä kertaa Schwarzschildin säde. Kappaleelle, jonka massa on noin 62 Auringon massaa, Schwarzschildin säde on noin 180 km. Kappaleiden välinen etäisyys on siis vain noin 700 km. Tämä sulkee pois tavalliset tähdet ja valkoiset kääpiöt, sillä niiden säteet ovat niin paljon tätä etäisyyttä suurempia. Kappaleet voisivat olla neutronitähtiä, mutta näiden massat eivät voi olla 30 kertaa Auringon massan suuruisia, kuten LIGO havaitsi. Kappaleiden on siis oltava mustia aukkoja. (7 p.)\n",
+          "exam_id": 72305,
+          "content": {
+            "text": "LIGO:n datan analysoinnissa saatiin tulokseksi, että yhdistymisessä syntyneen kappaleen massa oli 62 kertaa Auringon massa. Tämän perusteella havainnon GW150914 voidaan tulkita seuranneen nimenomaan mustien aukkojen törmäyksestä eikä tavallisten tähtien tai neutronitähtien törmäyksestä. Miten tämä voidaan päätellä aineiston avulla? 7 p.\n",
+            "displayNumber": "10.3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T07:36:18.904775",
+          "max_score": null,
+          "groupping": null,
+          "id": 2647770,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "01e743b4-c5c0-41cc-9ae5-63ef51dbd7c7",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2020-06-26T14:31:29.08974"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Osa II: 15 pisteen tehtävät\n\n&NewLine;\n\nVastaa neljään tehtävään.\n\n&NewLine;\n\nKuva 2. A esittää vaakasuoralla radalla olevaa laatikkoa, jota vedetään lankaan ripustetulla punnuksella. Laatikon ja radan välillä vallitsee kitka. Laatikko lähtee levosta ja pysähtyy, kun se osuu radan päätyyn. Jos punnuksen massa on pieni laatikon massaan nähden, laatikko ei lähde liikkeelle. Lanka on kevyt, ja väkipyörä on herkkäliikkeinen. Kuvan 2. A tilannetta mallinnetaan simulaatiolla 2. B.\n\n&NewLine;\n\nAineisto\n\n&NewLine;\n\n2.A [LINK text=Kuva: Simulaatiossa mallinnettava järjestely|url=https://yle.fi/plus/abitreenit/2020/kevat/2020-03-26_FY_fi/attachments/index.html#2.%20A]\n\n2.B [LINK text=Simulaatio: Laatikon kulkema matka ja nopeus ajan funktiona|url=https://yle.fi/plus/abitreenit/2020/kevat/2020-03-26_FY_fi/attachments/index.html#2.%20B]\n\n&NewLine;\n\n_Huom. Abitreenien harjoittelukokeessa ei voi käyttää kuvakaappauksia eikä kaavaeditoria._",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 72305,
+          "content": {
+            "text": "### Osa II: 15 pisteen tehtävät\n\n&NewLine;\n\nVastaa neljään tehtävään.\n\n&NewLine;\n\nKuva 2. A esittää vaakasuoralla radalla olevaa laatikkoa, jota vedetään lankaan ripustetulla punnuksella. Laatikon ja radan välillä vallitsee kitka. Laatikko lähtee levosta ja pysähtyy, kun se osuu radan päätyyn. Jos punnuksen massa on pieni laatikon massaan nähden, laatikko ei lähde liikkeelle. Lanka on kevyt, ja väkipyörä on herkkäliikkeinen. Kuvan 2. A tilannetta mallinnetaan simulaatiolla 2. B.\n\n&NewLine;\n\nAineisto\n\n&NewLine;\n\n2.A [LINK text=Kuva: Simulaatiossa mallinnettava järjestely|url=https://yle.fi/plus/abitreenit/2020/kevat/2020-03-26_FY_fi/attachments/index.html#2.%20A]\n\n2.B [LINK text=Simulaatio: Laatikon kulkema matka ja nopeus ajan funktiona|url=https://yle.fi/plus/abitreenit/2020/kevat/2020-03-26_FY_fi/attachments/index.html#2.%20B]\n\n&NewLine;\n\n_Huom. Abitreenien harjoittelukokeessa ei voi käyttää kuvakaappauksia eikä kaavaeditoria._"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-30T07:36:18.901241",
+          "max_score": null,
+          "groupping": null,
+          "id": 2358841,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "d967f354-d1e2-4b0f-bbed-f4feb975674f",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2020-06-03T07:15:31.554615"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "[LINK url=http://yle.fi/plus/abitreenit/2020/kevat/2020-03-26\\_FY\\_fi/index.html#1|text=Katso video 1. C.] Huom.! Videossa ei ole ääntä. Videolla kuvattu ilmiö on 2 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 72305,
+          "content": {
+            "text": "[LINK url=http://yle.fi/plus/abitreenit/2020/kevat/2020-03-26\\_FY\\_fi/index.html#1|text=Katso video 1. C.] Huom.! Videossa ei ole ääntä. Videolla kuvattu ilmiö on 2 p.\n",
+            "displayNumber": "1.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T07:36:18.899045",
+          "max_score": 2,
+          "groupping": null,
+          "id": 2358717,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 5,
+              "text": "tasainen liike",
+              "parent": "5ac4470f-8b34-4e2d-9c10-62b90523a68a",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 6,
+              "text": "tasaisesti kiihtyvä liike",
+              "parent": "5ac4470f-8b34-4e2d-9c10-62b90523a68a",
+              "choices": []
+            },
+            {
+              "id": 7,
+              "text": "vaimeneva värähdysliike",
+              "parent": "5ac4470f-8b34-4e2d-9c10-62b90523a68a",
+              "choices": []
+            },
+            {
+              "id": 8,
+              "text": "seisova aaltoliike",
+              "parent": "5ac4470f-8b34-4e2d-9c10-62b90523a68a",
+              "choices": [],
+              "correct": false
+            }
+          ],
+          "uuid": "5ac4470f-8b34-4e2d-9c10-62b90523a68a",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2020-06-03T06:46:55.062646"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Varjostin siirretään kaksinkertaiselle etäisyydelle hilasta. Miten varjostimella havaittu kuvio muuttuu? 2 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 72305,
+          "content": {
+            "text": "Varjostin siirretään kaksinkertaiselle etäisyydelle hilasta. Miten varjostimella havaittu kuvio muuttuu? 2 p.\n",
+            "displayNumber": "4.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "",
+            "optionsLayout": "1",
+            "customizedPoints": true
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T07:36:18.891026",
+          "max_score": 2,
+          "groupping": null,
+          "id": 2647087,
+          "question_type": "CUSTOMIZED_FEEDBACK",
+          "options": [
+            {
+              "id": 34,
+              "text": "Punaiset täplät siirtyvät lähemmäs toisiaan.",
+              "parent": "b67dd838-e0d4-4e0e-83c0-a621f5f8558f",
+              "points": "0",
+              "choices": [],
+              "feedback": "&NewLine;\n"
+            },
+            {
+              "id": 35,
+              "text": "Punaiset täplät siirtyvät kauemmas toisistaan.",
+              "parent": "b67dd838-e0d4-4e0e-83c0-a621f5f8558f",
+              "points": "2",
+              "choices": [],
+              "correct": true,
+              "feedback": "&NewLine;\n"
+            },
+            {
+              "id": 36,
+              "text": "Punaiset täplät pysyvät paikoillaan.",
+              "parent": "b67dd838-e0d4-4e0e-83c0-a621f5f8558f",
+              "points": "0",
+              "choices": [],
+              "feedback": "&NewLine;\n"
+            },
+            {
+              "id": 37,
+              "text": "Reunimmaiset punaiset täplät häviävät, mutta täplien välimatkat varjostimella eivät muutu.",
+              "parent": "b67dd838-e0d4-4e0e-83c0-a621f5f8558f",
+              "points": "0",
+              "choices": []
+            },
+            {
+              "id": 38,
+              "text": "En vastaa.",
+              "parent": "b67dd838-e0d4-4e0e-83c0-a621f5f8558f",
+              "points": "0",
+              "choices": []
+            }
+          ],
+          "uuid": "b67dd838-e0d4-4e0e-83c0-a621f5f8558f",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2020-06-26T13:05:44.331047"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Monivalintatehtäviä fysiikan eri osa-alueilta 20 p.**\n\n&NewLine;\n\nKussakin videossa 1. A–1. E on kuvattu jokin mekaniikan ilmiö. Kohdissa 1.1.–1.5. valitse videoon liittyvä oikea ilmiö. Kohdissa 1.6.–1.10. valitse oikea fysikaalinen suure, joka on kuvattu kyseisessä kohdassa. Oikea vastaus 2 p., väärä vastaus 0 p., ei vastausta 0 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 72305,
+          "content": {
+            "text": "**Monivalintatehtäviä fysiikan eri osa-alueilta 20 p.**\n\n&NewLine;\n\nKussakin videossa 1. A–1. E on kuvattu jokin mekaniikan ilmiö. Kohdissa 1.1.–1.5. valitse videoon liittyvä oikea ilmiö. Kohdissa 1.6.–1.10. valitse oikea fysikaalinen suure, joka on kuvattu kyseisessä kohdassa. Oikea vastaus 2 p., väärä vastaus 0 p., ei vastausta 0 p.\n",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {
+            "material": true
+          },
+          "child_ids": [
+            "7bf5dbe1-c059-4aa2-9054-644d95bc3c00",
+            "8317144b-717b-46cf-b49f-0ff060d768d0",
+            "5ac4470f-8b34-4e2d-9c10-62b90523a68a",
+            "717c246e-f829-4ec3-b85b-6f0ed63a0a5e",
+            "582246e4-264b-446b-8c64-673a0ad12d3b",
+            "2817d08f-73e8-4b41-9639-f677c98e4743",
+            "11988c9b-5226-48a0-8f02-a0c7173543b9",
+            "2d8ad02c-137e-4f36-a101-4bca732951fb",
+            "8dc3ee62-cdb9-467e-a4a6-652914cb7004",
+            "0626ddf9-fb34-451d-9297-e10112cf9a6a"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-30T07:36:18.887895",
+          "max_score": null,
+          "groupping": null,
+          "id": 2358714,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "386a0b16-f63f-493f-8add-c946a2722525",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2020-06-03T06:46:55.053326"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Palautetaan kohdan 4.1. lähtötilanne. Siirretään laser sen jälkeen kaksinkertaiselle etäisyydelle kohteesta. Miten varjostimella havaittu kuvio muuttuu? 2 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 72305,
+          "content": {
+            "text": "Palautetaan kohdan 4.1. lähtötilanne. Siirretään laser sen jälkeen kaksinkertaiselle etäisyydelle kohteesta. Miten varjostimella havaittu kuvio muuttuu? 2 p.\n",
+            "displayNumber": "4.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "",
+            "optionsLayout": "1",
+            "customizedPoints": true
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T07:36:18.885484",
+          "max_score": 2,
+          "groupping": null,
+          "id": 2647108,
+          "question_type": "CUSTOMIZED_FEEDBACK",
+          "options": [
+            {
+              "id": 39,
+              "text": "Punaiset täplät siirtyvät lähemmäs toisiaan.",
+              "parent": "6b918673-e9c7-48af-9671-f79968146ea2",
+              "points": "0",
+              "choices": []
+            },
+            {
+              "id": 40,
+              "text": "Punaiset täplät siirtyvät kauemmas toisistaan.\n\n&NewLine;",
+              "parent": "6b918673-e9c7-48af-9671-f79968146ea2",
+              "points": "0",
+              "choices": []
+            },
+            {
+              "id": 41,
+              "text": "Punaiset täplät pysyvät paikoillaan.",
+              "parent": "6b918673-e9c7-48af-9671-f79968146ea2",
+              "points": "2",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 42,
+              "text": "Reunimmaiset punaiset täplät häviävät, mutta täplien välimatkat varjostimella eivät muutu.",
+              "parent": "6b918673-e9c7-48af-9671-f79968146ea2",
+              "points": "0",
+              "choices": []
+            },
+            {
+              "id": 43,
+              "text": "En vastaa.",
+              "parent": "6b918673-e9c7-48af-9671-f79968146ea2",
+              "points": "0",
+              "choices": []
+            }
+          ],
+          "uuid": "6b918673-e9c7-48af-9671-f79968146ea2",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2020-06-26T13:07:39.387087"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kuinka suuri vastuksen [MATH text=R\\_I] resistanssin pitää olla, kun mitataan sähkövirtaa alueella 0...100 mA? Anna vastaus kahden merkitsevän numeron tarkkuudella. 8 p.\n",
+          "deleted_at": null,
+          "feedback": "[MATH text=I] = 100 mA suurin mitattava sähkövirta\n\n[MATH text=I\\_C] = 0,10 mA suurin sähkövirta käämissä\n\n[MATH text=R\\_C] = 360 Ω käämin resistanssi\n\n[MATH text=I\\_R] sähkövirta vastuksessa [MATH text=R\\_I]\n\n&NewLine;\n\nKirchhoffin virtalaki:[MATH text=I=I\\_c+I\\_R\\ ]\n\n[MATH text=I\\_R=I−I\\_{c{,}}]\n\n&NewLine;\n\nKäämin napajännite saadaan Ohmin laista:\n\n[MATH text=U\\_c=R\\_cI\\_c.]\n\n&NewLine;\n\nKoska vastus RI ja käämi on kytketty rinnan, vastuksen napajännite on yhtä suuri kuin käämin napajännite.\n\n&NewLine;\n\n(4 p.)\n\n&NewLine;\n\nVastuksen resistanssi on siis\n\n&NewLine;\n\n[MATH text=R\\_I=\\frac{U\\_c}{I\\_R}=\\frac{R\\_cI\\_c}{I-I\\_c}=\\frac{360\\ Ω\\cdot0{,}10\\ mA}{\\left(100-0{,}10\\right)\\ mA}=0{,}36036036...Ω\\approx0{,}36\\ Ω]\n\n&NewLine;\n\n(4 p.)\n\n&NewLine;\n\n&NewLine;\n",
+          "exam_id": 72305,
+          "content": {
+            "text": "Kuinka suuri vastuksen [MATH text=R\\_I] resistanssin pitää olla, kun mitataan sähkövirtaa alueella 0...100 mA? Anna vastaus kahden merkitsevän numeron tarkkuudella. 8 p.\n",
+            "displayNumber": "5.1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-30T07:36:18.879388",
+          "max_score": null,
+          "groupping": null,
+          "id": 2647206,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "e73f20f3-4782-4412-9829-d8eb49d59456",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2020-06-26T13:25:29.581297"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Tarkastele perustellen, mitä energiaan liittyviä virheellisyyksiä tekstissä 6. A esitetään. 7 p.\n",
+          "deleted_at": null,
+          "feedback": "Väite ”vapaassa pudotuksessa syntyy paljon liike-energiaa” on virheellinen.\n\nHyppääjällä on alussa potentiaalienergiaa Maan gravitaatiokentässä. Putoamisen aikana tämä potentiaalienergia muuntuu liike-energiaksi.\n\nHyppääjän saavutettua putoamisen rajanopeuden hänen liike-energiansa ei enää kasva, vaan potentiaalienergia muuntuu hyppääjän ja ympäröivän ilman vuorovaikutuksen (ilmanvastuksen) seurauksena ilman sisäenergiaksi (ilmamolekyylien liike-energiaksi). (3 p.)\n\n&NewLine;\n\nVäite ”jos osuu maahan, kineettinen energia heijastuu maasta takaisin kehoon ja murskaa sen” on virheellinen. Kineettinen energia ei heijastu maasta. Jos hyppääjä ei osuisi verkkoon vaan maahan, maanpinta kohdistaisi häneen erittäin suuren liikettä hidastavan voiman. Hidastavan voiman vaikutus kehoon ylittäisi kehon kestokyvyn ja kehon rakenteet rikkoutuisivat.\n\n&NewLine;\n\nRiippumatta siitä, osuuko hyppääjä turvaverkkoon vai maahan, hänen nopeutensa pienenee putoamisen rajanopeudesta nollaan. Tämän saa aikaan joko maanpinnasta tai turvaverkosta hyppääjään kohdistuva tukivoima. Kummassakin tapauksessa hyppääjän liikemäärä muuttuu yhtä paljon, joten myös tukivoimien impulssit ovat yhtä suuret. Impulssi on I = ∫ Fdt. Jos hyppääjä\n\ntörmää maanpintaan, tukivoiman vaikutusaika on hyvin lyhyt, joten vastaavasti tukivoima on hyvin suuri, eikä keho kestä sitä. Turvaverkko pidentää törmäyksen kestoaikaa huomattavasti, jolloin tukivoima on paljon pienempi, eikä se ylitä kehon kestokykyä.\n\n&NewLine;\n\nTilannetta voidaan tarkastella myös energian ja työn avulla. Rajanopeudella putoavalla hyppääjällä on liike-energiaa. Kun nopeus pienenee nollaan, liike-energia pienenee nollaan maanpinnan tai turvaverkon hyppääjään kohdistaman tukivoiman tekemän negatiivisen työn vaikutuksesta. Se on yhtä suuri riippumatta siitä, osuuko hyppääjä maanpintaan vain turvaverkkoon. Työ on W = ∫ Fds,\n\njossa s on voiman vaikutusmatka. Jos hyppääjä törmää maanpintaan, tukivoiman vaikutusmatka on hyvin lyhyt, joten vastaavasti tukivoima on hyvin suuri, eikä keho kestä sitä. Turvaverkko pidentää tukivoiman vaikutusmatkaa huomattavasti, jolloin tukivoima on paljon pienempi, eikä se ylitä kehon kestokykyä. (4 p.)\n\n&NewLine;\n\n&NewLine;\n",
+          "exam_id": 72305,
+          "content": {
+            "text": "Tarkastele perustellen, mitä energiaan liittyviä virheellisyyksiä tekstissä 6. A esitetään. 7 p.\n"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T07:36:18.877097",
+          "max_score": null,
+          "groupping": null,
+          "id": 2647357,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "37c84303-f0b3-4cd2-9128-31b205440831",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2020-06-26T13:51:21.601814"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Röntgendiffraktiota voidaan käyttää aineen rakenteen selvittämiseen. Mihin röntgendiffraktio perustuu? Mitä röntgendiffraktiolla saadaan selville ja millaista ainetta sillä voidaan tutkia? 7 p.\n",
+          "deleted_at": null,
+          "feedback": "Röntgendiffraktiossa röntgensäteily siroaa tutkittavan aineen atomeista (tarkemmin atomien elektroneista). Aineen atomit toimivat kolmiulotteisen hilan tapaan. Niissä pisteissä, joissa sironneiden aaltojen maksimit osuvat kohdakkain (interferoivat konstruktiivisesti), havaitaan intensiteettimaksimeita. (3 p.)\n\nDiffraktiokuvion perusteella voidaan laskea esimerkiksi aineen hilatasojen etäisyyksiä soveltamalla Braggin lakia nλ = 2d sin θ. Röntgendiffraktiolla voidaan siis tutkia ainetta, jolla on säännöllinen rakenne (kiteistä ainetta). (4 p.)\n",
+          "exam_id": 72305,
+          "content": {
+            "text": "Röntgendiffraktiota voidaan käyttää aineen rakenteen selvittämiseen. Mihin röntgendiffraktio perustuu? Mitä röntgendiffraktiolla saadaan selville ja millaista ainetta sillä voidaan tutkia? 7 p.\n",
+            "displayNumber": "8.2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T07:36:18.874904",
+          "max_score": null,
+          "groupping": null,
+          "id": 2647565,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "9660044e-ad8a-4a1f-b9c8-4b05b4d84f2f",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2020-06-26T14:08:36.989633"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mitä tarkoittaa havainnon GW150914 yhteydessä se, että havainto on ”suora”. Miksi vuoden 1974 havainto ei ole ”suora havainto”? 5 p.\n",
+          "deleted_at": null,
+          "feedback": "LIGO mittaa suoraan painovoima-aaltojen aiheuttamaa ilmiötä (suhteellinen venymä järjestelmässä kulkevien valonsäteiden kulkemassa matkassa).\n\nVuoden 1974 havainnossa nähtiin pulsarien menettävän energiaa, mutta havainto ei sulje pois sitä mahdollisuutta, että tämä energia poistuu jollakin muulla tavalla kuin painovoima-aaltoina. (5 p.)\n",
+          "exam_id": 72305,
+          "content": {
+            "text": "Mitä tarkoittaa havainnon GW150914 yhteydessä se, että havainto on ”suora”. Miksi vuoden 1974 havainto ei ole ”suora havainto”? 5 p.\n",
+            "displayNumber": "10.1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T07:36:18.870624",
+          "max_score": null,
+          "groupping": null,
+          "id": 2647685,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "d010c07e-aade-43d5-a265-8350ebabbf27",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2020-06-26T14:22:25.970336"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Putoava sauvamagneetti 15 p.**\n\n&NewLine;\n\nSauvamagneetti pudotetaan käämin läpi kuvan 7. A mukaisesti. Käämissä on 500 kierrosta kuparilankaa. Käämin sähkövirta mitataan magneetin putoamisen aikana. Mittaustulokset on annettu mittausaineistossa 7. B.\n\n&NewLine;\n\n**Aineisto**\n\n&NewLine;\n\nKuva: [LINK url=http://yle.fi/plus/abitreenit/2020/kevat/2020-03-26\\_FY\\_fi/attachments/index.html#7.%20A|text=Sauvamagneetti pudotetaan käämin läpi]\n\nMittausaineisto: [LINK url=http://yle.fi/plus/abitreenit/2020/kevat/2020-03-26\\_FY\\_fi/attachments/index.html#7.%20B|text=Käämin sähkövirta ajan funktiona]\n\n&NewLine;\n\n_Huom. Abitreenien harjoittelukokeessa ei voi käyttää kuvakaappauksia eikä kaavaeditoria._\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 72305,
+          "content": {
+            "text": "**Putoava sauvamagneetti 15 p.**\n\n&NewLine;\n\nSauvamagneetti pudotetaan käämin läpi kuvan 7. A mukaisesti. Käämissä on 500 kierrosta kuparilankaa. Käämin sähkövirta mitataan magneetin putoamisen aikana. Mittaustulokset on annettu mittausaineistossa 7. B.\n\n&NewLine;\n\n**Aineisto**\n\n&NewLine;\n\nKuva: [LINK url=http://yle.fi/plus/abitreenit/2020/kevat/2020-03-26\\_FY\\_fi/attachments/index.html#7.%20A|text=Sauvamagneetti pudotetaan käämin läpi]\n\nMittausaineisto: [LINK url=http://yle.fi/plus/abitreenit/2020/kevat/2020-03-26\\_FY\\_fi/attachments/index.html#7.%20B|text=Käämin sähkövirta ajan funktiona]\n\n&NewLine;\n\n_Huom. Abitreenien harjoittelukokeessa ei voi käyttää kuvakaappauksia eikä kaavaeditoria._\n",
+            "displayNumber": "7."
+          },
+          "images": null,
+          "settings": {
+            "material": true
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-30T07:36:18.867539",
+          "max_score": null,
+          "groupping": null,
+          "id": 2647292,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "42a08310-5f26-4c97-a66a-65cf42e5ee0f",
+          "order_number": 11,
+          "multipart": true,
+          "created_at": "2020-06-26T13:44:47.157721"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kun toisiaan kiertävät kappaleet sulautuivat yhdeksi, gravitaatioaaltoina poistui energiaa kolmen Auringon massan verran 0,015 sekunnin aikana. Laske gravitaatioaaltojen teho. Kuinka monen Auringon säteilytehoa tämä vastaa? Auringon säteilyteho on [MATH text=3{,}9·10^{26}W.] (8 p.)\n",
+          "deleted_at": null,
+          "feedback": "Energiaa poistui 0,15 millisekunnin aikana [MATH text=3M\\_⊙c^2=6\\cdot10^{30}\\cdot9\\cdot10^{16}kg\\ m^2\\ ⁄\\ s\\ ^2{,}] (4 p.)\n\njoten gravitaatioaaltojen teho on [MATH text=P=\\frac{3M\\_⊙c^2}{0{,}015\\ s}=200M\\_⊙c2/s=3{,}6\\cdot10^{49}W.] Tämä vastaa noin [MATH text=10^{23}] Auringon tehoa. (4 p.)\n\n\n\n",
+          "exam_id": 72305,
+          "content": {
+            "text": "Kun toisiaan kiertävät kappaleet sulautuivat yhdeksi, gravitaatioaaltoina poistui energiaa kolmen Auringon massan verran 0,015 sekunnin aikana. Laske gravitaatioaaltojen teho. Kuinka monen Auringon säteilytehoa tämä vastaa? Auringon säteilyteho on [MATH text=3{,}9·10^{26}W.] (8 p.)\n",
+            "displayNumber": "10.2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T07:36:18.862932",
+          "max_score": null,
+          "groupping": null,
+          "id": 2647727,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "1c0593d3-cde7-449d-b263-e4b98001812b",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2020-06-26T14:30:36.462701"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Piirrä laatikon ja punnuksen voimakuviot tilanteessa, kun laatikko ei liiku. 6 p.\n\n&NewLine;\n",
+          "deleted_at": null,
+          "feedback": "[IMS id=39-6842775ed74dcd457e3]\n",
+          "exam_id": 72305,
+          "content": {
+            "text": "Piirrä laatikon ja punnuksen voimakuviot tilanteessa, kun laatikko ei liiku. 6 p.\n\n&NewLine;\n",
+            "displayNumber": "2.1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-30T07:36:18.872995",
+          "max_score": null,
+          "groupping": null,
+          "id": 2358842,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "98084009-aa11-42df-9c45-a870188f0c37",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2020-06-03T07:15:31.558786"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kuinka suuri vastuksen [MATH text=R\\_U] resistanssin pitää olla, kun mitataan jännitettä alueella 0…1 V? Anna vastaus kahden merkitsevän numeron tarkkuudella. 7 p.\n",
+          "deleted_at": null,
+          "feedback": "U = 1,0 V suurin mitattava jännite\n\n[MATH text=U\\_R] vastuksen [MATH text=R\\_U] napajännite \n\n&NewLine;\n\nKirchhoffin jännitelaki: U =  [MATH text=U\\_C +] [MATH text=U\\_R],\n\n[MATH text=U\\_R] = U - [MATH text=U\\_C].\n\n&NewLine;\n\nKun mittari näyttää maksimiarvoa, sähkövirta käämin läpi on yhtä suuri kuin kohdassa 5.1., joten käämin napajännite on\n\n&NewLine;\n\n[MATH text=U\\_C] = [MATH text=R\\_C] [MATH text=I\\_C].\n\n&NewLine;\n\nKoska käämi ja vastus [MATH text=R\\_U]  on kytketty sarjaan, sähkövirta vastuksen läpi on yhtä suuri kuin suurin sähkövirta käämin läpi.\n\n&NewLine;\n\n(4 p.)\n\n&NewLine;\n\nVastuksen resistanssi saadaan Ohmin lain avulla.\n\n&NewLine;\n\n[MATH text=R\\_U=\\frac{U\\_R}{I\\_C}=\\frac{U−U\\_c}{I\\_c}=\\frac{U−R\\_cI\\_c}{1\\_c}=\\frac{1{,}0\\ V}{0{,}10\\ mA}−360\\ Ω=9640\\ Ω\\approx9{,}6\\ kΩ.]\n\n&NewLine;\n\n(3 p.)\n\n&NewLine;\n",
+          "exam_id": 72305,
+          "content": {
+            "text": "Kuinka suuri vastuksen [MATH text=R\\_U] resistanssin pitää olla, kun mitataan jännitettä alueella 0…1 V? Anna vastaus kahden merkitsevän numeron tarkkuudella. 7 p.\n",
+            "displayNumber": "5.2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-30T07:36:18.881604",
+          "max_score": null,
+          "groupping": null,
+          "id": 2647261,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "3bf18816-f5a1-4d10-9796-20a4aa649f3d",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2020-06-26T13:37:57.676453"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Piirrä kuvaaja käämin sähkövirrasta ajan funktiona. Miksi käämissä kulkee sähkövirta, kun sauvamagneetti pudotetaan käämin läpi? 7 p.\n",
+          "deleted_at": null,
+          "feedback": "[IMS id=39-6940105ef5fb59e9c3d]\n\n&NewLine;\n\nSauvamagneetin tullessa käämin sisään magneettivuo käämin sisällä kasvaa. Muuttuva magneettivuo aiheuttaa käämiin lähdejännitteen induktiolain [MATH text=e=−N\\frac{∆Φ}{\\Delta\\Phi}] mukaisesti. Käämi on kytketty virta-anturiin, joten se on suljettu. Olkoon käämin resistanssi R. Induktiojännite e synnyttää Ohmin lain mukaan virran I = e ⁄ R. (3 p.)\n",
+          "exam_id": 72305,
+          "content": {
+            "text": "Piirrä kuvaaja käämin sähkövirrasta ajan funktiona. Miksi käämissä kulkee sähkövirta, kun sauvamagneetti pudotetaan käämin läpi? 7 p.\n",
+            "displayNumber": "7.1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-30T07:36:18.883584",
+          "max_score": null,
+          "groupping": null,
+          "id": 2647324,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "9a05188b-452b-405e-9d0d-c0acd9759f29",
+          "order_number": 12,
+          "multipart": true,
+          "created_at": "2020-06-26T13:49:11.542656"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "[LINK url=http://yle.fi/plus/abitreenit/2020/kevat/2020-03-26\\_FY\\_fi/index.html#1|text=Katso video 1. B.] Huom.! Videossa ei ole ääntä. Videolla kuvattu ilmiö on 2 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 72305,
+          "content": {
+            "text": "[LINK url=http://yle.fi/plus/abitreenit/2020/kevat/2020-03-26\\_FY\\_fi/index.html#1|text=Katso video 1. B.] Huom.! Videossa ei ole ääntä. Videolla kuvattu ilmiö on 2 p.\n",
+            "displayNumber": "1.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T07:36:18.893247",
+          "max_score": 2,
+          "groupping": null,
+          "id": 2358716,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 5,
+              "text": "tasainen liike",
+              "parent": "8317144b-717b-46cf-b49f-0ff060d768d0",
+              "choices": []
+            },
+            {
+              "id": 6,
+              "text": "tasaisesti kiihtyvä liike",
+              "parent": "8317144b-717b-46cf-b49f-0ff060d768d0",
+              "choices": []
+            },
+            {
+              "id": 7,
+              "text": "vaimeneva värähdysliike",
+              "parent": "8317144b-717b-46cf-b49f-0ff060d768d0",
+              "choices": []
+            },
+            {
+              "id": 8,
+              "text": "seisova aaltoliike",
+              "parent": "8317144b-717b-46cf-b49f-0ff060d768d0",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "8317144b-717b-46cf-b49f-0ff060d768d0",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2020-06-03T06:46:55.059925"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "[LINK url=http://yle.fi/plus/abitreenit/2020/kevat/2020-03-26\\_FY\\_fi/index.html#1|text=Katso video 1. A.] Huom.! Videossa ei ole ääntä. Videolla kuvattu ilmiö on 2 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 72305,
+          "content": {
+            "text": "[LINK url=http://yle.fi/plus/abitreenit/2020/kevat/2020-03-26\\_FY\\_fi/index.html#1|text=Katso video 1. A.] Huom.! Videossa ei ole ääntä. Videolla kuvattu ilmiö on 2 p.\n",
+            "displayNumber": "1.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T07:36:18.895561",
+          "max_score": 2,
+          "groupping": null,
+          "id": 2358715,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "text": "tasainen liike",
+              "parent": "7bf5dbe1-c059-4aa2-9054-644d95bc3c00",
+              "choices": []
+            },
+            {
+              "id": 2,
+              "text": "tasaisesti kiihtyvä liike",
+              "parent": "7bf5dbe1-c059-4aa2-9054-644d95bc3c00",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 3,
+              "text": "vaimeneva värähdysliike",
+              "parent": "7bf5dbe1-c059-4aa2-9054-644d95bc3c00",
+              "choices": []
+            },
+            {
+              "id": 4,
+              "text": "seisova aaltoliike",
+              "parent": "7bf5dbe1-c059-4aa2-9054-644d95bc3c00",
+              "choices": []
+            }
+          ],
+          "uuid": "7bf5dbe1-c059-4aa2-9054-644d95bc3c00",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2020-06-03T06:46:55.056879"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "[LINK url=http://yle.fi/plus/abitreenit/2020/kevat/2020-03-26\\_FY\\_fi/index.html#1|text=Katso video 1. E.] Huom.! Videossa ei ole ääntä. Videolla kuvattu ilmiö on 2 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 72305,
+          "content": {
+            "text": "[LINK url=http://yle.fi/plus/abitreenit/2020/kevat/2020-03-26\\_FY\\_fi/index.html#1|text=Katso video 1. E.] Huom.! Videossa ei ole ääntä. Videolla kuvattu ilmiö on 2 p.\n",
+            "displayNumber": "1.5."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T07:36:18.89733",
+          "max_score": 2,
+          "groupping": null,
+          "id": 2358724,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 5,
+              "text": "tasainen liike",
+              "parent": "582246e4-264b-446b-8c64-673a0ad12d3b",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 6,
+              "text": "tasaisesti kiihtyvä liike",
+              "parent": "582246e4-264b-446b-8c64-673a0ad12d3b",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 7,
+              "text": "vaimeneva värähdysliike",
+              "parent": "582246e4-264b-446b-8c64-673a0ad12d3b",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 8,
+              "text": "seisova aaltoliike",
+              "parent": "582246e4-264b-446b-8c64-673a0ad12d3b",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "582246e4-264b-446b-8c64-673a0ad12d3b",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2020-06-03T06:47:38.998225"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Vertaile toisiinsa käämin läpi kulkenutta kokonaissähkövarauksen suuruutta ensimmäisen ja toisen virtapiikin aikana. 8 p.\n",
+          "deleted_at": null,
+          "feedback": "Sähkövaraus ΔQ ja sähkövirta I liittyvät toisiinsa lain I = ΔQ ⁄ Δt kautta.\n\n&NewLine;\n\nTästä seuraa, että ΔQ = IΔt, eli sähkövaraus saadaan määrittämällä sähkövirran kuvaajan I(t) ja aika-\n\nakselin väliin jäävän alueen fysikaalinen pinta-ala. \n\n&NewLine;\n\nJaetaan aikaintegraali kahteen osaan: Integroidaan ensin virta etumerkin vaihtumiseen saakka ja saadaan varauksen muutos [MATH text=\\Delta Q\\_1]. Tämän jälkeen integroidaan virta etumerkin vaihtumisen jälkeen ja saadaan varauksen muutos[MATH text=\\Delta Q\\_2]. Varausten muutosten arvot ovat\n\n&NewLine;\n\n[MATH text=\\Delta Q\\_1 = ]0,8665 mC\n\n[MATH text=\\Delta Q\\_2 = ] −0,8655 mC\n\n&NewLine;\n\nTodetaan, että [MATH text=|ΔQ1|\\approx|ΔQ\\_2|.]\n\n&NewLine;\n\n(8 p.)\n\n&NewLine;\n\nTAI\n\n&NewLine;\n\nOlkoon käämin resistanssi R. Induktiojännite e synnyttää Ohmin lain mukaan virran I = e ⁄ R. Kun tähän lausekkeeseen sijoitetaan induktiojännite e = −N∆ Φ ⁄ ∆ t, saadaan\n\n&NewLine;\n\n[MATH text=1=-\\frac{1}{R}\\cdot\\frac{\\Delta\\Phi}{\\Delta t}.]\n\n&NewLine;\n\nKokonaisvaraus, joka kulkee ajanjakson Δt aikana käämin läpi, on ΔQ = IΔt.\n\nYhdistetään edelliset lausekkeet, jolloin saadaan käämin läpi kulkeva sähkövaraus:\n\n&NewLine;\n\n[MATH text=∆Q=−\\frac{1}{R}\\cdot\\frac{∆Φ}{∆t}\\cdot∆t=−\\frac{∆Φ}{R}.]\n\n&NewLine;\n\nEnsimmäisen virtapiikin aikana vuo kasvaa nollasta maksimiarvoon. Toisen vastakkaismerkkisen virtapiikin aikana vuo pienenee maksimiarvosta nollaan, jolloin vuon muutokset ovat itseisarvoiltaan yhtä suuret. Näin ollen myös käämin läpi kulkeneet sähkövaraukset ovat yhtä suuret. (8 p.)\n\n&NewLine;\n\nTAI\n\n&NewLine;\n\nKäämissä kulkee induktiojännitteen aikaansaama suljetun virtapiirin virta.\n\nOhmin lain mukaan virta on suoraan verrannollinen induktiojännitteeseen e. Näin ollen myös sähkövirta on verrannollinen vuon muutosnopeuteen:\n\nI ∼ dΦ / dt.Toisaalta koska sähkövirran kuljettama varaus on dq = Idt, saadaan että dQ ~ dΦ.\n\n&NewLine;\n\nEnsimmäisen virtapiikin aikana vuo kasvaa nollasta maksimiarvoon. Toisen vastakkaismerkkisen virtapiikin aikana vuo pienenee maksimiarvosta nollaan, jolloin vuon muutokset ovat itseisarvoiltaan yhtä suuret. Näin ollen myös käämin läpi kulkeneet sähkövaraukset ovat yhtä suuret. (8 p.)\n\n&NewLine;\n",
+          "exam_id": 72305,
+          "content": {
+            "text": "Vertaile toisiinsa käämin läpi kulkenutta kokonaissähkövarauksen suuruutta ensimmäisen ja toisen virtapiikin aikana. 8 p.\n",
+            "displayNumber": "7.2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-30T07:36:18.916136",
+          "max_score": null,
+          "groupping": null,
+          "id": 2647424,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "f19caf9b-f8c2-4955-8791-3da97b242d8a",
+          "order_number": 13,
+          "multipart": true,
+          "created_at": "2020-06-26T14:03:31.637245"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Painovoima-aallot ja LIGO 20 p.**\n\n&NewLine;\n\nTekstissä 10. A kerrotaan painovoima-aaltojen havaitsemisesta LIGO-koejärjestelyllä. Vastaa tehtäviin 10.1.–10.3. tekstin ja siihen liittyvän kuvan 10. B avulla.\n\n&NewLine;\n\n**Aineisto**\n\nTeksti: [LINK url=http://yle.fi/plus/abitreenit/2020/kevat/2020-03-26\\_FY\\_fi/attachments/index.html#10.%20A|text=Painovoima-aallot ja LIGO]\n\nKuva: [LINK url=http://yle.fi/plus/abitreenit/2020/kevat/2020-03-26\\_FY\\_fi/attachments/index.html#10.%20B|text=GW150914:n havaintodata]\n\n&NewLine;\n\n_Huom. Abitreenien harjoittelukokeessa ei voi käyttää kuvakaappauksia eikä kaavaeditoria._\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 72305,
+          "content": {
+            "text": "**Painovoima-aallot ja LIGO 20 p.**\n\n&NewLine;\n\nTekstissä 10. A kerrotaan painovoima-aaltojen havaitsemisesta LIGO-koejärjestelyllä. Vastaa tehtäviin 10.1.–10.3. tekstin ja siihen liittyvän kuvan 10. B avulla.\n\n&NewLine;\n\n**Aineisto**\n\nTeksti: [LINK url=http://yle.fi/plus/abitreenit/2020/kevat/2020-03-26\\_FY\\_fi/attachments/index.html#10.%20A|text=Painovoima-aallot ja LIGO]\n\nKuva: [LINK url=http://yle.fi/plus/abitreenit/2020/kevat/2020-03-26\\_FY\\_fi/attachments/index.html#10.%20B|text=GW150914:n havaintodata]\n\n&NewLine;\n\n_Huom. Abitreenien harjoittelukokeessa ei voi käyttää kuvakaappauksia eikä kaavaeditoria._\n",
+            "displayNumber": "10."
+          },
+          "images": null,
+          "settings": {
+            "material": true
+          },
+          "child_ids": [
+            "d010c07e-aade-43d5-a265-8350ebabbf27",
+            "1c0593d3-cde7-449d-b263-e4b98001812b",
+            "01e743b4-c5c0-41cc-9ae5-63ef51dbd7c7"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-30T07:36:18.919729",
+          "max_score": null,
+          "groupping": null,
+          "id": 2647644,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "808b3b7a-ea27-404e-8e6e-bb401809e1eb",
+          "order_number": 17,
+          "multipart": true,
+          "created_at": "2020-06-26T14:21:36.836946"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### **Osa III: 20 pisteen tehtävät**\n\n&NewLine;\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 72305,
+          "content": {
+            "text": "### **Osa III: 20 pisteen tehtävät**\n\n&NewLine;\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-30T07:36:18.938056",
+          "max_score": null,
+          "groupping": null,
+          "id": 2647603,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "87845b6a-8412-49de-8e96-725274661b5b",
+          "order_number": 15,
+          "multipart": true,
+          "created_at": "2020-06-26T14:20:10.769302"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Käytetään samaa laservaloa ja samoja etäisyyksiä kuin kohdassa 4.1., mutta kohteeksi valitaan toinen hila, jossa vierekkäisten rakojen välimatka on puolet alkuperäisen hilan rakojen välimatkasta eli [MATH text=\\frac{1}{2}a]. Miten varjostimella havaittu kuvio muuttuu? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 72305,
+          "content": {
+            "text": "Käytetään samaa laservaloa ja samoja etäisyyksiä kuin kohdassa 4.1., mutta kohteeksi valitaan toinen hila, jossa vierekkäisten rakojen välimatka on puolet alkuperäisen hilan rakojen välimatkasta eli [MATH text=\\frac{1}{2}a]. Miten varjostimella havaittu kuvio muuttuu? 3 p.\n",
+            "displayNumber": "4.5."
+          },
+          "images": null,
+          "settings": {
+            "points": "",
+            "optionsLayout": "1",
+            "customizedPoints": true
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T07:36:18.942951",
+          "max_score": 3,
+          "groupping": null,
+          "id": 2647154,
+          "question_type": "CUSTOMIZED_FEEDBACK",
+          "options": [
+            {
+              "id": 39,
+              "text": "Punaiset täplät siirtyvät lähemmäs toisiaan.",
+              "parent": "38d7f23e-2167-47eb-b088-0a47acaefae1",
+              "points": "0",
+              "choices": []
+            },
+            {
+              "id": 40,
+              "text": "Punaiset täplät siirtyvät kauemmas toisistaan.\n\n&NewLine;",
+              "parent": "38d7f23e-2167-47eb-b088-0a47acaefae1",
+              "points": "3",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 41,
+              "text": "Punaiset täplät pysyvät paikoillaan.",
+              "parent": "38d7f23e-2167-47eb-b088-0a47acaefae1",
+              "points": "0",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 42,
+              "text": "Reunimmaiset punaiset täplät häviävät, mutta täplien välimatkat varjostimella eivät muutu.",
+              "parent": "38d7f23e-2167-47eb-b088-0a47acaefae1",
+              "points": "0",
+              "choices": []
+            },
+            {
+              "id": 43,
+              "text": "En vastaa.",
+              "parent": "38d7f23e-2167-47eb-b088-0a47acaefae1",
+              "points": "0",
+              "choices": []
+            }
+          ],
+          "uuid": "38d7f23e-2167-47eb-b088-0a47acaefae1",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2020-06-26T13:12:01.194349"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Suure, joka kuvaa vuorovaikutuksen voimakkuutta, on 2 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 72305,
+          "content": {
+            "text": "Suure, joka kuvaa vuorovaikutuksen voimakkuutta, on 2 p.\n",
+            "displayNumber": "1.7."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T07:36:18.950018",
+          "max_score": 2,
+          "groupping": null,
+          "id": 2358753,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 13,
+              "text": "intensiteetti",
+              "parent": "11988c9b-5226-48a0-8f02-a0c7173543b9",
+              "choices": []
+            },
+            {
+              "id": 14,
+              "text": "nopeus",
+              "parent": "11988c9b-5226-48a0-8f02-a0c7173543b9",
+              "choices": []
+            },
+            {
+              "id": 15,
+              "text": "liikemäärä",
+              "parent": "11988c9b-5226-48a0-8f02-a0c7173543b9",
+              "choices": []
+            },
+            {
+              "id": 16,
+              "text": "voima",
+              "parent": "11988c9b-5226-48a0-8f02-a0c7173543b9",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "11988c9b-5226-48a0-8f02-a0c7173543b9",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2020-06-03T06:53:01.36339"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Suure, joka kuvaa aineen kykyä ottaa vastaan ja luovuttaa energiaa lämpönä, on 2 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 72305,
+          "content": {
+            "text": "Suure, joka kuvaa aineen kykyä ottaa vastaan ja luovuttaa energiaa lämpönä, on 2 p.\n",
+            "displayNumber": "1.9."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T07:36:18.951921",
+          "max_score": 2,
+          "groupping": null,
+          "id": 2358755,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 21,
+              "text": "tiheys",
+              "parent": "8dc3ee62-cdb9-467e-a4a6-652914cb7004",
+              "choices": []
+            },
+            {
+              "id": 22,
+              "text": "entropia",
+              "parent": "8dc3ee62-cdb9-467e-a4a6-652914cb7004",
+              "choices": []
+            },
+            {
+              "id": 23,
+              "text": "tilavuuden lämpötilakerroin",
+              "parent": "8dc3ee62-cdb9-467e-a4a6-652914cb7004",
+              "choices": []
+            },
+            {
+              "id": 24,
+              "text": "ominaislämpökapasiteetti",
+              "parent": "8dc3ee62-cdb9-467e-a4a6-652914cb7004",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "8dc3ee62-cdb9-467e-a4a6-652914cb7004",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2020-06-03T06:53:01.368962"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Suure, joka kuvaa radioaktiivisen säteilylähteen voimakkuutta, on 2 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 72305,
+          "content": {
+            "text": "Suure, joka kuvaa radioaktiivisen säteilylähteen voimakkuutta, on 2 p.\n",
+            "displayNumber": "1.6."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T07:36:18.954461",
+          "max_score": 2,
+          "groupping": null,
+          "id": 2358752,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 9,
+              "text": "säteilyannos",
+              "parent": "2817d08f-73e8-4b41-9639-f677c98e4743",
+              "choices": []
+            },
+            {
+              "id": 10,
+              "text": "hajoamisvakio",
+              "parent": "2817d08f-73e8-4b41-9639-f677c98e4743",
+              "choices": []
+            },
+            {
+              "id": 11,
+              "text": "aktiivisuus",
+              "parent": "2817d08f-73e8-4b41-9639-f677c98e4743",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 12,
+              "text": "puoliintumisaika",
+              "parent": "2817d08f-73e8-4b41-9639-f677c98e4743",
+              "choices": []
+            }
+          ],
+          "uuid": "2817d08f-73e8-4b41-9639-f677c98e4743",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2020-06-03T06:53:01.360551"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Suure, joka kuvaa johtimen kykyä vastustaa sähkövirtaa, on 2 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 72305,
+          "content": {
+            "text": "Suure, joka kuvaa johtimen kykyä vastustaa sähkövirtaa, on 2 p.\n",
+            "displayNumber": "1.8."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T07:36:18.959586",
+          "max_score": 2,
+          "groupping": null,
+          "id": 2358754,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 17,
+              "text": "kapasitanssi",
+              "parent": "2d8ad02c-137e-4f36-a101-4bca732951fb",
+              "choices": []
+            },
+            {
+              "id": 18,
+              "text": "resistanssi",
+              "parent": "2d8ad02c-137e-4f36-a101-4bca732951fb",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 19,
+              "text": "permittiivisyys",
+              "parent": "2d8ad02c-137e-4f36-a101-4bca732951fb",
+              "choices": []
+            },
+            {
+              "id": 20,
+              "text": "potentiaali",
+              "parent": "2d8ad02c-137e-4f36-a101-4bca732951fb",
+              "choices": []
+            }
+          ],
+          "uuid": "2d8ad02c-137e-4f36-a101-4bca732951fb",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2020-06-03T06:53:01.366171"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Piirrä kuvaaja hyppääjän korkeudesta ajan funktiona. Kuinka suuri on hyppääjään kohdistuva ilmanvastus, kun hän on 3 800 metrin korkeudessa? 8 p.\n",
+          "deleted_at": null,
+          "feedback": "[IMS id=39-6940145ef5fc325350d]\n\n&NewLine;\n\nKuvaajasta nähdään, että Aikinsin nopeus on lähes koko hypyn ajan vakio.\n\nNewtonin II lain mukaan [MATH text=mg−F\\_i=0\\ eli\\ F\\_i=95\\ kg\\ \\cdot\\ 9{,}81\\ \\frac{m}{s^2}=930\\ N.] \n\n&NewLine;\n\n(4 p.)\n",
+          "exam_id": 72305,
+          "content": {
+            "text": "Piirrä kuvaaja hyppääjän korkeudesta ajan funktiona. Kuinka suuri on hyppääjään kohdistuva ilmanvastus, kun hän on 3 800 metrin korkeudessa? 8 p.\n",
+            "displayNumber": "6.1."
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T07:36:18.961813",
+          "max_score": null,
+          "groupping": null,
+          "id": 2647291,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "b48ffe71-3e82-4775-ae64-8f0667c6a103",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2020-06-26T13:44:47.155074"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Selitä, miten röntgensäteilyä syntyy röntgenputkessa. 8 p.\n",
+          "deleted_at": null,
+          "feedback": "Röntgenputkessa elektroneja kiihdytetään korkeajännitteellä tyhjiössä, ja nopeasti liikkuvat elektronit törmäävät anodiin. (3 p.) Spektrin jatkuva osa aiheutuu elektronien hidastumisesta (jarrutussäteily). (2 p.) Kuvassa näkyvät piikit aiheutuvat Mo-anodin atomien virittymisestä ja viritystilan purkautumisesta. Piikkien energiat ovat käytetylle anodimateriaalille ominaisia. (3 p.)\n",
+          "exam_id": 72305,
+          "content": {
+            "text": "Selitä, miten röntgensäteilyä syntyy röntgenputkessa. 8 p.\n",
+            "displayNumber": "8.1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T07:36:18.963803",
+          "max_score": null,
+          "groupping": null,
+          "id": 2647528,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "c109076f-e652-460e-96eb-7e08d1735c9d",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2020-06-26T14:07:52.990616"
+        }
+      ],
+      "name": "Fysiikka, kevät 2020",
+      "settings": {
+        "overrideTitle": true
+      },
+      "exam_type": "yo-koe",
+      "classification": {
+        "category": "",
+        "disable_saving": false,
+        "hide_review_buttons": false,
+        "exam_type": "yo-koe",
+        "year": "2020",
+        "language": "fi-FI",
+        "hide_statistics": false,
+        "show_exam_series": false,
+        "force_yletunnus": false,
+        "subject": "fysiikka",
+        "published": true,
+        "semester": "spring"
+      },
+      "published_at": "2020-06-26T14:42:18.000Z",
+      "language": "fi-FI",
+      "id": 72305,
+      "reviews": [],
+      "is_open": true,
+      "uuid": "9c3a6318-a2e9-4493-9df3-6cead166d3e0"
+    }
+  ]
+}

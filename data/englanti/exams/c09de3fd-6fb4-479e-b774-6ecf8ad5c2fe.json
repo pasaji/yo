@@ -1,0 +1,4485 @@
+{
+  "meta": {
+    "count": 1
+  },
+  "data": [
+    {
+      "tags": [
+        ""
+      ],
+      "main_text": "Koe koostuu neljästä osasta: kuullun ymmärtäminen, luetun ymmärtäminen, sanasto ja rakenteet sekä kirjallinen tuottaminen.\n\n\n\nVoit tehdä tehtävät haluamassasi järjestyksessä. Noudata tehtäväkohtaisia vastaamisohjeita. Voit muuttaa antamiasi vastauksia koska tahansa kokeen aikana. Varaa aikaa kuullun ymmärtämisen tehtävien tekemiseen yhteensä noin 1 tunti.\n\n\n\nÄlä jätä mitään merkintöjä sellaisen tehtävän vastaukselle varattuun tilaan, jota et halua jättää arvosteltavaksi.\n\n\n\nOnnea kokeeseen!",
+      "characters": null,
+      "deleted_at": null,
+      "series_uuids": [],
+      "questions": [
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "MYRIAD STARS\n\nAs with most star parties, there are those who [SELECT id=187] coming for decades and those for whom this was their first event ever. Participants at the NSP exuded a sense of camaraderie — regulars set their equipment up in their “usual” spots. This inevitably lent the designation of territorial names to certain areas — Dob Row was where, you got it, the behemoths lined up, while Illinois Hill hosted [SELECT id=188] of those who’d come from, well, Illinois.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "MYRIAD STARS\n\nAs with most star parties, there are those who [SELECT id=187] coming for decades and those for whom this was their first event ever. Participants at the NSP exuded a sense of camaraderie — regulars set their equipment up in their “usual” spots. This inevitably lent the designation of territorial names to certain areas — Dob Row was where, you got it, the behemoths lined up, while Illinois Hill hosted [SELECT id=188] of those who’d come from, well, Illinois."
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.954097",
+          "max_score": 2,
+          "groupping": null,
+          "id": 6181732,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 187,
+              "hint": "1 p.",
+              "parent": "4cc53cc3-9139-4828-9a42-6e841eb5795f",
+              "choices": [
+                {
+                  "id": "e5ff976a-e9ea-4fbb-8bd0-e1dc3723e190",
+                  "text": "had it"
+                },
+                {
+                  "id": "63f20bac-8a8b-47ee-8205-acf7c9b0468c",
+                  "text": "have been",
+                  "correct": true
+                },
+                {
+                  "id": "68e076e8-e8ae-4ded-be03-1139a142190a",
+                  "text": "were"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 188,
+              "hint": "1 p.",
+              "parent": "4cc53cc3-9139-4828-9a42-6e841eb5795f",
+              "choices": [
+                {
+                  "id": "562e022d-0e42-4941-b2af-a714fe3a6008",
+                  "text": "many",
+                  "correct": true
+                },
+                {
+                  "id": "39321f6b-a9d0-4518-933c-cbab349913d6",
+                  "text": "few"
+                },
+                {
+                  "id": "78e66762-ad14-488d-83e1-b655d70e98ff",
+                  "text": "much"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "4cc53cc3-9139-4828-9a42-6e841eb5795f",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.845129"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "That’s just a tiny **fraction** of the island’s electricity demand, but, SkySails hopes, a sign of the future. 1 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "That’s just a tiny **fraction** of the island’s electricity demand, but, SkySails hopes, a sign of the future. 1 p.",
+            "displayNumber": "13.3"
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.936622",
+          "max_score": 1,
+          "groupping": null,
+          "id": 6181747,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 135,
+              "text": "proportion",
+              "parent": "8ce0806b-df9c-40fa-99ac-583fbdd95954",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 136,
+              "text": "opening",
+              "parent": "8ce0806b-df9c-40fa-99ac-583fbdd95954",
+              "choices": []
+            },
+            {
+              "id": 137,
+              "text": "breakage",
+              "parent": "8ce0806b-df9c-40fa-99ac-583fbdd95954",
+              "choices": []
+            }
+          ],
+          "uuid": "8ce0806b-df9c-40fa-99ac-583fbdd95954",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.885781"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Save the Seeds (video) 12 p.\n\nIn this video, seed experts Kay Baxter, Peta Mathias and interviewer Jeanette Thomas discuss heritage seeds. You can play the video as many times as you want to. Read the questions carefully and choose the best alternative.\n\n#### Material\n\n[LINK url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/index.html#2.A|text=2.A Video: Save the Seeds]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "### Save the Seeds (video) 12 p.\n\nIn this video, seed experts Kay Baxter, Peta Mathias and interviewer Jeanette Thomas discuss heritage seeds. You can play the video as many times as you want to. Read the questions carefully and choose the best alternative.\n\n#### Material\n\n[LINK url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/index.html#2.A|text=2.A Video: Save the Seeds]",
+            "questionType": "listening-comprehension",
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "96c8d9b4-5f30-4f95-848b-a2007ecb8828",
+            "95b019b3-33cb-489c-b748-9918ed60feb8",
+            "bf9ef733-3bd4-409f-902e-e3181c19ebaf",
+            "6597d309-9b2f-4093-9c65-77392e73ed2e"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-02-12T08:35:25.86002",
+          "max_score": null,
+          "groupping": null,
+          "id": 6181804,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "36f35486-b1d8-4592-9148-729c6ae2a899",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:06.042064"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### What could be an alternative title for this article? 3 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "#### What could be an alternative title for this article? 3 p.",
+            "displayNumber": "9.5"
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.849012",
+          "max_score": 3,
+          "groupping": null,
+          "id": 6181760,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 127,
+              "text": "Virtual reality – a new frontier in training",
+              "parent": "2b2c22fe-a137-4f84-a9f5-6aae97a312e0",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 128,
+              "text": "Virtual reality – a couch potato’s dream",
+              "parent": "2b2c22fe-a137-4f84-a9f5-6aae97a312e0",
+              "choices": []
+            },
+            {
+              "id": 129,
+              "text": "Virtual reality – no pain, no gain",
+              "parent": "2b2c22fe-a137-4f84-a9f5-6aae97a312e0",
+              "choices": []
+            }
+          ],
+          "uuid": "2b2c22fe-a137-4f84-a9f5-6aae97a312e0",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.92619"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Why is it important to protect Antarctica from invasive species? 3 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "#### Why is it important to protect Antarctica from invasive species? 3 p.",
+            "displayNumber": "6.4"
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.84277",
+          "max_score": 3,
+          "groupping": null,
+          "id": 6181777,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 116,
+              "text": "Preserving the continent can help slow global warming",
+              "parent": "dd0212ae-47c7-4c4a-bc2d-53f8b7dc0c29",
+              "choices": []
+            },
+            {
+              "id": 117,
+              "text": "There is so much to learn from its unique environment",
+              "parent": "dd0212ae-47c7-4c4a-bc2d-53f8b7dc0c29",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 118,
+              "text": "The existing flora and fauna are all totally irreplaceable",
+              "parent": "dd0212ae-47c7-4c4a-bc2d-53f8b7dc0c29",
+              "choices": []
+            }
+          ],
+          "uuid": "dd0212ae-47c7-4c4a-bc2d-53f8b7dc0c29",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.968029"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "While still in its **nascent** stages, airborne wind power could potentially be used in remote locations or flying from barges far offshore. 1 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "While still in its **nascent** stages, airborne wind power could potentially be used in remote locations or flying from barges far offshore. 1 p.",
+            "displayNumber": "13.1"
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.837626",
+          "max_score": 1,
+          "groupping": null,
+          "id": 6181748,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 135,
+              "text": "aquatic",
+              "parent": "208a118f-06fe-4d7c-9f50-1550ac639813",
+              "choices": []
+            },
+            {
+              "id": 136,
+              "text": "uncertain",
+              "parent": "208a118f-06fe-4d7c-9f50-1550ac639813",
+              "choices": []
+            },
+            {
+              "id": 137,
+              "text": "beginning",
+              "parent": "208a118f-06fe-4d7c-9f50-1550ac639813",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "208a118f-06fe-4d7c-9f50-1550ac639813",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.888142"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### The world is changing for Greenland’s native Inuit people\n\nYou may know them as eskimos, but the people of the Arctic are officially called the Inuit. Historically, they were hunters in the truest sense. For hundreds of years they survived the world’s harshest conditions, living off their prey of whales, seals, polar bears, musk oxen, birds, fish and reindeer. This has always been their way of life.\n\n\n\nOne that [SELECT id=130] . The Inuit were mostly isolated for millennia, until modern times. Now they are adapting but their lives are affected by a contemporary world that is placing limits on how they can hunt and a changing climate that is affecting their environment. [SELECT id=131].",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "#### The world is changing for Greenland’s native Inuit people\n\nYou may know them as eskimos, but the people of the Arctic are officially called the Inuit. Historically, they were hunters in the truest sense. For hundreds of years they survived the world’s harshest conditions, living off their prey of whales, seals, polar bears, musk oxen, birds, fish and reindeer. This has always been their way of life.\n\n\n\nOne that [SELECT id=130] . The Inuit were mostly isolated for millennia, until modern times. Now they are adapting but their lives are affected by a contemporary world that is placing limits on how they can hunt and a changing climate that is affecting their environment. [SELECT id=131]."
+          },
+          "images": null,
+          "settings": {
+            "points": "3"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.832217",
+          "max_score": 6,
+          "groupping": null,
+          "id": 6181757,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 130,
+              "hint": "3 p.",
+              "parent": "3e84a2e0-53db-46ab-a3d3-565096862cfe",
+              "choices": [
+                {
+                  "id": "21a632ff-2c8b-4c9e-898b-59305f40b5ce",
+                  "text": "is now thriving again"
+                },
+                {
+                  "id": "f5fa465f-7b0d-4f6e-8074-006413cb2d81",
+                  "text": "is now changing",
+                  "correct": true
+                },
+                {
+                  "id": "030938c0-f683-4297-a89d-a0ab8d82d998",
+                  "text": "has now disappeared"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 131,
+              "hint": "3 p.",
+              "parent": "3e84a2e0-53db-46ab-a3d3-565096862cfe",
+              "choices": [
+                {
+                  "id": "e1dd52f2-c949-453d-a933-935ddb5da21e",
+                  "text": "The world has become less interested in the Inuit."
+                },
+                {
+                  "id": "a1a82874-ea05-43ce-9cd1-374feff4ce9f",
+                  "text": "The Inuit are now actively resisting climate change."
+                },
+                {
+                  "id": "2f58e6df-4adc-414f-b12f-74567f3c2c19",
+                  "text": "There is an element of uncertainty to their culture.",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "3e84a2e0-53db-46ab-a3d3-565096862cfe",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.914058"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Wind Energy 8 p.\n\nWhich word means about the same as the underlined word in this context? The same text is used for Reading Comprehension task 12 ([LINK text=material 12.A|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/index.html#12.A]).\n\nHuomautus. Alleviivatut sanat on kirjoitettu **lihavoidulla** Abitreenien harjoituskokeessa.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "### Wind Energy 8 p.\n\nWhich word means about the same as the underlined word in this context? The same text is used for Reading Comprehension task 12 ([LINK text=material 12.A|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/index.html#12.A]).\n\nHuomautus. Alleviivatut sanat on kirjoitettu **lihavoidulla** Abitreenien harjoituskokeessa.",
+            "questionType": "grammar",
+            "displayNumber": "13."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "208a118f-06fe-4d7c-9f50-1550ac639813",
+            "a58a5fff-ddac-40bb-9b9c-7fcdeafe449e",
+            "8ce0806b-df9c-40fa-99ac-583fbdd95954",
+            "f17351ed-d94d-4b26-8e18-38f04f96d0b4",
+            "e19ce51e-bd62-4ac5-8d62-7835084a14ee",
+            "ab41c6bc-8785-4525-a79c-b45e2ba8cd67",
+            "188bedcb-2bab-47b5-bc4c-be222a9c56c9",
+            "ffe3d5eb-2974-495e-bfc4-51a120747f5f"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-02-12T08:35:25.794655",
+          "max_score": null,
+          "groupping": null,
+          "id": 6181742,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "13b38b40-64f6-440a-a334-d6b93f54129d",
+          "order_number": 16,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.86816"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Listen, and choose the most polite response. 3 p.\n\nBartender: Yeah, but the coffee machine is broken, so I’m afraid we can’t make any.\n\nCustomer:\n\n[LINK url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/5.3.mp3|text=The bartender’s line for question 5.3.]\n\n\n\n[LINK text=Option A|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/5.3_A.mp3]\n\n[LINK text=Option B|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/5.3_B.mp3]\n\n[LINK text=Option C|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/5.3_C.mp3]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "#### Listen, and choose the most polite response. 3 p.\n\nBartender: Yeah, but the coffee machine is broken, so I’m afraid we can’t make any.\n\nCustomer:\n\n[LINK url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/5.3.mp3|text=The bartender’s line for question 5.3.]\n\n\n\n[LINK text=Option A|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/5.3_A.mp3]\n\n[LINK text=Option B|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/5.3_B.mp3]\n\n[LINK text=Option C|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/5.3_C.mp3]",
+            "displayNumber": "5.3"
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.744736",
+          "max_score": 3,
+          "groupping": null,
+          "id": 6181769,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 162,
+              "text": "Option A",
+              "parent": "b945d3bf-45d2-470a-b984-5bde9b98ed95",
+              "choices": []
+            },
+            {
+              "id": 163,
+              "text": "Option B",
+              "parent": "b945d3bf-45d2-470a-b984-5bde9b98ed95",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 164,
+              "text": "Option C",
+              "parent": "b945d3bf-45d2-470a-b984-5bde9b98ed95",
+              "choices": []
+            }
+          ],
+          "uuid": "b945d3bf-45d2-470a-b984-5bde9b98ed95",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.947479"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Listen, and choose the most polite response. 3 p.\n\nBartender: Ah, I’m afraid we’re not doing coffee just now.\n\nCustomer:\n\n[LINK text=The bartender’s line for question 5.2.|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/5.2.mp3]\n\n\n\n[LINK text=Option A|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/5.2_A.mp3]\n\n[LINK text=Option B|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/5.2_B.mp3]\n\n[LINK text=Option C|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/5.2_C.mp3]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "#### Listen, and choose the most polite response. 3 p.\n\nBartender: Ah, I’m afraid we’re not doing coffee just now.\n\nCustomer:\n\n[LINK text=The bartender’s line for question 5.2.|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/5.2.mp3]\n\n\n\n[LINK text=Option A|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/5.2_A.mp3]\n\n[LINK text=Option B|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/5.2_B.mp3]\n\n[LINK text=Option C|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/5.2_C.mp3]",
+            "displayNumber": "5.2"
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.739394",
+          "max_score": 3,
+          "groupping": null,
+          "id": 6181782,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 162,
+              "text": "Option A",
+              "parent": "804eaeae-8a12-46e7-94e7-c5b46d28ea48",
+              "choices": []
+            },
+            {
+              "id": 163,
+              "text": "Option B",
+              "parent": "804eaeae-8a12-46e7-94e7-c5b46d28ea48",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 164,
+              "text": "Option C",
+              "parent": "804eaeae-8a12-46e7-94e7-c5b46d28ea48",
+              "choices": []
+            }
+          ],
+          "uuid": "804eaeae-8a12-46e7-94e7-c5b46d28ea48",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.980321"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "*Kokeen tehtävät loppuvat tähän.*\n\n## Sources\n\n1. Source: Sophia Ahmadi. *The surprising psychology behind being rich*. BBC Reels. https://www.bbc.com/reel/video/p07vts5j/the-surprising-psychology-behind-being-rich. Published: 1.7.2021. Accessed: 11.5.2022. Image: Screenshot of the video.\n2. Source: Context: Energy Examined. https://ssl-static.libsyn.com/p/assets/8/0/8/e/808eb2a553f06f0527a2322813b393ee/Kieran_Hanley__NEIA_podcast_square.jpg. Published: 12.5.2021. Accessed: 19.1.2022.\n3. Source: Tracy Larsson & Kieran Hanley. *Environmental innovation in Canada’s offshore oil and gas industry*. Context: Energy Examined. https://context.capp.ca/interviews/2021/podcast-environmental-innovation-in-canadas-offshore-oil-and-gas-industry/. Published: 12.5.2021. Accessed: 19.1.2022.\n4. Source: *14 HIGH PAYING SIDE HUSTLE IDEAS for 2021 to START TODAY With Little Money!*. The Humble Penny. YouTube. https://www.youtube.com/watch?v=brAvEZCl0ys. Published: 3.1.2020. Accessed: 10.8.2022. Image: Screenshot of the video.\n5. Source: *Coffee time advertising banner cups sizes sketch*. all-free-download.com. https://all-free-download.com/free-vector/download/coffee_time_advertising_banner_cups_sizes_sketch_6846270.html. Published: 2022. Accessed: 26.6.2022.\n6. Source: YTL.\n7. Source: Vincent van Zeijs. *Laubeuf Fjord with Webb Island*. Wikimedia Commons. https://commons.wikimedia.org/wiki/Antarctica#/media/File:Antarctica_(7),_Laubeuf_Fjord,_Webb_Island.JPG. Published: 7.2.2011. Accessed: 25.6.2022.\n8. Source: Christopher Intagliata. *“Antarctic is Ripe for Invasive Species”*. Scientific American. https://www.scientificamerican.com/podcast/60-second-science/. Published: 15.1.2020. Accessed: 20.6.2022.\n9. Source: *Archaeology Students Working at an Excavation Site with Wheelbarrows and Spades*. University of Southampton. https://www.southampton.ac.uk/study/subjects/archaeology. Published: 2022. Accessed: 27.8.2022.\n10. Source: ilovetheupperwestside.com. https://ilovetheupperwestside.com/material/media/2019/09/640-WEA-600x799.jpg. Accessed: 15.8.2022.\n11. Source: Jersey’s Best. https://www.jerseysbest.com/wp-content/uploads/2021/01/KRE-group.jpg. Accessed: 15.8.2022.\n12. Source: Buildington. https://www.buildington.co.uk/images/projects/16066630375fc3bb7d717b12.32215619.jpg. Accessed: 15.8.2022.\n13. Source: Jon Lapidese. *The world is changing for Greenland’s native Inuit people*. Oceanwide Expeditions. https://oceanwide-expeditions.com/blog/the-world-is-changing-for-the-native-inuit-people. Accessed: 16.8.2022. Adaptation: YTL.\n14. Source: Oceanwide Expeditions. https://storage.googleapis.com/oceanwide_web/media-dynamic/cache/widen_1100_progressive/media/default/0001/07/c0cec71b88585637a8072b772e6b224a894aa808.png. Accessed: 16.8.2022.\n15. Source: Diana Hannikainen. *Peering up into prairie skies*. Sky & Telescope. https://skyandtelescope.org/astronomy-news/peering-up-into-prairie-skies/?fbclid=IwAR05xeZEQG-m3CWSYggoOcd3XkVdZibDPVx5W_Il0LqwladD5aw-_LinKSk. Published: 18.8.2022. Accessed: 20.8.2022. Adaptation: YTL.\n16. Source: Diana Hannikainen. Sky & Telescope. https://skyandtelescope.org/wp-content/uploads/Deshmukh_DH_900px_crop.jpg. Published: 18.8.2022. Accessed: 1.9.2022.\n17. Source: YTL.\n18. Source: YTL.\n19. Source: Instagram. https://help.instagram.com/581066165581870?cms_id=581066165581870&published_only=true&force_new_ighc=false. Accessed: 24.9.2022. Partial screencapture.\n20. Source: J.J. Wikimedia Commons. https://upload.wikimedia.org/wikipedia/commons/1/1e/Villianc.jpg. Published: 1.7.2003. Accessed: 21.5.2022.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "*Kokeen tehtävät loppuvat tähän.*\n\n## Sources\n\n1. Source: Sophia Ahmadi. *The surprising psychology behind being rich*. BBC Reels. https://www.bbc.com/reel/video/p07vts5j/the-surprising-psychology-behind-being-rich. Published: 1.7.2021. Accessed: 11.5.2022. Image: Screenshot of the video.\n2. Source: Context: Energy Examined. https://ssl-static.libsyn.com/p/assets/8/0/8/e/808eb2a553f06f0527a2322813b393ee/Kieran_Hanley__NEIA_podcast_square.jpg. Published: 12.5.2021. Accessed: 19.1.2022.\n3. Source: Tracy Larsson & Kieran Hanley. *Environmental innovation in Canada’s offshore oil and gas industry*. Context: Energy Examined. https://context.capp.ca/interviews/2021/podcast-environmental-innovation-in-canadas-offshore-oil-and-gas-industry/. Published: 12.5.2021. Accessed: 19.1.2022.\n4. Source: *14 HIGH PAYING SIDE HUSTLE IDEAS for 2021 to START TODAY With Little Money!*. The Humble Penny. YouTube. https://www.youtube.com/watch?v=brAvEZCl0ys. Published: 3.1.2020. Accessed: 10.8.2022. Image: Screenshot of the video.\n5. Source: *Coffee time advertising banner cups sizes sketch*. all-free-download.com. https://all-free-download.com/free-vector/download/coffee_time_advertising_banner_cups_sizes_sketch_6846270.html. Published: 2022. Accessed: 26.6.2022.\n6. Source: YTL.\n7. Source: Vincent van Zeijs. *Laubeuf Fjord with Webb Island*. Wikimedia Commons. https://commons.wikimedia.org/wiki/Antarctica#/media/File:Antarctica_(7),_Laubeuf_Fjord,_Webb_Island.JPG. Published: 7.2.2011. Accessed: 25.6.2022.\n8. Source: Christopher Intagliata. *“Antarctic is Ripe for Invasive Species”*. Scientific American. https://www.scientificamerican.com/podcast/60-second-science/. Published: 15.1.2020. Accessed: 20.6.2022.\n9. Source: *Archaeology Students Working at an Excavation Site with Wheelbarrows and Spades*. University of Southampton. https://www.southampton.ac.uk/study/subjects/archaeology. Published: 2022. Accessed: 27.8.2022.\n10. Source: ilovetheupperwestside.com. https://ilovetheupperwestside.com/material/media/2019/09/640-WEA-600x799.jpg. Accessed: 15.8.2022.\n11. Source: Jersey’s Best. https://www.jerseysbest.com/wp-content/uploads/2021/01/KRE-group.jpg. Accessed: 15.8.2022.\n12. Source: Buildington. https://www.buildington.co.uk/images/projects/16066630375fc3bb7d717b12.32215619.jpg. Accessed: 15.8.2022.\n13. Source: Jon Lapidese. *The world is changing for Greenland’s native Inuit people*. Oceanwide Expeditions. https://oceanwide-expeditions.com/blog/the-world-is-changing-for-the-native-inuit-people. Accessed: 16.8.2022. Adaptation: YTL.\n14. Source: Oceanwide Expeditions. https://storage.googleapis.com/oceanwide_web/media-dynamic/cache/widen_1100_progressive/media/default/0001/07/c0cec71b88585637a8072b772e6b224a894aa808.png. Accessed: 16.8.2022.\n15. Source: Diana Hannikainen. *Peering up into prairie skies*. Sky & Telescope. https://skyandtelescope.org/astronomy-news/peering-up-into-prairie-skies/?fbclid=IwAR05xeZEQG-m3CWSYggoOcd3XkVdZibDPVx5W_Il0LqwladD5aw-_LinKSk. Published: 18.8.2022. Accessed: 20.8.2022. Adaptation: YTL.\n16. Source: Diana Hannikainen. Sky & Telescope. https://skyandtelescope.org/wp-content/uploads/Deshmukh_DH_900px_crop.jpg. Published: 18.8.2022. Accessed: 1.9.2022.\n17. Source: YTL.\n18. Source: YTL.\n19. Source: Instagram. https://help.instagram.com/581066165581870?cms_id=581066165581870&published_only=true&force_new_ighc=false. Accessed: 24.9.2022. Partial screencapture.\n20. Source: J.J. Wikimedia Commons. https://upload.wikimedia.org/wikipedia/commons/1/1e/Villianc.jpg. Published: 1.7.2003. Accessed: 21.5.2022."
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-02-12T08:35:25.735027",
+          "max_score": null,
+          "groupping": null,
+          "id": 6181819,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "66fa7cf1-4973-4e98-9f8e-eb743850b828",
+          "order_number": 21,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:06.074234"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### The villain as the hero 99 p.\n\nTake a well-known story and rewrite it, casting the villain as the hero. For example, how does Cinderella work from the perspective of the wicked stepmother, or, what would the story of Star Wars be like, if Darth Vader were the hero? Remember to mention what story you are rewriting.\n\n*Vastauksen pituus on enintään 1300 merkkiä. Ylityksestä seuraa pistevähennys.*",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "#### The villain as the hero 99 p.\n\nTake a well-known story and rewrite it, casting the villain as the hero. For example, how does Cinderella work from the perspective of the wicked stepmother, or, what would the story of Star Wars be like, if Darth Vader were the hero? Remember to mention what story you are rewriting.\n\n*Vastauksen pituus on enintään 1300 merkkiä. Ylityksestä seuraa pistevähennys.*",
+            "displayNumber": "16.4"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.72857",
+          "max_score": null,
+          "groupping": null,
+          "id": 6181797,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "000e7af5-6d13-46b0-ac80-735c7a2729d4",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:06.018595"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "As hunting has become more difficult for the hardcore traditionalists, more family members are working in contemporary roles to help their family’s economy. [SELECT id=172] This allows some of the men to continue in their traditional role as hunters. However, one side effect is that the women are starting to lose their knowledge of traditional skills such as sewing animal skins.\n\n\n\nThe good news is there is increasing awareness of the rights of aboriginal people like the Inuit to preserve their centuries-old way of life. The United Nations Environment Programme has called for increased environmental monitoring in the Arctic regions. It seems that what is happening in the Arctic is the front line for what will occur in the rest of the world.\n\n\n\nUltimately, it is being acknowledged that awareness of the Inuit culture and their environment will not only benefit their survival, [SELECT id=173].",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "As hunting has become more difficult for the hardcore traditionalists, more family members are working in contemporary roles to help their family’s economy. [SELECT id=172] This allows some of the men to continue in their traditional role as hunters. However, one side effect is that the women are starting to lose their knowledge of traditional skills such as sewing animal skins.\n\n\n\nThe good news is there is increasing awareness of the rights of aboriginal people like the Inuit to preserve their centuries-old way of life. The United Nations Environment Programme has called for increased environmental monitoring in the Arctic regions. It seems that what is happening in the Arctic is the front line for what will occur in the rest of the world.\n\n\n\nUltimately, it is being acknowledged that awareness of the Inuit culture and their environment will not only benefit their survival, [SELECT id=173]."
+          },
+          "images": null,
+          "settings": {
+            "points": "3"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.72505",
+          "max_score": 6,
+          "groupping": null,
+          "id": 6181727,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 172,
+              "hint": "3 p.",
+              "parent": "91407f3d-6306-4ed1-a475-f48188117304",
+              "choices": [
+                {
+                  "id": "7a88da37-1726-4879-be74-a8f3b78037e2",
+                  "text": "Women find it necessary to learn the skills needed in traditional hunting families."
+                },
+                {
+                  "id": "62ba54cd-2d84-44d1-aa7c-eb2e714c902f",
+                  "text": "More of the women have to accompany their husbands on the hunting trips."
+                },
+                {
+                  "id": "400ff51f-c676-42c0-9628-ec5b522651b7",
+                  "text": "Women are taking salaried jobs to earn currency for store bought products.",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 173,
+              "hint": "3 p.",
+              "parent": "91407f3d-6306-4ed1-a475-f48188117304",
+              "choices": [
+                {
+                  "id": "38ae473f-eeaa-4c69-96be-0c82e9fe7f68",
+                  "text": "it will revive their hunting traditions"
+                },
+                {
+                  "id": "f460beec-8534-4e34-b3a1-fc9a68ffbd10",
+                  "text": "it will in the long run help us all",
+                  "correct": true
+                },
+                {
+                  "id": "7a7024a4-9c01-4ff6-b975-8bfe7088ef61",
+                  "text": "it will help protect certain animals"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "91407f3d-6306-4ed1-a475-f48188117304",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.830722"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "There are [SELECT id=170]. UNESCO’s World Heritage List is considering adding protections for caribou hunting as it is an important aspect to the Inuit’s and other native groups’ livelihoods.\n\n\n\nFor centuries, the Inuit have lived out in the roughest environments. They know the weather patterns that allow them to travel safely on the sea ice for their hunting expeditions. However, temperatures in the Arctic have increased by 2 to 5 degrees Celsius over the last 50 years and may rise by yet another 10 degrees. This change is impacting the wildlife and the environment of the Arctic.\n\n\n\nThroughout Greenland, Inuit hunters [SELECT id=171]. They report that the land and the sea ice are changing. What was once familiar territory has become unstable, making navigating and travel dangerous. Glaciers are melting more in summer than previously and the routes to traditional hunting spots have become precarious. Even some experienced hunters have disappeared through the ice. They are now hunting more in the fjords rather than on the sea ice, as it is safer and more productive with the changing environment.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "There are [SELECT id=170]. UNESCO’s World Heritage List is considering adding protections for caribou hunting as it is an important aspect to the Inuit’s and other native groups’ livelihoods.\n\n\n\nFor centuries, the Inuit have lived out in the roughest environments. They know the weather patterns that allow them to travel safely on the sea ice for their hunting expeditions. However, temperatures in the Arctic have increased by 2 to 5 degrees Celsius over the last 50 years and may rise by yet another 10 degrees. This change is impacting the wildlife and the environment of the Arctic.\n\n\n\nThroughout Greenland, Inuit hunters [SELECT id=171]. They report that the land and the sea ice are changing. What was once familiar territory has become unstable, making navigating and travel dangerous. Glaciers are melting more in summer than previously and the routes to traditional hunting spots have become precarious. Even some experienced hunters have disappeared through the ice. They are now hunting more in the fjords rather than on the sea ice, as it is safer and more productive with the changing environment."
+          },
+          "images": null,
+          "settings": {
+            "points": "3"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.72161",
+          "max_score": 6,
+          "groupping": null,
+          "id": 6181726,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 170,
+              "hint": "3 p.",
+              "parent": "dbcbdb31-f5fd-4085-9237-17df3f59f63d",
+              "choices": [
+                {
+                  "id": "abc3673e-b3db-4d97-981a-f5f49afee1bd",
+                  "text": "certain organisations that some argue have caused the present situation"
+                },
+                {
+                  "id": "8775ede5-9e5e-4b19-8306-151870d8e734",
+                  "text": "however, some measures being considered to help this situation",
+                  "correct": true
+                },
+                {
+                  "id": "15f045b4-800b-4046-9607-7b49a9270749",
+                  "text": "also other worrisome developments that may aggravate the situation"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 171,
+              "hint": "3 p.",
+              "parent": "dbcbdb31-f5fd-4085-9237-17df3f59f63d",
+              "choices": [
+                {
+                  "id": "4e6a73c8-2863-494f-8e5c-87ed8656376d",
+                  "text": "have been recruited to monitor the environment"
+                },
+                {
+                  "id": "782ff398-1c44-4c2b-8042-59a3ae7b214d",
+                  "text": "say the weather is increasingly unpredictable",
+                  "correct": true
+                },
+                {
+                  "id": "8516dfe9-b236-4a32-a914-9156205c1ffc",
+                  "text": "are worried about decreasing animal populations"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "dbcbdb31-f5fd-4085-9237-17df3f59f63d",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.82692"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "The Inuit continue to eat their traditional regime of seal, walrus and reindeer. In constructing their clothing and boots, some traditionalists eschew contemporary materials and continue to utilize the spoils from their hunt – polar bear and reindeer skins, just as they’ve always done. This world of hunting for the Inuit is deeply embedded in their myths, their communal structure, even their DNA.\n\n\n\nHowever, the Inuit’s ancient culture has recently come under pressure from well-meaning people. [SELECT id=168], even from within Greenland’s government have begun to set limits on many of the species that were at one time essential to this hunting culture.\n\n\n\nFor the small groups of hunters who still hunt off the land, the claim is that these new quotas will make their lives more difficult. Though well intentioned, these animal rights campaigns coming from the outside world conflict directly with ancient Inuit values. This is truly a clash of cultures, that [SELECT id=169].",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "The Inuit continue to eat their traditional regime of seal, walrus and reindeer. In constructing their clothing and boots, some traditionalists eschew contemporary materials and continue to utilize the spoils from their hunt – polar bear and reindeer skins, just as they’ve always done. This world of hunting for the Inuit is deeply embedded in their myths, their communal structure, even their DNA.\n\n\n\nHowever, the Inuit’s ancient culture has recently come under pressure from well-meaning people. [SELECT id=168], even from within Greenland’s government have begun to set limits on many of the species that were at one time essential to this hunting culture.\n\n\n\nFor the small groups of hunters who still hunt off the land, the claim is that these new quotas will make their lives more difficult. Though well intentioned, these animal rights campaigns coming from the outside world conflict directly with ancient Inuit values. This is truly a clash of cultures, that [SELECT id=169]."
+          },
+          "images": null,
+          "settings": {
+            "points": "3"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.71759",
+          "max_score": 6,
+          "groupping": null,
+          "id": 6181725,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 168,
+              "hint": "3 p.",
+              "parent": "23aa8d57-ff6c-4161-8c24-d166f85a7640",
+              "choices": [
+                {
+                  "id": "8a83e2be-adde-46a2-b015-b53aa030488a",
+                  "text": "Some political opposition parties"
+                },
+                {
+                  "id": "fdbbb6f1-3286-4c63-a79a-847e914b9745",
+                  "text": "Various environmental groups",
+                  "correct": true
+                },
+                {
+                  "id": "c8d278d1-7f8b-4db8-9a8b-62304225c3ea",
+                  "text": "Certain traditional hunters"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 169,
+              "hint": "3 p.",
+              "parent": "23aa8d57-ff6c-4161-8c24-d166f85a7640",
+              "choices": [
+                {
+                  "id": "2caeaae7-563d-4e5d-8d2c-9ec9a7dd406b",
+                  "text": "will only strengthen the Inuits’ resolve to maintain their culture"
+                },
+                {
+                  "id": "86e75026-f42c-4cee-83d8-22f3f7a21da1",
+                  "text": "may threaten a way of life for one of the world’s last aboriginal people",
+                  "correct": true
+                },
+                {
+                  "id": "3df08af9-abbd-4599-8e00-bba8807bde10",
+                  "text": "is quite likely to slow down Inuits’ transition to wage earning work"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "23aa8d57-ff6c-4161-8c24-d166f85a7640",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.823911"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Skies in the Midwest are big. Really big. And really, really dark, as I discovered on my recent trip to the Nebraska Star Party.\n\nThis was my first time at a star party since the COVID-19 pandemic began, and the first time in too long under rivetingly dark skies. As I stood in the Nebraska Sandhills with the prairie winds soughing past, I marveled at the vast expanse of the celestial vault and the Milky Way — true to its name — arcing overhead, and I couldn’t believe my luck. Here I was, under the stars, sharing this special moment with some 300 other [SELECT id=185] astronomers.\n\nOn my first afternoon at the Snake River Area Campground, I wandered around, absorbing the immensity of the prairie and marveling at the vast horizons. When attendees started to trickle [SELECT id=186], the frisson of excitement at the anticipation of a night of collective observing was palpable.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "Skies in the Midwest are big. Really big. And really, really dark, as I discovered on my recent trip to the Nebraska Star Party.\n\nThis was my first time at a star party since the COVID-19 pandemic began, and the first time in too long under rivetingly dark skies. As I stood in the Nebraska Sandhills with the prairie winds soughing past, I marveled at the vast expanse of the celestial vault and the Milky Way — true to its name — arcing overhead, and I couldn’t believe my luck. Here I was, under the stars, sharing this special moment with some 300 other [SELECT id=185] astronomers.\n\nOn my first afternoon at the Snake River Area Campground, I wandered around, absorbing the immensity of the prairie and marveling at the vast horizons. When attendees started to trickle [SELECT id=186], the frisson of excitement at the anticipation of a night of collective observing was palpable."
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.713363",
+          "max_score": 2,
+          "groupping": null,
+          "id": 6181724,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 185,
+              "hint": "1 p.",
+              "parent": "43a2fe90-e20d-4956-84ee-7869e88b5a76",
+              "choices": [
+                {
+                  "id": "87b1f21d-f0bf-425c-8498-6e375fd63362",
+                  "text": "avid",
+                  "correct": true
+                },
+                {
+                  "id": "765832f3-9598-4983-ac76-b0d516750546",
+                  "text": "vivid"
+                },
+                {
+                  "id": "adce14cd-ee82-48d6-a0c6-179a62ffe6f3",
+                  "text": "tepid"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 186,
+              "hint": "1 p.",
+              "parent": "43a2fe90-e20d-4956-84ee-7869e88b5a76",
+              "choices": [
+                {
+                  "id": "0e2a89ce-cafd-4cf5-b501-c1f96d3e36b5",
+                  "text": "down"
+                },
+                {
+                  "id": "c6cbde7d-c610-4096-b3dc-0cb06a018c1d",
+                  "text": "in",
+                  "correct": true
+                },
+                {
+                  "id": "3429388a-71f2-44c1-a073-427b7e166301",
+                  "text": "on"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "43a2fe90-e20d-4956-84ee-7869e88b5a76",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.820162"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Production 99 p.\n\n*Vastaa yhteen kohdista 16.1–16.4.*\n\n\n\nWrite a composition of 700–1,300 characters in English on **one** of the topics below, following the instructions. Spaces and line breaks are not included in the character count. Please note that the recommended minimum number of characters is 700. If you write less, it is very difficult to fulfill task requirements.\n\nLeave the three other text fields empty.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "### Production 99 p.\n\n*Vastaa yhteen kohdista 16.1–16.4.*\n\n\n\nWrite a composition of 700–1,300 characters in English on **one** of the topics below, following the instructions. Spaces and line breaks are not included in the character count. Please note that the recommended minimum number of characters is 700. If you write less, it is very difficult to fulfill task requirements.\n\nLeave the three other text fields empty.",
+            "questionType": "writing",
+            "displayNumber": "16."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "d0c8a616-7041-4ad7-86e3-f9964a23b8d3",
+            "d1430b50-d028-4b05-aedb-856a568df846",
+            "48f549f9-35bc-4783-823c-33be2050f2ba",
+            "000e7af5-6d13-46b0-ac80-735c7a2729d4"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-02-12T08:35:25.708974",
+          "max_score": null,
+          "groupping": null,
+          "id": 6181774,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "8531e4f2-b828-45fe-b07a-eb0b00f374b2",
+          "order_number": 20,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.959236"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Listen, and choose the most polite response. 3 p.\n\nBartender: You’re right – I’ll get that done. Can I get you something else?\n\nCustomer:\n\n[LINK url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/5.4.mp3|text=The bartender’s line for question 5.4.]\n\n\n\n[LINK text=Option A|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/5.4_A.mp3]\n\n[LINK text=Option B|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/5.4_B.mp3]\n\n[LINK text=Option C|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/5.4_C.mp3]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "#### Listen, and choose the most polite response. 3 p.\n\nBartender: You’re right – I’ll get that done. Can I get you something else?\n\nCustomer:\n\n[LINK url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/5.4.mp3|text=The bartender’s line for question 5.4.]\n\n\n\n[LINK text=Option A|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/5.4_A.mp3]\n\n[LINK text=Option B|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/5.4_B.mp3]\n\n[LINK text=Option C|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/5.4_C.mp3]",
+            "displayNumber": "5.4"
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.700799",
+          "max_score": 3,
+          "groupping": null,
+          "id": 6181778,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 162,
+              "text": "Option A",
+              "parent": "d7d0397e-dd61-41ff-94ad-a31befab2a70",
+              "choices": []
+            },
+            {
+              "id": 163,
+              "text": "Option B",
+              "parent": "d7d0397e-dd61-41ff-94ad-a31befab2a70",
+              "choices": []
+            },
+            {
+              "id": 164,
+              "text": "Option C",
+              "parent": "d7d0397e-dd61-41ff-94ad-a31befab2a70",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "d7d0397e-dd61-41ff-94ad-a31befab2a70",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.970226"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Wandering the grounds, I came upon eight-year-old Xandy, who had her very own telescope alongside her grandfather’s. A little farther along, 13-year-old Kaylee — who was at her seventh (!) NSP — had an observing plan for the night: She was going to follow her standard [SELECT id=191] and start by checking out her favorites, Mizar and Alcor. Kaylee also planned on finding “the comet.” Armed with a star chart, off she went and did just that — a short while later the triumphant cry of “I found it! I found it!” rang through the night air. Bingo, one comet [SELECT id=192].",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "Wandering the grounds, I came upon eight-year-old Xandy, who had her very own telescope alongside her grandfather’s. A little farther along, 13-year-old Kaylee — who was at her seventh (!) NSP — had an observing plan for the night: She was going to follow her standard [SELECT id=191] and start by checking out her favorites, Mizar and Alcor. Kaylee also planned on finding “the comet.” Armed with a star chart, off she went and did just that — a short while later the triumphant cry of “I found it! I found it!” rang through the night air. Bingo, one comet [SELECT id=192]."
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.692234",
+          "max_score": 2,
+          "groupping": null,
+          "id": 6181723,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 191,
+              "hint": "1 p.",
+              "parent": "ee72bb7c-6051-4501-83c9-5addacc27b19",
+              "choices": [
+                {
+                  "id": "38e1ab8e-fcbe-44df-98ea-04e487aa126b",
+                  "text": "MO",
+                  "correct": true
+                },
+                {
+                  "id": "b511e464-3f95-4c08-b11a-a800b45a6946",
+                  "text": "VAT"
+                },
+                {
+                  "id": "fb8582a5-ef5f-46aa-b2cc-e825c7e07960",
+                  "text": "RSVP"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 192,
+              "hint": "1 p.",
+              "parent": "ee72bb7c-6051-4501-83c9-5addacc27b19",
+              "choices": [
+                {
+                  "id": "f1c89d77-f825-4b69-b691-e27e93ad0610",
+                  "text": "bagging"
+                },
+                {
+                  "id": "bd5fc07d-4736-4af4-993f-e78b2fdffe11",
+                  "text": "to bag"
+                },
+                {
+                  "id": "d8cfaa36-e9be-4203-9188-4112807f3e49",
+                  "text": "bagged",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "ee72bb7c-6051-4501-83c9-5addacc27b19",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.816518"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Before sunset, I could overhear the veterans advising new observers where the best spots were to set up. John Johnson, active in the planning and execution of the NSP since 1999 and has attended 26 of the 29 events thus far, says that the most exciting thing for him is meeting first-time attendees, especially the young people among them. “Their exclamations when they see the myriad stars with the Milky Way stretching from [SELECT id=189] to horizon in a truly dark sky, void [SELECT id=190] any artificial light, is truly an emotional experience,” Johnson reflects.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "Before sunset, I could overhear the veterans advising new observers where the best spots were to set up. John Johnson, active in the planning and execution of the NSP since 1999 and has attended 26 of the 29 events thus far, says that the most exciting thing for him is meeting first-time attendees, especially the young people among them. “Their exclamations when they see the myriad stars with the Milky Way stretching from [SELECT id=189] to horizon in a truly dark sky, void [SELECT id=190] any artificial light, is truly an emotional experience,” Johnson reflects."
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.706771",
+          "max_score": 2,
+          "groupping": null,
+          "id": 6181730,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 189,
+              "hint": "1 p.",
+              "parent": "47768714-b3f4-4d68-a6ec-3a1050c71ac6",
+              "choices": [
+                {
+                  "id": "3e6a986c-4601-4c7b-867a-a475f765904d",
+                  "text": "horizon",
+                  "correct": true
+                },
+                {
+                  "id": "a869a867-db8f-4b98-8478-575b46c5550e",
+                  "text": "a horizon"
+                },
+                {
+                  "id": "9d1e696d-f7e8-408f-a7af-2173e7747532",
+                  "text": "the horizon"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 190,
+              "hint": "1 p.",
+              "parent": "47768714-b3f4-4d68-a6ec-3a1050c71ac6",
+              "choices": [
+                {
+                  "id": "9f8811d4-f87c-42d5-a369-14d4ff871b74",
+                  "text": "by"
+                },
+                {
+                  "id": "a4c688be-6dce-43d7-b827-31476ec1bb54",
+                  "text": "in"
+                },
+                {
+                  "id": "28cab29e-41f6-4e9c-af24-a3149c2ed24f",
+                  "text": "of",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "47768714-b3f4-4d68-a6ec-3a1050c71ac6",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.84085"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### What can you do to promote biodiversity? 99 p.\n\nThe International Youth for Biodiversity organisation is offering a prize for the best essay on biodiversity. Climate change is a recognised threat to our future, but now more and more people are raising the alarm about the loss of biodiversity. Every ninth species in Finland is endangered. What can you do to help change this trend? Offer a practical solution and explain how you would convince others to follow your example.\n\n*Vastauksen pituus on enintään 1300 merkkiä. Ylityksestä seuraa pistevähennys.*",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "#### What can you do to promote biodiversity? 99 p.\n\nThe International Youth for Biodiversity organisation is offering a prize for the best essay on biodiversity. Climate change is a recognised threat to our future, but now more and more people are raising the alarm about the loss of biodiversity. Every ninth species in Finland is endangered. What can you do to help change this trend? Offer a practical solution and explain how you would convince others to follow your example.\n\n*Vastauksen pituus on enintään 1300 merkkiä. Ylityksestä seuraa pistevähennys.*",
+            "displayNumber": "16.2"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.732169",
+          "max_score": null,
+          "groupping": null,
+          "id": 6181805,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "d1430b50-d028-4b05-aedb-856a568df846",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:06.044457"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "There was a lot of chatter about “the comet,” which was, in fact, Comet PanSTARRS (C/2017 K2). Sonali Deshmukh, a prolific photographer as well as a passionate astronomer, planned on observing Comet PanSTARRS. Deshmukh drove up from Omaha for her fourth NSP, her car [SELECT id=193] with equipment.\n\n\n\nBefore sunrise washed the night away, the thinnest sliver of the crescent Moon, just one day shy of new, [SELECT id=194] in tandem with Venus, with only a few degrees separating the pair. This sight delighted Deshmukh who concluded, “A wonderful way to end a night of observing.”\n\n\n\nWe all agreed.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "There was a lot of chatter about “the comet,” which was, in fact, Comet PanSTARRS (C/2017 K2). Sonali Deshmukh, a prolific photographer as well as a passionate astronomer, planned on observing Comet PanSTARRS. Deshmukh drove up from Omaha for her fourth NSP, her car [SELECT id=193] with equipment.\n\n\n\nBefore sunrise washed the night away, the thinnest sliver of the crescent Moon, just one day shy of new, [SELECT id=194] in tandem with Venus, with only a few degrees separating the pair. This sight delighted Deshmukh who concluded, “A wonderful way to end a night of observing.”\n\n\n\nWe all agreed."
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.742308",
+          "max_score": 2,
+          "groupping": null,
+          "id": 6181728,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 193,
+              "hint": "1 p.",
+              "parent": "f22453f2-d902-4ca1-9818-9ad29cd31a4d",
+              "choices": [
+                {
+                  "id": "6472fc40-5f7e-4cb5-bcc9-a0a5e73c6de8",
+                  "text": "brim"
+                },
+                {
+                  "id": "9754518f-04c2-49c3-81ce-303facf9dd39",
+                  "text": "to brim"
+                },
+                {
+                  "id": "336abe49-5e01-4818-832b-c7f1f70395c4",
+                  "text": "brimming",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 194,
+              "hint": "1 p.",
+              "parent": "f22453f2-d902-4ca1-9818-9ad29cd31a4d",
+              "choices": [
+                {
+                  "id": "c7f1d561-f106-417b-8a59-f331baf2c964",
+                  "text": "rose",
+                  "correct": true
+                },
+                {
+                  "id": "66716043-b8e0-4983-939f-5b711953eef1",
+                  "text": "rise"
+                },
+                {
+                  "id": "a43ed14e-1a48-4b43-bd12-e0b5d0ebc253",
+                  "text": "risen"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "f22453f2-d902-4ca1-9818-9ad29cd31a4d",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.834719"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Side Hustle Ideas 18 p.\n\nYou will hear personal finance expert Ken Okoroafor present three ideas for a side job. There are three separate recordings, and you can listen to each of them twice. Read the questions carefully and answer the questions **in Finnish**.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "### Side Hustle Ideas 18 p.\n\nYou will hear personal finance expert Ken Okoroafor present three ideas for a side job. There are three separate recordings, and you can listen to each of them twice. Read the questions carefully and answer the questions **in Finnish**.",
+            "questionType": "listening-comprehension",
+            "displayNumber": "4."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "7126301a-4591-46c9-b97a-259b3dfe3170",
+            "02d713c9-adc9-43cf-88f9-d01a8eea5c65",
+            "f9c4f24c-9012-410c-89e7-53b53c240e37",
+            "2ea50ee7-d20a-4e2f-8dab-455c264df3e9",
+            "19c9c59e-abb6-48f5-918e-4be73bd8bd32",
+            "be30cbbb-8e8b-4c71-ac6b-a9e4452e34d2"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-02-12T08:35:25.747282",
+          "max_score": null,
+          "groupping": null,
+          "id": 6181813,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "9fe77347-c312-44d4-b5e6-9024c5a6d7c0",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:06.062354"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### What does Dr Rick Peterson consider to be the most important feature of his university’s archaeology courses? 3 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "#### What does Dr Rick Peterson consider to be the most important feature of his university’s archaeology courses? 3 p.",
+            "displayNumber": "7.1"
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.750284",
+          "max_score": 3,
+          "groupping": null,
+          "id": 6181780,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 121,
+              "text": "The development of new research with other scholarly institutions",
+              "parent": "35b0643d-faea-40d6-a105-2200e14e1a9d",
+              "choices": []
+            },
+            {
+              "id": 122,
+              "text": "The provision of actual experience in handling historical remains",
+              "parent": "35b0643d-faea-40d6-a105-2200e14e1a9d",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 123,
+              "text": "The emphasis on the importance of knowing ancient history",
+              "parent": "35b0643d-faea-40d6-a105-2200e14e1a9d",
+              "choices": []
+            }
+          ],
+          "uuid": "35b0643d-faea-40d6-a105-2200e14e1a9d",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.974721"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "The Inuit traditionally hunted from small, sealskin boats, which were quick and maneuverable. You may recognize today’s version of this boat that is still called by the Inuit name, kayak.\n\n\n\nHunting has always been at the heart of the Inuit culture. Until about fifty years ago, these native people [SELECT id=165]. Today the economy has shifted and Greenland is not primarily a hunting society.\n\n\n\nMost Inuit have transitioned to traditional wage earning work to earn money for electricity and other modern comforts. [SELECT id=166]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "The Inuit traditionally hunted from small, sealskin boats, which were quick and maneuverable. You may recognize today’s version of this boat that is still called by the Inuit name, kayak.\n\n\n\nHunting has always been at the heart of the Inuit culture. Until about fifty years ago, these native people [SELECT id=165]. Today the economy has shifted and Greenland is not primarily a hunting society.\n\n\n\nMost Inuit have transitioned to traditional wage earning work to earn money for electricity and other modern comforts. [SELECT id=166]"
+          },
+          "images": null,
+          "settings": {
+            "points": "3"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.752671",
+          "max_score": 6,
+          "groupping": null,
+          "id": 6181754,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 165,
+              "hint": "3 p.",
+              "parent": "95d36f60-fb6f-4182-9384-c4dc2d99bbb5",
+              "choices": [
+                {
+                  "id": "d4825643-e7c8-4e60-b428-622883851dc4",
+                  "text": "managed to adapt to the changing climate"
+                },
+                {
+                  "id": "70177a4f-52e5-4860-a105-2841c92f9f6a",
+                  "text": "lived completely off the land and sea",
+                  "correct": true
+                },
+                {
+                  "id": "31bd3a88-fcee-44bf-96c6-72eeb1b4d86a",
+                  "text": "struggled to survive in the harsh environment"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 166,
+              "hint": "3 p.",
+              "parent": "95d36f60-fb6f-4182-9384-c4dc2d99bbb5",
+              "choices": [
+                {
+                  "id": "cd0250b4-2d0a-4d3f-88f2-ec39e2fdae78",
+                  "text": "Hence, tensions have arisen between the modern and traditional Inuits over their culture."
+                },
+                {
+                  "id": "d38ebd86-bf4b-4aae-a110-a3e5dddd17a3",
+                  "text": "Therefore, Inuit culture and everyday life have changed radically in the past decades."
+                },
+                {
+                  "id": "28c78d93-ea16-4cfa-a0e6-84ed804c2abd",
+                  "text": "However, the hunting culture and diet are still very much a part of their lives and their identity.",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "95d36f60-fb6f-4182-9384-c4dc2d99bbb5",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.905405"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### What is the problem with traditional wind farms? 3 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "#### What is the problem with traditional wind farms? 3 p.",
+            "displayNumber": "12.3"
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.755305",
+          "max_score": 3,
+          "groupping": null,
+          "id": 6181753,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 132,
+              "text": "They need to be far from housing",
+              "parent": "ed6498e3-f2d9-4e9a-9728-06de079e52cc",
+              "choices": []
+            },
+            {
+              "id": 133,
+              "text": "Water damages their engines",
+              "parent": "ed6498e3-f2d9-4e9a-9728-06de079e52cc",
+              "choices": []
+            },
+            {
+              "id": 134,
+              "text": "They are situated rather low",
+              "parent": "ed6498e3-f2d9-4e9a-9728-06de079e52cc",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "ed6498e3-f2d9-4e9a-9728-06de079e52cc",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.903049"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Listen, and choose the most polite response. 3 p.\n\nBartender: Hi, what can I get for you?\n\nCustomer:\n\n[LINK text=The bartender’s line for question 5.1.|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/5.1.mp3]\n\n\n\n[LINK text=Option A|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/5.1_A.mp3]\n\n[LINK text=Option B|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/5.1_B.mp3]\n\n[LINK text=Option C|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/5.1_C.mp3]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "#### Listen, and choose the most polite response. 3 p.\n\nBartender: Hi, what can I get for you?\n\nCustomer:\n\n[LINK text=The bartender’s line for question 5.1.|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/5.1.mp3]\n\n\n\n[LINK text=Option A|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/5.1_A.mp3]\n\n[LINK text=Option B|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/5.1_B.mp3]\n\n[LINK text=Option C|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/5.1_C.mp3]",
+            "displayNumber": "5.1"
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.757661",
+          "max_score": 3,
+          "groupping": null,
+          "id": 6181779,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 162,
+              "text": "Option A",
+              "parent": "43bcd95a-ad7b-4042-9d3a-75a11af7d3a6",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 163,
+              "text": "Option B",
+              "parent": "43bcd95a-ad7b-4042-9d3a-75a11af7d3a6",
+              "choices": []
+            },
+            {
+              "id": 164,
+              "text": "Option C",
+              "parent": "43bcd95a-ad7b-4042-9d3a-75a11af7d3a6",
+              "choices": []
+            }
+          ],
+          "uuid": "43bcd95a-ad7b-4042-9d3a-75a11af7d3a6",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.972382"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### How have humans increased the risks to the environment in Antarctica? 3 p.\n\n[LINK text= The passage related to questions 6.1 and 6.2.|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/6.1_6.2.mp3]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "#### How have humans increased the risks to the environment in Antarctica? 3 p.\n\n[LINK text= The passage related to questions 6.1 and 6.2.|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/6.1_6.2.mp3]",
+            "displayNumber": "6.1"
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.760252",
+          "max_score": 3,
+          "groupping": null,
+          "id": 6181786,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 116,
+              "text": "They have travelled there in ever increasing numbers",
+              "parent": "df374cad-d587-4b39-a649-3e83b91439d0",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 117,
+              "text": "They have carried out very disruptive experiments",
+              "parent": "df374cad-d587-4b39-a649-3e83b91439d0",
+              "choices": []
+            },
+            {
+              "id": 118,
+              "text": "They have spread throughout the whole continent",
+              "parent": "df374cad-d587-4b39-a649-3e83b91439d0",
+              "choices": []
+            }
+          ],
+          "uuid": "df374cad-d587-4b39-a649-3e83b91439d0",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.990442"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### What are heritage seeds? 3 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "#### What are heritage seeds? 3 p.",
+            "displayNumber": "2.1"
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.762745",
+          "max_score": 3,
+          "groupping": null,
+          "id": 6181796,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 138,
+              "text": "Seeds our forefathers had hidden to be used in the future",
+              "parent": "96c8d9b4-5f30-4f95-848b-a2007ecb8828",
+              "choices": []
+            },
+            {
+              "id": 139,
+              "text": "Ancient seeds of fruit and vegetable types gone extinct",
+              "parent": "96c8d9b4-5f30-4f95-848b-a2007ecb8828",
+              "choices": []
+            },
+            {
+              "id": 140,
+              "text": "Carefully selected seeds of fruit and vegetable varieties",
+              "parent": "96c8d9b4-5f30-4f95-848b-a2007ecb8828",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "96c8d9b4-5f30-4f95-848b-a2007ecb8828",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:06.015615"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### What was the difference between the two research settings? 3 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "#### What was the difference between the two research settings? 3 p.",
+            "displayNumber": "9.3"
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.765333",
+          "max_score": 3,
+          "groupping": null,
+          "id": 6181761,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 127,
+              "text": "The virtual world was more detailed in the second experiment",
+              "parent": "10e02f7a-5d57-4835-87bd-36895f7f5e05",
+              "choices": []
+            },
+            {
+              "id": 128,
+              "text": "The exercise intensity was harder in the second experiment",
+              "parent": "10e02f7a-5d57-4835-87bd-36895f7f5e05",
+              "choices": []
+            },
+            {
+              "id": 129,
+              "text": "The level of involvement was higher in the second experiment",
+              "parent": "10e02f7a-5d57-4835-87bd-36895f7f5e05",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "10e02f7a-5d57-4835-87bd-36895f7f5e05",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.92875"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Studying Archaeology (video) 12 p.\n\nThis is an advert promoting archaeology at the University of Central Lancashire in England with input from Dr Rick Peterson and student Lucy Fox. You can view the video as many times as you wish. Read the questions carefully and choose the best alternative.\n\n#### Material\n\n7.A [LINK text=Video: Studying Archaeology|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/index.html#7.A]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "### Studying Archaeology (video) 12 p.\n\nThis is an advert promoting archaeology at the University of Central Lancashire in England with input from Dr Rick Peterson and student Lucy Fox. You can view the video as many times as you wish. Read the questions carefully and choose the best alternative.\n\n#### Material\n\n7.A [LINK text=Video: Studying Archaeology|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/index.html#7.A]",
+            "questionType": "listening-comprehension",
+            "displayNumber": "7."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "35b0643d-faea-40d6-a105-2200e14e1a9d",
+            "173f1d03-0b35-406c-988c-c05711e55f0e",
+            "e2c03f86-47b1-4bb0-b003-e2886843af0d",
+            "b57585a2-a33f-487e-ad9b-5b74d37d091c"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-02-12T08:35:25.767393",
+          "max_score": null,
+          "groupping": null,
+          "id": 6181767,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "2ff9ecac-2ed2-4595-9922-7f3ae1a822f9",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.942051"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Antarctic Invaders 12 p.\n\nThis is a recording that discusses the problem of invasive species in Antarctica. The recording is in two sections. You can listen to it once all the way through and then listen once again to each section separately. Read the questions carefully and choose the best alternative.\n\n\n\n[LINK url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/6.mp3|text=The whole recording]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "### Antarctic Invaders 12 p.\n\nThis is a recording that discusses the problem of invasive species in Antarctica. The recording is in two sections. You can listen to it once all the way through and then listen once again to each section separately. Read the questions carefully and choose the best alternative.\n\n\n\n[LINK url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/6.mp3|text=The whole recording]",
+            "questionType": "listening-comprehension",
+            "displayNumber": "6."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "df374cad-d587-4b39-a649-3e83b91439d0",
+            "93e01eb1-b64a-48f5-ab28-cd6bb09dc0d4",
+            "d6632d97-4244-4c50-80c1-849628240822",
+            "dd0212ae-47c7-4c4a-bc2d-53f8b7dc0c29"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-02-12T08:35:25.769677",
+          "max_score": null,
+          "groupping": null,
+          "id": 6181783,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "ac0d039c-0770-4469-bc50-217efdc99e83",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.982365"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Why have researchers started to study IVR’s effects? 3 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "#### Why have researchers started to study IVR’s effects? 3 p.",
+            "displayNumber": "9.1"
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.772249",
+          "max_score": 3,
+          "groupping": null,
+          "id": 6181763,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 127,
+              "text": "It is easy to set up a study environment",
+              "parent": "555f4387-a1d5-4c72-a734-0f98d2dffb72",
+              "choices": []
+            },
+            {
+              "id": 128,
+              "text": "It is used by numerous people",
+              "parent": "555f4387-a1d5-4c72-a734-0f98d2dffb72",
+              "choices": []
+            },
+            {
+              "id": 129,
+              "text": "It offers new opportunities",
+              "parent": "555f4387-a1d5-4c72-a734-0f98d2dffb72",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "555f4387-a1d5-4c72-a734-0f98d2dffb72",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.933129"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### How did the researchers observe the effects of the second trial? 3 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "#### How did the researchers observe the effects of the second trial? 3 p.",
+            "displayNumber": "9.4"
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.774904",
+          "max_score": 3,
+          "groupping": null,
+          "id": 6181762,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 127,
+              "text": "They took samples from the participants’ mouths",
+              "parent": "280fe708-7920-4573-b82a-d50a33f89d14",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 128,
+              "text": "They examined the results of participants’ blood tests",
+              "parent": "280fe708-7920-4573-b82a-d50a33f89d14",
+              "choices": []
+            },
+            {
+              "id": 129,
+              "text": "They analysed participants’ sweat and urine",
+              "parent": "280fe708-7920-4573-b82a-d50a33f89d14",
+              "choices": []
+            }
+          ],
+          "uuid": "280fe708-7920-4573-b82a-d50a33f89d14",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.930952"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Cover letter 11 p.\n\nReplace the underlined expressions with **more formal ones**. Make sure the replacement fits the sentence structure.\n\n#### Material\n\n14.A [LINK text=Text: Cover letter|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/index.html#14.A]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "### Cover letter 11 p.\n\nReplace the underlined expressions with **more formal ones**. Make sure the replacement fits the sentence structure.\n\n#### Material\n\n14.A [LINK text=Text: Cover letter|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/index.html#14.A]",
+            "questionType": "grammar",
+            "displayNumber": "14."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "c5af0425-d0d2-4222-9f44-4a60285840fe",
+            "7ec0822e-1906-4c5a-91a3-c026d72b033a",
+            "e70eb346-f931-4b3a-ac37-c21495c51f49",
+            "2700c63e-dbbd-405f-82c1-f027f79fbb45",
+            "d70842cc-a66b-4ae0-be99-4a7804f50eeb",
+            "296dd9ad-9ba8-4557-b4a6-6bfd1f0bf0cb"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-02-12T08:35:25.776984",
+          "max_score": null,
+          "groupping": null,
+          "id": 6181736,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "9f0a5435-bf13-423e-82bb-8b7ff16d10f9",
+          "order_number": 17,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.854556"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### What happened in the first experiment? 3 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "#### What happened in the first experiment? 3 p.",
+            "displayNumber": "9.2"
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.779902",
+          "max_score": 3,
+          "groupping": null,
+          "id": 6181764,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 127,
+              "text": "Participants’ brain functions improved",
+              "parent": "03c91fd6-240f-418d-a1fc-a4cfa825ffd4",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 128,
+              "text": "Participants recovered rather quickly",
+              "parent": "03c91fd6-240f-418d-a1fc-a4cfa825ffd4",
+              "choices": []
+            },
+            {
+              "id": 129,
+              "text": "Participants’ physical condition got better",
+              "parent": "03c91fd6-240f-418d-a1fc-a4cfa825ffd4",
+              "choices": []
+            }
+          ],
+          "uuid": "03c91fd6-240f-418d-a1fc-a4cfa825ffd4",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.935282"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Plain English 99 p.\n\nThe Plain English Campaign has said that many texts, like the terms of use for Internet services like Instagram, are too hard for people who are not lawyers to understand. Where else would Plain English be needed? Write a speech for the participants of the International Youth Forum outlining some other areas where Plain English should be used. Don’t forget to give reasons.\n\n*Vastauksen pituus on enintään 1300 merkkiä. Ylityksestä seuraa pistevähennys.*",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "#### Plain English 99 p.\n\nThe Plain English Campaign has said that many texts, like the terms of use for Internet services like Instagram, are too hard for people who are not lawyers to understand. Where else would Plain English be needed? Write a speech for the participants of the International Youth Forum outlining some other areas where Plain English should be used. Don’t forget to give reasons.\n\n*Vastauksen pituus on enintään 1300 merkkiä. Ylityksestä seuraa pistevähennys.*",
+            "displayNumber": "16.3"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.782621",
+          "max_score": null,
+          "groupping": null,
+          "id": 6181752,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "48f549f9-35bc-4783-823c-33be2050f2ba",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.899763"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Let’s talk about money 99 p.\n\nYouth magazine *Young and Successful* asks its readers: What is the best way for young people leaving school to manage their money? Should you be saving in a bank account or investing in the stock market, or is there some other way that you would suggest? Write your recommendations and give reasons for them.\n\n\n\n*Vastauksen pituus on enintään 1300 merkkiä. Ylityksestä seuraa pistevähennys.*",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "#### Let’s talk about money 99 p.\n\nYouth magazine *Young and Successful* asks its readers: What is the best way for young people leaving school to manage their money? Should you be saving in a bank account or investing in the stock market, or is there some other way that you would suggest? Write your recommendations and give reasons for them.\n\n\n\n*Vastauksen pituus on enintään 1300 merkkiä. Ylityksestä seuraa pistevähennys.*",
+            "displayNumber": "16.1"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.785208",
+          "max_score": null,
+          "groupping": null,
+          "id": 6181802,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "d0c8a616-7041-4ad7-86e3-f9964a23b8d3",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:06.037557"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "[GAP id=183],\n\nMiitu Meikäläinen",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "[GAP id=183],\n\nMiitu Meikäläinen"
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.7877",
+          "max_score": 1,
+          "groupping": null,
+          "id": 6181735,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 183,
+              "hint": "Best 1 p.",
+              "parent": "296dd9ad-9ba8-4557-b4a6-6bfd1f0bf0cb",
+              "choices": [],
+              "correct": "Sincerely|Kind regards|Sincerely yours|Yours sincerely|Yours faithfully|Regards|Yours truly|Yours|Best regards",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "296dd9ad-9ba8-4557-b4a6-6bfd1f0bf0cb",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.851797"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "I can be reached [GAP id=179] via email at m.meikalainen@email.fi, or by mobile phone +35840123789456.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "I can be reached [GAP id=179] via email at m.meikalainen@email.fi, or by mobile phone +35840123789456."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.790453",
+          "max_score": 2,
+          "groupping": null,
+          "id": 6181740,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 179,
+              "hint": "whenever you like 2 p.",
+              "parent": "2700c63e-dbbd-405f-82c1-f027f79fbb45",
+              "choices": [],
+              "correct": "at your convenience|anytime|at a convenient time|at any time",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "2700c63e-dbbd-405f-82c1-f027f79fbb45",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.863725"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Wind Energy 15 p.\n\nRead the text and answer the questions.\n\n#### Material\n\n12.A [LINK text=Text: After a Shaky Start, Airborne Wind Energy Is Slowly Taking Off|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/index.html#12.A]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "### Wind Energy 15 p.\n\nRead the text and answer the questions.\n\n#### Material\n\n12.A [LINK text=Text: After a Shaky Start, Airborne Wind Energy Is Slowly Taking Off|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/index.html#12.A]",
+            "questionType": "reading",
+            "displayNumber": "12."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "db3b8866-a3e9-48d1-a7ae-235094f1d1f0",
+            "0047858d-a25c-41fb-8184-ad47346d9466",
+            "ed6498e3-f2d9-4e9a-9728-06de079e52cc",
+            "8b1353a8-8b57-458f-a391-0cb0b3d660c1",
+            "c15b1657-e618-49f4-a47a-b113c6441da9"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-02-12T08:35:25.792466",
+          "max_score": null,
+          "groupping": null,
+          "id": 6181792,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "cfa6e2ba-4c4e-4736-a7c4-776e12824bab",
+          "order_number": 14,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:06.006269"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Miten teleoperaattorin pitää kertoa inflaatioon sidotuista hinnoista? Vastaa suomeksi. 3 p.\n\n*Vastauksen pituus on enintään 100 merkkiä. Ylityksestä seuraa pistevähennys.*",
+          "deleted_at": null,
+          "feedback": "Heidän tulee antaa **(selkeä)** hintaesimerkki **(inflaation)** vaikutuksista. (**3/0 p**.**)** ",
+          "exam_id": 179922,
+          "content": {
+            "text": "#### Miten teleoperaattorin pitää kertoa inflaatioon sidotuista hinnoista? Vastaa suomeksi. 3 p.\n\n*Vastauksen pituus on enintään 100 merkkiä. Ylityksestä seuraa pistevähennys.*",
+            "displayNumber": "11.4"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.799497",
+          "max_score": null,
+          "groupping": null,
+          "id": 6181810,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "8c8a80ec-a03e-4c29-b916-0fb09a55e4ff",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:06.055792"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Mihin teleoperaattorit velvoitetaan sopimuksen purkamisen varalta? Vastaa suomeksi. 3 p.\n\n*Vastauksen pituus on enintään 100 merkkiä. Ylityksestä seuraa pistevähennys.*",
+          "deleted_at": null,
+          "feedback": "Purkuehtojen määrittämiseen (3/0 p.**)** ",
+          "exam_id": 179922,
+          "content": {
+            "text": "#### Mihin teleoperaattorit velvoitetaan sopimuksen purkamisen varalta? Vastaa suomeksi. 3 p.\n\n*Vastauksen pituus on enintään 100 merkkiä. Ylityksestä seuraa pistevähennys.*",
+            "displayNumber": "11.3"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.802211",
+          "max_score": null,
+          "groupping": null,
+          "id": 6181809,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "9292cae5-96cc-40f5-89ba-14c30646253c",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:06.053602"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Miksi yllättävä hinnannousu voi juuri nyt olla vaarallista? Vastaa suomeksi. 3 p.\n\n*Vastauksen pituus on enintään 100 merkkiä. Ylityksestä seuraa pistevähennys.*",
+          "deleted_at": null,
+          "feedback": "Koska monen talous **on** tiukalla **(3/0 p.)** ",
+          "exam_id": 179922,
+          "content": {
+            "text": "#### Miksi yllättävä hinnannousu voi juuri nyt olla vaarallista? Vastaa suomeksi. 3 p.\n\n*Vastauksen pituus on enintään 100 merkkiä. Ylityksestä seuraa pistevähennys.*",
+            "displayNumber": "11.2"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.804951",
+          "max_score": null,
+          "groupping": null,
+          "id": 6181811,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "e3ca27fb-cb97-43ad-a540-a21914fa0dfa",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:06.058327"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### News Bulletin 12 p.\n\nRead the text and answer the questions **in Finnish**.\n\n#### Material\n\n11.A [LINK text=Text: News bulletin: New rules on short and simple contract details|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/index.html#11.A]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "### News Bulletin 12 p.\n\nRead the text and answer the questions **in Finnish**.\n\n#### Material\n\n11.A [LINK text=Text: News bulletin: New rules on short and simple contract details|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/index.html#11.A]",
+            "questionType": "reading",
+            "displayNumber": "11."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "7fd04d32-a358-43ad-aaf1-465848dfe0bd",
+            "e3ca27fb-cb97-43ad-a540-a21914fa0dfa",
+            "9292cae5-96cc-40f5-89ba-14c30646253c",
+            "8c8a80ec-a03e-4c29-b916-0fb09a55e4ff"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-02-12T08:35:25.806916",
+          "max_score": null,
+          "groupping": null,
+          "id": 6181812,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "7cf115ed-6680-47f9-b1d3-50b3b64b22bd",
+          "order_number": 13,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:06.060287"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Mitä teleoperaattoreiden pitää antaa asiakkailleen ennen sopimuksen allekirjoittamista? Vastaa suomeksi. 3 p.\n\n*Vastauksen pituus on enintään 100 merkkiä. Ylityksestä seuraa pistevähennys.*",
+          "deleted_at": null,
+          "feedback": "Yhteenveto sopimusehdoista (3/0 **p.)** ",
+          "exam_id": 179922,
+          "content": {
+            "text": "#### Mitä teleoperaattoreiden pitää antaa asiakkailleen ennen sopimuksen allekirjoittamista? Vastaa suomeksi. 3 p.\n\n*Vastauksen pituus on enintään 100 merkkiä. Ylityksestä seuraa pistevähennys.*",
+            "displayNumber": "11.1"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.809755",
+          "max_score": null,
+          "groupping": null,
+          "id": 6181808,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "7fd04d32-a358-43ad-aaf1-465848dfe0bd",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:06.051565"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Training virtually can reduce psychosocial stress and anxiety 15 p.\n\nRead the text and questions carefully and choose the best alternative.\n\n#### Material\n\n9.A [LINK text=Text: Training virtually can reduce psychosocial stress and anxiety|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/index.html#9.A]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "### Training virtually can reduce psychosocial stress and anxiety 15 p.\n\nRead the text and questions carefully and choose the best alternative.\n\n#### Material\n\n9.A [LINK text=Text: Training virtually can reduce psychosocial stress and anxiety|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/index.html#9.A]",
+            "questionType": "reading",
+            "displayNumber": "9."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "555f4387-a1d5-4c72-a734-0f98d2dffb72",
+            "03c91fd6-240f-418d-a1fc-a4cfa825ffd4",
+            "10e02f7a-5d57-4835-87bd-36895f7f5e05",
+            "280fe708-7920-4573-b82a-d50a33f89d14",
+            "2b2c22fe-a137-4f84-a9f5-6aae97a312e0"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-02-12T08:35:25.812003",
+          "max_score": null,
+          "groupping": null,
+          "id": 6181801,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "c3e09f6f-5c41-4427-850e-12603a275fb8",
+          "order_number": 11,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:06.035343"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Golden Square London 9 p.\n\nRead the following passage from a novel. Read the questions carefully and choose the best alternative.\n\n#### Material\n\n8.A [LINK text=Text: Golden Square London|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/index.html#8.A]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "### Golden Square London 9 p.\n\nRead the following passage from a novel. Read the questions carefully and choose the best alternative.\n\n#### Material\n\n8.A [LINK text=Text: Golden Square London|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/index.html#8.A]",
+            "questionType": "reading",
+            "displayNumber": "8."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "2a3e2488-e228-4828-b97b-acb11c2f4052",
+            "56804d94-77fd-444d-beea-aa59b592be4e",
+            "b44f45b8-f015-45c9-9373-42e0fff14955"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-02-12T08:35:25.814088",
+          "max_score": null,
+          "groupping": null,
+          "id": 6181806,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "ee37e90d-97dc-4581-ac75-803dc4cd1358",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:06.047105"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Which picture best describes the scenery? 3 p.\n\n[LINK text=Katso kuvat täältä|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/#question-nr-8.2]",
+          "deleted_at": null,
+          "feedback": "Viisikerroksisia taloja kaupungissa, etualalla aidattu puisto. \n\n\n",
+          "exam_id": 179922,
+          "content": {
+            "text": "#### Which picture best describes the scenery? 3 p.\n\n[LINK text=Katso kuvat täältä|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/#question-nr-8.2]",
+            "displayNumber": "8.2"
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.816734",
+          "max_score": 3,
+          "groupping": null,
+          "id": 6181770,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 124,
+              "text": "Kuva 1",
+              "parent": "56804d94-77fd-444d-beea-aa59b592be4e",
+              "choices": []
+            },
+            {
+              "id": 125,
+              "text": "Kuva 2",
+              "parent": "56804d94-77fd-444d-beea-aa59b592be4e",
+              "choices": []
+            },
+            {
+              "id": 126,
+              "text": "Kuva 3",
+              "parent": "56804d94-77fd-444d-beea-aa59b592be4e",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "56804d94-77fd-444d-beea-aa59b592be4e",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.949641"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### What has Kevin Hughes been trying to establish? 3 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "#### What has Kevin Hughes been trying to establish? 3 p.",
+            "displayNumber": "6.2"
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.819492",
+          "max_score": 3,
+          "groupping": null,
+          "id": 6181784,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 116,
+              "text": "Which lifeforms will most likely appear in Antarctica in the near future",
+              "parent": "93e01eb1-b64a-48f5-ab28-cd6bb09dc0d4",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 117,
+              "text": "Which species have been dwelling in Antarctica for the longest time",
+              "parent": "93e01eb1-b64a-48f5-ab28-cd6bb09dc0d4",
+              "choices": []
+            },
+            {
+              "id": 118,
+              "text": "Which creatures are becoming increasingly uncommon in Antarctica",
+              "parent": "93e01eb1-b64a-48f5-ab28-cd6bb09dc0d4",
+              "choices": []
+            }
+          ],
+          "uuid": "93e01eb1-b64a-48f5-ab28-cd6bb09dc0d4",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.985076"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Why are the existing Antarctic creatures at such risk from crabs? 3 p.\n\n[LINK text=The passage related to questions 6.3 and 6.4.|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/6.3_6.4.mp3]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "#### Why are the existing Antarctic creatures at such risk from crabs? 3 p.\n\n[LINK text=The passage related to questions 6.3 and 6.4.|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/6.3_6.4.mp3]",
+            "displayNumber": "6.3"
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.822289",
+          "max_score": 3,
+          "groupping": null,
+          "id": 6181766,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 116,
+              "text": "The existing creatures will not have enough food as crabs eat a lot",
+              "parent": "d6632d97-4244-4c50-80c1-849628240822",
+              "choices": []
+            },
+            {
+              "id": 117,
+              "text": "The existing creatures can not resist diseases introduced by crabs",
+              "parent": "d6632d97-4244-4c50-80c1-849628240822",
+              "choices": []
+            },
+            {
+              "id": 118,
+              "text": "The existing creatures have not adapted to living alongside crabs",
+              "parent": "d6632d97-4244-4c50-80c1-849628240822",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "d6632d97-4244-4c50-80c1-849628240822",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.939955"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### What does Kraken Robotics’ technology help with? 3 p.\n\n[LINK text=The passage related to questions 3.3 and 3.4.|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/3.3_3.4.mp3]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "#### What does Kraken Robotics’ technology help with? 3 p.\n\n[LINK text=The passage related to questions 3.3 and 3.4.|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/3.3_3.4.mp3]",
+            "displayNumber": "3.3"
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.82508",
+          "max_score": 3,
+          "groupping": null,
+          "id": 6181790,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 156,
+              "text": "Removing debris from deep sea areas",
+              "parent": "a70b39fd-f452-4638-9a6c-1927bbf84a0c",
+              "choices": []
+            },
+            {
+              "id": 157,
+              "text": "Gathering versatile data from the seabed",
+              "parent": "a70b39fd-f452-4638-9a6c-1927bbf84a0c",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 158,
+              "text": "Building new kinds of underwater vehicles",
+              "parent": "a70b39fd-f452-4638-9a6c-1927bbf84a0c",
+              "choices": []
+            }
+          ],
+          "uuid": "a70b39fd-f452-4638-9a6c-1927bbf84a0c",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:06.000517"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Clean Technology 12 p.\n\nIn this podcast, Kieran Hanley, executive director of the Newfoundland and Labrador Environmental Industry Association, discusses clean technology. The recording is divided into two sections. You can listen once all the way through, and then listen again to both sections separately. Read the questions carefully and choose the best alternative.\n\n\n\n[LINK url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/3.mp3|text=The whole recording]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "### Clean Technology 12 p.\n\nIn this podcast, Kieran Hanley, executive director of the Newfoundland and Labrador Environmental Industry Association, discusses clean technology. The recording is divided into two sections. You can listen once all the way through, and then listen again to both sections separately. Read the questions carefully and choose the best alternative.\n\n\n\n[LINK url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/3.mp3|text=The whole recording]",
+            "questionType": "listening-comprehension",
+            "displayNumber": "3."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "5fed6455-d46a-420e-8626-1aa55720621e",
+            "63bd8af9-db4b-4ac7-adf6-c9eb6d293011",
+            "a70b39fd-f452-4638-9a6c-1927bbf84a0c",
+            "b9e93d01-449a-46fb-a16f-e30e6c3883ee"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-02-12T08:35:25.827062",
+          "max_score": null,
+          "groupping": null,
+          "id": 6181773,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "c4f6d941-18b0-4aec-a7ef-b052b00d300b",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.956921"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### What is a popular misunderstanding about clean technology? 3 p.\n\n[LINK text=The passage related to questions 3.1 and 3.2.|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/3.1_3.2.mp3]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "#### What is a popular misunderstanding about clean technology? 3 p.\n\n[LINK text=The passage related to questions 3.1 and 3.2.|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/3.1_3.2.mp3]",
+            "displayNumber": "3.1"
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.829643",
+          "max_score": 3,
+          "groupping": null,
+          "id": 6181787,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 153,
+              "text": "That it outperforms the traditional tech",
+              "parent": "5fed6455-d46a-420e-8626-1aa55720621e",
+              "choices": []
+            },
+            {
+              "id": 154,
+              "text": "That it is synonymous with green power",
+              "parent": "5fed6455-d46a-420e-8626-1aa55720621e",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 155,
+              "text": "That it is powered by renewable fuels",
+              "parent": "5fed6455-d46a-420e-8626-1aa55720621e",
+              "choices": []
+            }
+          ],
+          "uuid": "5fed6455-d46a-420e-8626-1aa55720621e",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.992717"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### What is the main area of employment for people working in archaeology? 3 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "#### What is the main area of employment for people working in archaeology? 3 p.",
+            "displayNumber": "7.3"
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.835118",
+          "max_score": 3,
+          "groupping": null,
+          "id": 6181776,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 121,
+              "text": "Consulting with companies in developing new building projects",
+              "parent": "e2c03f86-47b1-4bb0-b003-e2886843af0d",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 122,
+              "text": "Conducting university research together with archaeology firms",
+              "parent": "e2c03f86-47b1-4bb0-b003-e2886843af0d",
+              "choices": []
+            },
+            {
+              "id": 123,
+              "text": "Working with environmental agencies to make construction safe",
+              "parent": "e2c03f86-47b1-4bb0-b003-e2886843af0d",
+              "choices": []
+            }
+          ],
+          "uuid": "e2c03f86-47b1-4bb0-b003-e2886843af0d",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.965201"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Look up over the white sand beaches of Mauritius and you may see a gigantic sail, much like the kind used by paragliders or kite surfers but the size of a three-bedroom apartment, **looping** figure-eights overhead. 1 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "Look up over the white sand beaches of Mauritius and you may see a gigantic sail, much like the kind used by paragliders or kite surfers but the size of a three-bedroom apartment, **looping** figure-eights overhead. 1 p.",
+            "displayNumber": "13.2"
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.840373",
+          "max_score": 1,
+          "groupping": null,
+          "id": 6181746,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 135,
+              "text": "circuiting",
+              "parent": "a58a5fff-ddac-40bb-9b9c-7fcdeafe449e",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 136,
+              "text": "shifting",
+              "parent": "a58a5fff-ddac-40bb-9b9c-7fcdeafe449e",
+              "choices": []
+            },
+            {
+              "id": 137,
+              "text": "dropping",
+              "parent": "a58a5fff-ddac-40bb-9b9c-7fcdeafe449e",
+              "choices": []
+            }
+          ],
+          "uuid": "a58a5fff-ddac-40bb-9b9c-7fcdeafe449e",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.883414"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Mitä muuta palvelua Ken Okoroaforin sisko tarjoaa asiakkailleen? Vastaa suomeksi. 3 p.\n\n*Vastauksen pituus on enintään 100 merkkiä. Ylityksestä seuraa pistevähennys.*",
+          "deleted_at": null,
+          "feedback": "Baarin järjestämistä (juhliin) **/** Alkoholin myyntiä (3/0 **p.)** ",
+          "exam_id": 179922,
+          "content": {
+            "text": "#### Mitä muuta palvelua Ken Okoroaforin sisko tarjoaa asiakkailleen? Vastaa suomeksi. 3 p.\n\n*Vastauksen pituus on enintään 100 merkkiä. Ylityksestä seuraa pistevähennys.*",
+            "displayNumber": "4.6"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.846085",
+          "max_score": null,
+          "groupping": null,
+          "id": 6181768,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "be30cbbb-8e8b-4c71-ac6b-a9e4452e34d2",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.945087"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### What is one of the benefits of airborne wind energy systems? 3 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "#### What is one of the benefits of airborne wind energy systems? 3 p.",
+            "displayNumber": "12.4"
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.852246",
+          "max_score": 3,
+          "groupping": null,
+          "id": 6181751,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 132,
+              "text": "They are durable",
+              "parent": "8b1353a8-8b57-458f-a391-0cb0b3d660c1",
+              "choices": []
+            },
+            {
+              "id": 133,
+              "text": "They store energy",
+              "parent": "8b1353a8-8b57-458f-a391-0cb0b3d660c1",
+              "choices": []
+            },
+            {
+              "id": 134,
+              "text": "They need little space",
+              "parent": "8b1353a8-8b57-458f-a391-0cb0b3d660c1",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "8b1353a8-8b57-458f-a391-0cb0b3d660c1",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.897482"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### What has been the biggest obstacle in developing airborne wind energy? 3 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "#### What has been the biggest obstacle in developing airborne wind energy? 3 p.",
+            "displayNumber": "12.5"
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.854746",
+          "max_score": 3,
+          "groupping": null,
+          "id": 6181750,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 132,
+              "text": "Producers lacking technical skills",
+              "parent": "c15b1657-e618-49f4-a47a-b113c6441da9",
+              "choices": []
+            },
+            {
+              "id": 133,
+              "text": "Developing reliable machinery",
+              "parent": "c15b1657-e618-49f4-a47a-b113c6441da9",
+              "choices": []
+            },
+            {
+              "id": 134,
+              "text": "Making production cost-effective",
+              "parent": "c15b1657-e618-49f4-a47a-b113c6441da9",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "c15b1657-e618-49f4-a47a-b113c6441da9",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.895119"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Mihin Ken Okoroaforin sisar käyttää 650 puntaa kuukaudessa? Vastaa suomeksi. 3 p.\n\n*Vastauksen pituus on enintään 100 merkkiä. Ylityksestä seuraa pistevähennys.*\n\n[LINK text=The recording related to questions 4.5 and 4.6.|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/4.5_4.6.mp3]",
+          "deleted_at": null,
+          "feedback": "Hallin/**Juhlatilan (**edelleen)vuokraukseen (**3/0** p.) ",
+          "exam_id": 179922,
+          "content": {
+            "text": "#### Mihin Ken Okoroaforin sisar käyttää 650 puntaa kuukaudessa? Vastaa suomeksi. 3 p.\n\n*Vastauksen pituus on enintään 100 merkkiä. Ylityksestä seuraa pistevähennys.*\n\n[LINK text=The recording related to questions 4.5 and 4.6.|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/4.5_4.6.mp3]",
+            "displayNumber": "4.5"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.857189",
+          "max_score": null,
+          "groupping": null,
+          "id": 6181749,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "19c9c59e-abb6-48f5-918e-4be73bd8bd32",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.890819"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Mikä on syytä huomioida, kun on perustamassa urheiluyritystä? Vastaa suomeksi. 3 p.\n\n*Vastauksen pituus on enintään 100 merkkiä. Ylityksestä seuraa pistevähennys.*",
+          "deleted_at": null,
+          "feedback": "Terveydestä/Turvallisuudesta huolehtiminen / Vastuu terveydestä/turvallisuudesta (3/0 **p.)** ",
+          "exam_id": 179922,
+          "content": {
+            "text": "#### Mikä on syytä huomioida, kun on perustamassa urheiluyritystä? Vastaa suomeksi. 3 p.\n\n*Vastauksen pituus on enintään 100 merkkiä. Ylityksestä seuraa pistevähennys.*",
+            "displayNumber": "4.4"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.863824",
+          "max_score": null,
+          "groupping": null,
+          "id": 6181789,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "2ea50ee7-d20a-4e2f-8dab-455c264df3e9",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.99757"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Miksi Little Kickersin liikeidea ei vaadi suurta alkupääomaa? Vastaa suomeksi. 3 p.\n\n*Vastauksen pituus on enintään 100 merkkiä. Ylityksestä seuraa pistevähennys.*\n\n\n\n[LINK text=The recording related to questions 4.3 and 4.4.|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/4.3_4.4.mp3]",
+          "deleted_at": null,
+          "feedback": "Siinä hyödynnetään olemassa olevia tiloja/välineitä. (3/0 p.) ",
+          "exam_id": 179922,
+          "content": {
+            "text": "#### Miksi Little Kickersin liikeidea ei vaadi suurta alkupääomaa? Vastaa suomeksi. 3 p.\n\n*Vastauksen pituus on enintään 100 merkkiä. Ylityksestä seuraa pistevähennys.*\n\n\n\n[LINK text=The recording related to questions 4.3 and 4.4.|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/4.3_4.4.mp3]",
+            "displayNumber": "4.3"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.866625",
+          "max_score": null,
+          "groupping": null,
+          "id": 6181807,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "f9c4f24c-9012-410c-89e7-53b53c240e37",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:06.049444"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### According to research, what can wealth lead to? 3 p.\n\n[LINK text=The passage related to questions 1.1 and 1.2.|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/1.1_1.2.mp3]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "#### According to research, what can wealth lead to? 3 p.\n\n[LINK text=The passage related to questions 1.1 and 1.2.|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/1.1_1.2.mp3]",
+            "displayNumber": "1.1"
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.86904",
+          "max_score": 3,
+          "groupping": null,
+          "id": 6181803,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 141,
+              "text": "General indifference towards other people",
+              "parent": "bfbc0cc3-de7b-4230-9b80-097b1e2695db",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 142,
+              "text": "Reduced capabilities to express one’s feelings",
+              "parent": "bfbc0cc3-de7b-4230-9b80-097b1e2695db",
+              "choices": []
+            },
+            {
+              "id": 143,
+              "text": "Difficulties in interpreting others’ intentions",
+              "parent": "bfbc0cc3-de7b-4230-9b80-097b1e2695db",
+              "choices": []
+            }
+          ],
+          "uuid": "bfbc0cc3-de7b-4230-9b80-097b1e2695db",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:06.039978"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### How does wealth affect the happiness of people who earn more than $70,000 annually in the US? 3 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "#### How does wealth affect the happiness of people who earn more than $70,000 annually in the US? 3 p.",
+            "displayNumber": "1.4"
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.871701",
+          "max_score": 3,
+          "groupping": null,
+          "id": 6181800,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 150,
+              "text": "It is irrelevant to their happiness",
+              "parent": "52e5ddc1-a838-4397-9ae5-a3d3914ac9f6",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 151,
+              "text": "It increases their happiness",
+              "parent": "52e5ddc1-a838-4397-9ae5-a3d3914ac9f6",
+              "choices": []
+            },
+            {
+              "id": 152,
+              "text": "It decreases their happiness",
+              "parent": "52e5ddc1-a838-4397-9ae5-a3d3914ac9f6",
+              "choices": []
+            }
+          ],
+          "uuid": "52e5ddc1-a838-4397-9ae5-a3d3914ac9f6",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:06.033041"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### What is ironic about wealth? 3 p.\n\n[LINK text=The passage related to questions 1.3 and 1.4.|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/1.3_1.4.mp3]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "#### What is ironic about wealth? 3 p.\n\n[LINK text=The passage related to questions 1.3 and 1.4.|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/1.3_1.4.mp3]",
+            "displayNumber": "1.3"
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.874177",
+          "max_score": 3,
+          "groupping": null,
+          "id": 6181799,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 147,
+              "text": "It leads to a never-ending race with no real winners",
+              "parent": "a3768930-3d32-49fc-96d6-4400630b5bf9",
+              "choices": []
+            },
+            {
+              "id": 148,
+              "text": "People use it to buy something considered harmful",
+              "parent": "a3768930-3d32-49fc-96d6-4400630b5bf9",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 149,
+              "text": "What people obtain with it is available for free as well",
+              "parent": "a3768930-3d32-49fc-96d6-4400630b5bf9",
+              "choices": []
+            }
+          ],
+          "uuid": "a3768930-3d32-49fc-96d6-4400630b5bf9",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:06.02964"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Coffee All Day 12 p.\n\nThe following is a conversation between a bartender and a customer in a bar. The recording is in four sections. You will be able to read and hear the bartender and will only hear the customer. For each question, decide which of the customer’s responses is the **most polite**. You can listen to each option as many times as you like.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "### Coffee All Day 12 p.\n\nThe following is a conversation between a bartender and a customer in a bar. The recording is in four sections. You will be able to read and hear the bartender and will only hear the customer. For each question, decide which of the customer’s responses is the **most polite**. You can listen to each option as many times as you like.",
+            "questionType": "listening-comprehension",
+            "displayNumber": "5."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "43bcd95a-ad7b-4042-9d3a-75a11af7d3a6",
+            "804eaeae-8a12-46e7-94e7-c5b46d28ea48",
+            "b945d3bf-45d2-470a-b984-5bde9b98ed95",
+            "d7d0397e-dd61-41ff-94ad-a31befab2a70"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-02-12T08:35:25.877159",
+          "max_score": null,
+          "groupping": null,
+          "id": 6181781,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "9db59fa1-b1e5-40b8-9873-54207ef079a7",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.977009"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### The Psychology behind Being Rich 12 p.\n\nYou will hear a podcast where Chris Ryan talks about the effects of being rich. The recording is divided into two sections. You can listen once all the way through, and then listen again to both sections separately. Read the questions carefully and choose the best alternative.\n\n\n\n[LINK text=The whole recording|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/1.mp3]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "### The Psychology behind Being Rich 12 p.\n\nYou will hear a podcast where Chris Ryan talks about the effects of being rich. The recording is divided into two sections. You can listen once all the way through, and then listen again to both sections separately. Read the questions carefully and choose the best alternative.\n\n\n\n[LINK text=The whole recording|url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/1.mp3]",
+            "questionType": "listening-comprehension",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "bfbc0cc3-de7b-4230-9b80-097b1e2695db",
+            "21579ce5-1463-4d74-948d-825afe3ddb0c",
+            "a3768930-3d32-49fc-96d6-4400630b5bf9",
+            "52e5ddc1-a838-4397-9ae5-a3d3914ac9f6"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-02-12T08:35:25.879662",
+          "max_score": null,
+          "groupping": null,
+          "id": 6181756,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "b5878b82-be2d-4529-8c86-30b03dd2ab3f",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.910118"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### What is expected to happen by 2050? 3 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "#### What is expected to happen by 2050? 3 p.",
+            "displayNumber": "12.2"
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.882215",
+          "max_score": 3,
+          "groupping": null,
+          "id": 6181755,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 132,
+              "text": "Carbon dioxide emissions will be down to zero",
+              "parent": "0047858d-a25c-41fb-8184-ad47346d9466",
+              "choices": []
+            },
+            {
+              "id": 133,
+              "text": "Green sources will provide over 2/3 of energy",
+              "parent": "0047858d-a25c-41fb-8184-ad47346d9466",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 134,
+              "text": "Wind energy will be the main source of power",
+              "parent": "0047858d-a25c-41fb-8184-ad47346d9466",
+              "choices": []
+            }
+          ],
+          "uuid": "0047858d-a25c-41fb-8184-ad47346d9466",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.907929"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Why did the dawn of agriculture cause wealth differentials? 3 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "#### Why did the dawn of agriculture cause wealth differentials? 3 p.",
+            "displayNumber": "1.2"
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.884689",
+          "max_score": 3,
+          "groupping": null,
+          "id": 6181798,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 144,
+              "text": "There was suddenly a surplus of goods",
+              "parent": "21579ce5-1463-4d74-948d-825afe3ddb0c",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 145,
+              "text": "The crop was better in some locations",
+              "parent": "21579ce5-1463-4d74-948d-825afe3ddb0c",
+              "choices": []
+            },
+            {
+              "id": 146,
+              "text": "The new social structure created a divide",
+              "parent": "21579ce5-1463-4d74-948d-825afe3ddb0c",
+              "choices": []
+            }
+          ],
+          "uuid": "21579ce5-1463-4d74-948d-825afe3ddb0c",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:06.026082"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### What happened 30 years ago? 3 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "#### What happened 30 years ago? 3 p.",
+            "displayNumber": "2.2"
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.887168",
+          "max_score": 3,
+          "groupping": null,
+          "id": 6181795,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 138,
+              "text": "The last traditional gardeners modernised their methods",
+              "parent": "95b019b3-33cb-489c-b748-9918ed60feb8",
+              "choices": []
+            },
+            {
+              "id": 139,
+              "text": "Peta Mathias’ family became involved in agriculture",
+              "parent": "95b019b3-33cb-489c-b748-9918ed60feb8",
+              "choices": []
+            },
+            {
+              "id": 140,
+              "text": "Kay Baxter started gathering heritage seeds to rescue them",
+              "parent": "95b019b3-33cb-489c-b748-9918ed60feb8",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "95b019b3-33cb-489c-b748-9918ed60feb8",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:06.013766"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### How do heritage seeds differ from normal seeds, according to research? 3 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "#### How do heritage seeds differ from normal seeds, according to research? 3 p.",
+            "displayNumber": "2.3"
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.88965",
+          "max_score": 3,
+          "groupping": null,
+          "id": 6181794,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 138,
+              "text": "They can be sown any time",
+              "parent": "bf9ef733-3bd4-409f-902e-e3181c19ebaf",
+              "choices": []
+            },
+            {
+              "id": 139,
+              "text": "They are more wholesome",
+              "parent": "bf9ef733-3bd4-409f-902e-e3181c19ebaf",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 140,
+              "text": "They appear to be more fresh",
+              "parent": "bf9ef733-3bd4-409f-902e-e3181c19ebaf",
+              "choices": []
+            }
+          ],
+          "uuid": "bf9ef733-3bd4-409f-902e-e3181c19ebaf",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:06.010683"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### What does DuXion Motors’ technology do? 3 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "#### What does DuXion Motors’ technology do? 3 p.",
+            "displayNumber": "3.4"
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.892088",
+          "max_score": 3,
+          "groupping": null,
+          "id": 6181793,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 159,
+              "text": "It lets ships utilise multiple sources of power",
+              "parent": "b9e93d01-449a-46fb-a16f-e30e6c3883ee",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 160,
+              "text": "It enables ships to produce their own electricity",
+              "parent": "b9e93d01-449a-46fb-a16f-e30e6c3883ee",
+              "choices": []
+            },
+            {
+              "id": 161,
+              "text": "It makes the diesel used by ships eco-friendly",
+              "parent": "b9e93d01-449a-46fb-a16f-e30e6c3883ee",
+              "choices": []
+            }
+          ],
+          "uuid": "b9e93d01-449a-46fb-a16f-e30e6c3883ee",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:06.008613"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### How does studying archaeology prepare students for work in other unrelated areas? 3 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "#### How does studying archaeology prepare students for work in other unrelated areas? 3 p.",
+            "displayNumber": "7.4"
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.894557",
+          "max_score": 3,
+          "groupping": null,
+          "id": 6181775,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 121,
+              "text": "It develops skills in critical thinking and communication",
+              "parent": "b57585a2-a33f-487e-ad9b-5b74d37d091c",
+              "choices": []
+            },
+            {
+              "id": 122,
+              "text": "It fosters skills in innovation and thinking outside the box",
+              "parent": "b57585a2-a33f-487e-ad9b-5b74d37d091c",
+              "choices": []
+            },
+            {
+              "id": 123,
+              "text": "It builds skills in working with others and problem solving",
+              "parent": "b57585a2-a33f-487e-ad9b-5b74d37d091c",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "b57585a2-a33f-487e-ad9b-5b74d37d091c",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.962801"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "They can also be **tethered** to an anchored barge in deep waters, where a traditional wind turbine cannot stand firm. 1 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "They can also be **tethered** to an anchored barge in deep waters, where a traditional wind turbine cannot stand firm. 1 p.",
+            "displayNumber": "13.7"
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.89698",
+          "max_score": 1,
+          "groupping": null,
+          "id": 6181744,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 135,
+              "text": "reclined",
+              "parent": "188bedcb-2bab-47b5-bc4c-be222a9c56c9",
+              "choices": []
+            },
+            {
+              "id": 136,
+              "text": "released",
+              "parent": "188bedcb-2bab-47b5-bc4c-be222a9c56c9",
+              "choices": []
+            },
+            {
+              "id": 137,
+              "text": "attached",
+              "parent": "188bedcb-2bab-47b5-bc4c-be222a9c56c9",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "188bedcb-2bab-47b5-bc4c-be222a9c56c9",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.877446"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Mihin ystävä on sijoittanut osan ansioistaan? Vastaa suomeksi. 3 p.\n\n*Vastauksen pituus on enintään 100 merkkiä. Ylityksestä seuraa pistevähennys.*",
+          "deleted_at": null,
+          "feedback": "Toiminnan laajentamiseen **/** Pomppulinnoihin **(**3/0 p.) ",
+          "exam_id": 179922,
+          "content": {
+            "text": "#### Mihin ystävä on sijoittanut osan ansioistaan? Vastaa suomeksi. 3 p.\n\n*Vastauksen pituus on enintään 100 merkkiä. Ylityksestä seuraa pistevähennys.*",
+            "displayNumber": "4.2"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.899418",
+          "max_score": null,
+          "groupping": null,
+          "id": 6181733,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "02d713c9-adc9-43cf-88f9-d01a8eea5c65",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.847448"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### What characterises clean technology? 3 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "#### What characterises clean technology? 3 p.",
+            "displayNumber": "3.2"
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.902228",
+          "max_score": 3,
+          "groupping": null,
+          "id": 6181788,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 153,
+              "text": "It is produced with very little or no waste",
+              "parent": "63bd8af9-db4b-4ac7-adf6-c9eb6d293011",
+              "choices": []
+            },
+            {
+              "id": 154,
+              "text": "It is used by companies rather than individuals",
+              "parent": "63bd8af9-db4b-4ac7-adf6-c9eb6d293011",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 155,
+              "text": "It is somehow beneficial to the environment",
+              "parent": "63bd8af9-db4b-4ac7-adf6-c9eb6d293011",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "63bd8af9-db4b-4ac7-adf6-c9eb6d293011",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.995273"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Mitä Ken Okoroaforin ystävä tekee sivutyökseen? Vastaa suomeksi. 3 p.\n\n*Vastauksen pituus on enintään 100 merkkiä. Ylityksestä seuraa pistevähennys.*\n\n[LINK url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/4.1_4.2.mp3|text=The recording related to questions 4.1 and 4.2.]",
+          "deleted_at": null,
+          "feedback": "Toimittaa/Vuokraa hattarakoneita (juhliin) (3/0 p.) ",
+          "exam_id": 179922,
+          "content": {
+            "text": "#### Mitä Ken Okoroaforin ystävä tekee sivutyökseen? Vastaa suomeksi. 3 p.\n\n*Vastauksen pituus on enintään 100 merkkiä. Ylityksestä seuraa pistevähennys.*\n\n[LINK url=https://yle.fi/plus/abitreenit/2023/syksy/englanti_pitka/attachments/4.1_4.2.mp3|text=The recording related to questions 4.1 and 4.2.]",
+            "displayNumber": "4.1"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.905327",
+          "max_score": null,
+          "groupping": null,
+          "id": 6181785,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "7126301a-4591-46c9-b97a-259b3dfe3170",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.987882"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "These range from soft wings that **convert** the tug and pull on a kite’s line to useful energy, to complex rigid craft that carry turbines and generators on board and shuttle electricity down a tether. 1 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "These range from soft wings that **convert** the tug and pull on a kite’s line to useful energy, to complex rigid craft that carry turbines and generators on board and shuttle electricity down a tether. 1 p.",
+            "displayNumber": "13.5"
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.908338",
+          "max_score": 1,
+          "groupping": null,
+          "id": 6181737,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 135,
+              "text": "endure",
+              "parent": "e19ce51e-bd62-4ac5-8d62-7835084a14ee",
+              "choices": []
+            },
+            {
+              "id": 136,
+              "text": "transform",
+              "parent": "e19ce51e-bd62-4ac5-8d62-7835084a14ee",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 137,
+              "text": "support",
+              "parent": "e19ce51e-bd62-4ac5-8d62-7835084a14ee",
+              "choices": []
+            }
+          ],
+          "uuid": "e19ce51e-bd62-4ac5-8d62-7835084a14ee",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.857276"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Part 3: Grammar and Vocabulary",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "### Part 3: Grammar and Vocabulary"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-02-12T08:35:25.911075",
+          "max_score": null,
+          "groupping": null,
+          "id": 6181817,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "16c0fe40-a616-4ff0-81b0-5e9dfeb0ae12",
+          "order_number": 15,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:06.070238"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Part 2: Reading Comprehension",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "### Part 2: Reading Comprehension"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-02-12T08:35:25.91389",
+          "max_score": null,
+          "groupping": null,
+          "id": 6181816,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "6e4f067d-1a4e-417f-b7d0-5e64ca8b0e10",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:06.06826"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Part 1: Listening Comprehension",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "### Part 1: Listening Comprehension"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-02-12T08:35:25.916523",
+          "max_score": null,
+          "groupping": null,
+          "id": 6181815,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "864bdde9-688c-489f-aebb-bdfaf02cefdd",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:06.066366"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Part 4: Production",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "### Part 4: Production"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-02-12T08:35:25.919076",
+          "max_score": null,
+          "groupping": null,
+          "id": 6181814,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "47097765-3cb0-4777-a806-ef1372ee5409",
+          "order_number": 19,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:06.064352"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Why did Kay Baxter and her husband found the Koanga Institute? 3 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "#### Why did Kay Baxter and her husband found the Koanga Institute? 3 p.",
+            "displayNumber": "2.4"
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.921633",
+          "max_score": 3,
+          "groupping": null,
+          "id": 6181791,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 138,
+              "text": "They believed it was necessary for continuity",
+              "parent": "6597d309-9b2f-4093-9c65-77392e73ed2e",
+              "choices": []
+            },
+            {
+              "id": 139,
+              "text": "They felt it was crucial for the whole country",
+              "parent": "6597d309-9b2f-4093-9c65-77392e73ed2e",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 140,
+              "text": "They needed to raise money for the project",
+              "parent": "6597d309-9b2f-4093-9c65-77392e73ed2e",
+              "choices": []
+            }
+          ],
+          "uuid": "6597d309-9b2f-4093-9c65-77392e73ed2e",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:06.003768"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### What is Sam visiting? 3 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "#### What is Sam visiting? 3 p.",
+            "displayNumber": "8.1"
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.924347",
+          "max_score": 3,
+          "groupping": null,
+          "id": 6181772,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 124,
+              "text": "A media company",
+              "parent": "2a3e2488-e228-4828-b97b-acb11c2f4052",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 125,
+              "text": "A doctor’s office",
+              "parent": "2a3e2488-e228-4828-b97b-acb11c2f4052",
+              "choices": []
+            },
+            {
+              "id": 126,
+              "text": "A loan business",
+              "parent": "2a3e2488-e228-4828-b97b-acb11c2f4052",
+              "choices": []
+            }
+          ],
+          "uuid": "2a3e2488-e228-4828-b97b-acb11c2f4052",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.95398"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### How does Lucy Fox think studying on the university campus can help with her career? 3 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "#### How does Lucy Fox think studying on the university campus can help with her career? 3 p.",
+            "displayNumber": "7.2"
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.926644",
+          "max_score": 3,
+          "groupping": null,
+          "id": 6181771,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 121,
+              "text": "By introducing contacts who work in archaeology professionally",
+              "parent": "173f1d03-0b35-406c-988c-c05711e55f0e",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 122,
+              "text": "By supporting travel to archaeological digs around the country",
+              "parent": "173f1d03-0b35-406c-988c-c05711e55f0e",
+              "choices": []
+            },
+            {
+              "id": 123,
+              "text": "By teaching students how to handle delicate materials carefully",
+              "parent": "173f1d03-0b35-406c-988c-c05711e55f0e",
+              "choices": []
+            }
+          ],
+          "uuid": "173f1d03-0b35-406c-988c-c05711e55f0e",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.951715"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### What does Sam think of her own appearance? 3 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "#### What does Sam think of her own appearance? 3 p.",
+            "displayNumber": "8.3"
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.929024",
+          "max_score": 3,
+          "groupping": null,
+          "id": 6181765,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 124,
+              "text": "It is classic",
+              "parent": "b44f45b8-f015-45c9-9373-42e0fff14955",
+              "choices": []
+            },
+            {
+              "id": 125,
+              "text": "It is rustic",
+              "parent": "b44f45b8-f015-45c9-9373-42e0fff14955",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 126,
+              "text": "It is practical",
+              "parent": "b44f45b8-f015-45c9-9373-42e0fff14955",
+              "choices": []
+            }
+          ],
+          "uuid": "b44f45b8-f015-45c9-9373-42e0fff14955",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.937302"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Greenland 30 p.\n\nRead the text carefully and choose the sentence or group of words that best fits the gap in the text.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "### Greenland 30 p.\n\nRead the text carefully and choose the sentence or group of words that best fits the gap in the text.",
+            "questionType": "reading",
+            "displayNumber": "10."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "3e84a2e0-53db-46ab-a3d3-565096862cfe",
+            "95d36f60-fb6f-4182-9384-c4dc2d99bbb5",
+            "23aa8d57-ff6c-4161-8c24-d166f85a7640",
+            "dbcbdb31-f5fd-4085-9237-17df3f59f63d",
+            "91407f3d-6306-4ed1-a475-f48188117304"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-02-12T08:35:25.931206",
+          "max_score": null,
+          "groupping": null,
+          "id": 6181759,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "ff598d62-08af-4ebe-a4b7-bd2c0954d1d2",
+          "order_number": 12,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.921882"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### What is unique about the wind kite in Mauritius? 3 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "#### What is unique about the wind kite in Mauritius? 3 p.",
+            "displayNumber": "12.1"
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.934158",
+          "max_score": 3,
+          "groupping": null,
+          "id": 6181758,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 132,
+              "text": "It is unexpectedly productive",
+              "parent": "db3b8866-a3e9-48d1-a7ae-235094f1d1f0",
+              "choices": []
+            },
+            {
+              "id": 133,
+              "text": "It is a groundbreaking model",
+              "parent": "db3b8866-a3e9-48d1-a7ae-235094f1d1f0",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 134,
+              "text": "It is exceptionally extensive",
+              "parent": "db3b8866-a3e9-48d1-a7ae-235094f1d1f0",
+              "choices": []
+            }
+          ],
+          "uuid": "db3b8866-a3e9-48d1-a7ae-235094f1d1f0",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.918959"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Thanks to the expanding number of wind turbines dotting fields and adorning ridgelines worldwide, the cost of wind power has **plummeted** about 40 percent over the past decade. 1 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "Thanks to the expanding number of wind turbines dotting fields and adorning ridgelines worldwide, the cost of wind power has **plummeted** about 40 percent over the past decade. 1 p.",
+            "displayNumber": "13.4"
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.93967",
+          "max_score": 1,
+          "groupping": null,
+          "id": 6181745,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 135,
+              "text": "constituted",
+              "parent": "f17351ed-d94d-4b26-8e18-38f04f96d0b4",
+              "choices": []
+            },
+            {
+              "id": 136,
+              "text": "increased",
+              "parent": "f17351ed-d94d-4b26-8e18-38f04f96d0b4",
+              "choices": []
+            },
+            {
+              "id": 137,
+              "text": "collapsed",
+              "parent": "f17351ed-d94d-4b26-8e18-38f04f96d0b4",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "f17351ed-d94d-4b26-8e18-38f04f96d0b4",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.881193"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "These ideas have been around for decades, but the path to using kites, wings, or drones to capture wind energy has been **bumpy**. 1 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "These ideas have been around for decades, but the path to using kites, wings, or drones to capture wind energy has been **bumpy**. 1 p.",
+            "displayNumber": "13.8"
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.942067",
+          "max_score": 1,
+          "groupping": null,
+          "id": 6181743,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 135,
+              "text": "intense",
+              "parent": "ffe3d5eb-2974-495e-bfc4-51a120747f5f",
+              "choices": []
+            },
+            {
+              "id": 136,
+              "text": "smooth",
+              "parent": "ffe3d5eb-2974-495e-bfc4-51a120747f5f",
+              "choices": []
+            },
+            {
+              "id": 137,
+              "text": "difficult",
+              "parent": "ffe3d5eb-2974-495e-bfc4-51a120747f5f",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "ffe3d5eb-2974-495e-bfc4-51a120747f5f",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.875189"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "[GAP id=174],\n\nI am writing to apply for the assistant [GAP id=175] advertised on your web page.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "[GAP id=174],\n\nI am writing to apply for the assistant [GAP id=175] advertised on your web page."
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.944461",
+          "max_score": 2,
+          "groupping": null,
+          "id": 6181741,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 174,
+              "hint": "Mr. Johnson 1 p.",
+              "parent": "c5af0425-d0d2-4222-9f44-4a60285840fe",
+              "choices": [],
+              "correct": "Dear Mr. Johnson|Dear Mr Johnson|Dear Gareth Johnson",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 175,
+              "hint": "job 1 p.",
+              "parent": "c5af0425-d0d2-4222-9f44-4a60285840fe",
+              "choices": [],
+              "correct": "position|post",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "c5af0425-d0d2-4222-9f44-4a60285840fe",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.865821"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "As requested, I have filled in the application form and attached my [GAP id=176], and two references.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "As requested, I have filled in the application form and attached my [GAP id=176], and two references."
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.946971",
+          "max_score": 1,
+          "groupping": null,
+          "id": 6181739,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 176,
+              "hint": "work experience list 1 p.",
+              "parent": "7ec0822e-1906-4c5a-91a3-c026d72b033a",
+              "choices": [],
+              "correct": "curriculum vitae|CV|resume",
+              "isCaseSensitive": false
+            }
+          ],
+          "uuid": "7ec0822e-1906-4c5a-91a3-c026d72b033a",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.861592"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Thank you for your time and consideration. I [GAP id=180] with you about this [GAP id=181] [GAP id=182].",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "Thank you for your time and consideration. I [GAP id=180] with you about this [GAP id=181] [GAP id=182]."
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.949312",
+          "max_score": 3,
+          "groupping": null,
+          "id": 6181738,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 180,
+              "hint": "am waiting to speak 1 p.",
+              "parent": "d70842cc-a66b-4ae0-be99-4a7804f50eeb",
+              "choices": [],
+              "correct": "look forward to speaking",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 181,
+              "hint": "work 1 p.",
+              "parent": "d70842cc-a66b-4ae0-be99-4a7804f50eeb",
+              "choices": [],
+              "correct": "employment",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 182,
+              "hint": "chance 1 p.",
+              "parent": "d70842cc-a66b-4ae0-be99-4a7804f50eeb",
+              "choices": [],
+              "correct": "opportunity",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "d70842cc-a66b-4ae0-be99-4a7804f50eeb",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.859443"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Wind farms typically need a **whopping** 71 acres to generate a megawatt, compared to 12 acres for a fossil fuel plant, and the ideal locations will eventually run out. 1 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "Wind farms typically need a **whopping** 71 acres to generate a megawatt, compared to 12 acres for a fossil fuel plant, and the ideal locations will eventually run out. 1 p.",
+            "displayNumber": "13.6"
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.951902",
+          "max_score": 1,
+          "groupping": null,
+          "id": 6181734,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 135,
+              "text": "mediocre",
+              "parent": "ab41c6bc-8785-4525-a79c-b45e2ba8cd67",
+              "choices": []
+            },
+            {
+              "id": 136,
+              "text": "multiple",
+              "parent": "ab41c6bc-8785-4525-a79c-b45e2ba8cd67",
+              "choices": []
+            },
+            {
+              "id": 137,
+              "text": "massive",
+              "parent": "ab41c6bc-8785-4525-a79c-b45e2ba8cd67",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "ab41c6bc-8785-4525-a79c-b45e2ba8cd67",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.849662"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "The role is very appealing, and I believe my strong experience at the local newspaper makes me a highly competitive [GAP id=177].  My key strengths include:\n\n\n\n-I have successfully [GAP id=178] both writers and photographers\n\n-I am familiar with various layout programmes\n\n-I have excellent social media skills",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "The role is very appealing, and I believe my strong experience at the local newspaper makes me a highly competitive [GAP id=177].  My key strengths include:\n\n\n\n-I have successfully [GAP id=178] both writers and photographers\n\n-I am familiar with various layout programmes\n\n-I have excellent social media skills"
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-02-12T08:35:25.957032",
+          "max_score": 2,
+          "groupping": null,
+          "id": 6181731,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 177,
+              "hint": "seeker 1 p.",
+              "parent": "e70eb346-f931-4b3a-ac37-c21495c51f49",
+              "choices": [],
+              "correct": "candidate|applicant",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 178,
+              "hint": "helped 1 p.",
+              "parent": "e70eb346-f931-4b3a-ac37-c21495c51f49",
+              "choices": [],
+              "correct": "assisted|aided|supported",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "e70eb346-f931-4b3a-ac37-c21495c51f49",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.842906"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Nebraska Skies 10 p.\n\nRead the text and choose the best alternative to fill in the gap.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 179922,
+          "content": {
+            "text": "### Nebraska Skies 10 p.\n\nRead the text and choose the best alternative to fill in the gap.",
+            "questionType": "grammar",
+            "displayNumber": "15."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "43a2fe90-e20d-4956-84ee-7869e88b5a76",
+            "4cc53cc3-9139-4828-9a42-6e841eb5795f",
+            "47768714-b3f4-4d68-a6ec-3a1050c71ac6",
+            "ee72bb7c-6051-4501-83c9-5addacc27b19",
+            "f22453f2-d902-4ca1-9818-9ad29cd31a4d"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-02-12T08:35:25.959397",
+          "max_score": null,
+          "groupping": null,
+          "id": 6181729,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "cde020f3-563c-43a3-b033-b6ca5d947e8c",
+          "order_number": 18,
+          "multipart": true,
+          "created_at": "2023-10-12T05:57:05.837727"
+        }
+      ],
+      "name": "Englanti, pitkä oppimäärä syksy 2023",
+      "settings": {
+        "overrideTitle": true
+      },
+      "exam_type": "yo-koe",
+      "classification": {
+        "category": "digital-exam",
+        "disable_saving": false,
+        "hide_review_buttons": false,
+        "exam_type": "yo-koe",
+        "year": "2023",
+        "language": "fi-FI",
+        "hide_statistics": false,
+        "show_exam_series": false,
+        "force_yletunnus": false,
+        "subject": "englanti-pitkä",
+        "published": true,
+        "semester": "fall"
+      },
+      "published_at": "2023-10-12T06:48:17.000Z",
+      "language": "fi-FI",
+      "id": 179922,
+      "reviews": [],
+      "is_open": true,
+      "uuid": "c09de3fd-6fb4-479e-b774-6ecf8ad5c2fe"
+    }
+  ]
+}

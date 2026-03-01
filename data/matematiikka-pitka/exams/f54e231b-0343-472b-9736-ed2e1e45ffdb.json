@@ -1,0 +1,1201 @@
+{
+  "meta": {
+    "count": 1
+  },
+  "data": [
+    {
+      "tags": [
+        ""
+      ],
+      "main_text": "Koe koostuu 13 tehtävästä, joista vastataan kymmeneen. Tehtävät on jaettu kolmeen osaan. A-osassa on kuusi tehtävää, joista vastataan viiteen. B1-osassa on neljä tehtävää, joista vastataan kolmeen. B2-osassa on kolme tehtävää, joista vastataan kahteen. Kaikki tehtävät arvostellaan pistein 0–12, joten kokeen maksimipistemäärä on 120.\n\n&NewLine;\n\nA-osassa saat käyttää koejärjestelmässä olevaa taulukkokirjaa ja perusohjelmia. A-osa palautetaan tehtävän 6 jälkeen olevalla painikkeella. Tämän jälkeen A-osan vastauksia ei voi enää muokata. A-osan palauttamisen jälkeen kaikki koejärjestelmän ohjelmat ovat käytettävissäsi. Voit vastata B-osien tehtäviin myös ennen A-osan palauttamista.\n\n&NewLine;\n\nUseimmissa tehtävissä kaikkien osatehtävien vastaukset kirjoitetaan samaan vastauskenttään. Jaottele vastauksesi osatehtävien mukaisesti. Halutessasi voit tuottaa vastausten tueksi piirroksia, kaavioita tai taulukoita ja liittää niistä kuvakaappauksen mihin tahansa tekstivastaukseen.\n\n&NewLine;\n\nÄlä jätä mitään merkintöjä sellaisen tehtävän vastaukselle varattuun tilaan, jota et halua jättää arvosteltavaksi.",
+      "characters": null,
+      "deleted_at": null,
+      "series_uuids": [],
+      "questions": [
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Jaksollisuus 12 p.\n\nFunktio [MATH text=f:R \\rightarrow R] on *jaksollinen*, jos on olemassa sellainen [MATH text= L > 0], että sen kuvaaja pysyy samana, kun sitä siirretään L yksikköä vaakasuorassa suunnassa. Tämä ominaisuus voidaan esittää myös ehdolla [MATH text=f(x +L) =f(x)] kaikilla [MATH text=x \\in R]. Pienin tällainen luku L on funktion *perusjakso*.\n\n&NewLine;\n\nPiirrä jokaisessa osatehtävässä funktion kuvaaja omaan koordinaatistoonsa. Anna vastauksena funktion perusjakso sekä kuvaaja, johon on merkitty perusjakson mittainen osa x-akselia.\n\n&NewLine;\n\n **1.**[MATH text=f(x) =sin(2\\pi x)] **(4 p.)**\n\n**2.** [MATH text=g(x)=|\\sin (\\pi x)+\\sin (2\\pi x)|] **(4 p.)**\n\n**3.** Anna esimerkki jaksollisesta funktiosta [MATH text=h:R \\rightarrow R], jonka perusjakso on 4. **(4 p.)**",
+          "deleted_at": null,
+          "feedback": "Piirretään kuva:\n\n[IMS id=39-1363835670e1deba51b7]\n3 p.\n\nKuvan perusteella funktion perusjakso on 1.\n\n1 p.\n\nPiirretään kuva:\n\n[IMS id=39-1363837670e1e8138eaa]\n3 p.\n\nKuvan perusteella funktion perusjakso on 2.\n\n1 p.\n\nPiirretään kuva:\n\n[IMS id=39-1363838670e1edf2da97]\n3 p.\n\nKuvan perusteella funktion perusjakso on 4.\n\n1 p.Yllä oleva esimerkki on saatu skaalaamalla osatehtävän 9.2 esimerkki. Myös esimerkiksi [MATH text=\\sin \\left(\\frac{\\pi x}{2}\\right)] käy.\n\nJakson voi merkitä useilla erilaisilla tavoilla – yllä on esitelty kaksi mahdollista.",
+          "exam_id": 225250,
+          "content": {
+            "text": "### Jaksollisuus 12 p.\n\nFunktio [MATH text=f:R \\rightarrow R] on *jaksollinen*, jos on olemassa sellainen [MATH text= L > 0], että sen kuvaaja pysyy samana, kun sitä siirretään L yksikköä vaakasuorassa suunnassa. Tämä ominaisuus voidaan esittää myös ehdolla [MATH text=f(x +L) =f(x)] kaikilla [MATH text=x \\in R]. Pienin tällainen luku L on funktion *perusjakso*.\n\n&NewLine;\n\nPiirrä jokaisessa osatehtävässä funktion kuvaaja omaan koordinaatistoonsa. Anna vastauksena funktion perusjakso sekä kuvaaja, johon on merkitty perusjakson mittainen osa x-akselia.\n\n&NewLine;\n\n **1.**[MATH text=f(x) =sin(2\\pi x)] **(4 p.)**\n\n**2.** [MATH text=g(x)=|\\sin (\\pi x)+\\sin (2\\pi x)|] **(4 p.)**\n\n**3.** Anna esimerkki jaksollisesta funktiosta [MATH text=h:R \\rightarrow R], jonka perusjakso on 4. **(4 p.)**",
+            "displayNumber": "9."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-11-18T10:36:48.821085",
+          "max_score": null,
+          "groupping": null,
+          "id": 7180777,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "f70e8375-df01-4563-ab2a-0b2fa9ec3728",
+          "order_number": 12,
+          "multipart": true,
+          "created_at": "2024-10-14T11:49:39.523206"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Tikanheitto 12 p.\n\n#### Aineisto\n\n8.A Kuva: [LINK text=Tikkataulu|url=https://yle.fi/plus/abitreenit/2024/syksy/matematiikka_pitka/attachments/index.html#8.A]\n\n&NewLine;\n\nYmpyränmuotoisen tikkataulun keskellä on 10 pisteen arvoinen keskiympyrä, jonka säde on 2 cm. Sen ympärillä on 9 pisteen arvoinen rengas, jonka leveys on 2 cm. Tämän renkaan ympärillä on samanlevyinen 8 pisteen rengas, sen ympärillä samanlevyinen 7 pisteen rengas ja niin edelleen uloimpaan 1 pisteen renkaaseen saakka. Tikkataulussa on siis yhteensä 10 aluetta ja koko taulun säde on 20 cm, katso kuva 8.A.\n\n&NewLine;\n\n\n\n**1.** Osoita laskemalla, että parillisten pistemäärien alueiden yhteenlaskettu pinta-ala on [MATH text=180\\pi cm^2]. **(4 p.)**\n\n&NewLine;\n\n**2.** Katri heittää tikkaa siten, että hän varmasti osuu tauluun, mutta voi osua mihin tahansa taulun kohtaan samalla todennäköisyydellä. Millä todennäköisyydellä Katrin tulos on parillinen, kun hän heittää kolme tikkaa ja niiden pisteet lasketaan yhteen? **(8 p.)**",
+          "deleted_at": null,
+          "feedback": "Keskimmäisen ympyrän ala neliösenttimetreissä on [MATH text=\\pi *2^2], seuraavan parillisen renkaan [MATH text=\\pi ((3 *2)^2 -(2 *2)^2)] ja kolmannen [MATH text=\\pi ((5 *2)^2 -(4 *2)^2)].\n\n(Neljännen on [MATH text=\\pi ((7 *2)^2 -(6 *2)^2) ]ja viidennen [MATH text=\\pi ((9 *2)^2 -(8 *2)^2))].\n\n2 p.\n\nNäiden yhteenlaskettu pinta-ala on [MATH text=\\pi *2^2 + \\pi ((3 *2)^2 -(2 *2)^2) +\\pi ((5 *2)^2 -(4 *2)^2) ][MATH text=+\\pi ((7 *2)^2 -(6 *2)^2) + \\pi ((9 *2)^2 -(8 *2)^2) =180 \\pi].\n\n2 p.\n\nKatrin tulos on parillinen, jos hän saa kolme parillista tai kaksi paritonta ja yhden parillisen.1 p.Koko ympyrän ala on [MATH text=\\pi *20^2 =400 \\pi], ja parittoman alueen ala on [MATH text=400 \\pi -180 \\pi =220 \\pi].\n\n2 p.\n\nParittoman alueen osuus on siis [MATH text=\\frac{220\\pi}{400\\pi}=\\frac{11}{20}] ja parillisen [MATH text=\\frac{9}{20}].(1 p.)Todennäköisyys saada kolme parillista on siis [MATH text=(\\frac{9}{20})^3=\\frac{729}{8000}].\n\n1 p.\n\nTodennäköisyys saada yksi parillinen ja kaksi paritonta on siis [MATH text=\\binom{3}{1}\\binom{11}{20}^2\\cdot\\frac{9}{20}=\\frac{3267}{8000}].\n\n2 p.\n\nYhteenlaskettu todennäköisyys on siis [MATH text=\\frac{3996}{8000}=\\frac{999}{2000}]([MATH text=\\approx 50 %]%).\n\n1 p.",
+          "exam_id": 225250,
+          "content": {
+            "text": "### Tikanheitto 12 p.\n\n#### Aineisto\n\n8.A Kuva: [LINK text=Tikkataulu|url=https://yle.fi/plus/abitreenit/2024/syksy/matematiikka_pitka/attachments/index.html#8.A]\n\n&NewLine;\n\nYmpyränmuotoisen tikkataulun keskellä on 10 pisteen arvoinen keskiympyrä, jonka säde on 2 cm. Sen ympärillä on 9 pisteen arvoinen rengas, jonka leveys on 2 cm. Tämän renkaan ympärillä on samanlevyinen 8 pisteen rengas, sen ympärillä samanlevyinen 7 pisteen rengas ja niin edelleen uloimpaan 1 pisteen renkaaseen saakka. Tikkataulussa on siis yhteensä 10 aluetta ja koko taulun säde on 20 cm, katso kuva 8.A.\n\n&NewLine;\n\n\n\n**1.** Osoita laskemalla, että parillisten pistemäärien alueiden yhteenlaskettu pinta-ala on [MATH text=180\\pi cm^2]. **(4 p.)**\n\n&NewLine;\n\n**2.** Katri heittää tikkaa siten, että hän varmasti osuu tauluun, mutta voi osua mihin tahansa taulun kohtaan samalla todennäköisyydellä. Millä todennäköisyydellä Katrin tulos on parillinen, kun hän heittää kolme tikkaa ja niiden pisteet lasketaan yhteen? **(8 p.)**",
+            "displayNumber": "8."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-11-18T10:36:48.818005",
+          "max_score": null,
+          "groupping": null,
+          "id": 7180776,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "ad527c5e-7623-42a8-9f3f-61fd9a377758",
+          "order_number": 11,
+          "multipart": true,
+          "created_at": "2024-10-14T11:49:39.517675"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Ohjelmakoodi ja tekijät 12 p.\n\n#### Aineisto\n\n10.A Teksti: [LINK text=Papun koodi|url=https://yle.fi/plus/abitreenit/2024/syksy/matematiikka_pitka/attachments/index.html#10.A]\n\n&NewLine;\n\nPapu yritti selvittää positiivisen kokonaisluvun alkutekijät. Tähän tarkoitukseen hän kirjoitti Python-koodin, joka on esitetty tekstissä 10.A. Koodissa #-merkkiä seuraava teksti on kommentti, joka ei vaikuta ohjelman toimintaan. Papu ajoi ohjelman muuttujan n eri alkuarvoilla. Hän huomasi, että toisinaan ohjelma toimi virheettömästi ja tulosti luvun n alkutekijät, toisinaan se tulosti muitakin lukuja.\n\n&NewLine;\n\nOsatehtävissä 10.1 ja 10.2 vastauksesta täytyy ilmetä käytetty alkuarvo ja ohjelman tuloste.\n\n1. Anna esimerkki luvun n alkuarvosta, jolle ohjelma tulostaa listan, joka sisältää vain luvun n alkutekijöitä. **(3 p.)**\n2. Anna esimerkki luvun n alkuarvosta, jolle ohjelma tulostaa muitakin kuin luvun n alkutekijöitä. **(3 p.)**\n3. Selitä, miksi ohjelma ei aina toimi niin kuin Papu oli tarkoittanut. **(6 p.)**\n\nHuomaa, että tehtävässä annettua ohjelmakoodia voi ajaa koeympäristön ohjeiden Ohjelmointi-välilehdellä. Siellä on myös Python-kielen käskyjen selityksiä.\n\n\n",
+          "deleted_at": null,
+          "feedback": "Ohjelma tuottaa oikean tulosteen esimerkiksi arvolla x =35, sillä tällöin se tulostaa luvut 5 ja 7.\n\n3 p.\n\nOhjelma ei tuota oikea tulostetta esimerkiksi arvolla x =16, sillä tällöin se tulostaa luvut 2, 4 ja 2. Luku 4 ei ole luvun 16 alkutekijä.\n\n3 p.\n\nPistejako: Yleinen selitys ongelmasta 3 pistettä, ja perustelu sille, miksi näin joskus käy (esim. esimerkin avulla) 3 pistettä.\n\n6 p.\n\nEsimerkki kuuden pisteen vastauksesta:\nOhjelman for-rakenteen sisällä tulostetaan kaikki ne luvut [MATH text=a_1 < a_2 < …], jotka toteuttavat ehdot [MATH text=n /a_1, n /(a_1 a_2)], … on kokonaisluku. Missään ei ole kontrollia sille, onko löydetty luku [MATH text=a_i] alkuluku. Jos esimerkiksi [MATH text=n /a_1 ] on jaollinen jollain luvulla, joka on suurempi kuin [MATH text=a_1], mutta pienempi kuin seuraava alkuluku, jolla [MATH text=n /a_1] on jaollinen, niin [MATH text=a_2] ei ole alkuluku. Näin käy esimerkiksi luvun 16 kanssa, sillä tällöin ensin löydetään alkutekijä 2. Sitten tarkastellaan lukua 16/2 =8, jolle 2:ta suurempi pienin tekijä on 4, eli ohjelma tulostaa sen seuraavaksi.",
+          "exam_id": 225250,
+          "content": {
+            "text": "### Ohjelmakoodi ja tekijät 12 p.\n\n#### Aineisto\n\n10.A Teksti: [LINK text=Papun koodi|url=https://yle.fi/plus/abitreenit/2024/syksy/matematiikka_pitka/attachments/index.html#10.A]\n\n&NewLine;\n\nPapu yritti selvittää positiivisen kokonaisluvun alkutekijät. Tähän tarkoitukseen hän kirjoitti Python-koodin, joka on esitetty tekstissä 10.A. Koodissa #-merkkiä seuraava teksti on kommentti, joka ei vaikuta ohjelman toimintaan. Papu ajoi ohjelman muuttujan n eri alkuarvoilla. Hän huomasi, että toisinaan ohjelma toimi virheettömästi ja tulosti luvun n alkutekijät, toisinaan se tulosti muitakin lukuja.\n\n&NewLine;\n\nOsatehtävissä 10.1 ja 10.2 vastauksesta täytyy ilmetä käytetty alkuarvo ja ohjelman tuloste.\n\n1. Anna esimerkki luvun n alkuarvosta, jolle ohjelma tulostaa listan, joka sisältää vain luvun n alkutekijöitä. **(3 p.)**\n2. Anna esimerkki luvun n alkuarvosta, jolle ohjelma tulostaa muitakin kuin luvun n alkutekijöitä. **(3 p.)**\n3. Selitä, miksi ohjelma ei aina toimi niin kuin Papu oli tarkoittanut. **(6 p.)**\n\nHuomaa, että tehtävässä annettua ohjelmakoodia voi ajaa koeympäristön ohjeiden Ohjelmointi-välilehdellä. Siellä on myös Python-kielen käskyjen selityksiä.\n\n\n",
+            "displayNumber": "10."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-11-18T10:36:48.815049",
+          "max_score": null,
+          "groupping": null,
+          "id": 7180881,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "a2b1bee3-1024-4fb1-8b8a-a74ec425986f",
+          "order_number": 13,
+          "multipart": true,
+          "created_at": "2024-10-14T12:08:02.575793"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Paraabelialueita 12 p.\n\n#### Aineisto\n\n11.A Kuva: [LINK text=Alueiden leikkaus|url=https://yle.fi/plus/abitreenit/2024/syksy/matematiikka_pitka/attachments/index.html#11.A]\n\n&NewLine;\n\nTarkastellaan tasojoukkoa [MATH text=P_0], jonka alareuna on x-akselin jana [-1, 1] ja yläreuna paraabelin kaari [MATH text=y =1 -x^2], [MATH text=-1\\le x\\le1]. Arvoilla [MATH text=a > 0] määritellään uusi joukko [MATH text=P_a] siirtämällä joukkoa [MATH text=P_0] vaakasuorassa suunnassa oikealle etäisyyden a verran. Olkoon [MATH text=L_a=P_0\\cap P_a] joukkojen [MATH text=P_0] ja [MATH text=P_a] leikkaus eli yhteinen osa. Kuvassa 11.A on esimerkkinä tapaus [MATH text=a=0{,}75].\n\n&NewLine;\n\n**1.** Määritä joukon pinta-ala. **(4 p.)**\n\n**2.** Olkoon a sellainen parametrin arvo, että joukon [MATH text=L_a] pinta-ala on puolet joukon [MATH text=P_0 ]pinta-alasta. Tämä arvo a on erään kolmannen asteen yhtälön ratkaisu. Määritä tämä yhtälö ja ratkaise siitä parametrin a likiarvo kolmen merkitsevän numeron tarkkuudella. **(8 p.)**",
+          "deleted_at": null,
+          "feedback": "Kun joukko siirtyy oikealle etäisyyden a verran, tarkastellaan paraabelia [MATH text=y =1 -(x -a)^2].\n\n1 p.\n\nParaabelien leikkauspiste saadaan yhtälöstä[MATH text=1 -(x -0,75)^2 =1 -x^2] , josta x =0,375.\n\n1 p.\n\nParaabelien leikkausjoukko on symmetrinen, joten riittää laskea sen pinta-alasta puolet. Leikkauksen pinta-alaksi saadaan .\n\n[MATH text=2\\int_{-0{,}25}^{0{,}375}(1-(x-0{,}75)^2)dx=\\frac{475}{668}]\n\nTAI\n\n[MATH text=\\approx0{,}62]\n\n2 p.\n\nTAI\n\nSymmetrian nojalla paraabelit leikkaavat pisteessä x =0,375.\n\n2 p.\n\nParaabelien leikkausjoukko on symmetrinen, joten riittää laskea sen pinta-alasta puolet. Leikkauksen pinta-alaksi saadaan [MATH text=2\\int_{0{,}375}^1(1-x^2)dx\\approx0{,}62].\n\n2 p.\n\nSuoraan integroiden saadaan [MATH text=P_0=\\int_{-1}^1(1-x^2)dx=\\frac{4}{3}].\n\n1 p.\n\nRatkaistaan ensin yhtälö[MATH text= 1 -x^2 =1 -(x -a)^2], jotta saadaan paraabelien leikkauspiste. Saadaan [MATH text=x^2 =(x -a)^2], joten [MATH text=x =\\frac{a} {2}].\n\n1 p.\n\nJotta ehto toteutuu, halutaan määrittää sellainen a, että [MATH text=\\int_{a-1}^{\\frac{a}{2}}(1-(x-a)^2)dx=\\frac{1}{3}]. Tämä integraali antaa puolet alle jäävän alueen pinta-alasta.2 p.Integraalin arvo on [MATH text=(a^3 -12 a +16) /24].\n\n1 p.\n\nSaadaan yhtälö [MATH text=(a^3 -12 a +16) /24 =1/3], joka sievenee muotoon [MATH text=a^3 -12 a +8 =0].\n\n2 p.\n\nVaaditun ehdon toteuttavan ratkaisun a likiarvo on 0,695.\n\n1 p.\n\nTAI\n\nSuoraan integroiden saadaan  [MATH text=P_0=\\int_{-1}^1(1-x^2)dx=\\frac{4}{3}].\n\n1 p.\n\nSymmetrian nojalla paraabelit leikkaavat pisteessä x =a /2.\n\n1 p.\n\nJotta ehto toteutuu, halutaan määrittää sellainen a, että[MATH text=\\int_{a-1}^{\\frac{a}{2}}(1-(x-a)^2)dx=\\frac{1}{3}].\n\n2 p.\n\nIntegraalin arvo on [MATH text=(a^3 -12 a +16) /24].\n\n1 p.\n\nSaadaan yhtälö[MATH text= (a^3 -12 a +16) /24 =1/3], joka sievenee muotoon [MATH text=a^3 -12 a +8 =0].\n\n2 p.\n\nVaaditun ehdon toteuttavan ratkaisun a likiarvo on 0,695.\n\n1 p.",
+          "exam_id": 225250,
+          "content": {
+            "text": "### Paraabelialueita 12 p.\n\n#### Aineisto\n\n11.A Kuva: [LINK text=Alueiden leikkaus|url=https://yle.fi/plus/abitreenit/2024/syksy/matematiikka_pitka/attachments/index.html#11.A]\n\n&NewLine;\n\nTarkastellaan tasojoukkoa [MATH text=P_0], jonka alareuna on x-akselin jana [-1, 1] ja yläreuna paraabelin kaari [MATH text=y =1 -x^2], [MATH text=-1\\le x\\le1]. Arvoilla [MATH text=a > 0] määritellään uusi joukko [MATH text=P_a] siirtämällä joukkoa [MATH text=P_0] vaakasuorassa suunnassa oikealle etäisyyden a verran. Olkoon [MATH text=L_a=P_0\\cap P_a] joukkojen [MATH text=P_0] ja [MATH text=P_a] leikkaus eli yhteinen osa. Kuvassa 11.A on esimerkkinä tapaus [MATH text=a=0{,}75].\n\n&NewLine;\n\n**1.** Määritä joukon pinta-ala. **(4 p.)**\n\n**2.** Olkoon a sellainen parametrin arvo, että joukon [MATH text=L_a] pinta-ala on puolet joukon [MATH text=P_0 ]pinta-alasta. Tämä arvo a on erään kolmannen asteen yhtälön ratkaisu. Määritä tämä yhtälö ja ratkaise siitä parametrin a likiarvo kolmen merkitsevän numeron tarkkuudella. **(8 p.)**",
+            "displayNumber": "11."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-11-18T10:36:48.811606",
+          "max_score": null,
+          "groupping": null,
+          "id": 7180883,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "521609bc-5d24-4863-b687-f800ecdf9a3e",
+          "order_number": 15,
+          "multipart": true,
+          "created_at": "2024-10-14T12:08:02.586665"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Bézier-käyriä 12 p.\n\n#### Aineisto\n\n12.A Teksti ja animaatio: [LINK text=Bézier-käyrän määritelmä|url=https://yle.fi/plus/abitreenit/2024/syksy/matematiikka_pitka/attachments/index.html#12.A]\n\n&NewLine;\n\nBézier-käyriä käytetään tietokoneavusteisessa suunnittelussa (CAD), joka on vektorigrafiikan tärkeä sovelluskohde. Bézier-käyrä määritetään niin sanottujen ohjauspisteiden avulla, kuten tekstissä 12.A on kuvattu.\n\n&NewLine;\n\n**1.** Eräs lineaarinen Bézier-käyrä koostuu pisteistä[MATH text=B(t)=(4t{,}t+2){,}0\\le t\\le1]. Määritä tämän käyrän ohjauspisteet. **(4 p.)**\n\n&NewLine;\n\n**2.** Erään toisen asteen Bézier-käyrän ohjauspisteet ovat [MATH text=P_0 =(-2, 0)], [MATH text=P_1 =(0, 8)] ja [MATH text=P_2 =(2, 0)]. Määritä käyrän yhtälö muodossa [MATH text= y =f(x)]. **(8 p.)**",
+          "deleted_at": null,
+          "feedback": "Lasketaan ensin alkupiste: arvolla t =0 saadaan piste (4 *0, 0 +2) =(0, 2). Tämä on ensimmäinen ohjauspiste.\n\n2 p.\n\nLoppupiste saadaan arvolla t =1. Tämä on (4 *1, 1 +2) =(4, 3). Tämä on toinen ohjauspiste.\n\n2 p.\n\nSuoraan sijoittamalla saadaan [MATH text=B(t) =(1 -t) ((1 -t) (-2, 0) +t (0, 8)) +t ((1 -t) (0, 8) +t (2, 0))].\n\n2 p.\n\nSievennetään: \n\n[MATH text=B(t) =(-2 (1 -t)^2 +2 t^2, t (1 -t) 16)] [MATH text==(4 t -2, 16 t -16 t^2)].\n\n2 p.\n\nMerkitään [MATH text=x =4 t -2]. Nyt [MATH text=16 t -16 t^2 =-(4 t -2)^2 +4].\n\n2 p.\n\nSiispä[MATH text= f(x) =-x^2 +4], kun [MATH text=-2 \\le x \\le 2].\n\n2 p.",
+          "exam_id": 225250,
+          "content": {
+            "text": "### Bézier-käyriä 12 p.\n\n#### Aineisto\n\n12.A Teksti ja animaatio: [LINK text=Bézier-käyrän määritelmä|url=https://yle.fi/plus/abitreenit/2024/syksy/matematiikka_pitka/attachments/index.html#12.A]\n\n&NewLine;\n\nBézier-käyriä käytetään tietokoneavusteisessa suunnittelussa (CAD), joka on vektorigrafiikan tärkeä sovelluskohde. Bézier-käyrä määritetään niin sanottujen ohjauspisteiden avulla, kuten tekstissä 12.A on kuvattu.\n\n&NewLine;\n\n**1.** Eräs lineaarinen Bézier-käyrä koostuu pisteistä[MATH text=B(t)=(4t{,}t+2){,}0\\le t\\le1]. Määritä tämän käyrän ohjauspisteet. **(4 p.)**\n\n&NewLine;\n\n**2.** Erään toisen asteen Bézier-käyrän ohjauspisteet ovat [MATH text=P_0 =(-2, 0)], [MATH text=P_1 =(0, 8)] ja [MATH text=P_2 =(2, 0)]. Määritä käyrän yhtälö muodossa [MATH text= y =f(x)]. **(8 p.)**",
+            "displayNumber": "12."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-11-18T10:36:48.806658",
+          "max_score": null,
+          "groupping": null,
+          "id": 7180884,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "9ed9d2c2-5356-4ef9-8005-befdecb4c3d8",
+          "order_number": 16,
+          "multipart": true,
+          "created_at": "2024-10-14T12:08:02.594228"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Epäjatkuva funktio 12 p.\n\nOlkoon [MATH text=f: R \\rightarrow R],\n\n[MATH text=f(x)=\\begin{cases} 3x-5{,}&kun_{ }^{ }x<=1{,}\\\\ x^2+x-2{,}&kun_{ }^{ }x>1 \\end{cases}].\n\n\n\nJalmari on osoittanut seuraavalla tavalla, että [MATH text=f’(1) =3].\n\nLasketaan funktion f erotusosamäärän toispuoleiset raja-arvot kohdassa x =1. Tällöin\n\n[MATH text=\\lim_{x\\rightarrow1-}\\frac{f(x)-f(1)}{x-1}]=[MATH text=\\lim_{x\\rightarrow1-}\\frac{3x-5-(3*1-5}{x-1}]=[MATH text=\\lim_{x\\rightarrow1-}\\frac{3x-3}{x-1}]=[MATH text=\\lim_{x\\rightarrow1-}\\frac{3(x-1)}{x-1}]=[MATH text=3]\n\nja\n\n[MATH text=\\lim_{x\\rightarrow1+}\\frac{f(x)-f(1)}{x-1}] =[MATH text=\\lim_{x\\rightarrow1+}\\frac{x^2+x-2-(1^2+1-2)}{x-1}] =[MATH text=\\lim_{x\\rightarrow1+}\\frac{x^2+x-2}{x-1}] =[MATH text=\\lim_{x\\rightarrow1+}\\frac{(x-1)(x+2)}{x-1}] =[MATH text=\\lim_{x\\rightarrow1+}(x+2)=3] \n\n&NewLine;\n\nKoska erotusosamäärän toispuoleiset raja-arvot ovat yhtä suuret ja niiden yhteinen arvo on 3, niin funktio f on derivoituva kohdassa [MATH text=x =1] ja [MATH text=f’(1) =3].\n\n1. Osoita, että f ei ole jatkuva kohdassa x =1. Miksi tämä on ristiriidassa Jalmarin tuloksen kanssa? Minkä virheen Jalmari tekee todistuksessaan? **(6 p.)**\n2. Osoita, että f on monotoninen joukossa R. **(6 p.)**",
+          "deleted_at": null,
+          "feedback": "\n\nKoska [MATH text=\\lim_{x\\rightarrow1+}(x^2+x-2)=0] ja [MATH text=\\lim_{x\\rightarrow1-}(3x+x-5)=-2], ei funktio ole jatkuva kohdassa x =1.\n\n2 p.\n\nTämä on ristiriidassa Jalmarin tuloksen kanssa, sillä funktio ei voi olla derivoituva, jos se ei ole jatkuva.\n\n2 p.\n\nJalmarin virhe on se, että hän on erotusosamäärän lausekkeessa käyttänyt oikeanpuoleisessa raja-arvossa virheellistä arvoa f(1).\n\n2 p.\n\nKun x < 1, on y =f(x) nouseva suora ja funktio f siis aidosti kasvava.\n\n1 p.\n\nKun x > 1, on f(x) polynomifunktiona derivoituva. Derivaatta on 2 x +1 > 0, eli funktio on kasvava tässä alueessa.\n\n2 p.\n\nLisäksi f(1) =-2 ja [MATH text=\\lim_{x\\rightarrow1+}f(x)=0],\n\n2 p.\n\njoten f(x) < f(y) kaikilla [MATH text=x \\le 1] ja y > 1.\n\n1 p.",
+          "exam_id": 225250,
+          "content": {
+            "text": "### Epäjatkuva funktio 12 p.\n\nOlkoon [MATH text=f: R \\rightarrow R],\n\n[MATH text=f(x)=\\begin{cases} 3x-5{,}&kun_{ }^{ }x<=1{,}\\\\ x^2+x-2{,}&kun_{ }^{ }x>1 \\end{cases}].\n\n\n\nJalmari on osoittanut seuraavalla tavalla, että [MATH text=f’(1) =3].\n\nLasketaan funktion f erotusosamäärän toispuoleiset raja-arvot kohdassa x =1. Tällöin\n\n[MATH text=\\lim_{x\\rightarrow1-}\\frac{f(x)-f(1)}{x-1}]=[MATH text=\\lim_{x\\rightarrow1-}\\frac{3x-5-(3*1-5}{x-1}]=[MATH text=\\lim_{x\\rightarrow1-}\\frac{3x-3}{x-1}]=[MATH text=\\lim_{x\\rightarrow1-}\\frac{3(x-1)}{x-1}]=[MATH text=3]\n\nja\n\n[MATH text=\\lim_{x\\rightarrow1+}\\frac{f(x)-f(1)}{x-1}] =[MATH text=\\lim_{x\\rightarrow1+}\\frac{x^2+x-2-(1^2+1-2)}{x-1}] =[MATH text=\\lim_{x\\rightarrow1+}\\frac{x^2+x-2}{x-1}] =[MATH text=\\lim_{x\\rightarrow1+}\\frac{(x-1)(x+2)}{x-1}] =[MATH text=\\lim_{x\\rightarrow1+}(x+2)=3] \n\n&NewLine;\n\nKoska erotusosamäärän toispuoleiset raja-arvot ovat yhtä suuret ja niiden yhteinen arvo on 3, niin funktio f on derivoituva kohdassa [MATH text=x =1] ja [MATH text=f’(1) =3].\n\n1. Osoita, että f ei ole jatkuva kohdassa x =1. Miksi tämä on ristiriidassa Jalmarin tuloksen kanssa? Minkä virheen Jalmari tekee todistuksessaan? **(6 p.)**\n2. Osoita, että f on monotoninen joukossa R. **(6 p.)**",
+            "displayNumber": "13."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-11-18T10:36:48.801891",
+          "max_score": null,
+          "groupping": null,
+          "id": 7180911,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "723f0566-912e-400b-85d0-c9f4ddb64e5b",
+          "order_number": 17,
+          "multipart": true,
+          "created_at": "2024-10-14T12:11:04.87611"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Laske. 2 p.\n\nAlma maksaa kuukaudessa 12 euron ennakkomaksun vedenkäytöstään. Kuuden kuukauden välein isännöitsijä lähettää todelliseen kulutukseen perustuvan tasauslaskun, jossa on huomioitu jo maksetut ennakkomaksut. Tammi–kesäkuussa Alman veden kulutus oli [MATH text=17{,}012\\ \\textrm{m}^3], ja veden hinta on [MATH text=4{,}63 euroa/m^3]. Alman tammi–kesäkuun tasauslaskun loppusumma kokonaisiksi euroiksi pyöristettynä on [GAP id=5] euroa.",
+          "deleted_at": null,
+          "feedback": "-7: Ajateltu laskuun etumerkki. (1 p.)\n\n401: Ajateltu vedenkäyttö kuukausittain. (1 p.) \n\n67: Laskettu vedenkäyttö oikein, mutta ajateltu 12 euroa kertasummana. (1 p.) \n\n19: Yhdistetty tasauslasku ja viimeinen ennakkomaksu. (1 p.) ",
+          "exam_id": 225250,
+          "content": {
+            "text": "#### Laske. 2 p.\n\nAlma maksaa kuukaudessa 12 euron ennakkomaksun vedenkäytöstään. Kuuden kuukauden välein isännöitsijä lähettää todelliseen kulutukseen perustuvan tasauslaskun, jossa on huomioitu jo maksetut ennakkomaksut. Tammi–kesäkuussa Alman veden kulutus oli [MATH text=17{,}012\\ \\textrm{m}^3], ja veden hinta on [MATH text=4{,}63 euroa/m^3]. Alman tammi–kesäkuun tasauslaskun loppusumma kokonaisiksi euroiksi pyöristettynä on [GAP id=5] euroa.",
+            "displayNumber": "1.3"
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-11-18T10:36:48.877589",
+          "max_score": 2,
+          "groupping": null,
+          "id": 7180303,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 5,
+              "hint": "2 p.",
+              "parent": "55f808f4-d29e-47a6-9d68-d8d1aa8cf104",
+              "choices": [],
+              "correct": "7|-7|401|67|19",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "55f808f4-d29e-47a6-9d68-d8d1aa8cf104",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2024-10-14T10:34:10.616884"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Yhtälöt 12 p.\n\nRatkaise muuttujien x ja y tarkat arvot seuraavista yhtälöistä.\n\n**1.** Yhtälö [MATH text=4*8^x=\\sqrt{2}]. **(4 p.)**\n\n**2.** Yhtälö [MATH text=\\sin(6y-\\frac{\\pi}{2})=1/2], kun [MATH text=y\\in][[MATH text=0{,}\\frac{\\pi}{2}]]. **(8 p.)**",
+          "deleted_at": null,
+          "feedback": "Yhtälö [MATH text=4*8^x=\\sqrt{2}] voidaan kirjoittaa muodossa [MATH text=2^2 *2^{3 x} =2^{1/2}] (tai korotettu yhtälö puolittain toiseen potenssiin),\n\n(1 p.)\n\njoka muuttuu muotoon [MATH text=2^{2 +3 x} =2^{1/2}].\n\n1 p.\n\nRiittää vertailla eksponentteja: 3 x +2 =1/2.\n\n1 p.\n\nKoska 3 x=-3/2,\n\nsaadaan x =-1/2.\n\n1 p.\n\nKoska sin x =1/2, kun[MATH text=x=\\frac{\\pi}{6}+2\\pi k] tai\n\n[MATH text=x=\\frac{5\\pi}{6}+2\\pi k] jollain kokonaisluvulla k,\n\n1 + 1 p.\n\nriittää ratkaista yhtälöt\n\n[MATH text=6y-\\frac{\\pi}{2}=\\frac{\\pi}{6}+2\\pi k] ja [MATH text=6y-\\frac{\\pi}{2}=\\frac{5\\pi}{6}+2\\pi k].\n\n1 p.\n\nEnsimmäisestä saadaan [MATH text=y-\\frac{\\pi}{9}+\\frac{\\pi }{3}] ja toisesta [MATH text=y-\\frac{2\\pi}{9}+\\frac{\\pi }{3}].\n\n2 p.\n\nRatkaisut ovat annetulla välillä, kun [MATH text=k \\in] [MATH text=k \\in {0, 1}] ensimmäisessä vaihtoehdossa ja k=0 toisessa. Ensimmäisessä on nimittäin arvoilla k < 0 voimassa y < 0 ja arvoilla [MATH text=k \\ge 2] puolestaan [MATH text=y>\\frac{\\pi}{2}] toisessa jo arvolla k =1 on  [MATH text=y>\\frac{\\pi}{2}].\n\n2 p.\n\nRatkaisut ovat siis [MATH text=y=\\frac{\\pi}{9}], [MATH text=y=\\frac{2\\pi}{9}] ja [MATH text=y=\\frac{\\pi}{9}+\\frac{\\pi}{3}=y=\\frac{4\\pi}{9}].\n\n1 p.",
+          "exam_id": 225250,
+          "content": {
+            "text": "### Yhtälöt 12 p.\n\nRatkaise muuttujien x ja y tarkat arvot seuraavista yhtälöistä.\n\n**1.** Yhtälö [MATH text=4*8^x=\\sqrt{2}]. **(4 p.)**\n\n**2.** Yhtälö [MATH text=\\sin(6y-\\frac{\\pi}{2})=1/2], kun [MATH text=y\\in][[MATH text=0{,}\\frac{\\pi}{2}]]. **(8 p.)**",
+            "displayNumber": "3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-11-18T10:36:48.823967",
+          "max_score": null,
+          "groupping": null,
+          "id": 7180372,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "ce89b7fd-8ab8-4971-92a0-b4e09d825b6f",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2024-10-14T11:30:04.885399"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Määritä luvun [MATH text=p’(1)] tarkka arvo, kun [MATH text=p(x) =-2 x^5 +x^4 -2]. 3 p.\n\n[MATH text=p’(1)] =  [SELECT id=9]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 225250,
+          "content": {
+            "text": "Määritä luvun [MATH text=p’(1)] tarkka arvo, kun [MATH text=p(x) =-2 x^5 +x^4 -2]. 3 p.\n\n[MATH text=p’(1)] =  [SELECT id=9]",
+            "displayNumber": "2.1"
+          },
+          "images": null,
+          "settings": {
+            "points": "3"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-11-18T10:36:48.826814",
+          "max_score": 3,
+          "groupping": null,
+          "id": 7180316,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 9,
+              "hint": "3 p.",
+              "parent": "e83e11b2-425c-4588-8025-97a7da7cb235",
+              "choices": [
+                {
+                  "id": "310de614-5b3f-40fa-9a6e-5ed49c5b9a6c",
+                  "text": "-12"
+                },
+                {
+                  "id": "97c1e6cb-ddf7-4285-b90c-1e5fbc15dab0",
+                  "text": "-11"
+                },
+                {
+                  "id": "30365185-cfc6-48b2-8840-69c1682148ca",
+                  "text": "-10"
+                },
+                {
+                  "id": "c474e267-9c7a-4f38-8539-3432cade05df",
+                  "text": "-9"
+                },
+                {
+                  "id": "3afc7ff2-3087-4d39-9d5a-3585b1390bec",
+                  "text": "-8"
+                },
+                {
+                  "id": "29b6ba2b-ed6a-4f97-8022-6ee19d6d818a",
+                  "text": "-7"
+                },
+                {
+                  "id": "ff76f8c7-d772-4692-94c4-e6e9459d4b97",
+                  "text": "-6",
+                  "correct": true
+                },
+                {
+                  "id": "8acb69d8-17d7-47cc-9059-70c61b2dba55",
+                  "text": "-5"
+                },
+                {
+                  "id": "69203955-7185-41d2-9c22-6eb4350a36c6",
+                  "text": "-4"
+                },
+                {
+                  "id": "c8f88ce6-7e05-490c-803e-85315a425352",
+                  "text": "-3"
+                },
+                {
+                  "id": "b221f64d-7f0b-4b75-a28d-550080229114",
+                  "text": "-2"
+                },
+                {
+                  "id": "ae374133-0cae-4f8d-996e-11ce650db092",
+                  "text": "-1"
+                },
+                {
+                  "id": "51c67694-08de-4b1a-b48d-81f6b8e845d8",
+                  "text": "0"
+                },
+                {
+                  "id": "b75cccc4-a8c2-4f90-b1d1-5143ed849c92",
+                  "text": "1"
+                },
+                {
+                  "id": "ff55198c-5fc8-4d3b-bd1d-eb3654e6fbf3",
+                  "text": "2"
+                },
+                {
+                  "id": "064ebae9-72a2-402e-a59f-4b7eee375b31",
+                  "text": "3"
+                },
+                {
+                  "id": "5189b416-c484-4aa5-96db-919e4634791c",
+                  "text": "4"
+                },
+                {
+                  "id": "64da2161-b512-468f-98e4-96c07e1d16c9",
+                  "text": "5"
+                },
+                {
+                  "id": "3465c879-6d49-4225-9125-e13505fe36b4",
+                  "text": "6"
+                },
+                {
+                  "id": "7c530441-9549-4e74-9e9a-5fb33a5af374",
+                  "text": "7"
+                },
+                {
+                  "id": "2066bf21-85c7-472c-9770-6357e9c63786",
+                  "text": "8"
+                },
+                {
+                  "id": "82b5e86f-df77-4165-ae96-b907877e403a",
+                  "text": "9"
+                },
+                {
+                  "id": "f6828281-5789-4107-baf7-ae29d3e50a9e",
+                  "text": "10"
+                },
+                {
+                  "id": "d83568d0-74e2-416d-bffa-0ed5cc3556d8",
+                  "text": "11"
+                },
+                {
+                  "id": "477ed48b-805e-4aba-bac7-f2ac7aa7d9bb",
+                  "text": "12"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "e83e11b2-425c-4588-8025-97a7da7cb235",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2024-10-14T10:38:27.960814"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Veteen putoava kivi 12 p.\n\nMallinnetaan veteen pudonneen kiven aiheuttamia aaltoja funktiolla [MATH text=f:R^2\\rightarrow R], missä [MATH text=f(x{,}y)=\\frac{\\sin\\sqrt{x^2+y^2}}{\\sqrt{x^2+y^2}}], kun [MATH text=(x{,}y)\\ne(0{,}0)], ja [MATH text=f(0, 0) =1].\n\n1. Etsi kaksi muuta pistettä, joissa funktion arvo on sama kuin pisteessä (3, 4). **(6 p.)**\n2. Osoita, että jokaiselta xy-tason suoralta löytyy funktion nollakohta. **(6 p.)**\n\n\n",
+          "deleted_at": null,
+          "feedback": "Funktion arvo määräytyy vain lausekkeen [MATH text=\\sqrt{x^2 +y^2}] perusteella.\n\n1 p.\n\nKoska [MATH text=\\sqrt{3^2 +4^2} =5], riittää löytää kaksi muuta pistettä, jotka toteuttavat ehdon [MATH text=\\sqrt{x^2 +y^2} =5].\n\n2 p.\n\nVoidaan valita esimerkiksi (4, 3) ja (5, 0),\n\n2 p.\n\nsillä [MATH text=\\sqrt{4^2 +3^2} =5] ja [MATH text=\\sqrt{5^2 +0^2} =5].\n\n1 p.\n\nKun [MATH text=\\sqrt{x^2 +y^2}=k \\pi] ja [MATH text=k ]on positiivinen kokonaisluku, on [MATH text=f(x, y) =0].\n\n2 p.\n\nFunktio saa siis arvon nolla kaikilla niillä ympyröillä, joiden säde on [MATH text=\\pi k], missä k on positiivinen kokonaisluku.\n\n2 p.\n\nMikä tahansa tason suora leikkaa väistämättä jotakin tällaista ympyrää, joten suoralta löytyy funktion nollakohta.\n\n2 p.",
+          "exam_id": 225250,
+          "content": {
+            "text": "### Veteen putoava kivi 12 p.\n\nMallinnetaan veteen pudonneen kiven aiheuttamia aaltoja funktiolla [MATH text=f:R^2\\rightarrow R], missä [MATH text=f(x{,}y)=\\frac{\\sin\\sqrt{x^2+y^2}}{\\sqrt{x^2+y^2}}], kun [MATH text=(x{,}y)\\ne(0{,}0)], ja [MATH text=f(0, 0) =1].\n\n1. Etsi kaksi muuta pistettä, joissa funktion arvo on sama kuin pisteessä (3, 4). **(6 p.)**\n2. Osoita, että jokaiselta xy-tason suoralta löytyy funktion nollakohta. **(6 p.)**\n\n\n",
+            "displayNumber": "6."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-11-18T10:36:48.82961",
+          "max_score": null,
+          "groupping": null,
+          "id": 7180422,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "019b432f-6a97-47b0-b8a8-13a4a0cc3d01",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2024-10-14T11:39:11.257925"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Integraali 12 p.\n\nFunktion f : [0, [MATH text=\\infty]) [MATH text=\\rightarrow] [0, [MATH text=\\infty]) arvo f(x) on luvun x kokonaislukuosa. Esimerkiksi [MATH text=f(1) =1], [MATH text=f(\\frac{11}{5})=2] ja [MATH text=f(\\pi) =3]. Laske\n\n[MATH text=\\int_0^{10}f\\left(x\\right)dx].",
+          "deleted_at": null,
+          "feedback": "Integraali mittaa funktion ja x-akselin väliin jäävän alueen pinta-alaa.\n\n2 p.\n\nKyseessä on porrasfunktio, jonka arvo välillä [0, 1) on 0, välillä [1, 2) arvo on 1, ja yleisesti välillä [k, k +1) arvo on k, kun [MATH text=k \\ge 0] on kokonaisluku.\n\n2 p.\n\nJokaisen tällaisen välin pituus on 1.\n\n2 p.\n\nFunktion arvo f(10) =10 integrointivälin päätepisteessä, mutta tämä yksittäinen arvo ei vaikuta pinta-alaan.Laskettava pinta-ala koostuu siis suorakulmioista, joiden koko on 1 x k, missä [MATH text=k \\in] {0, 1, 2, …, 9}.\n\n2 p.\n\nYhteenlaskettu ala on siis [MATH text=0 *1 +1 *1 +2 *1 +3 *1 + … +9 *1]\n\n2 p.\n\n=45.\n\n2 p.",
+          "exam_id": 225250,
+          "content": {
+            "text": "### Integraali 12 p.\n\nFunktion f : [0, [MATH text=\\infty]) [MATH text=\\rightarrow] [0, [MATH text=\\infty]) arvo f(x) on luvun x kokonaislukuosa. Esimerkiksi [MATH text=f(1) =1], [MATH text=f(\\frac{11}{5})=2] ja [MATH text=f(\\pi) =3]. Laske\n\n[MATH text=\\int_0^{10}f\\left(x\\right)dx].",
+            "displayNumber": "4."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-11-18T10:36:48.832586",
+          "max_score": null,
+          "groupping": null,
+          "id": 7180389,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "1eecaaf7-152b-41f2-a92a-adc6972294e1",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2024-10-14T11:33:18.619055"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Summan arviointi 12 p.\n\n**1.** Osoita, että[MATH text=\\frac{(k-1)}{(k2^k+1)}<\\frac{1}{2^k}] kaikilla positiivisilla kokonaisluvuilla k. **(4 p.)**\n\n**2.** Osoita, että [MATH text=\\sum_{k=2}^n\\frac{k-1}{k2^k+1}<\\frac{1}{2}] kaikilla kokonaisluvuilla [MATH text=n\\ge2]. **(8 p.)**",
+          "deleted_at": null,
+          "feedback": "Tehtävänannon epäyhtälö on yhtäpitävä epäyhtälön[MATH text= (k -1) 2^k < k 2^k +1] kanssa.\n\n1 p.\n\nEpäyhtälö sievenee muotoon [MATH text=-2^k < 1].\n\n1 p.\n\nKoska vasen puoli on negatiivinen ja oikea positiivinen, on epäyhtälö tosi.\n\n2 p.\n\nTAI\n\nArvioidaan \n\n[MATH text=\\frac{k-1}{k2^k+1}<\\frac{k}{k2^k+1}<\\frac{k}{k2^k}=\\frac{1}{2^k}].\n\n4 p.\n\nSoveltamalla edellisen kohdan epäyhtälöä saadaan \n\n[MATH text=\\sum_{k=2}^n\\frac{k-1}{k2^k+1}<\\sum_{k=2}^n\\frac{1}{2^k}][MATH text==\\frac{1}{2^2}\\sum_{k=0}^{n-2}\\frac{1}{2^k}].\n\n3 p.\n\nGeometrisen jonon summakaavalla tälle saadaan arvo [MATH text=\\frac{1}{2^2}\\cdot\\frac{1-\\frac{1}{2^{n-1}}}{1-\\frac{1}{2}}].\n\n3 p.\n\nKoska  [MATH text=\\frac{1}{2^2}\\cdot\\frac{1-\\frac{1}{2^{n-1}}}{1-\\frac{1}{2}}] =[MATH text=\\frac{1}{2}\\left(1-\\frac{1}{2^{n-1}}\\right)<\\frac{1}{2}], on väite todistettu.\n\n2 p.",
+          "exam_id": 225250,
+          "content": {
+            "text": "### Summan arviointi 12 p.\n\n**1.** Osoita, että[MATH text=\\frac{(k-1)}{(k2^k+1)}<\\frac{1}{2^k}] kaikilla positiivisilla kokonaisluvuilla k. **(4 p.)**\n\n**2.** Osoita, että [MATH text=\\sum_{k=2}^n\\frac{k-1}{k2^k+1}<\\frac{1}{2}] kaikilla kokonaisluvuilla [MATH text=n\\ge2]. **(8 p.)**",
+            "displayNumber": "5."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-11-18T10:36:48.835225",
+          "max_score": null,
+          "groupping": null,
+          "id": 7180405,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "438a96c9-d63a-4608-a7ba-f2390eba6950",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2024-10-14T11:36:20.576258"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Laske. 2 p.\n\nJuna lähtee Oulusta kello 9.48 ja on perillä Helsingissä kello 15.25. Junamatkan kesto on [GAP id=1] tuntia ja [GAP id=2] minuuttia.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 225250,
+          "content": {
+            "text": "#### Laske. 2 p.\n\nJuna lähtee Oulusta kello 9.48 ja on perillä Helsingissä kello 15.25. Junamatkan kesto on [GAP id=1] tuntia ja [GAP id=2] minuuttia.",
+            "displayNumber": "1.1"
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-11-18T10:36:48.837916",
+          "max_score": 4,
+          "groupping": null,
+          "id": 7180301,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "hint": "1 p. ",
+              "parent": "578f3780-94bc-42c3-a01f-ee72eb44ffb5",
+              "choices": [],
+              "correct": "5",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 2,
+              "hint": "1 p. ",
+              "parent": "578f3780-94bc-42c3-a01f-ee72eb44ffb5",
+              "choices": [],
+              "correct": "37",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "578f3780-94bc-42c3-a01f-ee72eb44ffb5",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2024-10-14T10:34:10.61189"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Laske. 2 p.\n\nHarrin palkka on 4200 euroa kuukaudessa. Hänen palkastaan vähennetään 33 % ennakonpidätystä, joka sisältää pakolliset eläke- ja työttömyysvakuutusmaksut. Harrin nettopalkka euron tarkkuudella on [GAP id=4] euroa.",
+          "deleted_at": null,
+          "feedback": "Virheellinen vastaus 2905 antaa pisteen (laskettu periaatteella [MATH text=4200\\cdot (1-0\\mathrm{,}24)(1-0\\mathrm{,}09) \\approx 2905)].",
+          "exam_id": 225250,
+          "content": {
+            "text": "#### Laske. 2 p.\n\nHarrin palkka on 4200 euroa kuukaudessa. Hänen palkastaan vähennetään 33 % ennakonpidätystä, joka sisältää pakolliset eläke- ja työttömyysvakuutusmaksut. Harrin nettopalkka euron tarkkuudella on [GAP id=4] euroa.",
+            "displayNumber": "1.2"
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-11-18T10:36:48.840569",
+          "max_score": 2,
+          "groupping": null,
+          "id": 7180302,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 4,
+              "hint": "2 p.",
+              "parent": "aed7e47c-ac37-4840-8a3e-3e3c43428f9e",
+              "choices": [],
+              "correct": "2814",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "aed7e47c-ac37-4840-8a3e-3e3c43428f9e",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2024-10-14T10:34:10.614746"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Geometrinen juoksuharjoittelu 12 p.\n\n#### Aineisto\n\n7.A Kuva: [LINK text=Juoksureitti|url=https://yle.fi/plus/abitreenit/2024/syksy/matematiikka_pitka/attachments/index.html#7.A]\n\n&NewLine;\n\nMatematiikan opettaja testasi älykelloaan juoksulenkillä. Tuloksena oli 5,85 kilometrin pituinen reitti, joka on esitetty kuvassa 7.A. Opettaja haluaa arvioida reitin sisälle jäävien kaupunginosien pinta-alaa. Hän mallintaa reittiä kolmiona, jonka sivujen pituuksien suhteet ovat 6 : 7 : 9 ja jonka piiri on 5,85 km.\n\n1. Määritä mallikolmion suurin kulma asteina neljän merkitsevän numeron tarkkuudella. **(6 p.)**\n2. Määritä mallikolmion pinta-ala hehtaareina. **(6 p.)**",
+          "deleted_at": null,
+          "feedback": "Valitaan suhdeluvut 6, 7 ja 9 kolmion sivujen pituuksiksi. Määritetään sivujen 6 ja 7 välinen kulma.\n\n1 p.\n\nKosinilauseella:\nSivujen 6 ja 7 välinen kulma olkoon [MATH text=\\alpha]. Se toteuttaa ehdon [MATH text=9^2=6^2+7^2-2\\cdot 6\\cdot 7\\cdot \\cos \\alpha].\n\n3 p.\n\nEsimerkiksi SOLVE-komennolla saadaan [MATH text=\\alpha\\approx 87\\mathrm{,}27^{\\circ}].\n\n2 p.\n\nTAI\n\nValitaan suhdeluvut 6, 7 ja 9 kolmion sivujen pituuksiksi. Määritetään sivujen 6 ja 7 välinen kulma.\n\n1 p.\n\nKonstruoidaan esimerkiksi GeoGebralla kolmio piirtämällä ensin jana, jonka pituus on 9. Piirretään sen yhteen päätepisteeseen 6-säteinen ympyrä ja toiseen päätepisteeseen 7-säteinen ympyrä. Ympyröiden leikkauspiste määrittää kolmion kolmannen kärkipisteen. Mitataan kulmat Geogebran kulmanmittaustyökalulla.\n\n&NewLine;\n[IMS id=39-1363788670e10dca4369]\nKulma on [MATH text=87\\mathrm{,}27^{\\circ}]\n\n5 p.\n\n**Käyttäen siniä:**\n\nKäyttäen siniä:\nKoska kolmion sivujen summa on 6+7+9=22\n\n1 p.\n\nja tämä vastaa [MATH text=5\\mathrm{,}85] km lenkkiä, on yksi yksikkö kuvassa [MATH text=\\frac{5\\mathrm{,}85}{22}] km luonnossa.\n\n1 p.\n\nSivujen 6 ja 7 välinen kulma on [MATH text=87\\mathrm{,}27^{\\circ}]. Kolmion ala on siis [MATH text=\\frac{1}{2}\\cdot 6\\cdot 7\\cdot \\sin(87\\mathrm{,}27^{\\circ})\\cdot \\left(\\frac{5\\mathrm{,}85}{22}\\right)^2\\approx 1\\mathrm{,}48 km^2]\n\n2 p.\n\n=148 hehtaaria.\n\n2 p.\n\nTAI\n\nKäyttäen siniä ratkaisematta välissä olevaa kulmaa:\nKoska kolmion sivujen summa on 6+7+9=22\n\n1 p.\n\nja tämä vastaa [MATH text=5\\mathrm{,}85] km lenkkiä, niin yksi yksikkö kuvassa vastaa [MATH text=\\frac{5\\mathrm{,}85}{22}] km luonnossa.\n\n1 p.\n\nSivujen 6 ja 7 välisen kulman kosini toteuttaa yhtälön [MATH text=9^2=6^2+7^2-2\\cdot 6\\cdot 7\\cdot \\cos \\alpha] eli [MATH text=\\cos \\alpha=\\frac{1}{21}]. Siispä sinin arvo on [MATH text=\\frac{\\sqrt{440}}{21}]. Kolmion ala on siis [MATH text=\\frac{1}{2}\\cdot 6\\cdot 7\\cdot \\frac{\\sqrt{440}}{21} \\cdot \\left(\\frac{5\\mathrm{,}85}{22}\\right)^2\\approx 1\\mathrm{,}48 km^2]\n\n2 p.\n\n=148 hehtaaria.\n\n2 p.\n\nTAI\n\nMitataan kolmion pinta-ala GeoGebran monikulmiotyökalulla. Saadaan pinta-alaksi [MATH text=20\\mathrm{,}9762] yksikköä.\n[IMS id=39-1363794670e12a5253f2]\n1 p.\n\nKoska kolmion sivujen summa on 6+7+9=22\n\n1 p.\n\nja tämä vastaa [MATH text=5\\mathrm{,}85] km lenkkiä, niin yksi yksikkö kuvassa vastaa [MATH text=\\frac{5\\mathrm{,}85}{22}] km luonnossa.\n\n1 p.\n\nKolmion ala on siis [MATH text=20\\mathrm{,}9762\\cdot \\left(\\frac{5\\mathrm{,}85}{22}\\right)^2\\approx 1\\mathrm{,}48 km^2]\n\n1 p.\n\n=148 hehtaaria.\n\n2 p.",
+          "exam_id": 225250,
+          "content": {
+            "text": "### Geometrinen juoksuharjoittelu 12 p.\n\n#### Aineisto\n\n7.A Kuva: [LINK text=Juoksureitti|url=https://yle.fi/plus/abitreenit/2024/syksy/matematiikka_pitka/attachments/index.html#7.A]\n\n&NewLine;\n\nMatematiikan opettaja testasi älykelloaan juoksulenkillä. Tuloksena oli 5,85 kilometrin pituinen reitti, joka on esitetty kuvassa 7.A. Opettaja haluaa arvioida reitin sisälle jäävien kaupunginosien pinta-alaa. Hän mallintaa reittiä kolmiona, jonka sivujen pituuksien suhteet ovat 6 : 7 : 9 ja jonka piiri on 5,85 km.\n\n1. Määritä mallikolmion suurin kulma asteina neljän merkitsevän numeron tarkkuudella. **(6 p.)**\n2. Määritä mallikolmion pinta-ala hehtaareina. **(6 p.)**",
+            "displayNumber": "7."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-11-18T10:36:48.843383",
+          "max_score": null,
+          "groupping": null,
+          "id": 7180775,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "d629d31e-64b5-4040-83cd-635475f33934",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2024-10-14T11:49:39.515328"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Määritä derivaatta [MATH text=h’(x)], kun [MATH text=h(x) =sin x +cos (3 x)]. 3 p.\n\n[MATH text=h’(x)] = [SELECT id=12]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 225250,
+          "content": {
+            "text": "Määritä derivaatta [MATH text=h’(x)], kun [MATH text=h(x) =sin x +cos (3 x)]. 3 p.\n\n[MATH text=h’(x)] = [SELECT id=12]",
+            "displayNumber": "2.4"
+          },
+          "images": null,
+          "settings": {
+            "points": "3"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-11-18T10:36:48.84623",
+          "max_score": 3,
+          "groupping": null,
+          "id": 7180358,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 12,
+              "hint": "3 p.",
+              "parent": "51692373-b523-4314-96f6-be2b30434a49",
+              "choices": [
+                {
+                  "id": "fd51a5e4-7a82-45c7-8186-6e76dd4b9a59",
+                  "text": "cos(x) –sin(3 x)"
+                },
+                {
+                  "id": "8bd588b0-3d32-41df-ab05-574f1a9a46e8",
+                  "text": "-cos(x) +sin(3 x)"
+                },
+                {
+                  "id": "f3bf05aa-2788-46aa-a6c9-c4ced7c4332d",
+                  "text": "cos(x) -3sin(3 x)",
+                  "correct": true
+                },
+                {
+                  "id": "be23085f-72f7-4cb3-997f-38fd5ac7c069",
+                  "text": "-cos(x) +3sin(3 x)"
+                },
+                {
+                  "id": "f6b10784-af4b-4fdf-abed-4da3bf730efb",
+                  "text": "cos(x) -1/3 sin(3 x)"
+                },
+                {
+                  "id": "bdb4eae1-5725-4bec-bfac-fbd4c1e28acf",
+                  "text": "-cos(x) +1/3 sin(3 x)"
+                },
+                {
+                  "id": "a5703068-8257-408b-b925-dab5ca8e43bc",
+                  "text": "cos(x) -3sin(x)"
+                },
+                {
+                  "id": "12034419-2ded-4f62-8504-bb9fe9e5fa89",
+                  "text": "-cos(x) +3sin(x)"
+                },
+                {
+                  "id": "187e46d6-535c-4a25-a737-3cdb9c80f4c8",
+                  "text": "ei mikään ylläolevista"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "51692373-b523-4314-96f6-be2b30434a49",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2024-10-14T11:26:06.820743"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "*Kokeen tehtävät loppuvat tähän.*",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 225250,
+          "content": {
+            "text": "*Kokeen tehtävät loppuvat tähän.*"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-11-18T10:36:48.848857",
+          "max_score": null,
+          "groupping": null,
+          "id": 7180993,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "1f5456cf-e914-43ae-bdcb-c922659d9f75",
+          "order_number": 18,
+          "multipart": true,
+          "created_at": "2024-10-14T12:17:56.114444"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Määritä luvun [MATH text=g’(-1)] tarkka arvo, kun [MATH text=g(x) =ln (2 x +3)]. 3 p.\n\n&NewLine;\n\n[MATH text=g’(-1)] =  [SELECT id=11]\n\n#### \n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 225250,
+          "content": {
+            "text": "Määritä luvun [MATH text=g’(-1)] tarkka arvo, kun [MATH text=g(x) =ln (2 x +3)]. 3 p.\n\n&NewLine;\n\n[MATH text=g’(-1)] =  [SELECT id=11]\n\n#### \n",
+            "displayNumber": "2.3"
+          },
+          "images": null,
+          "settings": {
+            "points": "3"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-11-18T10:36:48.851472",
+          "max_score": 3,
+          "groupping": null,
+          "id": 7180357,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 11,
+              "hint": "3 p.",
+              "parent": "6d8143c3-7c51-467d-a620-7168a9dfb523",
+              "choices": [
+                {
+                  "id": "d6863487-7e25-492d-a74f-ad410bd96747",
+                  "text": "1"
+                },
+                {
+                  "id": "c636aa1f-024a-4573-a656-7f9d516346c3",
+                  "text": "2",
+                  "correct": true
+                },
+                {
+                  "id": "a081b9de-90e2-4044-822c-4ca11d9d8715",
+                  "text": "5"
+                },
+                {
+                  "id": "a821c9d4-e6da-4258-8711-2c3228bd5dfa",
+                  "text": "ln 1"
+                },
+                {
+                  "id": "e123ad2f-eb8f-439d-bc55-5554f67600f3",
+                  "text": "ln 5"
+                },
+                {
+                  "id": "b09715f0-1409-44e2-8576-2933ee73b671",
+                  "text": "2 ln 1"
+                },
+                {
+                  "id": "a31060be-f9a4-42b4-a780-9a48550fbd06",
+                  "text": "2 ln 5"
+                },
+                {
+                  "id": "2183bc0e-0c8d-425d-a427-27e501023740",
+                  "text": "ei mikään ylläolevista"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "6d8143c3-7c51-467d-a620-7168a9dfb523",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2024-10-14T11:26:06.816664"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "## B2-osa\n\nVastaa kahteen tehtävään.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 225250,
+          "content": {
+            "text": "## B2-osa\n\nVastaa kahteen tehtävään."
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-11-18T10:36:48.854171",
+          "max_score": null,
+          "groupping": null,
+          "id": 7180882,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "c301971a-05e1-47a0-92ad-ff149170d4ee",
+          "order_number": 14,
+          "multipart": true,
+          "created_at": "2024-10-14T12:08:02.581383"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Laske. 2 p.\n\nKokeiden arvostelu kestää kolmelta opettajalta yhteensä 12 tuntia. Neljältä opettajalta samaan urakkaan menisi [GAP id=6] tuntia. Jokainen opettaja arvostelee kokeensa itsenäisesti ja samalla nopeudella.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 225250,
+          "content": {
+            "text": "#### Laske. 2 p.\n\nKokeiden arvostelu kestää kolmelta opettajalta yhteensä 12 tuntia. Neljältä opettajalta samaan urakkaan menisi [GAP id=6] tuntia. Jokainen opettaja arvostelee kokeensa itsenäisesti ja samalla nopeudella.",
+            "displayNumber": "1.4"
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-11-18T10:36:48.856885",
+          "max_score": 2,
+          "groupping": null,
+          "id": 7180304,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 6,
+              "hint": "2 p.",
+              "parent": "9b50cefa-2860-49bf-afe9-b7cbbb0e497c",
+              "choices": [],
+              "correct": "9",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "9b50cefa-2860-49bf-afe9-b7cbbb0e497c",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2024-10-14T10:34:10.619283"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "## B1-osa\n\nVastaa kolmeen tehtävään.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 225250,
+          "content": {
+            "text": "## B1-osa\n\nVastaa kolmeen tehtävään."
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-11-18T10:36:48.859595",
+          "max_score": null,
+          "groupping": null,
+          "id": 7180774,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "1549333b-cb3b-43a8-b95c-0c1860915cb0",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2024-10-14T11:49:39.513037"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Voit käydä tarkastelemassa A-osan vastauksiasi nyt.\nPalautettuasi A-osan et voi enää muokata A-osan vastauksia.\n\n\n\n(Ominaisuus ei ole käytössä Abitreenien harjoituskokeessa.)",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 225250,
+          "content": {
+            "text": "Voit käydä tarkastelemassa A-osan vastauksiasi nyt.\nPalautettuasi A-osan et voi enää muokata A-osan vastauksia.\n\n\n\n(Ominaisuus ei ole käytössä Abitreenien harjoituskokeessa.)"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-11-18T10:36:48.862325",
+          "max_score": null,
+          "groupping": null,
+          "id": 7180440,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "ca8b9749-4651-43f5-91aa-a597abc90727",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2024-10-14T11:40:08.533538"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Laske. 2 p.\n\nVektoreiden [MATH text=\\overline{a}=3\\overline{i}+4\\overline{j}] ja [MATH text=\\overline{b}=2\\overline{i}+8\\overline{j}] pistetulo on [MATH text=\\overline{a}\\cdot\\overline{b}=][GAP id=8]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 225250,
+          "content": {
+            "text": "#### Laske. 2 p.\n\nVektoreiden [MATH text=\\overline{a}=3\\overline{i}+4\\overline{j}] ja [MATH text=\\overline{b}=2\\overline{i}+8\\overline{j}] pistetulo on [MATH text=\\overline{a}\\cdot\\overline{b}=][GAP id=8]",
+            "displayNumber": "1.6"
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-11-18T10:36:48.864914",
+          "max_score": 1,
+          "groupping": null,
+          "id": 7180306,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 8,
+              "hint": "2 p.",
+              "parent": "52a0c724-b1fb-4d98-ac73-171925782a10",
+              "choices": [],
+              "correct": "38",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "52a0c724-b1fb-4d98-ac73-171925782a10",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2024-10-14T10:34:10.624419"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Määritä derivaatta [MATH text=f’(x)], kun [MATH text= f(x) =x e^x]. 3 p.\n\n[MATH text=f’(x)]=[SELECT id=10]\n\n&NewLine;\n\na) [MATH text=e^x]\n\nb) [MATH text=x e^x]\n\nc) [MATH text=x^2 e^x]\n\nd) [MATH text=x^2 e^(x-1)]\n\ne) [MATH text=(x +1) e^x]\n\nf) [MATH text=1 +e^x]\n\ng) [MATH text=x +e^x]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 225250,
+          "content": {
+            "text": "Määritä derivaatta [MATH text=f’(x)], kun [MATH text= f(x) =x e^x]. 3 p.\n\n[MATH text=f’(x)]=[SELECT id=10]\n\n&NewLine;\n\na) [MATH text=e^x]\n\nb) [MATH text=x e^x]\n\nc) [MATH text=x^2 e^x]\n\nd) [MATH text=x^2 e^(x-1)]\n\ne) [MATH text=(x +1) e^x]\n\nf) [MATH text=1 +e^x]\n\ng) [MATH text=x +e^x]",
+            "displayNumber": "2.2"
+          },
+          "images": null,
+          "settings": {
+            "points": "3"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-11-18T10:36:48.867697",
+          "max_score": 3,
+          "groupping": null,
+          "id": 7180327,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 10,
+              "hint": "3 p.",
+              "parent": "72beafa4-0f8f-423e-a475-dbfed17a3ca9",
+              "choices": [
+                {
+                  "id": "44f35f16-163a-411f-8b2d-03aef2d6f99f",
+                  "text": "a)"
+                },
+                {
+                  "id": "e8db3eec-00e4-4264-8ee9-2d3e49d43218",
+                  "text": "b)"
+                },
+                {
+                  "id": "a78dd657-c378-4dc3-84b5-f0e39b00bfb7",
+                  "text": "c)"
+                },
+                {
+                  "id": "be721879-2379-4493-84d9-58caf4d5c5db",
+                  "text": "d)"
+                },
+                {
+                  "id": "5ed7b4dc-629d-452f-b41b-626c62b2e6f7",
+                  "text": "e)",
+                  "correct": true
+                },
+                {
+                  "id": "2742210d-6086-47ce-a830-da920d24bc24",
+                  "text": "f)"
+                },
+                {
+                  "id": "3b430422-a592-4260-9f18-b132846bcd9e",
+                  "text": "g)"
+                },
+                {
+                  "id": "f04914e1-b6d6-4ba9-8f29-e09940e4199a",
+                  "text": "ei mikään ylläolevista"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "72beafa4-0f8f-423e-a475-dbfed17a3ca9",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2024-10-14T10:42:02.915071"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Derivaattoja 12 p.\n\nValitse oikea vaihtoehto. Vastauksia ei tarvitse perustella. Oikea vastaus 3 p., väärä vastaus 0 p., ei vastausta 0 p.\n\n&NewLine;\n\nJos olet aloittanut tehtävään vastaamisen, mutta et haluakaan jättää tehtävää arvosteltavaksi, poista vastauksesi valitsemalla pudotusvalikosta tyhjä rivi.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 225250,
+          "content": {
+            "text": "### Derivaattoja 12 p.\n\nValitse oikea vaihtoehto. Vastauksia ei tarvitse perustella. Oikea vastaus 3 p., väärä vastaus 0 p., ei vastausta 0 p.\n\n&NewLine;\n\nJos olet aloittanut tehtävään vastaamisen, mutta et haluakaan jättää tehtävää arvosteltavaksi, poista vastauksesi valitsemalla pudotusvalikosta tyhjä rivi.",
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "e83e11b2-425c-4588-8025-97a7da7cb235",
+            "72beafa4-0f8f-423e-a475-dbfed17a3ca9",
+            "6d8143c3-7c51-467d-a620-7168a9dfb523",
+            "51692373-b523-4314-96f6-be2b30434a49"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-11-18T10:36:48.869773",
+          "max_score": null,
+          "groupping": null,
+          "id": 7180315,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "b0fb96c7-7bc0-46ae-8d89-8e607c15adf1",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2024-10-14T10:38:27.95798"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Peruslaskuja 12 p.\n\nKirjoita tämän tehtävän vastauskenttiin pelkät laskujen lopputulokset ilman välivaiheita ja perusteluja. Jokaisen osatehtävän vastaus on kokonaisluku.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 225250,
+          "content": {
+            "text": "### Peruslaskuja 12 p.\n\nKirjoita tämän tehtävän vastauskenttiin pelkät laskujen lopputulokset ilman välivaiheita ja perusteluja. Jokaisen osatehtävän vastaus on kokonaisluku.",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "578f3780-94bc-42c3-a01f-ee72eb44ffb5",
+            "aed7e47c-ac37-4840-8a3e-3e3c43428f9e",
+            "55f808f4-d29e-47a6-9d68-d8d1aa8cf104",
+            "9b50cefa-2860-49bf-afe9-b7cbbb0e497c",
+            "8a183600-764f-4009-a24e-54ac3aee7a0c",
+            "52a0c724-b1fb-4d98-ac73-171925782a10"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-11-18T10:36:48.871978",
+          "max_score": null,
+          "groupping": null,
+          "id": 7180300,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "acf3a534-526e-45d7-9f87-a4801ce95044",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2024-10-14T10:34:10.609454"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Laske. 2 p.\n\nYhtälön |x -1| =3 negatiivinen ratkaisu on x = [GAP id=7].",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 225250,
+          "content": {
+            "text": "#### Laske. 2 p.\n\nYhtälön |x -1| =3 negatiivinen ratkaisu on x = [GAP id=7].",
+            "displayNumber": "1.5"
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-11-18T10:36:48.874911",
+          "max_score": 1,
+          "groupping": null,
+          "id": 7180305,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 7,
+              "hint": "2 p.",
+              "parent": "8a183600-764f-4009-a24e-54ac3aee7a0c",
+              "choices": [],
+              "correct": "-2",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "8a183600-764f-4009-a24e-54ac3aee7a0c",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2024-10-14T10:34:10.622186"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "## A-osa\n\nVastaa viiteen tehtävään.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 225250,
+          "content": {
+            "text": "## A-osa\n\nVastaa viiteen tehtävään."
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-11-18T10:36:48.880168",
+          "max_score": null,
+          "groupping": null,
+          "id": 7180299,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "dd408998-4bd0-4762-80ee-5310cc7f4f2c",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2024-10-14T10:34:10.605642"
+        }
+      ],
+      "name": "Matematiikka, pitkä oppimäärä syksy 2024",
+      "settings": {},
+      "exam_type": "yo-koe",
+      "classification": {
+        "category": "",
+        "disable_saving": false,
+        "hide_review_buttons": false,
+        "exam_type": "yo-koe",
+        "year": "2024",
+        "language": "fi-FI",
+        "hide_statistics": false,
+        "show_exam_series": false,
+        "force_yletunnus": false,
+        "subject": "matematiikka-pitkä",
+        "published": true,
+        "semester": "fall"
+      },
+      "published_at": "2024-10-15T08:19:08.000Z",
+      "language": "fi-FI",
+      "id": 225250,
+      "reviews": [],
+      "is_open": true,
+      "uuid": "f54e231b-0343-472b-9736-ed2e1e45ffdb"
+    }
+  ]
+}

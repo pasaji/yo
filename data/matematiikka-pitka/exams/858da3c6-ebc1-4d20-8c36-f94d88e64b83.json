@@ -1,0 +1,601 @@
+{
+  "meta": {
+    "count": 1
+  },
+  "data": [
+    {
+      "tags": [
+        ""
+      ],
+      "main_text": "Koe koostuu 13 tehtävästä, joista vastataan kymmeneen. Tehtävät on jaettu kolmeen osaan. A-osassa on neljä kaikille pakollista tehtävää. B1-osassa on viisi tehtävää, joista vastataan kolmeen. B2-osassa on neljä tehtävää, joista vastataan kolmeen. Kaikki tehtävät arvostellaan pistein 0–12, joten kokeen maksimipistemäärä on 120.\n\n&NewLine;\n\nA-osassa saat käyttää koejärjestelmässä olevaa taulukkokirjaa ja perusohjelmia. A-osa palautetaan tehtävän 4 jälkeen olevalla painikkeella. Tämän jälkeen A-osan vastauksia ei voi enää muokata. A-osan palauttamisen jälkeen kaikki koejärjestelmän ohjelmat ovat käytettävissäsi. Voit vastata B-osien tehtäviin myös ennen A-osan palauttamista.\n\n&NewLine;\n\nUseimmissa tehtävissä kaikkien osatehtävien vastaukset kirjoitetaan samaan vastauskenttään. Jaottele vastauksesi osatehtävien mukaisesti. Halutessasi voit tuottaa vastausten tueksi piirroksia, kaavioita tai taulukoita ja liittää niistä kuvakaappauksen mihin tahansa tekstivastaukseen.\n\n&NewLine;\n\nÄlä jätä mitään merkintöjä sellaisen tehtävän vastaukselle varattuun tilaan, jota et halua jättää arvosteltavaksi.",
+      "characters": null,
+      "deleted_at": null,
+      "series_uuids": [],
+      "questions": [
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Piste hukassa 12 p.\n\nTason pisteen C etäisyys pisteestä A =(5, 4) on [MATH text=\\sqrt{ 20}] ja etäisyys pisteestä B =(8, -2) on [MATH text=\\sqrt{65 }]. Lisäksi pisteen C etäisyys pisteen B kautta kulkevasta, vektorin [MATH text=5\\overline{i}+2\\overline{j}] suuntaisesta suorasta s on alle 7. Määritä pisteen C koordinaatit sekä pisteen C tarkka etäisyys suorasta s.",
+          "deleted_at": null,
+          "feedback": "Kirjoitetaan C =(x ,y). 1 p.\n\nMuodostetaan yhtälöt[MATH text= (x -5)^2 +(y -4)^2 =20] ja [MATH text=(x -8)^2 +(y +2)^2 =65]. 3 p.\n\nYhtälöparin ratkaisuiksi saadaan Solve-komennolla vaihtoehdot C =(9, 6) tai C =(1, 2). 2 p.\n\nPisteen B kautta kulkevan suoran yhtälö on [MATH text=y +2 =2/5 *(x -8)], eli [MATH text=-2 x +5 y +26 =0]. 3 p.\n\nPisteen (9, 6) etäisyys suorasta on [MATH text=\\frac{|-2*9-5*6+26|}{\\sqrt{(-2)^2+5^2}}=\\frac{38}{\\sqrt{29}}>7{,}] 1 p.\n\nja pisteen (1, 2) etäisyys suorasta on [MATH text=\\frac{|-2*1-5*2+26|}{\\sqrt{(-2)^2+5^2}}=\\frac{34}{\\sqrt{29}}>7{,}]. 1 p.\n\nKysytty piste on siis (1, 2) ja sen etäisyys suorasta on [MATH text=\\frac{34}{\\sqrt{29}}] .1 p.",
+          "exam_id": 202813,
+          "content": {
+            "text": "### Piste hukassa 12 p.\n\nTason pisteen C etäisyys pisteestä A =(5, 4) on [MATH text=\\sqrt{ 20}] ja etäisyys pisteestä B =(8, -2) on [MATH text=\\sqrt{65 }]. Lisäksi pisteen C etäisyys pisteen B kautta kulkevasta, vektorin [MATH text=5\\overline{i}+2\\overline{j}] suuntaisesta suorasta s on alle 7. Määritä pisteen C koordinaatit sekä pisteen C tarkka etäisyys suorasta s.",
+            "displayNumber": "6."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-05-29T10:39:03.688017",
+          "max_score": null,
+          "groupping": null,
+          "id": 6734761,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "de5255e2-d446-4407-a24e-d6ff195594d9",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2024-04-02T08:38:43.134962"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Taivaanmekaniikka 12 p.\n\n#### Aineisto\n\n[LINK text=8.A Video: Maapallon akseli|url=https://yle.fi/plus/abitreenit/2024/kevat/matematiikka_pitka/attachments/index.html#8.A]\n&NewLine;\n\n&NewLine;\n\nMaapallo pyörii akselinsa ympäri. Akselin ja Maan kiertoradan tason (eli ratatason) normaalin välisen kulman suuruus on 23,5 astetta, ja akselin suunta pysyy samana Maan kiertäessä Aurinkoa. Akselin asento on sellainen, että pohjoisnapa on kesäpäivänseisauksena lähimpänä Aurinkoa ja talvipäivänseisauksena kauimpana siitä. Videossa 8.A on havainnollistettu tilannetta.\n\n&NewLine;\n\nMääritä Maan akselin ja Auringosta Maahan kulkevan säteen välinen kulma kuukausi kesäpäivänseisauksen jälkeen. Maapallon kiertorata oletetaan tässä ympyräksi.",
+          "deleted_at": null,
+          "feedback": "Hahmotellaan tilanne koordinaatistoon. Koska tarkastellaan vain kulmia, voidaan normeerata tilanne niin, että Aurinko on origossa ja Maa kiertää Aurinkoa xy-tason yksikköympyrää pitkin. Oletetaan lisäksi, että Maa on kesäpäivänseisauksen aikaan pisteessä (-1, 0). Lisäksi voidaan olettaa, että Maa kiertää positiiviseen kiertosuuntaan. 2 p.\n\nKuukaudessa Maa liikkuu ympyräradalla [MATH text=30°].1 p.Maan sijainti kuukausi kesäpäivänseisauksen jälkeen on [MATH text=(cos(210° ), sin(210° )) =(-\\sqrt{3} /2, -1/2)]. 2 p.\n\nVektori maasta aurinkoon on [MATH text=\\bar{\\text{v}}=\\frac{\\sqrt{3}}{2}\\bar{\\text{i}}+\\frac{1}{2}\\bar{\\text{j}}+0\\bar{\\text{k}}] . 3 p.\n\nMuodostetaan seuraavaksi vektori, joka on samansuuntainen kuin Maan akseli. Tämän lauseke on [MATH text=\\bar{\\text{u}}=\\bar{\\text{i}}+0\\bar{\\text{j}}+\\tan(90^°-23{,}5^°)\\bar{\\text{k}}=\\bar{\\text{i}}+0\\bar{\\text{j}}+\\tan(66{,}5^°)\\bar{\\text{k}}.] 2 p.\n\nGeoGebran Angle-komento antaa vektorien väliseksi kulmaksi 69,8° .2 p.",
+          "exam_id": 202813,
+          "content": {
+            "text": "### Taivaanmekaniikka 12 p.\n\n#### Aineisto\n\n[LINK text=8.A Video: Maapallon akseli|url=https://yle.fi/plus/abitreenit/2024/kevat/matematiikka_pitka/attachments/index.html#8.A]\n&NewLine;\n\n&NewLine;\n\nMaapallo pyörii akselinsa ympäri. Akselin ja Maan kiertoradan tason (eli ratatason) normaalin välisen kulman suuruus on 23,5 astetta, ja akselin suunta pysyy samana Maan kiertäessä Aurinkoa. Akselin asento on sellainen, että pohjoisnapa on kesäpäivänseisauksena lähimpänä Aurinkoa ja talvipäivänseisauksena kauimpana siitä. Videossa 8.A on havainnollistettu tilannetta.\n\n&NewLine;\n\nMääritä Maan akselin ja Auringosta Maahan kulkevan säteen välinen kulma kuukausi kesäpäivänseisauksen jälkeen. Maapallon kiertorata oletetaan tässä ympyräksi.",
+            "displayNumber": "8."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-05-29T10:39:03.682185",
+          "max_score": null,
+          "groupping": null,
+          "id": 6734891,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "dfde95a3-8aec-42b5-9be5-90c0c7fc1fde",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2024-04-02T08:48:58.921258"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Scrabble 12 p.\n\nEnglanninkielisessä Scrabble-pelissä pussissa on 100 laattaa, joista 2 on tyhjää, 56 konsonanttilaattaa ja 42 vokaalilaattaa. Vokaalilaatoista yhdeksässä on A-kirjain. Pelaaja nostaa pussista 7 laattaa palauttamatta niitä takaisin pussiin.\n\n1. Millä todennäköisyydellä ainakin yhdessä pelaajan nostamista laatoista on A-kirjain? **(6 p.)**\n2. Millä todennäköisyydellä ainakin yhdessä pelaajan nostamista laatoista on A-kirjain silloin, kun tiedetään pelaajan nostaneen kolme vokaalia? **(6 p.)**",
+          "deleted_at": null,
+          "feedback": "Laattoja on alunperin 100, ja niistä yhdeksässä on A. Siispä on 91 laatassa ei ole A-kirjainta. 2 p.\n\nJokaisella nostolla vähenee yksi laatta. 1 p.\n\nKäytetään komplementtitodennäköisyyttä, jolloin todennäköisyys sille, että pelaaja ei saa A-laattaa, on [MATH text=1-\\frac{91*90*89*88*87*86*85}{100*99*98*97*96*95*94}=\\frac{23980517}{48507760}\\approx0{,}49]. 3 p.\n\nTämä tilanne on muuten vastaava kuin aiempi, mutta nyt tarkastellaan vain vokaalilaattoja, joita on 42 kappaletta, ja joista 33 laatassa ei ole A-kirjainta. Lisäksi huomioidaan vain ne laatat, joissa on vokaali, ja joita on kolme kappaletta. 3 p.\n\nLasketaan kuten osatehtävässä 7.1. Todennäköisyys sille, että ainakin yhdessä laatassa on A-kirjain, on [MATH text=1-\\frac{33 *32 *31}{42 *41 *40}=\\frac{753}{1435}\\approx0,52]3 p.",
+          "exam_id": 202813,
+          "content": {
+            "text": "### Scrabble 12 p.\n\nEnglanninkielisessä Scrabble-pelissä pussissa on 100 laattaa, joista 2 on tyhjää, 56 konsonanttilaattaa ja 42 vokaalilaattaa. Vokaalilaatoista yhdeksässä on A-kirjain. Pelaaja nostaa pussista 7 laattaa palauttamatta niitä takaisin pussiin.\n\n1. Millä todennäköisyydellä ainakin yhdessä pelaajan nostamista laatoista on A-kirjain? **(6 p.)**\n2. Millä todennäköisyydellä ainakin yhdessä pelaajan nostamista laatoista on A-kirjain silloin, kun tiedetään pelaajan nostaneen kolme vokaalia? **(6 p.)**",
+            "displayNumber": "7."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-05-29T10:39:03.679226",
+          "max_score": null,
+          "groupping": null,
+          "id": 6734807,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "a9cedc8e-3039-4451-9e19-f7c39e297bbb",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2024-04-02T08:47:39.038923"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Lämpötilaruudukko 12 p.\n\n#### Aineisto\n\n[LINK text=5.A Taulukko: Lämpötiloja|url=https://yle.fi/plus/abitreenit/2024/kevat/matematiikka_pitka/attachments/index.html#5.A]\n\n&NewLine;\n\nLämpötilajakaumaa voidaan mallintaa ruudukolla, jossa ruudussa oleva luku on kyseisen ruudun lämpötila celsiusasteina. Lämpötilat noudattavat seuraavaa keskiarvoperiaatetta: jokaisen ruudun lämpötila on neljän naapuriruudun lämpötilan keskiarvo. Ruudut ovat naapuriruutuja, jos niillä on yhteinen sivu.\n\nTässä tehtävässä tutkitaan taulukon 5.A tilannetta. Siinä esimerkiksi lämpötila 15 toteuttaa keskiarvoperiaatteen mukaisen yhtälön\n\n&NewLine;\n\n[MATH text=\\frac{0+10+20+30}{4}=15].\n\n&NewLine;\n\n\n\nMuodosta ruudukon tuntemattomille lämpötiloille x ja y keskiarvoperiaatteen mukaiset yhtälöt ja ratkaise ne.\n\n\n",
+          "deleted_at": null,
+          "feedback": "Puuttuvan lämpötilan x yhtälö on [MATH text=x =1/4 *(40 +y +50 +30)], 4 p.\n\nja puuttuvan lämpötilan y yhtälö on [MATH text=y =1/4 *(60 +80 +70 +x)].  4 p.\n\nRatkaistaan yhtälöpari esimerkiksi Solve-komennolla, jolloin saadaan x =46 ja y =64.4 p.\n\nYhtälöparin voi ratkaista myös kokeilemalla, jolloin pisteet jakautuvat näin: ratkaisut löydetty (1 p.), tarkistettu, että ne toteuttavat yhtälöt (1 p.) ja perusteltu, että muita ratkaisuja ei ole (2 p.).\n\nTAI\n\nTehtävänannossa on virhe. Tästä syystä on erilaisia lopputuloksia ja johtopäätöksiä. Yleispisteytysperiaate: kaksi ensimmäistä mielekästä yhtälöä 4 p./yhtälö. Kolmas yhtälö 2 p. Solve ja johtopäätös: 2 p.",
+          "exam_id": 202813,
+          "content": {
+            "text": "### Lämpötilaruudukko 12 p.\n\n#### Aineisto\n\n[LINK text=5.A Taulukko: Lämpötiloja|url=https://yle.fi/plus/abitreenit/2024/kevat/matematiikka_pitka/attachments/index.html#5.A]\n\n&NewLine;\n\nLämpötilajakaumaa voidaan mallintaa ruudukolla, jossa ruudussa oleva luku on kyseisen ruudun lämpötila celsiusasteina. Lämpötilat noudattavat seuraavaa keskiarvoperiaatetta: jokaisen ruudun lämpötila on neljän naapuriruudun lämpötilan keskiarvo. Ruudut ovat naapuriruutuja, jos niillä on yhteinen sivu.\n\nTässä tehtävässä tutkitaan taulukon 5.A tilannetta. Siinä esimerkiksi lämpötila 15 toteuttaa keskiarvoperiaatteen mukaisen yhtälön\n\n&NewLine;\n\n[MATH text=\\frac{0+10+20+30}{4}=15].\n\n&NewLine;\n\n\n\nMuodosta ruudukon tuntemattomille lämpötiloille x ja y keskiarvoperiaatteen mukaiset yhtälöt ja ratkaise ne.\n\n\n",
+            "displayNumber": "5."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-05-29T10:39:03.675818",
+          "max_score": null,
+          "groupping": null,
+          "id": 6734716,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "f4676b7d-7022-414a-9c01-bb52ef08695a",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2024-04-02T08:32:49.424846"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Kulmanmetsästys 12 p.\n\nMääritä kuviin merkityt tuntemattomat kulmat asteen tarkkuudella.\n\nKirjoita tämän tehtävän vastauskenttiin pelkät laskujen lopputulokset ilman välivaiheita ja perusteluja. Jokaisen kohdan vastaus on kokonaisluku.\n\n&NewLine;\n\n[LINK url=https://yle.fi/plus/abitreenit/2024/kevat/matematiikka_pitka/index.html#question-nr-1|text=Katso kuvat täältä.]\n\n&NewLine;\n\n1.1 Määritä kulma [MATH text=\\alpha] . 2 p.\n\n[MATH text=\\alpha] = [GAP id=24] astetta\n\n1.2 Määritä kulma [MATH text=\\beta]. 2 p.\n\n[MATH text=\\beta] = [GAP id=25] astetta\n\n1.3 Määritä kulma [MATH text=\\gamma ]. 2 p.\n\n[MATH text=\\gamma ] = [GAP id=26] astetta\n\n1.4 Määritä kulma [MATH text=\\delta]. 2 p.\n\n[MATH text=\\delta] = [GAP id=27] astetta\n\n1.5 Määritä kulma[MATH text=\\epsilon]. 2 p.\n\n[MATH text=\\epsilon] = [GAP id=28] astetta\n\n1.6 Määritä kulma[MATH text=\\zeta]. 2 p.\n\n[MATH text=\\zeta] = [GAP id=29] astetta",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 202813,
+          "content": {
+            "text": "### Kulmanmetsästys 12 p.\n\nMääritä kuviin merkityt tuntemattomat kulmat asteen tarkkuudella.\n\nKirjoita tämän tehtävän vastauskenttiin pelkät laskujen lopputulokset ilman välivaiheita ja perusteluja. Jokaisen kohdan vastaus on kokonaisluku.\n\n&NewLine;\n\n[LINK url=https://yle.fi/plus/abitreenit/2024/kevat/matematiikka_pitka/index.html#question-nr-1|text=Katso kuvat täältä.]\n\n&NewLine;\n\n1.1 Määritä kulma [MATH text=\\alpha] . 2 p.\n\n[MATH text=\\alpha] = [GAP id=24] astetta\n\n1.2 Määritä kulma [MATH text=\\beta]. 2 p.\n\n[MATH text=\\beta] = [GAP id=25] astetta\n\n1.3 Määritä kulma [MATH text=\\gamma ]. 2 p.\n\n[MATH text=\\gamma ] = [GAP id=26] astetta\n\n1.4 Määritä kulma [MATH text=\\delta]. 2 p.\n\n[MATH text=\\delta] = [GAP id=27] astetta\n\n1.5 Määritä kulma[MATH text=\\epsilon]. 2 p.\n\n[MATH text=\\epsilon] = [GAP id=28] astetta\n\n1.6 Määritä kulma[MATH text=\\zeta]. 2 p.\n\n[MATH text=\\zeta] = [GAP id=29] astetta",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-05-29T10:39:03.671463",
+          "max_score": 12,
+          "groupping": null,
+          "id": 6624110,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 24,
+              "parent": "dd34b0a3-067f-4761-882a-0c2af48cb0d0",
+              "choices": [],
+              "correct": "60",
+              "isCaseSensitive": false
+            },
+            {
+              "id": 25,
+              "parent": "dd34b0a3-067f-4761-882a-0c2af48cb0d0",
+              "choices": [],
+              "correct": "25",
+              "isCaseSensitive": false
+            },
+            {
+              "id": 26,
+              "parent": "dd34b0a3-067f-4761-882a-0c2af48cb0d0",
+              "choices": [],
+              "correct": "51",
+              "isCaseSensitive": false
+            },
+            {
+              "id": 27,
+              "parent": "dd34b0a3-067f-4761-882a-0c2af48cb0d0",
+              "choices": [],
+              "correct": "47",
+              "isCaseSensitive": false
+            },
+            {
+              "id": 28,
+              "parent": "dd34b0a3-067f-4761-882a-0c2af48cb0d0",
+              "choices": [],
+              "correct": "24",
+              "isCaseSensitive": false
+            },
+            {
+              "id": 29,
+              "parent": "dd34b0a3-067f-4761-882a-0c2af48cb0d0",
+              "choices": [],
+              "correct": "62",
+              "isCaseSensitive": false
+            }
+          ],
+          "uuid": "dd34b0a3-067f-4761-882a-0c2af48cb0d0",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2024-03-25T11:12:37.217544"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Polynomi 12 p.\n\nKirjoita tämän tehtävän vastauskenttiin pelkät laskujen lopputulokset ilman välivaiheita ja perusteluja. Jokaisen kohdan vastaus on kokonaisluku.\n\n\n\n**1.** Laske polynomin [MATH text= p(x) =12 x^3 +4 x] arvo kohdassa [MATH text=x =2]. 3 p.\n\n[GAP id=30]\n\n&NewLine;\n\n**2.** Laske polynomin [MATH text=p(x) =12 x^3 +4 x] derivaatan arvo kohdassa [MATH text=x =1]. 3 p.\n\n[GAP id=31]\n\n&NewLine;\n\n**3.** Laske määrätty integraali [MATH text=\\int_1^2(12x^3+4x)dx]. 3 p.\n\n[GAP id=32]\n\n&NewLine;\n\n**4.** Määritä neljännen asteen termin kerroin polynomissa [MATH text=(12 x^3 +4 x)^2]. 3 p.\n\n[GAP id=33]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 202813,
+          "content": {
+            "text": "### Polynomi 12 p.\n\nKirjoita tämän tehtävän vastauskenttiin pelkät laskujen lopputulokset ilman välivaiheita ja perusteluja. Jokaisen kohdan vastaus on kokonaisluku.\n\n\n\n**1.** Laske polynomin [MATH text= p(x) =12 x^3 +4 x] arvo kohdassa [MATH text=x =2]. 3 p.\n\n[GAP id=30]\n\n&NewLine;\n\n**2.** Laske polynomin [MATH text=p(x) =12 x^3 +4 x] derivaatan arvo kohdassa [MATH text=x =1]. 3 p.\n\n[GAP id=31]\n\n&NewLine;\n\n**3.** Laske määrätty integraali [MATH text=\\int_1^2(12x^3+4x)dx]. 3 p.\n\n[GAP id=32]\n\n&NewLine;\n\n**4.** Määritä neljännen asteen termin kerroin polynomissa [MATH text=(12 x^3 +4 x)^2]. 3 p.\n\n[GAP id=33]",
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {
+            "points": "3"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-05-29T10:39:03.668934",
+          "max_score": 12,
+          "groupping": null,
+          "id": 6722842,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 30,
+              "parent": "6f50bf74-1f99-446c-a90f-830ed3031e3a",
+              "choices": [],
+              "correct": "104",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 31,
+              "parent": "6f50bf74-1f99-446c-a90f-830ed3031e3a",
+              "choices": [],
+              "correct": "40",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 32,
+              "parent": "6f50bf74-1f99-446c-a90f-830ed3031e3a",
+              "choices": [],
+              "correct": "51",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 33,
+              "parent": "6f50bf74-1f99-446c-a90f-830ed3031e3a",
+              "choices": [],
+              "correct": "96",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "6f50bf74-1f99-446c-a90f-830ed3031e3a",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2024-03-28T12:19:16.884504"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Itseisarvoyhtälöitä 12 p.\n\nRatkaise algebrallisesti tai geometrisesti seuraavat yhtälöt.\n\n1. |y +3| =|y +5|. **(6 p.)**\n2. |x| +|x -5| =7. **(6 p.)**",
+          "deleted_at": null,
+          "feedback": "Jaetaan yhtälön [MATH text= |y +3| =|y +5|] tarkastelu tapauksiin sen mukaan, onko [MATH text=y<-5{,}-5\\le y\\le-3] tai [MATH text=y>-3] 2 p.\n\nEnsimmäisessä tapauksessa yhtälö muuttuu muotoon [MATH text=-3-y=-y-5], eli [MATH text=-3=-5] jolla ei ole ratkaisuja. 2 p.\n\nToisessa tapauksessa yhtälö muuttuu muotoon [MATH text=-3-y=y+5] eli [MATH text=y=-4] 1 p.\n\nKolmannessa tapauksessa yhtälö muuttuu muotoon [MATH text=y+3=y+5] eli [MATH text=3=5] joten sillä ei ole ratkaisuja. 1 p. \n\nTAI\n\nGeometrisesti nähdään, että kysytään sitä lukua, jonka etäisyys luvuista -5 ja -3 on sama. 2 p.\n\nLuku -4 toteuttaa tämän ehdon, sillä sen etäisyys kummastakin on 1. 2 p.\n\nMuita ratkaisuja ei ole, sillä muut luvut ovat lähempänä jompaakumpaa näistä luvuista. 2 p. \n\nTAI\n\n Jotta yhtälö toteutuu, on oltava [MATH text=y+3=-(y+5)] tai [MATH text=y+3=y+5] 2 p.\n\nJos [MATH text=y+3=-(y+5)] niin [MATH text=2y=-8] eli [MATH text=y=-4] 2 p.\n\nJos [MATH text=y+3=y+5] niin [MATH text=0=2] eli ei ratkaisuja. 2 p.\n\nTAI\n\nKorotetaan neliöön, sillä molemmat puolet ovat positiivisia. 1 p.\n\nSaadaan [MATH text=y^2+6y+9=y^2+10y+25] joka sievenee muotoon [MATH text=4y=-16] 3 p. \n\njonka ratkaisu on [MATH text=y=-4] 2 p.\n\n__________________\n\nPiirtämällä pisteet lukusuoralle tai hyödyntämällä itseisarvon etäisyystulkintaa huomataan, että haetaan sellaista pistettä, jonka etäisyys nollasta ja pisteestä viisi on yhteensä 2 p. \n\nHuomataan, että [MATH text=x=-1] ja [MATH text=x=6] ovat ratkaisuja, sillä [MATH text=|-1| +|-1 -5| =7] ja [MATH text=|6| +|6 -5| =7] 2 p.\n\nMuita ratkaisuja ei ole, sillä etäisyyksien summa kasvaa pisteestä [MATH text=x=-1] vasemmalle ja pisteestä [MATH text=x=6] oikealle ja niiden välissä se on alle 7. 2 p.\n\nTAI\n\nJaetaan yhtälön tarkastelu väleihin [MATH text=x<0, 0\\le x\\le5] ja [MATH text=x>5] 2 p.\n\nKun [MATH text=x<0] yhtälö tulee muotoon [MATH text=-x-x+5=7] joten [MATH text=x=-1] 1 p.\n\nKun [MATH text=0\\le x\\le5] yhtälö tulee muotoon [MATH text=x-x+5=7] eli [MATH text=0=2] joten sillä ei ole ratkaisuja. 2 p.\n\nKun [MATH text=x>5] yhtälö tulee muotoon  [MATH text=x+x-5=7], joten [MATH text=x=6] 1 p.\n\nTAI\n\nSiirretään termi \n|x| toiselle puolelle, jolloin yhtälö muuttuu muotoon [MATH text=|x-5|=7-|x|]. Koska vasen puoli on epänegatiivinen, on oltava [MATH text=|x|\\leq7] Voidaan korottaa yhtälö neliöön, jolloin saadaan [MATH text=x^2-10x+25=49-14|x|+x^2] 2 p.\n\nSieventämällä saadaan [MATH text=|14|x=24+10x, eli 7|x|=12+5x]. Koska vasen puoli on epänegatiivinen, on oltava [MATH text=x\\ge\\frac{12}{5}] 1 p. \n\nNeliöön korottamalla saadaan [MATH text=49x^2=144+120x+25x^2] 1 p.\n\njoka sievenee muotoon [MATH text=24x^2-120x-144=0], eli [MATH text=x^2-5x+6=0] 1 p.\n\njonka ratkaisut ovat [MATH text=x=-1] ja [MATH text=x=6] Kumpikin ratkaisu toteuttaa ehdot [MATH text=|x|≤7] ja [MATH text=x\\ge-\\frac{12}{5}] 1 p. ",
+          "exam_id": 202813,
+          "content": {
+            "text": "### Itseisarvoyhtälöitä 12 p.\n\nRatkaise algebrallisesti tai geometrisesti seuraavat yhtälöt.\n\n1. |y +3| =|y +5|. **(6 p.)**\n2. |x| +|x -5| =7. **(6 p.)**",
+            "displayNumber": "3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-05-29T10:39:03.665847",
+          "max_score": null,
+          "groupping": null,
+          "id": 6722870,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "91728520-ee15-44ff-b000-5e8b3f283714",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2024-03-28T12:22:58.691691"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Laskuvarjohyppääjä 12 p.\n\nMallinnetaan laskuvarjohyppääjän putoamisnopeutta funktiolla\n\n[MATH text=v(t)=80\\frac{e\\frac{^t}{4}-1}{e\\frac{^t}{4}+1}],\n\nkun aikaa t mitataan sekunneissa hyppäyshetkestä t =0 alkaen ja nopeuden yksikkö on metriä sekunnissa.\n\n&NewLine;\n\nJohda derivaattakaava\n\n[MATH text=D(8 ln(e^{t/4} +1) -t)=\\frac{e\\frac{^t}{4}-1}{e\\frac{^t}{4}+1}]\n\n\n\n\n\nMääritä hyppääjän ensimmäisen 20 sekunnin aikana putoama matka, joka saadaan integraalista\n\n\n[MATH text=h=\\int_0^{20}v\\left(t\\right)dt].",
+          "deleted_at": null,
+          "feedback": "Derivoidaan lauseke [MATH text=8 ln(e^{t/4} +1)-t] käyttämällä yhdistetyn funktion derivoimissääntöä. Saadaan [MATH text=8\\cdot\\frac{1}{4}\\frac{e^{\\frac{t}{4}}}{e^{\\frac{t}{4}}+1}-1], 3 p.\n\njoka sievenee muotoon [MATH text=\\frac{2e^{\\frac{t}{4}}}{e^{\\frac{t}{4}}+1}-1=\\frac{2e^{\\frac{t}{4}}-\\left(e^{\\frac{t}{4}}+1\\right)}{e^{\\frac{t}{4}}+1}=\\frac{e^{\\frac{t}{4}-1}}{e^{\\frac{t}{4}+1}}] 3 p.\n\nEdellisen kohdan nojalla [MATH text=\\int_X^{00}80\\frac{e^{\\frac{t}{4}-1}}{e^{\\frac{t}{4}+1}}dt=80\\left(8\\ln\\left(e^{\\frac{t}{4}}+1\\right)-t\\right)\\begin{matrix} 20&\\\\ 0& \\end{matrix}] 3 p.\n\n[MATH text=80((8ln(e^20/4+1)-20)-8ln(e^0/4+1)-0=1160,68...\\approx1200] metriä. 3 p.",
+          "exam_id": 202813,
+          "content": {
+            "text": "### Laskuvarjohyppääjä 12 p.\n\nMallinnetaan laskuvarjohyppääjän putoamisnopeutta funktiolla\n\n[MATH text=v(t)=80\\frac{e\\frac{^t}{4}-1}{e\\frac{^t}{4}+1}],\n\nkun aikaa t mitataan sekunneissa hyppäyshetkestä t =0 alkaen ja nopeuden yksikkö on metriä sekunnissa.\n\n&NewLine;\n\nJohda derivaattakaava\n\n[MATH text=D(8 ln(e^{t/4} +1) -t)=\\frac{e\\frac{^t}{4}-1}{e\\frac{^t}{4}+1}]\n\n\n\n\n\nMääritä hyppääjän ensimmäisen 20 sekunnin aikana putoama matka, joka saadaan integraalista\n\n\n[MATH text=h=\\int_0^{20}v\\left(t\\right)dt].",
+            "displayNumber": "4. "
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-05-29T10:39:03.663337",
+          "max_score": null,
+          "groupping": null,
+          "id": 6723633,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "09e4704e-c1da-4167-a920-2e9d605fb835",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2024-03-28T13:19:37.461863"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Kääntyvä, muttei monotoninen 12 p.\n\nAnna esimerkki funktiosta [MATH text=f:A\\rightarrow B], jolla on käänteisfunktio, mutta joka ei ole monotoninen. Muista kertoa, mitkä ovat funktiosi määrittelyjoukko A ja arvojoukko B.\n\n\n",
+          "deleted_at": null,
+          "feedback": "Annettu toimiva esimerkki, kuten funktio [MATH text=f: {1, 2, 3} \\rightarrow{1, 2, 3}], jolle [MATH text=f(1) =2, f(2) =1 ]ja [MATH text=f(3) =3]. 4 p.\n\nPerustelu, miksi funktiolla on käänteisfunktio: Funktio f on oma käänteisfunktionsa, sillä [MATH text=f(f(1)) =1, f(f(2)) =2] ja[MATH text= f(f(3)) =3].4 p.\n\nPerustelu, miksi funktio ei ole monotoninen:[MATH text= f(1) > f(2)] ja [MATH text=1 < 2,] mutta [MATH text=f(3) > f(2)], vaikka [MATH text=2 < 3].4 p.\n\nMuita hyviä esimerkkejä ovat:[MATH text=f(x) =1/x], määriteltynä joukoissa R\\{0} [MATH text=\\rightarrow] R\\{0}, tai vastaava funktio reaaliluvuilta reaaliluvuille, kun lisätään [MATH text= f(0) =0]. Funktio g:[0,1] [MATH text= \\rightarrow] [0, 1] joka on määritelty lausekkeella[MATH text= g(x) =1/2 -x], kun [MATH text=0\\le x\\le1/2], ja lausekkeella [MATH text=g(x) =x], kun [MATH text= x > 1/2].Esimerkkejä saa myös muun muassa monotonisista funktioista muuttamalla yksittäisten pisteiden arvoja.",
+          "exam_id": 202813,
+          "content": {
+            "text": "### Kääntyvä, muttei monotoninen 12 p.\n\nAnna esimerkki funktiosta [MATH text=f:A\\rightarrow B], jolla on käänteisfunktio, mutta joka ei ole monotoninen. Muista kertoa, mitkä ovat funktiosi määrittelyjoukko A ja arvojoukko B.\n\n\n",
+            "displayNumber": "9."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-05-29T10:39:03.660814",
+          "max_score": null,
+          "groupping": null,
+          "id": 6734986,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "80da0fb0-761d-4b87-8a91-f89f845e1b6b",
+          "order_number": 11,
+          "multipart": true,
+          "created_at": "2024-04-02T09:03:45.373057"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Tekoäly ja lukuteorian ihmeet 12 p.\n\n#### Aineisto\n\n10.A [LINK text= Teksti: Lainaus tekoälyltä|url=https://yle.fi/plus/abitreenit/2024/kevat/matematiikka_pitka/attachments/index.html#10.A]\n\n&NewLine;\n\nAlkulukua q kutsutaan *alkulukukaksoseksi*, jos myös [MATH text= q +2] tai [MATH text=q -2] on alkuluku. Tekoälyltä kysyttiin, kuinka monta alkulukukaksosta on olemassa, ja sen vastaus on tekstissä 10.A. Vastaa aineiston pohjalta seuraaviin osatehtäviin.\n\n1. Anna esimerkki alkuluvusta, joka ei ole alkulukukaksonen. **(3 p.)**\n2. Onko tekoälyn alkulukukaksosen määritelmä yhtäpitävä tehtävän määritelmän kanssa? **(3 p.)**\n3. Onko tekoälyn perustelu alkulukukaksosten lukumäärän äärettömyydelle matemaattisesti pätevä? **(6 p.)**",
+          "deleted_at": null,
+          "feedback": "Esimerkiksi luku 23 ei ole alkulukukaksonen, sillä kumpikaan luvuista 25 =23 +2 tai 21 =23 -2 ei ole alkuluku. 3 p.\n\nMääritelmät ovat yhtäpitäviä. Tekoälyn selitys, että välissä on yksi luku, tarkoittaa samaa kuin että lukujen välinen etäisyys on kaksi, eli jos p ja q ovat alkulukukaksosia, niin |p -q| =2, eli p =q +2 tai p =q -2. 3 p.\n\nTekoälyn päättelyssä on monia puutteita. Esimerkiksi tekoäly toteaa, että minkä tahansa kahden alkuluvun välissä on vähintään yksi positiivinen kokonaisluku, joka erottaa ne. Tekoälyn mielestä tästä seuraa, että minkä tahansa kahden annetun alkuluvun välissä pitäisi olla alkulukukaksospari. Kuitenkaan esimerkiksi alkulukujen 47 ja 53 välissä ei ole yhtään alkulukua, saati alkulukukaksosparia. 6 p.",
+          "exam_id": 202813,
+          "content": {
+            "text": "### Tekoäly ja lukuteorian ihmeet 12 p.\n\n#### Aineisto\n\n10.A [LINK text= Teksti: Lainaus tekoälyltä|url=https://yle.fi/plus/abitreenit/2024/kevat/matematiikka_pitka/attachments/index.html#10.A]\n\n&NewLine;\n\nAlkulukua q kutsutaan *alkulukukaksoseksi*, jos myös [MATH text= q +2] tai [MATH text=q -2] on alkuluku. Tekoälyltä kysyttiin, kuinka monta alkulukukaksosta on olemassa, ja sen vastaus on tekstissä 10.A. Vastaa aineiston pohjalta seuraaviin osatehtäviin.\n\n1. Anna esimerkki alkuluvusta, joka ei ole alkulukukaksonen. **(3 p.)**\n2. Onko tekoälyn alkulukukaksosen määritelmä yhtäpitävä tehtävän määritelmän kanssa? **(3 p.)**\n3. Onko tekoälyn perustelu alkulukukaksosten lukumäärän äärettömyydelle matemaattisesti pätevä? **(6 p.)**",
+            "displayNumber": "10."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-05-29T10:39:03.658",
+          "max_score": null,
+          "groupping": null,
+          "id": 6735116,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "e6cfa40c-3ed8-4ec7-a18c-452b4ea9b52a",
+          "order_number": 13,
+          "multipart": true,
+          "created_at": "2024-04-02T09:56:17.457883"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Brownin liike 12 p.\n\nVuonna 1827 kasvitieteilijä Robert Brown tutki mikroskoopilla, miten siitepölyhiukkanen liikkuu nykien vedessä. Brownin koe viittasi molekyylien olemassaoloon, ja sillä oli siten tärkeä rooli atomiteorian historiassa.\n\n&NewLine;\n\nTutkitaan yksinkertaistettua Brownin liikettä. Hiukkasen liike tasossa alkaa origosta. Tasaisin väliajoin hiukkanen liikkuu yhden yksikön verran joko ylös, alas, oikealle tai vasemmalle. Jokaisen suunnan todennäköisyys on 1/4. Esimerkiksi ensimmäisen askeleen jälkeen mahdolliset sijainnit ovat (0, 1), (0, -1), (1, 0) ja (-1, 0).\n\n&NewLine;\n\nTutkitaan hiukkasen sijaintia neljän askeleen jälkeen. Kutsutaan tätä päätepisteeksi.\n\n&NewLine;\n\nMääritä päätepisteen kaikki mahdolliset x-koordinaatit sekä niiden todennäköisyydet.",
+          "deleted_at": null,
+          "feedback": "Mallinnetaan liikettä jonolla, jossa 0 tarkoittaa oikealle, V vasemmalle, A alas ja Y ylös. 1 p\n\nErilaisia vaihtoehtoja on 4^4 =256.\n\n1 p.\n\nTilanne on symmetrinen negatiivisille koordinaateille, joten käsitellään epänegatiiviset. 1 p.\n\nSellaisia jonoja, joissa on k kappaletta merkkiä O, l kappaletta merkkiä V ja m kappaletta muita merkkejä M (eli A tai Y), merkitään k O +l V +m M. Näitä on  [MATH text=\\binom{k+l+m}{k}\\binom{l+m}{k}2^m] kappaletta, sillä merkeille O voidaan valita paikat [MATH text=\\binom{k+l+m}{k}] tavalla, tämän jälkeen merkeille V paikat [MATH text=\\binom{l+m}{l}] tavalla ja loppuihin m paikkaan tulee A tai Y ja nämä valinnat voidaan tehdä [MATH text=2^k] tavalla.2 p.\n\nx =4 jonolla 4 O. Todennäköisyys on 1/256. 1 p.\n\nx =3 jonolla 3 O +M. Todennäköisyys on siis 2 *4 /256 =8/256. 1 p.\n\nx =2 jonoilla 3 O +V tai 2 O +2 M. Todennäköisyys on [MATH text=\\frac{(4+\\binom{4}{2}*2^2)}{256}=\\frac{28}{256}]. 1 p.\n\nx =1 jonoilla 2 O +V +M tai O +3 M. Todennäköisyys on [MATH text=\\frac{\\binom{4}{2}*2^2+4*2^3}{256}=\\frac{56}{256}]. 2 p.\n\nx =0 jonoilla 2 O +2 V tai O +V +2 M tai 4 M. Todennäköisyys on [MATH text=\\frac{\\binom{4}{2}+4*3*2^2+2^4}{256}=\\frac{70}{256}].2 p.",
+          "exam_id": 202813,
+          "content": {
+            "text": "### Brownin liike 12 p.\n\nVuonna 1827 kasvitieteilijä Robert Brown tutki mikroskoopilla, miten siitepölyhiukkanen liikkuu nykien vedessä. Brownin koe viittasi molekyylien olemassaoloon, ja sillä oli siten tärkeä rooli atomiteorian historiassa.\n\n&NewLine;\n\nTutkitaan yksinkertaistettua Brownin liikettä. Hiukkasen liike tasossa alkaa origosta. Tasaisin väliajoin hiukkanen liikkuu yhden yksikön verran joko ylös, alas, oikealle tai vasemmalle. Jokaisen suunnan todennäköisyys on 1/4. Esimerkiksi ensimmäisen askeleen jälkeen mahdolliset sijainnit ovat (0, 1), (0, -1), (1, 0) ja (-1, 0).\n\n&NewLine;\n\nTutkitaan hiukkasen sijaintia neljän askeleen jälkeen. Kutsutaan tätä päätepisteeksi.\n\n&NewLine;\n\nMääritä päätepisteen kaikki mahdolliset x-koordinaatit sekä niiden todennäköisyydet.",
+            "displayNumber": "11."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-05-29T10:39:03.655368",
+          "max_score": null,
+          "groupping": null,
+          "id": 6735117,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "f7a84348-4dab-4858-9618-a028daa987f6",
+          "order_number": 14,
+          "multipart": true,
+          "created_at": "2024-04-02T09:56:17.461412"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Potensseja aritmeettisissa lukujonoissa 12 p.\n\n**1**. Olkoon k > 0 kokonaisluku. Osoita, että jos päättymätön kasvava aritmeettinen lukujono sisältää luvut [MATH text=k^2 ]ja [MATH text=k^3,] niin se sisältää luvun [MATH text=k^4]. **(6 p.)**\n\n\n\n**2.** Osoita, että jos [MATH text=r^2, r^3] ja [MATH text=r^4] sisältyvät aritmeettiseen lukujonoon, niin r on rationaaliluku. **(6 p.)**",
+          "deleted_at": null,
+          "feedback": "Olkoon jonossa jäsenet [MATH text=k^2] ja k^3. Näiden erotus on [MATH text=k^3 -k^2 =k^2 *(k -1)]. 2 p\n\nTämä luku on muotoa [MATH text=l d], jos aritmeettisen lukujonon peräkkäisten jäsenten erotus on d. 1 p.\n\nKoska [MATH text=k^4 -k^3 =k^3 *(k -1) =k l d], on myös [MATH text=k^4] lukujonossa. 3 p.\n\nMerkitään lukujonon peräkkäisten jäsenten erotusta muuttujalla d. Tällöin on olemassa kokonaisluvut n ja m, joille [MATH text=r^3 -r^2 =n d] ja [MATH text=r^4 -r^3 =m d] aritmeettisen lukujonon määritelmän nojalla. 3 p.\n\nTästä seuraa, että [MATH text=r =(r^4 -r^3) /(r^3 -r^2) =m /n] on rationaaliluku.3 p.",
+          "exam_id": 202813,
+          "content": {
+            "text": "### Potensseja aritmeettisissa lukujonoissa 12 p.\n\n**1**. Olkoon k > 0 kokonaisluku. Osoita, että jos päättymätön kasvava aritmeettinen lukujono sisältää luvut [MATH text=k^2 ]ja [MATH text=k^3,] niin se sisältää luvun [MATH text=k^4]. **(6 p.)**\n\n\n\n**2.** Osoita, että jos [MATH text=r^2, r^3] ja [MATH text=r^4] sisältyvät aritmeettiseen lukujonoon, niin r on rationaaliluku. **(6 p.)**",
+            "displayNumber": "12."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-05-29T10:39:03.653038",
+          "max_score": null,
+          "groupping": null,
+          "id": 6735132,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "d38678d9-5bd5-4176-abb2-d3d232031cc2",
+          "order_number": 15,
+          "multipart": true,
+          "created_at": "2024-04-02T09:58:00.662553"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Raja-arvo 12 p.\n\nOhjelmiston mukaan\n\n[MATH text=\\lim_{x\\rightarrow0}\\left(\\frac{1}{x^2}-\\frac{\\sin x}{x^3}\\right)=\\frac{1}{6}].\n\nPerustele tämä tulos seuraavien välivaiheiden avulla.\n\n[i] Osoita, että [MATH text=x-\\sin x-\\frac{1}{6}x^3\\le0]. kun [MATH text=0 \\le x \\le 1].\n\n[ii] Osoita, että [MATH text=x-\\sin x-\\frac{1}{6}x^3+\\frac{1}{120}x^5\\ge0], kun [MATH text=0 \\le x \\le 1].\n\n[iii] Osoita, että [MATH text=\\frac{1}{6}x^3-\\frac{1}{120}x^5\\le x-\\sin x][MATH text=\\le \\frac{1}{6}x^3], kun [MATH text=0 \\le x \\le 1].\n\n[iv] Osoita, että [MATH text=\\frac{1}{6}x^3-\\frac{1}{120}x^5\\ge x -\\sin x \\ge \\frac{1}{6}x^3], kun [MATH text= -1 \\ge  x \\ge 0].\n\n&NewLine;\n\n[v] Perustele näiden epäyhtälöiden avulla, että raja-arvo on 1/6.\n\n&NewLine;\n\nVälivaiheita voi perustella toisistaan riippumattomasti. Esimerkiksi vaiheen [iv] osapisteet saa osoittamalla, että se seuraa vaiheesta [iii], riippumatta siitä, onko vaihe [iii] todistettu. Sama pätee muihinkin vaiheisiin.\n\n\n",
+          "deleted_at": null,
+          "feedback": "Osoitetaan aluksi epäyhtälö [MATH text=x-\\sin x-\\frac{1}{6}x^3\\le0]. Kirjoitetaan [MATH text=f(x) =x -sin x -1/6 x^3], jolloin [MATH text=f’(x) =1 -cos x -1/2 x^2, f’’(x) =sin x -x] ja [MATH text=f’’’(x) =cos x -1 \\le 0]. 1 p.\n\n&NewLine;\n\nSiispä kolmas derivaatta on korkeintaan nolla, ja koska[MATH text= f’’(0) =0], on toinenkin derivaatta korkeintaan nolla, ja koska [MATH text=f’(0) =0] ja ensimmäinen derivaatta on vähenevä, on alkuperäinen funktio vähenevä. 1 p\n\n&NewLine;\n\nLisäksi [MATH text=f(0) =0], joten epäyhtälö pätee. 1 p.\n\n&NewLine;\n\nOsoitetaan nyt epäyhtälö [MATH text=x-\\sin x-\\frac{1}{6}x^3+\\frac{1}{120}x^5\\ge0]. Kirjoitetaan[MATH text= g(x) =x -sin x -1/6 x^3 +1/120 x^5]. Nyt [MATH text=g’’(x) =-f(x)]. Vastaavalla päättelyllä kuin jolla epäyhtälö osoitettiin funktiolle f, saadaan haluttu epäyhtälö funktiolle g. 3 p.\n\n&NewLine;\n\nKoska [MATH text=f(x) \\le 0], niin [MATH text=x -sin x \\le 1/6 x^3], ja koska [MATH text=g(x) \\ge 0], on [MATH text=x -sin x \\ge 1/6 x^3 -1/120 x^5]. Siispä [MATH text=1/6 x^3 -1/120 x^5 \\le x -sin x \\le 1/6 x^3 ]välillä [MATH text=0 \\le x \\le 1]. 2 p.\n\n&NewLine;\n\nKoska f ja g ovat parittomia, kääntyvät epäyhtälöt, kun siirrytään välille [MATH text=-1 \\le x \\le 0], eli tällöin pätee [MATH text=1/6 x^3 \\le x -sin x  +\\le 1/6 x^3 -1/120 x^5]. 2 p\n\n&NewLine;\n\nNyt [MATH text=1 /x^3 *1/6 x^3 \\rightarrow 1/6], kun [MATH text=x \\rightarrow 0] ja [MATH text=1 /x^3 *(1/6 x^3 -1/120 x^5) \\rightarrow 1/6], ja tutkittava raja-arvo jää näiden väliin, eli sen on myös oltava 1/6. 2 p.\n\n&NewLine;\n\nEpäyhtälöt voidaan todistaa myös sarjakehitelmiä käyttäen. Esimerkiksi [MATH text=sin x =x -\\frac{1}{3!} x^3 +\\frac{1}{5!} x^5  -\\frac{1}{7!} x^7  +]…. Tässä [MATH text=\\frac{1}{2k-1} x^{2k-1} -\\frac{1}{2k+1} x^{2k+1} =\\frac{x^{2k-1} }{(2k-1)!} x^{2k-1} (1-\\frac{x^2 }{2k(2k-1)})] välillä [MATH text=0 \\le x \\le 1]. Siispä [MATH text=sinx=x-\\frac{1}{3!}x^3+\\frac{1}{5!}x^5-\\frac{1}{7!}x^7]...[MATH text=\\ge x-\\frac{1}{3!}x^3], mikä todistaa ensimmäisen epäyhtälön.",
+          "exam_id": 202813,
+          "content": {
+            "text": "### Raja-arvo 12 p.\n\nOhjelmiston mukaan\n\n[MATH text=\\lim_{x\\rightarrow0}\\left(\\frac{1}{x^2}-\\frac{\\sin x}{x^3}\\right)=\\frac{1}{6}].\n\nPerustele tämä tulos seuraavien välivaiheiden avulla.\n\n[i] Osoita, että [MATH text=x-\\sin x-\\frac{1}{6}x^3\\le0]. kun [MATH text=0 \\le x \\le 1].\n\n[ii] Osoita, että [MATH text=x-\\sin x-\\frac{1}{6}x^3+\\frac{1}{120}x^5\\ge0], kun [MATH text=0 \\le x \\le 1].\n\n[iii] Osoita, että [MATH text=\\frac{1}{6}x^3-\\frac{1}{120}x^5\\le x-\\sin x][MATH text=\\le \\frac{1}{6}x^3], kun [MATH text=0 \\le x \\le 1].\n\n[iv] Osoita, että [MATH text=\\frac{1}{6}x^3-\\frac{1}{120}x^5\\ge x -\\sin x \\ge \\frac{1}{6}x^3], kun [MATH text= -1 \\ge  x \\ge 0].\n\n&NewLine;\n\n[v] Perustele näiden epäyhtälöiden avulla, että raja-arvo on 1/6.\n\n&NewLine;\n\nVälivaiheita voi perustella toisistaan riippumattomasti. Esimerkiksi vaiheen [iv] osapisteet saa osoittamalla, että se seuraa vaiheesta [iii], riippumatta siitä, onko vaihe [iii] todistettu. Sama pätee muihinkin vaiheisiin.\n\n\n",
+            "displayNumber": "13."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-05-29T10:39:03.648643",
+          "max_score": null,
+          "groupping": null,
+          "id": 6735163,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "b817b28e-3a9a-4203-89f9-1fc2bdd96b08",
+          "order_number": 16,
+          "multipart": true,
+          "created_at": "2024-04-02T10:09:17.708812"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "## B2-osa\n\nVastaa kolmeen tehtävään.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 202813,
+          "content": {
+            "text": "## B2-osa\n\nVastaa kolmeen tehtävään."
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-05-29T10:39:03.685482",
+          "max_score": null,
+          "groupping": null,
+          "id": 6735115,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "831fc9a0-1beb-4982-94ed-93a9f73da6f1",
+          "order_number": 12,
+          "multipart": true,
+          "created_at": "2024-04-02T09:56:17.455381"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Voit käydä tarkastelemassa A-osan vastauksiasi nyt.\nPalautettuasi A-osan et voi enää muokata A-osan vastauksia.\n\nTarkastelun jälkeen voit palata kokeeseen jatkamaan tehtäviin vastaamista.\n\n•••\n\nSaat estetyt laskinohjelmat käyttöösi palautettuasi A-osan.\n\n## B1-osa\n\nVastaa kolmeen tehtävään.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 202813,
+          "content": {
+            "text": "Voit käydä tarkastelemassa A-osan vastauksiasi nyt.\nPalautettuasi A-osan et voi enää muokata A-osan vastauksia.\n\nTarkastelun jälkeen voit palata kokeeseen jatkamaan tehtäviin vastaamista.\n\n•••\n\nSaat estetyt laskinohjelmat käyttöösi palautettuasi A-osan.\n\n## B1-osa\n\nVastaa kolmeen tehtävään."
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-05-29T10:39:03.690521",
+          "max_score": null,
+          "groupping": null,
+          "id": 6723985,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "718faad8-3c00-4951-a06f-769e6b6a684f",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2024-03-28T13:30:33.182402"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### A-osa\n\nVastaa neljään tehtävään.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 202813,
+          "content": {
+            "text": "#### A-osa\n\nVastaa neljään tehtävään."
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-05-29T10:39:03.692959",
+          "max_score": null,
+          "groupping": null,
+          "id": 6624118,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "5cca72ef-61ec-4019-a5a3-347198d7d677",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2024-03-25T11:12:37.255151"
+        }
+      ],
+      "name": "Matematiikka, pitkä oppimäärä kevät 2024",
+      "settings": {},
+      "exam_type": "yo-koe",
+      "classification": {
+        "category": "",
+        "disable_saving": false,
+        "hide_review_buttons": false,
+        "exam_type": "yo-koe",
+        "year": "2024",
+        "language": "fi-FI",
+        "hide_statistics": false,
+        "show_exam_series": false,
+        "force_yletunnus": false,
+        "subject": "matematiikka-pitkä",
+        "published": true,
+        "semester": "spring"
+      },
+      "published_at": "2024-04-02T10:26:39.000Z",
+      "language": "fi-FI",
+      "id": 202813,
+      "reviews": [],
+      "is_open": true,
+      "uuid": "858da3c6-ebc1-4d20-8c36-f94d88e64b83"
+    }
+  ]
+}

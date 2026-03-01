@@ -1,0 +1,1696 @@
+{
+  "meta": {
+    "count": 1
+  },
+  "data": [
+    {
+      "tags": [
+        ""
+      ],
+      "main_text": "&NewLine;\n",
+      "characters": null,
+      "deleted_at": null,
+      "series_uuids": [],
+      "questions": [
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### A-osa\n\n_Vastaa neljään tehtävään._\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 155640,
+          "content": {
+            "text": "### A-osa\n\n_Vastaa neljään tehtävään._\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-17T12:06:23.447553",
+          "max_score": null,
+          "groupping": null,
+          "id": 5349990,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "180a996c-7506-4c38-81ab-60426bc2f59e",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2023-04-05T11:01:34.035914"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Integraalialgoritmi 12 p.\n\n#### Aineisto\n\n[LINK text=Teksti: Integraali-pseudokoodi|url=https://yle.fi/plus/abitreenit/2023/kevat/2023-03-22_M_fi/attachments/index.html#9.A]\n\nTekstissä [LINK text=9.A|url=https://yle.fi/plus/abitreenit/2023/kevat/2023-03-22_M_fi/attachments/index.html#9.A] on esitetty pseudokoodilla kirjoitettu algoritmi.\n\n1. Minkä tuloksen algoritmi antaa, kun [MATH text=a=0], [MATH text=b=1] ja [MATH text=n=5]? **(2 p.)**   \n2. Tee taulukkolaskenta- tai ohjelmointitoteutus algoritmille, kun [MATH text=a=-1], [MATH text=b=2] ja [MATH text=n=1000]. Minkä tuloksen se tässä tapauksessa antaa? **(4 p.)**  \n3. Mitä integraalia algoritmi approksimoi? Selitä muuttujien [MATH text=a, b, n, h, r, k] ja [MATH text=f] roolit algoritmissa. **(6 p.)**",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/1rUOt2bgvfOE2DqtbQG7VVWLXHIAolDEU/view|text=Katso oikea vastaus täältä]",
+          "exam_id": 155640,
+          "content": {
+            "text": "### Integraalialgoritmi 12 p.\n\n#### Aineisto\n\n[LINK text=Teksti: Integraali-pseudokoodi|url=https://yle.fi/plus/abitreenit/2023/kevat/2023-03-22_M_fi/attachments/index.html#9.A]\n\nTekstissä [LINK text=9.A|url=https://yle.fi/plus/abitreenit/2023/kevat/2023-03-22_M_fi/attachments/index.html#9.A] on esitetty pseudokoodilla kirjoitettu algoritmi.\n\n1. Minkä tuloksen algoritmi antaa, kun [MATH text=a=0], [MATH text=b=1] ja [MATH text=n=5]? **(2 p.)**   \n2. Tee taulukkolaskenta- tai ohjelmointitoteutus algoritmille, kun [MATH text=a=-1], [MATH text=b=2] ja [MATH text=n=1000]. Minkä tuloksen se tässä tapauksessa antaa? **(4 p.)**  \n3. Mitä integraalia algoritmi approksimoi? Selitä muuttujien [MATH text=a, b, n, h, r, k] ja [MATH text=f] roolit algoritmissa. **(6 p.)**",
+            "displayNumber": "9."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-17T12:06:23.441893",
+          "max_score": null,
+          "groupping": null,
+          "id": 5350738,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "c7d722cf-86bf-4e3b-ab82-327df631a208",
+          "order_number": 12,
+          "multipart": true,
+          "created_at": "2023-04-05T11:26:39.214819"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Polynomien vertailu 12 p.\n\n1. Osoita induktiolla, että [MATH text=k^3\\ge k^2+4] kaikilla kokonaisluvuilla [MATH text=k\\ge 2]. **(6 p.)**   \n2. Osoita, että osatehtävän 8.1 epäyhtälö ei päde millään kokonaisluvulla [MATH text=k<0]. **(2 p.)**                                         \n3. Osoita, että epäyhtälö [MATH text=x^3\\ge x^2+4] pätee kaikilla reaaliluvuilla [MATH text=x\\ge 2]. **(4 p.)**",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/1rUOt2bgvfOE2DqtbQG7VVWLXHIAolDEU/view|text=Katso oikea vastaus täältä]",
+          "exam_id": 155640,
+          "content": {
+            "text": "### Polynomien vertailu 12 p.\n\n1. Osoita induktiolla, että [MATH text=k^3\\ge k^2+4] kaikilla kokonaisluvuilla [MATH text=k\\ge 2]. **(6 p.)**   \n2. Osoita, että osatehtävän 8.1 epäyhtälö ei päde millään kokonaisluvulla [MATH text=k<0]. **(2 p.)**                                         \n3. Osoita, että epäyhtälö [MATH text=x^3\\ge x^2+4] pätee kaikilla reaaliluvuilla [MATH text=x\\ge 2]. **(4 p.)**",
+            "displayNumber": "8."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-17T12:06:23.438895",
+          "max_score": null,
+          "groupping": null,
+          "id": 5351041,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "07b95847-3cd9-4a9d-b0d1-aeabada11265",
+          "order_number": 11,
+          "multipart": true,
+          "created_at": "2023-04-05T11:29:27.056127"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Raketin nokkakartio 12 p.\n\nErään raketin kärki, eli niin sanottu nokkakartio, saadaan, kun alaspäin aukeava paraabeli pyörähtää symmetria-akselinsa ympäri. Kärjen korkeus on 4,5 metriä, ja sen halkaisija pohjan tasolla on 3,3 metriä. Määritä kärjen tilavuus.",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/1rUOt2bgvfOE2DqtbQG7VVWLXHIAolDEU/view|text=Katso oikea vastaus täältä]",
+          "exam_id": 155640,
+          "content": {
+            "text": "### Raketin nokkakartio 12 p.\n\nErään raketin kärki, eli niin sanottu nokkakartio, saadaan, kun alaspäin aukeava paraabeli pyörähtää symmetria-akselinsa ympäri. Kärjen korkeus on 4,5 metriä, ja sen halkaisija pohjan tasolla on 3,3 metriä. Määritä kärjen tilavuus.",
+            "displayNumber": "6."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-17T12:06:23.434871",
+          "max_score": null,
+          "groupping": null,
+          "id": 5351271,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "67cc7345-6efd-484b-8815-3c7639f64e24",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2023-04-05T11:33:06.797431"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Leikkauspisteet 2 p.\n\nYmpyrällä ja paraabelilla on tasossa [SELECT id=59]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 155640,
+          "content": {
+            "text": "#### Leikkauspisteet 2 p.\n\nYmpyrällä ja paraabelilla on tasossa [SELECT id=59]",
+            "displayNumber": "1.6"
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-17T12:06:23.431724",
+          "max_score": 2,
+          "groupping": null,
+          "id": 5353724,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 59,
+              "parent": "e343b2b7-6993-4f9f-9414-e55a58569e8e",
+              "choices": [
+                {
+                  "id": "a8480cb0-22ab-4969-a40e-8f103430aff3",
+                  "text": "tasan kaksi leikkauspistettä"
+                },
+                {
+                  "id": "5c771aa5-9a6e-4433-a9d5-cffb24b23049",
+                  "text": "korkeintaan kaksi leikkauspistettä"
+                },
+                {
+                  "id": "6ff2ffbf-11f6-4080-bc0c-1992e3759aa3",
+                  "text": "tasan neljä leikkauspistettä"
+                },
+                {
+                  "id": "2e28f38a-0124-434e-8bb9-f586a9b214fa",
+                  "text": "korkeintaan neljä leikkauspistettä",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "e343b2b7-6993-4f9f-9414-e55a58569e8e",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2023-04-05T12:10:27.422824"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### \n\n**Kosinilause 2 p.**\n\n\n\nSuorakulmaisessa kolmiossa kosinilause on sama kuin [SELECT id=64]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 155640,
+          "content": {
+            "text": "#### \n\n**Kosinilause 2 p.**\n\n\n\nSuorakulmaisessa kolmiossa kosinilause on sama kuin [SELECT id=64]",
+            "displayNumber": "1.3"
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-17T12:06:23.428585",
+          "max_score": 2,
+          "groupping": null,
+          "id": 5353940,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 64,
+              "parent": "daa3cd77-87c0-4dc9-80e4-c6ddcb2a8c1c",
+              "choices": [
+                {
+                  "id": "dc4996be-236a-41f0-8fba-e11dc8679467",
+                  "text": "Pythagoraan lause",
+                  "correct": true
+                },
+                {
+                  "id": "3c84f0b6-a41a-4cac-b6e5-10959da2f2a1",
+                  "text": "sinilause"
+                },
+                {
+                  "id": "d2d5e453-e46b-4c07-824a-d395dbcca6c7",
+                  "text": "kehäkulmalause"
+                },
+                {
+                  "id": "38503dbf-794c-488d-8695-9d496b7839e4",
+                  "text": "Fermat'n suuri lause"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "daa3cd77-87c0-4dc9-80e4-c6ddcb2a8c1c",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2023-04-05T12:18:24.572581"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Monivalintatehtävä 12 p.\n\nValitse oikea vaihtoehto. Vastauksia ei tarvitse perustella. Oikea vastaus 2 p., väärä vastaus 0 p., ei vastausta 0 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 155640,
+          "content": {
+            "text": "### Monivalintatehtävä 12 p.\n\nValitse oikea vaihtoehto. Vastauksia ei tarvitse perustella. Oikea vastaus 2 p., väärä vastaus 0 p., ei vastausta 0 p.",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "e343b2b7-6993-4f9f-9414-e55a58569e8e",
+            "6a744304-68dc-4723-a46a-77f61a25c2e9",
+            "ae859744-9958-44f1-a95e-774c938a5dcd",
+            "daa3cd77-87c0-4dc9-80e4-c6ddcb2a8c1c",
+            "1f2b63ad-d288-4f76-b374-296d491a15fd",
+            "3e9284c8-b6dc-468e-9c0a-347c8a601d45"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-17T12:06:23.421659",
+          "max_score": null,
+          "groupping": null,
+          "id": 5353478,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "45f56fdd-6a6f-4348-9dac-7c55a78ea962",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2023-04-05T12:05:22.919907"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Ratakisko 12 p.\n\n#### Aineisto\n\n[LINK text=Kuva: Ratakisko|url=https://yle.fi/plus/abitreenit/2023/kevat/2023-03-22_M_fi/attachments/index.html#3.A]\n\n\n\nKymmenen metriä pitkä museoratakisko on vääntynyt lämpölaajenemisen vuoksi mutkalle, mutta sen päät ovat pysyneet paikoillaan (katso liioiteltu kuva [LINK text=3.A|url=https://yle.fi/plus/abitreenit/2023/kevat/2023-03-22_M_fi/attachments/index.html#3.A] tilanteesta). Kiskon poikkeama sen alkuperäisestä sijainnista kohtisuoraan mitattuna on muotoa\n\n[MATH text=f(x)=\\frac{x^3-15x^2+50x}{1000}],\n\nkun [MATH text=x] on etäisyys kiskon alkupäästä. Missä kohdissa kiskon poikkeama sen alkuperäisestä asemasta on suurin? Määritä myös suurin poikkeama. Muuttujan [MATH text=x] ja poikkeaman yksikkönä on metri.\n\n\n",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/1rUOt2bgvfOE2DqtbQG7VVWLXHIAolDEU/view|text=Katso oikea vastaus täältä]",
+          "exam_id": 155640,
+          "content": {
+            "text": "### Ratakisko 12 p.\n\n#### Aineisto\n\n[LINK text=Kuva: Ratakisko|url=https://yle.fi/plus/abitreenit/2023/kevat/2023-03-22_M_fi/attachments/index.html#3.A]\n\n\n\nKymmenen metriä pitkä museoratakisko on vääntynyt lämpölaajenemisen vuoksi mutkalle, mutta sen päät ovat pysyneet paikoillaan (katso liioiteltu kuva [LINK text=3.A|url=https://yle.fi/plus/abitreenit/2023/kevat/2023-03-22_M_fi/attachments/index.html#3.A] tilanteesta). Kiskon poikkeama sen alkuperäisestä sijainnista kohtisuoraan mitattuna on muotoa\n\n[MATH text=f(x)=\\frac{x^3-15x^2+50x}{1000}],\n\nkun [MATH text=x] on etäisyys kiskon alkupäästä. Missä kohdissa kiskon poikkeama sen alkuperäisestä asemasta on suurin? Määritä myös suurin poikkeama. Muuttujan [MATH text=x] ja poikkeaman yksikkönä on metri.\n\n\n",
+            "displayNumber": "3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-17T12:06:23.419006",
+          "max_score": null,
+          "groupping": null,
+          "id": 5352000,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "53f4d67e-06f4-4636-9dee-b5f774604f6f",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2023-04-05T11:39:15.990978"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Mittayksiköt 2 p.\n\nKuinka monta millimetriä on yksi kilometri?",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 155640,
+          "content": {
+            "text": "#### Mittayksiköt 2 p.\n\nKuinka monta millimetriä on yksi kilometri?",
+            "displayNumber": "1.1"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-17T12:06:23.41546",
+          "max_score": 2,
+          "groupping": null,
+          "id": 5354169,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 66,
+              "text": "[MATH text=10^{-6}]",
+              "parent": "3e9284c8-b6dc-468e-9c0a-347c8a601d45",
+              "choices": []
+            },
+            {
+              "id": 67,
+              "text": "[MATH text=10^{-3}]",
+              "parent": "3e9284c8-b6dc-468e-9c0a-347c8a601d45",
+              "choices": []
+            },
+            {
+              "id": 68,
+              "text": "[MATH text=10^{0}]",
+              "parent": "3e9284c8-b6dc-468e-9c0a-347c8a601d45",
+              "choices": []
+            },
+            {
+              "id": 69,
+              "text": "[MATH text=10^{2}]",
+              "parent": "3e9284c8-b6dc-468e-9c0a-347c8a601d45",
+              "choices": []
+            },
+            {
+              "id": 70,
+              "text": "[MATH text=10^{3}]",
+              "parent": "3e9284c8-b6dc-468e-9c0a-347c8a601d45",
+              "choices": []
+            },
+            {
+              "id": 71,
+              "text": "[MATH text=10^{4}]",
+              "parent": "3e9284c8-b6dc-468e-9c0a-347c8a601d45",
+              "choices": []
+            },
+            {
+              "id": 72,
+              "text": "[MATH text=10^{6}]",
+              "parent": "3e9284c8-b6dc-468e-9c0a-347c8a601d45",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 73,
+              "text": "[MATH text=10^{9}]",
+              "parent": "3e9284c8-b6dc-468e-9c0a-347c8a601d45",
+              "choices": []
+            },
+            {
+              "id": 74,
+              "text": "[MATH text=10^{12}]",
+              "parent": "3e9284c8-b6dc-468e-9c0a-347c8a601d45",
+              "choices": []
+            }
+          ],
+          "uuid": "3e9284c8-b6dc-468e-9c0a-347c8a601d45",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2023-04-05T12:20:10.681804"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Yhdistely 12 p.\n\n#### Aineisto\n\n[LINK text=Kuva: Funktioiden kuvaajat|url=https://yle.fi/plus/abitreenit/2023/kevat/2023-03-22_M_fi/attachments/index.html#2.A]\n\nAlla on annettu 12 yhtälöä. Yhdeksää niistä vastaa jokin kuvassa [LINK text=2.A|url=https://yle.fi/plus/abitreenit/2023/kevat/2023-03-22_M_fi/attachments/index.html#2.A] annetuista kuvaajista. Yhdistä kukin yhtälö sitä vastaavaan kuvaajaan tai merkitse, että sellaista ei ole.\n\nValitse oikea vaihtoehto. Vastauksia ei tarvitse perustella. Oikea vastaus 1 p., väärä vastaus 0 p., ei vastausta 0 p.\n\n\n\n**1.** [MATH text=y=x^2]  [SELECT id=45] **1 p.**\n\n**2.**  [MATH text=y=x^4]  [SELECT id=46] **1 p.**\n\n**3.**  [MATH text=y=x^3]  [SELECT id=47] **1 p.**\n\n**4.**  [MATH text=y=x^2+1]  [SELECT id=48] **1 p.**\n\n**5.**  [MATH text=y=(x+1)^2]  [SELECT id=49] **1 p**.\n\n**6.**   [MATH text=y=2x^2]  [SELECT id=50] **1 p.**\n\n**7.**  [MATH text=y=\\cos x]  [SELECT id=51] **1 p.**\n\n**8.**  [MATH text=y=\\sin x]  [SELECT id=52] **1 p**.\n\n**9.**  [MATH text=y=-2\\cos x+2]  [SELECT id=53] **1 p.**\n\n**10.**  [MATH text=y=-\\cos(2x)]  [SELECT id=54] **1 p**.\n\n**11.** [MATH text= y=2\\sin(2x)]  [SELECT id=55] **1 p**.\n\n**12.**  [MATH text=y=2\\sin x]  [SELECT id=56] **1 p**.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 155640,
+          "content": {
+            "text": "### Yhdistely 12 p.\n\n#### Aineisto\n\n[LINK text=Kuva: Funktioiden kuvaajat|url=https://yle.fi/plus/abitreenit/2023/kevat/2023-03-22_M_fi/attachments/index.html#2.A]\n\nAlla on annettu 12 yhtälöä. Yhdeksää niistä vastaa jokin kuvassa [LINK text=2.A|url=https://yle.fi/plus/abitreenit/2023/kevat/2023-03-22_M_fi/attachments/index.html#2.A] annetuista kuvaajista. Yhdistä kukin yhtälö sitä vastaavaan kuvaajaan tai merkitse, että sellaista ei ole.\n\nValitse oikea vaihtoehto. Vastauksia ei tarvitse perustella. Oikea vastaus 1 p., väärä vastaus 0 p., ei vastausta 0 p.\n\n\n\n**1.** [MATH text=y=x^2]  [SELECT id=45] **1 p.**\n\n**2.**  [MATH text=y=x^4]  [SELECT id=46] **1 p.**\n\n**3.**  [MATH text=y=x^3]  [SELECT id=47] **1 p.**\n\n**4.**  [MATH text=y=x^2+1]  [SELECT id=48] **1 p.**\n\n**5.**  [MATH text=y=(x+1)^2]  [SELECT id=49] **1 p**.\n\n**6.**   [MATH text=y=2x^2]  [SELECT id=50] **1 p.**\n\n**7.**  [MATH text=y=\\cos x]  [SELECT id=51] **1 p.**\n\n**8.**  [MATH text=y=\\sin x]  [SELECT id=52] **1 p**.\n\n**9.**  [MATH text=y=-2\\cos x+2]  [SELECT id=53] **1 p.**\n\n**10.**  [MATH text=y=-\\cos(2x)]  [SELECT id=54] **1 p**.\n\n**11.** [MATH text= y=2\\sin(2x)]  [SELECT id=55] **1 p**.\n\n**12.**  [MATH text=y=2\\sin x]  [SELECT id=56] **1 p**.",
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-17T12:06:23.410235",
+          "max_score": 12,
+          "groupping": null,
+          "id": 5352550,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 45,
+              "parent": "8ee5e0c5-5f44-46b5-bec5-fe6c4ea96028",
+              "choices": [
+                {
+                  "id": "9d18b194-7d58-4164-bba4-2d3602e517a9",
+                  "text": "Kuvaaja 1"
+                },
+                {
+                  "id": "b66b55f0-07dc-4e87-91d1-e517ff77d1ed",
+                  "text": "Kuvaaja 2"
+                },
+                {
+                  "id": "23b0d097-225e-48f1-9fc2-5e6ac248e46d",
+                  "text": "Kuvaaja 3"
+                },
+                {
+                  "id": "a8cfbb9b-9024-45a0-b968-43de2455420e",
+                  "text": "Kuvaaja 4"
+                },
+                {
+                  "id": "a42742bf-d58f-4f25-88a8-32f010f436a3",
+                  "text": "Kuvaaja 5"
+                },
+                {
+                  "id": "5a1b88f4-8ef7-41fb-96f5-5c5b792185e5",
+                  "text": "Kuvaaja 6"
+                },
+                {
+                  "id": "f58be025-e26b-4525-b300-4eda40e05047",
+                  "text": "Kuvaaja 7 "
+                },
+                {
+                  "id": "2f711564-f299-48a3-871b-810ef496b815",
+                  "text": "Kuvaaja 8"
+                },
+                {
+                  "id": "efb6cc01-84da-4176-9f65-2f4dba2aee2c",
+                  "text": "Kuvaaja 9",
+                  "correct": true
+                },
+                {
+                  "id": "4e512625-acac-489a-ad29-6624d41d4ebe",
+                  "text": "Kuvaaja 10"
+                },
+                {
+                  "id": "b75c5ee0-d2da-43a5-9300-e1897dc40575",
+                  "text": "Kuvaaja 11"
+                },
+                {
+                  "id": "99d99599-3464-4df0-8d10-55f8d4235340",
+                  "text": "Kuvaaja 12"
+                },
+                {
+                  "id": "f4c240a2-336c-4e6f-87aa-9f767a101cc2",
+                  "text": "Ei kuvaajaa"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 46,
+              "parent": "8ee5e0c5-5f44-46b5-bec5-fe6c4ea96028",
+              "choices": [
+                {
+                  "id": "0f46ec7c-099d-484a-8c48-c0892dedb49c",
+                  "text": "Kuvaaja 1"
+                },
+                {
+                  "id": "2a9328c3-1c54-4d1d-9ea9-f5da417dee25",
+                  "text": "Kuvaaja 2",
+                  "correct": true
+                },
+                {
+                  "id": "31a7a5ba-519e-41ee-bee2-e74aca866cfe",
+                  "text": "Kuvaaja 3"
+                },
+                {
+                  "id": "2b09ccaa-4f56-4666-b301-c1cc48d686f9",
+                  "text": "Kuvaaja 4"
+                },
+                {
+                  "id": "dd81c784-d0e6-4b49-9a24-f2b0090f9c81",
+                  "text": "Kuvaaja 5"
+                },
+                {
+                  "id": "0107cad9-f6f2-4a82-8de3-62432b6d70d5",
+                  "text": "Kuvaaja 6"
+                },
+                {
+                  "id": "c0bbb3a4-e97d-484e-981c-f798b4805e8e",
+                  "text": "Kuvaaja 7"
+                },
+                {
+                  "id": "0e5eb34f-0d12-462f-b68f-709217f76751",
+                  "text": "Kuvaaja 8"
+                },
+                {
+                  "id": "a2e1746b-9bbf-43a4-87fa-fa0d5f384cc3",
+                  "text": "Kuvaaja 9"
+                },
+                {
+                  "id": "1c95788a-2e54-4400-8a5e-6b431392d60a",
+                  "text": "Kuvaaja 10"
+                },
+                {
+                  "id": "9ac209f8-a1fe-4675-8825-41d45eee753e",
+                  "text": "Kuvaaja 11"
+                },
+                {
+                  "id": "47187632-58b8-486f-8bc4-8fd79a03793d",
+                  "text": "Kuvaaja 12"
+                },
+                {
+                  "id": "f7832184-8d7b-46cc-891a-5661c166bd83",
+                  "text": "Ei kuvaajaa"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 47,
+              "parent": "8ee5e0c5-5f44-46b5-bec5-fe6c4ea96028",
+              "choices": [
+                {
+                  "id": "15c1484f-a7ee-42ac-8281-7da7a712f6d6",
+                  "text": "Kuvaaja 1"
+                },
+                {
+                  "id": "b58338fe-5644-45c6-86c3-2a84a20be424",
+                  "text": "Kuvaaja 2"
+                },
+                {
+                  "id": "8d68dc58-80e9-4790-b53a-8e0d3f9cb7b0",
+                  "text": "Kuvaaja 3"
+                },
+                {
+                  "id": "5423386b-07a8-4e75-b27c-6e06e09c1da7",
+                  "text": "Kuvaaja 4"
+                },
+                {
+                  "id": "97fb5ebe-f421-42f2-ad69-aed9f67a8dd4",
+                  "text": "Kuvaaja 5"
+                },
+                {
+                  "id": "ca24ca99-d05f-4f9c-a230-e68d971f870f",
+                  "text": "Kuvaaja 6"
+                },
+                {
+                  "id": "03e08503-fb30-44fa-aa56-15cdfb01f7cc",
+                  "text": "Kuvaaja 7"
+                },
+                {
+                  "id": "af286200-3015-4001-94ac-22db2afc082d",
+                  "text": "Kuvaaja 8"
+                },
+                {
+                  "id": "724b1302-7269-4a19-8c14-0da8985d6913",
+                  "text": "Kuvaaja 9"
+                },
+                {
+                  "id": "a54b1741-bd9a-4930-8b12-4ebd3540d7d3",
+                  "text": "Kuvaaja 10"
+                },
+                {
+                  "id": "92eba92d-2e45-47c8-8a3d-11932adb8edb",
+                  "text": "Kuvaaja 11"
+                },
+                {
+                  "id": "356f416b-6dff-42bf-9ec4-cf6e132fc0e2",
+                  "text": "Kuvaaja 12"
+                },
+                {
+                  "id": "b18bcd82-14a0-4df7-a489-cbc28d9f6a83",
+                  "text": "Ei kuvaajaa",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 48,
+              "parent": "8ee5e0c5-5f44-46b5-bec5-fe6c4ea96028",
+              "choices": [
+                {
+                  "id": "47f32bc9-be18-4f99-89e3-ade6649d6f84",
+                  "text": "Kuvaaja 1"
+                },
+                {
+                  "id": "6cac620b-82eb-4b76-85d2-38bfab2fbbb5",
+                  "text": "Kuvaaja 2"
+                },
+                {
+                  "id": "9b546a95-726a-4d91-a219-0d337874b1f7",
+                  "text": "Kuvaaja 3"
+                },
+                {
+                  "id": "25f6a6ea-23c8-43f2-89a4-ea5dd43ccb56",
+                  "text": "Kuvaaja 4"
+                },
+                {
+                  "id": "800a17f8-9214-4364-861b-1b99d31fddba",
+                  "text": "Kuvaaja 5"
+                },
+                {
+                  "id": "02ffd265-9ddd-4cd6-a08a-647030d4d1b1",
+                  "text": "Kuvaaja 6"
+                },
+                {
+                  "id": "9b004413-0ae6-401b-91d7-e9aee3b2f105",
+                  "text": "Kuvaaja 7"
+                },
+                {
+                  "id": "c1305c44-d25d-423b-94eb-45581253c805",
+                  "text": "Kuvaaja 8"
+                },
+                {
+                  "id": "d46b098e-dea7-48de-a133-0c845d9a74b5",
+                  "text": "Kuvaaja 9"
+                },
+                {
+                  "id": "5871208c-ae4f-4b4b-b969-358546501f02",
+                  "text": "Kuvaaja 10"
+                },
+                {
+                  "id": "e7212034-ff63-4fde-b90d-cd38b652c19f",
+                  "text": "Kuvaaja 11"
+                },
+                {
+                  "id": "63bc2b8a-8140-42d0-a3c5-72325438d692",
+                  "text": "Kuvaaja 12",
+                  "correct": true
+                },
+                {
+                  "id": "a816f0c0-b7ad-4ea2-be35-8bad534cf9f8",
+                  "text": "Ei kuvaajaa"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 49,
+              "parent": "8ee5e0c5-5f44-46b5-bec5-fe6c4ea96028",
+              "choices": [
+                {
+                  "id": "1e22094d-f60f-4981-86bd-2ae7a67e9290",
+                  "text": "Kuvaaja 1"
+                },
+                {
+                  "id": "3834f3b8-e8f1-4934-a179-01c66d6c774c",
+                  "text": "Kuvaaja 2"
+                },
+                {
+                  "id": "b561edb6-b716-4d69-8657-a6428e56dcf9",
+                  "text": "Kuvaaja 3"
+                },
+                {
+                  "id": "415d5e25-eb1e-4ab6-b290-65931f4390b6",
+                  "text": "Kuvaaja 4",
+                  "correct": true
+                },
+                {
+                  "id": "600a51f9-b90a-4ed3-b224-179a7c36c51b",
+                  "text": "Kuvaaja 5"
+                },
+                {
+                  "id": "14cbb157-1ba6-400f-8891-3b99b75be7cb",
+                  "text": "Kuvaaja 6"
+                },
+                {
+                  "id": "60423c92-c964-472d-9922-a38ed623def2",
+                  "text": "Kuvaaja 7"
+                },
+                {
+                  "id": "2cb2d42f-2905-4b0e-b967-6438b1952f82",
+                  "text": "Kuvaaja 8"
+                },
+                {
+                  "id": "4981fd10-8504-4436-bbb8-22fc4f2b3c6b",
+                  "text": "Kuvaaja 9"
+                },
+                {
+                  "id": "18424fb8-1466-4afb-8f38-bb7c2b28ceca",
+                  "text": "Kuvaaja 10"
+                },
+                {
+                  "id": "9a871333-4a40-4586-8b9c-84a11d494e36",
+                  "text": "Kuvaaja 11"
+                },
+                {
+                  "id": "ada53177-d17e-4e2f-8b43-b22dfea8a900",
+                  "text": "Kuvaaja 12"
+                },
+                {
+                  "id": "b36918df-a888-4c06-ac97-40a00590fed4",
+                  "text": "Ei kuvaajaa"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 50,
+              "parent": "8ee5e0c5-5f44-46b5-bec5-fe6c4ea96028",
+              "choices": [
+                {
+                  "id": "6f9923b2-2cb1-44ee-b7f9-6eefbdd4835d",
+                  "text": "Kuvaaja 1"
+                },
+                {
+                  "id": "a4c77be9-bc61-49e9-ba7e-c753025fb8b0",
+                  "text": "Kuvaaja 2"
+                },
+                {
+                  "id": "e378d071-f483-4cad-b686-19eb3854dcb2",
+                  "text": "Kuvaaja 3"
+                },
+                {
+                  "id": "445d7d0c-c9f8-498b-91bd-4b4e0b9b3ff9",
+                  "text": "Kuvaaja 4"
+                },
+                {
+                  "id": "a088ba15-01c9-4271-aaa9-a91ec98e927e",
+                  "text": "Kuvaaja 5",
+                  "correct": true
+                },
+                {
+                  "id": "dca00ee3-b373-4e05-bb7d-75a1b0d303ae",
+                  "text": "Kuvaaja 6"
+                },
+                {
+                  "id": "673ca94a-a00a-4aa7-a036-9fd85de2e4a6",
+                  "text": "Kuvaaja 7"
+                },
+                {
+                  "id": "8a0c6861-4d2d-431e-b52f-5c14f4968764",
+                  "text": "Kuvaaja 8"
+                },
+                {
+                  "id": "455ecbde-fc94-4de0-85df-77a8f69aa90a",
+                  "text": "Kuvaaja 9"
+                },
+                {
+                  "id": "b9c59936-748c-4336-a3f7-138fd133cab5",
+                  "text": "Kuvaaja 10"
+                },
+                {
+                  "id": "93b14762-d1eb-44c8-a4ec-8db4ef880ebf",
+                  "text": "Kuvaaja 11"
+                },
+                {
+                  "id": "de2f4531-7c8a-496a-bb9a-524a47818595",
+                  "text": "Kuvaaja 12"
+                },
+                {
+                  "id": "4edf26e7-858e-45d5-a708-32cace1bfd44",
+                  "text": "Ei kuvaajaa"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 51,
+              "parent": "8ee5e0c5-5f44-46b5-bec5-fe6c4ea96028",
+              "choices": [
+                {
+                  "id": "48f0ae4e-e2ab-4e6d-ab8e-37b88ed033e8",
+                  "text": "Kuvaaja 1"
+                },
+                {
+                  "id": "4fcf44d4-d5b6-4b1a-bff3-eba1a3505013",
+                  "text": "Kuvaaja 2"
+                },
+                {
+                  "id": "e59f061b-3a10-413a-b8ff-111e463a6dac",
+                  "text": "Kuvaaja 3"
+                },
+                {
+                  "id": "712242a2-db6b-4636-8cde-435d4a646a3d",
+                  "text": "Kuvaaja 4"
+                },
+                {
+                  "id": "a2ab0fb9-af58-411d-9922-5aa4a5f713a2",
+                  "text": "Kuvaaja 5"
+                },
+                {
+                  "id": "d93e1ddb-4dc7-4cb0-92da-81d34829353b",
+                  "text": "Kuvaaja 6"
+                },
+                {
+                  "id": "0f7fbf27-f5f8-417d-8a96-db30f39c804b",
+                  "text": "Kuvaaja 7",
+                  "correct": true
+                },
+                {
+                  "id": "7c848d0f-0b17-46a4-864f-4616a9ed01ff",
+                  "text": "Kuvaaja 8"
+                },
+                {
+                  "id": "0fed47af-cd09-42f6-997d-b7c66f78c43b",
+                  "text": "Kuvaaja 9"
+                },
+                {
+                  "id": "7609e8ac-39da-4a03-b319-3e9ba8111c78",
+                  "text": "Kuvaaja 10"
+                },
+                {
+                  "id": "0dba2976-cdd8-4b47-96ac-a58aa3784a71",
+                  "text": "Kuvaaja 11"
+                },
+                {
+                  "id": "fce1e5d5-59ad-4358-a42c-eed2f4be6ee3",
+                  "text": "Kuvaaja 12"
+                },
+                {
+                  "id": "69e6de0f-64a4-49eb-a6b8-fb4bad685ea7",
+                  "text": "Ei kuvaajaa"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 52,
+              "parent": "8ee5e0c5-5f44-46b5-bec5-fe6c4ea96028",
+              "choices": [
+                {
+                  "id": "cd68106f-4b7f-4aec-a18c-f0d61e571246",
+                  "text": "Kuvaaja 1",
+                  "correct": true
+                },
+                {
+                  "id": "c87c30de-a7b1-4132-bdbb-2b9b35da4de6",
+                  "text": "Kuvaaja 2"
+                },
+                {
+                  "id": "f6fad940-e515-4486-bf15-ce321600d995",
+                  "text": "Kuvaaja 3"
+                },
+                {
+                  "id": "b9a2aa0b-7922-4bff-869d-c5409251e7aa",
+                  "text": "Kuvaaja 4"
+                },
+                {
+                  "id": "446a4c9c-6141-4718-b67f-d7d82b48eb90",
+                  "text": "Kuvaaja 5"
+                },
+                {
+                  "id": "4f99c0ec-a1c2-4dd2-a63d-a1935ad3c99a",
+                  "text": "Kuvaaja 6"
+                },
+                {
+                  "id": "0a23aefa-b264-4d29-8ca3-fcce31578255",
+                  "text": "Kuvaaja 7"
+                },
+                {
+                  "id": "e6fe6ac4-161d-4686-b1be-78f760916d0c",
+                  "text": "Kuvaaja 8"
+                },
+                {
+                  "id": "63ef9493-4dbb-49e3-a540-1fe7059b3ec1",
+                  "text": "Kuvaaja 9"
+                },
+                {
+                  "id": "23cf9517-668d-4c03-a893-e7f6c02b900b",
+                  "text": "Kuvaaja 10"
+                },
+                {
+                  "id": "e632372b-14fc-40da-bab7-336ec85de1ca",
+                  "text": "Kuvaaja 11"
+                },
+                {
+                  "id": "0f592ea6-5fec-4fe3-ba8f-4fcc67d4e6e0",
+                  "text": "Kuvaaja 12"
+                },
+                {
+                  "id": "b9593769-229c-4b35-908b-1632ff240aed",
+                  "text": "Ei kuvaajaa"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 53,
+              "parent": "8ee5e0c5-5f44-46b5-bec5-fe6c4ea96028",
+              "choices": [
+                {
+                  "id": "e0f1f49b-7f4c-44aa-925c-5b9e63d51fa4",
+                  "text": "Kuvaaja 1"
+                },
+                {
+                  "id": "08e97ed1-62a3-4e8c-ab80-317e73a32366",
+                  "text": "Kuvaaja 2"
+                },
+                {
+                  "id": "1f4c6051-aa45-4e27-9c14-b6cda4758363",
+                  "text": "Kuvaaja 3"
+                },
+                {
+                  "id": "97d55e66-ab73-44f4-a562-812d2e314651",
+                  "text": "Kuvaaja 4"
+                },
+                {
+                  "id": "560bd681-62b5-4ecb-acac-1bd347f8d025",
+                  "text": "Kuvaaja 5"
+                },
+                {
+                  "id": "9a4880a4-8f52-4997-80ce-d8638a15a3e4",
+                  "text": "Kuvaaja 6"
+                },
+                {
+                  "id": "36336fdb-0a3a-4fb9-9d85-a64292929088",
+                  "text": "Kuvaaja 7"
+                },
+                {
+                  "id": "639debf0-57d7-4704-a9e6-cf01a3c84d68",
+                  "text": "Kuvaaja 8"
+                },
+                {
+                  "id": "93ef365b-f2e6-4e53-a7c6-e897847abbb8",
+                  "text": "Kuvaaja 9"
+                },
+                {
+                  "id": "7d3d37af-fe70-4241-b034-9d5d8063b1ba",
+                  "text": "Kuvaaja 10",
+                  "correct": true
+                },
+                {
+                  "id": "cc9325b3-4c41-4ba9-8621-49afc75ee7eb",
+                  "text": "Kuvaaja 11"
+                },
+                {
+                  "id": "2085099d-7f9c-4668-80b6-20f2ed2037bf",
+                  "text": "Kuvaaja 12"
+                },
+                {
+                  "id": "7d8369cd-7698-4066-b798-22fff0709fa7",
+                  "text": "Ei kuvaajaa"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 54,
+              "parent": "8ee5e0c5-5f44-46b5-bec5-fe6c4ea96028",
+              "choices": [
+                {
+                  "id": "80f8fb58-9db9-4265-adc1-b4c20811e174",
+                  "text": "Kuvaaja 1"
+                },
+                {
+                  "id": "3be227fb-3af7-4483-960d-117402b21817",
+                  "text": "Kuvaaja 2"
+                },
+                {
+                  "id": "e0a2dc4d-8e12-4fa7-9679-5409c2ad2b5c",
+                  "text": "Kuvaaja 3"
+                },
+                {
+                  "id": "45671c13-09b4-4e5e-ae05-158cc712ceb9",
+                  "text": "Kuvaaja 4"
+                },
+                {
+                  "id": "df701ec8-f6ab-47f5-a7fe-260f4bd9071a",
+                  "text": "Kuvaaja 5"
+                },
+                {
+                  "id": "10619413-3200-4d05-b4cc-32d10d37c98d",
+                  "text": "Kuvaaja 6"
+                },
+                {
+                  "id": "ece98599-4232-4d47-b7e6-f63181ee6929",
+                  "text": "Kuvaaja 7"
+                },
+                {
+                  "id": "6b93fbe2-25be-48c3-a707-5820c845a942",
+                  "text": "Kuvaaja 8"
+                },
+                {
+                  "id": "92e6cddb-9cfe-4264-8eeb-50c06f71f703",
+                  "text": "Kuvaaja 9"
+                },
+                {
+                  "id": "7c74eba2-fed8-492a-9882-1eb2744fe74d",
+                  "text": "Kuvaaja 10"
+                },
+                {
+                  "id": "c77ab702-3b7f-4ec4-b28e-ff62d06ac6a7",
+                  "text": "Kuvaaja 11"
+                },
+                {
+                  "id": "8780eeb2-c4c4-4647-9fe1-e593f657b646",
+                  "text": "Kuvaaja 12"
+                },
+                {
+                  "id": "2dd4164c-1b40-4344-ab5e-ccfa84ccf019",
+                  "text": "Ei kuvaajaa",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 55,
+              "parent": "8ee5e0c5-5f44-46b5-bec5-fe6c4ea96028",
+              "choices": [
+                {
+                  "id": "9c8a0b8a-a78e-4c97-a5e8-93d2890d5f75",
+                  "text": "Kuvaaja 1"
+                },
+                {
+                  "id": "1258e26f-7c1a-452f-be93-53828b9f24e9",
+                  "text": "Kuvaaja 2"
+                },
+                {
+                  "id": "2601947c-9c35-49c9-a3b1-277be226dcfc",
+                  "text": "Kuvaaja 3",
+                  "correct": true
+                },
+                {
+                  "id": "92d9d4f1-4b4a-498c-bc4b-c5a02a0e6832",
+                  "text": "Kuvaaja 4"
+                },
+                {
+                  "id": "69e813ca-ddcc-4377-a110-090415eee9b6",
+                  "text": "Kuvaaja 5"
+                },
+                {
+                  "id": "a76c9317-487d-43d3-aed4-cdd854c40bf5",
+                  "text": "Kuvaaja 6"
+                },
+                {
+                  "id": "2636e9a8-ba8f-46f9-b8b5-21d4a60e756a",
+                  "text": "Kuvaaja 7"
+                },
+                {
+                  "id": "3dd6dd9c-ca9f-4ef5-8f2b-e278ce6c8a47",
+                  "text": "Kuvaaja 8"
+                },
+                {
+                  "id": "b12d23e0-8477-4e38-b464-b2317b9c5e64",
+                  "text": "Kuvaaja 9"
+                },
+                {
+                  "id": "c5281d94-9939-4ae7-a6ec-1a2067f12556",
+                  "text": "Kuvaaja 10"
+                },
+                {
+                  "id": "6b21f832-6583-4605-9941-54eac31a8391",
+                  "text": "Kuvaaja 11"
+                },
+                {
+                  "id": "0aa2b019-ca0e-45de-95bb-b90ef305a54b",
+                  "text": "Kuvaaja 12"
+                },
+                {
+                  "id": "f63e8ce8-58e9-4540-9e54-3d5581e14881",
+                  "text": "Ei kuvaajaa"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 56,
+              "parent": "8ee5e0c5-5f44-46b5-bec5-fe6c4ea96028",
+              "choices": [
+                {
+                  "id": "13872f51-d718-426f-a1c3-7900ed150b45",
+                  "text": "Kuvaaja 1"
+                },
+                {
+                  "id": "9da5ffb7-a134-4855-8d6f-9b57506a1fda",
+                  "text": "Kuvaaja 2"
+                },
+                {
+                  "id": "c96f9905-7157-40fd-9de5-e9c19e5f3f52",
+                  "text": "Kuvaaja 3"
+                },
+                {
+                  "id": "d15e9892-795e-48d7-8776-56eaa5818113",
+                  "text": "Kuvaaja 4"
+                },
+                {
+                  "id": "1e7619c6-b734-4a13-bbc3-cbf418ce0928",
+                  "text": "Kuvaaja 5"
+                },
+                {
+                  "id": "008dd194-f7cd-4240-b27f-f556aa854ed9",
+                  "text": "Kuvaaja 6"
+                },
+                {
+                  "id": "42f9da86-93cc-4c6d-8762-2d1db218b2c1",
+                  "text": "Kuvaaja 7"
+                },
+                {
+                  "id": "4b94f171-2a5b-4f27-991f-81e3330e73e2",
+                  "text": "Kuvaaja 8"
+                },
+                {
+                  "id": "a8cb4d78-eea6-4c93-8cd1-023ffaf6ad9e",
+                  "text": "Kuvaaja 9"
+                },
+                {
+                  "id": "6488de6e-321e-4629-be4d-a45227138691",
+                  "text": "Kuvaaja 10"
+                },
+                {
+                  "id": "b4d73f86-4eaf-480f-a964-c46219642ac8",
+                  "text": "Kuvaaja 11"
+                },
+                {
+                  "id": "664bc6a1-4b8d-46a3-89af-61acaafb4fd1",
+                  "text": "Kuvaaja 12"
+                },
+                {
+                  "id": "268c8541-3860-4984-b95b-16a554a088e4",
+                  "text": "Ei kuvaajaa",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "8ee5e0c5-5f44-46b5-bec5-fe6c4ea96028",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2023-04-05T11:48:09.798922"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Taikaneliö 12 p.\n\n#### Aineisto\n\n[LINK text=Kuva: Taikaneliö|url=https://yle.fi/plus/abitreenit/2023/kevat/2023-03-22_M_fi/attachments/index.html#5.A]\n\n\n\nKuparikaiverrus Melankolia I (katso kuva [LINK text=5.A|url=https://yle.fi/plus/abitreenit/2023/kevat/2023-03-22_M_fi/attachments/index.html#5.A]) on saksalaisen Albrecht Dürerin tunnetuimpia teoksia. Teos sisältää [MATH text=4\\times 4] -taikaneliön, jossa jokaisen vaaka- ja pystyrivin lukujen summa on 34. Alla olevassa ruudukossa neljä taikaneliön ruutua on esitetty kahden tuntemattoman luvun [MATH text=x] ja [MATH text=y] avulla. Kun luvut [MATH text=x] ja [MATH text=y] asetetaan peräkkäin, saadaan tuloksena teoksen valmistumisvuosi. Ratkaise luvut [MATH text=x] ja [MATH text=y] ja kirjoita kyseessä oleva vuosiluku.\n\n\n\n[LINK url=https://yle.fi/plus/abitreenit/2023/kevat/2023-03-22_M_fi/#5|text=Katso kuva ruudukosta tästä]",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/1rUOt2bgvfOE2DqtbQG7VVWLXHIAolDEU/view|text=Katso oikea vastaus täältä]",
+          "exam_id": 155640,
+          "content": {
+            "text": "### Taikaneliö 12 p.\n\n#### Aineisto\n\n[LINK text=Kuva: Taikaneliö|url=https://yle.fi/plus/abitreenit/2023/kevat/2023-03-22_M_fi/attachments/index.html#5.A]\n\n\n\nKuparikaiverrus Melankolia I (katso kuva [LINK text=5.A|url=https://yle.fi/plus/abitreenit/2023/kevat/2023-03-22_M_fi/attachments/index.html#5.A]) on saksalaisen Albrecht Dürerin tunnetuimpia teoksia. Teos sisältää [MATH text=4\\times 4] -taikaneliön, jossa jokaisen vaaka- ja pystyrivin lukujen summa on 34. Alla olevassa ruudukossa neljä taikaneliön ruutua on esitetty kahden tuntemattoman luvun [MATH text=x] ja [MATH text=y] avulla. Kun luvut [MATH text=x] ja [MATH text=y] asetetaan peräkkäin, saadaan tuloksena teoksen valmistumisvuosi. Ratkaise luvut [MATH text=x] ja [MATH text=y] ja kirjoita kyseessä oleva vuosiluku.\n\n\n\n[LINK url=https://yle.fi/plus/abitreenit/2023/kevat/2023-03-22_M_fi/#5|text=Katso kuva ruudukosta tästä]",
+            "displayNumber": "5."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-17T12:06:23.406831",
+          "max_score": null,
+          "groupping": null,
+          "id": 5351448,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "23b9fd86-35d1-4d18-805e-5f3c50d51bb3",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2023-04-05T11:35:17.245129"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Positroniemissiotomografia 12 p.\n\n#### Aineisto\n\n[LINK text=Taulukko: PET-kuvantamisen tulos|url=https://yle.fi/plus/abitreenit/2023/kevat/2023-03-22_M_fi/attachments/index.html#10.A]\n\nPositroniemissiotomografia (PET) on lääketieteellinen kuvantamismenetelmä, jonka avulla voidaan mallintaa sisäelinten toimintaa. PET-kuvan avulla on mahdollista muodostaa aika-aktiivisuuskäyrä, joka on muotoa [MATH text=f(t)=g(t)+u e^{v-(t-w)^2}], missä [MATH text=u, v, w>0] ja\n\n[MATH text=g(t)= \\begin{cases} 0, &\\text{kun } t<0,\\\\ a_1t+b_1, &\\text{kun } 0\\le t<w,\\\\ a_2t+b_2, &\\text{kun } t\\ge w. \\end{cases}]\n\n1.Taulukko [LINK text=10.A|url=https://yle.fi/plus/abitreenit/2023/kevat/2023-03-22_M_fi/attachments/index.html#10.A] sisältää erään PET-kuvan mittausarvot ajan funktiona. Mittaus voidaan mallintaa funktion [MATH text=f] avulla, kun [MATH text=u=\\frac15, v=3, w=2, a_1=\\frac54, b_1=0, a_2=-\\frac14 ja b_2=3]. Piirrä funktion [MATH text=f] kuvaaja ja mittausarvot koordinaatistoon.  **(4 p.)**\n\n2.Miten parametrit [MATH text=u], [MATH text=v] ja [MATH text=w] vaikuttavat funktion kuvaajaan? **(4 p.)**\n\n3.Mitkä ehdot parametrien [MATH text=w, a_1, b_1, a_2] ja [MATH text=b_2] tulee toteuttaa, jotta funktio [MATH text=f] on jatkuva? **(4 p.)**",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/1rUOt2bgvfOE2DqtbQG7VVWLXHIAolDEU/view|text=Katso oikea vastaus täältä]",
+          "exam_id": 155640,
+          "content": {
+            "text": "### Positroniemissiotomografia 12 p.\n\n#### Aineisto\n\n[LINK text=Taulukko: PET-kuvantamisen tulos|url=https://yle.fi/plus/abitreenit/2023/kevat/2023-03-22_M_fi/attachments/index.html#10.A]\n\nPositroniemissiotomografia (PET) on lääketieteellinen kuvantamismenetelmä, jonka avulla voidaan mallintaa sisäelinten toimintaa. PET-kuvan avulla on mahdollista muodostaa aika-aktiivisuuskäyrä, joka on muotoa [MATH text=f(t)=g(t)+u e^{v-(t-w)^2}], missä [MATH text=u, v, w>0] ja\n\n[MATH text=g(t)= \\begin{cases} 0, &\\text{kun } t<0,\\\\ a_1t+b_1, &\\text{kun } 0\\le t<w,\\\\ a_2t+b_2, &\\text{kun } t\\ge w. \\end{cases}]\n\n1.Taulukko [LINK text=10.A|url=https://yle.fi/plus/abitreenit/2023/kevat/2023-03-22_M_fi/attachments/index.html#10.A] sisältää erään PET-kuvan mittausarvot ajan funktiona. Mittaus voidaan mallintaa funktion [MATH text=f] avulla, kun [MATH text=u=\\frac15, v=3, w=2, a_1=\\frac54, b_1=0, a_2=-\\frac14 ja b_2=3]. Piirrä funktion [MATH text=f] kuvaaja ja mittausarvot koordinaatistoon.  **(4 p.)**\n\n2.Miten parametrit [MATH text=u], [MATH text=v] ja [MATH text=w] vaikuttavat funktion kuvaajaan? **(4 p.)**\n\n3.Mitkä ehdot parametrien [MATH text=w, a_1, b_1, a_2] ja [MATH text=b_2] tulee toteuttaa, jotta funktio [MATH text=f] on jatkuva? **(4 p.)**",
+            "displayNumber": "10."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-17T12:06:23.403481",
+          "max_score": null,
+          "groupping": null,
+          "id": 5350289,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "72a9c1f4-b815-4923-9046-182ba3e35d3e",
+          "order_number": 14,
+          "multipart": true,
+          "created_at": "2023-04-05T11:18:26.798528"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Integraalin ja raja-arvon järjestyksen vaihto 12 p.\n\nOlkoon [MATH text=\\displaystyle f(x,s)=\\frac{1-s}{(1+x^2-2sx)^2}], kun [MATH text=0<s<1] ja [MATH text=0\\le x\\le 1]. Tarkastellaan vasemmanpuoleista raja-arvoa [MATH text=\\displaystyle\\lim_{s\\to 1}], jota joskus merkitään [MATH text=\\displaystyle\\lim_{s\\to 1^-}].\n\n\n\n1.Määritä [MATH text=\\displaystyle g(x)=\\lim_{s\\to 1} f(x,s)] kaikilla [MATH text=0\\le x<1], ja laske [MATH text=\\displaystyle \\int_0^1 g(x)\\, dx]. **(3 p.)**                                                                     \n\n2.Määritä sellainen [MATH text=x_0<1], että [MATH text=f(x_0, s) = f(1, s)], ja laske [MATH text=\\displaystyle \\int_{x_0}^1 f(x_0,s)\\, dx]. **(3 p.)**\n\n3.Osoita, että [MATH text=f(x, s) \\ge f(x_0, s)], kun [MATH text=x\\in [x_0, 1]] ja [MATH text=x_0] on määritetty osatehtävässä 13.2. **(3 p.)**\n\n4.Osoita, että [MATH text=\\displaystyle \\int_0^1 \\lim_{s\\to 1} f(x,s)\\, dx \\ne \\lim_{s\\to 1} \\int_0^1 f(x,s)\\, dx]. **(3 p.)**",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/1rUOt2bgvfOE2DqtbQG7VVWLXHIAolDEU/view|text=Katso oikea vastaus täältä]",
+          "exam_id": 155640,
+          "content": {
+            "text": "### Integraalin ja raja-arvon järjestyksen vaihto 12 p.\n\nOlkoon [MATH text=\\displaystyle f(x,s)=\\frac{1-s}{(1+x^2-2sx)^2}], kun [MATH text=0<s<1] ja [MATH text=0\\le x\\le 1]. Tarkastellaan vasemmanpuoleista raja-arvoa [MATH text=\\displaystyle\\lim_{s\\to 1}], jota joskus merkitään [MATH text=\\displaystyle\\lim_{s\\to 1^-}].\n\n\n\n1.Määritä [MATH text=\\displaystyle g(x)=\\lim_{s\\to 1} f(x,s)] kaikilla [MATH text=0\\le x<1], ja laske [MATH text=\\displaystyle \\int_0^1 g(x)\\, dx]. **(3 p.)**                                                                     \n\n2.Määritä sellainen [MATH text=x_0<1], että [MATH text=f(x_0, s) = f(1, s)], ja laske [MATH text=\\displaystyle \\int_{x_0}^1 f(x_0,s)\\, dx]. **(3 p.)**\n\n3.Osoita, että [MATH text=f(x, s) \\ge f(x_0, s)], kun [MATH text=x\\in [x_0, 1]] ja [MATH text=x_0] on määritetty osatehtävässä 13.2. **(3 p.)**\n\n4.Osoita, että [MATH text=\\displaystyle \\int_0^1 \\lim_{s\\to 1} f(x,s)\\, dx \\ne \\lim_{s\\to 1} \\int_0^1 f(x,s)\\, dx]. **(3 p.)**",
+            "displayNumber": "13."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-17T12:06:23.400447",
+          "max_score": null,
+          "groupping": null,
+          "id": 5350151,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "257299b3-c2b3-4f7a-b17c-502c4dd4f228",
+          "order_number": 17,
+          "multipart": true,
+          "created_at": "2023-04-05T11:09:21.721797"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Koe koostuu 13 tehtävästä, joista vastataan kymmeneen. Tehtävät on jaettu kolmeen osaan. A-osassa on neljä kaikille pakollista tehtävää. B1-osassa on viisi tehtävää, joista vastataan kolmeen. B2-osassa on neljä tehtävää, joista vastataan kolmeen. Kaikki tehtävät arvostellaan pistein 0–12, joten kokeen maksimipistemäärä on 120.\n\nA-osassa saat käyttää koejärjestelmässä olevaa taulukkokirjaa ja perusohjelmia. A-osa palautetaan tehtävän 4 jälkeen olevalla painikkeella. Tämän jälkeen A-osan vastauksia ei voi enää muokata. A-osan palauttamisen jälkeen kaikki koejärjestelmän ohjelmat ovat käytettävissäsi. Voit vastata B-osien tehtäviin myös ennen A-osan palauttamista.\n\nUseimmissa tehtävissä kaikkien osatehtävien vastaukset kirjoitetaan samaan vastauskenttään. Jaottele vastauksesi osatehtävien mukaisesti. Halutessasi voit tuottaa vastausten tueksi piirroksia, kaavioita tai taulukoita ja liittää niistä kuvakaappauksen mihin tahansa tekstivastaukseen.\n\n\n\nÄlä jätä mitään merkintöjä sellaisen tehtävän vastaukselle varattuun tilaan, jota et halua jättää arvosteltavaksi.\n\n**Huomioithan, että harjoittelukokeessa ei voi käyttää kaavaeditoria.**",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 155640,
+          "content": {
+            "text": "Koe koostuu 13 tehtävästä, joista vastataan kymmeneen. Tehtävät on jaettu kolmeen osaan. A-osassa on neljä kaikille pakollista tehtävää. B1-osassa on viisi tehtävää, joista vastataan kolmeen. B2-osassa on neljä tehtävää, joista vastataan kolmeen. Kaikki tehtävät arvostellaan pistein 0–12, joten kokeen maksimipistemäärä on 120.\n\nA-osassa saat käyttää koejärjestelmässä olevaa taulukkokirjaa ja perusohjelmia. A-osa palautetaan tehtävän 4 jälkeen olevalla painikkeella. Tämän jälkeen A-osan vastauksia ei voi enää muokata. A-osan palauttamisen jälkeen kaikki koejärjestelmän ohjelmat ovat käytettävissäsi. Voit vastata B-osien tehtäviin myös ennen A-osan palauttamista.\n\nUseimmissa tehtävissä kaikkien osatehtävien vastaukset kirjoitetaan samaan vastauskenttään. Jaottele vastauksesi osatehtävien mukaisesti. Halutessasi voit tuottaa vastausten tueksi piirroksia, kaavioita tai taulukoita ja liittää niistä kuvakaappauksen mihin tahansa tekstivastaukseen.\n\n\n\nÄlä jätä mitään merkintöjä sellaisen tehtävän vastaukselle varattuun tilaan, jota et halua jättää arvosteltavaksi.\n\n**Huomioithan, että harjoittelukokeessa ei voi käyttää kaavaeditoria.**"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-17T12:06:23.396977",
+          "max_score": null,
+          "groupping": null,
+          "id": 5349972,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "13e8d959-da49-460c-b303-dba1acc5065f",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2023-04-05T11:01:33.964508"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Nopanheiton opetus 12 p.\n\n1. Eeri haluaa valita kahdesta nopasta paremman. Hän heittää niitä kerran ja valitsee nopan, joka antaa suuremman tuloksen. Jos kumpikin noppa antaa saman tuloksen, hän valitsee toisen nopista. Kummassakin tapauksessa Eeri heittää valitsemaansa noppaa uudestaan. Millä todennäköisyydellä nopan tulos toisella heitolla on pienempi kuin ensimmäisellä heitolla? **(9 p.)**\n2. Laajasti levinneen uutisen mukaan maailman kymmenen rikkaimman ihmisen omaisuus kaksinkertaistui koronapandemian kahden ensimmäisen vuoden aikana. Väite perustui ilmeisesti siihen, että ajanjakson lopulla oli laskettu kymmenen rikkaimman ihmisen omaisuuden arvo ja verrattu sitä heidän omaisuuteensa kaksi vuotta aikaisemmin. Tähän sisältyy ajatusvirhe, joka tulee esiin myös Eerin nopanheitossa. Mikä se on? **(3 p.)**",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/1rUOt2bgvfOE2DqtbQG7VVWLXHIAolDEU/view|text=Katso oikea vastaus täältä]",
+          "exam_id": 155640,
+          "content": {
+            "text": "### Nopanheiton opetus 12 p.\n\n1. Eeri haluaa valita kahdesta nopasta paremman. Hän heittää niitä kerran ja valitsee nopan, joka antaa suuremman tuloksen. Jos kumpikin noppa antaa saman tuloksen, hän valitsee toisen nopista. Kummassakin tapauksessa Eeri heittää valitsemaansa noppaa uudestaan. Millä todennäköisyydellä nopan tulos toisella heitolla on pienempi kuin ensimmäisellä heitolla? **(9 p.)**\n2. Laajasti levinneen uutisen mukaan maailman kymmenen rikkaimman ihmisen omaisuus kaksinkertaistui koronapandemian kahden ensimmäisen vuoden aikana. Väite perustui ilmeisesti siihen, että ajanjakson lopulla oli laskettu kymmenen rikkaimman ihmisen omaisuuden arvo ja verrattu sitä heidän omaisuuteensa kaksi vuotta aikaisemmin. Tähän sisältyy ajatusvirhe, joka tulee esiin myös Eerin nopanheitossa. Mikä se on? **(3 p.)**",
+            "displayNumber": "11."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-17T12:06:23.392413",
+          "max_score": null,
+          "groupping": null,
+          "id": 5349971,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "45234f55-3566-4458-8758-f2ec2f558c72",
+          "order_number": 15,
+          "multipart": true,
+          "created_at": "2023-04-05T11:01:33.947875"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Kulmakerroin 2 p.\n\nTason suoran [MATH text=y=ax+b] kulmakerroin on aina yhtä suuri kuin suoran",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 155640,
+          "content": {
+            "text": "#### Kulmakerroin 2 p.\n\nTason suoran [MATH text=y=ax+b] kulmakerroin on aina yhtä suuri kuin suoran",
+            "displayNumber": "1.4"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1",
+            "customizedPoints": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-17T12:06:23.387416",
+          "max_score": 2,
+          "groupping": null,
+          "id": 5353816,
+          "question_type": "CUSTOMIZED_FEEDBACK",
+          "options": [
+            {
+              "id": 60,
+              "text": "normaalin kulmakertoimen käänteisluku",
+              "parent": "ae859744-9958-44f1-a95e-774c938a5dcd",
+              "points": "1",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 61,
+              "text": "etäisyys origon kautta kulkevasta samansuuntaisesta suorasta",
+              "parent": "ae859744-9958-44f1-a95e-774c938a5dcd",
+              "points": "2",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 62,
+              "text": "yhtälöstä muodostetun funktion [MATH text=f(x)=ax+b] derivaatan arvo",
+              "parent": "ae859744-9958-44f1-a95e-774c938a5dcd",
+              "points": "0",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 63,
+              "text": "suuntakulma",
+              "parent": "ae859744-9958-44f1-a95e-774c938a5dcd",
+              "points": "0",
+              "choices": []
+            }
+          ],
+          "uuid": "ae859744-9958-44f1-a95e-774c938a5dcd",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2023-04-05T12:14:16.700671"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Vektoreiden summa 12 p.\n\nTarkastellaan vektoreita [MATH text=\\overline{u}=\\overline{i}+2 \\,\\overline{j}] ja [MATH text=\\overline{v} = \\sin(2t)\\overline{i} + \\cos(4t) \\overline{j}], missä [MATH text=t \\ge 0].\n\n1. Määritä vektori [MATH text=\\overline{u}+\\overline{v}], kun [MATH text=t=0, t=\\frac\\pi 4] ja[MATH text= t=\\frac{3\\pi}4]. **(4 p.)**                 \n2. Mikä tasokuvio muodostuu vektorin [MATH text=\\overline{u}+\\overline{v}] kärkipisteestä, kun [MATH text=t] saa arvot välillä [MATH text=[0, \\pi]]? Anna vastaus yhtälönä muodossa [MATH text=y=f(x)]. Ratkaisussa voi käyttää esimerkiksi kaavaa [MATH text=\\cos (2x)=1-2\\sin^2 x]. **(8 p.)**",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/1rUOt2bgvfOE2DqtbQG7VVWLXHIAolDEU/view|text=Katso oikea vastaus täältä]",
+          "exam_id": 155640,
+          "content": {
+            "text": "### Vektoreiden summa 12 p.\n\nTarkastellaan vektoreita [MATH text=\\overline{u}=\\overline{i}+2 \\,\\overline{j}] ja [MATH text=\\overline{v} = \\sin(2t)\\overline{i} + \\cos(4t) \\overline{j}], missä [MATH text=t \\ge 0].\n\n1. Määritä vektori [MATH text=\\overline{u}+\\overline{v}], kun [MATH text=t=0, t=\\frac\\pi 4] ja[MATH text= t=\\frac{3\\pi}4]. **(4 p.)**                 \n2. Mikä tasokuvio muodostuu vektorin [MATH text=\\overline{u}+\\overline{v}] kärkipisteestä, kun [MATH text=t] saa arvot välillä [MATH text=[0, \\pi]]? Anna vastaus yhtälönä muodossa [MATH text=y=f(x)]. Ratkaisussa voi käyttää esimerkiksi kaavaa [MATH text=\\cos (2x)=1-2\\sin^2 x]. **(8 p.)**",
+            "displayNumber": "7."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-17T12:06:23.376166",
+          "max_score": null,
+          "groupping": null,
+          "id": 5351240,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "c3dd633b-85f2-467f-88ed-9c75f5230344",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2023-04-05T11:32:25.263515"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Suoran etäisyys kahdesta pisteestä 12 p.\n\nMääritä kaikki suorat, joiden etäisyys pisteestä [MATH text=A=(-2,0)] on [MATH text=2] ja etäisyys pisteestä [MATH text=B=(3,0)] on [MATH text=3].",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/1rUOt2bgvfOE2DqtbQG7VVWLXHIAolDEU/view|text=Katso oikea vastaus täältä]",
+          "exam_id": 155640,
+          "content": {
+            "text": "### Suoran etäisyys kahdesta pisteestä 12 p.\n\nMääritä kaikki suorat, joiden etäisyys pisteestä [MATH text=A=(-2,0)] on [MATH text=2] ja etäisyys pisteestä [MATH text=B=(3,0)] on [MATH text=3].",
+            "displayNumber": "4."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-17T12:06:23.379023",
+          "max_score": null,
+          "groupping": null,
+          "id": 5351733,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "f4c2ff02-2209-4fb5-99e1-77743b3c3def",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2023-04-05T11:37:26.614753"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Polynomikonstruktio 12 p.\n\nAnna esimerkki polynomista [MATH text=P(x)], joka toteuttaa seuraavat ehdot:\n\nYhtälöllä [MATH text=P(x)=1] on täsmälleen kaksi erisuurta ratkaisua, ja yhtälöllä [MATH text=P(x)=-1] on ainakin neljä erisuurta ratkaisua.\n\nTäysien pisteiden arvoinen ratkaisu sisältää laskut, joista voidaan nähdä, että esimerkki toteuttaa vaaditut ehdot. Graafinen perustelu tai yhtälön ratkaisukäskyn käyttö eivät yksinään riitä täysiin pisteisiin.",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/1rUOt2bgvfOE2DqtbQG7VVWLXHIAolDEU/view|text=Katso oikea vastaus täältä]",
+          "exam_id": 155640,
+          "content": {
+            "text": "### Polynomikonstruktio 12 p.\n\nAnna esimerkki polynomista [MATH text=P(x)], joka toteuttaa seuraavat ehdot:\n\nYhtälöllä [MATH text=P(x)=1] on täsmälleen kaksi erisuurta ratkaisua, ja yhtälöllä [MATH text=P(x)=-1] on ainakin neljä erisuurta ratkaisua.\n\nTäysien pisteiden arvoinen ratkaisu sisältää laskut, joista voidaan nähdä, että esimerkki toteuttaa vaaditut ehdot. Graafinen perustelu tai yhtälön ratkaisukäskyn käyttö eivät yksinään riitä täysiin pisteisiin.",
+            "displayNumber": "12."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-17T12:06:23.381658",
+          "max_score": null,
+          "groupping": null,
+          "id": 5350126,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "aec5f3e8-404d-444c-92f8-59cd3300010f",
+          "order_number": 16,
+          "multipart": true,
+          "created_at": "2023-04-05T11:07:55.709577"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Pistetulo 2 p.\n\nKahden vektorin pistetulo on aina",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 155640,
+          "content": {
+            "text": "#### Pistetulo 2 p.\n\nKahden vektorin pistetulo on aina",
+            "displayNumber": "1.5"
+          },
+          "images": null,
+          "settings": {
+            "points": "",
+            "optionsLayout": "1",
+            "customizedPoints": true
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-17T12:06:23.384445",
+          "max_score": 2,
+          "groupping": null,
+          "id": 5353764,
+          "question_type": "CUSTOMIZED_FEEDBACK",
+          "options": [
+            {
+              "id": 60,
+              "text": "kokonaisluku",
+              "parent": "6a744304-68dc-4723-a46a-77f61a25c2e9",
+              "points": "1",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 61,
+              "text": "reaaliluku",
+              "parent": "6a744304-68dc-4723-a46a-77f61a25c2e9",
+              "points": "2",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 62,
+              "text": "vektori",
+              "parent": "6a744304-68dc-4723-a46a-77f61a25c2e9",
+              "points": "0",
+              "choices": []
+            },
+            {
+              "id": 63,
+              "text": "suora",
+              "parent": "6a744304-68dc-4723-a46a-77f61a25c2e9",
+              "points": "0",
+              "choices": []
+            }
+          ],
+          "uuid": "6a744304-68dc-4723-a46a-77f61a25c2e9",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2023-04-05T12:11:49.772751"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Lieriö 2 p.\n\nLieriö, jonka pohja on monikulmio, on nimeltään [SELECT id=65]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 155640,
+          "content": {
+            "text": "#### Lieriö 2 p.\n\nLieriö, jonka pohja on monikulmio, on nimeltään [SELECT id=65]",
+            "displayNumber": "1.2"
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-17T12:06:23.42521",
+          "max_score": 2,
+          "groupping": null,
+          "id": 5354025,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 65,
+              "parent": "1f2b63ad-d288-4f76-b374-296d491a15fd",
+              "choices": [
+                {
+                  "id": "6892aaa2-c5c4-4abb-bc63-8ef309ab0ef2",
+                  "text": "kartio"
+                },
+                {
+                  "id": "c611f022-576f-4936-9ca7-77fc2c3880d0",
+                  "text": "särmiö",
+                  "correct": true
+                },
+                {
+                  "id": "26e81b59-e109-4a44-8cd8-466b9b75a230",
+                  "text": "tetraedri"
+                },
+                {
+                  "id": "0ead491a-0398-46a4-8d61-623d8466ddcb",
+                  "text": "pyramidi"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "1f2b63ad-d288-4f76-b374-296d491a15fd",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2023-04-05T12:19:45.435975"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Tarkista, että vastasit ohjeiden mukaiseen määrään tehtäviä. Älä jätä mitään merkintöjä sellaisen tehtävän vastaukselle varattuun tilaan, jota et halua jättää arvosteltavaksi.**",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 155640,
+          "content": {
+            "text": "**Tarkista, että vastasit ohjeiden mukaiseen määrään tehtäviä. Älä jätä mitään merkintöjä sellaisen tehtävän vastaukselle varattuun tilaan, jota et halua jättää arvosteltavaksi.**"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-17T12:06:23.444908",
+          "max_score": null,
+          "groupping": null,
+          "id": 5350252,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "a3064ade-6297-41eb-a7a0-5c85dd114ad7",
+          "order_number": 18,
+          "multipart": true,
+          "created_at": "2023-04-05T11:13:53.754865"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### B1-osa\n\n_Vastaa kolmeen tehtävään._\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 155640,
+          "content": {
+            "text": "### B1-osa\n\n_Vastaa kolmeen tehtävään._\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-17T12:06:23.451109",
+          "max_score": null,
+          "groupping": null,
+          "id": 5349989,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "13de060c-6732-4a46-a40a-a16f5986295e",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2023-04-05T11:01:34.03043"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### B2-osa\n\n_Vastaa kolmeen tehtävään._\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 155640,
+          "content": {
+            "text": "### B2-osa\n\n_Vastaa kolmeen tehtävään._\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-17T12:06:23.453724",
+          "max_score": null,
+          "groupping": null,
+          "id": 5349988,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "a7d437cd-ad25-4654-ba25-089d76f0ff0e",
+          "order_number": 13,
+          "multipart": true,
+          "created_at": "2023-04-05T11:01:34.024117"
+        }
+      ],
+      "name": "Matematiikka, pitkä oppimäärä kevät 2023",
+      "settings": {
+        "overrideTitle": true
+      },
+      "exam_type": "yo-koe",
+      "classification": {
+        "category": "",
+        "disable_saving": false,
+        "hide_review_buttons": false,
+        "exam_type": "yo-koe",
+        "year": "2023",
+        "language": "fi-FI",
+        "hide_statistics": false,
+        "show_exam_series": false,
+        "force_yletunnus": false,
+        "subject": "matematiikka-pitkä",
+        "published": true,
+        "semester": "spring"
+      },
+      "published_at": "2023-04-05T12:24:12.000Z",
+      "language": "fi-FI",
+      "id": 155640,
+      "reviews": [],
+      "is_open": true,
+      "uuid": "f133392b-40f3-4b9a-991b-0f4e56024c9c"
+    }
+  ]
+}

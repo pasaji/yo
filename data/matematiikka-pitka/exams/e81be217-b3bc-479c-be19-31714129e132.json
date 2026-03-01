@@ -1,0 +1,539 @@
+{
+  "meta": {
+    "count": 1
+  },
+  "data": [
+    {
+      "tags": [
+        ""
+      ],
+      "main_text": "\n",
+      "characters": null,
+      "deleted_at": null,
+      "series_uuids": [],
+      "questions": [
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "a) Sievennä lauseke [MATH text=\\frac{1}{1+x}+\\frac{1}{1+\\frac{1}{x}}], kun [MATH text=x\\ne0\\ ja\\ x\\ne1].\n\n​\n\nb) Aseta luvut [MATH text=\\sqrt{2}{,}\\ \\sqrt[3&#93;{3}ja\\ \\sqrt[5&#93;{5}] suuruusjärjestykseen ja perustele vastauksesi.\n",
+          "deleted_at": null,
+          "feedback": "Lavennetaan x:llä: [MATH text=\\frac{1}{1+\\frac{1}{x}}=\\frac{x}{x+1}]\n\n⇒ lauseke saadaan muotoon [MATH text=\\frac{1+x}{x+1}]\n\n= 1 \n\n​\n\n[MATH text=\\left(\\sqrt{2}\\right)^6=2^3=8]\n\n[MATH text=\\left(\\sqrt[3&#93;{3}\\right)^6=9>8⇒\\sqrt{2}<\\sqrt[3&#93;{3}]\n\n[MATH text=\\left(\\sqrt{2}\\right)^{10}=2^5=32\\ ja\\ \\left(\\sqrt[5&#93;{5}\\right)^{10}=5^2=25<32]\n\n⇒ [MATH text=\\sqrt[5&#93;{5}<\\sqrt{2}]\n",
+          "exam_id": 42658,
+          "content": {
+            "text": "a) Sievennä lauseke [MATH text=\\frac{1}{1+x}+\\frac{1}{1+\\frac{1}{x}}], kun [MATH text=x\\ne0\\ ja\\ x\\ne1].\n\n​\n\nb) Aseta luvut [MATH text=\\sqrt{2}{,}\\ \\sqrt[3&#93;{3}ja\\ \\sqrt[5&#93;{5}] suuruusjärjestykseen ja perustele vastauksesi.\n",
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-02-21T10:48:57.65378",
+          "max_score": null,
+          "groupping": null,
+          "id": 1430336,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "9da44c40-c740-4b15-9938-56047da9eaff",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2019-07-17T10:08:15.653658"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Ratkaise seuraavat yhtälöt välillä [0, 2π]:\n\na) sin x = 1 \n\nb) f'(t)=0, kun f(t) = cos t \n\nc) sin z = (1 + cos z)(1 − cos z).\n",
+          "deleted_at": null,
+          "feedback": "[MATH text=\\sin x=1⇔\\ x=\\frac{\\pi}{2}+n\\ ·\\ 2\\pi{,}\\ n\\ ∈\\ Z]\n\nVälillä [0,2π] vain ratkaisu x = π2 \n\n\n\nf'(t) = − sin t \n\nVälillä [0,2π] nollakohdat t = 0, t = π tai t = 2π \n\n\n\nsin z = 1 − cos[SUP text=2] z = sin[SUP text=2] z ⇔ sin z (1 − sin z)=0 ⇔ sin z = 0 tai sin z = 1 \n\nEdellisten kohtien perusteella z = 0 tai z = [MATH text=\\frac{\\pi}{2}] , z = π tai z = 2π\n",
+          "exam_id": 42658,
+          "content": {
+            "text": "Ratkaise seuraavat yhtälöt välillä [0, 2π]:\n\na) sin x = 1 \n\nb) f'(t)=0, kun f(t) = cos t \n\nc) sin z = (1 + cos z)(1 − cos z).\n",
+            "displayNumber": "4."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-02-21T10:48:57.662152",
+          "max_score": null,
+          "groupping": null,
+          "id": 1430446,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "4adf6fb3-ae69-4816-9103-630a6342949b",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2019-07-17T10:11:47.222197"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**B-osa**\n\n\n\nB-osan tehtävät arvostellaan pistein 0–6. Apuvälineinä saat käyttää tau-\n\nlukkokirjaa ja laskinta. Sekä B1- että B2-osassa ratkaistaan kolme tehtävää.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 42658,
+          "content": {
+            "text": "**B-osa**\n\n\n\nB-osan tehtävät arvostellaan pistein 0–6. Apuvälineinä saat käyttää tau-\n\nlukkokirjaa ja laskinta. Sekä B1- että B2-osassa ratkaistaan kolme tehtävää.\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-02-21T10:48:57.664471",
+          "max_score": null,
+          "groupping": null,
+          "id": 1430510,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "314590fc-2579-4fe4-abd6-ed02738dedad",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2019-07-17T10:13:07.298712"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**B1-osa **\n\n\n\nRatkaise kolme tehtävistä 5–9.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 42658,
+          "content": {
+            "text": "**B1-osa **\n\n\n\nRatkaise kolme tehtävistä 5–9.\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-02-21T10:48:57.667232",
+          "max_score": null,
+          "groupping": null,
+          "id": 1430517,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "0ab77640-5919-4f44-a88c-17b9f651db51",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2019-07-17T10:13:20.440126"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Laske integraalit a) [MATH text=\\int\\_{-1}^1\\frac{1}{3+x}dx] ja b) [MATH text=\\int\\_{-1}^1e^{2\\mid x\\mid}dx].\n",
+          "deleted_at": null,
+          "feedback": "[MATH text=\\int\\_{-1}^1\\frac{dx}{3+x}=\\bigg/\\_{\\!\\!\\!\\!\\!{-1}}^1\\ln\\left(3+x\\right)]\n\n[MATH text==\\ln4-\\ln2]\n\n[MATH text=\\ln\\left(4\\bigg/\\_{\\!\\!\\!\\!\\!{ }}^{ }2\\right)=\\ln2]\n\n​\n\n[MATH text=\\int\\_{-1}^1e^{2\\mid x\\mid}dx=\\int\\_{-1}^0e^{-2x}dx+\\int\\_0^1e^{2x}dx]\n\n[MATH text==-\\frac{1}{1}\\bigg/\\_{\\!\\!\\!\\!\\!{-1}}^0e^{-2x}+\\frac{1}{2}\\bigg/\\_{\\!\\!\\!\\!\\!0}^1e^{2x}]\n\n[MATH text==e^2-1]\n",
+          "exam_id": 42658,
+          "content": {
+            "text": "Laske integraalit a) [MATH text=\\int\\_{-1}^1\\frac{1}{3+x}dx] ja b) [MATH text=\\int\\_{-1}^1e^{2\\mid x\\mid}dx].\n",
+            "displayNumber": "3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-02-21T10:48:57.673477",
+          "max_score": null,
+          "groupping": null,
+          "id": 1430409,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "0407d57e-d3c8-43b1-bf3a-c678597c0fe7",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2019-07-17T10:10:54.958"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**B2-osa **\n\n\n\nRatkaise kolme tehtävistä 10–13.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 42658,
+          "content": {
+            "text": "**B2-osa **\n\n\n\nRatkaise kolme tehtävistä 10–13.\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-02-21T10:48:57.684277",
+          "max_score": null,
+          "groupping": null,
+          "id": 1430949,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "743172e4-3fd8-4c7d-95f0-c39af7e65eca",
+          "order_number": 13,
+          "multipart": true,
+          "created_at": "2019-07-17T10:26:29.778609"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Alla olevien kuvioiden kaksi tilannetta ovat syntyneet erään abiturientin harjoitellessa\n\ndynaamisen matematiikkaohjelman käyttöä. Tehtävänä on auttaa häntä viemään tarkas-\n\ntelu loppuun molemmissa tapauksissa.\n\n\n\na) Mitä ympyrään liittyvää lausetta abiturientti tutkii kuvassa 1? Kirjoita lause mah-\n\ndollisimman täsmällisiä termejä käyttämällä. (1 p.)\n\nb) Abiturientti tarkastelee kuvassa 2 näkyvän kolmion merkillistä pistettä P. Mikä tämä\n\npiste on? Minkä pisteeseen P liittyvän geometrisen ominaisuuden abiturientti voi\n\ntodentaa, jos hän piirtää ympyrän, jonka keskipisteenä on P ja jonka säde on sopivan\n\nmittainen? (1 p.)\n\nc) Perustele joko a-kohdan lause, kun pisteet A, M ja C ovat samalla suoralla, tai\n\nb-kohdan ominaisuus. (4 p.)\n\n\n\n[IMS id=39-5780175d2ef93772774|showCopyright=false|imageLink=false]\n",
+          "deleted_at": null,
+          "feedback": "Ympyrän kaarta vastaavalle kehäkulmalle α ja keskuskulmalle β pätee β = 2α. 1\n\nKyseessä on kolmion kulmien puolittajien leikkauspiste. Kun piirretään ympyrän\n\nsisälle mahdollisimman suuri ympyrä, niin sen keskipiste on kulmien puolittajien\n\nleikkauspisteessä. \n\n\n\nTAI\n\n\n\nKyseessä on kolmion kulmien puolittajien leikkauspiste, eli kolmion kaikkien kul-\n\nmien puolittajat leikkaavat tässä yhdessä pisteessä. \n\n\n\nTAI\n\n\n\nKyseessä on kolmion kulmien puolittajien leikkauspiste. Tämä piste keskipisteenä\n\nvoidaan piirtää ympyrä, joka sivuaa kolmion kaikkia sivuja. \n\n\n\na-kohdan perustelu: Kyseessä olevassa tilanteessa kolmion BMC kulmien summa\n\non 180◦. \n\nTämän kolmion kulman M suuruus on 180◦ − β. \n\nToisaalta kyseessa on tasakylkinen kolmio (kulmasta M alkavien sivujen pituus\n\non ympyrän säde), joten myös kulman B suuruus on α. \n\nNäin ollen (180◦ − β) + α + α = 180◦, josta seuraa β = 2α. \n\n\n\nb-kohdan perustelu (ensimmäinen vaihtoehto): Asetetaan kolmion yhteen kul-\n\nmaan pieni ympyrä, joka sivuaa molempia kulman kylkiä. Annetaan ympyrän sä-\n\nteen kasvaa (sivuaminen säilyttäen) niin, että ympyrä kohtaa kolmion kolmannen\n\nkyljen. Yhdenmuotoisten kolmioiden avulla on nyt helppo osoittaa, että kolmion\n\nkaikki kulmien puolittajat leikkaavat toisensa tämän ympyrän keskipisteessä. \n\n\n\nTAI\n\n\n\nb-kohdan perustelu (toinen vaihtoehto): Todistetaan, että kolmion kulmien puo-\n\nlittajat leikkaavat toisensa samassa pisteessä.\n\nOlkoot kolmion kulmat A, B ja C. Leikatkoon kulmien A ja B puolittajat pis-\n\nteessä P. Osoitetaan, että myös kulman C puolittaja leikkaa tässä pisteessä muut\n\npuolittajat. \n\nPiirretään pisteestä P kohtisuorat kulmien A, B ja C vastaisille sivuille. Olkoot\n\nnäiden leikkauspisteet A', B' ja C'. \n\nKolmiot APC'' ja APB'' ovat yhteneviä (kks, yhteinen hypotenuusa). Samoin\n\nkolmiot BPC'' ja BPA' ovat yhteneviä. Täten etäisyys kahden kulmanpuolittajan\n\nleikkauspisteestä kullekin sivulle on sama. 1\n\nPiirretään jana PC. Nyt kolmiot CPA' ja CPB' ovat yhteneviä (suorakulmai-\n\nset kolmiot, joilla on yhteinen hypotenuusa ja yhtä pitkät kateetit). Täten CP\n\npuolittaa kulman C. \n\n\n\nTAI\n\nb-kohdan perustelu (kolmas vaihtoehto):\n\nOlkoon kulmanpuolittajien leikkauspiste P. Piirretään pisteestä P kohtisuora kai-\n\nkille kolmion sivuille. \n\nPareittain yhtenevien kolmioiden perusteella (yhteiset hypotenuusat, yhtäsuuret\n\nkulmat) kaikki etäisyydet pisteestä sivuille ovat samoja. \n\nYmpyrä siis kulkee näiden pisteiden (kohtisuorien ja sivujen leikkauspisteet) kaut-\n\nta. \n\nKyseinen etäisyys on pienin mahdollinen, joten ympyrä sivuaa kolmiota täsmäl-\n\nleen näissä pisteissä.\n",
+          "exam_id": 42658,
+          "content": {
+            "text": "Alla olevien kuvioiden kaksi tilannetta ovat syntyneet erään abiturientin harjoitellessa\n\ndynaamisen matematiikkaohjelman käyttöä. Tehtävänä on auttaa häntä viemään tarkas-\n\ntelu loppuun molemmissa tapauksissa.\n\n\n\na) Mitä ympyrään liittyvää lausetta abiturientti tutkii kuvassa 1? Kirjoita lause mah-\n\ndollisimman täsmällisiä termejä käyttämällä. (1 p.)\n\nb) Abiturientti tarkastelee kuvassa 2 näkyvän kolmion merkillistä pistettä P. Mikä tämä\n\npiste on? Minkä pisteeseen P liittyvän geometrisen ominaisuuden abiturientti voi\n\ntodentaa, jos hän piirtää ympyrän, jonka keskipisteenä on P ja jonka säde on sopivan\n\nmittainen? (1 p.)\n\nc) Perustele joko a-kohdan lause, kun pisteet A, M ja C ovat samalla suoralla, tai\n\nb-kohdan ominaisuus. (4 p.)\n\n\n\n[IMS id=39-5780175d2ef93772774|showCopyright=false|imageLink=false]\n",
+            "displayNumber": "11."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-02-21T10:48:57.698462",
+          "max_score": null,
+          "groupping": null,
+          "id": 1431017,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "9b7e0595-c166-4c45-97e1-e6a135a79acb",
+          "order_number": 15,
+          "multipart": true,
+          "created_at": "2019-07-17T10:27:45.303591"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "a) Ratkaise epäyhtälö [MATH text=x^2\\le4]\n\nb) Mitkä luvut x ∈ R toteuttavat molemmat epäyhtälöt [MATH text=x^2-4x+3\\le0] ja [MATH text=x^2-4\\le0] ?\n",
+          "deleted_at": null,
+          "feedback": "x[SUP text=2]  [MATH text=\\le ]4 ⇔ |x| [MATH text=\\le ] 2 1\n\n⇔ x [MATH text=\\le ] 2 \n\nja x ≥ −2 \n\nx[SUP text=2] − 4x +3=0 ⇔ x = 1 tai x = 3 ratkaisukaavalla \n\nylöspäin aukeva paraabeli ⇒ 1. epäyhtälö toteutuu, kun 1 [MATH text=\\le ] x  [MATH text=\\le ] 3 \n\nYhdistämällä a-kohtaan saadaan 1 [MATH text=\\le ] x  [MATH text=\\le ] 2\n",
+          "exam_id": 42658,
+          "content": {
+            "text": "a) Ratkaise epäyhtälö [MATH text=x^2\\le4]\n\nb) Mitkä luvut x ∈ R toteuttavat molemmat epäyhtälöt [MATH text=x^2-4x+3\\le0] ja [MATH text=x^2-4\\le0] ?\n",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-02-21T10:48:57.711753",
+          "max_score": null,
+          "groupping": null,
+          "id": 1430333,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "48e0dff2-dfb6-4d38-b594-e41639b859c6",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2019-07-17T10:07:51.183424"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**A-osa**\n\n\n\nRatkaise kaikki tämän osan tehtävät 1–4. Tehtävät arvostellaan pistein 0–6. Kunkin tehtävän rat-\n\nkaisu kirjoitetaan tehtävän alla olevaan vastauslaatikkoon. _Huom. Abitreenien harjoittelukokeeseen ei voi liittää kuvia. Voit tehdä laskut toisessa ohjelmassa ja verrata sen jälkeen oikeaan vastaukseen._ Apuvälineenä saat käyttää taulukkokirjaa. Laskimen käyttö ei ole sallittua.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 42658,
+          "content": {
+            "text": "**A-osa**\n\n\n\nRatkaise kaikki tämän osan tehtävät 1–4. Tehtävät arvostellaan pistein 0–6. Kunkin tehtävän rat-\n\nkaisu kirjoitetaan tehtävän alla olevaan vastauslaatikkoon. _Huom. Abitreenien harjoittelukokeeseen ei voi liittää kuvia. Voit tehdä laskut toisessa ohjelmassa ja verrata sen jälkeen oikeaan vastaukseen._ Apuvälineenä saat käyttää taulukkokirjaa. Laskimen käyttö ei ole sallittua.\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-02-21T10:48:57.726095",
+          "max_score": null,
+          "groupping": null,
+          "id": 1430293,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "f93cdcc6-a34a-4bcd-b186-21cfbe74cb10",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2019-07-17T10:06:06.200581"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Suora y=kx sivuaa ympyrää (x-5)[SUP text=2]+(y-5)[SUP text=2]=1.\n\n\n\na) Määritä kulmakertoimen k kaikki mahdolliset arvot.\n\nb) Määritä suurempaa kulmakerrointa vastaavan sivuamispisteen koordinaatit.\n",
+          "deleted_at": null,
+          "feedback": "Sivuamispisteessä yhtälöparilla y = kx, (x−5)[SUP text=2]+(y −5)[SUP text=2] = 1 on täsmälleen yksi\n\nratkaisu (x,y)\n\nSaadaan yhtälö (x − 5)[SUP text=2]+(kx − 5)[SUP text=2] = 1 ⇔ (1 + k[SUP text=2])x[SUP text=2] − 10(k + 1)x + 49 = 0 \n\nDiskriminanttiehto D = 100(k + 1)[SUP text=2] − 4 · 49(1 + k[SUP text=2])=0 \n\n⇔ 12k[SUP text=2] − 25k + 12 = 0, josta ratkaisut k = [MATH text=\\frac{3}{4}] tai k = [MATH text=\\frac{4}{3}]\n\n​\n\nSuurempi kulmakerroin on k = [MATH text=\\frac{4}{3}] , josta saadaan yhtälö [MATH text=\\frac{25}{9}x^2-\\frac{70}{3}x+49=0\\ ⇒x=\\frac{21}{5\\ }ja\\ y=\\frac{4}{3}x=\\frac{28}{5}]\n",
+          "exam_id": 42658,
+          "content": {
+            "text": "Suora y=kx sivuaa ympyrää (x-5)[SUP text=2]+(y-5)[SUP text=2]=1.\n\n\n\na) Määritä kulmakertoimen k kaikki mahdolliset arvot.\n\nb) Määritä suurempaa kulmakerrointa vastaavan sivuamispisteen koordinaatit.\n",
+            "displayNumber": "6."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-02-21T10:48:57.737043",
+          "max_score": null,
+          "groupping": null,
+          "id": 1430683,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "110d0ace-4927-4132-a81d-07b4081c3aff",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2019-07-17T10:17:04.336909"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Yksikköympyrän kehän pituus on 2π. Arvioi tätä lukua approksimoimalla ympyrää sen\n\nsisään piirretyllä säännöllisellä kuusikulmiolla ja laskemalla kuusikulmion piirin pituus.\n\nMuodosta toinen arvio säännöllisen 12-kulmion avulla ja määritä kummankin approksi-\n\nmaation suhteellinen virhe vertaamalla tuloksia laskimen antamaan luvun 2π likiarvoon.\n\n​\n\n[IMS id=39-5780125d2ef6ee90a74|showCopyright=false|imageLink=false]\n",
+          "deleted_at": null,
+          "feedback": "Kuusikulmion sivun pituus on sama kuin ympyrän säde = 1, joten sen piiri on\n\n6 · 1=6 \n\nSuhteellinen virhe on [MATH text=\\frac{6−2\\pi}{2\\pi}] ≈ −0,045 1\n\n6-kulmioon liittyvän (tasasivuisen) kolmion origosta mitattu korkeus h toteuttaa [MATH text=h^2+(\\frac{1}{2})^2=1{,}\\ joten\\ h=\\frac{\\sqrt{3}}{2}.]\n\n​\n\n12-kulmion sivun pituudelle s pätee [MATH text=(\\frac{1}{2})^2+(1−h)^2=s^2{,}]\n\njoten [MATH text=s=\\sqrt{2−\\sqrt{3}}] ja piiriksi saadaan [MATH text=12s=12\\sqrt{2−\\sqrt{3}}]\n\nVastaava suhteellinen virhe on noin −0,011\n",
+          "exam_id": 42658,
+          "content": {
+            "text": "Yksikköympyrän kehän pituus on 2π. Arvioi tätä lukua approksimoimalla ympyrää sen\n\nsisään piirretyllä säännöllisellä kuusikulmiolla ja laskemalla kuusikulmion piirin pituus.\n\nMuodosta toinen arvio säännöllisen 12-kulmion avulla ja määritä kummankin approksi-\n\nmaation suhteellinen virhe vertaamalla tuloksia laskimen antamaan luvun 2π likiarvoon.\n\n​\n\n[IMS id=39-5780125d2ef6ee90a74|showCopyright=false|imageLink=false]\n",
+            "displayNumber": "8."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-02-21T10:48:57.657552",
+          "max_score": null,
+          "groupping": null,
+          "id": 1430818,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "ed10529c-0bf6-4924-967c-2f280b75ea06",
+          "order_number": 11,
+          "multipart": true,
+          "created_at": "2019-07-17T10:19:02.122867"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Weibullin (λ, k)-jakauman avulla voidaan kuvata mm. maantiepölyn hiukkasten kokoa.\n\nTutkitaan tapausta λ = 1, jolloin jakauman tiheysfunktio määritellään kaavalla [MATH text=w(t{,}k)=kt^{k−1}e^{−t^k}],\n\nkun t ≥ 0 ja k > 0. Weibullin kertymäfunktio määritellään kaavalla\n\n[MATH text=W(x{,}k)=\\int\\_0^xw(t{,}k)dt].\n\n\n\na) Määritä [MATH text=\\_{t→0+}^{\\lim}w(t{,}k)] vakion [MATH text=k] eri arvoilla.\n\nb) Määritä kertymäfunktion W(x, k) lauseke, kun x ≥ 0.\n",
+          "deleted_at": null,
+          "feedback": "Kun k = 1, niin [MATH text=\\lim\\_{t→0+}w(t{,}1)=\\lim\\_{t→0+}^{\\_{ }}e^{−t}=1]\n\nKun 0 <k< 1, niin [MATH text=\\lim\\_{t→0+}w(t{,}k)=\\lim\\_{t→0+}kt^{k−1}e^{−tk}=∞]\n\nKun k > 1, niin [MATH text=\\lim\\_{t→0+}w(t{,}k)=\\lim\\_{t→0+}kt^{k−1}e^{−t^k}=0]\n\n​\n\n[MATH text=W(x{,}k)=\\int\\_0^xkt^{k−1}e^{−tk}dt=−\\bigg/\\_{\\!\\!\\!\\!\\!0}^xe^{−t^k}=1−e^{−x^k}{,}\\ x\\ \\ge\\ 0]\n",
+          "exam_id": 42658,
+          "content": {
+            "text": "Weibullin (λ, k)-jakauman avulla voidaan kuvata mm. maantiepölyn hiukkasten kokoa.\n\nTutkitaan tapausta λ = 1, jolloin jakauman tiheysfunktio määritellään kaavalla [MATH text=w(t{,}k)=kt^{k−1}e^{−t^k}],\n\nkun t ≥ 0 ja k > 0. Weibullin kertymäfunktio määritellään kaavalla\n\n[MATH text=W(x{,}k)=\\int\\_0^xw(t{,}k)dt].\n\n\n\na) Määritä [MATH text=\\_{t→0+}^{\\lim}w(t{,}k)] vakion [MATH text=k] eri arvoilla.\n\nb) Määritä kertymäfunktion W(x, k) lauseke, kun x ≥ 0.\n",
+            "displayNumber": "9."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-02-21T10:48:57.675695",
+          "max_score": null,
+          "groupping": null,
+          "id": 1430875,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "93358786-da58-403d-97d2-f177d413e9ba",
+          "order_number": 12,
+          "multipart": true,
+          "created_at": "2019-07-17T10:24:06.784736"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Tšernobylin vuoden 1986 ydinvoimalaonnettomuuden jälkeen radioaktiivista cesium-137-\n\nisotooppia levisi suureen osaan Eurooppaa ja myös Suomeen. Koska tämän isotoopin puo-\n\nliintumisaika on 30 vuotta, niin tietylle alueelle laskeutuneen isotoopin määrä oli puo-\n\nliintunut vuoteen 2016 mennessä. Oletetaan, että tietylle alueelle laskeutuneen isotoopin\n\nmäärä oli y[SUB text=0] vuonna 1986.\n\n​\n\na) Määritä alueen cesium-137-isotoopin määrää kuvaavassa funktiossa y(t) = y[SUB text=0]e[SUP text=−kt]\n\nesiintyvä vakio k, kun muuttujana t on aika vuosina alkaen vuodesta 1986.\n\nb) Minä vuonna kyseistä isotooppia on alueella jäljellä enää 10 % vuoden 1986 määrästä?\n\nc) Kuinka suurella nopeudella kyseisen isotoopin määrä vähenee alueella 40 vuotta on-\n\nnettomuuden jälkeen? Anna vastaus yksikkönä y[SUB text=0]/vuosi.\n",
+          "deleted_at": null,
+          "feedback": "Ehto [MATH text=y(30)=\\frac{1}{2}y(0)⇔y\\_0e^{−30k}=\\frac{1}{2}y\\_0]\n\njosta [MATH text=k=\\frac{\\ln}{230}] [yksikkönä 1/vuosi] \n\n​\n\nKysytään aikaa [MATH text=t\\_1{,}\\ jolle\\ y(t1)=\\frac{1}{10}y(0)⇔e^{−kt1}=\\frac{1}{10}]\n\nRatkaisuksi saadaan [MATH text=t\\_1=\\frac{\\ln10}{\\ln2}·\\ 30] ≈ 99,6578 vuotta, joten kysytty vuosi on\n\n1986 + 100 = 2086 \n\n​\n\nKoska [MATH text=y(t)=−ky\\_0e^{−kt}]\n\nniin [MATH text=y(40)=−\\ \\frac{\\ln2}{30}e^{−40k}y\\_0=−\\ \\frac{\\ln2}{30}2^{−4/3}y\\_0]  ≈ −0,0092 y0/vuosi\n",
+          "exam_id": 42658,
+          "content": {
+            "text": "Tšernobylin vuoden 1986 ydinvoimalaonnettomuuden jälkeen radioaktiivista cesium-137-\n\nisotooppia levisi suureen osaan Eurooppaa ja myös Suomeen. Koska tämän isotoopin puo-\n\nliintumisaika on 30 vuotta, niin tietylle alueelle laskeutuneen isotoopin määrä oli puo-\n\nliintunut vuoteen 2016 mennessä. Oletetaan, että tietylle alueelle laskeutuneen isotoopin\n\nmäärä oli y[SUB text=0] vuonna 1986.\n\n​\n\na) Määritä alueen cesium-137-isotoopin määrää kuvaavassa funktiossa y(t) = y[SUB text=0]e[SUP text=−kt]\n\nesiintyvä vakio k, kun muuttujana t on aika vuosina alkaen vuodesta 1986.\n\nb) Minä vuonna kyseistä isotooppia on alueella jäljellä enää 10 % vuoden 1986 määrästä?\n\nc) Kuinka suurella nopeudella kyseisen isotoopin määrä vähenee alueella 40 vuotta on-\n\nnettomuuden jälkeen? Anna vastaus yksikkönä y[SUB text=0]/vuosi.\n",
+            "displayNumber": "7."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-02-21T10:48:57.690574",
+          "max_score": null,
+          "groupping": null,
+          "id": 1430693,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "e8a0fc1d-320e-4a84-a576-99357fb4b6d8",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2019-07-17T10:17:30.538434"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Digitaalikellossa numerot nollasta yhdeksään esitetään numeron 8 muotoon asetettujen\n\nseitsemän LED-valon avulla (ks. kuva 1).\n\n​\n\na) Kuinka monta eri merkkiä ledeillä voidaan esittää, jos merkiltä vaaditaan, että se on\n\nyhtenäinen (kuten kuvissa 1 ja 2) ja että ainakin yksi LED-valo palaa? (4 p.)\n\nb) Kuinka suurella todennäköisyydellä merkki on yhtenäinen, jos kukin LED-valo on\n\npäällä toisista valoista riippumatta todennäköisyydellä 0,5? (Tyhjä merkki, jossa mi-\n\nkään valo ei pala, tulkitaan yhtenäiseksi.) (2 p.)\n\n​\n\n[IMS id=39-5780165d2ef90f1f627|showCopyright=false|imageLink=false]\n",
+          "deleted_at": null,
+          "feedback": "Yhtenäisten merkkien laskemisessa kannattaa käyttää jotakin systematiikkaa, jot-\n\nta lasku menee mahdollisimman kivuttomasti ja oikein. Esimerkiksi seuraava tapa\n\non mahdollinen.\n\nTarkastellaan merkkejä joissa keskiledi ei pala. Merkki on yhtenäinen, jos reunalle\n\nmuodostuu “mato”. Yhtenäisiä ovat tapaukset missä koko reuna on päällä (nolla-\n\nmerkki) ja pois (tyhjä merkki), jota ei lasketa. \n\nMuussa tapauksessa mato alkaa jossakin kuudesta pisteestä ja sen pituus on vä-\n\nlillä 1–5, eli yhteensä 30 tapausta. \n\nJäljellä on tapaukset, jossa keskimmäinen led-valo palaa. Näitä tapauksia on 2[SUP text=6] =\n\n64 kappaletta. \n\nNiistä epäyhtenäisiä ovat tapaukset, jossa kolme yläledi-valoa ovat pois-päällä-\n\npois, tai vastaavasti kolme alaledi-valoa, tai kummatkin. Yhteensä näitä tapauksia\n\non 2[SUP text=3] − 1+2[SUP text=3] − 1 + 1 = 15, eli yhtenäisiä merkkejä on 64 − 15 = 49. \n\nKaikkiaan yhtenäisiä merkkejä on siis 80 kappaletta.\n\n​\n\nErilaisia merkkejä on 2[SUP text=7] = 128 kpl, \n\njoten kysytty todennäköisyys on [MATH text=\\frac{81}{128}] (sillä nyt lasketaan myös tyhjä merkki).\n",
+          "exam_id": 42658,
+          "content": {
+            "text": "Digitaalikellossa numerot nollasta yhdeksään esitetään numeron 8 muotoon asetettujen\n\nseitsemän LED-valon avulla (ks. kuva 1).\n\n​\n\na) Kuinka monta eri merkkiä ledeillä voidaan esittää, jos merkiltä vaaditaan, että se on\n\nyhtenäinen (kuten kuvissa 1 ja 2) ja että ainakin yksi LED-valo palaa? (4 p.)\n\nb) Kuinka suurella todennäköisyydellä merkki on yhtenäinen, jos kukin LED-valo on\n\npäällä toisista valoista riippumatta todennäköisyydellä 0,5? (Tyhjä merkki, jossa mi-\n\nkään valo ei pala, tulkitaan yhtenäiseksi.) (2 p.)\n\n​\n\n[IMS id=39-5780165d2ef90f1f627|showCopyright=false|imageLink=false]\n",
+            "displayNumber": "12. "
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-02-21T10:48:57.704033",
+          "max_score": null,
+          "groupping": null,
+          "id": 1431033,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "b48a976f-10d0-41ef-b50d-933a9bb494a2",
+          "order_number": 16,
+          "multipart": true,
+          "created_at": "2019-07-17T10:28:15.581661"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "a) Määritä sellainen vakion a tarkka arvo, että yhtälöllä x[SUP text=2] = a+ln x on täsmälleen yksi\n\nratkaisu x > 0. (2 p.)\n\nb) Edellinen kohta voidaan yleistää korvaamalla x[SUP text=2] kasvavalla funktiolla f(x), jolle pätee\n\nf''(x) > 0 kaikilla x > 0. Osoita, että on olemassa yksikäsitteinen vakion a arvo, jolla\n\nyhtälöllä f(x) = a + ln x on täsmälleen yksi ratkaisu x > 0. (4 p.)\n",
+          "deleted_at": null,
+          "feedback": "Olkoon g(x) = x[SUP text=2] − a − ln x, kun x > 0. Koska g'(x)=2x − [MATH text=\\frac{1}{x}] = 0 vain yhdessä pisteessä [MATH text=x\\_0=\\frac{1}{\\sqrt{2}}], \n\nniin yhtälön ratkaisuja voi olla korkeintaan 2 (merkkikaavio) \n\nRatkaisu x[SUB text=0] on yksikäsitteinen ⇔ g(x[SUB text=0]) = g'(x[SUB text=0])=0, josta seuraa a = [MATH text=\\frac{1}{2}] (1 + ln 2) \n\n​\n\nMerkitään h(x) = f(x) − a − ln x, kun x > 0.\n\nKoska f(x) on kasvava, niin f'(x) ≥ 0, ja koska f''(x) > 0 kaikilla x > 0, on\n\noltava f'(x) > 0 kaikilla x > 0. Tällöin h'(x) = f'(x) −[MATH text=\\frac{1}{x}] = 0 ⇔ x f'(x)=1. \n\n​\n\nJos tällä yhtälöllä on kaksi eri ratkaisua x[SUB text=1],x[SUB text=2][MATH text=>] 0, niin (Rollen lauseen perus-\n\nteella) niiden välissä on funktion p(x) = x f'(x) derivaatan nollakohta c\n\n⇒ p'(c) = f'(c) + cf''(c)=0 ⇒ f''(c) = − [MATH text=\\frac{f'(c)}{c}] < 0, joka on ristiriita. \n\n​\n\nKoska f'(x) > 0, f''(x) > 0 ja [MATH text=\\frac{1}{x}] on vähenevä, niin yhtälöllä xf'(x)=1 on ratkaisu\n\nx[SUB text=0] [MATH text=>] 0, joka on edellisen perusteella yksikäsitteinen. \n\nTehtävän ehto toteutuu ainoastaan silloin, kun h(x[SUB text=0])=0, josta seuraa\n\na = f(x[SUB text=0]) − ln x[SUB text=0].\n",
+          "exam_id": 42658,
+          "content": {
+            "text": "a) Määritä sellainen vakion a tarkka arvo, että yhtälöllä x[SUP text=2] = a+ln x on täsmälleen yksi\n\nratkaisu x > 0. (2 p.)\n\nb) Edellinen kohta voidaan yleistää korvaamalla x[SUP text=2] kasvavalla funktiolla f(x), jolle pätee\n\nf''(x) > 0 kaikilla x > 0. Osoita, että on olemassa yksikäsitteinen vakion a arvo, jolla\n\nyhtälöllä f(x) = a + ln x on täsmälleen yksi ratkaisu x > 0. (4 p.)\n",
+            "displayNumber": "13."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-02-21T10:48:57.719157",
+          "max_score": null,
+          "groupping": null,
+          "id": 1431050,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "ac3b5b3f-e5f7-4d8b-a4d2-e7622d40d3a3",
+          "order_number": 17,
+          "multipart": true,
+          "created_at": "2019-07-17T10:28:49.844517"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Olkoot [MATH text=\\overline{u}=\\overline{i}+2\\overline{j}+3\\overline{k}\\ ja\\ \\overline{v}=−\\overline{i}−7\\overline{k}] vektoreita. Laske summa [MATH text=\\overline{u}+2\\overline{v}], pistetulo [MATH text=\\overline{u}·\\overline{v}]\n\nsekä vektoreiden [MATH text=\\overline{u}\\ ja\\ \\overline{v}] välisen kulman likiarvo asteen tarkkuudella.\n",
+          "deleted_at": null,
+          "feedback": "[MATH text=\\overline{u}+2\\overline{v}=−\\overline{i}+2j−11\\overline{k}]\n\nYksi kerroin väärin, kaksi oikein \n\n​\n\n[MATH text=\\overline{u}\\ ·\\ \\overline{v}=−1+0−21=−22]\n\npieni laskuvirhe\n\n​\n\ncos φ = [MATH text=\\frac{\\overline{u}\\ \\cdot\\overline{\\ v}}{\\parallel\\overline{u}\\parallel\\parallel\\overline{v}\\parallel}=\\frac{-22}{\\sqrt{14}\\sqrt{50}}]\n\n⇒ φ = 146,255 ...◦ ≈ 146◦\n",
+          "exam_id": 42658,
+          "content": {
+            "text": "Olkoot [MATH text=\\overline{u}=\\overline{i}+2\\overline{j}+3\\overline{k}\\ ja\\ \\overline{v}=−\\overline{i}−7\\overline{k}] vektoreita. Laske summa [MATH text=\\overline{u}+2\\overline{v}], pistetulo [MATH text=\\overline{u}·\\overline{v}]\n\nsekä vektoreiden [MATH text=\\overline{u}\\ ja\\ \\overline{v}] välisen kulman likiarvo asteen tarkkuudella.\n",
+            "displayNumber": "5."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-02-21T10:48:57.733061",
+          "max_score": null,
+          "groupping": null,
+          "id": 1430532,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "36b3707e-77e0-41fd-ae07-bd6cbd1046e0",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2019-07-17T10:13:46.905361"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Tässä tehtävässä on käytössä kaksi mittakeppiä sekä kynä, jolla voi tehdä merkintöjä.\n\nTarkoituksena on mitata keppien avulla pituuksia. Silmämääräisiä arvioita ei sallita.\n\n\n\na) Voidaanko 5 metrin ja 3 metrin keppien avulla mitata 4 metrin pituus? (1 p.)\n\nb) Voidaanko 10 metrin ja 6 metrin keppien avulla mitata 7 metrin pituus? (1 p.)\n\nc) Määritä ne positiiviset kokonaisluvut k, joilla on seuraava ominaisuus: 2k metrin ja\n\nk + 1 metrin pituisten keppien avulla voidaan mitata k + 2 metrin pituus. (4 p.)\n",
+          "deleted_at": null,
+          "feedback": "Lukujen 3 ja 5 suurin yhteinen tekijä on 1,\n\njoten kaikki kokonaisluvut n voidaan esittää muodossa n = 5x + 3y sopivilla\n\nx,y ∈ Z. Vastaus on siis: Voidaan. \n\n\n\nTai: Keksitty esitys 4=8 · 3 − 4 · 5, josta vastaus \n\nLukujen 6 ja 10 syt on 2,\n\njoten niiden avulla voidaan muodostaa vain parillisia lukuja. Vastaus: Ei voida. \n\n\n\nsyt(2k,k + 1) = syt(2k − (k + 1),k + 1) = syt(k − 1,k + 1) = syt(k + 1,2).\n\nJos k on pariton, niin syt(k+1,2) = 2, eikä paritonta lukua k+2 voida muodostaa. \n\nJos k = 2n on parillinen, niin syt(k + 1,2) = 1, joten k + 2 voidaan muodostaa.\n\nVastaus: Kaikki parilliset positiiviset kokonaisluvut k.\n\n\n\nTai: Jos k = 2n, niin k + 2 = 2(n + 1) on parillinen ja se voidaan muodostaa\n\nkaavan k +2=(n + 1)(2(k + 1) − 2k) nojalla.\n",
+          "exam_id": 42658,
+          "content": {
+            "text": "Tässä tehtävässä on käytössä kaksi mittakeppiä sekä kynä, jolla voi tehdä merkintöjä.\n\nTarkoituksena on mitata keppien avulla pituuksia. Silmämääräisiä arvioita ei sallita.\n\n\n\na) Voidaanko 5 metrin ja 3 metrin keppien avulla mitata 4 metrin pituus? (1 p.)\n\nb) Voidaanko 10 metrin ja 6 metrin keppien avulla mitata 7 metrin pituus? (1 p.)\n\nc) Määritä ne positiiviset kokonaisluvut k, joilla on seuraava ominaisuus: 2k metrin ja\n\nk + 1 metrin pituisten keppien avulla voidaan mitata k + 2 metrin pituus. (4 p.)\n",
+            "displayNumber": "10."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-02-21T10:48:57.742875",
+          "max_score": null,
+          "groupping": null,
+          "id": 1430963,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "61d535c4-575e-46d9-a277-78e5acfb1818",
+          "order_number": 14,
+          "multipart": true,
+          "created_at": "2019-07-17T10:26:46.950896"
+        }
+      ],
+      "name": "Matematiikka, pitkä oppimäärä syksy 2018",
+      "settings": {},
+      "exam_type": "yo-koe",
+      "classification": {
+        "category": "",
+        "disable_saving": false,
+        "hide_review_buttons": false,
+        "exam_type": "yo-koe",
+        "year": "2018",
+        "language": "fi-FI",
+        "hide_statistics": false,
+        "show_exam_series": false,
+        "force_yletunnus": false,
+        "subject": "matematiikka-pitkä",
+        "published": true,
+        "semester": "fall"
+      },
+      "published_at": "2019-07-17T13:27:28.875Z",
+      "language": "fi-FI",
+      "id": 42658,
+      "reviews": [],
+      "is_open": true,
+      "uuid": "e81be217-b3bc-479c-be19-31714129e132"
+    }
+  ]
+}

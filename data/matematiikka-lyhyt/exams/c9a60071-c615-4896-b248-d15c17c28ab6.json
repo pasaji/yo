@@ -1,0 +1,1255 @@
+{
+  "meta": {
+    "count": 1
+  },
+  "data": [
+    {
+      "tags": [
+        ""
+      ],
+      "main_text": "Koe koostuu 13 tehtävästä, joista vastataan kymmeneen. Tehtävät on jaettu kolmeen osaan. A-osassa on neljä kaikille pakollista tehtävää. B1-osassa on viisi tehtävää, joista vastataan kolmeen. B2-osassa on neljä tehtävää, joista vastataan kolmeen. Kaikki tehtävät arvostellaan pistein 0–12, joten kokeen maksimipistemäärä on 120.\n\n&NewLine;\n\nA-osassa saat käyttää koejärjestelmässä olevaa taulukkokirjaa ja perusohjelmia. A-osa palautetaan tehtävän 4 jälkeen olevalla painikkeella. Tämän jälkeen A-osan vastauksia ei voi enää muokata. A-osan palauttamisen jälkeen kaikki koejärjestelmän ohjelmat ovat käytettävissäsi. Voit vastata B-osien tehtäviin myös ennen A-osan palauttamista.\n\n&NewLine;\n\nUseimmissa tehtävissä kaikkien osatehtävien vastaukset kirjoitetaan samaan vastauskenttään. Jaottele vastauksesi osatehtävien mukaisesti. Halutessasi voit tuottaa vastausten tueksi piirroksia, kaavioita tai taulukoita ja liittää niistä kuvakaappauksen mihin tahansa tekstivastaukseen.\n\n&NewLine;\n\nÄlä jätä mitään merkintöjä sellaisen tehtävän vastaukselle varattuun tilaan, jota et halua jättää arvosteltavaksi.",
+      "characters": null,
+      "deleted_at": null,
+      "series_uuids": [],
+      "questions": [
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Laina 12 p.\n\nPaju on ottanut 135 000 euron lainan, jonka kiinteä vuosikorko on 4,5 prosenttia ja takaisinmaksuaika 12 vuotta ja jota lyhennetään kuukausittain. Laske Pajun 13. maksuerä, kun kyseessä on\n\n1. annuiteettilaina. **(6 p.)**\n2. tasalyhennyslaina. **(6 p.)**",
+          "deleted_at": null,
+          "feedback": "Kuukausikorko on [MATH text=\\frac{4{,}5\\ }{12\\%}=0{,}375\\%] 1 p.\n\njoten korkokerroin on 1,00375 1 p.\n\nLyhennyskausia on [MATH text=12*12] 1 p.\n\nKäytetään annuiteetin kaavaa, jolloin saadaan [MATH text=135000\\cdot1{,}00375^{144}\\frac{1-1{,}00375}{1-1{,}00375^{144}}] 2 p.\n\n[MATH text=\\approx 1215,01]euroa. 1 p.\n\nLainaa lyhennetään joka erässä yhtä paljon, joten yksittäisen lyhennyksen suuruus on [MATH text=135000/144=937,50] euroa. 2 p.\n\nLainaa on siis jäljellä 12 lyhennyksen jälkeen [MATH text=135000-12*937,50=123750] euroa. 1 p.\n\nTästä maksetaan korkoa [MATH text=123750*0,00375=464,06] euroa. 2 p.\n\nYhteensä maksuerä on siis 1401,56  euroa. 1 p.",
+          "exam_id": 202788,
+          "content": {
+            "text": "### Laina 12 p.\n\nPaju on ottanut 135 000 euron lainan, jonka kiinteä vuosikorko on 4,5 prosenttia ja takaisinmaksuaika 12 vuotta ja jota lyhennetään kuukausittain. Laske Pajun 13. maksuerä, kun kyseessä on\n\n1. annuiteettilaina. **(6 p.)**\n2. tasalyhennyslaina. **(6 p.)**",
+            "displayNumber": "3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-01-10T14:32:25.210464",
+          "max_score": null,
+          "groupping": null,
+          "id": 6624206,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "b0033b95-0c62-4143-b36e-68cee8058060",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2024-03-25T11:17:05.84166"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Derivoiva avaruusluotain 12 p.\n\nAvaruusluotain mittaa planeetan lämpötilaa. Sen piti lähettää tietoa lämpötilasta funktiona [MATH text=T(t)] aikavälillä [MATH text=0 <= t <= 9]. Ohjelmistovirheen takia saatiin kuitenkin vain tieto, että funktion derivaatta [MATH text=T’(t)] on negatiivinen, kun [MATH text=t < 2], positiivinen, kun [MATH text=2 < t < 4], ja jälleen negatiivinen, kun[MATH text= t > 4]. Tutkijat miettivät, mitä tämän perusteella voidaan sanoa lämpötilasta T.\n\n1. Hahmottele esimerkki lämpötilafunktion T kuvaajasta, jolla on lisäksi se ominaisuus, että lämpötilan suurin arvo saavutetaan hetkellä t =4. **(6 p.)**\n2. Hahmottele esimerkki lämpötilafunktion T kuvaajasta, jolla on lisäksi se ominaisuus, että lämpötilan suurinta arvoa ei saavuteta hetkellä t =4. **(6 p.)**\n\nSelitä kummassakin tapauksessa sanallisesti, miten vaaditut lämpötilafunktion ominaisuudet näkyvät kuvaajassa.",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso hyvän vastauksen piirteet täältä.|url=https://yle.fi/plus/abitreenit/2024/kevat/matematiikka_lyhyt/index.html#question-nr-13]",
+          "exam_id": 202788,
+          "content": {
+            "text": "### Derivoiva avaruusluotain 12 p.\n\nAvaruusluotain mittaa planeetan lämpötilaa. Sen piti lähettää tietoa lämpötilasta funktiona [MATH text=T(t)] aikavälillä [MATH text=0 <= t <= 9]. Ohjelmistovirheen takia saatiin kuitenkin vain tieto, että funktion derivaatta [MATH text=T’(t)] on negatiivinen, kun [MATH text=t < 2], positiivinen, kun [MATH text=2 < t < 4], ja jälleen negatiivinen, kun[MATH text= t > 4]. Tutkijat miettivät, mitä tämän perusteella voidaan sanoa lämpötilasta T.\n\n1. Hahmottele esimerkki lämpötilafunktion T kuvaajasta, jolla on lisäksi se ominaisuus, että lämpötilan suurin arvo saavutetaan hetkellä t =4. **(6 p.)**\n2. Hahmottele esimerkki lämpötilafunktion T kuvaajasta, jolla on lisäksi se ominaisuus, että lämpötilan suurinta arvoa ei saavuteta hetkellä t =4. **(6 p.)**\n\nSelitä kummassakin tapauksessa sanallisesti, miten vaaditut lämpötilafunktion ominaisuudet näkyvät kuvaajassa.",
+            "displayNumber": "13."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-01-10T14:32:25.196544",
+          "max_score": null,
+          "groupping": null,
+          "id": 6721908,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "e3a446c3-6fa8-4e18-8f2c-1635f3bd50b8",
+          "order_number": 17,
+          "multipart": true,
+          "created_at": "2024-03-28T11:39:18.846551"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Todennäköisyyslaskennan alkuperä 12 p.\n\nTodennäköisyyslaskenta sai alkunsa 1600-luvun Ranskasta, jossa eräissä piireissä harjoitettiin uhkapeliä. Antoine Gombaud oli ranskalainen kirjailija ja peluri, joka huomasi, että voiton todennäköisyys oli eri kahdessa noppapelissä, mutta hän ei pystynyt perustelemaan tätä matemaattisesti. Koska Gombaud käytti myös nimeä Chevalier de Méré, tätä kutsutaan *de Mérén ongelmaksi*. Pelien periaatteet ovat seuraavat:\n\n- Kummassakin pelissä haastaja pelasi de Méréä vastaan. Sekä haastaja että de Méré laittoivat pottiin saman verran rahaa, ja voittaja sai koko potin.\n- Ensimmäisessä pelissä de Méré heitti yhtä noppaa neljä kertaa. Jos hän sai vähintään yhden kuutosen, hän voitti, muussa tapauksessa hän hävisi. Kokemus osoitti, että tämä oli de Mérélle tuottoisa peli.\n- Toisessa pelissä de Méré heitti kahta noppaa yhtä aikaa 24 kertaa. Jos hän sai vähintään yhden kuutosparin, hän voitti, muussa tapauksessa hän hävisi. Tämä peli osoittautui kuitenkin tappiolliseksi de Mérélle.\n\nVastatakseen de Mérén ongelmaan kaksi aikalaismatemaatikkoa, Blaise Pascal ja Pierre de Fermat, kehittivät todennäköisyyslaskennan teorian alkeet ja osoittivat, että pitkällä aikavälillä de Méré voittaa ensimmäisessä pelissä ja häviää toisessa. Osoita tämä todennäköisyyslaskennan keinoin.",
+          "deleted_at": null,
+          "feedback": "Todennäköisyys, ettei saada yhtään kuutosta neljällä heitolla, on [MATH text=\\binom{5}{6}^4] 3 p. \n\njoten de Mérén voittotodennäköisyys ensimmäisessä pelissä on komplementtitodennäköisyyden perusteella [MATH text=1-\\frac{5}{6}^4=\\frac{671}{1296}\\approx0,52] 2 p. Koska [MATH text=0,52>0,5] pitkällä aikavälillä de Méré voittaa enemmän kuin häviää. 1 p.\n\nTodennäköisyys, ettei saada yhtään kuutosparia 24 heitolla, on [MATH text=\\frac{35}{36}^24] sillä erilaisia heittopareja on 36 kappaletta. 3 p.\n\nSiten de Mérén voittotodennäköisyys toisessa pelissä on komplementtitodennäköisyyden perusteella [MATH text=1-\\frac{35}{36}^24\\approx0,49] 2 p.\n\n Koska [MATH text=0,49<0,5], pitkällä aikavälillä de Méré häviää enemmän kuin voittaa. 1 p. ",
+          "exam_id": 202788,
+          "content": {
+            "text": "### Todennäköisyyslaskennan alkuperä 12 p.\n\nTodennäköisyyslaskenta sai alkunsa 1600-luvun Ranskasta, jossa eräissä piireissä harjoitettiin uhkapeliä. Antoine Gombaud oli ranskalainen kirjailija ja peluri, joka huomasi, että voiton todennäköisyys oli eri kahdessa noppapelissä, mutta hän ei pystynyt perustelemaan tätä matemaattisesti. Koska Gombaud käytti myös nimeä Chevalier de Méré, tätä kutsutaan *de Mérén ongelmaksi*. Pelien periaatteet ovat seuraavat:\n\n- Kummassakin pelissä haastaja pelasi de Méréä vastaan. Sekä haastaja että de Méré laittoivat pottiin saman verran rahaa, ja voittaja sai koko potin.\n- Ensimmäisessä pelissä de Méré heitti yhtä noppaa neljä kertaa. Jos hän sai vähintään yhden kuutosen, hän voitti, muussa tapauksessa hän hävisi. Kokemus osoitti, että tämä oli de Mérélle tuottoisa peli.\n- Toisessa pelissä de Méré heitti kahta noppaa yhtä aikaa 24 kertaa. Jos hän sai vähintään yhden kuutosparin, hän voitti, muussa tapauksessa hän hävisi. Tämä peli osoittautui kuitenkin tappiolliseksi de Mérélle.\n\nVastatakseen de Mérén ongelmaan kaksi aikalaismatemaatikkoa, Blaise Pascal ja Pierre de Fermat, kehittivät todennäköisyyslaskennan teorian alkeet ja osoittivat, että pitkällä aikavälillä de Méré voittaa ensimmäisessä pelissä ja häviää toisessa. Osoita tämä todennäköisyyslaskennan keinoin.",
+            "displayNumber": "12."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-01-10T14:32:25.192584",
+          "max_score": null,
+          "groupping": null,
+          "id": 6721907,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "3aa206f8-62a5-4a11-b0a1-99d523a052eb",
+          "order_number": 16,
+          "multipart": true,
+          "created_at": "2024-03-28T11:39:18.844119"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Maitotölkki 12 p.\n\nMaitotölkki voidaan mallintaa suorakulmaisena särmiönä ja sen päällä olevana yläosana. Oletetaan, että täydessä maitotölkissä maito täyttää täsmälleen särmiöosan.\n\n&NewLine;\n\n**1.** Sekä litran että 1,75 litran maitotölkin pohja on neliö ja särmiöosan korkeus on 20 cm. Määritä kummassakin tapauksessa pohjaneliön sivun pituus. **(4 p.)**\n\n&NewLine;\n\n**2.** Arvioidaan pakkauksen materiaalin määrää kaavalla [MATH text=A_1 +4,5 *A_2], missä[MATH text= A_1] on särmiön sivutahkojen yhteenlaskettu pinta-ala ja [MATH text=A_2] on pohjaneliön pinta-ala. Kummassa maitotölkissä on enemmän pakkausmateriaalia suhteessa maidon määrään? **(8 p.)**",
+          "deleted_at": null,
+          "feedback": "Suuremman maitotölkin pohjan ala on [MATH text=1,75/2=0,875 dm^2] 1 p.\n\njoten sen pohjaneliön sivun pituus on  [MATH text=\\sqrt{0,875}\\approx0,94dm\\approx9cm ]1 p. \n\nPienemmän maitotölkin pohjan ala on [MATH text=1/2=0,5dm^2] 1 p. \n\njoten sen pohjaneliön sivun pituus on [MATH text=\\sqrt{0{,}5}\\approx0{,}71\\ dm\\ \\approx\\ 7\\ cm] 1 p. \n\nSuuremman tölkin pohjan ala on [MATH text=0,875 dm^2] ja sivujen ala yhteensä [MATH text=4*2*0,94 dm^2] 2 p. \n\nMateriaalia tarvitaan siis [MATH text=(4,5*0,875+4*2*0,94)dm^2] 1 p.\n\n Suhde on [MATH text=\\frac{\\left(4{,}5\\cdot0{,}5+4\\cdot2\\cdot0{,}71\\right)dm^2}{1{,}75\\ l}\\approx4{,}8\\ \\approx6{,}5] 1 p. \n\nVastaavasti pienemmän tölkin pohjan ala on [MATH text=0,5 dm^2] ja sivujen ala yhteensä [MATH text=4*2*0,71 dm^2] 1 p.\n\nMateriaalia tarvitaan siis [MATH text=(4,5*0,5+4*2*0,71)dm^2] 1 p.\n\nSuhde on \\frac{\\left(4{,}5*0{,}5+4*2*0{,}71\\right)dm^2}{1l}\\approx7{,}9\\frac{dm^2}{l}  1 p.\n\n Pienemmässä tölkissä on enemmän materiaalia suhteessa maidon määrään. 1 p",
+          "exam_id": 202788,
+          "content": {
+            "text": "### Maitotölkki 12 p.\n\nMaitotölkki voidaan mallintaa suorakulmaisena särmiönä ja sen päällä olevana yläosana. Oletetaan, että täydessä maitotölkissä maito täyttää täsmälleen särmiöosan.\n\n&NewLine;\n\n**1.** Sekä litran että 1,75 litran maitotölkin pohja on neliö ja särmiöosan korkeus on 20 cm. Määritä kummassakin tapauksessa pohjaneliön sivun pituus. **(4 p.)**\n\n&NewLine;\n\n**2.** Arvioidaan pakkauksen materiaalin määrää kaavalla [MATH text=A_1 +4,5 *A_2], missä[MATH text= A_1] on särmiön sivutahkojen yhteenlaskettu pinta-ala ja [MATH text=A_2] on pohjaneliön pinta-ala. Kummassa maitotölkissä on enemmän pakkausmateriaalia suhteessa maidon määrään? **(8 p.)**",
+            "displayNumber": "11."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-01-10T14:32:25.190089",
+          "max_score": null,
+          "groupping": null,
+          "id": 6721863,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "ffde1a9d-8eed-47f2-b3a0-625faaf0d720",
+          "order_number": 15,
+          "multipart": true,
+          "created_at": "2024-03-28T11:28:19.140351"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Oppilaan ratkaisutapa 12 p.\n\nOppilas kertoo keksineensä helpon tavan laskea murtolukujen jakolaskun: ''Jaan osoittajat keskenään ja nimittäjät keskenään, jolloin saan suoraan vastauksen murtolukuna.'' Esimerkkinä hän mainitsee\n\n[MATH text=\\frac{3}{20}:\\frac{1}{4}=\\frac{3:1}{20:4}=\\frac{3}{5}].\n\n&NewLine;\n\n**1.** Onko esimerkkilaskun lopputulos oikein? **(2 p.)**\n\n**2.** Laske oppilaan menetelmällä [MATH text= \\frac6{35} : \\frac35]. **(4 p.)**\n\n**3.** Keksi esimerkki, jossa ratkaisutapa tuottaa lopputuloksena murtoluvun, joka ei ole supistetussa muodossa. **(6 p.)**\n\n&NewLine;\n\nTässä murtoluku on muotoa n/m tai -n/m oleva merkintä, jossa n on luonnollinen luku ja m on positiivinen kokonaisluku.",
+          "deleted_at": null,
+          "feedback": "Lopputulos on oikein, sillä [MATH text=\\frac{3}{20}:\\frac{1}{4}=\\frac{3}{20}*\\frac{4}{1}=\\frac{12}{20}=\\frac{3}{5}]2 p.\n\n&NewLine;\n[MATH text=\\frac{6}{35}:\\frac{3}{5}=\\frac{6:3}{35:5}=\\frac{2}{7}] 4 p.\n\n&NewLine;\n\nPisteet: toimiva pari (2 p.) ja perustelut (4 p.). 6 p.\n\nLaskun [MATH text=\\frac{60}{4}:\\frac{3}{2}=\\frac{60:3}{4:2}=\\frac{20}{2}] lopputulos ei ole supistetussa muodossa. ",
+          "exam_id": 202788,
+          "content": {
+            "text": "### Oppilaan ratkaisutapa 12 p.\n\nOppilas kertoo keksineensä helpon tavan laskea murtolukujen jakolaskun: ''Jaan osoittajat keskenään ja nimittäjät keskenään, jolloin saan suoraan vastauksen murtolukuna.'' Esimerkkinä hän mainitsee\n\n[MATH text=\\frac{3}{20}:\\frac{1}{4}=\\frac{3:1}{20:4}=\\frac{3}{5}].\n\n&NewLine;\n\n**1.** Onko esimerkkilaskun lopputulos oikein? **(2 p.)**\n\n**2.** Laske oppilaan menetelmällä [MATH text= \\frac6{35} : \\frac35]. **(4 p.)**\n\n**3.** Keksi esimerkki, jossa ratkaisutapa tuottaa lopputuloksena murtoluvun, joka ei ole supistetussa muodossa. **(6 p.)**\n\n&NewLine;\n\nTässä murtoluku on muotoa n/m tai -n/m oleva merkintä, jossa n on luonnollinen luku ja m on positiivinen kokonaisluku.",
+            "displayNumber": "10."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-01-10T14:32:25.187549",
+          "max_score": null,
+          "groupping": null,
+          "id": 6719214,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "c9a61181-5adf-40da-a8c2-ae1255efba4f",
+          "order_number": 14,
+          "multipart": true,
+          "created_at": "2024-03-28T09:54:16.4673"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Vitamiinipitoisuus 12 p.\n\nYritys valmistaa D3-vitamiinikapseleita. Pakkauksen mukaan yksi kapseli sisältää 50 mikrogrammaa D3-vitamiinia. Yritys antaa kapseleiden laadunvarmistuksen erään tutkimuslaitoksen tehtäväksi. Laitoksen mikrobiologi määrittää yhden kapselin sisältämän D3-vitamiinin määrän olevan normaalijakautunut odotusarvona 54,1 mikrogrammaa ja keskihajontana 8,4 mikrogrammaa.\n\n1. Vitamiinin käyttäjä valitsee pakkauksesta umpimähkään yhden kapselin. Millä todennäköisyydellä kapseli sisältää vähintään 50 mikrogrammaa D3-vitamiinia? **(5 p.)**\n2. Yritys haluaa varmistaa, että 95 % kapseleista sisältää vähintään 50 mikrogrammaa D3-vitamiinia. Millä D3-vitamiinimäärän odotusarvolla tämä vaatimus saavutetaan laadunvarmistuksessa? Oletetaan, että vitamiinin määrän kasvattaminen ei vaikuta keskihajontaan. **(7 p.)**",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso hyvän vastauksen piirteet täältä.|url=https://yle.fi/plus/abitreenit/2024/kevat/matematiikka_lyhyt/matematiikka_lyhyt_hvp.pdf]",
+          "exam_id": 202788,
+          "content": {
+            "text": "### Vitamiinipitoisuus 12 p.\n\nYritys valmistaa D3-vitamiinikapseleita. Pakkauksen mukaan yksi kapseli sisältää 50 mikrogrammaa D3-vitamiinia. Yritys antaa kapseleiden laadunvarmistuksen erään tutkimuslaitoksen tehtäväksi. Laitoksen mikrobiologi määrittää yhden kapselin sisältämän D3-vitamiinin määrän olevan normaalijakautunut odotusarvona 54,1 mikrogrammaa ja keskihajontana 8,4 mikrogrammaa.\n\n1. Vitamiinin käyttäjä valitsee pakkauksesta umpimähkään yhden kapselin. Millä todennäköisyydellä kapseli sisältää vähintään 50 mikrogrammaa D3-vitamiinia? **(5 p.)**\n2. Yritys haluaa varmistaa, että 95 % kapseleista sisältää vähintään 50 mikrogrammaa D3-vitamiinia. Millä D3-vitamiinimäärän odotusarvolla tämä vaatimus saavutetaan laadunvarmistuksessa? Oletetaan, että vitamiinin määrän kasvattaminen ei vaikuta keskihajontaan. **(7 p.)**",
+            "displayNumber": "8."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-01-10T14:32:25.183036",
+          "max_score": null,
+          "groupping": null,
+          "id": 6718825,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "22b125bd-50a7-4fb3-9f5b-e6452cbb95fb",
+          "order_number": 11,
+          "multipart": true,
+          "created_at": "2024-03-28T09:45:53.485544"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Tiimalasi 12 p.\n\n#### Aineisto\n\n[LINK text=7.A Kuva: Tiimalasi|url=https://yle.fi/plus/abitreenit/2024/kevat/matematiikka_lyhyt/attachments/index.html#7.A]\n\n&NewLine;\n\nTiimalasi koostuu kahdesta samanlaisesta osasta, jotka on asetettu vastakkain; katso esimerkki kuvassa 7.A. Yhden osan korkeus on 18 cm. Tiimalasi sisältää nestettä, joka valuu hitaasti yläosasta alaosaan. Nestettä on sen verran, että tiimalasin alaosa on täynnä nestettä, kun yläosa on tyhjentynyt.\n\n&NewLine;\n\nTiimalasi käännetään, kun kaikki neste on alaosassa. Kääntämisestä kulunut aika t minuutteina voidaan laskea kaavalla\n\n[MATH text=t =120 (1- (1 -h/18)^3)],\n\njossa h on (uudessa) alaosassa olevan nesteen pinnan korkeus senttimetreinä pohjasta mitattuna.\n\n1. Millä korkeudella tiimalasin pohjalla olevan nesteen pinta on, kun aikaa kääntämisestä on kulunut tasan tunti? **(4 p.)**\n2. Kun aikaa on kulunut 13 minuuttia, niin tiimalasin pohjalla on 1,0 desilitraa nestettä. Tiedetään, että tiimalasin pohjalla olevan nesteen määrä on suoraan verrannollinen kääntämisestä kuluneeseen aikaan. Kuinka paljon nestettä tiimalasissa kaiken kaikkiaan on? **(8 p.)**",
+          "deleted_at": null,
+          "feedback": "Tunnissa on 60 minuuttia, joten ratkaistaan yhtälö [MATH text=60=120 (1- (1 -h/18)^3)] 2 p. \n\nEsimerkiksi Solve-komennolla saadaan [MATH text=h\\approx3,7 cm] 2 p. \n\nTiimalasi on tyhjentynyt täysin, kun [MATH text=h=18 ]eli aikaa on kulunut [MATH text=120 (1- (1 -18/18)^3)=120] minuuttia. 3 p. \n\nKoska nestemäärä on suoraan verrannollinen aikaan, saadaan yhtälö [MATH text=13/1=120/V], jossa V on nesteen kokonaistilavuus desilitroissa. 3 p. \n\nSaadaan [MATH text=V=120/13\\approx9,2] desilitraa. 2 p.",
+          "exam_id": 202788,
+          "content": {
+            "text": "### Tiimalasi 12 p.\n\n#### Aineisto\n\n[LINK text=7.A Kuva: Tiimalasi|url=https://yle.fi/plus/abitreenit/2024/kevat/matematiikka_lyhyt/attachments/index.html#7.A]\n\n&NewLine;\n\nTiimalasi koostuu kahdesta samanlaisesta osasta, jotka on asetettu vastakkain; katso esimerkki kuvassa 7.A. Yhden osan korkeus on 18 cm. Tiimalasi sisältää nestettä, joka valuu hitaasti yläosasta alaosaan. Nestettä on sen verran, että tiimalasin alaosa on täynnä nestettä, kun yläosa on tyhjentynyt.\n\n&NewLine;\n\nTiimalasi käännetään, kun kaikki neste on alaosassa. Kääntämisestä kulunut aika t minuutteina voidaan laskea kaavalla\n\n[MATH text=t =120 (1- (1 -h/18)^3)],\n\njossa h on (uudessa) alaosassa olevan nesteen pinnan korkeus senttimetreinä pohjasta mitattuna.\n\n1. Millä korkeudella tiimalasin pohjalla olevan nesteen pinta on, kun aikaa kääntämisestä on kulunut tasan tunti? **(4 p.)**\n2. Kun aikaa on kulunut 13 minuuttia, niin tiimalasin pohjalla on 1,0 desilitraa nestettä. Tiedetään, että tiimalasin pohjalla olevan nesteen määrä on suoraan verrannollinen kääntämisestä kuluneeseen aikaan. Kuinka paljon nestettä tiimalasissa kaiken kaikkiaan on? **(8 p.)**",
+            "displayNumber": "7."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-01-10T14:32:25.179574",
+          "max_score": null,
+          "groupping": null,
+          "id": 6718776,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "abe73418-26c5-4b65-9f8f-083561c41439",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2024-03-28T09:41:08.72131"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Puun hinta 12 p.\n\n#### Aineisto\n\n6.A [LINK text=Taulukko: Raakapuusta maksettu kuutiohinta euroissa|url=https://yle.fi/plus/abitreenit/2024/kevat/matematiikka_lyhyt/attachments/index.html#6.A]\n\n\n\nTaulukossa 6.A on esitetty loppuvuonna 2022 raakapuusta harvennushakkuun yhteydessä maksetun kuutiohinnan keskiarvoja eri alueilla.\n\n&NewLine;\n\nMikolla on mäntyä kasvava metsäpalsta Etelä-Suomessa ja Maijulla kuusta kasvava palsta Kainuussa. Mikon palstalta hakattiin harvennushakkuussa noin 110 kuutiometriä puuta, josta 40 % oli tukkipuuta ja 60 % kuitupuuta. Maijun palstalta hakattiin harvennuksessa noin 120 kuutiometriä puuta, josta 70 % oli tukkipuuta ja 30 % kuitupuuta. Kuinka paljon Mikolle ja Maijulle maksettiin hakkuista, kun puun ostaja maksoi heille puun hinnan lisäksi 24 %:n arvonlisäveron?",
+          "deleted_at": null,
+          "feedback": "Mikon palstalta saatiin [MATH text=0,4*110=44] kuutiota tukkipuuta ja [MATH text=0,6*110=66 ]kuutiota kuitupuuta. 3 p. \n\nMyyjä sai [MATH text=1,24*(44*64,1+66*20,63\\approx5188,93\\approx5200] euroa. 3 p.\n\nMaijun palstalta saatiin [MATH text=0,7*120=84] kuutiota tukkipuuta ja [MATH text=0,3*120=36] kuutiota kuitupuuta. 3 p.\n\nMyyjä sai [MATH text=1,24*(84*54,48+36*17,61)\\approx6460,75\\approx6500] euroa. 3 p. ",
+          "exam_id": 202788,
+          "content": {
+            "text": "### Puun hinta 12 p.\n\n#### Aineisto\n\n6.A [LINK text=Taulukko: Raakapuusta maksettu kuutiohinta euroissa|url=https://yle.fi/plus/abitreenit/2024/kevat/matematiikka_lyhyt/attachments/index.html#6.A]\n\n\n\nTaulukossa 6.A on esitetty loppuvuonna 2022 raakapuusta harvennushakkuun yhteydessä maksetun kuutiohinnan keskiarvoja eri alueilla.\n\n&NewLine;\n\nMikolla on mäntyä kasvava metsäpalsta Etelä-Suomessa ja Maijulla kuusta kasvava palsta Kainuussa. Mikon palstalta hakattiin harvennushakkuussa noin 110 kuutiometriä puuta, josta 40 % oli tukkipuuta ja 60 % kuitupuuta. Maijun palstalta hakattiin harvennuksessa noin 120 kuutiometriä puuta, josta 70 % oli tukkipuuta ja 30 % kuitupuuta. Kuinka paljon Mikolle ja Maijulle maksettiin hakkuista, kun puun ostaja maksoi heille puun hinnan lisäksi 24 %:n arvonlisäveron?",
+            "displayNumber": "6."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-01-10T14:32:25.17545",
+          "max_score": null,
+          "groupping": null,
+          "id": 6718744,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "14121888-9161-437e-bc32-8b4220b1956f",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2024-03-28T09:39:14.565112"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Kulmanmetsästys 12 p.\n\nMääritä kuviin merkityt tuntemattomat kulmat asteen tarkkuudella.\n\nKirjoita tämän tehtävän vastauskenttiin pelkät laskujen lopputulokset ilman välivaiheita ja perusteluja. Jokaisen kohdan vastaus on kokonaisluku.\n\n&NewLine;\n\n[LINK url=https://yle.fi/plus/abitreenit/2024/kevat/matematiikka_lyhyt/index.html#question-nr-2|text=Katso kuvat täältä]\n\n&NewLine;\n\n2.1 Määritä kulma [MATH text=\\alpha] . 2 p.\n\n[MATH text=\\alpha] = [GAP id=24] astetta\n\n\n\n2.2 Määritä kulma [MATH text=\\beta]. 2 p.\n\n[MATH text=\\beta] = [GAP id=25] astetta\n\n\n\n2.3 Määritä kulma [MATH text=\\gamma ]. 2 p.\n\n[MATH text=\\gamma ] = [GAP id=26] astetta\n\n\n\n2.4 Määritä kulma [MATH text=\\delta]. 2 p.\n\n[MATH text=\\delta] = [GAP id=27] astetta\n\n\n\n2.5 Määritä kulma[MATH text=\\epsilon]. 2 p.\n\n[MATH text=\\epsilon] = [GAP id=28] astetta\n\n\n\n2.6 Määritä kulma[MATH text=\\zeta]. 2 p.\n\n[MATH text=\\zeta] = [GAP id=29] astetta",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 202788,
+          "content": {
+            "text": "### Kulmanmetsästys 12 p.\n\nMääritä kuviin merkityt tuntemattomat kulmat asteen tarkkuudella.\n\nKirjoita tämän tehtävän vastauskenttiin pelkät laskujen lopputulokset ilman välivaiheita ja perusteluja. Jokaisen kohdan vastaus on kokonaisluku.\n\n&NewLine;\n\n[LINK url=https://yle.fi/plus/abitreenit/2024/kevat/matematiikka_lyhyt/index.html#question-nr-2|text=Katso kuvat täältä]\n\n&NewLine;\n\n2.1 Määritä kulma [MATH text=\\alpha] . 2 p.\n\n[MATH text=\\alpha] = [GAP id=24] astetta\n\n\n\n2.2 Määritä kulma [MATH text=\\beta]. 2 p.\n\n[MATH text=\\beta] = [GAP id=25] astetta\n\n\n\n2.3 Määritä kulma [MATH text=\\gamma ]. 2 p.\n\n[MATH text=\\gamma ] = [GAP id=26] astetta\n\n\n\n2.4 Määritä kulma [MATH text=\\delta]. 2 p.\n\n[MATH text=\\delta] = [GAP id=27] astetta\n\n\n\n2.5 Määritä kulma[MATH text=\\epsilon]. 2 p.\n\n[MATH text=\\epsilon] = [GAP id=28] astetta\n\n\n\n2.6 Määritä kulma[MATH text=\\zeta]. 2 p.\n\n[MATH text=\\zeta] = [GAP id=29] astetta",
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-01-10T14:32:25.171875",
+          "max_score": 12,
+          "groupping": null,
+          "id": 6624074,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 24,
+              "parent": "f1618397-7659-403a-a9b2-4ffe1d2bdbd5",
+              "choices": [],
+              "correct": "60",
+              "isCaseSensitive": false
+            },
+            {
+              "id": 25,
+              "parent": "f1618397-7659-403a-a9b2-4ffe1d2bdbd5",
+              "choices": [],
+              "correct": "25",
+              "isCaseSensitive": false
+            },
+            {
+              "id": 26,
+              "parent": "f1618397-7659-403a-a9b2-4ffe1d2bdbd5",
+              "choices": [],
+              "correct": "51",
+              "isCaseSensitive": false
+            },
+            {
+              "id": 27,
+              "parent": "f1618397-7659-403a-a9b2-4ffe1d2bdbd5",
+              "choices": [],
+              "correct": "47",
+              "isCaseSensitive": false
+            },
+            {
+              "id": 28,
+              "parent": "f1618397-7659-403a-a9b2-4ffe1d2bdbd5",
+              "choices": [],
+              "correct": "24",
+              "isCaseSensitive": false
+            },
+            {
+              "id": 29,
+              "parent": "f1618397-7659-403a-a9b2-4ffe1d2bdbd5",
+              "choices": [],
+              "correct": "62",
+              "isCaseSensitive": false
+            }
+          ],
+          "uuid": "f1618397-7659-403a-a9b2-4ffe1d2bdbd5",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2024-03-25T11:10:22.293196"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Eksponentiaalisia kuvaajia 12 p.\n\n#### Aineisto\n\n4.A [LINK text=Kuva: Eksponentiaalinen kuvaaja|url=https://yle.fi/plus/abitreenit/2024/kevat/matematiikka_lyhyt/attachments/index.html#4.A]\n\n\n\n4.B [LINK text= Kuva: Kolme kuvaajaa|url=https://yle.fi/plus/abitreenit/2024/kevat/matematiikka_lyhyt/attachments/index.html#4.B]\n\n\n\n1 Kuvassa 4.A on funktion [MATH text= u(x)=a\\,b^x ] kuvaaja. Määritä vakiot a ja b. **(6 p.)**\n\n\n\n2 Kuvassa 4.B on kuvaajat f, g ja h. Kaksi niistä ei ole muotoa [MATH text= v(x)=c\\,d^x] olevan funktion kuvaaja millään vakioilla c ja d. Perustele, mitkä kaksi. **(6 p.)**",
+          "deleted_at": null,
+          "feedback": "Vakio a saadaan y-koordinaatin arvosta, kun [MATH text=x=0], eli [MATH text=a=1,5] (TAI [MATH text=a=3/2]). 2 p.\n\nKun [MATH text=x=1] saadaan [MATH text=y=1,5*b^1=1,5] (TAI [MATH text=y=3/2*b^1=3/2b]). 1 p. Tämä arvo on kuvaajasta katsottuna [MATH text=y=3] 2 p.\n\nSiispä [MATH text=b=2] 1 p.\n\nKoska [MATH text=\\frac{h\\left(1\\right)}{h\\left(0\\right)}=\\frac{2}{1}=2] ja [MATH text=\\frac{h(2)}{h\\left(1\\right)}=\\frac{3}{2}\\ne2]  2 p.\n\neli suhde ole sama, eli kuvaaja h ei ole eksponentiaalinen. 1 p.\n\nKuvaaja f ei ole muotoa [MATH text=y = c d^x] sillä arvolla [MATH text=x=0] on [MATH text=y=0], eli [MATH text=c=0] Tällöin tulisi päteä [MATH text=y=0] kaikilla x mikä on ristiriita. 3 p.\n\n\"Kuvaaja ei ole eksponentiaalinen, sillä se on lineaarinen.\" 2 p.\n\nYritetty ainoastaan perustella, miksi on eksponentiaalinen. (Huomaa, että kuvaajan avulla tätä ei voi aukottomasti perustella.) 2 p.",
+          "exam_id": 202788,
+          "content": {
+            "text": "### Eksponentiaalisia kuvaajia 12 p.\n\n#### Aineisto\n\n4.A [LINK text=Kuva: Eksponentiaalinen kuvaaja|url=https://yle.fi/plus/abitreenit/2024/kevat/matematiikka_lyhyt/attachments/index.html#4.A]\n\n\n\n4.B [LINK text= Kuva: Kolme kuvaajaa|url=https://yle.fi/plus/abitreenit/2024/kevat/matematiikka_lyhyt/attachments/index.html#4.B]\n\n\n\n1 Kuvassa 4.A on funktion [MATH text= u(x)=a\\,b^x ] kuvaaja. Määritä vakiot a ja b. **(6 p.)**\n\n\n\n2 Kuvassa 4.B on kuvaajat f, g ja h. Kaksi niistä ei ole muotoa [MATH text= v(x)=c\\,d^x] olevan funktion kuvaaja millään vakioilla c ja d. Perustele, mitkä kaksi. **(6 p.)**",
+            "displayNumber": "4. "
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-01-10T14:32:25.169199",
+          "max_score": null,
+          "groupping": null,
+          "id": 6625029,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "673099be-a861-4b21-82e0-3f83246fb10b",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2024-03-25T11:43:38.971886"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Koulutuspäivä 12 p.\n\nOhjelmistoyhtiö järjestää koulutuspäivän, jonka tilavuokrat ovat 1 000 euroa. Osallistumismaksu on 30 euroa, joka sisältää ruokailun koulutuspäivän lopuksi. Ruokailun järjestäminen maksaa ohjelmistoyhtiölle 11,50 euroa jokaista ruokailijaa kohti, mutta järjestäjät arvioivat, että puolet osallistujista lähtee kotiin heti koulutuksen päätyttyä eikä osallistu ruokailuun. Kuinka monta osallistujaa koulutuspäivään pitäisi saada, jotta se ei tuottaisi tappiota ohjelmistoyhtiölle? Vastaa kysymykseen muodostamalla ongelmaa kuvaava yhtälö tai epäyhtälö ja ratkaisemalla se. Tehtävässä ei huomioida veroja.",
+          "deleted_at": null,
+          "feedback": "Esitelty muuttuja (x) selkeästi.1 p\n\n.Idea: Tuloja tulee 30 kertaa osallistujamäärä. (1 p.)\n\nTällöin saadaan 30x euroa. Voi käydä ilmi vasta yhtälöstä.1 p.\n\nIdea: Vain puolet ruokailevat.(1 p.)\n\n&NewLine;\n\nRuokailun järjestäminen maksaa [MATH text=11,50*x/2] euroa,TAI 5,75 kertaa x. Voi käydä ilmi vasta yhtälöstä. 2 p.\n\nIdea: Kuluina huomioitu tilavuokra ja osallistujien ruokailut, tuottona osallistumismaksut. Jälkimmäiset kaksi riippuvat osallistujien määrästä. (1 p.)\n\n&NewLine;\n\nEdellisen rivin ideaa vastaava (epä)yhtälö muodostettu: [MATH text=1000+11\\mathrm{,}50\\cdot \\frac{x}{2}=30x]. (Täysin oikea idea: 2 p., oikeahko idea: 1 p.) 2 p.\n\n**Johtopäätöksenä**: Tehtävänantoa vastaava omilla luvuilla oikein muodostettu (epä)yhtälö ratkaistu, [MATH text=x \\approx 41{,}2].2 p.\n\n**riippumaton** (Epä)yhtälön ratkaisemisen seurauksena saatu vastaus pyöristetty ylöspäin. 1 p.\n\n\n&NewLine;\n\nRatkaistu kumpikin, sekä ''kaikki syövät'' että ''puolet syövät'' ja selitetty, mitä tilanteita nämä vastaavat. Annetaan pisteet ''puolet syövät'' -tavan mukaan, mutta vähennetään 1 piste ylimääräisistä teksteistä.\n",
+          "exam_id": 202788,
+          "content": {
+            "text": "### Koulutuspäivä 12 p.\n\nOhjelmistoyhtiö järjestää koulutuspäivän, jonka tilavuokrat ovat 1 000 euroa. Osallistumismaksu on 30 euroa, joka sisältää ruokailun koulutuspäivän lopuksi. Ruokailun järjestäminen maksaa ohjelmistoyhtiölle 11,50 euroa jokaista ruokailijaa kohti, mutta järjestäjät arvioivat, että puolet osallistujista lähtee kotiin heti koulutuksen päätyttyä eikä osallistu ruokailuun. Kuinka monta osallistujaa koulutuspäivään pitäisi saada, jotta se ei tuottaisi tappiota ohjelmistoyhtiölle? Vastaa kysymykseen muodostamalla ongelmaa kuvaava yhtälö tai epäyhtälö ja ratkaisemalla se. Tehtävässä ei huomioida veroja.",
+            "displayNumber": "5."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-01-10T14:32:25.164343",
+          "max_score": null,
+          "groupping": null,
+          "id": 6626834,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "9146d7cd-8a62-4a01-a5e8-1bf0c2b5a08c",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2024-03-25T12:24:54.848706"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mikä on yhtälön [MATH text=x^3 +2197 =0]  ratkaisu? 2 p.\n\n[SELECT id=11]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 202788,
+          "content": {
+            "text": "Mikä on yhtälön [MATH text=x^3 +2197 =0]  ratkaisu? 2 p.\n\n[SELECT id=11]",
+            "displayNumber": "1.6"
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-01-10T14:32:25.145597",
+          "max_score": 2,
+          "groupping": null,
+          "id": 6624047,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 11,
+              "parent": "8d0af831-d5b8-414e-b168-2a5213a5df4c",
+              "choices": [
+                {
+                  "id": "d4e60c5f-720b-4a30-bdae-d031ab2fdc4e",
+                  "text": "x=-19"
+                },
+                {
+                  "id": "50a63e89-c9ae-45ce-9fb3-7c5c8332e4e6",
+                  "text": "x=-17"
+                },
+                {
+                  "id": "684ee1f2-5541-4254-adcf-a1c5dee62784",
+                  "text": "x=-15"
+                },
+                {
+                  "id": "54e3e900-29a7-4e6c-9728-3e4ed3e0c33a",
+                  "text": "x=-13",
+                  "correct": true
+                },
+                {
+                  "id": "ae228cdf-6fb7-444d-988b-8a41cc68f45d",
+                  "text": "x=-11"
+                },
+                {
+                  "id": "422070e6-200e-451a-9326-e82583e8aa5f",
+                  "text": "x=-9"
+                },
+                {
+                  "id": "d98a23b1-cd39-4bfb-b3ca-9b90ebca4759",
+                  "text": "x=-7",
+                  "correct": false
+                },
+                {
+                  "id": "34242328-d1fa-4109-bcbb-15abba9dd359",
+                  "text": "x=-5",
+                  "correct": false
+                },
+                {
+                  "id": "69ae58af-37c8-49cc-ae8e-e3404cf4f477",
+                  "text": "x=-3"
+                },
+                {
+                  "id": "9c7fe628-4493-4c3e-87e4-c42a74f0c60d",
+                  "text": "x=-1"
+                },
+                {
+                  "id": "281797f3-b083-4fd2-b138-5102f0447057",
+                  "text": "x=1"
+                },
+                {
+                  "id": "79490938-8e2b-43b8-a20a-436586866d37",
+                  "text": "x=3",
+                  "correct": false
+                },
+                {
+                  "id": "d70fad58-5eb1-434f-9c27-64e9980cf9a2",
+                  "text": "x=5"
+                },
+                {
+                  "id": "07daa9cd-f804-4d23-95d7-938e81b51633",
+                  "text": "x=7"
+                },
+                {
+                  "id": "cc7928d6-4541-4def-b5f0-ec4f8f71f43e",
+                  "text": "x=9"
+                },
+                {
+                  "id": "f95da73a-5351-436c-bb5b-aace169094a1",
+                  "text": "x=11"
+                },
+                {
+                  "id": "447a90e9-8774-41d7-bdc2-db2383ca73d9",
+                  "text": "x=13"
+                },
+                {
+                  "id": "1bc92786-6d14-4af9-8729-69d61928c79f",
+                  "text": "x=15"
+                },
+                {
+                  "id": "86681a8c-0ae1-4d94-a6cb-1b3ac1631984",
+                  "text": "x=17"
+                },
+                {
+                  "id": "0c6696a0-b8e9-4641-84d2-8ae1824c84b6",
+                  "text": "x=19"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "8d0af831-d5b8-414e-b168-2a5213a5df4c",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2024-03-25T11:02:24.845173"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Määritä se kohta, jossa suora [MATH text= y +2 x -6 =0] leikkaa y-akselin. 2 p.\n\n[SELECT id=11]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 202788,
+          "content": {
+            "text": "Määritä se kohta, jossa suora [MATH text= y +2 x -6 =0] leikkaa y-akselin. 2 p.\n\n[SELECT id=11]",
+            "displayNumber": "1.4"
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-01-10T14:32:25.161815",
+          "max_score": 2,
+          "groupping": null,
+          "id": 6623896,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 11,
+              "parent": "8c73b0b4-e58c-443d-9d18-a100c2dcb77f",
+              "choices": [
+                {
+                  "id": "51bd7e59-30fa-41a3-8197-651861688209",
+                  "text": "y=-10"
+                },
+                {
+                  "id": "60da1a0d-97b7-44b5-8ec3-4f9f87e59187",
+                  "text": "y=-9"
+                },
+                {
+                  "id": "038a1cb4-9141-4444-94b6-267bc7a56357",
+                  "text": "y=-8"
+                },
+                {
+                  "id": "00e976ca-5455-40b7-a1ce-b602699a7eaa",
+                  "text": "y=-7"
+                },
+                {
+                  "id": "b9911476-33ac-4aac-ac16-3c98fb385902",
+                  "text": "y=-6"
+                },
+                {
+                  "id": "5266e3b1-b6c8-480a-a6e1-15ef9d10958e",
+                  "text": "y=-5"
+                },
+                {
+                  "id": "58088fa5-c8b6-489f-976f-a7fad3ffc8e9",
+                  "text": "y=-4",
+                  "correct": false
+                },
+                {
+                  "id": "2d97759f-b0ba-4e7e-85b3-b16e74691805",
+                  "text": "y=-3",
+                  "correct": false
+                },
+                {
+                  "id": "e512dc88-7eec-4a83-b411-a10537237fed",
+                  "text": "y=-2"
+                },
+                {
+                  "id": "19d6ad42-70ab-4091-90cc-94c944e3fedd",
+                  "text": "y=-1"
+                },
+                {
+                  "id": "df5d44af-df55-4840-b99c-cc3eed3c52b1",
+                  "text": "y=0"
+                },
+                {
+                  "id": "88428349-0a42-4d12-a8e4-5e44a7d47947",
+                  "text": "y=1",
+                  "correct": false
+                },
+                {
+                  "id": "d7343b89-323f-4282-b540-13f152485f98",
+                  "text": "y=2"
+                },
+                {
+                  "id": "d8c8d872-9445-4781-8f23-bf2f244f82ad",
+                  "text": "y=3"
+                },
+                {
+                  "id": "b475bdc4-f9ee-4968-8a0d-f24be104fbd7",
+                  "text": "y=4"
+                },
+                {
+                  "id": "e35cc0e0-f063-4ba8-9897-49b111561af2",
+                  "text": "y=5"
+                },
+                {
+                  "id": "562a16b9-ec9a-4a26-88cb-e4e992b9223f",
+                  "text": "y=6",
+                  "correct": true
+                },
+                {
+                  "id": "1bcb668b-85de-4ff2-aefd-9ed105fec1e1",
+                  "text": "y=7"
+                },
+                {
+                  "id": "9e338dbb-1b05-4e66-aaab-eacaad696b07",
+                  "text": "y=8"
+                },
+                {
+                  "id": "30b0c690-55a2-4bca-8f0b-3c6926076269",
+                  "text": "y=9"
+                },
+                {
+                  "id": "1087edf3-293d-4e61-8c24-d001ce74704b",
+                  "text": "y=10"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "8c73b0b4-e58c-443d-9d18-a100c2dcb77f",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2024-03-25T10:54:06.530966"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Funktion muutosnopeus 12 p.\n\nTarkastellaan polynomifunktiota [MATH text=p(x) =x^3 +2 x^2 -11 x -1].\n\n\n\n\n\n**1.** Osoita laskulla, että välillä [MATH text=0 <= x <= 3] funktion p keskimääräinen muutosnopeus on 4. **(4 p.)**\n\n\n\n**2.** Määritä väliltä [MATH text=0 <= x <= 3] kaikki sellaiset kohdat, joissa funktion p hetkellinen muutosnopeus on yhtä suuri kuin keskimääräinen muutosnopeus 4. **(8 p.)**",
+          "deleted_at": null,
+          "feedback": "Koska [MATH text=p(3)=11] ja [MATH text=p(0)=-1] 2 p. \n\nsaadaan keskimääräiseksi muutosnopeudeksi [MATH text=\\frac{p\\left(3\\right)-p\\left(0\\right)}{3-0}=\\frac{11-\\left(-1\\right)}{3-0}=4] 2 p.\n\nHetkellinen muutosnopeus on sama kuin derivaatta. 1 p.\n\nKoska [MATH text=p'(x)=3x^2+4x-11], 3 p. \n\nratkaistaan yhtälö [MATH text=4=3 x 2 + 4 x − 11  ]1 p.\n\nEsimerkiksi Solve-komennolla saadaan [MATH text=x=-3] tai [MATH text=x=5/3]2 p. Näistä annetulla välillä on [MATH text=x=5/3] 1 p. ",
+          "exam_id": 202788,
+          "content": {
+            "text": "### Funktion muutosnopeus 12 p.\n\nTarkastellaan polynomifunktiota [MATH text=p(x) =x^3 +2 x^2 -11 x -1].\n\n\n\n\n\n**1.** Osoita laskulla, että välillä [MATH text=0 <= x <= 3] funktion p keskimääräinen muutosnopeus on 4. **(4 p.)**\n\n\n\n**2.** Määritä väliltä [MATH text=0 <= x <= 3] kaikki sellaiset kohdat, joissa funktion p hetkellinen muutosnopeus on yhtä suuri kuin keskimääräinen muutosnopeus 4. **(8 p.)**",
+            "displayNumber": "9."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-01-10T14:32:25.185454",
+          "max_score": null,
+          "groupping": null,
+          "id": 6718953,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "a3b74fa5-708a-4f05-8854-918b0ca72211",
+          "order_number": 12,
+          "multipart": true,
+          "created_at": "2024-03-28T09:47:31.855842"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "## B2-osa\n\nVastaa kolmeen tehtävään.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 202788,
+          "content": {
+            "text": "## B2-osa\n\nVastaa kolmeen tehtävään."
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-01-10T14:32:25.198892",
+          "max_score": null,
+          "groupping": null,
+          "id": 6719213,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "904f6c54-ae74-4ab2-bb21-2a23849109e2",
+          "order_number": 13,
+          "multipart": true,
+          "created_at": "2024-03-28T09:54:16.464646"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Määritä se kohta, jossa suora [MATH text= y=3x+12 ] leikkaa x-akselin. 2 p.\n\n[SELECT id=11]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 202788,
+          "content": {
+            "text": "Määritä se kohta, jossa suora [MATH text= y=3x+12 ] leikkaa x-akselin. 2 p.\n\n[SELECT id=11]",
+            "displayNumber": "1.3"
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-01-10T14:32:25.201147",
+          "max_score": 2,
+          "groupping": null,
+          "id": 6623883,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 11,
+              "parent": "e3f52da0-4567-4c6c-b983-7f1e681432c7",
+              "choices": [
+                {
+                  "id": "3bd680c1-8408-49e2-b5c1-bae51f26ffba",
+                  "text": "x=-10"
+                },
+                {
+                  "id": "774f0326-d040-480b-ba87-4c4469811e6f",
+                  "text": "x=-9"
+                },
+                {
+                  "id": "9e07e829-4442-435c-bd8d-e9d9da51e8c5",
+                  "text": "x=-8"
+                },
+                {
+                  "id": "2686e094-6a0b-40dd-8156-fef43d394467",
+                  "text": "x=-7"
+                },
+                {
+                  "id": "b000801f-11a4-4286-a936-8d9072f28a0c",
+                  "text": "x=-6"
+                },
+                {
+                  "id": "83df7e04-9deb-47db-adea-1da864bfa4ff",
+                  "text": "x=-5"
+                },
+                {
+                  "id": "5ab8a9c4-4ec0-4199-9e69-d475fbda3cf8",
+                  "text": "x=-4",
+                  "correct": true
+                },
+                {
+                  "id": "48419fcd-994b-4329-86ee-dae30a11b2b5",
+                  "text": "x=-3",
+                  "correct": false
+                },
+                {
+                  "id": "82c61616-3c3c-47fd-9029-17698abf0839",
+                  "text": "x=-2"
+                },
+                {
+                  "id": "9c096cc9-790c-48e6-b086-374157509cbf",
+                  "text": "x=-1"
+                },
+                {
+                  "id": "ebf79c2d-3eff-47aa-8c74-32e4d56f314a",
+                  "text": "x=0"
+                },
+                {
+                  "id": "42186042-af2e-4580-a23a-b8716d6a4d5f",
+                  "text": "x=1",
+                  "correct": false
+                },
+                {
+                  "id": "d4993db3-3b90-4044-ad4d-7316eee6f55b",
+                  "text": "x=2"
+                },
+                {
+                  "id": "8faa9841-86b7-4c70-858b-54c40e9f43a4",
+                  "text": "x=3"
+                },
+                {
+                  "id": "bb43bb04-fcc2-4a9c-8dda-ff5080a1178c",
+                  "text": "x=4"
+                },
+                {
+                  "id": "e2ccd08d-ad73-4cf4-97c6-46ef000610f1",
+                  "text": "x=5"
+                },
+                {
+                  "id": "80a9504b-339d-4022-aaea-70f7d085f936",
+                  "text": "x=6"
+                },
+                {
+                  "id": "ef65e6a5-91e2-4159-94c5-abd8c61c48d3",
+                  "text": "x=7"
+                },
+                {
+                  "id": "29502851-59df-495d-aafc-399aaa643d40",
+                  "text": "x=8"
+                },
+                {
+                  "id": "5b4d9187-820a-4387-afa2-753746d78868",
+                  "text": "x=9"
+                },
+                {
+                  "id": "fe0c2e0d-d363-49d4-a3a3-a9a173569eab",
+                  "text": "x=10"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "e3f52da0-4567-4c6c-b983-7f1e681432c7",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2024-03-25T10:51:42.439245"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "## B1-osa\n\nVastaa kolmeen tehtävään.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 202788,
+          "content": {
+            "text": "## B1-osa\n\nVastaa kolmeen tehtävään."
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-01-10T14:32:25.203549",
+          "max_score": null,
+          "groupping": null,
+          "id": 6625062,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "68a61795-1691-41f8-845d-e1ad963a4815",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2024-03-25T11:44:45.163068"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Voit käydä tarkastelemassa A-osan vastauksiasi nyt.\nPalautettuasi A-osan et voi enää muokata A-osan vastauksia.\n\n&NewLine;\n\nTarkastelun jälkeen voit palata kokeeseen jatkamaan tehtäviin vastaamista.\n\n•••\n\nSaat estetyt laskinohjelmat käyttöösi palautettuasi A-osan.\n\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 202788,
+          "content": {
+            "text": "Voit käydä tarkastelemassa A-osan vastauksiasi nyt.\nPalautettuasi A-osan et voi enää muokata A-osan vastauksia.\n\n&NewLine;\n\nTarkastelun jälkeen voit palata kokeeseen jatkamaan tehtäviin vastaamista.\n\n•••\n\nSaat estetyt laskinohjelmat käyttöösi palautettuasi A-osan.\n\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-01-10T14:32:25.205954",
+          "max_score": null,
+          "groupping": null,
+          "id": 6625061,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "00bd9897-3cd4-4f5f-919b-f04f7d25011d",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2024-03-25T11:44:45.159347"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mikä on yhtälön [MATH text=x^2 -100 =0 ] positiivinen ratkaisu? 2 p.\n\n[SELECT id=11]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 202788,
+          "content": {
+            "text": "Mikä on yhtälön [MATH text=x^2 -100 =0 ] positiivinen ratkaisu? 2 p.\n\n[SELECT id=11]",
+            "displayNumber": "1.2"
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-01-10T14:32:25.208155",
+          "max_score": 2,
+          "groupping": null,
+          "id": 6623871,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 11,
+              "parent": "eaac36a3-57c6-4f30-8150-18a8f3a8d59b",
+              "choices": [
+                {
+                  "id": "bb453b2f-c1fb-41ea-88af-347c2be1ed54",
+                  "text": "x=0"
+                },
+                {
+                  "id": "4fcad215-1005-4916-8b9d-831cd7630fd9",
+                  "text": "x=1"
+                },
+                {
+                  "id": "b1d8f2d3-da88-4931-8bc3-fb7bdce3f4ab",
+                  "text": "x=2"
+                },
+                {
+                  "id": "5411936f-ad21-4dd4-a182-25846785b50c",
+                  "text": "x=4"
+                },
+                {
+                  "id": "4f0c17d2-9e2f-4911-b850-c33b2c7469e2",
+                  "text": "x=5"
+                },
+                {
+                  "id": "af809be6-8b0a-4de0-bd5c-c8edff8cc306",
+                  "text": "x=6"
+                },
+                {
+                  "id": "62233688-dd65-4e1d-82e7-dba5a186c0c3",
+                  "text": "x=8"
+                },
+                {
+                  "id": "f679212e-3f57-49f9-96e9-33c350cd0afc",
+                  "text": "x=10",
+                  "correct": true
+                },
+                {
+                  "id": "1bb0d8e8-8508-4818-a674-9cc3e4646ebb",
+                  "text": "x=20"
+                },
+                {
+                  "id": "857c8bcb-9a6e-4a94-96a2-52a3d48aacfc",
+                  "text": "x=25"
+                },
+                {
+                  "id": "8a0793bf-a059-4cb8-a237-7140f1fe47cb",
+                  "text": "x=50"
+                },
+                {
+                  "id": "09c576a1-c2ae-41d8-9f15-ecfd5d486b27",
+                  "text": "x=100",
+                  "correct": false
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "eaac36a3-57c6-4f30-8150-18a8f3a8d59b",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2024-03-25T10:48:57.703805"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mikä on yhtälön [MATH text= 3 x -8 =34] ratkaisu? 2 p.\n\n[SELECT id=11]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 202788,
+          "content": {
+            "text": "Mikä on yhtälön [MATH text= 3 x -8 =34] ratkaisu? 2 p.\n\n[SELECT id=11]",
+            "displayNumber": "1.1"
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-01-10T14:32:25.213109",
+          "max_score": 2,
+          "groupping": null,
+          "id": 6623745,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 11,
+              "parent": "17f45214-1fbd-4d90-97e8-c957aecc700c",
+              "choices": [
+                {
+                  "id": "46833ae6-f4c8-43b3-8762-bc09d0e2d0e9",
+                  "text": "x=0"
+                },
+                {
+                  "id": "7b78b1ce-f1aa-4d74-9496-48529b3f5801",
+                  "text": "x=1"
+                },
+                {
+                  "id": "f452a05a-f431-4490-9341-b276819c0fe7",
+                  "text": "x=2"
+                },
+                {
+                  "id": "6e4120d1-3842-49e8-bc43-2ab1827e04f5",
+                  "text": "x=3"
+                },
+                {
+                  "id": "b8c7da42-4e43-42d0-b091-8ba5ce22658c",
+                  "text": "x=4"
+                },
+                {
+                  "id": "24cbb549-26ca-47f1-93fd-36687a085300",
+                  "text": "x=5"
+                },
+                {
+                  "id": "1c4fcd96-0d37-4f1b-83d4-9c616d249f4a",
+                  "text": "x=6"
+                },
+                {
+                  "id": "f451ff80-1dba-4aee-97c0-9907dbe5d6e6",
+                  "text": "x=7"
+                },
+                {
+                  "id": "42c36308-731e-47a9-b031-0b5294fba082",
+                  "text": "x=8"
+                },
+                {
+                  "id": "66341cb4-1707-4862-9b0b-d7d2c9131f69",
+                  "text": "x=9"
+                },
+                {
+                  "id": "ba43ae5e-9b18-4736-aa55-33cf92617e33",
+                  "text": "x=10"
+                },
+                {
+                  "id": "57b6112f-9354-4568-b91d-13699896d742",
+                  "text": "x=11"
+                },
+                {
+                  "id": "1c9891dd-0dd5-4dea-ad46-0ed57b5ba7f7",
+                  "text": "x=12"
+                },
+                {
+                  "id": "070a83ac-1624-413d-9961-5f30c8a2c985",
+                  "text": "x=13"
+                },
+                {
+                  "id": "b62d4040-6ed2-44d5-ae86-3a9a96f3009a",
+                  "text": "x=14",
+                  "correct": true
+                },
+                {
+                  "id": "f76ca98d-9761-4928-a060-55a7a198abf3",
+                  "text": "x=15"
+                },
+                {
+                  "id": "d86d2d3f-b0fb-445b-889d-61005944187e",
+                  "text": "x=16"
+                },
+                {
+                  "id": "75600374-7ac1-4fcd-acae-d4069d910c4a",
+                  "text": "x=17"
+                },
+                {
+                  "id": "3769874e-3f54-483b-8779-7ccebd082867",
+                  "text": "x=18"
+                },
+                {
+                  "id": "edd0bdda-4eff-4082-bb02-f81ad8131e55",
+                  "text": "x=19"
+                },
+                {
+                  "id": "af2edbe2-814b-46c0-863f-9dbd92c291fd",
+                  "text": "x=20"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "17f45214-1fbd-4d90-97e8-c957aecc700c",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2024-03-25T10:46:36.139485"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mikä on funktion [MATH text=f(x) =3 x^8 -68 ] arvo kohdassa [MATH text=x =2]? 2 p.\n\n[SELECT id=23]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 202788,
+          "content": {
+            "text": "Mikä on funktion [MATH text=f(x) =3 x^8 -68 ] arvo kohdassa [MATH text=x =2]? 2 p.\n\n[SELECT id=23]",
+            "displayNumber": "1.5"
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-01-10T14:32:25.215544",
+          "max_score": 1,
+          "groupping": null,
+          "id": 6624030,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 23,
+              "parent": "3672d0e2-7431-4225-b207-be325c590ad8",
+              "choices": [
+                {
+                  "id": "b5c61578-8197-437d-b726-6c5a766219ae",
+                  "text": "f(2)= -68"
+                },
+                {
+                  "id": "d901899f-9609-4893-a1b6-7f6f277d959f",
+                  "text": "f(2)= -20"
+                },
+                {
+                  "id": "3a5d832c-767b-4f9c-ba19-a9545baec0c7",
+                  "text": "f(2)= 188"
+                },
+                {
+                  "id": "89948f22-bf10-4142-a792-990883a01c2d",
+                  "text": "f(2)= 256"
+                },
+                {
+                  "id": "be99d525-ed04-4047-b538-5cf9de968441",
+                  "text": "f(2)= 700",
+                  "correct": true
+                },
+                {
+                  "id": "0862a8c4-ffee-4619-aa1f-9fe4b49ef66b",
+                  "text": "f(2)= 768"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "3672d0e2-7431-4225-b207-be325c590ad8",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2024-03-25T11:00:22.188275"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Perustehtäviä 12 p.\n\nValitse oikea vaihtoehto. Vastauksia ei tarvitse perustella. Oikea vastaus 2 p., väärä vastaus 0 p., ei vastausta 0 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 202788,
+          "content": {
+            "text": "### Perustehtäviä 12 p.\n\nValitse oikea vaihtoehto. Vastauksia ei tarvitse perustella. Oikea vastaus 2 p., väärä vastaus 0 p., ei vastausta 0 p.",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "17f45214-1fbd-4d90-97e8-c957aecc700c",
+            "eaac36a3-57c6-4f30-8150-18a8f3a8d59b",
+            "e3f52da0-4567-4c6c-b983-7f1e681432c7",
+            "8c73b0b4-e58c-443d-9d18-a100c2dcb77f",
+            "3672d0e2-7431-4225-b207-be325c590ad8",
+            "8d0af831-d5b8-414e-b168-2a5213a5df4c"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-01-10T14:32:25.21777",
+          "max_score": null,
+          "groupping": null,
+          "id": 6623743,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "bf929736-d38e-4906-9789-d4ab3dd7dffd",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2024-03-25T10:46:36.134196"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### A-osa\n\nVastaa neljään tehtävään.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 202788,
+          "content": {
+            "text": "#### A-osa\n\nVastaa neljään tehtävään."
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-01-10T14:32:25.220013",
+          "max_score": null,
+          "groupping": null,
+          "id": 6623741,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "e4bf2bde-bf10-4805-a9a8-f02d133cc156",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2024-03-25T10:46:36.126833"
+        }
+      ],
+      "name": "Matematiikka, lyhyt oppimäärä kevät 2024",
+      "settings": {},
+      "exam_type": "yo-koe",
+      "classification": {
+        "category": "",
+        "disable_saving": false,
+        "hide_review_buttons": false,
+        "exam_type": "yo-koe",
+        "year": "2024",
+        "language": "fi-FI",
+        "hide_statistics": false,
+        "show_exam_series": false,
+        "force_yletunnus": false,
+        "subject": "matematiikka-lyhyt",
+        "published": true,
+        "semester": "spring"
+      },
+      "published_at": "2024-03-28T11:40:26.000Z",
+      "language": "fi-FI",
+      "id": 202788,
+      "reviews": [],
+      "is_open": true,
+      "uuid": "c9a60071-c615-4896-b248-d15c17c28ab6"
+    }
+  ]
+}

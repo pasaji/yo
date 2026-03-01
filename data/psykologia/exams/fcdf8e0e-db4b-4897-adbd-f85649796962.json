@@ -1,0 +1,1850 @@
+{
+  "meta": {
+    "count": 1
+  },
+  "data": [
+    {
+      "tags": [
+        ""
+      ],
+      "main_text": "&NewLine;\n",
+      "characters": null,
+      "deleted_at": null,
+      "series_uuids": [],
+      "questions": [
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Lähteet\n\n2. Lähde: YTL.\n\n3. Lähde: YTL.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 138411,
+          "content": {
+            "text": "### Lähteet\n\n2. Lähde: YTL.\n\n3. Lähde: YTL.\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-30T10:55:45.613859",
+          "max_score": null,
+          "groupping": null,
+          "id": 4798348,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "50e60816-3d5f-440c-b61c-a5b03aa936a7",
+          "order_number": 14,
+          "multipart": true,
+          "created_at": "2022-09-26T10:57:31.241935"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Oppiminen**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 138411,
+          "content": {
+            "text": "**Oppiminen**\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T10:55:45.610535",
+          "max_score": null,
+          "groupping": null,
+          "id": 4798663,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "0ea6b4a4-830f-436a-b9fd-2a965b8a5cb8",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2022-09-26T11:20:59.243172"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252837"
+          ],
+          "main_text": " Pintasuuntautuneessa opiskelussa pyritään luetun ymmärtämiseen. **1 p.**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 138411,
+          "content": {
+            "text": " Pintasuuntautuneessa opiskelussa pyritään luetun ymmärtämiseen. **1 p.**\n",
+            "displayNumber": "1.1"
+          },
+          "images": null,
+          "settings": {
+            "points": "",
+            "optionsLayout": "1",
+            "customizedPoints": true
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T10:55:45.598487",
+          "max_score": 1,
+          "groupping": null,
+          "id": 4798679,
+          "question_type": "CUSTOMIZED_FEEDBACK",
+          "options": [
+            {
+              "id": 11,
+              "text": "Oikein",
+              "parent": "5689b4d6-ccd1-445a-b5cc-1413f420494a",
+              "points": "-1",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 12,
+              "text": "Väärin",
+              "parent": "5689b4d6-ccd1-445a-b5cc-1413f420494a",
+              "points": "1",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 13,
+              "text": "En vastaa",
+              "parent": "5689b4d6-ccd1-445a-b5cc-1413f420494a",
+              "points": "0",
+              "choices": []
+            }
+          ],
+          "uuid": "5689b4d6-ccd1-445a-b5cc-1413f420494a",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2022-09-26T11:22:24.220869"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252840"
+          ],
+          "main_text": " Kaikki tunteet ovat universaaleja. **1 p.**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 138411,
+          "content": {
+            "text": " Kaikki tunteet ovat universaaleja. **1 p.**\n",
+            "displayNumber": "1.12"
+          },
+          "images": null,
+          "settings": {
+            "points": "",
+            "optionsLayout": "1",
+            "customizedPoints": true
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T10:55:45.593607",
+          "max_score": 1,
+          "groupping": null,
+          "id": 4798927,
+          "question_type": "CUSTOMIZED_FEEDBACK",
+          "options": [
+            {
+              "id": 32,
+              "text": "Oikein",
+              "parent": "4da41d38-16ed-495f-8857-7ea70faff490",
+              "points": "-1",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 33,
+              "text": "Väärin",
+              "parent": "4da41d38-16ed-495f-8857-7ea70faff490",
+              "points": "1",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 34,
+              "text": "En vastaa",
+              "parent": "4da41d38-16ed-495f-8857-7ea70faff490",
+              "points": "0",
+              "choices": []
+            }
+          ],
+          "uuid": "4da41d38-16ed-495f-8857-7ea70faff490",
+          "order_number": 15,
+          "multipart": true,
+          "created_at": "2022-09-26T11:32:01.658349"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252840"
+          ],
+          "main_text": "Mieliala on mielihyvän tai mielipahan sävyttämä lyhytkestoinen tila.** 1 p.**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 138411,
+          "content": {
+            "text": "Mieliala on mielihyvän tai mielipahan sävyttämä lyhytkestoinen tila.** 1 p.**\n",
+            "displayNumber": "1.13"
+          },
+          "images": null,
+          "settings": {
+            "points": "",
+            "optionsLayout": "1",
+            "customizedPoints": true
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T10:55:45.591016",
+          "max_score": 1,
+          "groupping": null,
+          "id": 4798956,
+          "question_type": "CUSTOMIZED_FEEDBACK",
+          "options": [
+            {
+              "id": 32,
+              "text": "Oikein",
+              "parent": "2a3e522a-a3b6-44f4-93e8-3e09576d1cb9",
+              "points": "-1",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 33,
+              "text": "Väärin",
+              "parent": "2a3e522a-a3b6-44f4-93e8-3e09576d1cb9",
+              "points": "1",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 34,
+              "text": "En vastaa",
+              "parent": "2a3e522a-a3b6-44f4-93e8-3e09576d1cb9",
+              "points": "0",
+              "choices": []
+            }
+          ],
+          "uuid": "2a3e522a-a3b6-44f4-93e8-3e09576d1cb9",
+          "order_number": 16,
+          "multipart": true,
+          "created_at": "2022-09-26T11:32:33.801658"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252840"
+          ],
+          "main_text": "Tunteet syntyvät aina ajattelun tuloksena. **1 p.**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 138411,
+          "content": {
+            "text": "Tunteet syntyvät aina ajattelun tuloksena. **1 p.**\n",
+            "displayNumber": "1.14"
+          },
+          "images": null,
+          "settings": {
+            "points": "",
+            "optionsLayout": "1",
+            "customizedPoints": true
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T10:55:45.566517",
+          "max_score": 1,
+          "groupping": null,
+          "id": 4798986,
+          "question_type": "CUSTOMIZED_FEEDBACK",
+          "options": [
+            {
+              "id": 32,
+              "text": "Oikein",
+              "parent": "73fcaaa6-809d-4143-9d04-65ff3f33fee3",
+              "points": "-1",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 33,
+              "text": "Väärin",
+              "parent": "73fcaaa6-809d-4143-9d04-65ff3f33fee3",
+              "points": "1",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 34,
+              "text": "En vastaa",
+              "parent": "73fcaaa6-809d-4143-9d04-65ff3f33fee3",
+              "points": "0",
+              "choices": []
+            }
+          ],
+          "uuid": "73fcaaa6-809d-4143-9d04-65ff3f33fee3",
+          "order_number": 17,
+          "multipart": true,
+          "created_at": "2022-09-26T11:32:55.641141"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252840"
+          ],
+          "main_text": "Limbinen järjestelmä on tärkeä tunteiden synnyssä ja säätelyssä. **1 p.**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 138411,
+          "content": {
+            "text": "Limbinen järjestelmä on tärkeä tunteiden synnyssä ja säätelyssä. **1 p.**\n",
+            "displayNumber": "1.15"
+          },
+          "images": null,
+          "settings": {
+            "points": "",
+            "optionsLayout": "1",
+            "customizedPoints": true
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T10:55:45.562703",
+          "max_score": 1,
+          "groupping": null,
+          "id": 4799017,
+          "question_type": "CUSTOMIZED_FEEDBACK",
+          "options": [
+            {
+              "id": 32,
+              "text": "Oikein",
+              "parent": "41d76574-2bd8-48b4-ba95-f658b646f2cc",
+              "points": "1",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 33,
+              "text": "Väärin",
+              "parent": "41d76574-2bd8-48b4-ba95-f658b646f2cc",
+              "points": "-1",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 34,
+              "text": "En vastaa",
+              "parent": "41d76574-2bd8-48b4-ba95-f658b646f2cc",
+              "points": "0",
+              "choices": []
+            }
+          ],
+          "uuid": "41d76574-2bd8-48b4-ba95-f658b646f2cc",
+          "order_number": 18,
+          "multipart": true,
+          "created_at": "2022-09-26T11:34:13.719637"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252839"
+          ],
+          "main_text": "Tiede on yksiselitteisesti onnistunut selittämään, miksi ihmisten pitää nukkua. **1 p.**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 138411,
+          "content": {
+            "text": "Tiede on yksiselitteisesti onnistunut selittämään, miksi ihmisten pitää nukkua. **1 p.**\n",
+            "displayNumber": "1.20"
+          },
+          "images": null,
+          "settings": {
+            "points": "",
+            "optionsLayout": "1",
+            "customizedPoints": true
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T10:55:45.553894",
+          "max_score": 1,
+          "groupping": null,
+          "id": 4799296,
+          "question_type": "CUSTOMIZED_FEEDBACK",
+          "options": [
+            {
+              "id": 32,
+              "text": "Oikein",
+              "parent": "30ea78d0-5095-4a79-8cf0-dcf4139f0d43",
+              "points": "-1",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 33,
+              "text": "Väärin",
+              "parent": "30ea78d0-5095-4a79-8cf0-dcf4139f0d43",
+              "points": "1",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 34,
+              "text": "En vastaa",
+              "parent": "30ea78d0-5095-4a79-8cf0-dcf4139f0d43",
+              "points": "0",
+              "choices": []
+            }
+          ],
+          "uuid": "30ea78d0-5095-4a79-8cf0-dcf4139f0d43",
+          "order_number": 24,
+          "multipart": true,
+          "created_at": "2022-09-26T11:44:29.850683"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252839"
+          ],
+          "main_text": "REM-unen ja syvän unen aikana aivojen sähköinen toiminta on vähäistä, mutta kevyessä unessa aivojen sähköinen toiminta muistuttaa valvetilaa.** 1 p.**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 138411,
+          "content": {
+            "text": "REM-unen ja syvän unen aikana aivojen sähköinen toiminta on vähäistä, mutta kevyessä unessa aivojen sähköinen toiminta muistuttaa valvetilaa.** 1 p.**\n",
+            "displayNumber": "1.18"
+          },
+          "images": null,
+          "settings": {
+            "points": "",
+            "optionsLayout": "1",
+            "customizedPoints": true
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T10:55:45.550193",
+          "max_score": 1,
+          "groupping": null,
+          "id": 4799221,
+          "question_type": "CUSTOMIZED_FEEDBACK",
+          "options": [
+            {
+              "id": 32,
+              "text": "Oikein",
+              "parent": "34b9f939-e641-4d91-9e04-85cccd8a23d0",
+              "points": "-1",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 33,
+              "text": "Väärin",
+              "parent": "34b9f939-e641-4d91-9e04-85cccd8a23d0",
+              "points": "1",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 34,
+              "text": "En vastaa",
+              "parent": "34b9f939-e641-4d91-9e04-85cccd8a23d0",
+              "points": "0",
+              "choices": []
+            }
+          ],
+          "uuid": "34b9f939-e641-4d91-9e04-85cccd8a23d0",
+          "order_number": 22,
+          "multipart": true,
+          "created_at": "2022-09-26T11:42:48.827505"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252839"
+          ],
+          "main_text": "**Porkkanan havaitseminen 20 p.**\n\n​\n\n[LINK text=Katso kuva tästä. |url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22\\_PS\\_fi/#3]\n\n​\n\nSelitä, millaiset tiedonkäsittelyn vaiheet ihminen käy läpi, kun hän näkee oheisen [LINK text=kuvan|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22\\_PS\\_fi/#3] ja tunnistaa siinä olevan kasviksen porkkanaksi. Kuvaa myös, missä hermoston osissa tiedonkäsittely tapahtuu.\n",
+          "deleted_at": null,
+          "feedback": "Ansiokkaassa vastauksessa kuvataan, miten tiedonkäsittely etenee alkaen tiedon saapumisesta aistinelimiin ja päättyen kohteen tunnistamiseen muistin avulla.\n\n&NewLine;\n\nEnsimmäiseksi porkkanasta heijastuva valo osuu silmien verkkokalvolla sijaitseviin sauva- ja tappisoluihin, jotka muuttavat valoärsykkeen hermoimpulsseiksi.\n\n&NewLine;\n\nAistitieto kulkee silmistä näköhermon kautta talamukseen. Talamus lähettää tiedon eteenpäin aivokuorelle. Talamus on myös yhteydessä autonomiseen hermostoon ja aivojen syviin osiin, mikä mahdollistaa hyvin nopeat reaktiot voimakkaita tunteita aiheuttaviin ärsykkeisiin. Todennäköisesti porkkana ei kuitenkaan juuri aktivoi näitä yhteyksiä.\n\n&NewLine;\n\nAivokuorella aistitieto saapuu ensimmäisenä takaraivon näköaivokuorelle, missä primaariset ja sekundaariset näköalueet analysoivat aistitiedosta havaitun kohteen muotoa, väriä ja liikettä. Tästä prosessoinnista syntyy alustava havainto kohteesta paikallaan olevana oranssina puikkona.\n\n&NewLine;\n\nNäköaivokuoren jälkeen havainnon prosessointi jatkuu muilla aivokuoren alueilla. Merkittävimmät näistä ovat ohimolohkoihin suuntautuva asioita tunnistava ns. mikä-reitti sekä päälakilohkoon suuntautuva tilan hahmottamiseen liittyvä ns. miten-reitti. Havaittu asia tunnistetaan käsittelemällä havaintoa mikä-reitillä, jolloin sitä verrataan muistissa oleviin representaatioihin. Jos havaitsijalla on muistissaan representaatio porkkanasta, havainto yhdistyy representaatioon ja kohde tunnistetaan porkkanaksi.\n\n&NewLine;\n\n**9–11 p.** Vastaus perustuu pääosin mielekkääseen psykologiseen tietoon. Havainnon syntymisen vaiheet on esitetty oikein ja tiedonkäsittely on sijoitettu enimmäkseen oikeisiin hermoston osiin. Vastauksessa on kuitenkin joitakin rajoituksia ja epätarkkuuksia.\n\n&NewLine;\n\n**15–17 p**. Vastaus osoittaa kiitettävää tiedon hallintaa. Havainnon syntymisen vaiheet on selitetty monipuolisesti ja niihin liittyvä tiedonkäsittely on sijoitettu tarkasti oikeisiin hermoston osiin. Vastaus muodostaa kiitettävästi jäsennellyn kokonaisuuden.\n",
+          "exam_id": 138411,
+          "content": {
+            "text": "**Porkkanan havaitseminen 20 p.**\n\n​\n\n[LINK text=Katso kuva tästä. |url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22\\_PS\\_fi/#3]\n\n​\n\nSelitä, millaiset tiedonkäsittelyn vaiheet ihminen käy läpi, kun hän näkee oheisen [LINK text=kuvan|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22\\_PS\\_fi/#3] ja tunnistaa siinä olevan kasviksen porkkanaksi. Kuvaa myös, missä hermoston osissa tiedonkäsittely tapahtuu.\n",
+            "displayNumber": "3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-30T10:55:45.544637",
+          "max_score": null,
+          "groupping": null,
+          "id": 4798224,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "c732bf23-9977-4a72-90f5-f63d96d98355",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2022-09-26T10:27:58.274445"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252838"
+          ],
+          "main_text": "**Kehittyvä ihminen 30 p.**\n\n&NewLine;\n\nKehityspsykologia on psykologian osa-alue, jonka avulla on mahdollista ymmärtää ihmisen psyykkistä kehitystä ja siihen vaikuttavia tekijöitä. Arvioi erilaisia tutkimusmenetelmiä, joilla ihmisen psyykkistä kehitystä ja siihen vaikuttavia tekijöitä voidaan tutkia tieteellisesti. Minkälaista tietoa kehityksestä saadaan käyttämällä erilaisia tutkimusmenetelmiä?\n",
+          "deleted_at": null,
+          "feedback": "Hyvässä vastauksessa ihmisen kehitystä tarkastellaan ilmiönä, jossa on ihmisten välisiä yhtäläisyyksiä ja eroja. Esimerkiksi tutkimalla lapsen ajattelun kehitystä kokeellisissa tutkimuksissa Piaget kehitti teorian siitä, miten ihmisen ajattelu kehittyy ja miten ajattelun kehitys on yhteydessä eri ikäkausiin. Kuitenkin samalla kun tutkitaan ihmisiä yhdistäviä kehityksen piirteitä, yksilöllisen vaihtelun tutkiminen tai kehityksen ennustaminen onkin vaikeampaa.\n\n&NewLine;\n\nHyvässä vastauksessa voi olla esimerkkejä erilaisista tutkimusmenetelmistä tai tunnetuista tutkimuksista. Tutkimusmenetelmiä voi arvioida tutkimusasetelman (esim. kokeelliset tutkimukset tai korrelaatiotutkimukset, poikittaistutkimukset ja pitkittäistutkimukset) tai tiedonkeruumenetelmän (esimerkiksi havainnointi, kyselylomakkeet, erilaiset kognitiiviset testit, aivokuvantaminen ja geneettiset menetelmät) näkökulmasta. Hyvässä vastauksessa arviointi liittyy kunkin mainitun menetelmän mahdollisuuksiin tuottaa pätevää ja luotettavaa tietoa ihmisen kehityksestä.\n\n&NewLine;\n\nIhminen kehittyy ja kasvaa sosiaalisessa ja kulttuurisessa ympäristössä. Tutkimatta tätä ympäristöä ihmisen kehitystä ei voidakaan kokonaan ymmärtää. Kehitysympäristö on mahdollista jakaa esimerkiksi mikro- ja makrotasoon. Ympäristön merkityksestä ihmisen kehityksessä saadaan tietoa vaikkapa mikroympäristöä arvioimalla (esimerkiksi vanhemman sensitiivisyyden tutkiminen) tai vertailemalla lapsia ja kasvuympäristöjä eri kulttuureissa.\n\n&NewLine;\n\nMyös erilaisia aivokuvantamismenetelmiä sekä fysiologisia mittauksia hyödynnetään ihmisen kehityksen ja kehitykseen liittyvien haasteiden tutkimuksessa. Esimerkiksi kielen kehittymistä ja kielen erottamisen ongelmia voidaan tutkia aivosähkökäyrällä ja aivojen kehittymistä ja ikääntymiseen liittyvää aivojen rappeutumista PET-kuvauksella.\n\n&NewLine;\n\nPerimä–ympäristö- eli nature–nurture-kiista viittaa kysymykseen siitä, mikä osuus ihmisen kehittyvistä ominaisuuksista on seurausta ympäristöstä ja mikä perimästä. Ympäristön roolia ihmisen kehityksessä voidaan selvittää esimerkiksi kaksostutkimuksissa. Niiden tekemistä kuitenkin vaikeuttaa se, että yleensä kaksosilla on samankaltaisen perimän lisäksi samankaltainen kasvuympäristö. Siksi ympäristön ja perimän vaikutuksen erottelu ei ole kaksosillakaan helppoa. Tästä huolimatta kaksostutkimukset ovat yksi parhaista menetelmistä saada tietoa ympäristön ja perimän vaikutuksista ihmisen ominaisuuksiin. Vertailemalla identtisten ja epäidenttisten kaksosten piirteiden yhteneväisyyttä voidaan laskennallisesti erottaa ympäristön vaikutus kehitykseen.\n\n&NewLine;\n\nErityisesti identtiset kaksoset ovat perimältään lähes täysin samanlaisia, ja siten voidaan ajatella, että erot tällaisten henkilöiden välillä johtuvat lähinnä ympäristöstä. Psykologian historia tuntee myös tutkimuksia, joissa on tarkasteltu eri perheissä kasvaneita identtisiä kaksosia. Tällaisten tutkimusasetelmien toteutus ei kuitenkaan nykypäivänä ole edes mahdollista, koska kaksosten erottaminen toisistaan adoptiossa tutkimustarkoitukseen on epäeettistä.\n\n&NewLine;\n\nNykytiedon valossa ymmärretään, että ihmisen kehittyviin psyykkisiin ominaisuuksiin vaikuttavat sekä perimä että ympäristö. On kuitenkin vaikeaa saada tarkkaa tutkimustietoa siitä, missä suhteessa ympäristö ja perimä vaikuttavat ja millaista vuorovaikutusta geenien ja ympäristön välillä on. Esimerkiksi lapsen temperamentti kehittyy vuorovaikutuksessa ympäristön kanssa. Samanlaiset piirteet vauvaiässä saattavat johtaa erilaisille kehityspoluille (multifinaliteetin käsite), ja vastaavasti erilaiset kehityspolut voivat johtaa samankaltaiseen lopputulokseen (ekvifinaliteetin käsite).\n\n&NewLine;\n\n**13–16 p**. Vastauksessa arvioidaan erilaisia kehityspsykologisia tutkimusmenetelmiä. Psykologisen tiedon ja psykologisen tutkimuksen tekemiseen liittyvän käsitteistön hallinta on hyvää. Psykologista tietoa on perusteltu ja arvioitu useissa kohdissa.\n\n&NewLine;\n\n**22–25 p.** Vastauksessa tutkimusmenetelmien mahdollisuuksia ja rajoituksia arvioidaan kattavasti ja niihin liittyvän psykologisen tiedon soveltaminen ja kehittely on erinomaista. Yksilön ja ympäristön vuorovaikutus huomioidaan monesta näkökulmasta. Vastauksesta käy ilmi, että yksilöllisten kehityspolkujen aiheuttama vaihtelu on ymmärretty.\n",
+          "exam_id": 138411,
+          "content": {
+            "text": "**Kehittyvä ihminen 30 p.**\n\n&NewLine;\n\nKehityspsykologia on psykologian osa-alue, jonka avulla on mahdollista ymmärtää ihmisen psyykkistä kehitystä ja siihen vaikuttavia tekijöitä. Arvioi erilaisia tutkimusmenetelmiä, joilla ihmisen psyykkistä kehitystä ja siihen vaikuttavia tekijöitä voidaan tutkia tieteellisesti. Minkälaista tietoa kehityksestä saadaan käyttämällä erilaisia tutkimusmenetelmiä?\n",
+            "displayNumber": "8."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-30T10:55:45.541502",
+          "max_score": null,
+          "groupping": null,
+          "id": 4798320,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "3f7356cd-ce4c-4c81-9a50-b6a3f4be18fe",
+          "order_number": 12,
+          "multipart": true,
+          "created_at": "2022-09-26T10:54:46.470315"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252838"
+          ],
+          "main_text": "**Lasten kehitys sijaissynnytyksen jälkeen 20 p.**\n\n​\n\n**Aineisto**\n\n[LINK text=Video: Sijaissynnytyksiä tarjoavan yrityksen video lastaan odottaville vanhemmille|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22\\_PS\\_fi/attachments/index.html#4.A]\n\n[LINK text=Teksti: Tietoruutu sijaissynnytyksestä|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22\\_PS\\_fi/attachments/index.html#4.B]\n\n​\n\nVuoden 2020 toukokuussa Yle uutisoi koronapandemiasta johtuvien matkustuskieltojen mukanaan tuomasta ongelmasta, joka liittyi sijaissynnytyksiin. Itä-Euroopassa sijaitsevassa hotellissa oli kymmeniä vastasyntyneitä lapsia, jotka odottivat ulkomaalaisia vanhempiaan noutamaan heitä. Syntyneet lapset eivät päässeet suunnitellusti vanhempiensa luokse, kun koronapandemia sulki rajat. Uudet vanhemmat pystyivät näkemään vauvansa vain valokuvissa ja videopuheluiden välityksellä.\n\n​\n\nSijaissynnytyksiä tarjoavan yrityksen video ([LINK text=aineisto 4.A|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22\\_PS\\_fi/attachments/index.html#4.A]) kuvaa tilannetta hotellissa, jossa lapset odottavat vanhempiaan.\n\n​\n\nAineistossa [LINK text=4.B|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22\\_PS\\_fi/attachments/index.html#4.B] on tietoruutu siitä, mitä sijaissynnytys tarkoittaa.\n\n​\n\nSelitä kehityspsykologisia käsitteitä ja teorioita hyödyntäen, miten kuvattu odotustilanne voi vaikuttaa syntyneen lapsen kehitykseen.\n",
+          "deleted_at": null,
+          "feedback": "Hyvä vastaus pohjaa ymmärrykseen siitä, mikä merkitys varhaisella vuorovaikutuksella on lapsen kehitykselle. Vastauksessa voidaan pohtia lapsen saaman vuorovaikutuksen riittävyyttä ja laatua kiintymyssuhteen kehittymisen näkökulmasta. Onko lapsen tarpeisiin pystytty vastaamaan oikea-aikaisesti ja riittävästi, ja miten tämä vuorovaikutus on yhteydessä kehittyvään kiintymyssuhteeseen? Vastauksessa on mahdollista pohtia myös virikeympäristön merkitystä lapsen kognitiiviselle kehitykselle. Kokelas voi kuvata vaikkapa sitä, miten varhainen vuorovaikutusympäristö on yhteydessä kielen kehitykseen esimerkiksi vauvan varhaiseen jokelteluun vastaamisen kautta. Hyvässä vastauksessa voidaan nostaa esille myös lasten synnynnäisten yksilöllisten ominaisuuksien, kuten temperamentin tai stressinsäätelytaitojen, roolia suojaavina tai riskitekijöinä tässä epätyypillisessä tilanteessa. Hyvässä vastauksessa on mahdollista pohtia myös etäällä olevien vanhempien kiintymyksen kehittymisen haasteita, mutta tämä näkökulma on kuitenkin kytkettävä lapsen myöhempään kehitykseen. Hyvässä vastauksessa kokelas osoittaa ymmärtävänsä, että hotellissa vietetyn odotusajan pituudella on myös vaikutusta. Vastauksessa voi hyödyntää esimerkiksi tietoa, jota on saatu adoptiolapsista tehdyistä tutkimuksista, tai tietoa aivojen varhaisen muovautuvuuden merkityksestä oman äidinkielen äänteiden erottelussa.\n\n&NewLine;\n\nAineisto saattaa ohjata tarkastelemaan sijaissynnytystä laajasta näkökulmasta. Kokelas voi ajautua pohtimaan sijaissynnytyksen eettistä oikeutusta tai tilannetta sijaissynnyttäjän näkökulmasta. Kysymyksessä kuitenkin pyydetään kokelasta arvioimaan vain kuvatun odotustilanteen merkitystä lapsen kehityksen kannalta.\n\n&NewLine;\n\n**9–11 p**. Vastauksessa tarkastellaan aineiston kuvaaman tilanteen vaikutuksia lapsen kehitykseen hyödyntäen pääosin mielekkäitä psykologisia käsitteitä ja teorioita. Tiedon hallinta on hyvää, mutta osittain rajoittunutta. Vastaus on tehtävänannon mukainen, mutta siinä voi olla myös irralliseksi jääviä kohtia. Psykologisen tiedon kehittely on hyvää. Perusteluja on useassa kohdassa, ja ne ovat paikkansa pitäviä.\n\n&NewLine;\n\n**15–17 p.** Vastauksessa on monipuolista psykologista tietoa, joka hyödyntää annettua aineistoa erinomaisesti. Vastaus muodostaa kiitettävän kokonaisuuden. Psykologista tietoa sovelletaan kiitettävästi ja perustelut ovat kattavia ja vakuuttavia.\n",
+          "exam_id": 138411,
+          "content": {
+            "text": "**Lasten kehitys sijaissynnytyksen jälkeen 20 p.**\n\n​\n\n**Aineisto**\n\n[LINK text=Video: Sijaissynnytyksiä tarjoavan yrityksen video lastaan odottaville vanhemmille|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22\\_PS\\_fi/attachments/index.html#4.A]\n\n[LINK text=Teksti: Tietoruutu sijaissynnytyksestä|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22\\_PS\\_fi/attachments/index.html#4.B]\n\n​\n\nVuoden 2020 toukokuussa Yle uutisoi koronapandemiasta johtuvien matkustuskieltojen mukanaan tuomasta ongelmasta, joka liittyi sijaissynnytyksiin. Itä-Euroopassa sijaitsevassa hotellissa oli kymmeniä vastasyntyneitä lapsia, jotka odottivat ulkomaalaisia vanhempiaan noutamaan heitä. Syntyneet lapset eivät päässeet suunnitellusti vanhempiensa luokse, kun koronapandemia sulki rajat. Uudet vanhemmat pystyivät näkemään vauvansa vain valokuvissa ja videopuheluiden välityksellä.\n\n​\n\nSijaissynnytyksiä tarjoavan yrityksen video ([LINK text=aineisto 4.A|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22\\_PS\\_fi/attachments/index.html#4.A]) kuvaa tilannetta hotellissa, jossa lapset odottavat vanhempiaan.\n\n​\n\nAineistossa [LINK text=4.B|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22\\_PS\\_fi/attachments/index.html#4.B] on tietoruutu siitä, mitä sijaissynnytys tarkoittaa.\n\n​\n\nSelitä kehityspsykologisia käsitteitä ja teorioita hyödyntäen, miten kuvattu odotustilanne voi vaikuttaa syntyneen lapsen kehitykseen.\n",
+            "displayNumber": "4."
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "20",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-30T10:55:45.536473",
+          "max_score": null,
+          "groupping": null,
+          "id": 4798242,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "67284cb9-52b8-453c-bd8b-c1465d0321fc",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2022-09-26T10:30:02.972166"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252839"
+          ],
+          "main_text": "**Aivopuoliskon puuttuminen 20 p.**\n\n​\n\n**Aineisto**\n\n[LINK text=Video: Aivopuoliskon puuttuminen|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22\\_PS\\_fi/attachments/index.html#5.A]\n\n​\n\nKatso video [LINK text=5.A|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22\\_PS\\_fi/attachments/index.html#5.A]. Selitä, miksi videolla esiintyvä nainen voi elää melko tavanomaista elämää, vaikka suuri osa hänen toisesta aivopuoliskostaan puuttuu.\n",
+          "deleted_at": null,
+          "feedback": "Videolla nuori nainen kertoo, miten aivopuoliskon leikkaus lapsuudessa on vaikuttanut hänen toimintakykyynsä. Hyvä vastaus rakentuu tyypillisimmin plastisiteetin eli muovautuvuuden käsitteen varaan. Vastauksessa voidaan pohtia aivoalueiden välisten yhteyksien ja toimintojen uudelleenjärjestäytymistä sekä lateralisaatiota. Jotkin kognitiiviset toiminnot ovat hyvin lateralisoituneita, ja videolla esiintyvää naista tarkkailemalla on mahdollista päätellä, kumpaan aivopuoliskoon leikkaus on kohdistunut; kielelliset toiminnot sujuvat, mutta motoriikassa on toispuolisia haasteita. Vastauksessa voidaan hyödyntää tätä havaintoa ja pohtia, millainen toimintakyky olisi tilanteessa, jossa leikkaus olisi kohdistunut toiseen aivopuoliskoon.\n\n&NewLine;\n\nVastauksessa on mahdollista käsitellä myös sitä, miten vähitellen kehittyvän ja äkillisesti syntyvän aivovaurion vaikutukset eroavat toisistaan. Niin ikään voi tuoda esiin sen, että aivojen plastisiteetti on suurinta lapsuudessa. Lapsuudenaikaisen leikkauksen ansiosta videolla esiintyvän naisen myöhempi kehitys on ollut melko tavanomaista, kun kohtausoireita on leikkauksesta alkaen ollut vähemmän.\n\n&NewLine;\n\nVastauksessa voidaan käsitellä myös muita kuin aivoihin liittyviä seikkoja, kuten yksilöön ja ympäristöön liittyviä kehitystä tukevia piirteitä. Esimerkiksi yksilön temperamentti, personallisuus ja hänen kiintymyssuhteensa tai ulkoisen ympäristön tarjoamat virikemahdollisuudet saattavat olla yhteydessä toimintamalleihin, jotka tukevat aktiivista kuntoutumiseen sitoutumista.\n\n&NewLine;\n\n**9–11 p**. Vastauksessa selitetään pääosin mielekkään psykologisen tiedon ja käsitteistön avulla, miksi ihminen voi elää melko tavanomaista elämää, vaikka suuri osa toisesta aivopuoliskosta puuttuisi. Tiedon hallinta on hyvää. Vastaus on jäsentynyt, mutta se jää osittain rajoittuneeksi.\n\n&NewLine;\n\n**15–17 p**. Vastauksessa selitetään monipuolisesti eritellen, miksi ihminen voi elää melko tavanomaista elämää, vaikka suuri osa toisesta aivopuoliskosta puuttuisi. Psykologisen tiedon ja käsitteistön hallinta on kiitettävää, ja vastaus muodostaa eheän kokonaisuuden.\n",
+          "exam_id": 138411,
+          "content": {
+            "text": "**Aivopuoliskon puuttuminen 20 p.**\n\n​\n\n**Aineisto**\n\n[LINK text=Video: Aivopuoliskon puuttuminen|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22\\_PS\\_fi/attachments/index.html#5.A]\n\n​\n\nKatso video [LINK text=5.A|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22\\_PS\\_fi/attachments/index.html#5.A]. Selitä, miksi videolla esiintyvä nainen voi elää melko tavanomaista elämää, vaikka suuri osa hänen toisesta aivopuoliskostaan puuttuu.\n",
+            "displayNumber": "5."
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "20",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-30T10:55:45.533154",
+          "max_score": null,
+          "groupping": null,
+          "id": 4798255,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "6d7a6fb9-3f49-49d4-8698-02abd3c8f7a7",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2022-09-26T10:32:10.202664"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252840"
+          ],
+          "main_text": "** Mielenterveyshäiriöiden puhkeaminen 20 p.**\n\n​\n\n**Aineisto**\n\n[LINK text=Kuvaajat: Mielenterveyden häiriöihin sairastumisen todennäköisyys eri ikäisillä|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22\\_PS\\_fi/attachments/index.html#6.A]\n\n​\n\nAineiston [LINK text=6.A|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22\\_PS\\_fi/attachments/index.html#6.A] kuvaajissa on kuvattu, kuinka todennäköisyys sairastua ensimmäisen kerran eri mielenterveyshäiriöihin vaihtelee iän mukaan. Valitse yksi kuvaajissa esitetyistä mielenterveyshäiriöistä ja kuvaile sen keskeisiä piirteitä. Pohdi, miksi todennäköisyys sairastua valitsemaasi mielenterveyshäiriöön on suurimmillaan tietyssä iässä ja kehitysvaiheessa.\n",
+          "deleted_at": null,
+          "feedback": "Autismikirjo ja ADHD eivät ole mielenterveyden häiriöitä. Aineistossa esitetyt tulokset autismikirjon ja ADHD:n kohdalla viittaavat niiden diagnosointiajankohtaan, eivätkä sairastumisajankohtaan. Opettajat voivat ottaa virheen huomioon oman asiantuntemuksensa pohjalta tehdessään koesuoritusten alustavaa arvostelua. Sensorikokous ottaa virheen huomioon päättäessään lopullisista arvostelulinjauksista.\n\n&NewLine;\n\nHyvässä vastauksessa valitun mielenterveyshäiriön keskeisimmät piirteet on kuvailtu selkeästi. Diagrammia on tulkittu oikein, ja vastauksesta käy ilmi, missä iässä kyseiseen mielenterveyshäiriöön todennäköisimmin sairastutaan ensimmäisen kerran. Vastauksessa ei tarvitse käsitellä todennäköisyyden tarkkuutta (ts. luottamusväliä). Hyvässä vastauksessa hyödynnetään psykologista tietoa valitun mielenterveyshäiriön etiologiasta pohdittaessa, miksi häiriö puhkeaa todennäköisimmin juuri tietyssä iässä. Vastauksessa voi hyödyntää esimerkiksi vertailun näkökulmasta tietoa muistakin mielenterveydenhäiriöistä ja iästä, jolloin niihin todennäköisimmin sairastutaan. Hyvässä vastauksessa mielenterveyshäiriön ilmaantumisikää osataan pohtia hyödyntäen monia psykologian osa-alueita, kuten kehityspsykologiaa, neuropsykologiaa, sosiaalipsykologiaa ja persoonallisuuspsykologiaa. Kulttuurinenkin näkökulma saattaa tulla kyseeseen. Hyvässä vastauksessa voidaan pohtia myös yhteiskunnan normeja ja oletuksia mielenterveyshäiriöiden diagnosoinnissa. Diagnoosin saamiseen saattaa vaikuttaa esimerkiksi se, miten on ollut mahdollista päästä hoitoon.\n\n&NewLine;\n\n9–11 p. Valittu mielenterveyshäiriö on kuvattu pääosin oikein, mutta tarkastelussa on joitain rajoitteita. Diagrammista on osattu poimia ikä, jossa kyseiseen mielenterveyshäiriöön sairastutaan suhteellisesti todennäköisimmin. Vastaus on pääosin tehtävänannon mukainen. Psykologista tietoa on sovellettu hyvin pohdittaessa valitun mielenterveyshäiriön ilmaantumisikää. Perusteluja on useissa kohdissa, ja ne ovat paikkansa pitäviä. Perusteluissa on kuitenkin joitain rajoitteita.\n\n&NewLine;\n\n**15–17 p.** Vastauksessa on monipuolista tietoa valitusta mielenterveyshäiriöstä ja sen etiologista. Diagrammista on poimittu ikä, jossa kyseinen mielenterveyshäiriö todennäköisimmin puhkeaa. Vastauksesta käy ilmi, että kokelas hahmottaa diagrammin perusteella, miten sairastumisen todennäköisyys muuttuu suhteessa ikään (esimerkiksi niin että todennäköisyys kasvaa nopeasti ja vähenee sitten tai pysyy melko suurena jonkin aikaa). Psykologista tietoa häiriön etiologiasta sovelletaan kiitettävästi suhteessa diagrammin osoittamaan ilmaantumisikään. Perustelut ovat selkeitä ja vakuuttavia.\n",
+          "exam_id": 138411,
+          "content": {
+            "text": "** Mielenterveyshäiriöiden puhkeaminen 20 p.**\n\n​\n\n**Aineisto**\n\n[LINK text=Kuvaajat: Mielenterveyden häiriöihin sairastumisen todennäköisyys eri ikäisillä|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22\\_PS\\_fi/attachments/index.html#6.A]\n\n​\n\nAineiston [LINK text=6.A|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22\\_PS\\_fi/attachments/index.html#6.A] kuvaajissa on kuvattu, kuinka todennäköisyys sairastua ensimmäisen kerran eri mielenterveyshäiriöihin vaihtelee iän mukaan. Valitse yksi kuvaajissa esitetyistä mielenterveyshäiriöistä ja kuvaile sen keskeisiä piirteitä. Pohdi, miksi todennäköisyys sairastua valitsemaasi mielenterveyshäiriöön on suurimmillaan tietyssä iässä ja kehitysvaiheessa.\n",
+            "displayNumber": "6."
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "20",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-30T10:55:45.529716",
+          "max_score": null,
+          "groupping": null,
+          "id": 4798270,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "7f672eaf-0059-437c-aba3-56ca4be1680e",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2022-09-26T10:33:15.195885"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252838",
+            "18-252841",
+            "18-252840"
+          ],
+          "main_text": "**Hyvinvointi e-urheilussa 30 p.**\n\n​\n\nE-urheilu eli videopelien pelaaminen kilpailumielessä on nykyään ammattimaista kansainvälistä toimintaa, ja parhaat ammattipelaajat ansaitsevat suuria summia rahaa.\n\n​\n\n**Aineisto**\n\n[LINK text=Teksti: Mia Stellbergin radiohaastattelu|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22\\_PS\\_fi/attachments/index.html#9.A]\n\n​\n\nSuomalainen psykologi Mia Stellberg on toiminut hyvin menestyneen e-urheilujoukkue Astraliksen urheilupsykologina vuodesta 2016. Haastattelussa (aineisto [LINK text=9.A|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22\\_PS\\_fi/attachments/index.html#9.A]) hän kertoo hyvinvointiin liittyvistä haasteista, joita ammattipelaajat kohtaavat.\n\n​\n\nValitse aineistosta yksi biologinen, yksi sosiaalinen ja yksi psykologinen tekijä, jotka uhkaavat ammattipelaajan psyykkistä hyvinvointia. Selitä psykologisen tiedon valossa, miksi kyseiset tekijät ovat uhka psyykkiselle hyvinvoinnille, ja pohdi, millaisilla toimilla pelaajien psyykkistä hyvinvointia voisi tukea.\n\n​\n\nKäytä vastauksessasi alaotsikoita, joilla tuot selvästi esille biologisen, sosiaalisen ja psykologisen näkökulman.\n",
+          "deleted_at": null,
+          "feedback": "Hyvässä vastauksessa aineistosta on poimittu kolme selkeästi toisistaan poikkeavaa tekijää, jotka uhkaavat ammattipelaajan psyykkistä hyvinvointia ja selitetty, miksi kyseiset tekijät ovat uhka psyykkiselle hyvinvoinnille. Lisäksi pohditaan, miten pelaajaa voisi auttaa selviytymään kyseisistä haasteista. Otsikointi tuo biologisen, sosiaalisen ja psykologisen näkökulman selvästi esille. Vaikka vastauksessa on kolme näkökulmaa, ansiokkaassa vastauksessa huomataan myös, että pelaajien kokemat haasteet ovat vuorovaikutuksessa keskenään.\n\n&NewLine;\n\nAineistossa mainittuja haasteita ovat seuraavat:\n\n&NewLine;\n\nBiologinen: Työ on fyysisesti raskasta, koska se sisältää paljon matkustamista. Tästä seuraa aikaerorasitusta ja vaikeuksia saada riittävästi unta. Myös liian suuri harjoittelumäärä rasittaa fyysisesti.\n\n&NewLine;\n\nRiittävä palautuminen on ihmisen hyvinvoinnin kannalta tärkeää. Lepo ja erityisesti riittävä määrä hyvälaatuista unta auttavat ylläpitämään vireystilaa ja emotionaalista tasapainoa. Lepo ja uni saavat ihmisen sietämään paremmin stressiä, ja ne lisäävät myös kognitiivista suorituskykyä. Riittävä uni on ammattipelaajalle tärkeää myös harjoittelusta oppimisen ja parhaan mahdollisen kilpailusuorituksen kannalta.\n\n&NewLine;\n\nAmmattipelaajien hyvinvointia voi tukea huolehtimalla siitä, että heille jää riittävästi aikaa levätä ja palautua. Unen laatua voi edistää muun muassa varaamalla unelle tarpeeksi aikaa ja pyrkimällä säännölliseen vuorokausirytmiin. Matkustamisen aikana aikaerorasitusta voi pyrkiä lievittämään kirkkaalla valolla aamulla ja melatoniinilla illalla.\n\n&NewLine;\n\nSosiaalinen: Ammattipelaajat ovat vielä nuoria, tyypillisesti 18–25-vuotiaita, ja siten he ovat ikävaiheessa, jossa aivojen kehitys on yhä käynnissä. Nuoret rakentavat identiteettiään, ja sosiaalisten suhteiden merkitys on nuorena erityisen suuri. Kuitenkin ammattipelaajien elämäntapa poikkeaa heidän ikätovereistaan, koska he viettävät paljon aikaa matkoilla ja harjoituksissa ja ansaitsevat suuria summia rahaa. He ovat pelipiireissä julkisuuden henkilöitä, joiden toimintaa seurataan ja kommentoidaan tarkasti netissä.\n\n&NewLine;\n\nTavallisesta poikkeava elämäntapa on riski hyvinvoinnille, koska oman identiteetin muodostaminen vaatii enemmän työtä ja vertaissuhteiden solmiminen saattaa olla vaikeaa. Lisäksi julkisuuden sekä suurten tulojen ja talouden hallinta voi olla erityisesti nuorille hankalaa, koska heidän harkintakykynsä ja hallintakeinonsa eivät ole vielä aikuisen tasolla.\n\n&NewLine;\n\nErilainen elämäntapa ei väistämättä johda psyykkisiin ongelmiin, mutta on tärkeää, että nuorella olisi elämänpiirissään häntä tukevia ja hänet hyväksyviä aikuisia sekä saman ikäryhmän nuoria, joiden kanssa hän voi kokea yhteenkuuluvuutta. On tärkeää, että ammattipelaaja ei jää yksin ja että hän pystyy jakamaan kokemuksiaan muiden kanssa. Olisi hyödyllistä puhua jonkun kanssa myös vaikeista ja ahdistavista asioista, kuten mahdollisesta nettikiusaamisesta.\n\n&NewLine;\n\nPsykologinen: Ammattipelaajan työ on erittäin stressaavaa. Kognitiivisesti kuormittavaa harjoittelua on paljon, ja kilpailuun liittyy suorituspaineita, jotka ammattipelaajilla ovat hyvin konkreettisia, koska heidän tulonsa ja uransa jatkuminen riippuvat heidän suoriutumisestaan.\n\n&NewLine;\n\nLyhtyaikainen stressi lisää suorituskykyä, ja se voi auttaa tekemään huippusuorituksia esimerkiksi kilpailutilanteessa. Pitkään jatkunut stressi on kuitenkin keholle raskasta ja sillä on negatiivisia fyysisiä ja psyykkisiä seurauksia. Siksi ammattipelaajien olisi tärkeää oppia hallitsemaan omaa stressiään, niin että stressitaso pääsee laskemaan kilpailujen välillä ja etteivät suorituspaineet kasva lamauttaviksi.\n\n&NewLine;\n\nHyviä stressinhallintakeinoja ovat esimerkiksi liikunta, sosiaalinen tuki ja riittävä lepo, minkä vuoksi ammattipelaajan elämän haasteet kietoutuvatkin yhdeksi kokonaisuudeksi. Stressiä voi pyrkiä helpottamaan myös erilaisilla tekniikoilla, kuten tietoisella läsnäololla (mindfulness). Ihmiset pyrkivät automaattisesti hallitsemaan stressiä ja negatiivisia tunteita yksilöllisillä hallinta- ja puolustuskeinoilla, ja osa näistä keinoista on parempia kuin toiset. Siten ammattipelaajalle on tärkeää tuntea stressinhallintakeinoja ja etsiä itselleen sopivat menetelmät.\n\n&NewLine;\n\nVastaus arvostellaan kokonaisuutena, mutta siinä tulee olla kolme näkökulmaa. Jos näkökulmia on vain yksi, enimmäispistemäärä on 10, ja jos niitä on vain kaksi, enimmäispistemäärä on 20.\n\n&NewLine;\n\n**13–16 p.** Vastauksessa on tunnistettu kolme ammattipelaajien hyvinvointia uhkaavaa tekijää ja syitä niiden ongelmallisuudelle on perusteltu pääosin mielekkäällä psykologisella tiedolla. Hyvinvointia tukevia ideoita kehitellään jonkin verran, ja ideat perustuvat enimmäkseen psykologiseen tietoon. Kokonaisuus on jäsennelty, mutta osa tekstistä ja ideoista jää irralliseksi.\n\n&NewLine;\n\n**22–25 p.** Vastauksessa tunnistetaan kolme ammattipelaajien hyvinvointia uhkaavaa tekijää ja niiden aiheuttamia haasteita hyvinvoinnille selitetään monipuolisen psykologisen tiedon avulla. Hyvinvointia tukevia ideoita kehitellään psykologisen tiedon pohjalta erinomaisesti, ja vastaus muodostaa kiitettävän kokonaisuuden.\n",
+          "exam_id": 138411,
+          "content": {
+            "text": "**Hyvinvointi e-urheilussa 30 p.**\n\n​\n\nE-urheilu eli videopelien pelaaminen kilpailumielessä on nykyään ammattimaista kansainvälistä toimintaa, ja parhaat ammattipelaajat ansaitsevat suuria summia rahaa.\n\n​\n\n**Aineisto**\n\n[LINK text=Teksti: Mia Stellbergin radiohaastattelu|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22\\_PS\\_fi/attachments/index.html#9.A]\n\n​\n\nSuomalainen psykologi Mia Stellberg on toiminut hyvin menestyneen e-urheilujoukkue Astraliksen urheilupsykologina vuodesta 2016. Haastattelussa (aineisto [LINK text=9.A|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22\\_PS\\_fi/attachments/index.html#9.A]) hän kertoo hyvinvointiin liittyvistä haasteista, joita ammattipelaajat kohtaavat.\n\n​\n\nValitse aineistosta yksi biologinen, yksi sosiaalinen ja yksi psykologinen tekijä, jotka uhkaavat ammattipelaajan psyykkistä hyvinvointia. Selitä psykologisen tiedon valossa, miksi kyseiset tekijät ovat uhka psyykkiselle hyvinvoinnille, ja pohdi, millaisilla toimilla pelaajien psyykkistä hyvinvointia voisi tukea.\n\n​\n\nKäytä vastauksessasi alaotsikoita, joilla tuot selvästi esille biologisen, sosiaalisen ja psykologisen näkökulman.\n",
+            "displayNumber": "9."
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "20",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-30T10:55:45.525599",
+          "max_score": null,
+          "groupping": null,
+          "id": 4798331,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "ad7f893c-dd1e-4e95-a4d7-5680c6b7cd1b",
+          "order_number": 13,
+          "multipart": true,
+          "created_at": "2022-09-26T10:57:01.144205"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252839",
+            "18-252838"
+          ],
+          "main_text": "**Tutkimustehtävä 20 p.**\n\n&NewLine;\n\nAlla kuvataan erään psykologisen tutkimuksen toteutus. Täydennä aukkokohdat yhdellä tutkimusmenetelmiin liittyvällä sanalla, joka sopii parhaiten tieteellistä tutkimusta kuvaavaan tekstiin. Sana voi olla myös yhdyssana.\n\n&NewLine;\n\nTutkimuksen tutkimuskysymys oli seuraava: voidaanko rentoutumisharjoituksiin keskittyvällä mobiilisovelluksella vaikuttaa suomalaisten uusien yliopisto-opiskelijoiden stressiin? Tutkimuksen [GAP id=1] **2 p**. oli, että rentoutus lievittää stressiä. Tällöin rentoutus on tutkimuksen [GAP id=2] **2 p**. muuttuja ja stressi [GAP id=3] **2 p**. muuttuja. Ennen tutkimuksen alkamista varmistuttiin tutkimuksen [GAP id=4]\n\n**2 p.**, niin että tutkimus suoritettiin hyvän tutkimustavan mukaisesti, eli esimerkiksi osallistuminen tutkimukseen oli vapaaehtoista ja tutkittavien tietosuojasta huolehdittiin hyvin. Tutkimuksen [GAP id=5] **2 p.** muodostui kaikista Rovaniemen yliopiston ensimmäisen vuoden opiskelijoista. Koska kyseessä oli kokeellinen tutkimus, tutkittavat [GAP id=6] **2 p**. kahteen eri ryhmään. Tällä tavalla varmistuttiin siitä, että ympäristötekijät eivät vaikuta häiritsevästi ryhmien jakautumiseen. Koeryhmä harjoitteli mobiilisovelluksella ohjattua rentoutumista iltaisin ennen nukahtamista, ja verrokit saivat sovelluksen kautta pelkästään tietoa stressin vaikutuksesta hyvinvointiin. Molemmat ryhmät täyttivät joka viikko lomakkeen, jolla seurattiin stressitasoa. Lomake on [GAP id=7] **2 p**. suomalaisessa väestössä, jolloin vastauksia voidaan arvioida suhteessa väestön keskiarvoon. Sen luotettavuus eli [GAP id=8] **2 p.** on myös todettu hyväksi. Mahdolliset [GAP id=9] **2 p.**, kuten sukupuoli ja ikä, huomioitiin tulosten analysoinnissa. Jos ryhmien välinen ero stressin määrässä on tilastollisesti merkitsevä niin että stressin määrä on pienempi koeryhmässä, voidaan sanoa, että rentoutusharjoituksilla on myönteinen vaikutus stressiin. Kuitenkin tutkimuksen pätevyyttä eli [GAP id=10] **2 p**. pitää arvioida kriittisesti tutkimuksen jälkeen, koska tulokseen voivat vaikuttaa esimerkiksi tutkimuksesta pois jääneet tutkittavat. Jos ne, jotka kokivat rentoutumisen hankalana, eivät olisikaan pysyneet mukana tutkimuksen loppuun asti, tulos voisi olla vääristynyt. Ennen julkaisua tutkimus kävi läpi vertaisarvioinnin.\n\n&NewLine;\n",
+          "deleted_at": null,
+          "feedback": "Myös muut oikeat ilmaisut hyväksytään.\n\n\n\nTämä tehtävä arvostellaan lautakunnassa keskitetysti, joten opettaja ei tee alustavaa arvostelua. Keskitetysti arvosteltavan vastauksen pisteet päivittyvät arvostelupalveluun lopullisen arvostelun edetessä. Vastauksen kohdalla näkyy arvostelupalvelussa viiva (-), kunnes kyseinen vastaus on arvosteltu.",
+          "exam_id": 138411,
+          "content": {
+            "text": "**Tutkimustehtävä 20 p.**\n\n&NewLine;\n\nAlla kuvataan erään psykologisen tutkimuksen toteutus. Täydennä aukkokohdat yhdellä tutkimusmenetelmiin liittyvällä sanalla, joka sopii parhaiten tieteellistä tutkimusta kuvaavaan tekstiin. Sana voi olla myös yhdyssana.\n\n&NewLine;\n\nTutkimuksen tutkimuskysymys oli seuraava: voidaanko rentoutumisharjoituksiin keskittyvällä mobiilisovelluksella vaikuttaa suomalaisten uusien yliopisto-opiskelijoiden stressiin? Tutkimuksen [GAP id=1] **2 p**. oli, että rentoutus lievittää stressiä. Tällöin rentoutus on tutkimuksen [GAP id=2] **2 p**. muuttuja ja stressi [GAP id=3] **2 p**. muuttuja. Ennen tutkimuksen alkamista varmistuttiin tutkimuksen [GAP id=4]\n\n**2 p.**, niin että tutkimus suoritettiin hyvän tutkimustavan mukaisesti, eli esimerkiksi osallistuminen tutkimukseen oli vapaaehtoista ja tutkittavien tietosuojasta huolehdittiin hyvin. Tutkimuksen [GAP id=5] **2 p.** muodostui kaikista Rovaniemen yliopiston ensimmäisen vuoden opiskelijoista. Koska kyseessä oli kokeellinen tutkimus, tutkittavat [GAP id=6] **2 p**. kahteen eri ryhmään. Tällä tavalla varmistuttiin siitä, että ympäristötekijät eivät vaikuta häiritsevästi ryhmien jakautumiseen. Koeryhmä harjoitteli mobiilisovelluksella ohjattua rentoutumista iltaisin ennen nukahtamista, ja verrokit saivat sovelluksen kautta pelkästään tietoa stressin vaikutuksesta hyvinvointiin. Molemmat ryhmät täyttivät joka viikko lomakkeen, jolla seurattiin stressitasoa. Lomake on [GAP id=7] **2 p**. suomalaisessa väestössä, jolloin vastauksia voidaan arvioida suhteessa väestön keskiarvoon. Sen luotettavuus eli [GAP id=8] **2 p.** on myös todettu hyväksi. Mahdolliset [GAP id=9] **2 p.**, kuten sukupuoli ja ikä, huomioitiin tulosten analysoinnissa. Jos ryhmien välinen ero stressin määrässä on tilastollisesti merkitsevä niin että stressin määrä on pienempi koeryhmässä, voidaan sanoa, että rentoutusharjoituksilla on myönteinen vaikutus stressiin. Kuitenkin tutkimuksen pätevyyttä eli [GAP id=10] **2 p**. pitää arvioida kriittisesti tutkimuksen jälkeen, koska tulokseen voivat vaikuttaa esimerkiksi tutkimuksesta pois jääneet tutkittavat. Jos ne, jotka kokivat rentoutumisen hankalana, eivät olisikaan pysyneet mukana tutkimuksen loppuun asti, tulos voisi olla vääristynyt. Ennen julkaisua tutkimus kävi läpi vertaisarvioinnin.\n\n&NewLine;\n",
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-30T10:55:45.52163",
+          "max_score": 20,
+          "groupping": null,
+          "id": 4798391,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "parent": "80b65951-104d-45ff-a43f-f891af0e4fca",
+              "choices": [],
+              "correct": "hypoteesi | olettamus | oletus",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 2,
+              "parent": "80b65951-104d-45ff-a43f-f891af0e4fca",
+              "choices": [],
+              "correct": "riippumaton",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 3,
+              "parent": "80b65951-104d-45ff-a43f-f891af0e4fca",
+              "choices": [],
+              "correct": "riippuva",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 4,
+              "parent": "80b65951-104d-45ff-a43f-f891af0e4fca",
+              "choices": [],
+              "correct": "eettisyydestä | etiikasta",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 5,
+              "parent": "80b65951-104d-45ff-a43f-f891af0e4fca",
+              "choices": [],
+              "correct": "otos | näyte",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 6,
+              "parent": "80b65951-104d-45ff-a43f-f891af0e4fca",
+              "choices": [],
+              "correct": "satunnaistettiin | randomisoitiin | arvottiin",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 7,
+              "parent": "80b65951-104d-45ff-a43f-f891af0e4fca",
+              "choices": [],
+              "correct": "standardoitu | normitettu",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 8,
+              "parent": "80b65951-104d-45ff-a43f-f891af0e4fca",
+              "choices": [],
+              "correct": "reliabiliteetti",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 9,
+              "parent": "80b65951-104d-45ff-a43f-f891af0e4fca",
+              "choices": [],
+              "correct": " häiriömuuttujat | häiriötekijät | kontrollimuuttujat | kovariaatit | moderaattorit | mediaattorit",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 10,
+              "parent": "80b65951-104d-45ff-a43f-f891af0e4fca",
+              "choices": [],
+              "correct": "validiteettia",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "80b65951-104d-45ff-a43f-f891af0e4fca",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2022-09-26T11:00:46.256484"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252841"
+          ],
+          "main_text": "**Käyttäytymisen muuttaminen 30 p.**\n\n​\n\n**Aineisto**\n\n[LINK text=Teksti: Valtioneuvoston tiedote|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22\\_PS\\_fi/attachments/index.html#7.A]\n\n​\n\nTutustu tekstiin [LINK text=7.A|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22\\_PS\\_fi/attachments/index.html#7.A], jossa kuvataan hallitustenvälisen ilmastonmuutospaneelin raporttia. Ilmastonmuutoksen etenemiseen voi jokainen kuluttaja vaikuttaa valinnoillaan. Psykologiset tutkimukset kuitenkin osoittavat, että oman käyttäytymisen pysyvä muuttaminen ei ole kovin helppoa. Pohdi, miksi käyttäytymisen muuttaminen pysyvästi ilmastonmuutoksen hillitsemiseksi voi olla haastavaa.\n",
+          "deleted_at": null,
+          "feedback": "Hyvä vastaus pohjautuu tietoon siitä, mitkä psykologiset prosessit ovat aktiivisia silloin, kun ihminen säätelee omaa toimintaansa. Hyvässä vastauksessa voidaan erotella tavoitteellinen toiminta ja automatisoituneet toiminnot. Tavoitteelliseen toimintaan voi liittää esimerkiksi toiminnanohjausprosessit. Hyvin rutinoituneiden ja automatisoituneiden tapojen muuttaminen vaatii paljon tietoista toiminnanohjausta. Hyvässä vastauksessa on mahdollista pohtia myös aivojen muovautuvuutta uusien tapojen oppimisessa. Käyttäytymisen muutos saattaa lähteä liikkeelle yksilön motivoitumisesta ja siitä, että yksilö kokee voivansa vaikuttaa omilla valinnoillaan ympäristöönsä. Vastakohtana voisi olla avuttomuuden tai toivottomuuden kokemus, jolloin yksilö ajattelee, että hänen valinnoillaan ei ole merkitystä. Myös opitun avuttomuuden käsitettä on mahdollista soveltaa.\n\n&NewLine;\n\nToivottomuuden kokemus voi liittyä esimerkiksi taipumukseen nähdä tulevaisuus pessimistisesti tai persoonallisuuteen, jossa yksilö kokee negatiiviset tunteet voimakkaasti. Omien arvojen tiedostaminen voi auttaa käyttäytymisen pysyvän muutoksen motivoinnissa. Usein arvot ja teot ovat kuitenkin ristiriidassa, jolloin ihminen saattaa kokea kognitiivista dissonanssia ja motiiviristiriitoja.\n\n&NewLine;\n\nJoskus ihminen on toiminnassaan epärationaalinen. Yksilö voi esimerkiksi pyrkiä hillitsemään ilmastonmuutosta lukuisilla arjen valinnoillaan, mutta toisaalta hän saattaa käyttäytyä päinvastaisesti toisissa yhteyksissä. Ilmastonmuutos haastaa ihmiset tarkastelemaan omaa toimintaansa niin monella eri osa-alueella, että niiden kaikkien hallitseminen voi olla hankalaa. Hyvässä vastauksessa on mahdollista pohtia ihmisen rationaalisuutta, ajatteluprosesseja ja esimerkiksi emootioiden merkitystä käyttäytymisen muutoksessa. Ilmastoahdistus voi motivoida ihmisiä muuttamaan käytöstään, mutta se voi myös lamaannuttaa silloin kun yksilö kokee pystyvyyden tunteen puutetta tai toivottomuutta. Ilmastoon liittyvät uhat saattavat myös tulla torjutuiksi ihmisen mielessä. Hyvässä vastauksessa voidaan pohtia torjuntaan vaikuttavia tekijöitä tai syitä siihen, miksi ihminen voi epäonnistua pyrkimyksissään.\n\n&NewLine;\n\nYksilö ei toimi ainoastaan yksin, vaan myös yhteisön ja yhteiskunnan jäsenenä. Ympäristön makro- ja mikrotason tekijät vaikuttavat erittäin paljon yksilön valintoihin ja mahdollisuuksiin muuttaa käytöstään. Yksilön käyttäytymisen muutokseen saattavat vaikuttaa esimerkiksi identifioituminen johonkin viiteryhmään tai vaikkapa yhteiskunnan ohjauskeinot, kuten ilmastoystävällisiä valintoja ohjaava veropolitiikka.\n\n&NewLine;\n\nYksilölle on usein tärkeää toimia yhteisön normien mukaisesti. Yleinen välinpitämättömyys saattaa tarttua, tai yhteisön ohjausvaikutus voi johdattaa positiiviseen suuntaan. Hyvässä vastauksessa pohditaan yhteiskunnan ja yksilön suhdetta ja sitä, miten se voi vaikuttaa yksilön käyttäytymiseen. Taloudellisten resurssien tai tiedon puute saattaa myös rajata ihmisen toimintaa.\n\n&NewLine;\n\n**13–16 p.** Vastauksessa esitetään psykologiseen tietoon perustuva näkemys siitä, miksi käyttäytymisen muuttaminen on hankalaa. Vastaus on jäsennelty kokonaisuus. Tiedollinen sisältö on hyvä, mutta perustelut voivat olla osittain puutteelliset.\n\n&NewLine;\n\n**22–25 p. **Näkemys perustuu monipuoliseen psykologiseen tietoon, ja se on kauttaaltaan hyvin perusteltu. Aiheeseen liittyviä seikkoja kehitellään psykologisen tiedon pohjalta erinomaisesti, ja vastaus muodostaa kiitettävän kokonaisuuden. Hyvässä vastauksessa käsitellään oivaltavasti esimerkiksi yksilön ja yhteiskunnan suhdetta käyttäytymisen muutoksessa.\n",
+          "exam_id": 138411,
+          "content": {
+            "text": "**Käyttäytymisen muuttaminen 30 p.**\n\n​\n\n**Aineisto**\n\n[LINK text=Teksti: Valtioneuvoston tiedote|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22\\_PS\\_fi/attachments/index.html#7.A]\n\n​\n\nTutustu tekstiin [LINK text=7.A|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-22\\_PS\\_fi/attachments/index.html#7.A], jossa kuvataan hallitustenvälisen ilmastonmuutospaneelin raporttia. Ilmastonmuutoksen etenemiseen voi jokainen kuluttaja vaikuttaa valinnoillaan. Psykologiset tutkimukset kuitenkin osoittavat, että oman käyttäytymisen pysyvä muuttaminen ei ole kovin helppoa. Pohdi, miksi käyttäytymisen muuttaminen pysyvästi ilmastonmuutoksen hillitsemiseksi voi olla haastavaa.\n",
+            "displayNumber": "7."
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "20",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-30T10:55:45.51811",
+          "max_score": null,
+          "groupping": null,
+          "id": 4798301,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "f373a05e-4a83-40c2-91fb-07df46bdbba3",
+          "order_number": 11,
+          "multipart": true,
+          "created_at": "2022-09-26T10:44:24.969607"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Koe koostuu yhdeksästä tehtävästä, joista vastataan viiteen. Tehtävät on jaettu kolmeen osaan. Osien 1 ja 2 tehtävistä saa kustakin enintään 20 pistettä ja osan 3 tehtävistä kustakin enintään 30 pistettä. Kokeen maksimipistemäärä on 120. Vastaa vähintään yhteen mutta enintään kahteen tehtävään kustakin osasta. Halutessasi voit tuottaa vastausten tueksi piirroksia, kaavioita tai taulukoita ja liittää niistä kuvakaappauksen mihin tahansa tekstivastaukseen.\n\n&NewLine;\n\nÄlä jätä mitään merkintöjä sellaisen tehtävän vastaukselle varattuun tilaan, jota et halua jättää arvosteltavaksi. Huom.! Tehtävässä 1 on erillinen ohje vastaamatta jättämisestä.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 138411,
+          "content": {
+            "text": "Koe koostuu yhdeksästä tehtävästä, joista vastataan viiteen. Tehtävät on jaettu kolmeen osaan. Osien 1 ja 2 tehtävistä saa kustakin enintään 20 pistettä ja osan 3 tehtävistä kustakin enintään 30 pistettä. Kokeen maksimipistemäärä on 120. Vastaa vähintään yhteen mutta enintään kahteen tehtävään kustakin osasta. Halutessasi voit tuottaa vastausten tueksi piirroksia, kaavioita tai taulukoita ja liittää niistä kuvakaappauksen mihin tahansa tekstivastaukseen.\n\n&NewLine;\n\nÄlä jätä mitään merkintöjä sellaisen tehtävän vastaukselle varattuun tilaan, jota et halua jättää arvosteltavaksi. Huom.! Tehtävässä 1 on erillinen ohje vastaamatta jättämisestä.\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-30T10:55:45.508584",
+          "max_score": null,
+          "groupping": null,
+          "id": 4798196,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "d3349ce6-2db2-4f36-a1cd-5301c16bfbbd",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2022-09-26T10:25:26.466362"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "** Monivalintatehtävä 20 p.**\n\n&NewLine;\n\nAlla on 20 väittämää (1.1–1.20) ryhmiteltyinä neljään aihepiiriin. Merkitse kustakin väittämästä, onko se oikein vai väärin. Oikea vastaus 1 p., väärä vastaus –1 p., ei vastausta 0 p.\n\n&NewLine;\n\nMonivalintatehtävä ei ole pakollinen, ja siihen voi jättää vastaamatta. Vastattuasi väittämään voit vaihtaa vastausvaihtoehtoa, mutta et voi jättää väittämää enää kokonaan ilman vastausta. Jos olet aloittanut tehtävään vastaamisen, mutta et haluakaan jättää sitä arvosteltavaksi, valitse jokaisessa väittämässä vaihtoehto ”En vastaa”.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 138411,
+          "content": {
+            "text": "** Monivalintatehtävä 20 p.**\n\n&NewLine;\n\nAlla on 20 väittämää (1.1–1.20) ryhmiteltyinä neljään aihepiiriin. Merkitse kustakin väittämästä, onko se oikein vai väärin. Oikea vastaus 1 p., väärä vastaus –1 p., ei vastausta 0 p.\n\n&NewLine;\n\nMonivalintatehtävä ei ole pakollinen, ja siihen voi jättää vastaamatta. Vastattuasi väittämään voit vaihtaa vastausvaihtoehtoa, mutta et voi jättää väittämää enää kokonaan ilman vastausta. Jos olet aloittanut tehtävään vastaamisen, mutta et haluakaan jättää sitä arvosteltavaksi, valitse jokaisessa väittämässä vaihtoehto ”En vastaa”.\n",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "0ea6b4a4-830f-436a-b9fd-2a965b8a5cb8",
+            "5689b4d6-ccd1-445a-b5cc-1413f420494a",
+            "6357e527-1f9c-43aa-8846-01491ad4d430",
+            "70ee4ef7-8204-4314-9de7-b5716a9f27a3",
+            "9c40dee9-c00f-4a7c-b60b-76a4e6b8cb22",
+            "2e5514cc-8d86-4ca9-a034-e3d666bd5448",
+            "33adc102-bf75-42a9-b8e1-270e03dabbc7",
+            "0c67fd7b-7e9f-4738-b6c3-8db0db8b2021",
+            "f34363e6-d7e1-47f7-a9e4-416a699eeaf8",
+            "e7498765-70b2-41d4-a8b5-198aa86303ad",
+            "01c97da2-06a6-44b3-97cd-dcf7d88cc635",
+            "bb57edcc-2015-47c9-a6e8-9a9bd3d16ab4",
+            "2e34dc0f-0b68-448a-98c2-85255d7f17ee",
+            "4da41d38-16ed-495f-8857-7ea70faff490",
+            "2a3e522a-a3b6-44f4-93e8-3e09576d1cb9",
+            "73fcaaa6-809d-4143-9d04-65ff3f33fee3",
+            "41d76574-2bd8-48b4-ba95-f658b646f2cc",
+            "6ac8f6b4-329b-4269-a6d8-7c02be48fda6",
+            "1f6e203d-8aa2-4277-96e2-ee5cb7efaa9b",
+            "dde2b9f4-8384-4217-8b42-ae7453ae0acc",
+            "66703b83-d46a-450f-b17b-fcee25b5b32a",
+            "34b9f939-e641-4d91-9e04-85cccd8a23d0",
+            "dd37806e-81e5-4557-8904-3bd1258c4291",
+            "30ea78d0-5095-4a79-8cf0-dcf4139f0d43"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-30T10:55:45.502053",
+          "max_score": null,
+          "groupping": null,
+          "id": 4798648,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "e8439b10-e6c9-43a0-94ac-71e52863a8f9",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2022-09-26T11:19:58.611527"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252837"
+          ],
+          "main_text": "Bandura on tutkinut sosiaalista oppimista. **1 p.**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 138411,
+          "content": {
+            "text": "Bandura on tutkinut sosiaalista oppimista. **1 p.**\n",
+            "displayNumber": "1.4"
+          },
+          "images": null,
+          "settings": {
+            "points": "",
+            "optionsLayout": "1",
+            "customizedPoints": true
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T10:55:45.511042",
+          "max_score": 1,
+          "groupping": null,
+          "id": 4798733,
+          "question_type": "CUSTOMIZED_FEEDBACK",
+          "options": [
+            {
+              "id": 20,
+              "text": "Oikein",
+              "parent": "9c40dee9-c00f-4a7c-b60b-76a4e6b8cb22",
+              "points": "1",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 21,
+              "text": "Väärin",
+              "parent": "9c40dee9-c00f-4a7c-b60b-76a4e6b8cb22",
+              "points": "-1",
+              "choices": []
+            },
+            {
+              "id": 22,
+              "text": "En vastaa",
+              "parent": "9c40dee9-c00f-4a7c-b60b-76a4e6b8cb22",
+              "points": "0",
+              "choices": []
+            }
+          ],
+          "uuid": "9c40dee9-c00f-4a7c-b60b-76a4e6b8cb22",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2022-09-26T11:24:58.115926"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252838"
+          ],
+          "main_text": "Persoonallisuuden piirre tarkoittaa suhteellisen pysyvää tapaa käyttäytyä ja ajatella.** 1 p.**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 138411,
+          "content": {
+            "text": "Persoonallisuuden piirre tarkoittaa suhteellisen pysyvää tapaa käyttäytyä ja ajatella.** 1 p.**\n",
+            "displayNumber": "1.6"
+          },
+          "images": null,
+          "settings": {
+            "points": "",
+            "optionsLayout": "1",
+            "customizedPoints": true
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T10:55:45.513421",
+          "max_score": 1,
+          "groupping": null,
+          "id": 4798796,
+          "question_type": "CUSTOMIZED_FEEDBACK",
+          "options": [
+            {
+              "id": 26,
+              "text": "Oikein",
+              "parent": "0c67fd7b-7e9f-4738-b6c3-8db0db8b2021",
+              "points": "1",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 27,
+              "text": "Väärin",
+              "parent": "0c67fd7b-7e9f-4738-b6c3-8db0db8b2021",
+              "points": "-1",
+              "choices": []
+            },
+            {
+              "id": 28,
+              "text": "En vastaa",
+              "parent": "0c67fd7b-7e9f-4738-b6c3-8db0db8b2021",
+              "points": "0",
+              "choices": []
+            }
+          ],
+          "uuid": "0c67fd7b-7e9f-4738-b6c3-8db0db8b2021",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2022-09-26T11:28:20.453967"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252838"
+          ],
+          "main_text": "Maslow on yksi tunnetuimmista humanistisen persoonallisuusteorian edustajista. **1 p.**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 138411,
+          "content": {
+            "text": "Maslow on yksi tunnetuimmista humanistisen persoonallisuusteorian edustajista. **1 p.**\n",
+            "displayNumber": "1.10"
+          },
+          "images": null,
+          "settings": {
+            "points": "",
+            "optionsLayout": "1",
+            "customizedPoints": true
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T10:55:45.515628",
+          "max_score": 1,
+          "groupping": null,
+          "id": 4798872,
+          "question_type": "CUSTOMIZED_FEEDBACK",
+          "options": [
+            {
+              "id": 32,
+              "text": "Oikein",
+              "parent": "bb57edcc-2015-47c9-a6e8-9a9bd3d16ab4",
+              "points": "1",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 33,
+              "text": "Väärin",
+              "parent": "bb57edcc-2015-47c9-a6e8-9a9bd3d16ab4",
+              "points": "-1",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 34,
+              "text": "En vastaa",
+              "parent": "bb57edcc-2015-47c9-a6e8-9a9bd3d16ab4",
+              "points": "0",
+              "choices": []
+            }
+          ],
+          "uuid": "bb57edcc-2015-47c9-a6e8-9a9bd3d16ab4",
+          "order_number": 12,
+          "multipart": true,
+          "created_at": "2022-09-26T11:30:43.666613"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252839"
+          ],
+          "main_text": "Parasympaattinen hermosto on aktiivinen unessa.** 1 p.**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 138411,
+          "content": {
+            "text": "Parasympaattinen hermosto on aktiivinen unessa.** 1 p.**\n",
+            "displayNumber": "1.16"
+          },
+          "images": null,
+          "settings": {
+            "points": "",
+            "optionsLayout": "1",
+            "customizedPoints": true
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T10:55:45.547754",
+          "max_score": 1,
+          "groupping": null,
+          "id": 4799080,
+          "question_type": "CUSTOMIZED_FEEDBACK",
+          "options": [
+            {
+              "id": 32,
+              "text": "Oikein",
+              "parent": "6ac8f6b4-329b-4269-a6d8-7c02be48fda6",
+              "points": "1",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 33,
+              "text": "Väärin",
+              "parent": "6ac8f6b4-329b-4269-a6d8-7c02be48fda6",
+              "points": "-1",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 34,
+              "text": "En vastaa",
+              "parent": "6ac8f6b4-329b-4269-a6d8-7c02be48fda6",
+              "points": "0",
+              "choices": []
+            }
+          ],
+          "uuid": "6ac8f6b4-329b-4269-a6d8-7c02be48fda6",
+          "order_number": 20,
+          "multipart": true,
+          "created_at": "2022-09-26T11:37:17.072194"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252839"
+          ],
+          "main_text": "Vireystilaa on helpointa pitää yllä tehtäessä helppoja ja samanlaisena toistuvia työtehtäviä.** 1 p.**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 138411,
+          "content": {
+            "text": "Vireystilaa on helpointa pitää yllä tehtäessä helppoja ja samanlaisena toistuvia työtehtäviä.** 1 p.**\n",
+            "displayNumber": "1.17"
+          },
+          "images": null,
+          "settings": {
+            "points": "",
+            "optionsLayout": "1",
+            "customizedPoints": true
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T10:55:45.557506",
+          "max_score": 1,
+          "groupping": null,
+          "id": 4799150,
+          "question_type": "CUSTOMIZED_FEEDBACK",
+          "options": [
+            {
+              "id": 32,
+              "text": "Oikein",
+              "parent": "66703b83-d46a-450f-b17b-fcee25b5b32a",
+              "points": "-1",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 33,
+              "text": "Väärin",
+              "parent": "66703b83-d46a-450f-b17b-fcee25b5b32a",
+              "points": "1",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 34,
+              "text": "En vastaa",
+              "parent": "66703b83-d46a-450f-b17b-fcee25b5b32a",
+              "points": "0",
+              "choices": []
+            }
+          ],
+          "uuid": "66703b83-d46a-450f-b17b-fcee25b5b32a",
+          "order_number": 21,
+          "multipart": true,
+          "created_at": "2022-09-26T11:42:02.211236"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252839"
+          ],
+          "main_text": "Univaje heikentää ihmisen kognitiivista suorituskykyä ja laskee mielialaa. **1 p.**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 138411,
+          "content": {
+            "text": "Univaje heikentää ihmisen kognitiivista suorituskykyä ja laskee mielialaa. **1 p.**\n",
+            "displayNumber": "1.19"
+          },
+          "images": null,
+          "settings": {
+            "points": "",
+            "optionsLayout": "1",
+            "customizedPoints": true
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T10:55:45.56028",
+          "max_score": 1,
+          "groupping": null,
+          "id": 4799258,
+          "question_type": "CUSTOMIZED_FEEDBACK",
+          "options": [
+            {
+              "id": 32,
+              "text": "Oikein",
+              "parent": "dd37806e-81e5-4557-8904-3bd1258c4291",
+              "points": "1",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 33,
+              "text": "Väärin",
+              "parent": "dd37806e-81e5-4557-8904-3bd1258c4291",
+              "points": "-1",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 34,
+              "text": "En vastaa",
+              "parent": "dd37806e-81e5-4557-8904-3bd1258c4291",
+              "points": "0",
+              "choices": []
+            }
+          ],
+          "uuid": "dd37806e-81e5-4557-8904-3bd1258c4291",
+          "order_number": 23,
+          "multipart": true,
+          "created_at": "2022-09-26T11:43:42.192512"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252837"
+          ],
+          "main_text": "Neisser esitti, että sisäinen malli johtaa odotusten toteutumiseen ihmisen toiminnassa. **1 p.**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 138411,
+          "content": {
+            "text": "Neisser esitti, että sisäinen malli johtaa odotusten toteutumiseen ihmisen toiminnassa. **1 p.**\n",
+            "displayNumber": "1.3"
+          },
+          "images": null,
+          "settings": {
+            "points": "",
+            "optionsLayout": "1",
+            "customizedPoints": true
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T10:55:45.56944",
+          "max_score": 1,
+          "groupping": null,
+          "id": 4798714,
+          "question_type": "CUSTOMIZED_FEEDBACK",
+          "options": [
+            {
+              "id": 17,
+              "text": "Oikein",
+              "parent": "70ee4ef7-8204-4314-9de7-b5716a9f27a3",
+              "points": "-1",
+              "choices": []
+            },
+            {
+              "id": 18,
+              "text": "Väärin",
+              "parent": "70ee4ef7-8204-4314-9de7-b5716a9f27a3",
+              "points": "1",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 19,
+              "text": "En vastaa",
+              "parent": "70ee4ef7-8204-4314-9de7-b5716a9f27a3",
+              "points": "0",
+              "choices": []
+            }
+          ],
+          "uuid": "70ee4ef7-8204-4314-9de7-b5716a9f27a3",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2022-09-26T11:24:15.937985"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252837"
+          ],
+          "main_text": " Behavioristit tutkivat, mitä ihmisen mielessä tapahtuu oppiessa. **1 p.**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 138411,
+          "content": {
+            "text": " Behavioristit tutkivat, mitä ihmisen mielessä tapahtuu oppiessa. **1 p.**\n",
+            "displayNumber": "1.5"
+          },
+          "images": null,
+          "settings": {
+            "points": "",
+            "optionsLayout": "1",
+            "customizedPoints": true
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T10:55:45.571756",
+          "max_score": 1,
+          "groupping": null,
+          "id": 4798753,
+          "question_type": "CUSTOMIZED_FEEDBACK",
+          "options": [
+            {
+              "id": 23,
+              "text": "Oikein",
+              "parent": "2e5514cc-8d86-4ca9-a034-e3d666bd5448",
+              "points": "-1",
+              "choices": []
+            },
+            {
+              "id": 24,
+              "text": "Väärin",
+              "parent": "2e5514cc-8d86-4ca9-a034-e3d666bd5448",
+              "points": "1",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 25,
+              "text": "En vastaa",
+              "parent": "2e5514cc-8d86-4ca9-a034-e3d666bd5448",
+              "points": "0",
+              "choices": []
+            }
+          ],
+          "uuid": "2e5514cc-8d86-4ca9-a034-e3d666bd5448",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2022-09-26T11:25:57.59946"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Persoonallisuus**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 138411,
+          "content": {
+            "text": "**Persoonallisuus**\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T10:55:45.583856",
+          "max_score": null,
+          "groupping": null,
+          "id": 4798774,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "33adc102-bf75-42a9-b8e1-270e03dabbc7",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2022-09-26T11:26:22.316048"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252838"
+          ],
+          "main_text": "Big five -teorian piirteet ovat ekstroversio, aktiivisuus, neuroottisuus, avoimuus ja tunnollisuus. **1 p**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 138411,
+          "content": {
+            "text": "Big five -teorian piirteet ovat ekstroversio, aktiivisuus, neuroottisuus, avoimuus ja tunnollisuus. **1 p**\n",
+            "displayNumber": "1.7"
+          },
+          "images": null,
+          "settings": {
+            "points": "",
+            "optionsLayout": "1",
+            "customizedPoints": true
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T10:55:45.586379",
+          "max_score": 1,
+          "groupping": null,
+          "id": 4798797,
+          "question_type": "CUSTOMIZED_FEEDBACK",
+          "options": [
+            {
+              "id": 29,
+              "text": "Oikein",
+              "parent": "f34363e6-d7e1-47f7-a9e4-416a699eeaf8",
+              "points": "-1",
+              "choices": []
+            },
+            {
+              "id": 30,
+              "text": "Väärin",
+              "parent": "f34363e6-d7e1-47f7-a9e4-416a699eeaf8",
+              "points": "1",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 31,
+              "text": "En vastaa",
+              "parent": "f34363e6-d7e1-47f7-a9e4-416a699eeaf8",
+              "points": "0",
+              "choices": []
+            }
+          ],
+          "uuid": "f34363e6-d7e1-47f7-a9e4-416a699eeaf8",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2022-09-26T11:28:20.45663"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252838"
+          ],
+          "main_text": "Defenssi- eli puolustusmekanismit ovat osa sosiokognitiivista persoonallisuusteoriaa.** 1 p.**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 138411,
+          "content": {
+            "text": "Defenssi- eli puolustusmekanismit ovat osa sosiokognitiivista persoonallisuusteoriaa.** 1 p.**\n",
+            "displayNumber": "1.8"
+          },
+          "images": null,
+          "settings": {
+            "points": "",
+            "optionsLayout": "1",
+            "customizedPoints": true
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T10:55:45.588569",
+          "max_score": 1,
+          "groupping": null,
+          "id": 4798821,
+          "question_type": "CUSTOMIZED_FEEDBACK",
+          "options": [
+            {
+              "id": 32,
+              "text": "Oikein",
+              "parent": "e7498765-70b2-41d4-a8b5-198aa86303ad",
+              "points": "-1",
+              "choices": []
+            },
+            {
+              "id": 33,
+              "text": "Väärin",
+              "parent": "e7498765-70b2-41d4-a8b5-198aa86303ad",
+              "points": "1",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 34,
+              "text": "En vastaa",
+              "parent": "e7498765-70b2-41d4-a8b5-198aa86303ad",
+              "points": "0",
+              "choices": []
+            }
+          ],
+          "uuid": "e7498765-70b2-41d4-a8b5-198aa86303ad",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2022-09-26T11:29:16.891682"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252840"
+          ],
+          "main_text": "Ilo, suru, pelko ja viha ovat kaikki perustunteita. **1 p.**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 138411,
+          "content": {
+            "text": "Ilo, suru, pelko ja viha ovat kaikki perustunteita. **1 p.**\n",
+            "displayNumber": "1.11"
+          },
+          "images": null,
+          "settings": {
+            "points": "",
+            "optionsLayout": "1",
+            "customizedPoints": true
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T10:55:45.596104",
+          "max_score": 1,
+          "groupping": null,
+          "id": 4798899,
+          "question_type": "CUSTOMIZED_FEEDBACK",
+          "options": [
+            {
+              "id": 32,
+              "text": "Oikein",
+              "parent": "2e34dc0f-0b68-448a-98c2-85255d7f17ee",
+              "points": "1",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 33,
+              "text": "Väärin",
+              "parent": "2e34dc0f-0b68-448a-98c2-85255d7f17ee",
+              "points": "-1",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 34,
+              "text": "En vastaa",
+              "parent": "2e34dc0f-0b68-448a-98c2-85255d7f17ee",
+              "points": "0",
+              "choices": []
+            }
+          ],
+          "uuid": "2e34dc0f-0b68-448a-98c2-85255d7f17ee",
+          "order_number": 14,
+          "multipart": true,
+          "created_at": "2022-09-26T11:31:27.251817"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252837"
+          ],
+          "main_text": "Skinner osoitti tutkimuksillaan, että palkkiot ja rangaistukset edistävät oppimista tehokkaasti. **1 p.**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 138411,
+          "content": {
+            "text": "Skinner osoitti tutkimuksillaan, että palkkiot ja rangaistukset edistävät oppimista tehokkaasti. **1 p.**\n",
+            "displayNumber": "1.2"
+          },
+          "images": null,
+          "settings": {
+            "points": "",
+            "optionsLayout": "1",
+            "customizedPoints": true
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T10:55:45.601209",
+          "max_score": 1,
+          "groupping": null,
+          "id": 4798696,
+          "question_type": "CUSTOMIZED_FEEDBACK",
+          "options": [
+            {
+              "id": 14,
+              "text": "Oikein",
+              "parent": "6357e527-1f9c-43aa-8846-01491ad4d430",
+              "points": "1",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 15,
+              "text": "Väärin",
+              "parent": "6357e527-1f9c-43aa-8846-01491ad4d430",
+              "points": "-1",
+              "choices": []
+            },
+            {
+              "id": 16,
+              "text": "En vastaa",
+              "parent": "6357e527-1f9c-43aa-8846-01491ad4d430",
+              "points": "0",
+              "choices": []
+            }
+          ],
+          "uuid": "6357e527-1f9c-43aa-8846-01491ad4d430",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2022-09-26T11:23:32.612087"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Nukkuminen**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 138411,
+          "content": {
+            "text": "**Nukkuminen**\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T10:55:45.60351",
+          "max_score": null,
+          "groupping": null,
+          "id": 4799115,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "dde2b9f4-8384-4217-8b42-ae7453ae0acc",
+          "order_number": 19,
+          "multipart": true,
+          "created_at": "2022-09-26T11:37:31.670356"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Tunteet**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 138411,
+          "content": {
+            "text": "**Tunteet**\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T10:55:45.605726",
+          "max_score": null,
+          "groupping": null,
+          "id": 4799081,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "1f6e203d-8aa2-4277-96e2-ee5cb7efaa9b",
+          "order_number": 13,
+          "multipart": true,
+          "created_at": "2022-09-26T11:37:17.074675"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Psykodynaaminen persoonallisuusteoria painottaa tiedostamattomien tarpeiden merkitystä.** 1 p**.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 138411,
+          "content": {
+            "text": "Psykodynaaminen persoonallisuusteoria painottaa tiedostamattomien tarpeiden merkitystä.** 1 p**.\n",
+            "displayNumber": "1.9"
+          },
+          "images": null,
+          "settings": {
+            "points": "",
+            "optionsLayout": "1",
+            "customizedPoints": true
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-30T10:55:45.607775",
+          "max_score": 1,
+          "groupping": null,
+          "id": 4798846,
+          "question_type": "CUSTOMIZED_FEEDBACK",
+          "options": [
+            {
+              "id": 32,
+              "text": "Oikein",
+              "parent": "01c97da2-06a6-44b3-97cd-dcf7d88cc635",
+              "points": "1",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 33,
+              "text": "Väärin",
+              "parent": "01c97da2-06a6-44b3-97cd-dcf7d88cc635",
+              "points": "-1",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 34,
+              "text": "En vastaa",
+              "parent": "01c97da2-06a6-44b3-97cd-dcf7d88cc635",
+              "points": "0",
+              "choices": []
+            }
+          ],
+          "uuid": "01c97da2-06a6-44b3-97cd-dcf7d88cc635",
+          "order_number": 11,
+          "multipart": true,
+          "created_at": "2022-09-26T11:29:46.451331"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "###  Osa 2: 20 pisteen tehtävät\n\n_Vastaa 1–2 tehtävään._\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 138411,
+          "content": {
+            "text": "###  Osa 2: 20 pisteen tehtävät\n\n_Vastaa 1–2 tehtävään._\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-30T10:55:45.616758",
+          "max_score": null,
+          "groupping": null,
+          "id": 4798212,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "f5981fa0-6fbb-4759-916f-bf793fba521d",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2022-09-26T10:26:44.443034"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Osa 3: 30 pisteen tehtävät\n\n_Vastaa 1–2 tehtävään._\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 138411,
+          "content": {
+            "text": "### Osa 3: 30 pisteen tehtävät\n\n_Vastaa 1–2 tehtävään._\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-30T10:55:45.619615",
+          "max_score": null,
+          "groupping": null,
+          "id": 4798201,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "9979d454-2ef4-4a42-9758-936d8af03a3e",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2022-09-26T10:26:25.60792"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Osa 1: 20 pisteen tehtävät\n\n_Vastaa 1–2 tehtävään._\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 138411,
+          "content": {
+            "text": "### Osa 1: 20 pisteen tehtävät\n\n_Vastaa 1–2 tehtävään._\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-30T10:55:45.621853",
+          "max_score": null,
+          "groupping": null,
+          "id": 4798198,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "beda5afd-43e4-4205-8d2a-376007fbf0fd",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2022-09-26T10:26:09.384104"
+        }
+      ],
+      "name": "Psykologia syksy 2022",
+      "settings": {},
+      "exam_type": "yo-koe",
+      "classification": {
+        "category": "",
+        "disable_saving": false,
+        "hide_review_buttons": false,
+        "exam_type": "yo-koe",
+        "year": "2022",
+        "language": "fi-FI",
+        "hide_statistics": false,
+        "show_exam_series": false,
+        "force_yletunnus": false,
+        "subject": "psykologia",
+        "published": true,
+        "semester": "fall"
+      },
+      "published_at": "2022-09-26T11:44:31.000Z",
+      "language": "fi-FI",
+      "id": 138411,
+      "reviews": [],
+      "is_open": true,
+      "uuid": "fcdf8e0e-db4b-4897-adbd-f85649796962"
+    }
+  ]
+}

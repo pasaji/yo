@@ -1,0 +1,531 @@
+{
+  "meta": {
+    "count": 1
+  },
+  "data": [
+    {
+      "tags": [
+        ""
+      ],
+      "main_text": "",
+      "characters": null,
+      "deleted_at": null,
+      "series_uuids": [],
+      "questions": [
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-3524"
+          ],
+          "main_text": "Kirja, joka muutti minua\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 15959,
+          "content": {
+            "text": "Kirja, joka muutti minua\n",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-07T12:36:14.223458",
+          "max_score": null,
+          "groupping": null,
+          "id": 517037,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "cef936bb-a1a1-403b-8b71-4c0d4b6007a5",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2017-07-06T09:22:04.343656"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-220090",
+            "18-246944"
+          ],
+          "main_text": "Onko yksilöurheilun aika ohi?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 15959,
+          "content": {
+            "text": "Onko yksilöurheilun aika ohi?\n",
+            "displayNumber": "7."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-07T12:36:14.225987",
+          "max_score": null,
+          "groupping": null,
+          "id": 517041,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "936aff42-c17c-44c6-80d3-28642ed51410",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2017-07-06T09:22:04.355504"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-216278",
+            "18-207812"
+          ],
+          "main_text": "Muuttuuko minuus netissä?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 15959,
+          "content": {
+            "text": "Muuttuuko minuus netissä?\n",
+            "displayNumber": "5."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-07T12:36:14.228683",
+          "max_score": null,
+          "groupping": null,
+          "id": 517044,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "3e412cc6-fecf-4f74-aefd-4c1589466e8b",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2017-07-06T09:22:04.364041"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-204102",
+            "18-187871"
+          ],
+          "main_text": "On arvioitu, että Suomessa yhdellä kymmenestä alle 30-vuotiaasta on maksuhäiriö. Pohdi tämän ilmiön syitä.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 15959,
+          "content": {
+            "text": "On arvioitu, että Suomessa yhdellä kymmenestä alle 30-vuotiaasta on maksuhäiriö. Pohdi tämän ilmiön syitä.\n",
+            "displayNumber": "4."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-07T12:36:14.231468",
+          "max_score": null,
+          "groupping": null,
+          "id": 517045,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "4d48b2b9-a454-43b0-88c3-b8b305a39ab6",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2017-07-06T09:22:04.367091"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-168817"
+          ],
+          "main_text": "Kiina - uusi maailmanvalta?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 15959,
+          "content": {
+            "text": "Kiina - uusi maailmanvalta?\n",
+            "displayNumber": "3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-07T12:36:14.234223",
+          "max_score": null,
+          "groupping": null,
+          "id": 517040,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "c24743cd-0109-4016-b1fb-2b57f2634e28",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2017-07-06T09:22:04.352656"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-17899"
+          ],
+          "main_text": "Pitääkö jokaisella suomalaisella olla oma huvila ja huussi?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 15959,
+          "content": {
+            "text": "Pitääkö jokaisella suomalaisella olla oma huvila ja huussi?\n",
+            "displayNumber": "6."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-07T12:36:14.237228",
+          "max_score": null,
+          "groupping": null,
+          "id": 517042,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "60b941de-3f62-4c65-a198-f61dca72e084",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2017-07-06T09:22:04.358319"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-207816"
+          ],
+          "main_text": "Onko uskonto yksityisasia?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 15959,
+          "content": {
+            "text": "Onko uskonto yksityisasia?\n",
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-07T12:36:14.239714",
+          "max_score": null,
+          "groupping": null,
+          "id": 517043,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "cd489649-4843-4056-97c6-b0d6dac21df0",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2017-07-06T09:22:04.36092"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-11344"
+          ],
+          "main_text": "Euroopan komission esitteessä kerrotaan nanoteknologian käytöstä tulevaisuuden arjessa. Arvioi esitteen antamia tietoja nanoteknologian mahdollisuuksista. \n\n​\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_esseekoe\\_syksy\\_2013\\_13.pdf|text=Euroopan komissio: Nanoteknologia. Innovaatioita huomisen hyväksi]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 15959,
+          "content": {
+            "text": "Euroopan komission esitteessä kerrotaan nanoteknologian käytöstä tulevaisuuden arjessa. Arvioi esitteen antamia tietoja nanoteknologian mahdollisuuksista. \n\n​\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_esseekoe\\_syksy\\_2013\\_13.pdf|text=Euroopan komissio: Nanoteknologia. Innovaatioita huomisen hyväksi]\n",
+            "displayNumber": "13."
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-07T12:36:14.25336",
+          "max_score": null,
+          "groupping": null,
+          "id": 517034,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "0ac90195-ffc7-49ef-8e60-0a5ee8792c67",
+          "order_number": 14,
+          "multipart": true,
+          "created_at": "2017-07-06T09:22:04.335259"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-132544"
+          ],
+          "main_text": "Analysoi ja tulkitse Tuuve Aron novellia lähtökohtana sen nimi _Tappajahai_.\n\n​\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_esseekoe\\_syksy\\_2013\\_9.pdf|text=Tuuve Aro: Tappajahai]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 15959,
+          "content": {
+            "text": "Analysoi ja tulkitse Tuuve Aron novellia lähtökohtana sen nimi _Tappajahai_.\n\n​\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_esseekoe\\_syksy\\_2013\\_9.pdf|text=Tuuve Aro: Tappajahai]\n",
+            "displayNumber": "9."
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-07T12:36:14.247994",
+          "max_score": null,
+          "groupping": null,
+          "id": 517038,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "bf983915-09b1-49f8-9f32-1c4aa7dba6ca",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2017-07-06T09:22:04.346382"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-196169",
+            "18-220090",
+            "18-209928"
+          ],
+          "main_text": "Arto Melleri kirjoittaa runossaan _Olympia_ urheilusta ja suomalaisuudesta. Erittele sitä, millaisen tulkinnan runo antaa niiden keskinäisestä yhteydestä.\n\n​\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_esseekoe\\_syksy\\_2013\\_10.pdf|text=Arto Melleri: Olympia]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 15959,
+          "content": {
+            "text": "Arto Melleri kirjoittaa runossaan _Olympia_ urheilusta ja suomalaisuudesta. Erittele sitä, millaisen tulkinnan runo antaa niiden keskinäisestä yhteydestä.\n\n​\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_esseekoe\\_syksy\\_2013\\_10.pdf|text=Arto Melleri: Olympia]\n",
+            "displayNumber": "10."
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-07T12:36:14.250827",
+          "max_score": null,
+          "groupping": null,
+          "id": 517033,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "190b8cea-c70c-45f3-b1ff-2da6b70d2458",
+          "order_number": 11,
+          "multipart": true,
+          "created_at": "2017-07-06T09:22:04.332208"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-204922"
+          ],
+          "main_text": "Tiede-lehden artikkelin _Jättikoulu jyrää seiskan pojat_ mukaan koulun koko vaikuttaa etenkin poikien koulumenestykseen. Onko näin? \n\n​\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_esseekoe\\_syksy\\_2013\\_12.pdf|text=Mikko Puttonen: Jättikoulu jyrää seiskan pojat]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 15959,
+          "content": {
+            "text": "Tiede-lehden artikkelin _Jättikoulu jyrää seiskan pojat_ mukaan koulun koko vaikuttaa etenkin poikien koulumenestykseen. Onko näin? \n\n​\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_esseekoe\\_syksy\\_2013\\_12.pdf|text=Mikko Puttonen: Jättikoulu jyrää seiskan pojat]\n",
+            "displayNumber": "12."
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-07T12:36:14.256198",
+          "max_score": null,
+          "groupping": null,
+          "id": 517035,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "fb53b766-5b28-419a-a2ee-73d1f3913785",
+          "order_number": 13,
+          "multipart": true,
+          "created_at": "2017-07-06T09:22:04.338042"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-219200"
+          ],
+          "main_text": "Millainen merkitys englannin kielellä on suomalaisten elämässä? Pohdi kysymystä oheisen tutkimustiedon avulla. \n\n​\n\n​\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_esseekoe\\_syksy\\_2013\\_14.pdf|text=Englanti suomalaisten elämässä]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 15959,
+          "content": {
+            "text": "Millainen merkitys englannin kielellä on suomalaisten elämässä? Pohdi kysymystä oheisen tutkimustiedon avulla. \n\n​\n\n​\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_esseekoe\\_syksy\\_2013\\_14.pdf|text=Englanti suomalaisten elämässä]\n",
+            "displayNumber": "14."
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-07T12:36:14.261532",
+          "max_score": null,
+          "groupping": null,
+          "id": 517226,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "91c50a2d-e270-46b3-90bc-6003c348b8dc",
+          "order_number": 15,
+          "multipart": true,
+          "created_at": "2017-07-06T09:34:21.194281"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Ohje: Osaan tehtävistä liittyy aineistoa, jota on hyödynnettävä tehtävänannon mukaan. Lue tehtävät, silmäile aineistot läpi ja valitse tehtävistä yksi. Tehtävät arvostellaan pistein 0–60. Kirjoita ehyt ja kielellisesti huoliteltu teksti. Anna kirjoituksellesi oma otsikko. Jos valitset aineistotehtävän, tekstisi pitää olla siten ehyt, että lukija voi ymmärtää tekstisi, vaikka ei tunnekaan aineistoa. Aineistotehtävissä tulee viitata aineistoon.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 15959,
+          "content": {
+            "text": "Ohje: Osaan tehtävistä liittyy aineistoa, jota on hyödynnettävä tehtävänannon mukaan. Lue tehtävät, silmäile aineistot läpi ja valitse tehtävistä yksi. Tehtävät arvostellaan pistein 0–60. Kirjoita ehyt ja kielellisesti huoliteltu teksti. Anna kirjoituksellesi oma otsikko. Jos valitset aineistotehtävän, tekstisi pitää olla siten ehyt, että lukija voi ymmärtää tekstisi, vaikka ei tunnekaan aineistoa. Aineistotehtävissä tulee viitata aineistoon.\n"
+          },
+          "images": null,
+          "settings": {
+            "points": ""
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-07T12:36:14.258817",
+          "max_score": null,
+          "groupping": null,
+          "id": 517046,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [],
+          "uuid": "62269388-95e7-4503-a20f-7a7dab2d789c",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-07-06T09:22:04.369976"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-212945"
+          ],
+          "main_text": "Pohdi Nyyti ry:n aineiston tietoja hyödyntäen, miten ujous vaikuttaa nuoren ihmisen elämään. \n\n​\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_esseekoe\\_syksy\\_2013\\_11.pdf|text=Nyyti ry: Ujous nousee esiin uusien ihmisten seurassa]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 15959,
+          "content": {
+            "text": "Pohdi Nyyti ry:n aineiston tietoja hyödyntäen, miten ujous vaikuttaa nuoren ihmisen elämään. \n\n​\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_esseekoe\\_syksy\\_2013\\_11.pdf|text=Nyyti ry: Ujous nousee esiin uusien ihmisten seurassa]\n",
+            "displayNumber": "11."
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-07T12:36:14.242184",
+          "max_score": null,
+          "groupping": null,
+          "id": 517036,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "e8ee71ac-58d3-4392-a923-fe97cffe026c",
+          "order_number": 12,
+          "multipart": true,
+          "created_at": "2017-07-06T09:22:04.340863"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-187871",
+            "18-214538",
+            "18-153899",
+            "18-212297"
+          ],
+          "main_text": "Erittele kansien mainoskuvia ja pohdi, miten Suomea markkinoitiin ulkomaille 1930- ja 1940-luvulla. \n\n​\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_esseekoe\\_syksy\\_2013\\_8.pdf|text=Mainoskuvia]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 15959,
+          "content": {
+            "text": "Erittele kansien mainoskuvia ja pohdi, miten Suomea markkinoitiin ulkomaille 1930- ja 1940-luvulla. \n\n​\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_esseekoe\\_syksy\\_2013\\_8.pdf|text=Mainoskuvia]\n",
+            "displayNumber": "8."
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-07T12:36:14.245072",
+          "max_score": null,
+          "groupping": null,
+          "id": 517039,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "f0f53ca1-eeb7-4f49-8462-6c076064ca10",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2017-07-06T09:22:04.349126"
+        }
+      ],
+      "name": "Äidinkieli essee syksy 2013",
+      "settings": {},
+      "exam_type": "yo-koe",
+      "classification": {
+        "category": "",
+        "hide_review_buttons": null,
+        "exam_type": "yo-koe",
+        "year": "2013",
+        "language": "fi-FI",
+        "show_exam_series": null,
+        "force_yletunnus": false,
+        "subject": "äidinkieli-suomi-essee",
+        "published": true,
+        "semester": "fall"
+      },
+      "published_at": "2017-07-06T09:22:04.328Z",
+      "language": "fi-FI",
+      "id": 15959,
+      "reviews": [],
+      "is_open": true,
+      "uuid": "73ae1fb7-850e-4705-8c97-faf52c037f4f"
+    }
+  ]
+}

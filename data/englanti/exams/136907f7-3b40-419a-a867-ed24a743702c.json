@@ -1,0 +1,2985 @@
+{
+  "meta": {
+    "count": 1
+  },
+  "data": [
+    {
+      "tags": [
+        ""
+      ],
+      "main_text": "​\n",
+      "characters": null,
+      "deleted_at": null,
+      "series_uuids": [],
+      "questions": [
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Why did an “oily hedgehog” shape seem optimal for Dr King’s work?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 5236,
+          "content": {
+            "text": "Why did an “oily hedgehog” shape seem optimal for Dr King’s work?\n",
+            "displayNumber": "21."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2018-03-19T14:02:47.909199",
+          "max_score": null,
+          "groupping": null,
+          "id": 104566,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 64,
+              "text": "It appeared to avoid the third law of motion\n",
+              "parent": "a997f2c3-081c-43f4-8835-0aea8bad56ad",
+              "choices": []
+            },
+            {
+              "id": 65,
+              "text": "It allowed escape from magnetic fields\n",
+              "parent": "a997f2c3-081c-43f4-8835-0aea8bad56ad",
+              "choices": []
+            },
+            {
+              "id": 66,
+              "text": "It enabled the miniature rocket’s movement\n",
+              "parent": "a997f2c3-081c-43f4-8835-0aea8bad56ad",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "a997f2c3-081c-43f4-8835-0aea8bad56ad",
+          "order_number": 26,
+          "multipart": true,
+          "created_at": "2017-06-16T05:23:56.998243"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**3 PRODUCTION**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 5236,
+          "content": {
+            "text": "**3 PRODUCTION**\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2018-03-19T14:02:47.862609",
+          "max_score": null,
+          "groupping": null,
+          "id": 101405,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "2aee10c2-5d9a-41b5-835c-44643a7f544a",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2017-06-15T11:42:01.264239"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**2 GRAMMAR AND VOCABULARY**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 5236,
+          "content": {
+            "text": "**2 GRAMMAR AND VOCABULARY**\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2018-03-19T14:02:47.865768",
+          "max_score": null,
+          "groupping": null,
+          "id": 101404,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "c1e1cced-e324-416b-be45-25ddd083bb9f",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2017-06-15T11:42:01.260193"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Saving With Solar Power**\n\n​\n\nHow quickly things change. Back in 1999 when my wife LaVonne and I moved off grid, photovoltaic (PV) panels were all in the 60- to 120-watt range, and the very best price we could find on even the largest panels was 5 dollars per watt. And [SELECT id=91] to plug our solar array’s output into the local power grid, we probably [SELECT id=92] have been slapped with a seriously heavy fine.\n\n​\n\n[SELECT id=93]. PV panels exceeding 250 watts can be found for under 1 dollar per watt, and most utilities are more than anxious to buy the extra power flowing from a home’s solar array [SELECT id=94] to bolster their renewable-energy portfolios. Add to that a thirty percent federal tax credit that covers the entire installation, plus rebates and other local incentives, and suddenly going solar is quite [SELECT id=95]. [CITE source=The New Pioneer, New York, 2013]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 5236,
+          "content": {
+            "text": "**Saving With Solar Power**\n\n​\n\nHow quickly things change. Back in 1999 when my wife LaVonne and I moved off grid, photovoltaic (PV) panels were all in the 60- to 120-watt range, and the very best price we could find on even the largest panels was 5 dollars per watt. And [SELECT id=91] to plug our solar array’s output into the local power grid, we probably [SELECT id=92] have been slapped with a seriously heavy fine.\n\n​\n\n[SELECT id=93]. PV panels exceeding 250 watts can be found for under 1 dollar per watt, and most utilities are more than anxious to buy the extra power flowing from a home’s solar array [SELECT id=94] to bolster their renewable-energy portfolios. Add to that a thirty percent federal tax credit that covers the entire installation, plus rebates and other local incentives, and suddenly going solar is quite [SELECT id=95]. [CITE source=The New Pioneer, New York, 2013]\n",
+            "displayNumber": "2.1c"
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2018-03-19T14:02:47.915561",
+          "max_score": null,
+          "groupping": null,
+          "id": 102695,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 91,
+              "parent": "616acec2-931c-4488-9194-1b49c9e5ab50",
+              "choices": [
+                {
+                  "id": "3082450d-4c9b-4175-83d9-7a38f42a0ee6",
+                  "text": "we had tried"
+                },
+                {
+                  "id": "067d989c-d4dd-426f-8d78-b3f44e558760",
+                  "text": "we did try"
+                },
+                {
+                  "id": "08913504-00d3-44f9-833e-0ab12e71434c",
+                  "text": "had we tried",
+                  "correct": true
+                },
+                {
+                  "id": "5226aa72-7780-4246-80fc-c986ef96dbfe",
+                  "text": "have we tried"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 92,
+              "parent": "616acec2-931c-4488-9194-1b49c9e5ab50",
+              "choices": [
+                {
+                  "id": "4246c99c-f8ed-4b64-9359-91a641e07156",
+                  "text": "will"
+                },
+                {
+                  "id": "4e9d1b96-df9a-4cb2-97e7-32574afd3d07",
+                  "text": "would",
+                  "correct": true
+                },
+                {
+                  "id": "f1301a6d-8bce-4b03-afe5-a6c28269d4b2",
+                  "text": "shall"
+                },
+                {
+                  "id": "0daee4e3-17cf-49f0-9c88-c4cd6d19cac4",
+                  "text": "should"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 93,
+              "parent": "616acec2-931c-4488-9194-1b49c9e5ab50",
+              "choices": [
+                {
+                  "id": "5a1f17d1-3cec-4f9c-a625-58550c011ade",
+                  "text": "Better than nothing"
+                },
+                {
+                  "id": "26f6a368-07d1-43a9-b67f-77173420a87a",
+                  "text": "Sorry to say"
+                },
+                {
+                  "id": "623130f3-6a69-40f5-b380-ae9c47187f8c",
+                  "text": "Life is different"
+                },
+                {
+                  "id": "a952cfc8-4de2-425c-800f-484535b5d24f",
+                  "text": "Today is better",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 94,
+              "parent": "616acec2-931c-4488-9194-1b49c9e5ab50",
+              "choices": [
+                {
+                  "id": "1133ee48-2bb4-4e23-8b54-1e2ca001777d",
+                  "text": "as a means",
+                  "correct": true
+                },
+                {
+                  "id": "a1ebaef5-9aa7-4c81-bba5-a2fa15705477",
+                  "text": "by all means"
+                },
+                {
+                  "id": "443e5e63-718a-4795-bf95-53cc88235429",
+                  "text": "by any means"
+                },
+                {
+                  "id": "49b8f392-c09a-42d6-93e5-2daf74ab0c0f",
+                  "text": "within one's means"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 95,
+              "parent": "616acec2-931c-4488-9194-1b49c9e5ab50",
+              "choices": [
+                {
+                  "id": "25e08229-46a6-4180-8d1f-abd55d732779",
+                  "text": "afford"
+                },
+                {
+                  "id": "879712e0-9f87-41bd-bff0-1ef9a3ebb37c",
+                  "text": "affordable",
+                  "correct": true
+                },
+                {
+                  "id": "c635588f-5685-4151-8648-e65a9fbcf62c",
+                  "text": "affordability"
+                },
+                {
+                  "id": "e7f4ce80-4986-4609-90e6-57bedcc09129",
+                  "text": "affords"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "616acec2-931c-4488-9194-1b49c9e5ab50",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2017-06-15T11:55:44.042762"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**1.1d Entrepreneurs: Visual Philosophy**\n\n​\n\nVisual Philosophy was founded by designers Grant and Liz Lyons, who run their own design agency near Oxford. After facing eyewatering tuition fees, they decided to set up a shop to offset the costs of sending their offspring to university. What has developed is an emporium of colorful prints which are in the manner of works by mid- 20th-century modernists such as Eames, Jacobsen and Catherine Holm. The design agency now features a huge range of prints and posters. Although Visual Philosophy was founded just a little over a year ago, it has already more than exceeded all expectations. With their oldest son now preparing to go to university, the shop has guaranteed the financial backing they were looking for. [CITE source=The Simple Things, Issue 15, 2013]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 5236,
+          "content": {
+            "text": "**1.1d Entrepreneurs: Visual Philosophy**\n\n​\n\nVisual Philosophy was founded by designers Grant and Liz Lyons, who run their own design agency near Oxford. After facing eyewatering tuition fees, they decided to set up a shop to offset the costs of sending their offspring to university. What has developed is an emporium of colorful prints which are in the manner of works by mid- 20th-century modernists such as Eames, Jacobsen and Catherine Holm. The design agency now features a huge range of prints and posters. Although Visual Philosophy was founded just a little over a year ago, it has already more than exceeded all expectations. With their oldest son now preparing to go to university, the shop has guaranteed the financial backing they were looking for. [CITE source=The Simple Things, Issue 15, 2013]\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2018-03-19T14:02:47.918154",
+          "max_score": null,
+          "groupping": null,
+          "id": 103766,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "69ec0c14-fb31-42d0-a333-2773247788aa",
+          "order_number": 19,
+          "multipart": true,
+          "created_at": "2017-06-16T05:11:31.417993"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**1 READING COMPREHENSION**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 5236,
+          "content": {
+            "text": "**1 READING COMPREHENSION**\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2018-03-19T14:02:47.92265",
+          "max_score": null,
+          "groupping": null,
+          "id": 101132,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "8a6ee73b-c466-4cd0-adff-bddd1ce6f4db",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-06-15T11:41:22.356605"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "You are participating in an international summer course on science, and everyone is required to give a speech on a scientific topic they are passionate about. Write your speech. Invent your own title for the speech.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 5236,
+          "content": {
+            "text": "You are participating in an international summer course on science, and everyone is required to give a speech on a scientific topic they are passionate about. Write your speech. Invent your own title for the speech.\n",
+            "displayNumber": "3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2018-03-19T14:02:47.927011",
+          "max_score": null,
+          "groupping": null,
+          "id": 101880,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "a49488a8-4471-403d-bc8d-603d4bf5d525",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2017-06-15T11:45:43.817339"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "On the basis of this text, choose an alternative title for the text:\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 5236,
+          "content": {
+            "text": "On the basis of this text, choose an alternative title for the text:\n",
+            "displayNumber": "25."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2018-03-19T14:02:47.929109",
+          "max_score": null,
+          "groupping": null,
+          "id": 104562,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 52,
+              "text": "It’s not rocket science: Well, it wasn’t to start with, but it sure is now\n",
+              "parent": "00400a91-9292-428b-99e5-c07cb4c453ee",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 53,
+              "text": "It’s not rocket science: And even if it is, it doesn’t matter that much\n",
+              "parent": "00400a91-9292-428b-99e5-c07cb4c453ee",
+              "choices": []
+            },
+            {
+              "id": 54,
+              "text": "It’s not rocket science: But whatever it may be, time will never tell\n",
+              "parent": "00400a91-9292-428b-99e5-c07cb4c453ee",
+              "choices": []
+            }
+          ],
+          "uuid": "00400a91-9292-428b-99e5-c07cb4c453ee",
+          "order_number": 30,
+          "multipart": true,
+          "created_at": "2017-06-16T05:23:56.987806"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**A written constitution for Scotland **\n\nScotland should have a written constitution which reflects the values of the people of Scotland. The preparation of a written constitution should commence after independence under the auspices of the independent Scottish Parliament. It should be for the newly independent Parliament to devise the process and timetable for the drafting of the constitution. The Government’s view is that the process of shaping the new constitution should be participative and command the support of the whole of Scotland’s population. When the process of determining the constitution gets underway, the Scottish Government will be just one of many voices. However, the Scottish Government will propose provisions that encapsulate the collective expression of values that we hold dear in Scotland. [CITE source=Scotland's Future: from the Referendum to Independence and a Written Constitution. The Scottish Government, scotland.gov.uk]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 5236,
+          "content": {
+            "text": "**A written constitution for Scotland **\n\nScotland should have a written constitution which reflects the values of the people of Scotland. The preparation of a written constitution should commence after independence under the auspices of the independent Scottish Parliament. It should be for the newly independent Parliament to devise the process and timetable for the drafting of the constitution. The Government’s view is that the process of shaping the new constitution should be participative and command the support of the whole of Scotland’s population. When the process of determining the constitution gets underway, the Scottish Government will be just one of many voices. However, the Scottish Government will propose provisions that encapsulate the collective expression of values that we hold dear in Scotland. [CITE source=Scotland's Future: from the Referendum to Independence and a Written Constitution. The Scottish Government, scotland.gov.uk]\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2018-03-19T14:02:47.935356",
+          "max_score": null,
+          "groupping": null,
+          "id": 102714,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "df98338d-7ca6-4fb4-97de-c1bc62369023",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-06-15T11:56:57.242237"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Lord Kitchener**\n\n​\n\nA storm off the Orkneys in 1916 kills a national hero. Lord Kitchener, Secretary of State for War, is on his way to Russia – a diplomatic mission to raise support for the war effort. Aboard the armoured cruiser HMS _Hampshire_, he leaves the naval base at Scapa Flow bound [SELECT id=76] the Russian port of Archangel. Mountainous seas and a Force Nine north-easter, however, [SELECT id=77] that the ship heads north in the lee of the Orkneys for shelter. This channel has not been cleared by minesweepers, though merchant shipping has been using it for a month. No sooner [SELECT id=78], however, than the wind shifts to the north-west. The waves are so high that the two escorting destroyers cannot keep [SELECT id=79], and turn back. The _Hampshire_ strikes a mine within sight of the Brough of Birsay and sinks in minutes: 643 are lost – including [SELECT id=80] twelve of the crew. [CITE source=historylearningsite.co.uk, 15 August 2013 (adapted)]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 5236,
+          "content": {
+            "text": "**Lord Kitchener**\n\n​\n\nA storm off the Orkneys in 1916 kills a national hero. Lord Kitchener, Secretary of State for War, is on his way to Russia – a diplomatic mission to raise support for the war effort. Aboard the armoured cruiser HMS _Hampshire_, he leaves the naval base at Scapa Flow bound [SELECT id=76] the Russian port of Archangel. Mountainous seas and a Force Nine north-easter, however, [SELECT id=77] that the ship heads north in the lee of the Orkneys for shelter. This channel has not been cleared by minesweepers, though merchant shipping has been using it for a month. No sooner [SELECT id=78], however, than the wind shifts to the north-west. The waves are so high that the two escorting destroyers cannot keep [SELECT id=79], and turn back. The _Hampshire_ strikes a mine within sight of the Brough of Birsay and sinks in minutes: 643 are lost – including [SELECT id=80] twelve of the crew. [CITE source=historylearningsite.co.uk, 15 August 2013 (adapted)]\n",
+            "displayNumber": "2.1a"
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2018-03-19T14:02:47.939986",
+          "max_score": null,
+          "groupping": null,
+          "id": 102563,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 76,
+              "parent": "4ba34f80-c897-44d6-b5ba-2f051374165b",
+              "choices": [
+                {
+                  "id": "d427a70d-e466-4bcd-aa2e-6b0d69b84b55",
+                  "text": "for",
+                  "correct": true
+                },
+                {
+                  "id": "cc3ae7bb-21ce-410a-b441-49b586e9ae49",
+                  "text": "up in",
+                  "correct": false
+                },
+                {
+                  "id": "f7dcaf3d-8e24-4ce7-9e33-1529a3ca9bdf",
+                  "text": "up with",
+                  "correct": false
+                },
+                {
+                  "id": "602967c9-1dec-4bb9-8ccd-61ef7f1f710d",
+                  "text": "to"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 77,
+              "parent": "4ba34f80-c897-44d6-b5ba-2f051374165b",
+              "choices": [
+                {
+                  "id": "520572f0-5b31-45b9-bf97-d3649af2faa6",
+                  "text": "compel"
+                },
+                {
+                  "id": "b6a3cb5e-502d-420b-8f3e-fd0ece590048",
+                  "text": "confront"
+                },
+                {
+                  "id": "c95ec943-c796-4f9a-b585-0b5dca554a3d",
+                  "text": "intend",
+                  "correct": false
+                },
+                {
+                  "id": "2d92fbdc-ab43-4ffb-8538-0171ac78fce7",
+                  "text": "mean",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 78,
+              "parent": "4ba34f80-c897-44d6-b5ba-2f051374165b",
+              "choices": [
+                {
+                  "id": "7f2091b9-3424-4cdd-9935-932d7cc38d31",
+                  "text": "left them"
+                },
+                {
+                  "id": "5361f01a-73f1-47ef-aed2-3de48e83fb8f",
+                  "text": "they left",
+                  "correct": false
+                },
+                {
+                  "id": "2238283b-3b18-4036-930f-0b2ff8f820b1",
+                  "text": "they have left"
+                },
+                {
+                  "id": "e2402765-bfa3-4965-927b-7c505299a142",
+                  "text": "have they left",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 79,
+              "parent": "4ba34f80-c897-44d6-b5ba-2f051374165b",
+              "choices": [
+                {
+                  "id": "2f1de65f-4c8c-42e5-b864-d68429cab4d4",
+                  "text": "at"
+                },
+                {
+                  "id": "e83d8092-332b-4e43-9b5c-05d5c68721ca",
+                  "text": "in"
+                },
+                {
+                  "id": "dce51b68-bd2d-4a0f-9cdd-1fd4c8cea1aa",
+                  "text": "off",
+                  "correct": false
+                },
+                {
+                  "id": "0f2ce9d0-ed59-4b61-a18c-033fd6a01489",
+                  "text": "up",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 80,
+              "parent": "4ba34f80-c897-44d6-b5ba-2f051374165b",
+              "choices": [
+                {
+                  "id": "e9dcb2dd-e103-415e-973f-b4a013a1c396",
+                  "text": "all but",
+                  "correct": true
+                },
+                {
+                  "id": "d6d522fa-1d42-43cc-9eee-398d3511cd40",
+                  "text": "all in"
+                },
+                {
+                  "id": "09e5fd56-87e1-4cdd-94cc-61a8d33b78cd",
+                  "text": "all out"
+                },
+                {
+                  "id": "d04ea24d-63d5-46c2-8b83-5294f9be19de",
+                  "text": "all over"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "4ba34f80-c897-44d6-b5ba-2f051374165b",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-06-15T11:52:16.395513"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**1.1a Let Them Eat Truffles**\n\n​\n\nFor cognoscenti, the height of Italian taste these days is not Prada or Maserati, but a food market called Eataly. Fruit and vegetables are piled artfully in barrows and crates. Cornucopias of pastas and pestos and peperoncini lie on shelves. Groups of little tables tempt shoppers to stop and sample the salamis or some of the eye-wateringly expensive truffles for which its founder’s home town of Alba, in Piedmont, is famous. \n\n​\n\nOscar Farinetti set up the first Eataly in 2007, in an old warehouse in the Ligotto district of Turin. His 21st is due to open on December 2nd in Chicago. When Eataly came to Manhattan in 2010, the media were still reporting queues around the block two weeks later. Perhaps one of Mr Farinetti’s American colleagues and business co-owners – Mario Batali, a well-known New York chef – had something to do with that. But in Tokyo too, after a slow start, people have taken Eataly to their hearts and wallets. \n\n​\n\nMr Farinetti is a serial entrepreneur who had the good sense to sell his previous electrical-retailing business before the bottom fell out of it, and switch to a more promising sector. But he is also a fully paidup member of the Slow Food movement founded by Carlo Petrini, his friend and fellow Piedmontese. Under Mr Petrini’s guidance Eataly stocks the produce of several small firms, such as Gragnano durumwheat pasta and olive oil from western Liguria. Information cards tell shoppers who produced what and how. The idea, says Mr Farinetti, is not just selling food but “increasing the percentage of people who eat with awareness, choosing high-quality products and paying special attention to the source and processing of raw materials.” \n\n​\n\nIt works. Turnover this year is likely to be up by 30% from 2012, thanks to the opening of new shops. More are planned by 2017, across America and in London and Paris. Sales have risen in existing stores, too, by 4%-plus in Italy, 5% in New York and 10% in Japan. Furthermore, overall earnings are also expected to keep increasing significantly over the coming years. \n\n​\n\nEataly provides its customers with gorgeous surroundings – less combative than Harrods in London, less oppressively wholesome than at Whole Foods Markets, an American chain – in which they might imagine Gianmaria and Francesca tenderly weeding the tomato plants or treading the grapes. [CITE source=The Economist, November 30, 2013]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 5236,
+          "content": {
+            "text": "**1.1a Let Them Eat Truffles**\n\n​\n\nFor cognoscenti, the height of Italian taste these days is not Prada or Maserati, but a food market called Eataly. Fruit and vegetables are piled artfully in barrows and crates. Cornucopias of pastas and pestos and peperoncini lie on shelves. Groups of little tables tempt shoppers to stop and sample the salamis or some of the eye-wateringly expensive truffles for which its founder’s home town of Alba, in Piedmont, is famous. \n\n​\n\nOscar Farinetti set up the first Eataly in 2007, in an old warehouse in the Ligotto district of Turin. His 21st is due to open on December 2nd in Chicago. When Eataly came to Manhattan in 2010, the media were still reporting queues around the block two weeks later. Perhaps one of Mr Farinetti’s American colleagues and business co-owners – Mario Batali, a well-known New York chef – had something to do with that. But in Tokyo too, after a slow start, people have taken Eataly to their hearts and wallets. \n\n​\n\nMr Farinetti is a serial entrepreneur who had the good sense to sell his previous electrical-retailing business before the bottom fell out of it, and switch to a more promising sector. But he is also a fully paidup member of the Slow Food movement founded by Carlo Petrini, his friend and fellow Piedmontese. Under Mr Petrini’s guidance Eataly stocks the produce of several small firms, such as Gragnano durumwheat pasta and olive oil from western Liguria. Information cards tell shoppers who produced what and how. The idea, says Mr Farinetti, is not just selling food but “increasing the percentage of people who eat with awareness, choosing high-quality products and paying special attention to the source and processing of raw materials.” \n\n​\n\nIt works. Turnover this year is likely to be up by 30% from 2012, thanks to the opening of new shops. More are planned by 2017, across America and in London and Paris. Sales have risen in existing stores, too, by 4%-plus in Italy, 5% in New York and 10% in Japan. Furthermore, overall earnings are also expected to keep increasing significantly over the coming years. \n\n​\n\nEataly provides its customers with gorgeous surroundings – less combative than Harrods in London, less oppressively wholesome than at Whole Foods Markets, an American chain – in which they might imagine Gianmaria and Francesca tenderly weeding the tomato plants or treading the grapes. [CITE source=The Economist, November 30, 2013]\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2018-03-19T14:02:47.867733",
+          "max_score": null,
+          "groupping": null,
+          "id": 103744,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "c8a60b91-2118-4fb2-9ba7-edd8677a786a",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-06-16T05:00:11.998195"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**1.1e Satellite propulsion**\n\n​\n\nWhen is a cancer cure not a cancer cure? When it’s a satellite propulsion system. As riddles go, perhaps not that amusing. But as an example of the way scientific serendipity works, it is most enlightening, as what follows will demonstrate. \n\n​\n\nLyon King, of Michigan Technological University, works on nanosatellites. These are spacecraft, little larger than a smart phone, that can fly cheaply into orbit by piggybacking on the rockets carrying bigger payloads. The power of modern electronics means that such tiny gadgets can be equipped with lots of useful kit, including GPS trackers, cameras and radios. But their dependence on other people’s goodwill for their launch means that their orbits are not completely under their owners’ control, which restricts their usefulness. On top of this, atmospheric drag often brings them back to Earth in an untimely fashion. Dr King therefore wants to fit them with their own rocket motors. That would give them directional autonomy, and would also let them boost their orbits every so often to escape atmospheric clutches. \n\n​\n\nHe is not alone in this. Several research groups have built miniature rockets that use electric fields to pull ions (atoms with a surfeit or shortage of electrons, and therefore an electric charge) out of a fluid and fling them away. This produces thrust in the same way as the exhaust of a chemical rocket does, by invoking Newton’s third law of motion, that to every action there is an equal and opposite reaction. But such rockets are finicky because the fuel must first be persuaded to travel up a small needle, from whose tip the ions are then sprayed off into space. A collection of such needles form a thruster. Making them is hard. Every member of a cluster must be the same size. And the needles tend to be fragile. A bump or an unwanted bit of electrical arcing can destroy them and thus create malfunctions in mobility. \n\n​\n\nDr King’s idea was to dispense with solid needles and instead to grow liquid ones out of the fuel itself. To do this he proposed employing something called a ferrofluid, which responds to magnetic fields. Place a magnet beneath such a fluid and it transforms into a semblance of an oily hedgehog, with dozens of spikes sticking out of its surface. \n\n​\n\nThat is a promising start. But to make a motor out of this arrangement you have to use a ferrofluid that also contains enough ions to work as rocket fuel. Dr. King tried various mixtures, but none was satisfactory. Then he heard about a team at the University of Sidney in Australia, led by Brian Hawkett, which was working on a different problem in ferrofluidics in collaboration with Sirtex, an American biotechnology firm. \n\n​\n\nDr Hawkett and his collaborators had developed exactly the kind of liquid Dr King needed – one that was both ionic and reactive to magnetic fields. They had done so, however, in the hope not of manoeuvring satellites but of treating liver cancer. Their idea was (and still is) to inject the fluid into a tumor, heat it up with a magnetic field and cook the tumor from within. So when Dr King got in touch to ask them about using their invention as rocket fuel they were understandably bemused. \n\n​\n\nThat bemusement, though, has turned into collaboration, and with the help of Dr Hawkett’s ionic ferrofluid, Dr King’s team have built a prototype thruster that works, and seems more or less immune to the sort of accidents that might fry a more conventional sort of microrocket. Obviously, it is still too early to say whether the innovation will still work when it is in space. But if it does, then it will be one-up for scientific serendipity, and a reminder to researchers everywhere that, though specialization has its advantages, a willingness to look outside one’s immediate field can sometimes pay dividends too. [CITE source=The Economist, September 21, 2013]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 5236,
+          "content": {
+            "text": "**1.1e Satellite propulsion**\n\n​\n\nWhen is a cancer cure not a cancer cure? When it’s a satellite propulsion system. As riddles go, perhaps not that amusing. But as an example of the way scientific serendipity works, it is most enlightening, as what follows will demonstrate. \n\n​\n\nLyon King, of Michigan Technological University, works on nanosatellites. These are spacecraft, little larger than a smart phone, that can fly cheaply into orbit by piggybacking on the rockets carrying bigger payloads. The power of modern electronics means that such tiny gadgets can be equipped with lots of useful kit, including GPS trackers, cameras and radios. But their dependence on other people’s goodwill for their launch means that their orbits are not completely under their owners’ control, which restricts their usefulness. On top of this, atmospheric drag often brings them back to Earth in an untimely fashion. Dr King therefore wants to fit them with their own rocket motors. That would give them directional autonomy, and would also let them boost their orbits every so often to escape atmospheric clutches. \n\n​\n\nHe is not alone in this. Several research groups have built miniature rockets that use electric fields to pull ions (atoms with a surfeit or shortage of electrons, and therefore an electric charge) out of a fluid and fling them away. This produces thrust in the same way as the exhaust of a chemical rocket does, by invoking Newton’s third law of motion, that to every action there is an equal and opposite reaction. But such rockets are finicky because the fuel must first be persuaded to travel up a small needle, from whose tip the ions are then sprayed off into space. A collection of such needles form a thruster. Making them is hard. Every member of a cluster must be the same size. And the needles tend to be fragile. A bump or an unwanted bit of electrical arcing can destroy them and thus create malfunctions in mobility. \n\n​\n\nDr King’s idea was to dispense with solid needles and instead to grow liquid ones out of the fuel itself. To do this he proposed employing something called a ferrofluid, which responds to magnetic fields. Place a magnet beneath such a fluid and it transforms into a semblance of an oily hedgehog, with dozens of spikes sticking out of its surface. \n\n​\n\nThat is a promising start. But to make a motor out of this arrangement you have to use a ferrofluid that also contains enough ions to work as rocket fuel. Dr. King tried various mixtures, but none was satisfactory. Then he heard about a team at the University of Sidney in Australia, led by Brian Hawkett, which was working on a different problem in ferrofluidics in collaboration with Sirtex, an American biotechnology firm. \n\n​\n\nDr Hawkett and his collaborators had developed exactly the kind of liquid Dr King needed – one that was both ionic and reactive to magnetic fields. They had done so, however, in the hope not of manoeuvring satellites but of treating liver cancer. Their idea was (and still is) to inject the fluid into a tumor, heat it up with a magnetic field and cook the tumor from within. So when Dr King got in touch to ask them about using their invention as rocket fuel they were understandably bemused. \n\n​\n\nThat bemusement, though, has turned into collaboration, and with the help of Dr Hawkett’s ionic ferrofluid, Dr King’s team have built a prototype thruster that works, and seems more or less immune to the sort of accidents that might fry a more conventional sort of microrocket. Obviously, it is still too early to say whether the innovation will still work when it is in space. But if it does, then it will be one-up for scientific serendipity, and a reminder to researchers everywhere that, though specialization has its advantages, a willingness to look outside one’s immediate field can sometimes pay dividends too. [CITE source=The Economist, September 21, 2013]\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2018-03-19T14:02:47.870893",
+          "max_score": null,
+          "groupping": null,
+          "id": 103767,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "25560538-6e8e-49fe-bb33-3879177c4e59",
+          "order_number": 22,
+          "multipart": true,
+          "created_at": "2017-06-16T05:11:31.421312"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mikä on saanut Sebastian Thrunin muuttamaan kantaansa avoimiin verkkokursseihin? (2 asiaa)\n",
+          "deleted_at": null,
+          "feedback": "Epäonnistunut kokeilu (San Jose State Universityn kanssa) (2 p.)\n\nja kurssien pienet suoritusprosentit. (2 p.)\n",
+          "exam_id": 5236,
+          "content": {
+            "text": "Mikä on saanut Sebastian Thrunin muuttamaan kantaansa avoimiin verkkokursseihin? (2 asiaa)\n",
+            "displayNumber": "e)"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2018-03-19T14:02:47.873706",
+          "max_score": null,
+          "groupping": null,
+          "id": 103772,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "2a7f9003-0e5c-4bd2-b9e2-be8157d67ad3",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2017-06-16T05:11:31.437498"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**1.1c Exhibition: From the Mauritshuis to the Frick Collection**\n\n​\n\nThe Frick Collection [an art museum in New York City] loves to home in on a distant museum and bring its treasures over to be enjoyed by busy New Yorkers. Its next target is the Mauritshuis in The Hague, a state-owned museum which has some of the best pictures from the Dutch golden age. Don’t expect a blockbuster: with only 15 works on display, this is a peek into history. \n\n​\n\nThe Dutch and Flemish masters painted with great technical refinement and rare sophistication. “Simeon’s Song of Praise”, 1631, by Rembrandt, is a supreme case in point, with a compositional clarity and sense of balance and order that is typical of the time. Simeon, Jesus, Mary and Joseph are bathed in a pool of light, luminous against the still, shadowy background. There is an unearthly silence. \n\n​\n\nDutch art tends to be calm, atmospheric, accurate, never showy. “Woman Writing a Letter”, c. 1655, by Gerard ter Borch reveals another private moment. A young woman with well-kept hair and milky skin sits at her desk, fully immersed. The light is carefully controlled and the pinkish tones are soft; ter Borch was a master colourist. The painting is small but it draws you in. It would be wrong not to mention the world-famous “Girl with a Pearl Earring”, c. 1665, by Vermeer, the only work to be given its own space here. But special treatment can be a slippery slope and there are other paintings capable of pinching the girl’s limelight. [CITE source=The Economist, Intelligent Life, Sept/Oct 2013]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 5236,
+          "content": {
+            "text": "**1.1c Exhibition: From the Mauritshuis to the Frick Collection**\n\n​\n\nThe Frick Collection [an art museum in New York City] loves to home in on a distant museum and bring its treasures over to be enjoyed by busy New Yorkers. Its next target is the Mauritshuis in The Hague, a state-owned museum which has some of the best pictures from the Dutch golden age. Don’t expect a blockbuster: with only 15 works on display, this is a peek into history. \n\n​\n\nThe Dutch and Flemish masters painted with great technical refinement and rare sophistication. “Simeon’s Song of Praise”, 1631, by Rembrandt, is a supreme case in point, with a compositional clarity and sense of balance and order that is typical of the time. Simeon, Jesus, Mary and Joseph are bathed in a pool of light, luminous against the still, shadowy background. There is an unearthly silence. \n\n​\n\nDutch art tends to be calm, atmospheric, accurate, never showy. “Woman Writing a Letter”, c. 1655, by Gerard ter Borch reveals another private moment. A young woman with well-kept hair and milky skin sits at her desk, fully immersed. The light is carefully controlled and the pinkish tones are soft; ter Borch was a master colourist. The painting is small but it draws you in. It would be wrong not to mention the world-famous “Girl with a Pearl Earring”, c. 1665, by Vermeer, the only work to be given its own space here. But special treatment can be a slippery slope and there are other paintings capable of pinching the girl’s limelight. [CITE source=The Economist, Intelligent Life, Sept/Oct 2013]\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2018-03-19T14:02:47.960555",
+          "max_score": null,
+          "groupping": null,
+          "id": 103765,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "92bbb45e-f272-4294-aea5-8032bb5c018e",
+          "order_number": 14,
+          "multipart": true,
+          "created_at": "2017-06-16T05:11:31.414324"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "_Read texts 1.1a-1.1e and then answer questions 1-25. Choose the __**best**__ alternative for each item._\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 5236,
+          "content": {
+            "text": "_Read texts 1.1a-1.1e and then answer questions 1-25. Choose the __**best**__ alternative for each item._\n",
+            "questionType": "reading",
+            "displayNumber": "1.1"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "c8a60b91-2118-4fb2-9ba7-edd8677a786a",
+            "986991ad-fe7d-42c1-b083-f36b4ae9253e",
+            "92bbb45e-f272-4294-aea5-8032bb5c018e",
+            "69ec0c14-fb31-42d0-a333-2773247788aa",
+            "25560538-6e8e-49fe-bb33-3879177c4e59",
+            "9b05878a-9b1c-47f0-87dc-d92b211a10f5",
+            "d3142f91-7481-4c39-91bd-23430f9cd3e1",
+            "37dbfdad-5db8-4bc2-be2e-1d1f5e58fc72",
+            "2cb2a58a-072e-4922-b945-377e03b79081",
+            "4c69ea3e-8d5b-4c4c-b938-4d6c8117d5ff",
+            "ad866b9b-1713-4d21-b24b-42dc4dd773df",
+            "e63cda6b-575b-455a-aef4-e6e4dd29f5ba",
+            "17d7cf20-faa6-4daa-90e8-568b84dc5e8a",
+            "aad6b5c4-26b4-4405-8d06-f78928725935",
+            "1481f279-fb7f-49fe-8292-7c6414491623",
+            "ca047bbd-4118-40eb-b4a1-d1469dfa7aa1",
+            "c51e8caf-5bc1-4a94-aeed-ae49e4b3a60e",
+            "a59d1c11-4852-4e7e-abeb-b5eef68b2c06",
+            "14381a6e-1540-4deb-b773-599f2dee5ffc",
+            "018d0498-06c1-4feb-955f-c061416b9b5d",
+            "c1af9155-374e-4efe-8e5e-cceae0c691d9",
+            "e3acffa3-a899-4f0d-b6d3-e283eb3792d9",
+            "00400a91-9292-428b-99e5-c07cb4c453ee",
+            "8e63dfca-46f4-4e57-882d-0bc2ba6ee810",
+            "7c420a38-ae55-477a-928f-9af0a156373f",
+            "a3fd0145-314c-48e7-8aed-f6904b94b49e",
+            "a997f2c3-081c-43f4-8835-0aea8bad56ad",
+            "19be0777-4d90-4e3e-b924-749114a4bf97",
+            "493835d7-d757-4219-8bf7-75fa169e29b1",
+            "485c3cb6-c3ab-4f6d-bfcd-7fabba24a1ff"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2018-03-19T14:02:47.965367",
+          "max_score": null,
+          "groupping": null,
+          "id": 101559,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "e8196c31-b111-402f-a33a-906b18a14c98",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2017-06-15T11:43:22.909762"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What summarizes the overall message of this text?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 5236,
+          "content": {
+            "text": "What summarizes the overall message of this text?\n",
+            "displayNumber": "15."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2018-03-19T14:02:47.967768",
+          "max_score": null,
+          "groupping": null,
+          "id": 104507,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 34,
+              "text": "The treats from The Hague are well worth viewing\n",
+              "parent": "c51e8caf-5bc1-4a94-aeed-ae49e4b3a60e",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 35,
+              "text": "Treating paintings equally is always a key to success\n",
+              "parent": "c51e8caf-5bc1-4a94-aeed-ae49e4b3a60e",
+              "choices": []
+            },
+            {
+              "id": 36,
+              "text": "The treats on display deceive New Yorkers in their themes\n",
+              "parent": "c51e8caf-5bc1-4a94-aeed-ae49e4b3a60e",
+              "choices": []
+            }
+          ],
+          "uuid": "c51e8caf-5bc1-4a94-aeed-ae49e4b3a60e",
+          "order_number": 18,
+          "multipart": true,
+          "created_at": "2017-06-16T05:21:39.849762"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Which one of the following best sums up the text?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 5236,
+          "content": {
+            "text": "Which one of the following best sums up the text?\n",
+            "displayNumber": "6."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2018-03-19T14:02:47.97005",
+          "max_score": null,
+          "groupping": null,
+          "id": 104079,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 4,
+              "text": "Mr Farinetti anticipates the future and expands into tableware\n",
+              "parent": "d3142f91-7481-4c39-91bd-23430f9cd3e1",
+              "choices": []
+            },
+            {
+              "id": 5,
+              "text": "Mr Farinetti sells his customers a seductive image of Italy itself\n",
+              "parent": "d3142f91-7481-4c39-91bd-23430f9cd3e1",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 6,
+              "text": "Mr Farinetti pampers his customers with processed food\n",
+              "parent": "d3142f91-7481-4c39-91bd-23430f9cd3e1",
+              "choices": []
+            }
+          ],
+          "uuid": "d3142f91-7481-4c39-91bd-23430f9cd3e1",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2017-06-16T05:15:31.57235"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**The abuse of student visas** \n\nThe Home Secretary, Theresa May, has launched a clamp down on alleged abuses of student visas after an investigation found the system was providing a “free for all” for illegal entry to the UK. She suspended English language tests set by a major exam board in the UK and temporarily withdrew the rights to proficiency testing from a series of colleges amid evidence of a thriving market in fraudulent visas. The move came after an undercover investigation by BBC One’s Panorama revealed a network of agents was helping overseas students pass English language exams, obtain false documents and doctor their academic records. [CITE source=telegraph.co.uk, accessed 9 June 2013]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 5236,
+          "content": {
+            "text": "**The abuse of student visas** \n\nThe Home Secretary, Theresa May, has launched a clamp down on alleged abuses of student visas after an investigation found the system was providing a “free for all” for illegal entry to the UK. She suspended English language tests set by a major exam board in the UK and temporarily withdrew the rights to proficiency testing from a series of colleges amid evidence of a thriving market in fraudulent visas. The move came after an undercover investigation by BBC One’s Panorama revealed a network of agents was helping overseas students pass English language exams, obtain false documents and doctor their academic records. [CITE source=telegraph.co.uk, accessed 9 June 2013]\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2018-03-19T14:02:47.972314",
+          "max_score": null,
+          "groupping": null,
+          "id": 103770,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "2a62af2e-a95a-4e03-a107-4cad6fde2bd6",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2017-06-16T05:11:31.431275"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**MOOCs are over **\n\nThe problems endemic to MOOCs, Massive Open Online Courses, are well known: the high dropout rate, the variable quality of the offerings, evaluation methods that make educators roll their eyes, stale lectures, and tests that make you remember why high school was such a bad idea. Always one step ahead of the curve, the godfather of the massive open online course, Sebastian Thrun (who notoriously proclaimed that in 50 years, there might be only 10 universities left in the world) has thrown in the towel. He’s announced that, following a disastrous trial run at San Jose State University and plagued by ridiculously low completion rates, his start-up, Udacity, would henceforth focus on vocational training. [CITE source=chronicle.com, accessed 11 June 2013]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 5236,
+          "content": {
+            "text": "**MOOCs are over **\n\nThe problems endemic to MOOCs, Massive Open Online Courses, are well known: the high dropout rate, the variable quality of the offerings, evaluation methods that make educators roll their eyes, stale lectures, and tests that make you remember why high school was such a bad idea. Always one step ahead of the curve, the godfather of the massive open online course, Sebastian Thrun (who notoriously proclaimed that in 50 years, there might be only 10 universities left in the world) has thrown in the towel. He’s announced that, following a disastrous trial run at San Jose State University and plagued by ridiculously low completion rates, his start-up, Udacity, would henceforth focus on vocational training. [CITE source=chronicle.com, accessed 11 June 2013]\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2018-03-19T14:02:47.974603",
+          "max_score": null,
+          "groupping": null,
+          "id": 103771,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "f22a99a2-687b-440e-a619-7d4037216c28",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2017-06-16T05:11:31.434335"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Nursery Starter Kits**\n\n​\n\nIn his “Summer of Public Service Letter” in the fall of 1800, Thomas Jefferson said, “The greatest service which can be [SELECT id=96] any country is to add a useful plant to its culture, especially a bread grain.” But Robert Wallace of Realtree Nursery believes the number one plant to [SELECT id=97] in a food plot is the chestnut tree. [SELECT id=98] a variety of other fruit and nutbearing trees, chestnut trees help form a plot that is easy [SELECT id=99] to plant [SELECT id=99] maintain. Robert’s Realtree Nursery has [SELECT id=100] what you food-planters need to get started. [CITE source=The New Pioneer, New York, 2013]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 5236,
+          "content": {
+            "text": "**Nursery Starter Kits**\n\n​\n\nIn his “Summer of Public Service Letter” in the fall of 1800, Thomas Jefferson said, “The greatest service which can be [SELECT id=96] any country is to add a useful plant to its culture, especially a bread grain.” But Robert Wallace of Realtree Nursery believes the number one plant to [SELECT id=97] in a food plot is the chestnut tree. [SELECT id=98] a variety of other fruit and nutbearing trees, chestnut trees help form a plot that is easy [SELECT id=99] to plant [SELECT id=99] maintain. Robert’s Realtree Nursery has [SELECT id=100] what you food-planters need to get started. [CITE source=The New Pioneer, New York, 2013]\n",
+            "displayNumber": "2.1d"
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2018-03-19T14:02:47.97684",
+          "max_score": null,
+          "groupping": null,
+          "id": 102696,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 96,
+              "parent": "18503d30-860b-41fd-8b98-443d13fa952d",
+              "choices": [
+                {
+                  "id": "7bae39f8-5e75-4fa0-986b-773fa5bad7e7",
+                  "text": "placed"
+                },
+                {
+                  "id": "833fb14e-d3b8-4b31-983e-4d06769b2bc3",
+                  "text": "provided"
+                },
+                {
+                  "id": "1f139f08-2797-4dd0-a008-ddb7b6ec8fa7",
+                  "text": "rendered",
+                  "correct": true
+                },
+                {
+                  "id": "dd415cc0-4319-49f8-acfd-aba617b4912e",
+                  "text": "spread"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 97,
+              "parent": "18503d30-860b-41fd-8b98-443d13fa952d",
+              "choices": [
+                {
+                  "id": "4fbd79c6-6d4e-4887-958e-a1905e4b02b1",
+                  "text": "insist"
+                },
+                {
+                  "id": "7f25286f-5d7b-48fe-bd60-4b18f5e9210a",
+                  "text": "import"
+                },
+                {
+                  "id": "6e36a878-1499-4ec2-b136-38b802a1b2c3",
+                  "text": "incorporate",
+                  "correct": true
+                },
+                {
+                  "id": "73d2037f-942e-40ef-832e-76d36f917f91",
+                  "text": "improve"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 98,
+              "parent": "18503d30-860b-41fd-8b98-443d13fa952d",
+              "choices": [
+                {
+                  "id": "84a6dd0c-4b5b-4039-8792-01e3c7a16b15",
+                  "text": "Along about"
+                },
+                {
+                  "id": "1d3187a0-d85c-4855-8692-6634b3ff2e33",
+                  "text": "Along by"
+                },
+                {
+                  "id": "8f3cbde3-f268-4e87-880a-80271465b5ab",
+                  "text": "Along of"
+                },
+                {
+                  "id": "8c5d00b4-e3ff-4550-9185-634bd2e9733b",
+                  "text": "Along with",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 99,
+              "parent": "18503d30-860b-41fd-8b98-443d13fa952d",
+              "choices": [
+                {
+                  "id": "a4ed8a49-5745-48a2-8cfd-c5666d83adda",
+                  "text": "other"
+                },
+                {
+                  "id": "31169b18-206f-499c-a228-9b4536ff7c51",
+                  "text": "and"
+                },
+                {
+                  "id": "be88cfe1-d480-474b-b66c-7c6c949a32c2",
+                  "text": "either ... or"
+                },
+                {
+                  "id": "2ea53623-a24f-4419-9375-1b864e59b2a7",
+                  "text": "both ... and",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 100,
+              "parent": "18503d30-860b-41fd-8b98-443d13fa952d",
+              "choices": [
+                {
+                  "id": "e147579c-7907-4861-9259-02eaf77c33ab",
+                  "text": "alike"
+                },
+                {
+                  "id": "6d41790b-1ffe-4e16-a721-4fda15fef890",
+                  "text": "just",
+                  "correct": true
+                },
+                {
+                  "id": "31459b60-4c81-45d3-b53e-f7711629b488",
+                  "text": "so"
+                },
+                {
+                  "id": "b7da150f-3f3c-4acd-937e-554b115518aa",
+                  "text": "thus"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "18503d30-860b-41fd-8b98-443d13fa952d",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2017-06-15T11:55:44.046496"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "How does Mr Farinetti seem to manage his business?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 5236,
+          "content": {
+            "text": "How does Mr Farinetti seem to manage his business?\n",
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2018-03-19T14:02:47.979329",
+          "max_score": null,
+          "groupping": null,
+          "id": 104082,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 13,
+              "text": "Through a network of state-funded entrepreneurs\n",
+              "parent": "4c69ea3e-8d5b-4c4c-b938-4d6c8117d5ff",
+              "choices": []
+            },
+            {
+              "id": 14,
+              "text": "By consulting retail experts when applicable\n",
+              "parent": "4c69ea3e-8d5b-4c4c-b938-4d6c8117d5ff",
+              "choices": []
+            },
+            {
+              "id": 15,
+              "text": "With help from his business partners\n",
+              "parent": "4c69ea3e-8d5b-4c4c-b938-4d6c8117d5ff",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "4c69ea3e-8d5b-4c4c-b938-4d6c8117d5ff",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2017-06-16T05:15:31.580826"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "On the basis of this text, what is meant by “scientific serendipity”?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 5236,
+          "content": {
+            "text": "On the basis of this text, what is meant by “scientific serendipity”?\n",
+            "displayNumber": "24."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2018-03-19T14:02:47.981652",
+          "max_score": null,
+          "groupping": null,
+          "id": 104563,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 55,
+              "text": "That cross-disciplinary research may result in tangible outcomes\n",
+              "parent": "8e63dfca-46f4-4e57-882d-0bc2ba6ee810",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 56,
+              "text": "That it may be profitable to seriously compete across disciplinary boundaries\n",
+              "parent": "8e63dfca-46f4-4e57-882d-0bc2ba6ee810",
+              "choices": []
+            },
+            {
+              "id": 57,
+              "text": "That one may know what type of cross-disciplinary aid is unnecessary\n",
+              "parent": "8e63dfca-46f4-4e57-882d-0bc2ba6ee810",
+              "choices": []
+            }
+          ],
+          "uuid": "8e63dfca-46f4-4e57-882d-0bc2ba6ee810",
+          "order_number": 29,
+          "multipart": true,
+          "created_at": "2017-06-16T05:23:56.990379"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**USA Religion and Social Dynamics**\n\n​\n\nAt a steadily growing rate, more and more Americans say they belong to no religion. The figure has climbed from 15% to 20% of all Americans in the past five years. Researchers call the trend “nones on the rise.”\n\n​\n\n[SELECT id=81], Protestants and Roman Catholics are proving that the Bible had it right when it said there is nothing new under the sun. In a classic attempt to turn [SELECT id=82], Christian leaders who once assumed a cultural dominance are now arguing for a different strategy. [SELECT id=83] the Gospel message to make it more marketable to an American skeptical of institutions, what draws the real energy among [SELECT id=84] is a renewed commitment to basic Christian values.\n\n​\n\nAt the center of this controversy stands George Weigel, a Roman Catholic writer, who has published a handbook for Roman Catholics [SELECT id=85] to keep the church out of the margins. Evangelical Protestants, [SELECT id=86], are accustomed to looking outward: a key element of their identity is their sense of obligation to share their faith. Yet [SELECT id=87] the general hostility toward joining particular religious communities – including [SELECT id=88] – they feel a new urgency about their mission.\n\n​\n\n[SELECT id=89] there is no doubt the idea of newly aggressive preaching is driving much of the discussion in traditional religious institutions, [SELECT id=90] the America of the early 21st century will respond is another question. [CITE source=Time, 25 March 2013 (adapted)]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 5236,
+          "content": {
+            "text": "**USA Religion and Social Dynamics**\n\n​\n\nAt a steadily growing rate, more and more Americans say they belong to no religion. The figure has climbed from 15% to 20% of all Americans in the past five years. Researchers call the trend “nones on the rise.”\n\n​\n\n[SELECT id=81], Protestants and Roman Catholics are proving that the Bible had it right when it said there is nothing new under the sun. In a classic attempt to turn [SELECT id=82], Christian leaders who once assumed a cultural dominance are now arguing for a different strategy. [SELECT id=83] the Gospel message to make it more marketable to an American skeptical of institutions, what draws the real energy among [SELECT id=84] is a renewed commitment to basic Christian values.\n\n​\n\nAt the center of this controversy stands George Weigel, a Roman Catholic writer, who has published a handbook for Roman Catholics [SELECT id=85] to keep the church out of the margins. Evangelical Protestants, [SELECT id=86], are accustomed to looking outward: a key element of their identity is their sense of obligation to share their faith. Yet [SELECT id=87] the general hostility toward joining particular religious communities – including [SELECT id=88] – they feel a new urgency about their mission.\n\n​\n\n[SELECT id=89] there is no doubt the idea of newly aggressive preaching is driving much of the discussion in traditional religious institutions, [SELECT id=90] the America of the early 21st century will respond is another question. [CITE source=Time, 25 March 2013 (adapted)]\n",
+            "displayNumber": "2.1b"
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2018-03-19T14:02:47.98403",
+          "max_score": null,
+          "groupping": null,
+          "id": 102564,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 81,
+              "parent": "afeceb9a-d728-45db-8325-2b88816fed1d",
+              "choices": [
+                {
+                  "id": "9e35f1bb-7e4d-4029-b0e5-34af608219bb",
+                  "text": "In doing so"
+                },
+                {
+                  "id": "c0df5066-c864-489e-b0ec-fb2777aed529",
+                  "text": "In reaction",
+                  "correct": true
+                },
+                {
+                  "id": "2f1f1372-720b-4e64-8f96-a28a2b06d865",
+                  "text": "Promptly"
+                },
+                {
+                  "id": "cfd8795e-4067-4213-8d57-b18211c46c47",
+                  "text": "Successively"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 82,
+              "parent": "afeceb9a-d728-45db-8325-2b88816fed1d",
+              "choices": [
+                {
+                  "id": "e37767e3-0052-4165-81aa-c5fb7bdacb1b",
+                  "text": "adversity to advantage",
+                  "correct": true
+                },
+                {
+                  "id": "1d783f69-2fc9-418f-9e99-aa19fa43f7e6",
+                  "text": "advertising to success"
+                },
+                {
+                  "id": "5059cb8d-9a88-4086-a905-723b931427e9",
+                  "text": "competition to equality"
+                },
+                {
+                  "id": "7865bcf1-696b-4905-a139-dfe1c988c4da",
+                  "text": "understanding to wisdom"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 83,
+              "parent": "afeceb9a-d728-45db-8325-2b88816fed1d",
+              "choices": [
+                {
+                  "id": "0b1e6a8f-b322-47f2-94ea-5a6eff1acb3a",
+                  "text": "Due to an understanding of"
+                },
+                {
+                  "id": "be54fc39-7497-4461-9c90-b6df295569e4",
+                  "text": "Despite finding"
+                },
+                {
+                  "id": "ff64add2-d2b0-4842-99c7-bc37d1ef8125",
+                  "text": "Rather than softening",
+                  "correct": true
+                },
+                {
+                  "id": "93f4a475-af8d-4afd-9c21-0488f2528926",
+                  "text": "Because of rejecting"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 84,
+              "parent": "afeceb9a-d728-45db-8325-2b88816fed1d",
+              "choices": [
+                {
+                  "id": "86af0a17-db5a-4679-b35e-ed84b9046632",
+                  "text": "faith"
+                },
+                {
+                  "id": "cb096c0a-a5c0-4546-bc7e-f47ebb8d9e48",
+                  "text": "the faith"
+                },
+                {
+                  "id": "0c74a0ea-0246-4ea8-940f-9bdb4c7c073e",
+                  "text": "faithful"
+                },
+                {
+                  "id": "2de211a1-e430-45d0-9a9f-75d31f6ef62a",
+                  "text": "the faithful",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 85,
+              "parent": "afeceb9a-d728-45db-8325-2b88816fed1d",
+              "choices": [
+                {
+                  "id": "d40bbfb5-f5df-4ba0-ab2e-88d554ec8524",
+                  "text": "seek"
+                },
+                {
+                  "id": "290b0bd1-df4b-4c72-bbeb-f1193c537b07",
+                  "text": "seeks"
+                },
+                {
+                  "id": "5e1787c3-6a98-49d5-a124-dae3ae685c9d",
+                  "text": "seeking",
+                  "correct": true
+                },
+                {
+                  "id": "8cc3c231-c571-4651-9723-809d59c5a1b8",
+                  "text": "sought"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 86,
+              "parent": "afeceb9a-d728-45db-8325-2b88816fed1d",
+              "choices": [
+                {
+                  "id": "8b573b18-9fc8-41f1-81c5-588f1486ac1f",
+                  "text": "for their part",
+                  "correct": true
+                },
+                {
+                  "id": "9b017a2c-32f4-47eb-ab53-b66da46278bd",
+                  "text": "in their part"
+                },
+                {
+                  "id": "c362b09b-79cc-4565-b178-2018af4f4b3e",
+                  "text": "on their part"
+                },
+                {
+                  "id": "78bf0cb2-b691-4584-b813-a395d2afae76",
+                  "text": "round their part"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 87,
+              "parent": "afeceb9a-d728-45db-8325-2b88816fed1d",
+              "choices": [
+                {
+                  "id": "8afc880a-a73f-4569-8e9b-e417bbec4e20",
+                  "text": "give"
+                },
+                {
+                  "id": "0699a1c0-033f-4d3f-ae2e-901f36890b7d",
+                  "text": "gave"
+                },
+                {
+                  "id": "87b06f01-2740-4434-af76-f4890091e895",
+                  "text": "given",
+                  "correct": true
+                },
+                {
+                  "id": "91dd3d03-f680-445f-a13f-bd874654afc9",
+                  "text": "giving"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 88,
+              "parent": "afeceb9a-d728-45db-8325-2b88816fed1d",
+              "choices": [
+                {
+                  "id": "0f540df3-1d9f-48a0-8fae-d114b913006c",
+                  "text": "they"
+                },
+                {
+                  "id": "b0cf4833-9673-4f3a-98a0-cf988cb05319",
+                  "text": "them"
+                },
+                {
+                  "id": "7aa1cdc3-bc5e-4c31-ad83-011bdc58fc50",
+                  "text": "their"
+                },
+                {
+                  "id": "df3ed35f-4818-4f52-9093-bbbdfbd2f0ee",
+                  "text": "theirs",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 89,
+              "parent": "afeceb9a-d728-45db-8325-2b88816fed1d",
+              "choices": [
+                {
+                  "id": "72a378dd-234b-4f5d-9b39-6c47253b9c7b",
+                  "text": "Because"
+                },
+                {
+                  "id": "ddf48574-cad7-408f-adac-cd7b19927565",
+                  "text": "While",
+                  "correct": true
+                },
+                {
+                  "id": "594dd29f-4e5c-47cf-827a-87e92bac1999",
+                  "text": "Hence"
+                },
+                {
+                  "id": "3c00307c-352b-494b-8346-4a6e6a3943dc",
+                  "text": "If"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 90,
+              "parent": "afeceb9a-d728-45db-8325-2b88816fed1d",
+              "choices": [
+                {
+                  "id": "61ec6068-43e9-44bb-91b8-6c9c329ac36e",
+                  "text": "whether",
+                  "correct": true
+                },
+                {
+                  "id": "9099fb56-b19b-456a-a52c-f3ea5e5296b8",
+                  "text": "when"
+                },
+                {
+                  "id": "72dccf52-8411-414b-9f29-a2d1dbb1fb73",
+                  "text": "where"
+                },
+                {
+                  "id": "a827c434-ee28-43a0-b97f-f84654192210",
+                  "text": "while"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "afeceb9a-d728-45db-8325-2b88816fed1d",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2017-06-15T11:52:16.398266"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Birdwatching**\n\n​\n\nThe little village of Egleton in Rutland is a calm and tranquil place [GAP id=101]. But for the three hectic days every August, birders arrive [GAP id=102] for the annual British Birdwatching Fair. The ‘Birdfair’, as it [GAP id=103], occupies the middle ground between the Chelsea Flower Show and the Glastonbury Music Festival – [GAP id=104] in terms of the age, social class and background of its participants. And while it may not [GAP id=105] boast the cachet of [GAP id=106], or the coolness of the latter, it is still the unmissable event for birders; not just from Britain, but from all over the world.\n\n​\n\nA whistle-stop tour of the Birdfair reveals much about the nature of birdwatching at the beginning of the twenty-first century. People come here to meet old friends and make new [GAP id=107], attend lectures and [GAP id=108] foreign birding tours, simply to sit outside the beer tent and soak up the sunshine. [GAP id=109], if they get tired of the crowds, they can even wander around the nearby nature reserve to watch the birds.\n\n​\n\nVisit the Birdfair, and you will see the unmistakable [GAP id=110] figure of Marek Borkowski from Polish Wildlife Tours, one of the great pioneers of conservation and birding in Eastern Europe. Over the next three days Marek and his wife Hania will [GAP id=111] several hundred people, many of whom [GAP id=112] to visit their picturesque wooden house in the Biebrza Marshes, where they can watch White-backed Woodpeckers and nesting Hoopoes while [GAP id=113] even more Polish hospitability.\n\n​\n\nToday birding is one of the world’s most popular pastimes, as the many visitors to the British Birdwatching Fair bear witness. It is pursued [GAP id=114] millions of people, of different ages, cultures and social backgrounds, in every country on earth. And it brings an incalculable degree of pleasure and satisfaction to [GAP id=115] who do it. [CITE source=Stephen Moss, A Bird in the Bush, London, 2005]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 5236,
+          "content": {
+            "text": "**Birdwatching**\n\n​\n\nThe little village of Egleton in Rutland is a calm and tranquil place [GAP id=101]. But for the three hectic days every August, birders arrive [GAP id=102] for the annual British Birdwatching Fair. The ‘Birdfair’, as it [GAP id=103], occupies the middle ground between the Chelsea Flower Show and the Glastonbury Music Festival – [GAP id=104] in terms of the age, social class and background of its participants. And while it may not [GAP id=105] boast the cachet of [GAP id=106], or the coolness of the latter, it is still the unmissable event for birders; not just from Britain, but from all over the world.\n\n​\n\nA whistle-stop tour of the Birdfair reveals much about the nature of birdwatching at the beginning of the twenty-first century. People come here to meet old friends and make new [GAP id=107], attend lectures and [GAP id=108] foreign birding tours, simply to sit outside the beer tent and soak up the sunshine. [GAP id=109], if they get tired of the crowds, they can even wander around the nearby nature reserve to watch the birds.\n\n​\n\nVisit the Birdfair, and you will see the unmistakable [GAP id=110] figure of Marek Borkowski from Polish Wildlife Tours, one of the great pioneers of conservation and birding in Eastern Europe. Over the next three days Marek and his wife Hania will [GAP id=111] several hundred people, many of whom [GAP id=112] to visit their picturesque wooden house in the Biebrza Marshes, where they can watch White-backed Woodpeckers and nesting Hoopoes while [GAP id=113] even more Polish hospitability.\n\n​\n\nToday birding is one of the world’s most popular pastimes, as the many visitors to the British Birdwatching Fair bear witness. It is pursued [GAP id=114] millions of people, of different ages, cultures and social backgrounds, in every country on earth. And it brings an incalculable degree of pleasure and satisfaction to [GAP id=115] who do it. [CITE source=Stephen Moss, A Bird in the Bush, London, 2005]\n",
+            "displayNumber": ""
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2018-03-19T14:02:47.98679",
+          "max_score": null,
+          "groupping": null,
+          "id": 102562,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 101,
+              "hint": "suurimman osan vuotta",
+              "parent": "a0202e32-5b91-4aae-a742-5e37fd33fa5e",
+              "choices": [],
+              "correct": "for most of the year|for the greater part of the year|for the better part of the year|for the bulk of the year",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 102,
+              "hint": "tuhansittain",
+              "parent": "a0202e32-5b91-4aae-a742-5e37fd33fa5e",
+              "choices": [],
+              "correct": "in their thousands|by the thousand|by the thousands",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 103,
+              "hint": "know",
+              "parent": "a0202e32-5b91-4aae-a742-5e37fd33fa5e",
+              "choices": [],
+              "correct": "is known",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 104,
+              "hint": "ainakin",
+              "parent": "a0202e32-5b91-4aae-a742-5e37fd33fa5e",
+              "choices": [],
+              "correct": "at least",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 105,
+              "hint": "voida",
+              "parent": "a0202e32-5b91-4aae-a742-5e37fd33fa5e",
+              "choices": [],
+              "correct": "be able to",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 106,
+              "parent": "a0202e32-5b91-4aae-a742-5e37fd33fa5e",
+              "choices": [],
+              "correct": "the former",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 107,
+              "hint": "pronomini",
+              "parent": "a0202e32-5b91-4aae-a742-5e37fd33fa5e",
+              "choices": [],
+              "correct": "ones",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 108,
+              "hint": "ilmoittautua",
+              "parent": "a0202e32-5b91-4aae-a742-5e37fd33fa5e",
+              "choices": [],
+              "correct": "sign up for|enroll in|enrol in",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 109,
+              "hint": "Aika ajoin",
+              "parent": "a0202e32-5b91-4aae-a742-5e37fd33fa5e",
+              "choices": [],
+              "correct": "from time to time|at times|occasionally|at intervals|every now and then|now and then|once in a while",
+              "isCaseSensitive": false
+            },
+            {
+              "id": 110,
+              "hint": "partainen",
+              "parent": "a0202e32-5b91-4aae-a742-5e37fd33fa5e",
+              "choices": [],
+              "correct": "bearded",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 111,
+              "hint": "kätellä",
+              "parent": "a0202e32-5b91-4aae-a742-5e37fd33fa5e",
+              "choices": [],
+              "correct": "shake hands with",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 112,
+              "hint": "persuade",
+              "parent": "a0202e32-5b91-4aae-a742-5e37fd33fa5e",
+              "choices": [],
+              "correct": "will be persuaded",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 113,
+              "hint": "enjoy",
+              "parent": "a0202e32-5b91-4aae-a742-5e37fd33fa5e",
+              "choices": [],
+              "correct": "enjoying",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 114,
+              "parent": "a0202e32-5b91-4aae-a742-5e37fd33fa5e",
+              "choices": [],
+              "correct": "by",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 115,
+              "parent": "a0202e32-5b91-4aae-a742-5e37fd33fa5e",
+              "choices": [],
+              "correct": "those|the people|the ones",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "a0202e32-5b91-4aae-a742-5e37fd33fa5e",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-06-15T11:52:16.392222"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Miten Hoy työllistää itsensä urheilu-uran loputtua? (2 asiaa)\n",
+          "deleted_at": null,
+          "feedback": "Hän myy omaa pyörämallistoaan (2 p.) ja pitää puheita terveellisen elämän puolesta. (2 p.)\n",
+          "exam_id": 5236,
+          "content": {
+            "text": "Miten Hoy työllistää itsensä urheilu-uran loputtua? (2 asiaa)\n",
+            "displayNumber": "b)"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2018-03-19T14:02:47.875943",
+          "max_score": null,
+          "groupping": null,
+          "id": 103949,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "09269247-2e6b-48b3-88ec-539bdbf1755e",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2017-06-16T05:13:37.484035"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "_Lue seuraavat tekstit ja vastaa niiden pohjalta __**lyhyesti suomeksi**__ kysymyksiin a-e._\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 5236,
+          "content": {
+            "text": "_Lue seuraavat tekstit ja vastaa niiden pohjalta __**lyhyesti suomeksi**__ kysymyksiin a-e._\n",
+            "questionType": "reading",
+            "displayNumber": "1.2"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "df98338d-7ca6-4fb4-97de-c1bc62369023",
+            "b133a93d-618d-449d-aefd-8a8e6ddd9f11",
+            "9b025de9-62a9-49cd-8b67-c6c9b3577a7f",
+            "2a62af2e-a95a-4e03-a107-4cad6fde2bd6",
+            "f22a99a2-687b-440e-a619-7d4037216c28",
+            "2a7f9003-0e5c-4bd2-b9e2-be8157d67ad3",
+            "360ba12b-fec9-4114-874c-dfc88f87d17e",
+            "57e53b19-5029-4d41-aec2-b9c69cde285e",
+            "09269247-2e6b-48b3-88ec-539bdbf1755e",
+            "a4bb49a8-826d-4d7f-a949-eb47caca45da"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2018-03-19T14:02:47.878021",
+          "max_score": null,
+          "groupping": null,
+          "id": 101560,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "53cac357-b841-44f7-8af4-c451a727e4bc",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2017-06-15T11:43:22.912897"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mitä etuja olisi Lordi Robertsin ehdottamasta muutoksesta? (2 asiaa)\n",
+          "deleted_at": null,
+          "feedback": "Turvapaikanhakijat voivat ansaita rahaa, (2 p.)\n\nja valtio säästää rahaa. (2 p.)\n",
+          "exam_id": 5236,
+          "content": {
+            "text": "Mitä etuja olisi Lordi Robertsin ehdottamasta muutoksesta? (2 asiaa)\n",
+            "displayNumber": "c)"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2018-03-19T14:02:47.880115",
+          "max_score": null,
+          "groupping": null,
+          "id": 103888,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "57e53b19-5029-4d41-aec2-b9c69cde285e",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2017-06-16T05:12:57.292195"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "How is Dr Hawking’s behavior on TV described?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 5236,
+          "content": {
+            "text": "How is Dr Hawking’s behavior on TV described?\n",
+            "displayNumber": "9."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2018-03-19T14:02:47.88219",
+          "max_score": null,
+          "groupping": null,
+          "id": 104504,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 25,
+              "text": "He appears matter-of-fact\n",
+              "parent": "aad6b5c4-26b4-4405-8d06-f78928725935",
+              "choices": []
+            },
+            {
+              "id": 26,
+              "text": "He comes across as modest\n",
+              "parent": "aad6b5c4-26b4-4405-8d06-f78928725935",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 27,
+              "text": "He is easily irritable\n",
+              "parent": "aad6b5c4-26b4-4405-8d06-f78928725935",
+              "choices": []
+            }
+          ],
+          "uuid": "aad6b5c4-26b4-4405-8d06-f78928725935",
+          "order_number": 11,
+          "multipart": true,
+          "created_at": "2017-06-16T05:21:39.840398"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What does the “slow food movement” mainly concentrate on?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 5236,
+          "content": {
+            "text": "What does the “slow food movement” mainly concentrate on?\n",
+            "displayNumber": "4."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2018-03-19T14:02:47.88434",
+          "max_score": null,
+          "groupping": null,
+          "id": 104083,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 16,
+              "text": "Changing how individuals feel about dieting\n",
+              "parent": "ad866b9b-1713-4d21-b24b-42dc4dd773df",
+              "choices": []
+            },
+            {
+              "id": 17,
+              "text": "Affecting attitudes towards the origins of ingredients\n",
+              "parent": "ad866b9b-1713-4d21-b24b-42dc4dd773df",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 18,
+              "text": "Influencing people as to how often they opt for eating out\n",
+              "parent": "ad866b9b-1713-4d21-b24b-42dc4dd773df",
+              "choices": []
+            }
+          ],
+          "uuid": "ad866b9b-1713-4d21-b24b-42dc4dd773df",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2017-06-16T05:15:31.583537"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Ketkä osallistuisivat perustuslain kirjoittamiseen, ja mikä rooli Skotlannin hallituksella on prosessissa?\n",
+          "deleted_at": null,
+          "feedback": "Skotlannin parlamentti ja kansalaiset. (2 p.)\n\nHallitus huolehtii siitä, että keskeiset arvot sisältyvät perustuslakiin. (2 p.)\n",
+          "exam_id": 5236,
+          "content": {
+            "text": "Ketkä osallistuisivat perustuslain kirjoittamiseen, ja mikä rooli Skotlannin hallituksella on prosessissa?\n",
+            "displayNumber": "a)"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2018-03-19T14:02:47.888461",
+          "max_score": null,
+          "groupping": null,
+          "id": 103981,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "a4bb49a8-826d-4d7f-a949-eb47caca45da",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2017-06-16T05:13:52.793224"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "_Read texts carefully and for each item choose the alternative that __**best**__ fits the context._\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 5236,
+          "content": {
+            "text": "_Read texts carefully and for each item choose the alternative that __**best**__ fits the context._\n",
+            "questionType": "grammar",
+            "displayNumber": "2.1"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "4ba34f80-c897-44d6-b5ba-2f051374165b",
+            "afeceb9a-d728-45db-8325-2b88816fed1d",
+            "616acec2-931c-4488-9194-1b49c9e5ab50",
+            "18503d30-860b-41fd-8b98-443d13fa952d"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2018-03-19T14:02:47.890384",
+          "max_score": null,
+          "groupping": null,
+          "id": 101791,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "2341abb0-7c51-4ab6-b8ae-5a5d19e1cff4",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2017-06-15T11:45:27.237198"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "_Fill in the blanks using suggestions when given._\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 5236,
+          "content": {
+            "text": "_Fill in the blanks using suggestions when given._\n",
+            "questionType": "grammar",
+            "displayNumber": "2.2"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "a0202e32-5b91-4aae-a742-5e37fd33fa5e"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2018-03-19T14:02:47.886381",
+          "max_score": null,
+          "groupping": null,
+          "id": 101792,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "5e1e5a05-7f65-4805-88cf-a936e58850f7",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2017-06-15T11:45:27.239783"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "_Write a composition of between 150 and 250 words on one of the following topics. Follow the guidance._\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 5236,
+          "content": {
+            "text": "_Write a composition of between 150 and 250 words on one of the following topics. Follow the guidance._\n",
+            "questionType": "writing"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "99bf1fa3-dda9-451d-b3ef-f140020605c6",
+            "3c3c5af3-5b15-4130-a2e1-752700792b1d",
+            "a49488a8-4471-403d-bc8d-603d4bf5d525",
+            "fe334fd6-c3f4-4110-aa4f-ca40b2fcece6"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2018-03-19T14:02:47.89239",
+          "max_score": null,
+          "groupping": null,
+          "id": 101793,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "120faa3f-cfe1-4939-a205-40007bc2a539",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2017-06-15T11:45:27.242415"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**A letter to the President** \n\nWrite a letter to the President of the country of your choice. In your letter you can offer thoughts on current issues, expressing your support or criticism. Remain polite and businesslike regardless of your message.\n\n​\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 5236,
+          "content": {
+            "text": "**A letter to the President** \n\nWrite a letter to the President of the country of your choice. In your letter you can offer thoughts on current issues, expressing your support or criticism. Remain polite and businesslike regardless of your message.\n\n​\n",
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2018-03-19T14:02:47.894357",
+          "max_score": null,
+          "groupping": null,
+          "id": 101879,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "3c3c5af3-5b15-4130-a2e1-752700792b1d",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2017-06-15T11:45:43.814486"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "According to this text, what characterizes Mr Farinetti’s career?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 5236,
+          "content": {
+            "text": "According to this text, what characterizes Mr Farinetti’s career?\n",
+            "displayNumber": "3."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2018-03-19T14:02:47.896611",
+          "max_score": null,
+          "groupping": null,
+          "id": 104081,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 10,
+              "text": "He has swapped areas of specialization\n",
+              "parent": "2cb2a58a-072e-4922-b945-377e03b79081",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 11,
+              "text": "He chose this line of business already as a young man\n",
+              "parent": "2cb2a58a-072e-4922-b945-377e03b79081",
+              "choices": []
+            },
+            {
+              "id": 12,
+              "text": "He has managed to make a high number of profitable career moves\n",
+              "parent": "2cb2a58a-072e-4922-b945-377e03b79081",
+              "choices": []
+            }
+          ],
+          "uuid": "2cb2a58a-072e-4922-b945-377e03b79081",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2017-06-16T05:15:31.578144"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What characterizes the art work they sell?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 5236,
+          "content": {
+            "text": "What characterizes the art work they sell?\n",
+            "displayNumber": "16."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2018-03-19T14:02:47.898676",
+          "max_score": null,
+          "groupping": null,
+          "id": 104512,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 49,
+              "text": "They are cheap\n",
+              "parent": "e3acffa3-a899-4f0d-b6d3-e283eb3792d9",
+              "choices": []
+            },
+            {
+              "id": 50,
+              "text": "They copy earlier works\n",
+              "parent": "e3acffa3-a899-4f0d-b6d3-e283eb3792d9",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 51,
+              "text": "They appear very exclusive\n",
+              "parent": "e3acffa3-a899-4f0d-b6d3-e283eb3792d9",
+              "choices": []
+            }
+          ],
+          "uuid": "e3acffa3-a899-4f0d-b6d3-e283eb3792d9",
+          "order_number": 20,
+          "multipart": true,
+          "created_at": "2017-06-16T05:21:39.865089"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What is said about the future of Dr King’s project?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 5236,
+          "content": {
+            "text": "What is said about the future of Dr King’s project?\n",
+            "displayNumber": "23."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2018-03-19T14:02:47.900659",
+          "max_score": null,
+          "groupping": null,
+          "id": 104564,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 58,
+              "text": "Fundraising is likely to be discontinued\n",
+              "parent": "7c420a38-ae55-477a-928f-9af0a156373f",
+              "choices": []
+            },
+            {
+              "id": 59,
+              "text": "The results meet all the expectations\n",
+              "parent": "7c420a38-ae55-477a-928f-9af0a156373f",
+              "choices": []
+            },
+            {
+              "id": 60,
+              "text": "The outcome remains yet to be seen\n",
+              "parent": "7c420a38-ae55-477a-928f-9af0a156373f",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "7c420a38-ae55-477a-928f-9af0a156373f",
+          "order_number": 28,
+          "multipart": true,
+          "created_at": "2017-06-16T05:23:56.993076"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Bond Films in the UK has launched a competition for all lovers of thrillers to write a storyline for a new film. The best story will be awarded and the winner will be invited to visit the studios and meet the cast. Write the beginning of the story to enter the competition.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 5236,
+          "content": {
+            "text": "Bond Films in the UK has launched a competition for all lovers of thrillers to write a storyline for a new film. The best story will be awarded and the winner will be invited to visit the studios and meet the cast. Write the beginning of the story to enter the competition.\n",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2018-03-19T14:02:47.902735",
+          "max_score": null,
+          "groupping": null,
+          "id": 101794,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "99bf1fa3-dda9-451d-b3ef-f140020605c6",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-06-15T11:45:27.245681"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "How is the type of ferrofluid invented by Dr Hawkett’s team\n\nimportant for Dr King’s project?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 5236,
+          "content": {
+            "text": "How is the type of ferrofluid invented by Dr Hawkett’s team\n\nimportant for Dr King’s project?\n",
+            "displayNumber": "22."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2018-03-19T14:02:47.904812",
+          "max_score": null,
+          "groupping": null,
+          "id": 104565,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 61,
+              "text": "It has already been applied in a number of clinical trials\n",
+              "parent": "a3fd0145-314c-48e7-8aed-f6904b94b49e",
+              "choices": []
+            },
+            {
+              "id": 62,
+              "text": "It may provide the key to successful performance\n",
+              "parent": "a3fd0145-314c-48e7-8aed-f6904b94b49e",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 63,
+              "text": "It can hamper the project’s funding prospects\n",
+              "parent": "a3fd0145-314c-48e7-8aed-f6904b94b49e",
+              "choices": []
+            }
+          ],
+          "uuid": "a3fd0145-314c-48e7-8aed-f6904b94b49e",
+          "order_number": 27,
+          "multipart": true,
+          "created_at": "2017-06-16T05:23:56.995722"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Sir Chris scales down in retirement **\n\nSix-time Olympic cycling champion Sir Chris Hoy says that his most famous asset – his tree-trunk thighs – have started to shrink since he’s been spending less time on his bike following his retirement from the sport two months ago. “I have noticed something of a difference. I can get my jeans on a little bit easier now. That’s one good thing I suppose!” laughs the 37-year-old. Although he’s spending less time in the saddle, he remains as busy as ever promoting his own range of cycles and furthering his career as a motivational speaker. He wants to inspire people to lead more healthy lives. Sir Chris has also swapped two wheels for four to take up motor racing as a hobby, meaning any anticipated free time has so far failed to materialise. “I’ve barely had a day off since I announced my retirement,” he says. [CITE source=Daily Express, 10 June 2013]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 5236,
+          "content": {
+            "text": "**Sir Chris scales down in retirement **\n\nSix-time Olympic cycling champion Sir Chris Hoy says that his most famous asset – his tree-trunk thighs – have started to shrink since he’s been spending less time on his bike following his retirement from the sport two months ago. “I have noticed something of a difference. I can get my jeans on a little bit easier now. That’s one good thing I suppose!” laughs the 37-year-old. Although he’s spending less time in the saddle, he remains as busy as ever promoting his own range of cycles and furthering his career as a motivational speaker. He wants to inspire people to lead more healthy lives. Sir Chris has also swapped two wheels for four to take up motor racing as a hobby, meaning any anticipated free time has so far failed to materialise. “I’ve barely had a day off since I announced my retirement,” he says. [CITE source=Daily Express, 10 June 2013]\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2018-03-19T14:02:47.906859",
+          "max_score": null,
+          "groupping": null,
+          "id": 103768,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "b133a93d-618d-449d-aefd-8a8e6ddd9f11",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2017-06-16T05:11:31.424973"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Bid to give refugees job access **\n\nAsylum seekers will be given the right to work if they have been waiting more than six months for a decision in their case, Lib Dem peer Lord Roberts of Llandudno has proposed. He said yesterday the ban on asylum seekers taking a job forces them to rely on hand-outs. He said: “At the close of 2012, there were more than 4,400 waiting over six months for decisions. Under the old system they would be excluded, inactive, and benefit-reliant instead of contributing to the British economy.” Lord Roberts will introduce a Bill to change the 1971 Immigration Act in the House of Lords today. He said the move would save taxpayers money and afford applicants the dignity of earning a living and cut their dependency. He added: “Government can’t have it both ways. We must either allow the right to work or we must reform the pitiful support system.” [CITE source=Daily Express, 10 June 2013]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 5236,
+          "content": {
+            "text": "**Bid to give refugees job access **\n\nAsylum seekers will be given the right to work if they have been waiting more than six months for a decision in their case, Lib Dem peer Lord Roberts of Llandudno has proposed. He said yesterday the ban on asylum seekers taking a job forces them to rely on hand-outs. He said: “At the close of 2012, there were more than 4,400 waiting over six months for decisions. Under the old system they would be excluded, inactive, and benefit-reliant instead of contributing to the British economy.” Lord Roberts will introduce a Bill to change the 1971 Immigration Act in the House of Lords today. He said the move would save taxpayers money and afford applicants the dignity of earning a living and cut their dependency. He added: “Government can’t have it both ways. We must either allow the right to work or we must reform the pitiful support system.” [CITE source=Daily Express, 10 June 2013]\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2018-03-19T14:02:47.911398",
+          "max_score": null,
+          "groupping": null,
+          "id": 103769,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "9b025de9-62a9-49cd-8b67-c6c9b3577a7f",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2017-06-16T05:11:31.428147"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What is said about the works featured in this exhibition of the Frick Collection?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 5236,
+          "content": {
+            "text": "What is said about the works featured in this exhibition of the Frick Collection?\n",
+            "displayNumber": "12."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2018-03-19T14:02:47.91349",
+          "max_score": null,
+          "groupping": null,
+          "id": 104510,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 43,
+              "text": "They are from an American collection\n",
+              "parent": "018d0498-06c1-4feb-955f-c061416b9b5d",
+              "choices": []
+            },
+            {
+              "id": 44,
+              "text": "They are part of a private collection\n",
+              "parent": "018d0498-06c1-4feb-955f-c061416b9b5d",
+              "choices": []
+            },
+            {
+              "id": 45,
+              "text": "They are on loan from a national collection\n",
+              "parent": "018d0498-06c1-4feb-955f-c061416b9b5d",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "018d0498-06c1-4feb-955f-c061416b9b5d",
+          "order_number": 15,
+          "multipart": true,
+          "created_at": "2017-06-16T05:21:39.858814"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mihin toimiin sisäministeri on ryhtynyt väärinkäytösten estämiseksi? (2 asiaa)\n",
+          "deleted_at": null,
+          "feedback": "Hän keskeytti kielitestit (2 p.)\n\nja peruutti oikeudet järjestää testejä (eräiltä) oppilaitoksilta. (2 p.)\n",
+          "exam_id": 5236,
+          "content": {
+            "text": "Mihin toimiin sisäministeri on ryhtynyt väärinkäytösten estämiseksi? (2 asiaa)\n",
+            "displayNumber": "d)"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2018-03-19T14:02:47.920585",
+          "max_score": null,
+          "groupping": null,
+          "id": 103829,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "360ba12b-fec9-4114-874c-dfc88f87d17e",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2017-06-16T05:12:17.102649"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What is said of Dr Hawking’s personal development over time?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 5236,
+          "content": {
+            "text": "What is said of Dr Hawking’s personal development over time?\n",
+            "displayNumber": "10."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2018-03-19T14:02:47.924961",
+          "max_score": null,
+          "groupping": null,
+          "id": 104503,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 22,
+              "text": "He became a hermit\n",
+              "parent": "17d7cf20-faa6-4daa-90e8-568b84dc5e8a",
+              "choices": []
+            },
+            {
+              "id": 23,
+              "text": "He developed narcissistic tendencies\n",
+              "parent": "17d7cf20-faa6-4daa-90e8-568b84dc5e8a",
+              "choices": []
+            },
+            {
+              "id": 24,
+              "text": "He overcame physical difficulties\n",
+              "parent": "17d7cf20-faa6-4daa-90e8-568b84dc5e8a",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "17d7cf20-faa6-4daa-90e8-568b84dc5e8a",
+          "order_number": 12,
+          "multipart": true,
+          "created_at": "2017-06-16T05:21:39.837259"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "How is the special hanging of one of Vermeer’s works contested in the text?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 5236,
+          "content": {
+            "text": "How is the special hanging of one of Vermeer’s works contested in the text?\n",
+            "displayNumber": "14."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2018-03-19T14:02:47.931461",
+          "max_score": null,
+          "groupping": null,
+          "id": 104508,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 37,
+              "text": "The painting should have been placed in another space in the museum\n",
+              "parent": "a59d1c11-4852-4e7e-abeb-b5eef68b2c06",
+              "choices": []
+            },
+            {
+              "id": 38,
+              "text": "All the paintings on display deserve to be optimally repositioned\n",
+              "parent": "a59d1c11-4852-4e7e-abeb-b5eef68b2c06",
+              "choices": []
+            },
+            {
+              "id": 39,
+              "text": "Some contenders may surpass the painting in quality\n",
+              "parent": "a59d1c11-4852-4e7e-abeb-b5eef68b2c06",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "a59d1c11-4852-4e7e-abeb-b5eef68b2c06",
+          "order_number": 17,
+          "multipart": true,
+          "created_at": "2017-06-16T05:21:39.852854"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Why is the comic format primarily preferred for these types of scientific topics?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 5236,
+          "content": {
+            "text": "Why is the comic format primarily preferred for these types of scientific topics?\n",
+            "displayNumber": "8."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2018-03-19T14:02:47.933398",
+          "max_score": null,
+          "groupping": null,
+          "id": 104505,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 28,
+              "text": "To entertain the readership optimally\n",
+              "parent": "1481f279-fb7f-49fe-8292-7c6414491623",
+              "choices": []
+            },
+            {
+              "id": 29,
+              "text": "To honor natural sciences in particular\n",
+              "parent": "1481f279-fb7f-49fe-8292-7c6414491623",
+              "choices": []
+            },
+            {
+              "id": 30,
+              "text": "To make the contents easily accessible\n",
+              "parent": "1481f279-fb7f-49fe-8292-7c6414491623",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "1481f279-fb7f-49fe-8292-7c6414491623",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2017-06-16T05:21:39.84341"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What is typical of 17[SUP text=th]-century Dutch art?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 5236,
+          "content": {
+            "text": "What is typical of 17[SUP text=th]-century Dutch art?\n",
+            "displayNumber": "13."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2018-03-19T14:02:47.937687",
+          "max_score": null,
+          "groupping": null,
+          "id": 104509,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 40,
+              "text": "Quiet serenity\n",
+              "parent": "14381a6e-1540-4deb-b773-599f2dee5ffc",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 41,
+              "text": "Vivid landscapes\n",
+              "parent": "14381a6e-1540-4deb-b773-599f2dee5ffc",
+              "choices": []
+            },
+            {
+              "id": 42,
+              "text": "Striking hues of colour\n\n​\n",
+              "parent": "14381a6e-1540-4deb-b773-599f2dee5ffc",
+              "choices": []
+            }
+          ],
+          "uuid": "14381a6e-1540-4deb-b773-599f2dee5ffc",
+          "order_number": 16,
+          "multipart": true,
+          "created_at": "2017-06-16T05:21:39.855931"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What does the text say about the owners reaching their objective?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 5236,
+          "content": {
+            "text": "What does the text say about the owners reaching their objective?\n",
+            "displayNumber": "17."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2018-03-19T14:02:47.942548",
+          "max_score": null,
+          "groupping": null,
+          "id": 104511,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 46,
+              "text": "They’ve taken their time\n",
+              "parent": "c1af9155-374e-4efe-8e5e-cceae0c691d9",
+              "choices": []
+            },
+            {
+              "id": 47,
+              "text": "They are still working on it\n",
+              "parent": "c1af9155-374e-4efe-8e5e-cceae0c691d9",
+              "choices": []
+            },
+            {
+              "id": 48,
+              "text": "They made it in a relatively short time\n",
+              "parent": "c1af9155-374e-4efe-8e5e-cceae0c691d9",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "c1af9155-374e-4efe-8e5e-cceae0c691d9",
+          "order_number": 21,
+          "multipart": true,
+          "created_at": "2017-06-16T05:21:39.862078"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What are nanosatellites?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 5236,
+          "content": {
+            "text": "What are nanosatellites?\n",
+            "displayNumber": "19."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2018-03-19T14:02:47.944499",
+          "max_score": null,
+          "groupping": null,
+          "id": 104568,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 70,
+              "text": "Versatile all-terrain ground devices\n",
+              "parent": "493835d7-d757-4219-8bf7-75fa169e29b1",
+              "choices": []
+            },
+            {
+              "id": 71,
+              "text": "Completely autonomous aerial vehicles\n",
+              "parent": "493835d7-d757-4219-8bf7-75fa169e29b1",
+              "choices": []
+            },
+            {
+              "id": 72,
+              "text": "Affordable miniature vessels\n",
+              "parent": "493835d7-d757-4219-8bf7-75fa169e29b1",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "493835d7-d757-4219-8bf7-75fa169e29b1",
+          "order_number": 24,
+          "multipart": true,
+          "created_at": "2017-06-16T05:23:57.003649"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What is said about the future of the company?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 5236,
+          "content": {
+            "text": "What is said about the future of the company?\n",
+            "displayNumber": "5."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2018-03-19T14:02:47.946455",
+          "max_score": null,
+          "groupping": null,
+          "id": 104080,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 7,
+              "text": "Business will pick up slightly\n",
+              "parent": "37dbfdad-5db8-4bc2-be2e-1d1f5e58fc72",
+              "choices": []
+            },
+            {
+              "id": 8,
+              "text": "Business will continue as before\n",
+              "parent": "37dbfdad-5db8-4bc2-be2e-1d1f5e58fc72",
+              "choices": []
+            },
+            {
+              "id": 9,
+              "text": "Business will bloom\n",
+              "parent": "37dbfdad-5db8-4bc2-be2e-1d1f5e58fc72",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "37dbfdad-5db8-4bc2-be2e-1d1f5e58fc72",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2017-06-16T05:15:31.575207"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What’s “Eataly” all about?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 5236,
+          "content": {
+            "text": "What’s “Eataly” all about?\n",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2018-03-19T14:02:47.948443",
+          "max_score": null,
+          "groupping": null,
+          "id": 104078,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "text": "Italian cooking utensil trends\n",
+              "parent": "9b05878a-9b1c-47f0-87dc-d92b211a10f5",
+              "choices": []
+            },
+            {
+              "id": 2,
+              "text": "Italian food for the discerning\n",
+              "parent": "9b05878a-9b1c-47f0-87dc-d92b211a10f5",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 3,
+              "text": "Italian table etiquette popularisation\n",
+              "parent": "9b05878a-9b1c-47f0-87dc-d92b211a10f5",
+              "choices": []
+            }
+          ],
+          "uuid": "9b05878a-9b1c-47f0-87dc-d92b211a10f5",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2017-06-16T05:15:31.569628"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Opt for an alternative heading for the book reviewed:\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 5236,
+          "content": {
+            "text": "Opt for an alternative heading for the book reviewed:\n",
+            "displayNumber": "11."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2018-03-19T14:02:47.95041",
+          "max_score": null,
+          "groupping": null,
+          "id": 104502,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 19,
+              "text": "Life of a Science Celebrity\n",
+              "parent": "e63cda6b-575b-455a-aef4-e6e4dd29f5ba",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 20,
+              "text": "Physics in Traditional Riddles\n",
+              "parent": "e63cda6b-575b-455a-aef4-e6e4dd29f5ba",
+              "choices": []
+            },
+            {
+              "id": 21,
+              "text": "Space Comics Illustrated\n",
+              "parent": "e63cda6b-575b-455a-aef4-e6e4dd29f5ba",
+              "choices": []
+            }
+          ],
+          "uuid": "e63cda6b-575b-455a-aef4-e6e4dd29f5ba",
+          "order_number": 13,
+          "multipart": true,
+          "created_at": "2017-06-16T05:21:39.834042"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Does the end justify the means?** \n\nExtreme actions of environmental groups have become more and more common. Is direct resistance to environmental destruction acceptable? Write a posting to a blog _The Green Agenda._ Give your opinion and support it with facts.\n\n​\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 5236,
+          "content": {
+            "text": "**Does the end justify the means?** \n\nExtreme actions of environmental groups have become more and more common. Is direct resistance to environmental destruction acceptable? Write a posting to a blog _The Green Agenda._ Give your opinion and support it with facts.\n\n​\n",
+            "displayNumber": "4."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2018-03-19T14:02:47.952318",
+          "max_score": null,
+          "groupping": null,
+          "id": 102092,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "fe334fd6-c3f4-4110-aa4f-ca40b2fcece6",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2017-06-15T11:47:22.13863"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Why does this text start with a riddle?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 5236,
+          "content": {
+            "text": "Why does this text start with a riddle?\n",
+            "displayNumber": "18."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2018-03-19T14:02:47.954311",
+          "max_score": null,
+          "groupping": null,
+          "id": 104569,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 73,
+              "text": "To meet the demands of scientific precision\n",
+              "parent": "485c3cb6-c3ab-4f6d-bfcd-7fabba24a1ff",
+              "choices": []
+            },
+            {
+              "id": 74,
+              "text": "To introduce the writer’s main idea\n",
+              "parent": "485c3cb6-c3ab-4f6d-bfcd-7fabba24a1ff",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 75,
+              "text": "To pass the author off as an intellectual\n",
+              "parent": "485c3cb6-c3ab-4f6d-bfcd-7fabba24a1ff",
+              "choices": []
+            }
+          ],
+          "uuid": "485c3cb6-c3ab-4f6d-bfcd-7fabba24a1ff",
+          "order_number": 23,
+          "multipart": true,
+          "created_at": "2017-06-16T05:23:57.00614"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Why does Dr King mainly do this research on nanosatellites?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 5236,
+          "content": {
+            "text": "Why does Dr King mainly do this research on nanosatellites?\n",
+            "displayNumber": "20."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2018-03-19T14:02:47.956544",
+          "max_score": null,
+          "groupping": null,
+          "id": 104567,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 67,
+              "text": "To extend their usability\n",
+              "parent": "19be0777-4d90-4e3e-b924-749114a4bf97",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 68,
+              "text": "To make them inexpensive\n",
+              "parent": "19be0777-4d90-4e3e-b924-749114a4bf97",
+              "choices": []
+            },
+            {
+              "id": 69,
+              "text": "To derail their development\n",
+              "parent": "19be0777-4d90-4e3e-b924-749114a4bf97",
+              "choices": []
+            }
+          ],
+          "uuid": "19be0777-4d90-4e3e-b924-749114a4bf97",
+          "order_number": 25,
+          "multipart": true,
+          "created_at": "2017-06-16T05:23:57.000993"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What is said to be typical of the most famous physicists?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 5236,
+          "content": {
+            "text": "What is said to be typical of the most famous physicists?\n",
+            "displayNumber": "7."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2018-03-19T14:02:47.958511",
+          "max_score": null,
+          "groupping": null,
+          "id": 104506,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 31,
+              "text": "They are household names\n",
+              "parent": "ca047bbd-4118-40eb-b4a1-d1469dfa7aa1",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 32,
+              "text": "They become infamous\n",
+              "parent": "ca047bbd-4118-40eb-b4a1-d1469dfa7aa1",
+              "choices": []
+            },
+            {
+              "id": 33,
+              "text": "They tend to be egoistic\n",
+              "parent": "ca047bbd-4118-40eb-b4a1-d1469dfa7aa1",
+              "choices": []
+            }
+          ],
+          "uuid": "ca047bbd-4118-40eb-b4a1-d1469dfa7aa1",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2017-06-16T05:21:39.84676"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**1.1b Nightstand: A Book Review**\n\n​\n\nDespite its somewhat esoteric nature, physics has produced a number of rock stars – luminaries in the field who are known by each and every one, even if most people couldn’t explain why exactly they are famous. One sure sign that someone has made it is to have his or her life story told in comic book form. This is not just an ego trip. For the lay reader, this format can help bridge the gap between recognizing a researcher’s name and gaining a basic understanding of the science behind it; for the scientist’s fans, it can provide a fun biographical romp. Stephen Hawking has made numerous television appearances, even delivering self-deprecating, anything but arrogant and bold comments on sitcoms, but now his legacy has been ensured with a comic of his own, _Stephen Hawking: Riddles of Time and Space_, written by Michael Lent and Brian McCarthy with art by Zach Bassett. This 24-page volume couldn’t possibly delve into all the intricacies of Hawking’s findings, but it skims the surface effectively, often using striking metaphorical imagery to hint at the bigger story. It also cleverly captures Hawking’s humor. As readers watch Hawking’s transition from a healthy and cocky student, too smart to really apply himself, to the iconic disabled figure who gained drive and focus from the limits imposed by illness, the comic is able to put a human face on a great mind while highlighting what it is about Hawking’s theories that made them so revolutionary. [CITE source=American Scientist, Volume 101, 2013]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 5236,
+          "content": {
+            "text": "**1.1b Nightstand: A Book Review**\n\n​\n\nDespite its somewhat esoteric nature, physics has produced a number of rock stars – luminaries in the field who are known by each and every one, even if most people couldn’t explain why exactly they are famous. One sure sign that someone has made it is to have his or her life story told in comic book form. This is not just an ego trip. For the lay reader, this format can help bridge the gap between recognizing a researcher’s name and gaining a basic understanding of the science behind it; for the scientist’s fans, it can provide a fun biographical romp. Stephen Hawking has made numerous television appearances, even delivering self-deprecating, anything but arrogant and bold comments on sitcoms, but now his legacy has been ensured with a comic of his own, _Stephen Hawking: Riddles of Time and Space_, written by Michael Lent and Brian McCarthy with art by Zach Bassett. This 24-page volume couldn’t possibly delve into all the intricacies of Hawking’s findings, but it skims the surface effectively, often using striking metaphorical imagery to hint at the bigger story. It also cleverly captures Hawking’s humor. As readers watch Hawking’s transition from a healthy and cocky student, too smart to really apply himself, to the iconic disabled figure who gained drive and focus from the limits imposed by illness, the comic is able to put a human face on a great mind while highlighting what it is about Hawking’s theories that made them so revolutionary. [CITE source=American Scientist, Volume 101, 2013]\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2018-03-19T14:02:47.96303",
+          "max_score": null,
+          "groupping": null,
+          "id": 103764,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "986991ad-fe7d-42c1-b083-f36b4ae9253e",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2017-06-16T05:11:31.410557"
+        }
+      ],
+      "name": "Englanti pitkä oppimäärä kevät 2015",
+      "settings": {},
+      "exam_type": "yo-koe",
+      "classification": {
+        "category": "written",
+        "hide_review_buttons": null,
+        "exam_type": "yo-koe",
+        "year": "2015",
+        "language": "fi-FI",
+        "show_exam_series": null,
+        "force_yletunnus": false,
+        "subject": "englanti-pitkä",
+        "published": true,
+        "semester": "spring"
+      },
+      "published_at": "2017-06-15T11:40:33.005Z",
+      "language": "fi-FI",
+      "id": 5236,
+      "reviews": [],
+      "is_open": true,
+      "uuid": "136907f7-3b40-419a-a867-ed24a743702c"
+    }
+  ]
+}

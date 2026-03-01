@@ -1,0 +1,2881 @@
+{
+  "meta": {
+    "count": 1
+  },
+  "data": [
+    {
+      "tags": [
+        ""
+      ],
+      "main_text": "​\n",
+      "characters": null,
+      "deleted_at": null,
+      "series_uuids": [],
+      "questions": [
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**3 PRODUCTION**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 9427,
+          "content": {
+            "text": "**3 PRODUCTION**\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2019-11-20T12:31:23.243577",
+          "max_score": null,
+          "groupping": null,
+          "id": 251306,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "27a62a4c-a2e4-4a45-849e-a5d02c86146a",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2017-06-22T11:04:16.773796"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**2 GRAMMAR AND VOCABULARY**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 9427,
+          "content": {
+            "text": "**2 GRAMMAR AND VOCABULARY**\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2019-11-20T12:31:23.245774",
+          "max_score": null,
+          "groupping": null,
+          "id": 251305,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "20e4215b-9dad-48fc-8f81-d8607e3b8ebf",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2017-06-22T11:04:16.7712"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": null,
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 9427,
+          "content": {
+            "questionType": "writing"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "fc45d9b6-e42f-4e3d-95e9-2438389048ec",
+            "55122071-c240-4fa6-a4f8-c74e94acb019",
+            "3bdd5634-25a5-4818-bfb1-379a6d7ce77a",
+            "7af43274-181b-453b-889a-2c710653bca6"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2019-11-20T12:31:23.247826",
+          "max_score": null,
+          "groupping": null,
+          "id": 251307,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "41beb5ff-fdf7-47a1-8aae-8145f6c5babb",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2017-06-22T11:04:16.77636"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What is Max Barclay’s job?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 9427,
+          "content": {
+            "text": "What is Max Barclay’s job?\n",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2019-11-20T12:31:23.252619",
+          "max_score": 2,
+          "groupping": null,
+          "id": 251313,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 73,
+              "text": "He travels around the world to see insect collections",
+              "parent": "05293328-320d-4ccd-960c-06f8fe706933",
+              "choices": []
+            },
+            {
+              "id": 74,
+              "text": "He looks for items for his museum",
+              "parent": "05293328-320d-4ccd-960c-06f8fe706933",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 75,
+              "text": "He is the main director of the Natural History Museum",
+              "parent": "05293328-320d-4ccd-960c-06f8fe706933",
+              "choices": []
+            }
+          ],
+          "uuid": "05293328-320d-4ccd-960c-06f8fe706933",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2017-06-22T11:04:16.79463"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What makes hedgehogs special for many Americans?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 9427,
+          "content": {
+            "text": "What makes hedgehogs special for many Americans?\n",
+            "displayNumber": "19."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2019-11-20T12:31:23.262282",
+          "max_score": 2,
+          "groupping": null,
+          "id": 251320,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 19,
+              "text": "They have different kinds of bugs",
+              "parent": "04d8eaf8-68f8-4e09-bb7c-cbee434bb9ec",
+              "choices": []
+            },
+            {
+              "id": 20,
+              "text": "They sleep through the winter",
+              "parent": "04d8eaf8-68f8-4e09-bb7c-cbee434bb9ec",
+              "choices": []
+            },
+            {
+              "id": 21,
+              "text": "They afford pleasure to many",
+              "parent": "04d8eaf8-68f8-4e09-bb7c-cbee434bb9ec",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "04d8eaf8-68f8-4e09-bb7c-cbee434bb9ec",
+          "order_number": 22,
+          "multipart": true,
+          "created_at": "2017-06-22T11:04:16.813439"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What does Barclay think are the possible reasons for new species in Britain?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 9427,
+          "content": {
+            "text": "What does Barclay think are the possible reasons for new species in Britain?\n",
+            "displayNumber": "8."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2019-11-20T12:31:23.267053",
+          "max_score": 2,
+          "groupping": null,
+          "id": 251331,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 52,
+              "text": "Global warming and traveling",
+              "parent": "d72e3fa0-29ee-4808-b8e4-971471e14bfa",
+              "choices": []
+            },
+            {
+              "id": 53,
+              "text": "European Union inhabitants and climatic change",
+              "parent": "d72e3fa0-29ee-4808-b8e4-971471e14bfa",
+              "choices": []
+            },
+            {
+              "id": 54,
+              "text": "Freer trade and warmer climate",
+              "parent": "d72e3fa0-29ee-4808-b8e4-971471e14bfa",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "d72e3fa0-29ee-4808-b8e4-971471e14bfa",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2017-06-22T11:04:16.842924"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What challenge do entomologists still face?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 9427,
+          "content": {
+            "text": "What challenge do entomologists still face?\n",
+            "displayNumber": "9."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2019-11-20T12:31:23.269102",
+          "max_score": 2,
+          "groupping": null,
+          "id": 251330,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 49,
+              "text": "Few insects have other than Latin names",
+              "parent": "d9da2c38-6afb-43a5-aead-db05ea324093",
+              "choices": []
+            },
+            {
+              "id": 50,
+              "text": "Only a small minority of insects are known",
+              "parent": "d9da2c38-6afb-43a5-aead-db05ea324093",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 51,
+              "text": "That many insects will soon die out",
+              "parent": "d9da2c38-6afb-43a5-aead-db05ea324093",
+              "choices": []
+            }
+          ],
+          "uuid": "d9da2c38-6afb-43a5-aead-db05ea324093",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2017-06-22T11:04:16.840457"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Miksi ehdotus herättää epäilyksiä?\n",
+          "deleted_at": null,
+          "feedback": "**4 p.**\n",
+          "exam_id": 9427,
+          "content": {
+            "text": "Miksi ehdotus herättää epäilyksiä?\n",
+            "displayNumber": "d)"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2019-11-20T12:31:23.273603",
+          "max_score": null,
+          "groupping": null,
+          "id": 251341,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "1b1d1bde-0eb8-4afa-b379-b3172c43dfe7",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2017-06-22T11:04:16.874027"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**1.1b The Dumbest Generation? Don’t Be Dumb.**\n\n​\n\nReally, don’t we all know by now that finding examples of teens’ and twentysomethings’ ignorance is like shooting fish in a barrel? If you want to exercise your eye-rolling or hand-wringing muscles, take your pick. Two thirds of high-school seniors in 2006 couldn’t explain an old photo of a sign over a theater door reading COLORED ENTRANCE. In 2001, 52 percent identified Germany, Japan or Italy, not the Soviet Union, as America’s World War II ally. \n\n​\n\nLike professors shocked to encounter students who respond with a blank-eyed “huh?” to casual mentions of Pearl Harbor, and like parents appalled that their darling doesn’t know Chaucer from Chopin, Mark Bauerlein sees in such ignorance an intellectual, economic and civic disaster in the making. In his provocative new book “The Dumbest Generation: How the Digital Age Stupefies Young Americans and Jeopardizes Our Future (Or, Don’t Trust Anyone Under 30),” the professor of English offers the usual indicators, grand and slight. He gives as evidence a decline in adult literacy and a rise in geographic cluelessness.\n\n​\n\nHe is a little late to this party, of course. The old have been wringing their hands about the young’s cultural wastelands and ignorance of history at least since admirers of Sophocles and Aeschylus bemoaned the popularity of Aristophanes as leading to the end of Greek civilization as they knew it. Victorian scholars considered Dickens, that plot-loving, sentimental favorite, a lightweight compared with other authors of the time. Civilization and culture, high and low, survived it all. Can it survive a generation’s ignorance of history? For those born from 1980 to 1997, Bauerlein lamented to us, “there is no memory of the past,” just like when the Khmer Rouge said “this is day zero.” Historical memory is essential to a free people. Fair enough, but we suspect that if young people don’t know the import of old COLORED ENTRANCE signs it reflects not stupidity but a failure of the school system and of society (which is run by grown-ups) to require them to know it. Drawing on our own historical memory also compels us to note that philosopher George Santayana, too, despaired of a generation’s historical ignorance, warning that “those who cannot remember the past are condemned to repeat it.” That was in 1905.\n\n​\n\nA more fundamental problem is what Bauerlein has in mind by “dumbest.” If it means “holding the least knowledge,” then he has a case. Gen(eration) Y cares less about knowing information than knowing where to find it. A few keystrokes would easily give you an answer to any information you need. But if dumb means lacking such fundamental cognitive capacities as the ability to think critically and logically, to analyze an argument, to learn and remember, to see analogies, to distinguish fact from opinion … well, here Bauerlein is on shakier ground.\n\n​\n\nFirst, IQ scores in every country that measures them, including the United States, have been rising since the 1930s. Since the tests measure not knowledge but pure thinking capacity – what cognitive scientists call fluid intelligence, in that it can be applied to problems in any domain – then Gen Y’s ignorance of facts (or of facts that older people think are important) reflects not dumbness but choice. And who’s to say they are dumb because fewer of them than of their grandparents’ generation care who wrote the oratorio “Messiah”? Similarly, we suspect that the decline in the percentage of college freshmen who say it’s important to keep up with political affairs, from 60 percent in 1966 to 36 percent in 2005, reflects at least in part the fact that in 1966 politics in the US determined whether you were going to get drafted and shipped to Vietnam. The apathy of 2005 is more a reflection of the world outside Gen-Yers’ heads than inside. Alienation is not dumbness.\n\n​\n\nBauerlein is not the first scholar to pin the blame for a younger generation’s intellectual shortcomings on new technology (television, anyone?), in this case judging “the digital age.” But there is no empirical evidence that being immersed in instant messaging, texting, iPods, videogames and all things online impairs thinking ability. The jury is still out on whether these technologies are positive or negative for cognition. But they’re definitely changing how people’s brains process information. [CITE source=Newsweek, June 2, 2008]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 9427,
+          "content": {
+            "text": "**1.1b The Dumbest Generation? Don’t Be Dumb.**\n\n​\n\nReally, don’t we all know by now that finding examples of teens’ and twentysomethings’ ignorance is like shooting fish in a barrel? If you want to exercise your eye-rolling or hand-wringing muscles, take your pick. Two thirds of high-school seniors in 2006 couldn’t explain an old photo of a sign over a theater door reading COLORED ENTRANCE. In 2001, 52 percent identified Germany, Japan or Italy, not the Soviet Union, as America’s World War II ally. \n\n​\n\nLike professors shocked to encounter students who respond with a blank-eyed “huh?” to casual mentions of Pearl Harbor, and like parents appalled that their darling doesn’t know Chaucer from Chopin, Mark Bauerlein sees in such ignorance an intellectual, economic and civic disaster in the making. In his provocative new book “The Dumbest Generation: How the Digital Age Stupefies Young Americans and Jeopardizes Our Future (Or, Don’t Trust Anyone Under 30),” the professor of English offers the usual indicators, grand and slight. He gives as evidence a decline in adult literacy and a rise in geographic cluelessness.\n\n​\n\nHe is a little late to this party, of course. The old have been wringing their hands about the young’s cultural wastelands and ignorance of history at least since admirers of Sophocles and Aeschylus bemoaned the popularity of Aristophanes as leading to the end of Greek civilization as they knew it. Victorian scholars considered Dickens, that plot-loving, sentimental favorite, a lightweight compared with other authors of the time. Civilization and culture, high and low, survived it all. Can it survive a generation’s ignorance of history? For those born from 1980 to 1997, Bauerlein lamented to us, “there is no memory of the past,” just like when the Khmer Rouge said “this is day zero.” Historical memory is essential to a free people. Fair enough, but we suspect that if young people don’t know the import of old COLORED ENTRANCE signs it reflects not stupidity but a failure of the school system and of society (which is run by grown-ups) to require them to know it. Drawing on our own historical memory also compels us to note that philosopher George Santayana, too, despaired of a generation’s historical ignorance, warning that “those who cannot remember the past are condemned to repeat it.” That was in 1905.\n\n​\n\nA more fundamental problem is what Bauerlein has in mind by “dumbest.” If it means “holding the least knowledge,” then he has a case. Gen(eration) Y cares less about knowing information than knowing where to find it. A few keystrokes would easily give you an answer to any information you need. But if dumb means lacking such fundamental cognitive capacities as the ability to think critically and logically, to analyze an argument, to learn and remember, to see analogies, to distinguish fact from opinion … well, here Bauerlein is on shakier ground.\n\n​\n\nFirst, IQ scores in every country that measures them, including the United States, have been rising since the 1930s. Since the tests measure not knowledge but pure thinking capacity – what cognitive scientists call fluid intelligence, in that it can be applied to problems in any domain – then Gen Y’s ignorance of facts (or of facts that older people think are important) reflects not dumbness but choice. And who’s to say they are dumb because fewer of them than of their grandparents’ generation care who wrote the oratorio “Messiah”? Similarly, we suspect that the decline in the percentage of college freshmen who say it’s important to keep up with political affairs, from 60 percent in 1966 to 36 percent in 2005, reflects at least in part the fact that in 1966 politics in the US determined whether you were going to get drafted and shipped to Vietnam. The apathy of 2005 is more a reflection of the world outside Gen-Yers’ heads than inside. Alienation is not dumbness.\n\n​\n\nBauerlein is not the first scholar to pin the blame for a younger generation’s intellectual shortcomings on new technology (television, anyone?), in this case judging “the digital age.” But there is no empirical evidence that being immersed in instant messaging, texting, iPods, videogames and all things online impairs thinking ability. The jury is still out on whether these technologies are positive or negative for cognition. But they’re definitely changing how people’s brains process information. [CITE source=Newsweek, June 2, 2008]\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2019-11-20T12:31:23.275897",
+          "max_score": null,
+          "groupping": null,
+          "id": 251337,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "33e84d73-3444-45a8-a210-4b39fdbd81da",
+          "order_number": 11,
+          "multipart": true,
+          "created_at": "2017-06-22T11:04:16.863501"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**1.1d Call of the Wild. The Howling Miller**\n\n​\n\nAnyone familiar with the films of Ingmar Bergman or the writing of Halldor Laxness knows that grim hilarity is the stock in trade of many a 20th-century Nordic artist. Maybe a little black humor enables a person to better endure the harsh climate and rugged terrain.\n\n​\n\nA case could certainly be made after reading the Finnish writer Arto Paasilinna’s novel, which takes place in post-World War II Lapland. The protagonist, Gunnar Huttunen, arrives one day at a sleepy, woodsy canton in the province and quickly sets up a shingling service run out of a decrepit mill. (Huttunen’s scruffy mien mirrors Lapland’s real-life heraldic symbol: a bearded, shirtless man holding a club across his shoulders.) His provenance is under suspicion, and he has a tendency to howl during his periodic “attacks of depression,” but he’s remarkably handy and industrious. “He’s crazy, but he splits good tiles and they’re reasonably priced,” the local farmers conclude. (The author himself bears a workaday resemblance to Huttunen: his publishers identify him as “by turns a woodcutter, agricultural laborer, journalist and poet” – and, no slouch himself, he’s written more than 20 novels.)\n\n​\n\nThe narrative, with its episodic chapters and fablelike tone, follows Huttunen’s interactions with an amused eye. Prescribed a potent drug to cure his howling, Huttunen impetuously downs a handful of pills and goes on a midnight rampage through his neighbors’ properties. He is shipped off to a mental hospital in the nearby city of Oulu and declared a manic-depressive.\n\n​\n\nPaasilinna describes the frenetic inner workings of his characters’ minds with an expert touch. In one finely wrought passage, Huttunen’s female friend, Sanelma, imagines having Huttunen’s baby: “He’d be at least three foot at birth. No one would dare breast-feed him, this deranged cherub fathered by a lunatic. He wouldn’t burble away like an ordinary newborn, but would howl like his father. Or whine at least. Normal children’s clothes wouldn’t fit him; she’d have to sew him sailor trousers to wear in his cot. He’d grow a beard by the time he was 5.” It is Paasilinna’s gift in this gem of a novel to wring humor from the most desperate of circumstances. [CITE source=The New York Times, December 28, 2008]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 9427,
+          "content": {
+            "text": "**1.1d Call of the Wild. The Howling Miller**\n\n​\n\nAnyone familiar with the films of Ingmar Bergman or the writing of Halldor Laxness knows that grim hilarity is the stock in trade of many a 20th-century Nordic artist. Maybe a little black humor enables a person to better endure the harsh climate and rugged terrain.\n\n​\n\nA case could certainly be made after reading the Finnish writer Arto Paasilinna’s novel, which takes place in post-World War II Lapland. The protagonist, Gunnar Huttunen, arrives one day at a sleepy, woodsy canton in the province and quickly sets up a shingling service run out of a decrepit mill. (Huttunen’s scruffy mien mirrors Lapland’s real-life heraldic symbol: a bearded, shirtless man holding a club across his shoulders.) His provenance is under suspicion, and he has a tendency to howl during his periodic “attacks of depression,” but he’s remarkably handy and industrious. “He’s crazy, but he splits good tiles and they’re reasonably priced,” the local farmers conclude. (The author himself bears a workaday resemblance to Huttunen: his publishers identify him as “by turns a woodcutter, agricultural laborer, journalist and poet” – and, no slouch himself, he’s written more than 20 novels.)\n\n​\n\nThe narrative, with its episodic chapters and fablelike tone, follows Huttunen’s interactions with an amused eye. Prescribed a potent drug to cure his howling, Huttunen impetuously downs a handful of pills and goes on a midnight rampage through his neighbors’ properties. He is shipped off to a mental hospital in the nearby city of Oulu and declared a manic-depressive.\n\n​\n\nPaasilinna describes the frenetic inner workings of his characters’ minds with an expert touch. In one finely wrought passage, Huttunen’s female friend, Sanelma, imagines having Huttunen’s baby: “He’d be at least three foot at birth. No one would dare breast-feed him, this deranged cherub fathered by a lunatic. He wouldn’t burble away like an ordinary newborn, but would howl like his father. Or whine at least. Normal children’s clothes wouldn’t fit him; she’d have to sew him sailor trousers to wear in his cot. He’d grow a beard by the time he was 5.” It is Paasilinna’s gift in this gem of a novel to wring humor from the most desperate of circumstances. [CITE source=The New York Times, December 28, 2008]\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2019-11-20T12:31:23.279313",
+          "max_score": null,
+          "groupping": null,
+          "id": 251338,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "d80c3bb2-f637-4eb0-ab0e-ddb68f7e8a51",
+          "order_number": 24,
+          "multipart": true,
+          "created_at": "2017-06-22T11:04:16.866122"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**1.1a A scientific detective story** \n\n​\n\nAs collections manager at London’s Natural History Museum, Max Barclay has traveled the world in search of rare and previously undiscovered insects. So when his 5-year-old son took a break from a picnic lunch last March in the museum’s garden and returned with an insect in his hand, Barclay could not have guessed that his question – “Daddy, what’s this?” – would lead to a global detective hunt that has so far baffled Barclay and the world’s other entomologists. \n\n​\n\nDespite working with an insect collection of more than 28 million specimens, Barclay and his colleagues have been unable to identify the almond-shaped critter, about the size of a grain of rice, which has in the past year made itself at home in the sycamore trees on the 19th century museum’s grounds in central London. “My field work has taken me all over the world – to Thailand, Bolivia, Peru. So I was surprised to be confronted by an unidentifiable species while having a sandwich in the museum’s garden,” Barclay says. \n\n​\n\nWithin three months of the discovery, the insect had become the most common species in the garden and was spotted in other central London parks, sending Barclay on a worldwide hunt to identify it. Correspondence with colleagues around Europe led Barclay to discover that the insect, which resembles the common North American box elder bug, is actually most closely related to Arocatus roeselii, a relatively rare species of seed eaters usually found in central Europe. But those bugs are associated with alder trees rather than sycamores. An insect specimen found in Nice, France, which is now in the collection at the National Museum in Prague, turned out to be the same as the mysterious London bug. But that specimen had been misidentified as Arocatus roeselii. “There are two possible explanations,” says Barclay. “One is that the bug is roeselii, and by switching to feed on the sycamores, it has suddenly become more abundant, successful and invasive. The other is that the insect in our grounds may not be roeselii at all.” \n\n​\n\nIn recent years, several foreign insects, spiders and beetles have been discovered in Britain, a trend many attribute to the ability of such species to survive winters warmed by climate change. In 2005 Edinburgh Zoo issued a public notice after several panicked Scots reported seeing a spider called a false widow, which has a disconcerting behavior of rushing toward people who approach it. The spider turned out to be quite common – in the Canary Islands. \n\n​\n\nBarclay is not convinced that climate change is responsible for Britain’s new inhabitants. European integration may be the cause. “It’s very difficult to judge,” Barclay says, “because the period of time we have seen global warming potentially influencing the insect fauna is almost exactly the same period of time since the European Union opened up its trade barriers between member states. So in the past decade and a half, we’ve been importing a lot more from Italy and Spain and Southern France, and we’ve had this climatic change – so we have two potential causes.” Whatever the reason for the appearance of the new bug in London, Barclay says its spread is harmless. But he concedes, “It does show what’s possible if more damaging species invade.” \n\n​\n\nThe struggle to identify the museum insect displays not only the mystery of nature but also the fickleness that surrounds the science of taxonomy. Figuring out which insects are which can be fiendishly difficult; some scientists estimate that we have managed to identify only 10% of the insect world so far. The rest, like Barclay’s almondshaped mystery bug, are perfectly happy to crawl along without any christening or approval from their gargantuan neighbors. But that won’t stop scientists like Barclay from trying to give his new chums a proper name – that is to say, a Latin one. For Barclay, the question asked by his son last March amounts to a calling he still feels compelled to answer. [CITE source=Time, July 17, 2008]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 9427,
+          "content": {
+            "text": "**1.1a A scientific detective story** \n\n​\n\nAs collections manager at London’s Natural History Museum, Max Barclay has traveled the world in search of rare and previously undiscovered insects. So when his 5-year-old son took a break from a picnic lunch last March in the museum’s garden and returned with an insect in his hand, Barclay could not have guessed that his question – “Daddy, what’s this?” – would lead to a global detective hunt that has so far baffled Barclay and the world’s other entomologists. \n\n​\n\nDespite working with an insect collection of more than 28 million specimens, Barclay and his colleagues have been unable to identify the almond-shaped critter, about the size of a grain of rice, which has in the past year made itself at home in the sycamore trees on the 19th century museum’s grounds in central London. “My field work has taken me all over the world – to Thailand, Bolivia, Peru. So I was surprised to be confronted by an unidentifiable species while having a sandwich in the museum’s garden,” Barclay says. \n\n​\n\nWithin three months of the discovery, the insect had become the most common species in the garden and was spotted in other central London parks, sending Barclay on a worldwide hunt to identify it. Correspondence with colleagues around Europe led Barclay to discover that the insect, which resembles the common North American box elder bug, is actually most closely related to Arocatus roeselii, a relatively rare species of seed eaters usually found in central Europe. But those bugs are associated with alder trees rather than sycamores. An insect specimen found in Nice, France, which is now in the collection at the National Museum in Prague, turned out to be the same as the mysterious London bug. But that specimen had been misidentified as Arocatus roeselii. “There are two possible explanations,” says Barclay. “One is that the bug is roeselii, and by switching to feed on the sycamores, it has suddenly become more abundant, successful and invasive. The other is that the insect in our grounds may not be roeselii at all.” \n\n​\n\nIn recent years, several foreign insects, spiders and beetles have been discovered in Britain, a trend many attribute to the ability of such species to survive winters warmed by climate change. In 2005 Edinburgh Zoo issued a public notice after several panicked Scots reported seeing a spider called a false widow, which has a disconcerting behavior of rushing toward people who approach it. The spider turned out to be quite common – in the Canary Islands. \n\n​\n\nBarclay is not convinced that climate change is responsible for Britain’s new inhabitants. European integration may be the cause. “It’s very difficult to judge,” Barclay says, “because the period of time we have seen global warming potentially influencing the insect fauna is almost exactly the same period of time since the European Union opened up its trade barriers between member states. So in the past decade and a half, we’ve been importing a lot more from Italy and Spain and Southern France, and we’ve had this climatic change – so we have two potential causes.” Whatever the reason for the appearance of the new bug in London, Barclay says its spread is harmless. But he concedes, “It does show what’s possible if more damaging species invade.” \n\n​\n\nThe struggle to identify the museum insect displays not only the mystery of nature but also the fickleness that surrounds the science of taxonomy. Figuring out which insects are which can be fiendishly difficult; some scientists estimate that we have managed to identify only 10% of the insect world so far. The rest, like Barclay’s almondshaped mystery bug, are perfectly happy to crawl along without any christening or approval from their gargantuan neighbors. But that won’t stop scientists like Barclay from trying to give his new chums a proper name – that is to say, a Latin one. For Barclay, the question asked by his son last March amounts to a calling he still feels compelled to answer. [CITE source=Time, July 17, 2008]\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2019-11-20T12:31:23.281982",
+          "max_score": null,
+          "groupping": null,
+          "id": 251340,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "09122d22-0348-465f-8210-5ee478cc58fb",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-06-22T11:04:16.871539"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Miten pitkälle tuotteen kehittelyssä on päästy?\n",
+          "deleted_at": null,
+          "feedback": "**4 p.**\n",
+          "exam_id": 9427,
+          "content": {
+            "text": "Miten pitkälle tuotteen kehittelyssä on päästy?\n",
+            "displayNumber": "b)"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2019-11-20T12:31:23.284814",
+          "max_score": null,
+          "groupping": null,
+          "id": 251343,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "c271b802-45cc-4b83-8156-7830997f69ba",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2017-06-22T11:04:16.879477"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mitä Solazyme valmistaa levistä ja miten?\n",
+          "deleted_at": null,
+          "feedback": "**4 p.**\n",
+          "exam_id": 9427,
+          "content": {
+            "text": "Mitä Solazyme valmistaa levistä ja miten?\n",
+            "displayNumber": "a)"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2019-11-20T12:31:23.287435",
+          "max_score": null,
+          "groupping": null,
+          "id": 251344,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "b328ac8a-5df9-44f1-9019-dfaee4fedf10",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2017-06-22T11:04:16.883206"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mitä Despommier teetti opiskelijoillaan?\n",
+          "deleted_at": null,
+          "feedback": "**4 p.**\n",
+          "exam_id": 9427,
+          "content": {
+            "text": "Mitä Despommier teetti opiskelijoillaan?\n",
+            "displayNumber": "e)"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2019-11-20T12:31:23.2896",
+          "max_score": null,
+          "groupping": null,
+          "id": 251345,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "7174f9bb-78b5-4b85-acda-1d40d35101f7",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2017-06-22T11:04:16.885657"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**1 READING COMPREHENSION**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 9427,
+          "content": {
+            "text": "**1 READING COMPREHENSION**\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2019-11-20T12:31:23.294178",
+          "max_score": null,
+          "groupping": null,
+          "id": 251304,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "c07036df-6323-4dcf-b547-85cba2b6722d",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-06-22T11:04:16.768284"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What did Barclay’s son do?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 9427,
+          "content": {
+            "text": "What did Barclay’s son do?\n",
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2019-11-20T12:31:23.296304",
+          "max_score": 2,
+          "groupping": null,
+          "id": 251314,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 70,
+              "text": "He ran away from the museum garden",
+              "parent": "6e13fd3e-3976-44d5-a4eb-267f7bbe9ce1",
+              "choices": []
+            },
+            {
+              "id": 71,
+              "text": "He dismayed the world’s entomologists",
+              "parent": "6e13fd3e-3976-44d5-a4eb-267f7bbe9ce1",
+              "choices": []
+            },
+            {
+              "id": 72,
+              "text": "He found something interesting",
+              "parent": "6e13fd3e-3976-44d5-a4eb-267f7bbe9ce1",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "6e13fd3e-3976-44d5-a4eb-267f7bbe9ce1",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2017-06-22T11:04:16.79732"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Why is Buttercup famous?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 9427,
+          "content": {
+            "text": "Why is Buttercup famous?\n",
+            "displayNumber": "20."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2019-11-20T12:31:23.303888",
+          "max_score": 2,
+          "groupping": null,
+          "id": 251319,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 16,
+              "text": "She worked for Gerald Ford",
+              "parent": "35e66e1c-5171-4d14-80e7-df5f2f00b6bc",
+              "choices": []
+            },
+            {
+              "id": 17,
+              "text": "She excelled in sports",
+              "parent": "35e66e1c-5171-4d14-80e7-df5f2f00b6bc",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 18,
+              "text": "She helped to solve war crimes",
+              "parent": "35e66e1c-5171-4d14-80e7-df5f2f00b6bc",
+              "choices": []
+            }
+          ],
+          "uuid": "35e66e1c-5171-4d14-80e7-df5f2f00b6bc",
+          "order_number": 23,
+          "multipart": true,
+          "created_at": "2017-06-22T11:04:16.810832"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Why had some Scots panicked?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 9427,
+          "content": {
+            "text": "Why had some Scots panicked?\n",
+            "displayNumber": "7."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2019-11-20T12:31:23.306115",
+          "max_score": 2,
+          "groupping": null,
+          "id": 251332,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 55,
+              "text": "They had spotted a poisonous spider in Edinburgh Zoo",
+              "parent": "bf1caf98-f996-4abb-b982-736cd61596a6",
+              "choices": []
+            },
+            {
+              "id": 56,
+              "text": "They had been scared by a threatening spider",
+              "parent": "bf1caf98-f996-4abb-b982-736cd61596a6",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 57,
+              "text": "They feared they had killed a rare spider",
+              "parent": "bf1caf98-f996-4abb-b982-736cd61596a6",
+              "choices": []
+            }
+          ],
+          "uuid": "bf1caf98-f996-4abb-b982-736cd61596a6",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2017-06-22T11:04:16.849386"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What created a problem for the scientists?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 9427,
+          "content": {
+            "text": "What created a problem for the scientists?\n",
+            "displayNumber": "6."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2019-11-20T12:31:23.308302",
+          "max_score": 2,
+          "groupping": null,
+          "id": 251333,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 58,
+              "text": "That the insect lived in another tree than the sycamore",
+              "parent": "d4b446ed-b43b-4314-a24d-610352c78490",
+              "choices": []
+            },
+            {
+              "id": 59,
+              "text": "That the insect defied final identification",
+              "parent": "d4b446ed-b43b-4314-a24d-610352c78490",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 60,
+              "text": "That the insect was from the American continent",
+              "parent": "d4b446ed-b43b-4314-a24d-610352c78490",
+              "choices": []
+            }
+          ],
+          "uuid": "d4b446ed-b43b-4314-a24d-610352c78490",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2017-06-22T11:04:16.851949"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What do we learn about the unknown insect?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 9427,
+          "content": {
+            "text": "What do we learn about the unknown insect?\n",
+            "displayNumber": "3."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2019-11-20T12:31:23.313313",
+          "max_score": 2,
+          "groupping": null,
+          "id": 251336,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 67,
+              "text": "Its size, shape and habitat",
+              "parent": "9aa19ab7-a243-4c3c-88f8-3a33379f068c",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 68,
+              "text": "Where it’s from and what it eats",
+              "parent": "9aa19ab7-a243-4c3c-88f8-3a33379f068c",
+              "choices": []
+            },
+            {
+              "id": 69,
+              "text": "That it had lived in London for years",
+              "parent": "9aa19ab7-a243-4c3c-88f8-3a33379f068c",
+              "choices": []
+            }
+          ],
+          "uuid": "9aa19ab7-a243-4c3c-88f8-3a33379f068c",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2017-06-22T11:04:16.860376"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Saving Private Ryan**\n\n​\n\nI have discovered a fundamental law of teaching: it is almost impossible to print off enough copies of letters for pupils [SELECT id=76] home to their parents or carers. In fact, at a conservative estimate, you need to print 8,000 copies of each letter for each pupil. That way, perhaps one or two copies would [SELECT id=77] it home.\n\n​\n\nWe had to send letters out to the Year 9s ([SELECT id=78] thirteen to fourteen) for their parents to give permission for us to show [SELECT id=79] the opening sequence from _Saving Private Ryan_ in preparation for the school visit to Normandy. After several weeks of continuous reminders we eventually got the necessary slips in, and the showings commenced.\n\n​\n\nIt is quite incredible how different classes from the same year can be. I ended up having to show the film to three out of the four groups. The first lot watched with transfixed interest, and shrieked [SELECT id=80] excitement when the US Rangers’ sharpshooter aimed his rifle and killed one of the enemy machinegunners. The second class watched with equal fascination but sat in dumbfounded silence when we finished before gradually breaking into a moving and touching reflection on what they had seen. This was [SELECT id=81] the fact that I had let the film run to the point where the priest arrives to tell Private Ryan’s mother that his three brothers [SELECT id=82] killed.\n\n​\n\nThe third class were giggly to begin with, but the giggles soon stopped. I was sitting at the back and I hadn’t noticed what effect it was having [SELECT id=83] I walked to the front just as the priest’s car drew up. I was confronted with a sea of tearsodden faces, which took me almost to the point of no return too. I packed them off five minutes early to go and ruminate in private.\n\n​\n\nActually, they were fine about it, but I wondered – should we show them this sort of thing? And the answer has to be yes, because the world they live in is a product of that age, and we are not immune to it either. One of them told me the following day that [SELECT id=84] 18-year-old brother is serving in Iraq. She only sees him twice a year and lives in continual fear of [SELECT id=85] might happen to him.\n\n​\n\n_Saving Private Ryan_’s story might be fiction and shameless emotional manipulation, but the setting and circumstances aren’t – thousands of parents received those horrible letters [SELECT id=86] 6 June 1944. Omaha Beach was bloody for a reason and with our trip looming I knew the pupils would appreciate [SELECT id=87] the enormity of the undertaking because now they have an inkling of the sacrifices made then, and still being made by families today. [CITE source=BBC History Magazine, October, 2008]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 9427,
+          "content": {
+            "text": "**Saving Private Ryan**\n\n​\n\nI have discovered a fundamental law of teaching: it is almost impossible to print off enough copies of letters for pupils [SELECT id=76] home to their parents or carers. In fact, at a conservative estimate, you need to print 8,000 copies of each letter for each pupil. That way, perhaps one or two copies would [SELECT id=77] it home.\n\n​\n\nWe had to send letters out to the Year 9s ([SELECT id=78] thirteen to fourteen) for their parents to give permission for us to show [SELECT id=79] the opening sequence from _Saving Private Ryan_ in preparation for the school visit to Normandy. After several weeks of continuous reminders we eventually got the necessary slips in, and the showings commenced.\n\n​\n\nIt is quite incredible how different classes from the same year can be. I ended up having to show the film to three out of the four groups. The first lot watched with transfixed interest, and shrieked [SELECT id=80] excitement when the US Rangers’ sharpshooter aimed his rifle and killed one of the enemy machinegunners. The second class watched with equal fascination but sat in dumbfounded silence when we finished before gradually breaking into a moving and touching reflection on what they had seen. This was [SELECT id=81] the fact that I had let the film run to the point where the priest arrives to tell Private Ryan’s mother that his three brothers [SELECT id=82] killed.\n\n​\n\nThe third class were giggly to begin with, but the giggles soon stopped. I was sitting at the back and I hadn’t noticed what effect it was having [SELECT id=83] I walked to the front just as the priest’s car drew up. I was confronted with a sea of tearsodden faces, which took me almost to the point of no return too. I packed them off five minutes early to go and ruminate in private.\n\n​\n\nActually, they were fine about it, but I wondered – should we show them this sort of thing? And the answer has to be yes, because the world they live in is a product of that age, and we are not immune to it either. One of them told me the following day that [SELECT id=84] 18-year-old brother is serving in Iraq. She only sees him twice a year and lives in continual fear of [SELECT id=85] might happen to him.\n\n​\n\n_Saving Private Ryan_’s story might be fiction and shameless emotional manipulation, but the setting and circumstances aren’t – thousands of parents received those horrible letters [SELECT id=86] 6 June 1944. Omaha Beach was bloody for a reason and with our trip looming I knew the pupils would appreciate [SELECT id=87] the enormity of the undertaking because now they have an inkling of the sacrifices made then, and still being made by families today. [CITE source=BBC History Magazine, October, 2008]\n",
+            "displayNumber": "2.1a"
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2019-11-20T12:31:23.342171",
+          "max_score": 12,
+          "groupping": null,
+          "id": 252457,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 76,
+              "parent": "1423ad91-baa0-49d1-9d29-307fc5c4cc93",
+              "choices": [
+                {
+                  "id": "ceced940-6240-4d9c-9f03-cc898bcef866",
+                  "text": "take"
+                },
+                {
+                  "id": "8e1d41f7-3fac-4201-8864-32c1247f0593",
+                  "text": "to take",
+                  "correct": true
+                },
+                {
+                  "id": "b2daed62-9d6b-4966-b035-fc77c643a7a9",
+                  "text": "taking"
+                },
+                {
+                  "id": "0be76abe-fd92-4382-bd46-6f2109f17146",
+                  "text": "taken"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 77,
+              "parent": "1423ad91-baa0-49d1-9d29-307fc5c4cc93",
+              "choices": [
+                {
+                  "id": "a7834ffd-7314-4838-9c8e-94207b533ebe",
+                  "text": "do"
+                },
+                {
+                  "id": "1a720019-9cb4-46cc-9f6c-68c4d8d6d7a7",
+                  "text": "find"
+                },
+                {
+                  "id": "3495fe59-9dc9-40a4-b6d8-2c4e824c0125",
+                  "text": "make",
+                  "correct": true
+                },
+                {
+                  "id": "fb7ee12d-6f37-42f2-87ed-70b2f95f3a7e",
+                  "text": "work"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 78,
+              "parent": "1423ad91-baa0-49d1-9d29-307fc5c4cc93",
+              "choices": [
+                {
+                  "id": "b893b45e-751d-44c0-a4a2-36e823bea1bf",
+                  "text": "age"
+                },
+                {
+                  "id": "e60c5b82-8abd-4841-8017-4a988d43d1ba",
+                  "text": "ages"
+                },
+                {
+                  "id": "2741e8f5-ab6e-416d-8e45-1af659f87705",
+                  "text": "aged",
+                  "correct": true
+                },
+                {
+                  "id": "852ab90a-307b-445c-a6b9-173a2db14a5e",
+                  "text": "aging"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 79,
+              "parent": "1423ad91-baa0-49d1-9d29-307fc5c4cc93",
+              "choices": [
+                {
+                  "id": "377dc24a-d30f-429c-b15a-80a5cb776748",
+                  "text": "to them"
+                },
+                {
+                  "id": "a24af6f5-49b9-4e61-855a-50203c15677e",
+                  "text": "for them"
+                },
+                {
+                  "id": "04d0b5a0-5997-479f-82ce-f9ceef1914d0",
+                  "text": "them",
+                  "correct": true
+                },
+                {
+                  "id": "e48d9448-08c4-43a0-b666-403e90fe1d83",
+                  "text": "those"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 80,
+              "parent": "1423ad91-baa0-49d1-9d29-307fc5c4cc93",
+              "choices": [
+                {
+                  "id": "09b14fde-0fac-4b86-b9c0-bd99e0e6f3f5",
+                  "text": "for"
+                },
+                {
+                  "id": "e1291f41-735b-4593-9637-65b6dbe90648",
+                  "text": "in"
+                },
+                {
+                  "id": "8d48ee3f-f071-49f3-8b37-dea11976f89f",
+                  "text": "of"
+                },
+                {
+                  "id": "56dd8dd6-c6a5-4995-a6f0-77f7e4ca38f8",
+                  "text": "with",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 81,
+              "parent": "1423ad91-baa0-49d1-9d29-307fc5c4cc93",
+              "choices": [
+                {
+                  "id": "c012b8d7-c139-4cdc-8bee-322798298c7d",
+                  "text": "apart"
+                },
+                {
+                  "id": "819ce72f-d601-4acf-a427-147902ab6d0c",
+                  "text": "despite",
+                  "correct": true
+                },
+                {
+                  "id": "f8a7f725-d0b6-4cf8-ab18-62a5e64b03f0",
+                  "text": "in spite"
+                },
+                {
+                  "id": "5f20dd98-e792-4155-a048-8be35adc043b",
+                  "text": "regardless"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 82,
+              "parent": "1423ad91-baa0-49d1-9d29-307fc5c4cc93",
+              "choices": [
+                {
+                  "id": "b2585b18-403a-45d1-83fa-30ef665d65ba",
+                  "text": "are"
+                },
+                {
+                  "id": "f5ad52be-3119-49ca-9747-38aa73e534a0",
+                  "text": "were"
+                },
+                {
+                  "id": "da59b878-c45c-4eab-a5ac-e5f277b7ddd4",
+                  "text": "have been"
+                },
+                {
+                  "id": "c9afeb84-3a78-44ad-9641-68998fcab995",
+                  "text": "had been",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 83,
+              "parent": "1423ad91-baa0-49d1-9d29-307fc5c4cc93",
+              "choices": [
+                {
+                  "id": "0b00a8dc-9a77-4154-8a12-ec6a6cae326f",
+                  "text": "after"
+                },
+                {
+                  "id": "d2c00517-30e6-4f66-9852-0cf85e46a34b",
+                  "text": "before"
+                },
+                {
+                  "id": "75ff1340-3021-4c47-8c19-ec09d25be25e",
+                  "text": "until",
+                  "correct": true
+                },
+                {
+                  "id": "8b0202b5-5408-474a-a967-a8c2c149e38d",
+                  "text": "when"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 84,
+              "parent": "1423ad91-baa0-49d1-9d29-307fc5c4cc93",
+              "choices": [
+                {
+                  "id": "8ec14dad-fbea-4a8d-9370-544fa3f65dbc",
+                  "text": "his"
+                },
+                {
+                  "id": "aeac5c5a-61cb-4cc2-b06a-a755c817fa4b",
+                  "text": "her",
+                  "correct": true
+                },
+                {
+                  "id": "54ff84ef-0c5c-4319-bd62-a1d3c6cb1ba0",
+                  "text": "their"
+                },
+                {
+                  "id": "7a6c00b7-49b5-4e43-b20e-e0505dc65fd9",
+                  "text": "a"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 85,
+              "parent": "1423ad91-baa0-49d1-9d29-307fc5c4cc93",
+              "choices": [
+                {
+                  "id": "829d14fc-9d6c-4856-93f6-2006b60dae18",
+                  "text": "something"
+                },
+                {
+                  "id": "7def56ac-334b-4d77-8fa5-7e98ec1843fa",
+                  "text": "that"
+                },
+                {
+                  "id": "ca39c6b8-db0f-4a36-86d1-95ba06b2acb4",
+                  "text": "what",
+                  "correct": true
+                },
+                {
+                  "id": "c02c3892-4a46-401a-9cbb-f871ad48ae0a",
+                  "text": "which"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 86,
+              "parent": "1423ad91-baa0-49d1-9d29-307fc5c4cc93",
+              "choices": [
+                {
+                  "id": "631ddddc-30e8-497c-838b-123fcd61ebbc",
+                  "text": "after",
+                  "correct": true
+                },
+                {
+                  "id": "d01c2110-f24e-43b7-a8e7-51c89278ec3c",
+                  "text": "at"
+                },
+                {
+                  "id": "7f85eca8-d038-4c68-99ca-1a645e26f63f",
+                  "text": "since"
+                },
+                {
+                  "id": "06a31aa3-3d16-4f7d-b981-aaf19780bdb2",
+                  "text": "in"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 87,
+              "parent": "1423ad91-baa0-49d1-9d29-307fc5c4cc93",
+              "choices": [
+                {
+                  "id": "a08a015b-9ace-4d1b-9cc4-150e0ec0e18a",
+                  "text": "much"
+                },
+                {
+                  "id": "54ddd019-fb7f-4f43-918e-ed57b922e510",
+                  "text": "plenty"
+                },
+                {
+                  "id": "93d06f12-bad9-4c63-b606-95767cb28bcd",
+                  "text": "more",
+                  "correct": true
+                },
+                {
+                  "id": "c547e85b-634f-4b6b-9649-2ada879a9fb5",
+                  "text": "both"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "1423ad91-baa0-49d1-9d29-307fc5c4cc93",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-06-22T11:21:57.126996"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "_Read texts 2.1a and 2.1b carefully and for each item choose the alternative that __**best**__ fits the context. _\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 9427,
+          "content": {
+            "text": "_Read texts 2.1a and 2.1b carefully and for each item choose the alternative that __**best**__ fits the context. _\n",
+            "questionType": "grammar",
+            "displayNumber": "2.1"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "1423ad91-baa0-49d1-9d29-307fc5c4cc93",
+            "4f6b221c-bf7e-4fc3-93d8-3a6babb78bc5"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2019-11-20T12:31:23.345086",
+          "max_score": null,
+          "groupping": null,
+          "id": 251308,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "2e2c3252-cb90-43c3-9a3a-953577230b35",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2017-06-22T11:04:16.780721"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Can one person change the world for the better?** \n\nWrite about one person living today who you believe will do much good for the world. Defend your view.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 9427,
+          "content": {
+            "text": "**Can one person change the world for the better?** \n\nWrite about one person living today who you believe will do much good for the world. Defend your view.\n",
+            "displayNumber": "3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2019-11-20T12:31:23.357207",
+          "max_score": null,
+          "groupping": null,
+          "id": 253007,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "55122071-c240-4fa6-a4f8-c74e94acb019",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2017-06-22T11:25:11.645207"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Why did Barclay contact colleagues worldwide?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 9427,
+          "content": {
+            "text": "Why did Barclay contact colleagues worldwide?\n",
+            "displayNumber": "4."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2019-11-20T12:31:23.363861",
+          "max_score": 2,
+          "groupping": null,
+          "id": 251335,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 64,
+              "text": "He was worried about the bug spreading fast",
+              "parent": "b0652abc-274d-4c3e-ac66-ec55b30debb7",
+              "choices": []
+            },
+            {
+              "id": 65,
+              "text": "The insect had caused much harm in London parks",
+              "parent": "b0652abc-274d-4c3e-ac66-ec55b30debb7",
+              "choices": []
+            },
+            {
+              "id": 66,
+              "text": "He wanted to know if anyone knew the insect",
+              "parent": "b0652abc-274d-4c3e-ac66-ec55b30debb7",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "b0652abc-274d-4c3e-ac66-ec55b30debb7",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2017-06-22T11:04:16.85736"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**A Letter to My Son On Election Night**\n\n​\n\nWhat does Barack Obama’s election mean to you? It means many things. When you are older, we will talk about how African-American children, like their parents and grandparents, have struggled to overcome the feeling that no matter how hard they study and work and try, there are barriers – [GAP id=106] visible, others hidden but still there – that block their way. The feeling that we can rise, but only so far. I did not want you to grow up believing that bitter remnants of the past could hold power over your future. I wanted to be able to tell you that it wasn’t true – that you could be [GAP id=107] you wanted to be. But I couldn’t quite believe it myself. Now I do.\n\n​\n\nWith Obama’s election, I can mean it when I tell you that the world is available to you. No election can wipe away racism, and bigotry will show itself to you in ways subtle and not. But it is easier today than it was yesterday to see that racism, [GAP id=108] a barrier, is now more like a hurdle. Barack Obama faced hurdles but succeeded, and you can, too. You are only four months old, but already I dream of what a great rocket scientist you’d be.\n\n​\n\nIf you do become president, it won’t be just because you [GAP id=109] the votes of people who look [GAP id=110] you. This election was such a triumph because it tested our nation’s fundamental promise of equality – and we as a nation passed. Black Americans did not elect Obama. Americans did. [GAP id=111] every African-American in the country had voted for him, it would not have been enough. He will enter [GAP id=112] White House with the support and good wishes of millions of people of all races, colors and creeds.\n\n​\n\nYet this hope of greater expectations for ourselves comes with greater expectations on ourselves. We can no longer look to blame outside forces [GAP id=113] our failures. If you want to be like Obama, you have to work and work hard. He [GAP id=114] not simply dream of being president; he summoned the discipline to get there.\n\n​\n\nI speak from experience. In eighth grade, I made a contract with myself: I was going to Yale. I worked hard in college and graduated. Along the way, there were [GAP id=115] of people who doubted me and said unkind things, and not all of them were white. Don’t let anyone mess with your mind or steer you from your goals. All of us have to defy stereotypes. Your dad is white, which means technically you are biracial – but that’s black in America. If anyone doubts your “authenticity,” you can tell them that you want to be as black as the man behind the desk in the Oval Office. [CITE source=Newsweek, November 17, 2008]\n",
+          "deleted_at": null,
+          "feedback": "Valitettavasti Abitreeneillä ei ole tämän kokeen produktiivisten tehtävien oikeita vastauksia. Pahoittelemme tästä aiheutunutta harmia!\n",
+          "exam_id": 9427,
+          "content": {
+            "text": "**A Letter to My Son On Election Night**\n\n​\n\nWhat does Barack Obama’s election mean to you? It means many things. When you are older, we will talk about how African-American children, like their parents and grandparents, have struggled to overcome the feeling that no matter how hard they study and work and try, there are barriers – [GAP id=106] visible, others hidden but still there – that block their way. The feeling that we can rise, but only so far. I did not want you to grow up believing that bitter remnants of the past could hold power over your future. I wanted to be able to tell you that it wasn’t true – that you could be [GAP id=107] you wanted to be. But I couldn’t quite believe it myself. Now I do.\n\n​\n\nWith Obama’s election, I can mean it when I tell you that the world is available to you. No election can wipe away racism, and bigotry will show itself to you in ways subtle and not. But it is easier today than it was yesterday to see that racism, [GAP id=108] a barrier, is now more like a hurdle. Barack Obama faced hurdles but succeeded, and you can, too. You are only four months old, but already I dream of what a great rocket scientist you’d be.\n\n​\n\nIf you do become president, it won’t be just because you [GAP id=109] the votes of people who look [GAP id=110] you. This election was such a triumph because it tested our nation’s fundamental promise of equality – and we as a nation passed. Black Americans did not elect Obama. Americans did. [GAP id=111] every African-American in the country had voted for him, it would not have been enough. He will enter [GAP id=112] White House with the support and good wishes of millions of people of all races, colors and creeds.\n\n​\n\nYet this hope of greater expectations for ourselves comes with greater expectations on ourselves. We can no longer look to blame outside forces [GAP id=113] our failures. If you want to be like Obama, you have to work and work hard. He [GAP id=114] not simply dream of being president; he summoned the discipline to get there.\n\n​\n\nI speak from experience. In eighth grade, I made a contract with myself: I was going to Yale. I worked hard in college and graduated. Along the way, there were [GAP id=115] of people who doubted me and said unkind things, and not all of them were white. Don’t let anyone mess with your mind or steer you from your goals. All of us have to defy stereotypes. Your dad is white, which means technically you are biracial – but that’s black in America. If anyone doubts your “authenticity,” you can tell them that you want to be as black as the man behind the desk in the Oval Office. [CITE source=Newsweek, November 17, 2008]\n"
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2019-11-20T12:31:23.366061",
+          "max_score": 10,
+          "groupping": null,
+          "id": 252767,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 106,
+              "hint": "toiset",
+              "parent": "dee1bb9c-3d0c-46e7-a979-ca692ce873e3",
+              "choices": [],
+              "correct": "-",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 107,
+              "hint": "mitä tahansa",
+              "parent": "dee1bb9c-3d0c-46e7-a979-ca692ce873e3",
+              "choices": [],
+              "correct": "-",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 108,
+              "hint": "joka ennen oli",
+              "parent": "dee1bb9c-3d0c-46e7-a979-ca692ce873e3",
+              "choices": [],
+              "correct": "-",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 109,
+              "hint": "win",
+              "parent": "dee1bb9c-3d0c-46e7-a979-ca692ce873e3",
+              "choices": [],
+              "correct": "-",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 110,
+              "parent": "dee1bb9c-3d0c-46e7-a979-ca692ce873e3",
+              "choices": [],
+              "correct": "-",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 111,
+              "hint": "Vaikka",
+              "parent": "dee1bb9c-3d0c-46e7-a979-ca692ce873e3",
+              "choices": [],
+              "correct": "-",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 112,
+              "parent": "dee1bb9c-3d0c-46e7-a979-ca692ce873e3",
+              "choices": [],
+              "correct": "-",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 113,
+              "hint": "",
+              "parent": "dee1bb9c-3d0c-46e7-a979-ca692ce873e3",
+              "choices": [],
+              "correct": "-",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 114,
+              "parent": "dee1bb9c-3d0c-46e7-a979-ca692ce873e3",
+              "choices": [],
+              "correct": "-",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 115,
+              "hint": "paljon",
+              "parent": "dee1bb9c-3d0c-46e7-a979-ca692ce873e3",
+              "choices": [],
+              "correct": "-",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "dee1bb9c-3d0c-46e7-a979-ca692ce873e3",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-06-22T11:24:16.026423"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Why are today’s young Americans less interested in politics?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 9427,
+          "content": {
+            "text": "Why are today’s young Americans less interested in politics?\n",
+            "displayNumber": "16."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2019-11-20T12:31:23.257145",
+          "max_score": 2,
+          "groupping": null,
+          "id": 251323,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 28,
+              "text": "Current politics doesn’t relate to them",
+              "parent": "a772c966-aaa6-4e24-a4db-39a111212356",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 29,
+              "text": "There’s nothing dramatic going on",
+              "parent": "a772c966-aaa6-4e24-a4db-39a111212356",
+              "choices": []
+            },
+            {
+              "id": 30,
+              "text": "They are so apathetic",
+              "parent": "a772c966-aaa6-4e24-a4db-39a111212356",
+              "choices": []
+            }
+          ],
+          "uuid": "a772c966-aaa6-4e24-a4db-39a111212356",
+          "order_number": 18,
+          "multipart": true,
+          "created_at": "2017-06-22T11:04:16.821294"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What do Mrs Tiggy-Winkle and Sonic have in common?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 9427,
+          "content": {
+            "text": "What do Mrs Tiggy-Winkle and Sonic have in common?\n",
+            "displayNumber": "18."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2019-11-20T12:31:23.259743",
+          "max_score": 2,
+          "groupping": null,
+          "id": 251321,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 22,
+              "text": "They are both fictive figures",
+              "parent": "e36db90a-a2da-435f-9ff8-de9c9025bcbc",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 23,
+              "text": "They are both loved by children",
+              "parent": "e36db90a-a2da-435f-9ff8-de9c9025bcbc",
+              "choices": []
+            },
+            {
+              "id": 24,
+              "text": "They both live in the woods",
+              "parent": "e36db90a-a2da-435f-9ff8-de9c9025bcbc",
+              "choices": []
+            }
+          ],
+          "uuid": "e36db90a-a2da-435f-9ff8-de9c9025bcbc",
+          "order_number": 21,
+          "multipart": true,
+          "created_at": "2017-06-22T11:04:16.816134"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What change has taken place in many countries over the past few decades?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 9427,
+          "content": {
+            "text": "What change has taken place in many countries over the past few decades?\n",
+            "displayNumber": "14."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2019-11-20T12:31:23.264467",
+          "max_score": 2,
+          "groupping": null,
+          "id": 251325,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 34,
+              "text": "People’s thinking abilities have improved",
+              "parent": "989eca56-a95e-4eae-aaed-da7e179b34d6",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 35,
+              "text": "People’s educational level has risen",
+              "parent": "989eca56-a95e-4eae-aaed-da7e179b34d6",
+              "choices": []
+            },
+            {
+              "id": 36,
+              "text": "The use of IQ tests has become more common\n\n​",
+              "parent": "989eca56-a95e-4eae-aaed-da7e179b34d6",
+              "choices": []
+            }
+          ],
+          "uuid": "989eca56-a95e-4eae-aaed-da7e179b34d6",
+          "order_number": 16,
+          "multipart": true,
+          "created_at": "2017-06-22T11:04:16.827572"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What is said about American high school students in the first paragraph?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 9427,
+          "content": {
+            "text": "What is said about American high school students in the first paragraph?\n",
+            "displayNumber": "10."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2019-11-20T12:31:23.271215",
+          "max_score": 2,
+          "groupping": null,
+          "id": 251329,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 46,
+              "text": "They irritate their elders by their bad manners",
+              "parent": "d3d17a3a-2535-4c42-b0aa-66316d8055f1",
+              "choices": []
+            },
+            {
+              "id": 47,
+              "text": "Many don’t have a very solid knowledge of history",
+              "parent": "d3d17a3a-2535-4c42-b0aa-66316d8055f1",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 48,
+              "text": "Many don’t have any interest in schoolwork",
+              "parent": "d3d17a3a-2535-4c42-b0aa-66316d8055f1",
+              "choices": []
+            }
+          ],
+          "uuid": "d3d17a3a-2535-4c42-b0aa-66316d8055f1",
+          "order_number": 12,
+          "multipart": true,
+          "created_at": "2017-06-22T11:04:16.837639"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "_Lue seuraavat tekstit ja vastaa niiden pohjalta_ _**lyhyesti suomeksi**_\n\n_kysymyksiin a–e._\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 9427,
+          "content": {
+            "text": "_Lue seuraavat tekstit ja vastaa niiden pohjalta_ _**lyhyesti suomeksi**_\n\n_kysymyksiin a–e._\n",
+            "questionType": "reading",
+            "displayNumber": "1.2"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "1b1d1bde-0eb8-4afa-b379-b3172c43dfe7",
+            "6736d1c8-0512-4f30-b273-30408ccb018b",
+            "c271b802-45cc-4b83-8156-7830997f69ba",
+            "b328ac8a-5df9-44f1-9019-dfaee4fedf10",
+            "7174f9bb-78b5-4b85-acda-1d40d35101f7",
+            "926f6bdf-c80d-4ee3-9d15-0f1e22539a3a",
+            "fbce2fbf-2bcf-454a-a727-733211e9647e"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2019-11-20T12:31:23.291683",
+          "max_score": null,
+          "groupping": null,
+          "id": 251310,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "56cb02f4-cb32-4276-bbb5-dc27b997843c",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2017-06-22T11:04:16.786137"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What is the local farmers’ attitude towards Huttunen?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 9427,
+          "content": {
+            "text": "What is the local farmers’ attitude towards Huttunen?\n",
+            "displayNumber": "23."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2019-11-20T12:31:23.298693",
+          "max_score": 2,
+          "groupping": null,
+          "id": 251316,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 7,
+              "text": "They appreciate his skills",
+              "parent": "bb5023da-e674-4f0d-a59e-e9b44e14ae0e",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 8,
+              "text": "They find him untrustworthy",
+              "parent": "bb5023da-e674-4f0d-a59e-e9b44e14ae0e",
+              "choices": []
+            },
+            {
+              "id": 9,
+              "text": "They think he is reasonable",
+              "parent": "bb5023da-e674-4f0d-a59e-e9b44e14ae0e",
+              "choices": []
+            }
+          ],
+          "uuid": "bb5023da-e674-4f0d-a59e-e9b44e14ae0e",
+          "order_number": 27,
+          "multipart": true,
+          "created_at": "2017-06-22T11:04:16.802646"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Why aren’t the young interested in knowing facts?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 9427,
+          "content": {
+            "text": "Why aren’t the young interested in knowing facts?\n",
+            "displayNumber": "13."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2019-11-20T12:31:23.301373",
+          "max_score": 2,
+          "groupping": null,
+          "id": 251326,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 37,
+              "text": "They are not used to holding on to knowledge",
+              "parent": "4466d36b-5451-431d-8e1e-0686a61a8049",
+              "choices": []
+            },
+            {
+              "id": 38,
+              "text": "They know that facts are easily available",
+              "parent": "4466d36b-5451-431d-8e1e-0686a61a8049",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 39,
+              "text": "They know that facts change fast",
+              "parent": "4466d36b-5451-431d-8e1e-0686a61a8049",
+              "choices": []
+            }
+          ],
+          "uuid": "4466d36b-5451-431d-8e1e-0686a61a8049",
+          "order_number": 15,
+          "multipart": true,
+          "created_at": "2017-06-22T11:04:16.83022"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What does the writer think of young people’s poor knowledge of history?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 9427,
+          "content": {
+            "text": "What does the writer think of young people’s poor knowledge of history?\n",
+            "displayNumber": "12."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2019-11-20T12:31:23.31038",
+          "max_score": 2,
+          "groupping": null,
+          "id": 251327,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 40,
+              "text": "Young Americans don’t really care about history",
+              "parent": "2aca862b-acae-4cc2-9ed8-5332c1b2e1d4",
+              "choices": []
+            },
+            {
+              "id": 41,
+              "text": "Society should take more responsibility",
+              "parent": "2aca862b-acae-4cc2-9ed8-5332c1b2e1d4",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 42,
+              "text": "There should be more history in schools",
+              "parent": "2aca862b-acae-4cc2-9ed8-5332c1b2e1d4",
+              "choices": []
+            }
+          ],
+          "uuid": "2aca862b-acae-4cc2-9ed8-5332c1b2e1d4",
+          "order_number": 14,
+          "multipart": true,
+          "created_at": "2017-06-22T11:04:16.832698"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What is new in Prof. Bauerlein’s ideas?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 9427,
+          "content": {
+            "text": "What is new in Prof. Bauerlein’s ideas?\n",
+            "displayNumber": "11."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2019-11-20T12:31:23.315413",
+          "max_score": 2,
+          "groupping": null,
+          "id": 251328,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 43,
+              "text": "He sees the young differently",
+              "parent": "6d6cf41e-047c-48b5-a781-a1d38363b44f",
+              "choices": []
+            },
+            {
+              "id": 44,
+              "text": "Nothing really, they are age-old",
+              "parent": "6d6cf41e-047c-48b5-a781-a1d38363b44f",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 45,
+              "text": "He concentrates on American youth",
+              "parent": "6d6cf41e-047c-48b5-a781-a1d38363b44f",
+              "choices": []
+            }
+          ],
+          "uuid": "6d6cf41e-047c-48b5-a781-a1d38363b44f",
+          "order_number": 13,
+          "multipart": true,
+          "created_at": "2017-06-22T11:04:16.835204"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mitä tekstissä ehdotetaan, ja millä eri tavoin tämä hyödyttäisi nimenomaan kaupunkilaisia?\n",
+          "deleted_at": null,
+          "feedback": "**4 p.**\n",
+          "exam_id": 9427,
+          "content": {
+            "text": "Mitä tekstissä ehdotetaan, ja millä eri tavoin tämä hyödyttäisi nimenomaan kaupunkilaisia?\n",
+            "displayNumber": "c)"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2019-11-20T12:31:23.317754",
+          "max_score": null,
+          "groupping": null,
+          "id": 251342,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "6736d1c8-0512-4f30-b273-30408ccb018b",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2017-06-22T11:04:16.876641"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**1.1c Prickly charmers**\n\n​\n\nAristotle believed hedgehogs could predict the weather. Arthur Schopenhauer, philosopher, used them to illustrate the challenges of human intimacy. Beatrix Potter’s character Mrs Tiggy-Winkle has enchanted children and adults alike since 1905, while Sonic, her modern-day counterpart, is one of the world’s best-known video game characters. \n\n​\n\nIn this engaging memoir _Charming Mammal_ Hugh Warwick draws on 20 years of knowledge to explain why hedgehogs have gained such iconic status. He sprinkles his book with facts: hedgehogs snooze through the winter in an aptly named hibernaculum; they have up to 7,000 spines; their fleas are species specific; North America has no native hedgehogs although thousands of imported ones are kept as pets. \n\n​\n\nMr Warwick also introduces several characters whose obsession with hedgehogs is all-encompassing. Most memorable is Zug Standing Bear, a former war-crimes investigator, one-time bodyguard to Gerald Ford and now owner of Buttercup, whose athletic prowess won her a gold medal at the International Hedgehog Olympic Games in Denver, Colorado. As they say, it takes all sorts. [CITE source=The Economist, December 30, 2008]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 9427,
+          "content": {
+            "text": "**1.1c Prickly charmers**\n\n​\n\nAristotle believed hedgehogs could predict the weather. Arthur Schopenhauer, philosopher, used them to illustrate the challenges of human intimacy. Beatrix Potter’s character Mrs Tiggy-Winkle has enchanted children and adults alike since 1905, while Sonic, her modern-day counterpart, is one of the world’s best-known video game characters. \n\n​\n\nIn this engaging memoir _Charming Mammal_ Hugh Warwick draws on 20 years of knowledge to explain why hedgehogs have gained such iconic status. He sprinkles his book with facts: hedgehogs snooze through the winter in an aptly named hibernaculum; they have up to 7,000 spines; their fleas are species specific; North America has no native hedgehogs although thousands of imported ones are kept as pets. \n\n​\n\nMr Warwick also introduces several characters whose obsession with hedgehogs is all-encompassing. Most memorable is Zug Standing Bear, a former war-crimes investigator, one-time bodyguard to Gerald Ford and now owner of Buttercup, whose athletic prowess won her a gold medal at the International Hedgehog Olympic Games in Denver, Colorado. As they say, it takes all sorts. [CITE source=The Economist, December 30, 2008]\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2019-11-20T12:31:23.320114",
+          "max_score": null,
+          "groupping": null,
+          "id": 251339,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "8b3d8444-f00e-4def-8903-8743094fb1fe",
+          "order_number": 20,
+          "multipart": true,
+          "created_at": "2017-06-22T11:04:16.868834"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What is said about Huttunen’s child?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 9427,
+          "content": {
+            "text": "What is said about Huttunen’s child?\n",
+            "displayNumber": "25."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2019-11-20T12:31:23.249943",
+          "max_score": 2,
+          "groupping": null,
+          "id": 251312,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "text": "He is much like his father",
+              "parent": "adc32999-b0ce-4ea4-a08d-c07374805804",
+              "choices": []
+            },
+            {
+              "id": 2,
+              "text": "He does not exist",
+              "parent": "adc32999-b0ce-4ea4-a08d-c07374805804",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 3,
+              "text": "He is big and strong",
+              "parent": "adc32999-b0ce-4ea4-a08d-c07374805804",
+              "choices": []
+            }
+          ],
+          "uuid": "adc32999-b0ce-4ea4-a08d-c07374805804",
+          "order_number": 29,
+          "multipart": true,
+          "created_at": "2017-06-22T11:04:16.792077"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Why is Huttunen taken to a mental hospital?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 9427,
+          "content": {
+            "text": "Why is Huttunen taken to a mental hospital?\n",
+            "displayNumber": "24."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2019-11-20T12:31:23.254779",
+          "max_score": 2,
+          "groupping": null,
+          "id": 251315,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 4,
+              "text": "He had tried to harm himself",
+              "parent": "4f7b166e-a1a5-4682-8db7-fdfcca2d85b1",
+              "choices": []
+            },
+            {
+              "id": 5,
+              "text": "He had taken strong drugs",
+              "parent": "4f7b166e-a1a5-4682-8db7-fdfcca2d85b1",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 6,
+              "text": "He had attacked his neighbors",
+              "parent": "4f7b166e-a1a5-4682-8db7-fdfcca2d85b1",
+              "choices": []
+            }
+          ],
+          "uuid": "4f7b166e-a1a5-4682-8db7-fdfcca2d85b1",
+          "order_number": 28,
+          "multipart": true,
+          "created_at": "2017-06-22T11:04:16.800155"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "_Read texts 1.1a–1.1d and then answer questions 1–25. Choose the __**best**__ alternative for each item._\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 9427,
+          "content": {
+            "text": "_Read texts 1.1a–1.1d and then answer questions 1–25. Choose the __**best**__ alternative for each item._\n",
+            "questionType": "reading",
+            "displayNumber": "1.1"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "adc32999-b0ce-4ea4-a08d-c07374805804",
+            "05293328-320d-4ccd-960c-06f8fe706933",
+            "6e13fd3e-3976-44d5-a4eb-267f7bbe9ce1",
+            "4f7b166e-a1a5-4682-8db7-fdfcca2d85b1",
+            "bb5023da-e674-4f0d-a59e-e9b44e14ae0e",
+            "b3abfd43-5cd6-4e7b-bd4c-7c9067bdbf10",
+            "1cee7472-1a53-4188-a77b-aeb7d8b1d94f",
+            "35e66e1c-5171-4d14-80e7-df5f2f00b6bc",
+            "04d8eaf8-68f8-4e09-bb7c-cbee434bb9ec",
+            "e36db90a-a2da-435f-9ff8-de9c9025bcbc",
+            "e8e4943b-e026-4923-8a84-30c445da550d",
+            "a772c966-aaa6-4e24-a4db-39a111212356",
+            "0043c344-6718-43e4-aaa8-7e3df181ff93",
+            "989eca56-a95e-4eae-aaed-da7e179b34d6",
+            "4466d36b-5451-431d-8e1e-0686a61a8049",
+            "2aca862b-acae-4cc2-9ed8-5332c1b2e1d4",
+            "6d6cf41e-047c-48b5-a781-a1d38363b44f",
+            "d3d17a3a-2535-4c42-b0aa-66316d8055f1",
+            "d9da2c38-6afb-43a5-aead-db05ea324093",
+            "d72e3fa0-29ee-4808-b8e4-971471e14bfa",
+            "bf1caf98-f996-4abb-b982-736cd61596a6",
+            "d4b446ed-b43b-4314-a24d-610352c78490",
+            "3b5ed263-31ec-4a0b-bedb-fe8c73741c43",
+            "b0652abc-274d-4c3e-ac66-ec55b30debb7",
+            "9aa19ab7-a243-4c3c-88f8-3a33379f068c",
+            "33e84d73-3444-45a8-a210-4b39fdbd81da",
+            "d80c3bb2-f637-4eb0-ab0e-ddb68f7e8a51",
+            "8b3d8444-f00e-4def-8903-8743094fb1fe",
+            "09122d22-0348-465f-8210-5ee478cc58fb"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2019-11-20T12:31:23.322845",
+          "max_score": null,
+          "groupping": null,
+          "id": 251311,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "45a91224-d6ad-4d79-9d55-a9fc43723d7c",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2017-06-22T11:04:16.789214"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Dark Horse**\n\n​\n\nThe future of biofuel may lie in one word: algae. The tiny primitive plants can produce a lot of oil in a little space. Solazyme in South San Francisco leases the vast fermentors used in industrial processes to grow specially tailored strains of algae in the dark. The algae swim in a bath of sugar water that delivers the sustenance they need to produce copious quantities of oil. The company can select different types of algae and alter the conditions they grow in to produce various oils that can be turned into diesel fuel, plastics or other products. “Some strains come from a swamp in Africa; some strains come from a high-altitude snowfield in South America,” says Harrison Dillon, a microbiologist and co-founder. \n\n​\n\nThe firm has already produced thousands of gallons of oil, though not at “commercial economics,” as Dillon puts it. Notably, the company car, a diesel Jeep, runs on the stuff. And the U.S. Military and the American Society for Testing and Materials have certified the diesel for a broad range of vehicles; the company plans to open its first dedicated production facility later this year. Dillon says refining production and scaling up processes will allow Solazyme to make algal oil a feedstock for diesel fuel that will cost only $2 per gallon. Because sunlight is not needed, improvements are easier to come by, he maintains. Solazyme may be the algae company furthest along in producing different oils at commercial volumes, which could potentially be used in everything from jets to kitchens. [CITE source=Scientific American Earth 3.0, 2008]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 9427,
+          "content": {
+            "text": "**Dark Horse**\n\n​\n\nThe future of biofuel may lie in one word: algae. The tiny primitive plants can produce a lot of oil in a little space. Solazyme in South San Francisco leases the vast fermentors used in industrial processes to grow specially tailored strains of algae in the dark. The algae swim in a bath of sugar water that delivers the sustenance they need to produce copious quantities of oil. The company can select different types of algae and alter the conditions they grow in to produce various oils that can be turned into diesel fuel, plastics or other products. “Some strains come from a swamp in Africa; some strains come from a high-altitude snowfield in South America,” says Harrison Dillon, a microbiologist and co-founder. \n\n​\n\nThe firm has already produced thousands of gallons of oil, though not at “commercial economics,” as Dillon puts it. Notably, the company car, a diesel Jeep, runs on the stuff. And the U.S. Military and the American Society for Testing and Materials have certified the diesel for a broad range of vehicles; the company plans to open its first dedicated production facility later this year. Dillon says refining production and scaling up processes will allow Solazyme to make algal oil a feedstock for diesel fuel that will cost only $2 per gallon. Because sunlight is not needed, improvements are easier to come by, he maintains. Solazyme may be the algae company furthest along in producing different oils at commercial volumes, which could potentially be used in everything from jets to kitchens. [CITE source=Scientific American Earth 3.0, 2008]\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2019-11-20T12:31:23.325356",
+          "max_score": null,
+          "groupping": null,
+          "id": 251912,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "926f6bdf-c80d-4ee3-9d15-0f1e22539a3a",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-06-22T11:10:35.34269"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What is said about the Nordic sense of humor?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 9427,
+          "content": {
+            "text": "What is said about the Nordic sense of humor?\n",
+            "displayNumber": "21."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2019-11-20T12:31:23.328189",
+          "max_score": 2,
+          "groupping": null,
+          "id": 251318,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 13,
+              "text": "It has been influenced by weather and nature",
+              "parent": "1cee7472-1a53-4188-a77b-aeb7d8b1d94f",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 14,
+              "text": "It is hard for other nations to understand",
+              "parent": "1cee7472-1a53-4188-a77b-aeb7d8b1d94f",
+              "choices": []
+            },
+            {
+              "id": 15,
+              "text": "It is hilarious and crazy",
+              "parent": "1cee7472-1a53-4188-a77b-aeb7d8b1d94f",
+              "choices": []
+            }
+          ],
+          "uuid": "1cee7472-1a53-4188-a77b-aeb7d8b1d94f",
+          "order_number": 25,
+          "multipart": true,
+          "created_at": "2017-06-22T11:04:16.808107"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What is wrong with Bauerlein’s accusation?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 9427,
+          "content": {
+            "text": "What is wrong with Bauerlein’s accusation?\n",
+            "displayNumber": "17."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2019-11-20T12:31:23.330973",
+          "max_score": 2,
+          "groupping": null,
+          "id": 251322,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 25,
+              "text": "The bad influence of new technology hasn’t been proved",
+              "parent": "e8e4943b-e026-4923-8a84-30c445da550d",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 26,
+              "text": "He doesn’t seem to know the latest technology",
+              "parent": "e8e4943b-e026-4923-8a84-30c445da550d",
+              "choices": []
+            },
+            {
+              "id": 27,
+              "text": "He gives false evidence for his arguments",
+              "parent": "e8e4943b-e026-4923-8a84-30c445da550d",
+              "choices": []
+            }
+          ],
+          "uuid": "e8e4943b-e026-4923-8a84-30c445da550d",
+          "order_number": 19,
+          "multipart": true,
+          "created_at": "2017-06-22T11:04:16.818721"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What do Huttunen and Lapland’s heraldic symbol have in common?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 9427,
+          "content": {
+            "text": "What do Huttunen and Lapland’s heraldic symbol have in common?\n",
+            "displayNumber": "22."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2019-11-20T12:31:23.333708",
+          "max_score": 2,
+          "groupping": null,
+          "id": 251317,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 10,
+              "text": "They are both old-fashioned",
+              "parent": "b3abfd43-5cd6-4e7b-bd4c-7c9067bdbf10",
+              "choices": []
+            },
+            {
+              "id": 11,
+              "text": "They look like each other",
+              "parent": "b3abfd43-5cd6-4e7b-bd4c-7c9067bdbf10",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 12,
+              "text": "They are both based on real-life figures",
+              "parent": "b3abfd43-5cd6-4e7b-bd4c-7c9067bdbf10",
+              "choices": []
+            }
+          ],
+          "uuid": "b3abfd43-5cd6-4e7b-bd4c-7c9067bdbf10",
+          "order_number": 26,
+          "multipart": true,
+          "created_at": "2017-06-22T11:04:16.805593"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Why was it important for young American males to follow politics in 1966?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 9427,
+          "content": {
+            "text": "Why was it important for young American males to follow politics in 1966?\n",
+            "displayNumber": "15."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2019-11-20T12:31:23.336031",
+          "max_score": 2,
+          "groupping": null,
+          "id": 251324,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 31,
+              "text": "There was an imminent threat of war",
+              "parent": "0043c344-6718-43e4-aaa8-7e3df181ff93",
+              "choices": []
+            },
+            {
+              "id": 32,
+              "text": "The 60s was a very turbulent political decade",
+              "parent": "0043c344-6718-43e4-aaa8-7e3df181ff93",
+              "choices": []
+            },
+            {
+              "id": 33,
+              "text": "They may have faced sudden life changes",
+              "parent": "0043c344-6718-43e4-aaa8-7e3df181ff93",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "0043c344-6718-43e4-aaa8-7e3df181ff93",
+          "order_number": 17,
+          "multipart": true,
+          "created_at": "2017-06-22T11:04:16.823957"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Stronger than steel**\n\n​\n\nFor the opening race of the Eastern U.S. collegiate cycling season, Nick Frey, [SELECT id=88] the under-23 national time-trial champion, had left his $13,000 carbonfiber team bike at home. What he brought [SELECT id=89] was an even more recent model: a racing bike he and friends had made from bamboo.\n\n​\n\nPioneers beyond the bike world are discovering that bamboo [SELECT id=90] be the most useful raw material ever to be overlooked. [SELECT id=91] a common building material in many tropical countries, it’s considered “the poor man’s timber,” and in the West it’s [SELECT id=92] decorative. As the world [SELECT id=93] green, however, bamboo’s essential qualities are beginning to win converts.\n\n​\n\nDespite its lowly reputation, bamboo may be the strongest [SELECT id=94] on the planet. It has greater tensile strength (or resistance to being pulled [SELECT id=95]) than steel, and it withstands compression better than concrete. Both qualities are essential to keeping the plant, which grows to nearly 60 meters but is only as wide at the base as the very top, from falling over. Bamboo’s strength is in its ability to bend, and that’s [SELECT id=96] miracle.\n\n​\n\nThe Western mind is also opening to bamboo’s environmental qualities. In both temperate and tropical climates, it grows as quickly and abundantly [SELECT id=97] a weed. Though most often used as an alternative to timber, bamboo is technically a type of grass. In fact, it grows faster than [SELECT id=98] other grass – in some conditions well over a meter a day. It also [SELECT id=99] considerably more oxygen from carbon dioxide than trees and more effectively binds [SELECT id=100] to prevent erosion.\n\n​\n\nBamboo is still a niche material in the United States, but it’s catching on. Smith Fong first cracked the markets in 1989 with flooring and, later, a laminated bamboo sheet called “plyboo.”\n\n​\n\nBike designer Craig Calfee says it’s only a matter of time before bamboo sweeps the bike-racing world, and he [SELECT id=101] know. Calfee pioneered the use of carbon fiber, the gold standard for elite bicycle frames since the [SELECT id=102]. Now he says bamboo may be [SELECT id=103], offering a better combination of stiffness (for power efficiency) and compliance (for vibration dampening).\n\n​\n\nFrey and three engineering students are picking up Calfee’s torch, [SELECT id=104] to refine the design and reduce the price. Riding a bamboo bike, says Frey, “is like [SELECT id=105] comfortable loafers and having the efficiency of track spikes.” It’s a technological wonder – that nature already built. [CITE source=Newsweek, Oct. 2008]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 9427,
+          "content": {
+            "text": "**Stronger than steel**\n\n​\n\nFor the opening race of the Eastern U.S. collegiate cycling season, Nick Frey, [SELECT id=88] the under-23 national time-trial champion, had left his $13,000 carbonfiber team bike at home. What he brought [SELECT id=89] was an even more recent model: a racing bike he and friends had made from bamboo.\n\n​\n\nPioneers beyond the bike world are discovering that bamboo [SELECT id=90] be the most useful raw material ever to be overlooked. [SELECT id=91] a common building material in many tropical countries, it’s considered “the poor man’s timber,” and in the West it’s [SELECT id=92] decorative. As the world [SELECT id=93] green, however, bamboo’s essential qualities are beginning to win converts.\n\n​\n\nDespite its lowly reputation, bamboo may be the strongest [SELECT id=94] on the planet. It has greater tensile strength (or resistance to being pulled [SELECT id=95]) than steel, and it withstands compression better than concrete. Both qualities are essential to keeping the plant, which grows to nearly 60 meters but is only as wide at the base as the very top, from falling over. Bamboo’s strength is in its ability to bend, and that’s [SELECT id=96] miracle.\n\n​\n\nThe Western mind is also opening to bamboo’s environmental qualities. In both temperate and tropical climates, it grows as quickly and abundantly [SELECT id=97] a weed. Though most often used as an alternative to timber, bamboo is technically a type of grass. In fact, it grows faster than [SELECT id=98] other grass – in some conditions well over a meter a day. It also [SELECT id=99] considerably more oxygen from carbon dioxide than trees and more effectively binds [SELECT id=100] to prevent erosion.\n\n​\n\nBamboo is still a niche material in the United States, but it’s catching on. Smith Fong first cracked the markets in 1989 with flooring and, later, a laminated bamboo sheet called “plyboo.”\n\n​\n\nBike designer Craig Calfee says it’s only a matter of time before bamboo sweeps the bike-racing world, and he [SELECT id=101] know. Calfee pioneered the use of carbon fiber, the gold standard for elite bicycle frames since the [SELECT id=102]. Now he says bamboo may be [SELECT id=103], offering a better combination of stiffness (for power efficiency) and compliance (for vibration dampening).\n\n​\n\nFrey and three engineering students are picking up Calfee’s torch, [SELECT id=104] to refine the design and reduce the price. Riding a bamboo bike, says Frey, “is like [SELECT id=105] comfortable loafers and having the efficiency of track spikes.” It’s a technological wonder – that nature already built. [CITE source=Newsweek, Oct. 2008]\n",
+            "displayNumber": "2.1b"
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2019-11-20T12:31:23.338646",
+          "max_score": 18,
+          "groupping": null,
+          "id": 252458,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 88,
+              "parent": "4f6b221c-bf7e-4fc3-93d8-3a6babb78bc5",
+              "choices": [
+                {
+                  "id": "60e6d7b8-af63-4fe7-a77c-5440412a5418",
+                  "text": "newly"
+                },
+                {
+                  "id": "8ea96683-aca5-4545-9661-a832c2ad1455",
+                  "text": "currently",
+                  "correct": true
+                },
+                {
+                  "id": "f53a2892-5711-464b-a056-ef856deb2f38",
+                  "text": "constantly"
+                },
+                {
+                  "id": "81662fc4-64d9-4304-b732-0ef794ae012f",
+                  "text": "lately"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 89,
+              "parent": "4f6b221c-bf7e-4fc3-93d8-3a6babb78bc5",
+              "choices": [
+                {
+                  "id": "347dc846-e9ae-41b4-89d4-6b58bbe0b288",
+                  "text": "instead",
+                  "correct": true
+                },
+                {
+                  "id": "bc32a601-3a83-477e-a736-04a2889f2408",
+                  "text": "in case"
+                },
+                {
+                  "id": "58df98c1-88b0-4d4a-9aee-f21b88d80d49",
+                  "text": "in place"
+                },
+                {
+                  "id": "6e0430b0-f3d6-4263-8010-b218d366f92c",
+                  "text": "on the spot"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 90,
+              "parent": "4f6b221c-bf7e-4fc3-93d8-3a6babb78bc5",
+              "choices": [
+                {
+                  "id": "9cadd99f-be1e-4f46-8b3f-a6b120d3e0cf",
+                  "text": "can"
+                },
+                {
+                  "id": "4a4accc0-6330-4592-b3e1-cfd3600f957b",
+                  "text": "may",
+                  "correct": true
+                },
+                {
+                  "id": "ac6d1773-7b09-451b-8d23-928aa3024332",
+                  "text": "must"
+                },
+                {
+                  "id": "12d534dd-4d42-4caf-ba2e-cfb7fa2568c4",
+                  "text": "will"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 91,
+              "parent": "4f6b221c-bf7e-4fc3-93d8-3a6babb78bc5",
+              "choices": [
+                {
+                  "id": "ffad7edd-15b3-42d2-aa73-bd13e09fae98",
+                  "text": "Yet"
+                },
+                {
+                  "id": "991f6aa6-ef23-46ff-85df-59229fc4b2f9",
+                  "text": "But"
+                },
+                {
+                  "id": "10351683-7b29-40fb-a43c-df3b1eefb220",
+                  "text": "Although",
+                  "correct": true
+                },
+                {
+                  "id": "b366eef4-ed16-404b-b154-a9652c24a26f",
+                  "text": "Even if"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 92,
+              "parent": "4f6b221c-bf7e-4fc3-93d8-3a6babb78bc5",
+              "choices": [
+                {
+                  "id": "acbec975-b8db-4104-9afb-012e9c153ae5",
+                  "text": "primary"
+                },
+                {
+                  "id": "c513bd15-0a0d-48ee-b36f-a4930a673744",
+                  "text": "mainly",
+                  "correct": true
+                },
+                {
+                  "id": "6ccfe9c3-f4ac-4ebe-99a4-912bda421369",
+                  "text": "foremost"
+                },
+                {
+                  "id": "9fd814fc-d92c-4702-967e-7d5d6df4c331",
+                  "text": "barely"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 93,
+              "parent": "4f6b221c-bf7e-4fc3-93d8-3a6babb78bc5",
+              "choices": [
+                {
+                  "id": "2b5ed546-af12-4e8c-85fc-cefaa97dd7ff",
+                  "text": "is"
+                },
+                {
+                  "id": "1d887a23-828c-4ac0-825b-5812b2f9d81c",
+                  "text": "turns"
+                },
+                {
+                  "id": "04e218dc-8705-42a4-87e6-6502c8c736b6",
+                  "text": "comes"
+                },
+                {
+                  "id": "561d7bf8-d461-494c-847d-8bcd4ce105e9",
+                  "text": "goes",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 94,
+              "parent": "4f6b221c-bf7e-4fc3-93d8-3a6babb78bc5",
+              "choices": [
+                {
+                  "id": "50f4e1f5-c5b0-490c-bc6c-57c0e7d117da",
+                  "text": "staff"
+                },
+                {
+                  "id": "937731a4-20b8-4e9e-8f3b-cc5eb7f18731",
+                  "text": "stuff",
+                  "correct": true
+                },
+                {
+                  "id": "ea152ed0-c105-44bc-908a-c5803169e7b7",
+                  "text": "matter"
+                },
+                {
+                  "id": "b16a160e-b1e8-4ea6-985d-9714ddbb17ff",
+                  "text": "constituent"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 95,
+              "parent": "4f6b221c-bf7e-4fc3-93d8-3a6babb78bc5",
+              "choices": [
+                {
+                  "id": "758770ef-b1cf-4f87-ae35-5fb95cc2774e",
+                  "text": "apart",
+                  "correct": true
+                },
+                {
+                  "id": "962cfbd2-7625-4ad0-87ea-7bfadb3866ed",
+                  "text": "off"
+                },
+                {
+                  "id": "86cc35cb-2202-4633-b31d-54486f88595d",
+                  "text": "out"
+                },
+                {
+                  "id": "5f9b8c00-4094-4116-a210-b47b0da969cb",
+                  "text": "up"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 96,
+              "parent": "4f6b221c-bf7e-4fc3-93d8-3a6babb78bc5",
+              "choices": [
+                {
+                  "id": "32845088-16e3-4155-9bd5-3afc95ad4e3c",
+                  "text": "a"
+                },
+                {
+                  "id": "7eea1db8-ea63-4995-a7fc-a9e396fdb2d5",
+                  "text": "an"
+                },
+                {
+                  "id": "6cef1675-253a-401c-9ec9-c534acabd8d3",
+                  "text": "the",
+                  "correct": true
+                },
+                {
+                  "id": "cf6130be-37ae-47dc-94fa-f64886efdd6d",
+                  "text": "-"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 97,
+              "parent": "4f6b221c-bf7e-4fc3-93d8-3a6babb78bc5",
+              "choices": [
+                {
+                  "id": "a0508749-d393-41f9-96e3-ede9792a59b9",
+                  "text": "like"
+                },
+                {
+                  "id": "66a4afd5-991f-4fe9-b709-8d00de51c8f6",
+                  "text": "as",
+                  "correct": true
+                },
+                {
+                  "id": "96956def-48c1-4523-9a28-5455b7cb06ad",
+                  "text": "than"
+                },
+                {
+                  "id": "a3453dfa-5460-4e13-9e78-3b75cdd2f3f9",
+                  "text": "so"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 98,
+              "parent": "4f6b221c-bf7e-4fc3-93d8-3a6babb78bc5",
+              "choices": [
+                {
+                  "id": "1066aaaf-feb3-462b-9554-eb962794ee0c",
+                  "text": "one"
+                },
+                {
+                  "id": "75c8a8ab-9f57-4c6a-bc21-9749d686e3a4",
+                  "text": "any",
+                  "correct": true
+                },
+                {
+                  "id": "deaea46e-e7c6-4eeb-80e7-1d53291b1bb5",
+                  "text": "no"
+                },
+                {
+                  "id": "ca311886-7ff4-46e0-97dd-a1f593b2863c",
+                  "text": "some"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 99,
+              "parent": "4f6b221c-bf7e-4fc3-93d8-3a6babb78bc5",
+              "choices": [
+                {
+                  "id": "7dab3bb5-c4e9-4d04-bbba-a5979d97fabf",
+                  "text": "demands"
+                },
+                {
+                  "id": "9d6de7d4-6c11-4ac6-aefe-f7b481920a59",
+                  "text": "produces",
+                  "correct": true
+                },
+                {
+                  "id": "92078535-650c-4a31-8ace-1cb973410c65",
+                  "text": "needs"
+                },
+                {
+                  "id": "77d65c0e-5a09-4ba9-866c-a2049c4cee3c",
+                  "text": "requires"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 100,
+              "parent": "4f6b221c-bf7e-4fc3-93d8-3a6babb78bc5",
+              "choices": [
+                {
+                  "id": "7234b1e9-e206-4502-9110-0e43437b1d3c",
+                  "text": "earth"
+                },
+                {
+                  "id": "b418990c-30e0-4950-b713-409525210c85",
+                  "text": "ground"
+                },
+                {
+                  "id": "0f277c47-7aca-4f2f-8ba6-8798ec182bf3",
+                  "text": "soil",
+                  "correct": true
+                },
+                {
+                  "id": "eaf1e3de-aef3-4470-96ba-81d41ccc4bbf",
+                  "text": "land"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 101,
+              "parent": "4f6b221c-bf7e-4fc3-93d8-3a6babb78bc5",
+              "choices": [
+                {
+                  "id": "ec7b26d1-85ae-4171-be35-24154863907b",
+                  "text": "may"
+                },
+                {
+                  "id": "fcedeecd-9bdb-406c-97dc-828b9cbcc0c0",
+                  "text": "can"
+                },
+                {
+                  "id": "bd023042-afe8-451f-af88-b1fd45bcb454",
+                  "text": "ought"
+                },
+                {
+                  "id": "88ed265c-b398-402e-a8b3-c8108fe09213",
+                  "text": "should",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 102,
+              "parent": "4f6b221c-bf7e-4fc3-93d8-3a6babb78bc5",
+              "choices": [
+                {
+                  "id": "845f2135-7bbc-4dd7-8817-9f5f804ad6be",
+                  "text": "1990"
+                },
+                {
+                  "id": "dd821f77-af1b-4bc6-9051-47cd84429963",
+                  "text": "1990s",
+                  "correct": true
+                },
+                {
+                  "id": "483b50fc-021d-4ead-ba1e-6aa556a04446",
+                  "text": "19th century"
+                },
+                {
+                  "id": "5f11f801-74b8-4368-8093-82560394b4b2",
+                  "text": "90 years"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 103,
+              "parent": "4f6b221c-bf7e-4fc3-93d8-3a6babb78bc5",
+              "choices": [
+                {
+                  "id": "8dbabbfc-fbad-429f-aa52-bb11aa28915e",
+                  "text": "super"
+                },
+                {
+                  "id": "7ce1ab36-1f2b-46a2-82d5-e6d9f6d0ad7c",
+                  "text": "superb"
+                },
+                {
+                  "id": "4fe909a0-52a0-4490-ad6c-fb3ef32231ed",
+                  "text": "superior",
+                  "correct": true
+                },
+                {
+                  "id": "77e9d9c5-5b6d-4e49-98db-4cf4ccf6f73c",
+                  "text": "surplus"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 104,
+              "parent": "4f6b221c-bf7e-4fc3-93d8-3a6babb78bc5",
+              "choices": [
+                {
+                  "id": "5963a336-1107-4881-bedf-ef2b18a34a28",
+                  "text": "aiming",
+                  "correct": true
+                },
+                {
+                  "id": "fe05f39f-f739-45bb-bdfb-c43aabae2b4a",
+                  "text": "meaning"
+                },
+                {
+                  "id": "c515cc56-b336-405c-9953-cbf0c0d164a5",
+                  "text": "going"
+                },
+                {
+                  "id": "4c680234-f90f-40a3-9541-f087ea58da69",
+                  "text": "thinking"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 105,
+              "parent": "4f6b221c-bf7e-4fc3-93d8-3a6babb78bc5",
+              "choices": [
+                {
+                  "id": "dd5ba846-eb71-43eb-bdd3-02b20c1fa506",
+                  "text": "to wear"
+                },
+                {
+                  "id": "b383db30-d0f2-4a93-bb5f-f5808c2db173",
+                  "text": "to use"
+                },
+                {
+                  "id": "a5a6ab42-f754-4b17-b2bd-57c0a8c6da87",
+                  "text": "wearing",
+                  "correct": true
+                },
+                {
+                  "id": "1e10020c-d23b-4e2d-9a67-96e160d06b7b",
+                  "text": "using"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "4f6b221c-bf7e-4fc3-93d8-3a6babb78bc5",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2017-06-22T11:21:57.13017"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Vertical farming **\n\n​\n\nWhy not grow grains, vegetables and fruits right where the expanding crowds of consumers are: in the middle of a city, inside a tall glass building? Poultry and pork could be reared there, too. A vertical farm would drastically reduce the fossil-fuel use and emissions associated with farm machinery and trucking, as well as the spread of fertilizer and its runoff. Crops could grow and be harvested year-round instead of at the end of one season, multiplying annual yield by at least four times. Urban agriculture could also convert municipal wastewater into irrigation water, reducing a city’s refuse problem. And consumers would get the freshest food possible, without pesticides. \n\n​\n\nSceptics worry that indoor crops would have to be genetically modified to thrive, but Dickson Despommier of Columbia University, who has championed the movement, says such alteration is unnecessary, “we can match their growth characteristics with temperature and humidity conditions and nutrition profiles.” \n\n​\n\nAlthough real estate in cities would seem too pricey for farming, Despommier’s graduate students surveyed New York City and found many abandoned buildings and lots where high-rise farms could sprout. “You can do this on the rooftops of hospitals and schools,” which would use the food in their own kitchens. “You can do this along the periphery but still within city limits. You can do this on open stretches of air force bases and airports and city islands.” [CITE source=Scientific American Earth 3.0, 2008]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 9427,
+          "content": {
+            "text": "**Vertical farming **\n\n​\n\nWhy not grow grains, vegetables and fruits right where the expanding crowds of consumers are: in the middle of a city, inside a tall glass building? Poultry and pork could be reared there, too. A vertical farm would drastically reduce the fossil-fuel use and emissions associated with farm machinery and trucking, as well as the spread of fertilizer and its runoff. Crops could grow and be harvested year-round instead of at the end of one season, multiplying annual yield by at least four times. Urban agriculture could also convert municipal wastewater into irrigation water, reducing a city’s refuse problem. And consumers would get the freshest food possible, without pesticides. \n\n​\n\nSceptics worry that indoor crops would have to be genetically modified to thrive, but Dickson Despommier of Columbia University, who has championed the movement, says such alteration is unnecessary, “we can match their growth characteristics with temperature and humidity conditions and nutrition profiles.” \n\n​\n\nAlthough real estate in cities would seem too pricey for farming, Despommier’s graduate students surveyed New York City and found many abandoned buildings and lots where high-rise farms could sprout. “You can do this on the rooftops of hospitals and schools,” which would use the food in their own kitchens. “You can do this along the periphery but still within city limits. You can do this on open stretches of air force bases and airports and city islands.” [CITE source=Scientific American Earth 3.0, 2008]\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2019-11-20T12:31:23.347427",
+          "max_score": null,
+          "groupping": null,
+          "id": 251913,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "fbce2fbf-2bcf-454a-a727-733211e9647e",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2017-06-22T11:10:35.345894"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "_Fill in the blanks using suggestions when given._\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 9427,
+          "content": {
+            "text": "_Fill in the blanks using suggestions when given._\n",
+            "questionType": "grammar",
+            "displayNumber": "2.2"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "dee1bb9c-3d0c-46e7-a979-ca692ce873e3"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2019-11-20T12:31:23.35",
+          "max_score": null,
+          "groupping": null,
+          "id": 251309,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "9a066ccb-eadd-48a1-b500-24fe3eec1620",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2017-06-22T11:04:16.783404"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**James Bond – a hero of the past? **\n\nA film magazine has invited its readers to take part in a writing competition under the title above. The winning entry will be published. Write your article about James Bond for the magazine.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 9427,
+          "content": {
+            "text": "**James Bond – a hero of the past? **\n\nA film magazine has invited its readers to take part in a writing competition under the title above. The winning entry will be published. Write your article about James Bond for the magazine.\n",
+            "displayNumber": "4."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2019-11-20T12:31:23.352438",
+          "max_score": null,
+          "groupping": null,
+          "id": 252897,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "fc45d9b6-e42f-4e3d-95e9-2438389048ec",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2017-06-22T11:24:39.44422"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Dear Fellow Europeans **\n\nYou will be participating in European Youth Week and will give a speech on a topic you find important to all young Europeans. Write this speech.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 9427,
+          "content": {
+            "text": "**Dear Fellow Europeans **\n\nYou will be participating in European Youth Week and will give a speech on a topic you find important to all young Europeans. Write this speech.\n",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2019-11-20T12:31:23.354801",
+          "max_score": null,
+          "groupping": null,
+          "id": 253009,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "7af43274-181b-453b-889a-2c710653bca6",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-06-22T11:25:11.651305"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**No way! **\n\nYou live in England and there are plans to build a new motorway which will pass very close to your home. Write a letter to be published in a local paper giving your opinion about the plan.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 9427,
+          "content": {
+            "text": "**No way! **\n\nYou live in England and there are plans to build a new motorway which will pass very close to your home. Write a letter to be published in a local paper giving your opinion about the plan.\n",
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2019-11-20T12:31:23.359319",
+          "max_score": null,
+          "groupping": null,
+          "id": 253008,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "3bdd5634-25a5-4818-bfb1-379a6d7ce77a",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2017-06-22T11:25:11.648412"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Where can an identical bug be seen?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 9427,
+          "content": {
+            "text": "Where can an identical bug be seen?\n",
+            "displayNumber": "5."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2019-11-20T12:31:23.361665",
+          "max_score": 2,
+          "groupping": null,
+          "id": 251334,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 61,
+              "text": "In Nice, France",
+              "parent": "3b5ed263-31ec-4a0b-bedb-fe8c73741c43",
+              "choices": []
+            },
+            {
+              "id": 62,
+              "text": "In Prague, the Czech Republic",
+              "parent": "3b5ed263-31ec-4a0b-bedb-fe8c73741c43",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 63,
+              "text": "In the National Museum in London",
+              "parent": "3b5ed263-31ec-4a0b-bedb-fe8c73741c43",
+              "choices": []
+            }
+          ],
+          "uuid": "3b5ed263-31ec-4a0b-bedb-fe8c73741c43",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2017-06-22T11:04:16.854849"
+        }
+      ],
+      "name": "Englanti pitkä oppimäärä kevät 2010",
+      "settings": {},
+      "exam_type": "yo-koe",
+      "classification": {
+        "category": "written",
+        "exam_type": "yo-koe",
+        "year": "2010",
+        "language": "fi-FI",
+        "show_exam_series": false,
+        "force_yletunnus": false,
+        "subject": "englanti-pitkä",
+        "published": true,
+        "semester": "spring"
+      },
+      "published_at": "2017-06-22T09:56:00.157Z",
+      "language": "fi-FI",
+      "id": 9427,
+      "reviews": [],
+      "is_open": true,
+      "uuid": "78b3f376-948d-4c5f-a7d3-ea596992b9fb"
+    }
+  ]
+}

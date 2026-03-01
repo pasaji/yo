@@ -1,0 +1,375 @@
+{
+  "meta": {
+    "count": 1
+  },
+  "data": [
+    {
+      "tags": [
+        ""
+      ],
+      "main_text": "**Enintään 6 tehtävään saa vastata. Tehtävät arvostellaan pistein 0-6, paitsi muita vaativammat, +:lla merkityt jokeritehtävät, jotka arvostellaan pistein 0-9. Moniosaisissa, esimerkiksi a-, b- ja c-kohdan sisältävissä tehtävissä voidaan erikseen ilmoittaa eri alakohtien enimmäispistemäärät.**\n",
+      "characters": null,
+      "deleted_at": null,
+      "series_uuids": [],
+      "questions": [
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252839",
+            "18-205512"
+          ],
+          "main_text": "Pohdi psykologisen tiedon perusteella, millä tavoin emootiot liittyvät tiedonkäsittelyyn.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 849,
+          "content": {
+            "text": "Pohdi psykologisen tiedon perusteella, millä tavoin emootiot liittyvät tiedonkäsittelyyn.\n",
+            "displayNumber": "+10."
+          },
+          "images": null,
+          "settings": {
+            "joker": true,
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T09:35:41.156592",
+          "max_score": null,
+          "groupping": null,
+          "id": 12026,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "aee8ff7b-a900-4e98-b61a-9930820d24ef",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2017-06-09T06:27:41.632545"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252840",
+            "18-205088",
+            "18-252839"
+          ],
+          "main_text": "Miten Neisserin havaintokehä liittyy mielenterveyteen?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 849,
+          "content": {
+            "text": "Miten Neisserin havaintokehä liittyy mielenterveyteen?\n",
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T09:35:41.159686",
+          "max_score": null,
+          "groupping": null,
+          "id": 11394,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "85cbc328-5eea-4318-8c51-2575222ad006",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2017-06-09T06:07:14.363932"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-205101",
+            "18-252839"
+          ],
+          "main_text": "Arvioi muistikuvien luotettavuutta psykologisen tiedon perusteella.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 849,
+          "content": {
+            "text": "Arvioi muistikuvien luotettavuutta psykologisen tiedon perusteella.\n",
+            "displayNumber": "3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T09:35:41.163529",
+          "max_score": null,
+          "groupping": null,
+          "id": 11409,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "d3a10b37-bd70-4311-963d-b46e1e419c16",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2017-06-09T06:07:58.376208"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252839",
+            "18-210286"
+          ],
+          "main_text": "Arvioi otsalohkojen merkitystä ihmisen psyykkisille toiminnoille.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 849,
+          "content": {
+            "text": "Arvioi otsalohkojen merkitystä ihmisen psyykkisille toiminnoille.\n",
+            "displayNumber": "5."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T09:35:41.166511",
+          "max_score": null,
+          "groupping": null,
+          "id": 11459,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "587948e1-57fe-441e-86e2-f945b6e527c2",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2017-06-09T06:09:36.155671"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252841",
+            "18-220608"
+          ],
+          "main_text": "Ihmisen toiminta on monitasoisesti muovautuvaa. Muovautumista tapahtuu aivojen hermoverkoissa, käyttäytymisessä ja tiedonkäsittelyssä. Arvioi muovautumiseen liittyviä biologisia, psykologisia ja sosiaalisia tekijöitä.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 849,
+          "content": {
+            "text": "Ihmisen toiminta on monitasoisesti muovautuvaa. Muovautumista tapahtuu aivojen hermoverkoissa, käyttäytymisessä ja tiedonkäsittelyssä. Arvioi muovautumiseen liittyviä biologisia, psykologisia ja sosiaalisia tekijöitä.\n",
+            "displayNumber": "+9."
+          },
+          "images": null,
+          "settings": {
+            "joker": true,
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T09:35:41.169473",
+          "max_score": null,
+          "groupping": null,
+          "id": 11884,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "5b592649-9679-49eb-b308-85bad8cf19ae",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2017-06-09T06:22:00.030053"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-101978",
+            "18-252841",
+            "18-253197"
+          ],
+          "main_text": "Miten persoonallisuutta voidaan arvioida? Arvioi, minkälaisia ongelmia tai mahdollisuuksia erilaisiin arviointimenetelmiin liittyy.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 849,
+          "content": {
+            "text": "Miten persoonallisuutta voidaan arvioida? Arvioi, minkälaisia ongelmia tai mahdollisuuksia erilaisiin arviointimenetelmiin liittyy.\n",
+            "displayNumber": "4."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T09:35:41.172603",
+          "max_score": null,
+          "groupping": null,
+          "id": 11440,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "c702d621-2617-4b1f-a5d4-4898fa9b92bd",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2017-06-09T06:08:59.914232"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252840",
+            "18-217582"
+          ],
+          "main_text": "Miten tutkisit psykoterapian vaikuttavuutta?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 849,
+          "content": {
+            "text": "Miten tutkisit psykoterapian vaikuttavuutta?\n",
+            "displayNumber": "7."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T09:35:41.175363",
+          "max_score": null,
+          "groupping": null,
+          "id": 11831,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "b372f8f7-a399-4a8d-b730-4daa4e735515",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2017-06-09T06:20:39.247062"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252840",
+            "18-207830"
+          ],
+          "main_text": "Koulun käyminen asettaa yksilölle monenlaisia psykologisia, sosiaalisia ja kulttuurisia haasteita. Pohdi, miten koulua ympäristönä tulisi kehittää lukiolaisten psyykkisen hyvinvoinnin tukemiseksi.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 849,
+          "content": {
+            "text": "Koulun käyminen asettaa yksilölle monenlaisia psykologisia, sosiaalisia ja kulttuurisia haasteita. Pohdi, miten koulua ympäristönä tulisi kehittää lukiolaisten psyykkisen hyvinvoinnin tukemiseksi.\n",
+            "displayNumber": "8."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T09:35:41.178238",
+          "max_score": null,
+          "groupping": null,
+          "id": 11857,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "2b2374a5-77d1-447f-9ece-83be0527e490",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2017-06-09T06:21:48.676638"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252839",
+            "18-204648"
+          ],
+          "main_text": "Visuaalisen havaitsemisen hermostollista taustaa tutkittiin aivoverenkiertohäiriöitä sairastavilla potilailla. Tutkimukseen osallistui 20 potilasta. Puolella potilaista aivovaurio sijaitsi jommassakummassa ohimolohkossa, ja puolella aivovaurio sijaitsi jommassakummassa päälakilohkossa. Kaikki tutkimukseen osallistuneet potilaat ymmärsivät puhetta ja pystyivät itse puhumaan.\n\nKaikki potilaat suorittivat tietokoneavusteisen kokeen. Koeasetelmassa tietokoneen ruudulla esitettiin aina kolme ärsykettä yhtäaikaisesti. Ruudun sekä vasemmalla että oikealla laidalla oli yksi kuva. Kuvat esittivät joko eläintä tai työkalua. Lisäksi ruudulla oli aina punainen ympyrä, joka sijaitsi joko vasemmalla tai oikealla puolella ruudun keskipisteeseen nähden.\n\n[IMS id=39-407382593a3c5f348c7] Jokainen koehenkilö suoritti kaksi erilaista tehtävää. Kummassakin tehtävässä A ja B koehenkilöille esitettiin yhteensä sata erilaista tilannetta näyttöruudulla. Tehtävässä A potilaiden piti päättää, kumpi kahdesta näyttöruudun kuvasta esitti eläintä (toinen kuva oli aina jokin työkalu). Tehtävässä B potilaiden piti päättää, oliko punainen ympyrä lähempänä vasemman- vai oikeanpuoleista kuvaa. Vastaus annettiin nappia painamalla.\n\n​\n\nKoehenkilöiden suoritukset on esitetty alla olevassa kuviossa. Selitä tutkimuksen tulos ja arvioi psykologisen tiedon valossa, mitä tulokset kertovat näkemisen ja havaitsemisen hermostollisesta taustasta.\n\n[IMS id=39-407385593a3cf37a69c|caption=Ohimolohkovaurion saaneiden potilaiden keskimääräinen suoritus on kuvattu sinisellä, päälakilohkovaurion saaneiden potilaiden keskimääräinen suoritus on kuvattu vihreällä.]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 849,
+          "content": {
+            "text": "Visuaalisen havaitsemisen hermostollista taustaa tutkittiin aivoverenkiertohäiriöitä sairastavilla potilailla. Tutkimukseen osallistui 20 potilasta. Puolella potilaista aivovaurio sijaitsi jommassakummassa ohimolohkossa, ja puolella aivovaurio sijaitsi jommassakummassa päälakilohkossa. Kaikki tutkimukseen osallistuneet potilaat ymmärsivät puhetta ja pystyivät itse puhumaan.\n\nKaikki potilaat suorittivat tietokoneavusteisen kokeen. Koeasetelmassa tietokoneen ruudulla esitettiin aina kolme ärsykettä yhtäaikaisesti. Ruudun sekä vasemmalla että oikealla laidalla oli yksi kuva. Kuvat esittivät joko eläintä tai työkalua. Lisäksi ruudulla oli aina punainen ympyrä, joka sijaitsi joko vasemmalla tai oikealla puolella ruudun keskipisteeseen nähden.\n\n[IMS id=39-407382593a3c5f348c7] Jokainen koehenkilö suoritti kaksi erilaista tehtävää. Kummassakin tehtävässä A ja B koehenkilöille esitettiin yhteensä sata erilaista tilannetta näyttöruudulla. Tehtävässä A potilaiden piti päättää, kumpi kahdesta näyttöruudun kuvasta esitti eläintä (toinen kuva oli aina jokin työkalu). Tehtävässä B potilaiden piti päättää, oliko punainen ympyrä lähempänä vasemman- vai oikeanpuoleista kuvaa. Vastaus annettiin nappia painamalla.\n\n​\n\nKoehenkilöiden suoritukset on esitetty alla olevassa kuviossa. Selitä tutkimuksen tulos ja arvioi psykologisen tiedon valossa, mitä tulokset kertovat näkemisen ja havaitsemisen hermostollisesta taustasta.\n\n[IMS id=39-407385593a3cf37a69c|caption=Ohimolohkovaurion saaneiden potilaiden keskimääräinen suoritus on kuvattu sinisellä, päälakilohkovaurion saaneiden potilaiden keskimääräinen suoritus on kuvattu vihreällä.]\n",
+            "displayNumber": "6."
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T09:35:41.181137",
+          "max_score": null,
+          "groupping": null,
+          "id": 11808,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "fa4405f4-0b84-4bfe-ad5d-375731d39db2",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2017-06-09T06:20:03.440757"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252838",
+            "18-143886",
+            "18-215968"
+          ],
+          "main_text": "Mari on 20-vuotias opiskelija, joka on saanut ensimmäisen lapsensa, Pekka-vauvan, kuusi kuukautta sitten. Tällä hetkellä Mari on äitiyslomalla ja Pekan isä Mikko on töissä. Vaikka raskaus olikin Marille ja Mikolle yllätys, vauva oli tervetullut, ja molemmat isovanhemmat olivat vauvauutisesta hyvin iloisia. Mari lopetti tupakoinnin heti, kun huomasi olevansa raskaana, mikä tapahtui raskauden toisella kolmanneksella. Pekka syntyi täysiaikaisena mutta pienipainoisena raskauden kestoon nähden. Pekka painoi syntyessään 2 000 g pienipainoisen vauvan raja-arvon ollessa 2 500 g. Vaikka Pekka on Marille hyvin rakas, Mari on alkanut tuntea itsensä hyvin väsyneeksi. Marin mielestä Pekka on herkkä reagoimaan pieniinkin häiriötekijöihin itkulla, ja Mari kokee aikansa menevän Pekkaa rauhoittaessa. Mari on havainnut itsessään myös masennuksen merkkejä. Tarkastele tehtävässä annettujen tietojen pohjalta Pekan varhaiskehitykseen vaikuttavia tekijöitä kehityspsykologisen tiedon varassa\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 849,
+          "content": {
+            "text": "Mari on 20-vuotias opiskelija, joka on saanut ensimmäisen lapsensa, Pekka-vauvan, kuusi kuukautta sitten. Tällä hetkellä Mari on äitiyslomalla ja Pekan isä Mikko on töissä. Vaikka raskaus olikin Marille ja Mikolle yllätys, vauva oli tervetullut, ja molemmat isovanhemmat olivat vauvauutisesta hyvin iloisia. Mari lopetti tupakoinnin heti, kun huomasi olevansa raskaana, mikä tapahtui raskauden toisella kolmanneksella. Pekka syntyi täysiaikaisena mutta pienipainoisena raskauden kestoon nähden. Pekka painoi syntyessään 2 000 g pienipainoisen vauvan raja-arvon ollessa 2 500 g. Vaikka Pekka on Marille hyvin rakas, Mari on alkanut tuntea itsensä hyvin väsyneeksi. Marin mielestä Pekka on herkkä reagoimaan pieniinkin häiriötekijöihin itkulla, ja Mari kokee aikansa menevän Pekkaa rauhoittaessa. Mari on havainnut itsessään myös masennuksen merkkejä. Tarkastele tehtävässä annettujen tietojen pohjalta Pekan varhaiskehitykseen vaikuttavia tekijöitä kehityspsykologisen tiedon varassa\n",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T09:35:41.184724",
+          "max_score": null,
+          "groupping": null,
+          "id": 11382,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "5abc5c2b-4849-4558-b8dd-987b28147bfb",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-06-09T06:04:35.066814"
+        }
+      ],
+      "name": "Psykologia syksy 2010",
+      "settings": {},
+      "exam_type": "yo-koe",
+      "classification": {
+        "category": "",
+        "hide_review_buttons": null,
+        "exam_type": "yo-koe",
+        "year": "2010",
+        "language": "fi-FI",
+        "show_exam_series": null,
+        "force_yletunnus": false,
+        "subject": "psykologia",
+        "published": true,
+        "semester": "fall"
+      },
+      "published_at": "2017-06-09T05:57:43.603Z",
+      "language": "fi-FI",
+      "id": 849,
+      "reviews": [],
+      "is_open": true,
+      "uuid": "28971061-5b7f-4273-b0bc-6dcc6b8f174b"
+    }
+  ]
+}

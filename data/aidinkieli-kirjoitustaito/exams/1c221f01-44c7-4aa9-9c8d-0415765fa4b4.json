@@ -1,0 +1,747 @@
+{
+  "meta": {
+    "count": 1
+  },
+  "data": [
+    {
+      "tags": [
+        ""
+      ],
+      "main_text": "",
+      "characters": null,
+      "deleted_at": null,
+      "series_uuids": [],
+      "questions": [
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-35057",
+            "18-205758"
+          ],
+          "main_text": "Media kilpailee yleisöistä – millaisin seurauksin?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16368,
+          "content": {
+            "text": "Media kilpailee yleisöistä – millaisin seurauksin?\n",
+            "displayNumber": "4."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-14T13:46:27.401081",
+          "max_score": null,
+          "groupping": null,
+          "id": 528849,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "34765803-e152-4704-b718-c57ebeacf4ad",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2017-07-06T13:01:36.960827"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-218016",
+            "18-208041"
+          ],
+          "main_text": "Kannattaako Suomessa yhä ryhtyä maanviljelijäksi?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16368,
+          "content": {
+            "text": "Kannattaako Suomessa yhä ryhtyä maanviljelijäksi?\n",
+            "displayNumber": "5."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-14T13:46:27.404489",
+          "max_score": null,
+          "groupping": null,
+          "id": 528848,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "a009ecc6-3d57-420a-9d75-5704a688edf5",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2017-07-06T13:01:36.95759"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-215452"
+          ],
+          "main_text": "**Lähellä luontoa**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16368,
+          "content": {
+            "text": "**Lähellä luontoa**\n",
+            "displayNumber": "7."
+          },
+          "images": null,
+          "settings": {
+            "titleEssay": true,
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-14T13:46:27.39764",
+          "max_score": null,
+          "groupping": null,
+          "id": 528846,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "ac79d853-2f6c-488a-82a3-3881c5a59e6f",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2017-07-06T13:01:36.949232"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-219918",
+            "18-179545"
+          ],
+          "main_text": null,
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16368,
+          "content": {
+            "displayNumber": "14."
+          },
+          "images": null,
+          "settings": {
+            "material": true
+          },
+          "child_ids": [
+            "b5913fe8-285c-4002-93d4-d1390b577c2e"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-14T13:46:27.411519",
+          "max_score": null,
+          "groupping": null,
+          "id": 528855,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "efb9cdf9-f785-4346-b8cd-92811208bc71",
+          "order_number": 15,
+          "multipart": true,
+          "created_at": "2017-07-06T13:01:36.982494"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-206458",
+            "18-210763"
+          ],
+          "main_text": null,
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16368,
+          "content": {
+            "displayNumber": "13."
+          },
+          "images": null,
+          "settings": {
+            "material": true
+          },
+          "child_ids": [
+            "b397c8aa-21dd-4321-b2b6-e57feadc6d06"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-14T13:46:27.414924",
+          "max_score": null,
+          "groupping": null,
+          "id": 528853,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "5e6b3dbe-508a-4d13-b0f8-5f1cf935af35",
+          "order_number": 14,
+          "multipart": true,
+          "created_at": "2017-07-06T13:01:36.97659"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-215844",
+            "18-207818"
+          ],
+          "main_text": null,
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16368,
+          "content": {
+            "displayNumber": "11."
+          },
+          "images": null,
+          "settings": {
+            "material": true
+          },
+          "child_ids": [
+            "cb90f7f2-1f8d-46c5-9fb4-27b5ebc2ef60"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-14T13:46:27.418206",
+          "max_score": null,
+          "groupping": null,
+          "id": 528858,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "b389989b-0e7a-4187-b53f-a07725acfa1d",
+          "order_number": 12,
+          "multipart": true,
+          "created_at": "2017-07-06T13:01:36.992409"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-208492",
+            "18-204744"
+          ],
+          "main_text": null,
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16368,
+          "content": {
+            "displayNumber": "9."
+          },
+          "images": null,
+          "settings": {
+            "material": true
+          },
+          "child_ids": [
+            "52dd1f28-9eb6-44ef-afcb-3e84e7494892"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-14T13:46:27.408124",
+          "max_score": null,
+          "groupping": null,
+          "id": 528857,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "edc257ed-0f7f-441b-a457-af0ec5f4c67f",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2017-07-06T13:01:36.989564"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-212182",
+            "18-204660"
+          ],
+          "main_text": "Onko kehosta tullut harrastus?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16368,
+          "content": {
+            "text": "Onko kehosta tullut harrastus?\n",
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-14T13:46:27.421484",
+          "max_score": null,
+          "groupping": null,
+          "id": 528852,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "6b7bccd2-6896-41bd-a4ca-11cc2e76375b",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2017-07-06T13:01:36.97289"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-108825"
+          ],
+          "main_text": "**Siltä matkalta löysin itseni**\n\n​\n\nTAI\n\n​\n\n**Sillä matkalla kadotin itseni**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16368,
+          "content": {
+            "text": "**Siltä matkalta löysin itseni**\n\n​\n\nTAI\n\n​\n\n**Sillä matkalla kadotin itseni**\n",
+            "displayNumber": "6."
+          },
+          "images": null,
+          "settings": {
+            "titleEssay": true,
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-14T13:46:27.424842",
+          "max_score": null,
+          "groupping": null,
+          "id": 528847,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "408638b0-25c5-40e9-bf50-1faf9c95d686",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2017-07-06T13:01:36.954013"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Tekniset keksinnöt joutuvat yhä nopeammin historian romukoppaan. Ota kantaa Kjell Westön ajatuksiin.\n\n​\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_essee\\_k\\_2014\\_14.pdf|text=Kjell Westö: Mitä meistä jää jäljelle?]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16368,
+          "content": {
+            "text": "Tekniset keksinnöt joutuvat yhä nopeammin historian romukoppaan. Ota kantaa Kjell Westön ajatuksiin.\n\n​\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_essee\\_k\\_2014\\_14.pdf|text=Kjell Westö: Mitä meistä jää jäljelle?]\n"
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-07-14T13:46:27.428137",
+          "max_score": null,
+          "groupping": null,
+          "id": 528844,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "b5913fe8-285c-4002-93d4-d1390b577c2e",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-07-06T13:01:36.942702"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-127167",
+            "18-212764"
+          ],
+          "main_text": null,
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16368,
+          "content": {
+            "displayNumber": "8."
+          },
+          "images": null,
+          "settings": {
+            "material": true
+          },
+          "child_ids": [
+            "8eba96d5-a565-418c-844d-8323375854ab"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-14T13:46:27.43144",
+          "max_score": null,
+          "groupping": null,
+          "id": 528854,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "80859b9b-d444-4caa-9944-e64d8d700f85",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2017-07-06T13:01:36.979584"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-212506",
+            "18-204676",
+            "18-217509"
+          ],
+          "main_text": null,
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16368,
+          "content": {
+            "displayNumber": "12."
+          },
+          "images": null,
+          "settings": {
+            "material": true
+          },
+          "child_ids": [
+            "98dfef0d-0ca9-4ca7-997a-64d6da7a0d02"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-14T13:46:27.434619",
+          "max_score": null,
+          "groupping": null,
+          "id": 528856,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "8cd966c3-1a16-4a74-bfc2-63e75a617d12",
+          "order_number": 13,
+          "multipart": true,
+          "created_at": "2017-07-06T13:01:36.98552"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "”Kielten opiskelu on ajanhukkaa”, väittää Juhani Mykkänen kolumnissaan. Oletko samaa mieltä?\n\n​\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_essee\\_k\\_2014\\_11.pdf|text=Juhani Mykkänen: Kielten opiskelu on ajanhukkaa]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16368,
+          "content": {
+            "text": "”Kielten opiskelu on ajanhukkaa”, väittää Juhani Mykkänen kolumnissaan. Oletko samaa mieltä?\n\n​\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_essee\\_k\\_2014\\_11.pdf|text=Juhani Mykkänen: Kielten opiskelu on ajanhukkaa]\n"
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-07-14T13:46:27.438041",
+          "max_score": null,
+          "groupping": null,
+          "id": 528841,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "cb90f7f2-1f8d-46c5-9fb4-27b5ebc2ef60",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-07-06T13:01:36.932373"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Vuoden 2013 alussa voimaan tullut ajokorttiuudistus on saanut ristiriitaisen vastaanoton. Pohdi koko uudistuksen tarpeellisuutta käyttäen apuna Trafin tiedotetta.\n\n​\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_essee\\_k\\_2014\\_13.pdf|text=Trafi: Eläköön kaverit]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16368,
+          "content": {
+            "text": "Vuoden 2013 alussa voimaan tullut ajokorttiuudistus on saanut ristiriitaisen vastaanoton. Pohdi koko uudistuksen tarpeellisuutta käyttäen apuna Trafin tiedotetta.\n\n​\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_essee\\_k\\_2014\\_13.pdf|text=Trafi: Eläköön kaverit]\n"
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-07-14T13:46:27.441951",
+          "max_score": null,
+          "groupping": null,
+          "id": 528843,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "b397c8aa-21dd-4321-b2b6-e57feadc6d06",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-07-06T13:01:36.939623"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Leonardo da Vincin _Mona Lisasta_ on tehty monia muunnelmia. Pohdi niiden suhdetta alkuperäisteokseen.\n\n​\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_essee\\_k\\_2014\\_8.pdf|text=Leonardo da Vinci: Mona Lisa & Muunnelmia Mona Lisasta]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16368,
+          "content": {
+            "text": "Leonardo da Vincin _Mona Lisasta_ on tehty monia muunnelmia. Pohdi niiden suhdetta alkuperäisteokseen.\n\n​\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_essee\\_k\\_2014\\_8.pdf|text=Leonardo da Vinci: Mona Lisa & Muunnelmia Mona Lisasta]\n"
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-07-14T13:46:27.44551",
+          "max_score": null,
+          "groupping": null,
+          "id": 528839,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "8eba96d5-a565-418c-844d-8323375854ab",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-07-06T13:01:36.925978"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-208269",
+            "18-204966"
+          ],
+          "main_text": "Jotkut poliitikot, urheilijat ja muut julkisuuden henkilöt ovat katuneet ja pyytäneet julkisesti anteeksi sanojaan tai tekojaan. Pohdi anteeksipyytämisen ja -antamisen merkitystä yhteiskunnallisena ja henkilökohtaisena tekona.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16368,
+          "content": {
+            "text": "Jotkut poliitikot, urheilijat ja muut julkisuuden henkilöt ovat katuneet ja pyytäneet julkisesti anteeksi sanojaan tai tekojaan. Pohdi anteeksipyytämisen ja -antamisen merkitystä yhteiskunnallisena ja henkilökohtaisena tekona.\n",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-14T13:46:27.450381",
+          "max_score": null,
+          "groupping": null,
+          "id": 528850,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "a3ba9d4c-f3ff-4661-b167-b0d3ea14a8f1",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2017-07-06T13:01:36.967041"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mitä Tove Janssonin _Muumilaakson marraskuu_ -kirjan luku kertoo peloista ja niiden hallinnasta?\n\n​\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_essee\\_k\\_2014\\_10.pdf|text=Tove Jansson: Muumilaakson marraskuu (3. luku)]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16368,
+          "content": {
+            "text": "Mitä Tove Janssonin _Muumilaakson marraskuu_ -kirjan luku kertoo peloista ja niiden hallinnasta?\n\n​\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_essee\\_k\\_2014\\_10.pdf|text=Tove Jansson: Muumilaakson marraskuu (3. luku)]\n"
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-07-14T13:46:27.454367",
+          "max_score": null,
+          "groupping": null,
+          "id": 528840,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "93c20b4d-ffab-4b42-ac59-ca1ea6811457",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-07-06T13:01:36.929121"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Linnut ovat runoudessa yleisesti käytettyjä symboleja. Valitse ainakin kolme linturunoa ja tulkitse niitä.\n\n​\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_essee\\_k\\_2014\\_9.pdf|text=Linturunoja]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16368,
+          "content": {
+            "text": "Linnut ovat runoudessa yleisesti käytettyjä symboleja. Valitse ainakin kolme linturunoa ja tulkitse niitä.\n\n​\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_essee\\_k\\_2014\\_9.pdf|text=Linturunoja]\n"
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-07-14T13:46:27.458235",
+          "max_score": null,
+          "groupping": null,
+          "id": 528845,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "52dd1f28-9eb6-44ef-afcb-3e84e7494892",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-07-06T13:01:36.945786"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Ohje: Osaan tehtävistä liittyy aineistoa, jota on hyödynnettävä tehtävänannon mukaan. Lue tehtävät, silmäile aineistot läpi ja valitse tehtävistä yksi. Tehtävät arvostellaan pistein 0–60. Kirjoita ehyt ja kielellisesti huoliteltu teksti. Valmiit otsikot on lihavoitu. Muussa tapauksessa anna kirjoituksellesi oma otsikko. Jos valitset aineistotehtävän, tekstisi pitää olla siten ehyt, että lukija voi ymmärtää tekstisi, vaikka ei tunnekaan aineistoa. Aineistotehtävissä tulee viitata aineistoon.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16368,
+          "content": {
+            "text": "Ohje: Osaan tehtävistä liittyy aineistoa, jota on hyödynnettävä tehtävänannon mukaan. Lue tehtävät, silmäile aineistot läpi ja valitse tehtävistä yksi. Tehtävät arvostellaan pistein 0–60. Kirjoita ehyt ja kielellisesti huoliteltu teksti. Valmiit otsikot on lihavoitu. Muussa tapauksessa anna kirjoituksellesi oma otsikko. Jos valitset aineistotehtävän, tekstisi pitää olla siten ehyt, että lukija voi ymmärtää tekstisi, vaikka ei tunnekaan aineistoa. Aineistotehtävissä tulee viitata aineistoon.\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-14T13:46:27.461994",
+          "max_score": null,
+          "groupping": null,
+          "id": 528838,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "c70e4527-aa2d-4128-b395-322b03827fbe",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-07-06T13:01:36.922551"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-183435",
+            "18-219056",
+            "18-142887"
+          ],
+          "main_text": null,
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16368,
+          "content": {
+            "displayNumber": "10."
+          },
+          "images": null,
+          "settings": {
+            "material": true
+          },
+          "child_ids": [
+            "93c20b4d-ffab-4b42-ac59-ca1ea6811457"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-14T13:46:27.466072",
+          "max_score": null,
+          "groupping": null,
+          "id": 528859,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "7ca3aed8-b66d-442f-a5a1-e6a0e18efd72",
+          "order_number": 11,
+          "multipart": true,
+          "created_at": "2017-07-06T13:01:36.995259"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Pohdi oheista uutisartikkelia hyödyntäen, miten digitalisoituminen vaikuttaa kouluun ja oppimiseen.\n\n​\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_essee\\_k\\_2014\\_12.pdf|text=Marjukks Liiten: Digivarustelu koulussa huippua, mutta käyttö ontuu]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16368,
+          "content": {
+            "text": "Pohdi oheista uutisartikkelia hyödyntäen, miten digitalisoituminen vaikuttaa kouluun ja oppimiseen.\n\n​\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_essee\\_k\\_2014\\_12.pdf|text=Marjukks Liiten: Digivarustelu koulussa huippua, mutta käyttö ontuu]\n"
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-07-14T13:46:27.470243",
+          "max_score": null,
+          "groupping": null,
+          "id": 528842,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "98dfef0d-0ca9-4ca7-997a-64d6da7a0d02",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-07-06T13:01:36.936458"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-83595",
+            "18-218587"
+          ],
+          "main_text": "”Pankit ovat ne kanavat ja valtimot, joita myöten veri juoksee ja joita ilman ei elämä ole mahdollinen ja jotka ensiksi on saatava kuntoon, jotta nykyaikainen elämä voisi päästä kulkemaan.” (J. K. Paasikivi 1923)\n\n​\n\nMiten pankit vaikuttavat nykyihmisen elämään?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16368,
+          "content": {
+            "text": "”Pankit ovat ne kanavat ja valtimot, joita myöten veri juoksee ja joita ilman ei elämä ole mahdollinen ja jotka ensiksi on saatava kuntoon, jotta nykyaikainen elämä voisi päästä kulkemaan.” (J. K. Paasikivi 1923)\n\n​\n\nMiten pankit vaikuttavat nykyihmisen elämään?\n",
+            "displayNumber": "3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-14T13:46:27.474224",
+          "max_score": null,
+          "groupping": null,
+          "id": 528851,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "9214ad4e-4b63-4516-aeec-a821a3aa3406",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2017-07-06T13:01:36.969891"
+        }
+      ],
+      "name": "Äidinkieli essee kevät 2014",
+      "settings": {},
+      "exam_type": "yo-koe",
+      "classification": {
+        "category": "",
+        "hide_review_buttons": null,
+        "exam_type": "yo-koe",
+        "year": "2014",
+        "language": "fi-FI",
+        "show_exam_series": null,
+        "force_yletunnus": false,
+        "subject": "äidinkieli-suomi-essee",
+        "published": true,
+        "semester": "spring"
+      },
+      "published_at": "2017-07-06T13:01:36.918Z",
+      "language": "fi-FI",
+      "id": 16368,
+      "reviews": [],
+      "is_open": true,
+      "uuid": "1c221f01-44c7-4aa9-9c8d-0415765fa4b4"
+    }
+  ]
+}

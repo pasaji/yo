@@ -1,0 +1,1165 @@
+{
+  "meta": {
+    "count": 1
+  },
+  "data": [
+    {
+      "tags": [
+        ""
+      ],
+      "main_text": "Koe koostuu 13 tehtävästä, joista vastataan kymmeneen. Tehtävät on jaettu kolmeen osaan. A-osassa on neljä kaikille pakollista tehtävää. B1-osassa on viisi tehtävää, joista vastataan kolmeen. B2-osassa on neljä tehtävää, joista vastataan kolmeen. Kaikki tehtävät arvostellaan pistein 0–12, joten kokeen maksimipistemäärä on 120.\n\n\n\nA-osassa saat käyttää koejärjestelmässä olevaa taulukkokirjaa ja perusohjelmia. A-osa palautetaan tehtävän 4 jälkeen olevalla painikkeella. Tämän jälkeen A-osan vastauksia ei voi enää muokata. A-osan palauttamisen jälkeen kaikki koejärjestelmän ohjelmat ovat käytettävissäsi. Voit vastata B-osien tehtäviin myös ennen A-osan palauttamista.\n\n\n\nUseimmissa tehtävissä kaikkien osatehtävien vastaukset kirjoitetaan samaan vastauskenttään. Jaottele vastauksesi osatehtävien mukaisesti. Halutessasi voit tuottaa vastausten tueksi piirroksia, kaavioita tai taulukoita ja liittää niistä kuvakaappauksen mihin tahansa tekstivastaukseen.\n\n\n\nÄlä jätä mitään merkintöjä sellaisen tehtävän vastaukselle varattuun tilaan, jota et halua jättää arvosteltavaksi.\n\n\n\n**Huomaathan, ettei kaavaeditori ole käytössä Abitreenien harjoittelukokeessa.**",
+      "characters": null,
+      "deleted_at": null,
+      "series_uuids": [],
+      "questions": [
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**1**   Määritä janan[MATH text=CD ]pituus, kun [MATH text=\\alpha=30^\\circ]. **(4 p.)**\n\n**2**   Määritä sellainen [MATH text=\\alpha], että kolmion [MATH text=BCD] pinta-ala on puolet kolmion [MATH text=ABC] pinta-alasta. **(4 p.)**\n\n**3**   Määritä janan [MATH text=CD] pituus, jos kolmion [MATH text=BCD] pinta-ala on kolmasosa kolmion [MATH text=ABC] pinta-alasta. **(4 p.)**",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 156294,
+          "content": {
+            "text": "**1**   Määritä janan[MATH text=CD ]pituus, kun [MATH text=\\alpha=30^\\circ]. **(4 p.)**\n\n**2**   Määritä sellainen [MATH text=\\alpha], että kolmion [MATH text=BCD] pinta-ala on puolet kolmion [MATH text=ABC] pinta-alasta. **(4 p.)**\n\n**3**   Määritä janan [MATH text=CD] pituus, jos kolmion [MATH text=BCD] pinta-ala on kolmasosa kolmion [MATH text=ABC] pinta-alasta. **(4 p.)**"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-07T07:43:54.813052",
+          "max_score": null,
+          "groupping": null,
+          "id": 5371030,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "a6e18d5c-3b11-42f1-a7be-d40ca1d61c39",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2023-04-13T11:54:06.768867"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Lahjaveroa on maksettava, kun omaisuus siirtyy toiselle henkilölle lahjana ja lahjan arvo on 5 000 euroa tai enemmän. Lahjavero määräytyy taulukossa [LINK text=6.A |url=https://yle.fi/plus/abitreenit/2023/kevat/2023-03-22_N_fi/attachments/index.html#6.A] esitetyn mukaisesti. Tarkastellaan tilanteita, joissa annetaan vain yksi lahja.\n\n1. Mikä on 80 000 euron lahjan veron määrä? Kuinka monta prosenttia tästä lahjasta maksetaan veroa? **(6 p.)**\n2. Kuinka suuresta lahjasta maksetaan 4 000 euroa lahjaveroa? **(6 p.)**",
+          "deleted_at": null,
+          "feedback": "Koska [MATH text=55\\ 000\\ \\le\\ 80\\ 000\\ \\le\\ 200\\ 000], on lahjaveron määrä [MATH text=4700\\ +\\ \\left(80\\ 000\\ -\\ 55\\ 000\\right)\\ \\cdot\\ 0{,}12\\ =\\ 7700] euroa. 3p.\n\n\n\nVero on siis [MATH text=\\frac{7700}{80\\ 000}=\\ 0{,}9625\\ \\approx\\ 9{,}6\\%] . 3p.\n\n\n\nKoska [MATH text=1700\\ \\le4000\\le4700] , on lahjan suuruuden oltava välillä [25 000, 55 000]. 1p.\n\n\n\nMuodostetaan yhtälö: [MATH text=1700\\ +\\ 0{,}1\\ \\cdot\\ \\left(x\\ -\\ 25\\ 000\\right)\\ =\\ 4000] , missä *x* on lahjan suuruus. 3p.  \n\n\n\nRatkaisemalla yhtälö saadaan lahjan suuruudeksi 48 000 euroa. 2p.",
+          "exam_id": 156294,
+          "content": {
+            "text": "Lahjaveroa on maksettava, kun omaisuus siirtyy toiselle henkilölle lahjana ja lahjan arvo on 5 000 euroa tai enemmän. Lahjavero määräytyy taulukossa [LINK text=6.A |url=https://yle.fi/plus/abitreenit/2023/kevat/2023-03-22_N_fi/attachments/index.html#6.A] esitetyn mukaisesti. Tarkastellaan tilanteita, joissa annetaan vain yksi lahja.\n\n1. Mikä on 80 000 euron lahjan veron määrä? Kuinka monta prosenttia tästä lahjasta maksetaan veroa? **(6 p.)**\n2. Kuinka suuresta lahjasta maksetaan 4 000 euroa lahjaveroa? **(6 p.)**"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-07T07:43:54.787631",
+          "max_score": null,
+          "groupping": null,
+          "id": 5371278,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "27c57f85-1101-430c-bcd1-719c7aba9cdb",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2023-04-13T12:05:08.018576"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Kuvaajat ja derivaatta 12 p.\n\nFunktioista [MATH text=f] ja [MATH text=g] tiedetään, että [MATH text=f(0)=0] ja [MATH text=g(0)=5 ]sekä\n\n[MATH text=2\\ \\le\\ f'\\ \\left(x\\right)\\ \\le\\ 3]  ja [MATH text=1\\ \\le\\ g'\\ \\left(x\\right)\\ \\le\\ 2]\n\nkaikilla [MATH text=x].\n\n\n\n1  Oletetaan, että funktioiden [MATH text=f] ja [MATH text=g] kuvaajat ovat suoria. Perustele graafisesti tai laskemalla, että [MATH text=4\\leq f(2)\\le 6] ja [MATH text=7\\leq g(2)\\le 9]. **(6 p.)**\n\n\n\n2  Oletetaan, että funktioiden [MATH text=f] ja [MATH text=g] kuvaajat eivät välttämättä ole suoria. Mitkä seuraavista tilanteista ovat mahdollisia:\n\n\n\n[MATH text=f(2)=g(2)]\n\n[MATH text=f(2)<g(2)]\n\n[MATH text=f(2)>g(2)]\n\n\n\nVoit hyödyntää perustelussasi seuraavaa tietoa:\n\nJos kahdella funktiolla on sama arvo kohdassa [MATH text=0] ja toisen funktion derivaatta on suurempi välillä [MATH text=[0, 2]], niin tämän funktion arvo on suurempi kohdassa [MATH text=2]. **(6 p.)**",
+          "deleted_at": null,
+          "feedback": "Ks. [LINK text=Hyvän vastauksen piirteet|url=https://drive.google.com/file/d/1M_0suv8xqApL9BVjCO61Jh6Hd8D6VKcD/view]",
+          "exam_id": 156294,
+          "content": {
+            "text": "### Kuvaajat ja derivaatta 12 p.\n\nFunktioista [MATH text=f] ja [MATH text=g] tiedetään, että [MATH text=f(0)=0] ja [MATH text=g(0)=5 ]sekä\n\n[MATH text=2\\ \\le\\ f'\\ \\left(x\\right)\\ \\le\\ 3]  ja [MATH text=1\\ \\le\\ g'\\ \\left(x\\right)\\ \\le\\ 2]\n\nkaikilla [MATH text=x].\n\n\n\n1  Oletetaan, että funktioiden [MATH text=f] ja [MATH text=g] kuvaajat ovat suoria. Perustele graafisesti tai laskemalla, että [MATH text=4\\leq f(2)\\le 6] ja [MATH text=7\\leq g(2)\\le 9]. **(6 p.)**\n\n\n\n2  Oletetaan, että funktioiden [MATH text=f] ja [MATH text=g] kuvaajat eivät välttämättä ole suoria. Mitkä seuraavista tilanteista ovat mahdollisia:\n\n\n\n[MATH text=f(2)=g(2)]\n\n[MATH text=f(2)<g(2)]\n\n[MATH text=f(2)>g(2)]\n\n\n\nVoit hyödyntää perustelussasi seuraavaa tietoa:\n\nJos kahdella funktiolla on sama arvo kohdassa [MATH text=0] ja toisen funktion derivaatta on suurempi välillä [MATH text=[0, 2]], niin tämän funktion arvo on suurempi kohdassa [MATH text=2]. **(6 p.)**",
+            "displayNumber": "13."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "f935afa2-e339-47da-96fd-9a89aefe6a54",
+            "f8d5ddab-c004-4110-86b3-0e59fa7641ec"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-07T07:43:54.777135",
+          "max_score": null,
+          "groupping": null,
+          "id": 5376809,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "875ba07c-7313-48ea-8e84-7ea01d1efcad",
+          "order_number": 16,
+          "multipart": true,
+          "created_at": "2023-04-14T11:32:04.312718"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "1. Ratkaise yhtälöpari.\n\n[MATH text=\\begin{cases} x\\ +\\ y\\ =\\ 8&\\\\ 2x\\ -\\ y\\ =\\ 1& \\end{cases}]\n\n**(4p.)**\n\n\n\n2. Ratkaise yhtälö [MATH text=2x^2\\ -\\ \\frac{5}{2}x\\ +\\ \\frac{1}{4}\\ =\\ 0]. Anna suurempi juuri tarkkana arvona sievennetyssä muodossa ja pienempi juuri likiarvona kahden desimaalin tarkkuudella. **(8 p.)**",
+          "deleted_at": null,
+          "feedback": "Lasketaan yhtälöt yhteen, jolloin saadaan [MATH text=3x=9], joten [MATH text=x=3].2 p.\n\nSijoitetaan tämä ensimmäiseen yhtälöön, jolloin saadaan [MATH text=y=5].2 p.\n\nKerrotaan yhtälö puolittain neljällä, jolloin saadaan [MATH text=8x^2\\ -\\ 10x\\ +\\ 1\\ =\\ 0 ] .(2 p.)\n\nKäytetään toisen asteen yhtälön ratkaisukaavaa, jolloin ratkaisuiksi saadaan [MATH ][MATH text=x =] [MATH text=\\frac{10\\pm\\sqrt{\\left(-10\\right)^2\\ -4\\cdot8\\cdot1}}{2\\cdot8}\\ =\\ \\frac{5\\pm\\sqrt{17}}{8}\\cdot] .2 p.\n\nJuurista suurempi on [MATH text=\\frac{5+\\sqrt{17}}{8}] 2 p.\n\nja pienemmän likiarvo on [MATH text=\\frac{5-\\sqrt{17}}{8\\ }\\approx\\ 0{,}11.]. 2 p.\n\nHuom. Likiarvo ratkeaa nopeasti Speedcrunchilla.",
+          "exam_id": 156294,
+          "content": {
+            "text": "1. Ratkaise yhtälöpari.\n\n[MATH text=\\begin{cases} x\\ +\\ y\\ =\\ 8&\\\\ 2x\\ -\\ y\\ =\\ 1& \\end{cases}]\n\n**(4p.)**\n\n\n\n2. Ratkaise yhtälö [MATH text=2x^2\\ -\\ \\frac{5}{2}x\\ +\\ \\frac{1}{4}\\ =\\ 0]. Anna suurempi juuri tarkkana arvona sievennetyssä muodossa ja pienempi juuri likiarvona kahden desimaalin tarkkuudella. **(8 p.)**"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-07T07:43:54.77247",
+          "max_score": null,
+          "groupping": null,
+          "id": 5370971,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "858d2b77-ac21-4cf9-81a2-8684a06b0f19",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2023-04-13T11:44:02.724378"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "1. Mikä on eduskuntatalon tilavuus kuutiometreinä? **(6 p.)**\n2. Usein kuulee verrattavan pinta-aloja jalkapallokenttien kokoon. Jalkapallokenttä on suorakulmio, jonka sivujen pituudet ovat 105 metriä ja 68 metriä. Oletetaan, että huoltotunnelit ja muut tilat ovat suorakulmaisia särmiöitä. Jos huoltotunnelien ja muiden Helsingin alla olevien tilojen korkeus on keskimäärin 4,0 metriä, niin mikä on niiden pohjien yhteenlaskettu pinta-ala jalkapallokenttinä mitattuna? **(6 p.)**",
+          "deleted_at": null,
+          "feedback": "Eduskuntatalon tilavuus on [MATH text=300 · 120 000 · 4 = 144 000 000 1 ≈ 140 000 m³] 6 p.\n\n\n\nHuoltotunnelien tilavuus on [MATH text=500\\ \\cdot\\ 144\\ 000\\ =\\ 72\\ 000\\ 000\\ m^3] .2 p.\n\n\n\nNiiden pinta-ala on siis [MATH text=\\frac{72\\ 000\\ 000}{4}\\ =\\ 18\\ 000\\ 000\\ m^2\\ .] 2p.\n\n\n\njoka on [MATH text=\\frac{18\\ 000\\ 000}{105\\cdot68}\\ \\approx\\ 2500] jalkapallokenttää. 2p.",
+          "exam_id": 156294,
+          "content": {
+            "text": "1. Mikä on eduskuntatalon tilavuus kuutiometreinä? **(6 p.)**\n2. Usein kuulee verrattavan pinta-aloja jalkapallokenttien kokoon. Jalkapallokenttä on suorakulmio, jonka sivujen pituudet ovat 105 metriä ja 68 metriä. Oletetaan, että huoltotunnelit ja muut tilat ovat suorakulmaisia särmiöitä. Jos huoltotunnelien ja muiden Helsingin alla olevien tilojen korkeus on keskimäärin 4,0 metriä, niin mikä on niiden pohjien yhteenlaskettu pinta-ala jalkapallokenttinä mitattuna? **(6 p.)**"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-07T07:43:54.769542",
+          "max_score": null,
+          "groupping": null,
+          "id": 5371108,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "5ec1dc6c-729c-4e2c-8fb5-12719cfaf341",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2023-04-13T11:57:07.94718"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Erikoiset mittayksiköt 12 p.\n\nTämä tästä -ajankohtaishuumoriohjelman jaksossa 119 kerrottiin, että Helsingin alle mahtuu huoltotunneleihin ja muihin tiloihin 500 eduskuntataloa. Eduskuntatalon tilavuus puolestaan kuvailtiin seuraavasti: ''Tavallinen kylpyamme, jollainen voi olla kotona tai hotellihuoneessa, on tilavuudeltaan noin 300 litraa – – Jos sinulla on 120 000 tällaista kylpyammetta, niin ne täyttävät neljäsosan eduskuntatalosta.''",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 156294,
+          "content": {
+            "text": "### Erikoiset mittayksiköt 12 p.\n\nTämä tästä -ajankohtaishuumoriohjelman jaksossa 119 kerrottiin, että Helsingin alle mahtuu huoltotunneleihin ja muihin tiloihin 500 eduskuntataloa. Eduskuntatalon tilavuus puolestaan kuvailtiin seuraavasti: ''Tavallinen kylpyamme, jollainen voi olla kotona tai hotellihuoneessa, on tilavuudeltaan noin 300 litraa – – Jos sinulla on 120 000 tällaista kylpyammetta, niin ne täyttävät neljäsosan eduskuntatalosta.''",
+            "displayNumber": "5."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "5ec1dc6c-729c-4e2c-8fb5-12719cfaf341"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-07T07:43:54.76435",
+          "max_score": null,
+          "groupping": null,
+          "id": 5371107,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "26e33173-8aeb-4da8-8674-cf4b0e04ba9c",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2023-04-13T11:57:07.944961"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Älypuhelinten käyttöikä 12 p.\n\n#### Aineisto\n\n9.A [LINK text=Taulukko: Älypuhelinten käyttöikä|url=https://yle.fi/plus/abitreenit/2023/kevat/2023-03-22_N_fi/attachments/index.html#9.A]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 156294,
+          "content": {
+            "text": "### Älypuhelinten käyttöikä 12 p.\n\n#### Aineisto\n\n9.A [LINK text=Taulukko: Älypuhelinten käyttöikä|url=https://yle.fi/plus/abitreenit/2023/kevat/2023-03-22_N_fi/attachments/index.html#9.A]",
+            "displayNumber": "9."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "720beedc-f47b-4e47-944e-686034329171"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-07T07:43:54.756785",
+          "max_score": null,
+          "groupping": null,
+          "id": 5371457,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "a9dfe079-a459-4ec4-9319-84a264de4e62",
+          "order_number": 11,
+          "multipart": true,
+          "created_at": "2023-04-13T12:08:11.41697"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Laske **2 p**.\n\n\n\n[MATH text= 7 ⋅ 2³ – 1 =  ] [GAP id=1]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 156294,
+          "content": {
+            "text": "Laske **2 p**.\n\n\n\n[MATH text= 7 ⋅ 2³ – 1 =  ] [GAP id=1]",
+            "displayNumber": "1.1"
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-07T07:43:54.743715",
+          "max_score": 2,
+          "groupping": null,
+          "id": 5368013,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "parent": "c806c876-dffd-45ce-b68a-c01574c65374",
+              "choices": [],
+              "correct": "55",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "c806c876-dffd-45ce-b68a-c01574c65374",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2023-04-12T14:43:45.857281"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Suora [MATH text=y = -2 x + 14] leikkaa [MATH text=x]-akselin, kun **2 p** \n\n\n\n[GAP id=1]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 156294,
+          "content": {
+            "text": "Suora [MATH text=y = -2 x + 14] leikkaa [MATH text=x]-akselin, kun **2 p** \n\n\n\n[GAP id=1]",
+            "displayNumber": "1.3"
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-07T07:43:54.747152",
+          "max_score": 2,
+          "groupping": null,
+          "id": 5368020,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "parent": "c250c4ad-b33e-4506-bbdd-593c8b0fa05a",
+              "choices": [],
+              "correct": "7",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "c250c4ad-b33e-4506-bbdd-593c8b0fa05a",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2023-04-12T14:48:20.697585"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Potenssiyhtälön [MATH text=x³ = 64]ratkaisu on **2 p**.\n\n\n\n[MATH text=x = ] [GAP id=1]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 156294,
+          "content": {
+            "text": "Potenssiyhtälön [MATH text=x³ = 64]ratkaisu on **2 p**.\n\n\n\n[MATH text=x = ] [GAP id=1]",
+            "displayNumber": "1.5"
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-07T07:43:54.74941",
+          "max_score": 2,
+          "groupping": null,
+          "id": 5370952,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "parent": "6987b200-c885-45fb-be45-8f5e1e2211e9",
+              "choices": [],
+              "correct": "4",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "6987b200-c885-45fb-be45-8f5e1e2211e9",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2023-04-13T10:15:40.40656"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "## B1-osa\n\n*Vastaa kolmeen tehtävään.*",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 156294,
+          "content": {
+            "text": "## B1-osa\n\n*Vastaa kolmeen tehtävään.*"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-07T07:43:54.751669",
+          "max_score": null,
+          "groupping": null,
+          "id": 5371106,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "01b165f6-fe7b-4b65-a79c-c226d9f081a0",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2023-04-13T11:57:07.943103"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Kolikko ja noppa 12 p.\n\nPelissä heitetään kolikkoa ja tavallista noppaa.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 156294,
+          "content": {
+            "text": "### Kolikko ja noppa 12 p.\n\nPelissä heitetään kolikkoa ja tavallista noppaa.",
+            "displayNumber": "7."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "1bd8a324-8353-43e0-8e5c-f04f1611a326"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-07T07:43:54.754168",
+          "max_score": null,
+          "groupping": null,
+          "id": 5371279,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "64e5678a-1637-4c40-bf3a-03bba282ec0c",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2023-04-13T12:05:08.021099"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Peruskoulujen lukumäärä Suomessa 12 p.\n\n#### Aineisto\n\n12.A [LINK text=Taulukko: Peruskoulujen lukumäärä|url=https://yle.fi/plus/abitreenit/2023/kevat/2023-03-22_N_fi/attachments/index.html#12.A]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 156294,
+          "content": {
+            "text": "### Peruskoulujen lukumäärä Suomessa 12 p.\n\n#### Aineisto\n\n12.A [LINK text=Taulukko: Peruskoulujen lukumäärä|url=https://yle.fi/plus/abitreenit/2023/kevat/2023-03-22_N_fi/attachments/index.html#12.A]",
+            "displayNumber": "12."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "2cd9031d-80ba-4689-b6d4-24a175544829"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-07T07:43:54.76183",
+          "max_score": null,
+          "groupping": null,
+          "id": 5376775,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "9d2c5dac-bbca-4814-bc42-448d79c76a93",
+          "order_number": 15,
+          "multipart": true,
+          "created_at": "2023-04-14T11:20:01.278069"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Hirsitalo painuu kokoon 12 p.\n\nHirsitalon rakentamisessa pitää huomioida, että rakennus painuu kokoon muutaman vuoden ajan. Tämä tehdään jättämällä rako eli niin sanottu painumavara esimerkiksi ovien ja ikkunoiden päälle. Eräs uuden hirsitalon omistaja arvioi, että hirsien painumista tapahtuu kahdeksan vuoden ajan ja vuotuiset painumat muodostavat geometrisen lukujonon. Hänen talonsa painumavara on 6,0 cm.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 156294,
+          "content": {
+            "text": "### Hirsitalo painuu kokoon 12 p.\n\nHirsitalon rakentamisessa pitää huomioida, että rakennus painuu kokoon muutaman vuoden ajan. Tämä tehdään jättämällä rako eli niin sanottu painumavara esimerkiksi ovien ja ikkunoiden päälle. Eräs uuden hirsitalon omistaja arvioi, että hirsien painumista tapahtuu kahdeksan vuoden ajan ja vuotuiset painumat muodostavat geometrisen lukujonon. Hänen talonsa painumavara on 6,0 cm.",
+            "displayNumber": "10."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "f08261d8-1842-4177-bb2a-0ba9e633953a"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-07T07:43:54.767267",
+          "max_score": null,
+          "groupping": null,
+          "id": 5376702,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "dffa21bf-2d4f-4bb6-ba58-5e77bb352775",
+          "order_number": 13,
+          "multipart": true,
+          "created_at": "2023-04-14T11:06:25.040662"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "1  Auta talon omistajaa esittämällä geometrinen lukujono, joka kuvaa talon vuosittaista painumista. Lukujono täyttää seuraavat ehdot:\n\n\n\n-Ensimmäinen jäsen kuuluu välille [2,0 cm; 3,0 cm].\n\n-Kahdeksan ensimmäisen jäsenen summa [MATH text=S] kuuluu välille [5,0 cm; 6,0 cm].\n\n\n\nIlmoita vastauksessa lukujonon suhdeluku [MATH text=q] ja osoita laskulla, että summa [MATH text=S] kuuluu vaaditulle välille. **(8 p.)**\n\n\n\n2   Piirrä pylväsdiagrammi kahdeksan ensimmäisen vuoden vuosittaisista painumista. **(4 p.)**",
+          "deleted_at": null,
+          "feedback": "Ks. [LINK text=hyvän vastauksen piirteet|url=https://drive.google.com/file/d/1M_0suv8xqApL9BVjCO61Jh6Hd8D6VKcD/view]",
+          "exam_id": 156294,
+          "content": {
+            "text": "1  Auta talon omistajaa esittämällä geometrinen lukujono, joka kuvaa talon vuosittaista painumista. Lukujono täyttää seuraavat ehdot:\n\n\n\n-Ensimmäinen jäsen kuuluu välille [2,0 cm; 3,0 cm].\n\n-Kahdeksan ensimmäisen jäsenen summa [MATH text=S] kuuluu välille [5,0 cm; 6,0 cm].\n\n\n\nIlmoita vastauksessa lukujonon suhdeluku [MATH text=q] ja osoita laskulla, että summa [MATH text=S] kuuluu vaaditulle välille. **(8 p.)**\n\n\n\n2   Piirrä pylväsdiagrammi kahdeksan ensimmäisen vuoden vuosittaisista painumista. **(4 p.)**"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-07T07:43:54.774694",
+          "max_score": null,
+          "groupping": null,
+          "id": 5376703,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "f08261d8-1842-4177-bb2a-0ba9e633953a",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2023-04-14T11:06:25.043066"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Peruskoulujen lukumäärä Suomessa vuosina 2005–2020 on esitetty taulukossa 12.A.\n\n\n\n1  Piirrä diagrammi, joka esittää peruskoulujen lukumäärät vuosina 2005–2020. **(2 p.)**\n\n2  Sovita aineistoon regressiosuora [MATH text=y=a+bx], kun vuosi on [MATH text=x]-akselilla ja peruskoulujen määrä y-akselilla. Selitä sanallisesti kertoimien [MATH text=a] ja [MATH text=b] merkitys. **(4 p.)**\n\n3  Sovita aineistoon regressiosuora käyttäen vain vuosien 2005–2008 peruskoulujen lukumääriä. **(2 p.)**\n\n4  Arvioi kummankin mallin perusteella vuosi, jolloin peruskoulut häviävät Suomesta. **(4 p.)**",
+          "deleted_at": null,
+          "feedback": "Ks. [LINK text=hyvän vastauksen piirteet. |url=https://drive.google.com/file/d/1M_0suv8xqApL9BVjCO61Jh6Hd8D6VKcD/view]",
+          "exam_id": 156294,
+          "content": {
+            "text": "Peruskoulujen lukumäärä Suomessa vuosina 2005–2020 on esitetty taulukossa 12.A.\n\n\n\n1  Piirrä diagrammi, joka esittää peruskoulujen lukumäärät vuosina 2005–2020. **(2 p.)**\n\n2  Sovita aineistoon regressiosuora [MATH text=y=a+bx], kun vuosi on [MATH text=x]-akselilla ja peruskoulujen määrä y-akselilla. Selitä sanallisesti kertoimien [MATH text=a] ja [MATH text=b] merkitys. **(4 p.)**\n\n3  Sovita aineistoon regressiosuora käyttäen vain vuosien 2005–2008 peruskoulujen lukumääriä. **(2 p.)**\n\n4  Arvioi kummankin mallin perusteella vuosi, jolloin peruskoulut häviävät Suomesta. **(4 p.)**"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-07T07:43:54.780935",
+          "max_score": null,
+          "groupping": null,
+          "id": 5376776,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "2cd9031d-80ba-4689-b6d4-24a175544829",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2023-04-14T11:20:01.281297"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Perusyhtälöitä 12 p.\n\nAlla on kuusi osatehtävää 1.1–1.6. Kirjoita kunkin osatehtävän vastauskenttään pelkkä laskun lopputulos ilman välivaiheita ja perusteluja. Jokaisen osatehtävän vastaus on kokonaisluku.\n\n\n\nTehtävässä ei voi käyttää kuvakaappauksia eikä kaavaeditoria. Kunkin vastauksen maksimipituus on 5 merkkiä. Vastaukset arvostellaan tietokoneavusteisesti, ja ohjeiden noudattamatta jättäminen voi johtaa pistevähennyksiin. Jokaisesta osatehtävästä voi saada 2 pistettä.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 156294,
+          "content": {
+            "text": "### Perusyhtälöitä 12 p.\n\nAlla on kuusi osatehtävää 1.1–1.6. Kirjoita kunkin osatehtävän vastauskenttään pelkkä laskun lopputulos ilman välivaiheita ja perusteluja. Jokaisen osatehtävän vastaus on kokonaisluku.\n\n\n\nTehtävässä ei voi käyttää kuvakaappauksia eikä kaavaeditoria. Kunkin vastauksen maksimipituus on 5 merkkiä. Vastaukset arvostellaan tietokoneavusteisesti, ja ohjeiden noudattamatta jättäminen voi johtaa pistevähennyksiin. Jokaisesta osatehtävästä voi saada 2 pistettä.",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "c806c876-dffd-45ce-b68a-c01574c65374",
+            "b0e77f94-d7f3-4fb6-873c-04da4a00609c",
+            "c250c4ad-b33e-4506-bbdd-593c8b0fa05a",
+            "e6d433be-1645-4ea1-946a-1266dbccbde9",
+            "6987b200-c885-45fb-be45-8f5e1e2211e9",
+            "4e1c0f1e-50bb-4d8e-b09e-7df7c25d7551"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-07T07:43:54.783343",
+          "max_score": null,
+          "groupping": null,
+          "id": 5368008,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "88974280-05a4-453b-9fe5-61badbc1a08c",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2023-04-12T13:23:42.078832"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Tasakylkinen kolmio 12 p.\n\nKolmion [MATH text=ABC]sivut [MATH text=AB] ja [MATH text=AC] ovat 6 senttimetriä pitkiä, ja niiden välinen kulma on [MATH text=\\alpha]. Piste [MATH text=D] sijaitsee sivulla [MATH text=AB] niin, että jana [MATH text=CD] on kohtisuorassa sivua [MATH text=AB] vastaan.",
+          "deleted_at": null,
+          "feedback": "Kolmio [MATH text=ACD] on suorakulmainen kolmio, jonka kulmat ovat 30 astetta, 60 astetta ja 90 astetta.1 p.\n\n\n\nKoska kolmion hypotenuusan pituus on 6 cm, saadaan janan CD pituus yhtälöstä [MATH text=30°\\ =\\ \\frac{CD}{6}], joten kysytty pituus on 3 cm. 3p.\n\n\n\nKolmioiden pinta-alat ovat yhtä suuret, kun piste D jakaa janan AB kahteen yhtä pitkään osaan. 2p.\n\n\n\nTällöin molempien kolmioiden korkeus on sama CD ja kanta AD = BD = 3. Kolmiot BCD ja ACD ovat siis yhdenmuotoisia, eli kolmion kärkikulman [MATH text=\\alpha] on oltava yhtä suuri kuin kolmion ABC kantakulman. Kolmio on siis tasasivuinen, eli kysytty kulman suuruus on 60 astetta. 2p.\n\n\n\nKoska [MATH text=\\frac{BD}{AB}=\\ \\frac{1}{3}] , niin  *AD =* 4 cm. 2p.\n\n\n\nJanan CD pituus saadaan Pythagoraan lauseella:[MATH text=\\sqrt{6^2\\ -\\ 4^2\\ }=\\ \\sqrt{20}=\\ 2\\sqrt{5}\\approx4{,}5\\ cm.] 2p.",
+          "exam_id": 156294,
+          "content": {
+            "text": "### Tasakylkinen kolmio 12 p.\n\nKolmion [MATH text=ABC]sivut [MATH text=AB] ja [MATH text=AC] ovat 6 senttimetriä pitkiä, ja niiden välinen kulma on [MATH text=\\alpha]. Piste [MATH text=D] sijaitsee sivulla [MATH text=AB] niin, että jana [MATH text=CD] on kohtisuorassa sivua [MATH text=AB] vastaan.",
+            "displayNumber": "4."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "a6e18d5c-3b11-42f1-a7be-d40ca1d61c39"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-07T07:43:54.785246",
+          "max_score": null,
+          "groupping": null,
+          "id": 5371029,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "15b465ed-3ea6-4f9b-8af4-0b176bf294d6",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2023-04-13T11:54:06.765615"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "1. Mikä on todennäköisyys sille, että pelaaja A saa yhdellä kolikonheitolla klaavan ja pelaaja B yhdellä nopanheitolla silmäluvun 5? **(4 p.)**\n2. Pelaaja C väittää pelaajalle D: ''On todennäköisempää, että minä saan kahdella kolikonheitolla kaksi klaavaa kuin että sinä saat kahdella nopanheitolla summaksi vähintään yhdeksän.'' Onko pelaaja C oikeassa? **(8 p.)**",
+          "deleted_at": null,
+          "feedback": "Pelaajan A klaavan todennäköisyys on [MATH text=\\frac{1}{2}], ja pelaajan B silmäluvun 5 todennäköisyys on [MATH text=\\frac{1}{6}]. 2p.\n\n\n\nTodennäköisyys, että pelaaja C saa kaksi klaavaa on [MATH text=\\frac{1}{2}\\cdot\\frac{1}{2}=\\frac{1}{4}] . 2p.\n\n\n\nPelaajan D kaikkien mahdollisuuksien lukumäärä on [MATH text=6·6=36]. 1p.\n\n\n\nSuotuisat tapaukset ovat: (3, 6), (4, 5), (4, 6), (5, 4)‚ (5, 5), (5, 6), (6, 3)‚ (6, 4), (6, 5) ja (6, 6). 2 p.\n\n\n\nSuotuisia tapauksia on siis 10 kappaletta. 1p.\n\n\n\nKoska [MATH text=\\frac{10}{36}>\\frac{9}{36}=\\ \\frac{1}{4}] , 1p.\n\n\n\non pelaaja C väärässä. 1p.",
+          "exam_id": 156294,
+          "content": {
+            "text": "1. Mikä on todennäköisyys sille, että pelaaja A saa yhdellä kolikonheitolla klaavan ja pelaaja B yhdellä nopanheitolla silmäluvun 5? **(4 p.)**\n2. Pelaaja C väittää pelaajalle D: ''On todennäköisempää, että minä saan kahdella kolikonheitolla kaksi klaavaa kuin että sinä saat kahdella nopanheitolla summaksi vähintään yhdeksän.'' Onko pelaaja C oikeassa? **(8 p.)**"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-07T07:43:54.790079",
+          "max_score": null,
+          "groupping": null,
+          "id": 5371280,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "1bd8a324-8353-43e0-8e5c-f04f1611a326",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2023-04-13T12:05:08.026688"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Paraabeli [MATH text=y\\ =\\ x^2\\ +\\ bx\\ +\\ c] kulkee pisteen (9, 5) kautta, ja siinä sen tangentin kulmakerroin on [MATH text=2]. Määritä kertoimet [MATH text=b] ja [MATH text=c] derivaatan avulla.",
+          "deleted_at": null,
+          "feedback": "Koska paraabeli kulkee pisteen (9, 5) kautta, pätee [MATH text=  9²+9b+c=5  ] .2 p.\n\n\n\nTangentin kulmakerroin saadaan derivaatan avulla. Derivaatan lauseke on 2x + b. 2p.\n\n\n\nDerivaattaehdosta saadaan toinen yhtälö [MATH text=2·9+b=2] .2 p.\n\n\n\nJälkimmäisestä yhtälöstä saadaan b=-16, 2 p.\n\n\n\njoka sijoitetaan ensimmäiseen yhtälöön ja saadaan [MATH text=9^2\\ +\\ 9\\ \\cdot\\ \\left(-16\\right)\\ +\\ c\\ =\\ 5] , 2 p.\n\n\n\njoten [MATH text=c = 5 + 9 · 16 - 81 = 68 ]. 2 p.",
+          "exam_id": 156294,
+          "content": {
+            "text": "Paraabeli [MATH text=y\\ =\\ x^2\\ +\\ bx\\ +\\ c] kulkee pisteen (9, 5) kautta, ja siinä sen tangentin kulmakerroin on [MATH text=2]. Määritä kertoimet [MATH text=b] ja [MATH text=c] derivaatan avulla."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-07T07:43:54.792634",
+          "max_score": null,
+          "groupping": null,
+          "id": 5371282,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "274f8a2a-3732-47a9-8106-0b94c7e025aa",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2023-04-13T12:05:08.031179"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Tuhannen palan palapelin koko on 70 cm [MATH text=\\times] 50 cm. Arvioi, kuinka suuri osuus paloista on reunapaloja. Kirjoita näkyviin, mitä oletuksia arvioinnissasi teet.",
+          "deleted_at": null,
+          "feedback": "Ks. [LINK text=hyvän vastauksen piirteet. |url=https://drive.google.com/file/d/1M_0suv8xqApL9BVjCO61Jh6Hd8D6VKcD/view]",
+          "exam_id": 156294,
+          "content": {
+            "text": "Tuhannen palan palapelin koko on 70 cm [MATH text=\\times] 50 cm. Arvioi, kuinka suuri osuus paloista on reunapaloja. Kirjoita näkyviin, mitä oletuksia arvioinnissasi teet."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-07T07:43:54.796114",
+          "max_score": null,
+          "groupping": null,
+          "id": 5376734,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "62c5015c-1a15-4115-a94a-37b5ace67264",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2023-04-14T11:07:39.997187"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "1. Vuonna 2019 sairaanhoitajan keskimääräinen kuukausipalkka oli 2 535 euroa. Eräs sairaanhoitaja sai 6 prosenttia keskimääräistä parempaa palkkaa. Hänen nettopalkkansa, eli tilille kuukausittain maksettava summa, oli 1 777,25 euroa. Kuinka monta prosenttia palkasta meni veroihin ja muihin pidätettäviin maksuihin? **(6 p.)**\n2. Vuonna 2021 koronaviruskotitestin arvonlisävero oli 24 % ja myyntihinta 5,60 euroa. Tutkijaryhmä ehdotti testien arvonlisäveron alentamista 10 %:iin. Kuinka paljon tuote maksaa, jos tällainen veron muutos siirtyy täysimääräisesti hintaan? **(6 p.)**",
+          "deleted_at": null,
+          "feedback": "Sairaanhoitajan palkka on [MATH text=1,06 · 2535 ≈ 2687, 10] euroa. 2 p.\n\nPidätysprosentti on siis [MATH text=\\frac{2687{,}10\\ -\\ 1777{,}25}{2687{,}10}\\approx0{,}3386\\ =\\ 33{,}9\\%] 4p.\n\nKotitestin veroton hinta on [MATH text=\\frac{5{,}60}{1{,}24}\\cdot] 3 p.\n\nKun arvonlisävero on pienempi, hinta on siis [MATH text=\\frac{5{,}60}{1{,}24}\\cdot\\ 1{,}1\\ \\approx\\ 4{,}97] euroa. 3p. ",
+          "exam_id": 156294,
+          "content": {
+            "text": "1. Vuonna 2019 sairaanhoitajan keskimääräinen kuukausipalkka oli 2 535 euroa. Eräs sairaanhoitaja sai 6 prosenttia keskimääräistä parempaa palkkaa. Hänen nettopalkkansa, eli tilille kuukausittain maksettava summa, oli 1 777,25 euroa. Kuinka monta prosenttia palkasta meni veroihin ja muihin pidätettäviin maksuihin? **(6 p.)**\n2. Vuonna 2021 koronaviruskotitestin arvonlisävero oli 24 % ja myyntihinta 5,60 euroa. Tutkijaryhmä ehdotti testien arvonlisäveron alentamista 10 %:iin. Kuinka paljon tuote maksaa, jos tällainen veron muutos siirtyy täysimääräisesti hintaan? **(6 p.)**"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-07T07:43:54.799216",
+          "max_score": null,
+          "groupping": null,
+          "id": 5370985,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "397a4248-8fb2-40af-a8a7-3b8ce668a062",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2023-04-13T11:45:52.717504"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Älypuhelinten keskimääräiset käyttöiät eräissä maissa on esitetty taulukossa 9.A.\n\n\n\n1   Laske taulukossa esitettyjen keskimääräisten käyttöikien keskiarvo [MATH text=\\overline x] ja keskihajonta [MATH text=s]. **(4 p.)**\n\n\n\n2    Miksi osatehtävässä 9.1 laskettu keskiarvo [MATH text=\\overline x] ei tuota kyseisten maiden älypuhelinten käyttöikien keskiarvoa? **(4 p.)**\n\n\n\n3    Oletetaan, että älypuhelinten käyttöikä koko maailmassa noudattaa normaalijakaumaa, jonka odotusarvo on 23 kuukautta ja keskihajonta 2,55 kuukautta. Millä todennäköisyydellä satunnaisesti valitun älypuhelimen käyttöikä on vähintään kolme vuotta? **(4 p.)**",
+          "deleted_at": null,
+          "feedback": "Ks. [LINK text=hyvän vastauksen piirteet|url=https://drive.google.com/file/d/1M_0suv8xqApL9BVjCO61Jh6Hd8D6VKcD/view].",
+          "exam_id": 156294,
+          "content": {
+            "text": "Älypuhelinten keskimääräiset käyttöiät eräissä maissa on esitetty taulukossa 9.A.\n\n\n\n1   Laske taulukossa esitettyjen keskimääräisten käyttöikien keskiarvo [MATH text=\\overline x] ja keskihajonta [MATH text=s]. **(4 p.)**\n\n\n\n2    Miksi osatehtävässä 9.1 laskettu keskiarvo [MATH text=\\overline x] ei tuota kyseisten maiden älypuhelinten käyttöikien keskiarvoa? **(4 p.)**\n\n\n\n3    Oletetaan, että älypuhelinten käyttöikä koko maailmassa noudattaa normaalijakaumaa, jonka odotusarvo on 23 kuukautta ja keskihajonta 2,55 kuukautta. Millä todennäköisyydellä satunnaisesti valitun älypuhelimen käyttöikä on vähintään kolme vuotta? **(4 p.)**"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-07T07:43:54.801206",
+          "max_score": null,
+          "groupping": null,
+          "id": 5371458,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "720beedc-f47b-4e47-944e-686034329171",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2023-04-13T12:08:11.420194"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "*Kokeen tehtävät loppuvat tähän.*",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 156294,
+          "content": {
+            "text": "*Kokeen tehtävät loppuvat tähän.*"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-07T07:43:54.803662",
+          "max_score": null,
+          "groupping": null,
+          "id": 5376844,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "f8d5ddab-c004-4110-86b3-0e59fa7641ec",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2023-04-14T11:36:59.939395"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": null,
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 156294,
+          "content": {},
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-07T07:43:54.805629",
+          "max_score": null,
+          "groupping": null,
+          "id": 5376843,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "f935afa2-e339-47da-96fd-9a89aefe6a54",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2023-04-14T11:36:59.924057"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Reunapalat 12 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 156294,
+          "content": {
+            "text": "### Reunapalat 12 p.",
+            "displayNumber": "11."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "62c5015c-1a15-4115-a94a-37b5ace67264"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-07T07:43:54.80744",
+          "max_score": null,
+          "groupping": null,
+          "id": 5376733,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "a4514dac-6dc1-40f3-b343-b7b551af34ee",
+          "order_number": 14,
+          "multipart": true,
+          "created_at": "2023-04-14T11:07:39.99381"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "## B2-osa\n\n*Vastaa kolmeen tehtävään.*",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 156294,
+          "content": {
+            "text": "## B2-osa\n\n*Vastaa kolmeen tehtävään.*"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-07T07:43:54.810066",
+          "max_score": null,
+          "groupping": null,
+          "id": 5376701,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "02ce3400-5977-465f-a173-a934f61b8915",
+          "order_number": 12,
+          "multipart": true,
+          "created_at": "2023-04-14T11:06:25.038167"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Lahjavero 12 p\n\n#### Aineisto\n\n6.A [LINK text=Taulukko: Lahjaveron määrä|url=https://yle.fi/plus/abitreenit/2023/kevat/2023-03-22_N_fi/attachments/index.html#6.A]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 156294,
+          "content": {
+            "text": "### Lahjavero 12 p\n\n#### Aineisto\n\n6.A [LINK text=Taulukko: Lahjaveron määrä|url=https://yle.fi/plus/abitreenit/2023/kevat/2023-03-22_N_fi/attachments/index.html#6.A]",
+            "displayNumber": "6."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "27c57f85-1101-430c-bcd1-719c7aba9cdb"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-07T07:43:54.816044",
+          "max_score": null,
+          "groupping": null,
+          "id": 5371277,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "ebabc308-00d7-4921-88c8-e682f0e31c38",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2023-04-13T12:05:08.016014"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Paraabelin tangentti 12 p",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 156294,
+          "content": {
+            "text": "### Paraabelin tangentti 12 p",
+            "displayNumber": "8."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "274f8a2a-3732-47a9-8106-0b94c7e025aa"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-07T07:43:54.818123",
+          "max_score": null,
+          "groupping": null,
+          "id": 5371281,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "2785e85c-6748-4507-9814-9487071abb48",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2023-04-13T12:05:08.028902"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Eksponenttiyhtälön[MATH text=2^x-128=0] ratkaisu on **2 p**.\n\n\n\n[MATH text= x = ] [GAP id=1]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 156294,
+          "content": {
+            "text": "Eksponenttiyhtälön[MATH text=2^x-128=0] ratkaisu on **2 p**.\n\n\n\n[MATH text= x = ] [GAP id=1]",
+            "displayNumber": "1.6"
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-07T07:43:54.820538",
+          "max_score": 2,
+          "groupping": null,
+          "id": 5370960,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "parent": "4e1c0f1e-50bb-4d8e-b09e-7df7c25d7551",
+              "choices": [],
+              "correct": "7",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "4e1c0f1e-50bb-4d8e-b09e-7df7c25d7551",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2023-04-13T10:26:39.643016"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Prosentteja 12 p",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 156294,
+          "content": {
+            "text": "### Prosentteja 12 p",
+            "displayNumber": "3."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "397a4248-8fb2-40af-a8a7-3b8ce668a062"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-07T07:43:54.822953",
+          "max_score": null,
+          "groupping": null,
+          "id": 5370972,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "4048cefa-aa1a-4626-9d7a-60c9e155e4b5",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2023-04-13T11:44:02.72763"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Yhtälöiden ratkaisut 12 p",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 156294,
+          "content": {
+            "text": "### Yhtälöiden ratkaisut 12 p",
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "858d2b77-ac21-4cf9-81a2-8684a06b0f19"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-07T07:43:54.825379",
+          "max_score": null,
+          "groupping": null,
+          "id": 5370969,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "e96335e0-e1b7-4a62-8be3-ff8feaa985fa",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2023-04-13T11:44:02.716931"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Yhtälön [MATH text=x² = 8x] suurempi ratkaisu on **2 p**\n\n\n\n[MATH text=x = ][GAP id=1]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 156294,
+          "content": {
+            "text": "Yhtälön [MATH text=x² = 8x] suurempi ratkaisu on **2 p**\n\n\n\n[MATH text=x = ][GAP id=1]",
+            "displayNumber": "1.4"
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-07T07:43:54.827897",
+          "max_score": 2,
+          "groupping": null,
+          "id": 5368027,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "parent": "e6d433be-1645-4ea1-946a-1266dbccbde9",
+              "choices": [],
+              "correct": "8",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "e6d433be-1645-4ea1-946a-1266dbccbde9",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2023-04-12T14:51:31.418097"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Yhtälön [MATH text=5x-2=13] ratkaisu on **2 p**. \n\n\n\n[MATH text=x =] [GAP id=1]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 156294,
+          "content": {
+            "text": "Yhtälön [MATH text=5x-2=13] ratkaisu on **2 p**. \n\n\n\n[MATH text=x =] [GAP id=1]",
+            "displayNumber": "1.2"
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-07T07:43:54.829848",
+          "max_score": 2,
+          "groupping": null,
+          "id": 5368014,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "parent": "b0e77f94-d7f3-4fb6-873c-04da4a00609c",
+              "choices": [],
+              "correct": "3",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "b0e77f94-d7f3-4fb6-873c-04da4a00609c",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2023-04-12T14:43:45.860627"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "## A-osa\n\nVastaa neljään tehtävään.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 156294,
+          "content": {
+            "text": "## A-osa\n\nVastaa neljään tehtävään."
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-07T07:43:54.832442",
+          "max_score": null,
+          "groupping": null,
+          "id": 5368007,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "b7181dc9-d685-4aa8-9441-4756cfea6f3d",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2023-04-12T13:23:42.073437"
+        }
+      ],
+      "name": "Matematiikka, lyhyt oppimäärä kevät 2023",
+      "settings": {},
+      "exam_type": "yo-koe",
+      "classification": {
+        "category": "",
+        "disable_saving": false,
+        "hide_review_buttons": false,
+        "exam_type": "yo-koe",
+        "year": "2023",
+        "language": "fi-FI",
+        "hide_statistics": false,
+        "show_exam_series": false,
+        "force_yletunnus": false,
+        "subject": "matematiikka-lyhyt",
+        "published": true,
+        "semester": "spring"
+      },
+      "published_at": "2023-04-27T10:10:32.000Z",
+      "language": "fi-FI",
+      "id": 156294,
+      "reviews": [],
+      "is_open": true,
+      "uuid": "b23aa135-c1aa-40b6-9619-b4b8d774f2a0"
+    }
+  ]
+}

@@ -1,0 +1,4980 @@
+{
+  "meta": {
+    "count": 1
+  },
+  "data": [
+    {
+      "tags": [
+        ""
+      ],
+      "main_text": "",
+      "characters": null,
+      "deleted_at": null,
+      "series_uuids": [],
+      "questions": [
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Art of Living Car-lessly in the City**\n\n&NewLine;\n\nRead the text and for each item choose the alternative that best fits the context. (9 p.) \n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "**Art of Living Car-lessly in the City**\n\n&NewLine;\n\nRead the text and for each item choose the alternative that best fits the context. (9 p.) \n",
+            "questionType": "grammar",
+            "displayNumber": "16."
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "634aa8ad-36e2-41c8-be73-17939d277a3e"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-03-18T11:35:59.906259",
+          "max_score": null,
+          "groupping": null,
+          "id": 1210509,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "a534fd2f-18a2-4c41-b073-347189f66334",
+          "order_number": 20,
+          "multipart": true,
+          "created_at": "2019-03-01T12:53:11.066479"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What is the main risk when giving wolves more space? (2 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "What is the main risk when giving wolves more space? (2 p.)\n",
+            "displayNumber": "4.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.901763",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1210856,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 138,
+              "text": "They could attack farm animals",
+              "parent": "f398e008-0fe4-474e-89b6-24c225c6f687",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 139,
+              "text": "Conservationists might lose track of them",
+              "parent": "f398e008-0fe4-474e-89b6-24c225c6f687",
+              "choices": []
+            },
+            {
+              "id": 140,
+              "text": "Farmers might hunt them",
+              "parent": "f398e008-0fe4-474e-89b6-24c225c6f687",
+              "choices": []
+            }
+          ],
+          "uuid": "f398e008-0fe4-474e-89b6-24c225c6f687",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2019-03-01T13:39:22.381866"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What do Ricky Wilson and Simon Rix say about Leeds and London? (3 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "What do Ricky Wilson and Simon Rix say about Leeds and London? (3 p.)\n",
+            "displayNumber": "9.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.894279",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1210108,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "text": "Both cities have lost a lot of their cultural identity",
+              "parent": "773de5f4-0fed-409b-8602-866f00b29c3d",
+              "choices": []
+            },
+            {
+              "id": 2,
+              "text": "Both cities suffer from cultural and economic depression",
+              "parent": "773de5f4-0fed-409b-8602-866f00b29c3d",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 3,
+              "text": "Both cities’ physical appearance has changed considerably",
+              "parent": "773de5f4-0fed-409b-8602-866f00b29c3d",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "773de5f4-0fed-409b-8602-866f00b29c3d",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2019-03-01T11:44:42.954355"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What positive aspect of wolves should wildlife management plans consider? (2 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "What positive aspect of wolves should wildlife management plans consider? (2 p.)\n",
+            "displayNumber": "4.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.882614",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1210857,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 141,
+              "text": "They don’t stay in any one area",
+              "parent": "273627e7-837d-4038-af34-91a980d5011c",
+              "choices": []
+            },
+            {
+              "id": 142,
+              "text": "They can protect farms from other predators",
+              "parent": "273627e7-837d-4038-af34-91a980d5011c",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 143,
+              "text": "They usually avoid human settlements",
+              "parent": "273627e7-837d-4038-af34-91a980d5011c",
+              "choices": []
+            }
+          ],
+          "uuid": "273627e7-837d-4038-af34-91a980d5011c",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2019-03-01T13:39:22.384178"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Minkä ns. PSPO:t (Public Space Protection Orders) mahdollistavat, ja miksi tämä on ihmisoikeusjärjestöjen mielestä ongelmallista? Vastaa lyhyesti suomeksi. (6 p.)\n",
+          "deleted_at": null,
+          "feedback": "Sakottamisen laillisistakin asioista (3 p.); niillä on heikennetty huono-osaisten tilannetta entisestään / sakotettu asunnottomia (3 p.)\n",
+          "exam_id": 35116,
+          "content": {
+            "text": "Minkä ns. PSPO:t (Public Space Protection Orders) mahdollistavat, ja miksi tämä on ihmisoikeusjärjestöjen mielestä ongelmallista? Vastaa lyhyesti suomeksi. (6 p.)\n",
+            "displayNumber": "8.1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.873618",
+          "max_score": null,
+          "groupping": null,
+          "id": 1210871,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "6aedbfd1-2cda-470d-91e6-8a1ce1c98f69",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2019-03-01T13:39:22.416344"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What was special about Roy Lichtenstein’s comic art? (2 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "What was special about Roy Lichtenstein’s comic art? (2 p.)\n",
+            "displayNumber": "3.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.869548",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1210852,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 129,
+              "text": "The words in the bubbles were not typical comic book language",
+              "parent": "5eb343e8-91c1-4370-8489-d7e2d0ca5d0b",
+              "choices": []
+            },
+            {
+              "id": 130,
+              "text": "The comic book style was combined with modern architecture",
+              "parent": "5eb343e8-91c1-4370-8489-d7e2d0ca5d0b",
+              "choices": []
+            },
+            {
+              "id": 131,
+              "text": "The dimensions of his work surpassed those of typical comic books",
+              "parent": "5eb343e8-91c1-4370-8489-d7e2d0ca5d0b",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "5eb343e8-91c1-4370-8489-d7e2d0ca5d0b",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2019-03-01T13:39:22.372947"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "You are taking a course on creative writing and are asked to discuss your thoughts and feelings after reading this poem by e.e.cummings. Please write your reflections in the form of an essay.\n\n​\n\n​\n\nMe up at does\n\n​\n\nout of the floor\n\nquietly Stare\n\n​\n\na poisoned mouse\n\n​\n\nstill who alive\n\n​\n\nis asking What\n\nhave i done that\n\n​\n\nYou wouldn’t have\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "You are taking a course on creative writing and are asked to discuss your thoughts and feelings after reading this poem by e.e.cummings. Please write your reflections in the form of an essay.\n\n​\n\n​\n\nMe up at does\n\n​\n\nout of the floor\n\nquietly Stare\n\n​\n\na poisoned mouse\n\n​\n\nstill who alive\n\n​\n\nis asking What\n\nhave i done that\n\n​\n\nYou wouldn’t have\n",
+            "questionType": "writing",
+            "displayNumber": "18.1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-03-18T11:35:59.858115",
+          "max_score": null,
+          "groupping": null,
+          "id": 1210586,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "bf7855ca-c060-4a90-a730-d6fe2c2109fd",
+          "order_number": 23,
+          "multipart": true,
+          "created_at": "2019-03-01T12:57:03.161323"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Blog postcard**\n\n​\n\nYou are spending a semester abroad as an exchange student, and the organisation arranging the exchange requires that all exchange students send a “blog postcard” to the organisation’s blog. In the blog postcard, the students should briefly describe their studies there and the target culture in general and compare them with their home country. Write your blog postcard.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "**Blog postcard**\n\n​\n\nYou are spending a semester abroad as an exchange student, and the organisation arranging the exchange requires that all exchange students send a “blog postcard” to the organisation’s blog. In the blog postcard, the students should briefly describe their studies there and the target culture in general and compare them with their home country. Write your blog postcard.\n",
+            "questionType": "writing",
+            "displayNumber": "18.3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-03-18T11:35:59.853622",
+          "max_score": null,
+          "groupping": null,
+          "id": 1210588,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "817a1728-6d00-453a-ba38-5e371efeb942",
+          "order_number": 25,
+          "multipart": true,
+          "created_at": "2019-03-01T12:57:03.166934"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kahdeksanvuotias pikkusiskosi käytti tätä tuotetta ensin tammikuun ajan, ja sitten uudelleen koko toukokuun. Nyt on heinäkuu, ja hänellä on taas allerginen nuha. Miten neuvoisit vanhempiasi toimimaan? Vastaa lyhyesti suomeksi. (3 p.)\n",
+          "deleted_at": null,
+          "feedback": "Pitää kysyä lääkäriltä (3 p.)\n",
+          "exam_id": 35116,
+          "content": {
+            "text": "Kahdeksanvuotias pikkusiskosi käytti tätä tuotetta ensin tammikuun ajan, ja sitten uudelleen koko toukokuun. Nyt on heinäkuu, ja hänellä on taas allerginen nuha. Miten neuvoisit vanhempiasi toimimaan? Vastaa lyhyesti suomeksi. (3 p.)\n",
+            "questionType": "reading",
+            "displayNumber": "15.1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.847659",
+          "max_score": null,
+          "groupping": null,
+          "id": 1210376,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "9d0d860c-fd0d-4e25-9a79-ccbaa21df2a0",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2019-03-01T12:45:22.673291"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "The women are also being encouraged to **cascade** their new skills to other young women seeking employment in their communities.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "The women are also being encouraged to **cascade** their new skills to other young women seeking employment in their communities.\n",
+            "questionType": "reading",
+            "displayNumber": "10.9."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.822793",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1210165,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 46,
+              "text": "transpire",
+              "parent": "3161701c-9150-4710-8406-cf909fb6bc7e",
+              "choices": []
+            },
+            {
+              "id": 47,
+              "text": "generate",
+              "parent": "3161701c-9150-4710-8406-cf909fb6bc7e",
+              "choices": []
+            },
+            {
+              "id": 48,
+              "text": "circulate",
+              "parent": "3161701c-9150-4710-8406-cf909fb6bc7e",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "3161701c-9150-4710-8406-cf909fb6bc7e",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2019-03-01T12:10:08.128133"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Why has the Active Citizens programme reached so many people? (3 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "Why has the Active Citizens programme reached so many people? (3 p.)\n",
+            "questionType": "reading",
+            "displayNumber": "10.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.820634",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1210130,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 19,
+              "text": "They have been working for several years",
+              "parent": "85af9c67-2cb7-4121-bb25-298468ecd08c",
+              "choices": []
+            },
+            {
+              "id": 20,
+              "text": "Their trainees spread its influence",
+              "parent": "85af9c67-2cb7-4121-bb25-298468ecd08c",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 21,
+              "text": "Their health programmes save lives",
+              "parent": "85af9c67-2cb7-4121-bb25-298468ecd08c",
+              "choices": []
+            }
+          ],
+          "uuid": "85af9c67-2cb7-4121-bb25-298468ecd08c",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2019-03-01T12:09:08.235421"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Through the training, the young _Active Citizens_ were introduced to different ways of creating change and learned the important role dialogue plays in **instigating** change within communities.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "Through the training, the young _Active Citizens_ were introduced to different ways of creating change and learned the important role dialogue plays in **instigating** change within communities.\n",
+            "questionType": "reading",
+            "displayNumber": "10.7."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.816408",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1210138,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 40,
+              "text": "inferring",
+              "parent": "fe32d9c8-4e5b-4515-a29d-3301b7683dbd",
+              "choices": []
+            },
+            {
+              "id": 41,
+              "text": "indicting",
+              "parent": "fe32d9c8-4e5b-4515-a29d-3301b7683dbd",
+              "choices": []
+            },
+            {
+              "id": 42,
+              "text": "initiating",
+              "parent": "fe32d9c8-4e5b-4515-a29d-3301b7683dbd",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "fe32d9c8-4e5b-4515-a29d-3301b7683dbd",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2019-03-01T12:09:08.257373"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What was so significant about the Baghdad Women Association’s project? (3 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "What was so significant about the Baghdad Women Association’s project? (3 p.)\n",
+            "questionType": "reading",
+            "displayNumber": "10.5."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.812448",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1210135,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 34,
+              "text": "The participants learnt to use computers",
+              "parent": "4f87d4f9-6485-4b4e-8f1d-c056b9e3604f",
+              "choices": []
+            },
+            {
+              "id": 35,
+              "text": "The participants improved their employability",
+              "parent": "4f87d4f9-6485-4b4e-8f1d-c056b9e3604f",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 36,
+              "text": "The participants employed other young women",
+              "parent": "4f87d4f9-6485-4b4e-8f1d-c056b9e3604f",
+              "choices": []
+            }
+          ],
+          "uuid": "4f87d4f9-6485-4b4e-8f1d-c056b9e3604f",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2019-03-01T12:09:08.249129"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What do the speakers refer to when they say “Whatever it takes”? (3 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "What do the speakers refer to when they say “Whatever it takes”? (3 p.)\n",
+            "questionType": "reading",
+            "displayNumber": "9.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.810259",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1210125,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 7,
+              "text": "Using drugs and other stimulants to help them keep going",
+              "parent": "31f9e4ba-d48e-43d2-a6bc-fdf60c1a80b5",
+              "choices": []
+            },
+            {
+              "id": 8,
+              "text": "Trying to advertise one’s music in as many ways as possible",
+              "parent": "31f9e4ba-d48e-43d2-a6bc-fdf60c1a80b5",
+              "choices": []
+            },
+            {
+              "id": 9,
+              "text": "Doing even unpleasant things if it helps to promote the band",
+              "parent": "31f9e4ba-d48e-43d2-a6bc-fdf60c1a80b5",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "31f9e4ba-d48e-43d2-a6bc-fdf60c1a80b5",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2019-03-01T12:09:08.221213"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mark: I think so. No, wait. **He must be just twenty?**\n\n&NewLine;\n\nMark sounds\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "Mark: I think so. No, wait. **He must be just twenty?**\n\n&NewLine;\n\nMark sounds\n",
+            "displayNumber": "2.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.800683",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1210846,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 114,
+              "text": "shocked",
+              "parent": "2aa6a5f9-acf3-44d1-b55b-b8e23e29f417",
+              "choices": []
+            },
+            {
+              "id": 115,
+              "text": "uncertain",
+              "parent": "2aa6a5f9-acf3-44d1-b55b-b8e23e29f417",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 116,
+              "text": "surprised",
+              "parent": "2aa6a5f9-acf3-44d1-b55b-b8e23e29f417",
+              "choices": []
+            }
+          ],
+          "uuid": "2aa6a5f9-acf3-44d1-b55b-b8e23e29f417",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2019-03-01T13:39:22.358762"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Which of the following best illustrates Botstein’s views on art? (2 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "Which of the following best illustrates Botstein’s views on art? (2 p.)\n",
+            "displayNumber": "3.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.796769",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1210850,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 123,
+              "text": "Art serves as a certain type of mirror for humanity",
+              "parent": "92f957a6-0831-4071-a001-61cb72f4b835",
+              "choices": []
+            },
+            {
+              "id": 124,
+              "text": "Art is something that shifts through time and space",
+              "parent": "92f957a6-0831-4071-a001-61cb72f4b835",
+              "choices": []
+            },
+            {
+              "id": 125,
+              "text": "Art puts the reality we perceive in a different light",
+              "parent": "92f957a6-0831-4071-a001-61cb72f4b835",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "92f957a6-0831-4071-a001-61cb72f4b835",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2019-03-01T13:39:22.36842"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**How \"Active Citizens\" Works**\n\n&NewLine;\n\nRead the text and choose the best alternative for each item.\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/syksy/EA-fi/attachments/index.html#q10|text=Avaa aineisto]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "**How \"Active Citizens\" Works**\n\n&NewLine;\n\nRead the text and choose the best alternative for each item.\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/syksy/EA-fi/attachments/index.html#q10|text=Avaa aineisto]\n",
+            "questionType": "reading",
+            "displayNumber": "10."
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "85af9c67-2cb7-4121-bb25-298468ecd08c",
+            "4f9be880-e0ba-40c9-a110-faca541db247",
+            "fee66d2c-50e3-417b-8d5b-2f214a612b30",
+            "3179a797-251a-4bae-9595-924613fae438",
+            "4f87d4f9-6485-4b4e-8f1d-c056b9e3604f",
+            "d34d8111-c173-4852-937e-43fde5a1bd31",
+            "97d95df7-7cae-4aa4-80e1-f966d618870e",
+            "fe32d9c8-4e5b-4515-a29d-3301b7683dbd",
+            "cefce5fa-22e5-4c99-a865-79728fb1ce19",
+            "3161701c-9150-4710-8406-cf909fb6bc7e"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-03-18T11:35:59.794449",
+          "max_score": null,
+          "groupping": null,
+          "id": 1210129,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "151514c9-ef3f-463a-9465-0499247d3e48",
+          "order_number": 13,
+          "multipart": true,
+          "created_at": "2019-03-01T12:09:08.232603"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "According to Botstein, how do films manipulate our senses? (3 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "According to Botstein, how do films manipulate our senses? (3 p.)\n",
+            "questionType": "reading",
+            "displayNumber": "11.4."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.784833",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1210195,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 58,
+              "text": "We tend to identify emotionally with one of the main characters",
+              "parent": "9b5e06c1-1f4f-424a-b028-5030101e376b",
+              "choices": []
+            },
+            {
+              "id": 59,
+              "text": "We become immersed in the fictional world that the film portrays",
+              "parent": "9b5e06c1-1f4f-424a-b028-5030101e376b",
+              "choices": []
+            },
+            {
+              "id": 60,
+              "text": "We find the time-frame credible although it doesn’t match reality",
+              "parent": "9b5e06c1-1f4f-424a-b028-5030101e376b",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "9b5e06c1-1f4f-424a-b028-5030101e376b",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2019-03-01T12:14:16.302839"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**News Snippets**\n\n&NewLine;\n\nThis recording has five news stories. You can listen to each news story twice. Listen to the recording and answer the questions in **Finnish**.\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/syksy/EA-fi/|text=Kuuntele aineisto]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "**News Snippets**\n\n&NewLine;\n\nThis recording has five news stories. You can listen to each news story twice. Listen to the recording and answer the questions in **Finnish**.\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/syksy/EA-fi/|text=Kuuntele aineisto]\n",
+            "displayNumber": "8."
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "6aedbfd1-2cda-470d-91e6-8a1ce1c98f69",
+            "b7e1f1b6-5554-47e4-ba65-1c0f7434f129",
+            "1b819ce8-82ac-4695-857e-7046881597c9",
+            "ca5855d4-1efe-4998-bc1e-19301f1186e1",
+            "ce0f4f53-c512-4bc9-a6ab-5de149239257"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-03-18T11:35:59.780085",
+          "max_score": null,
+          "groupping": null,
+          "id": 1210870,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "02eb5c45-1a4c-436a-ad38-d3c651b87a27",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2019-03-01T13:39:22.413919"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Wolves Need More Room**\n\n&NewLine;\n\nThis podcast discusses wolves and conservation. You can listen to this part twice: first straight through and then in short sections. Read the questions carefully and then listen to the recording.\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/syksy/EA-fi/|text=Kuuntele aineisto]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "**Wolves Need More Room**\n\n&NewLine;\n\nThis podcast discusses wolves and conservation. You can listen to this part twice: first straight through and then in short sections. Read the questions carefully and then listen to the recording.\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/syksy/EA-fi/|text=Kuuntele aineisto]\n",
+            "displayNumber": "4."
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "c11c257b-3e49-4771-a471-830f8c49590a",
+            "f398e008-0fe4-474e-89b6-24c225c6f687",
+            "273627e7-837d-4038-af34-91a980d5011c"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-03-18T11:35:59.765631",
+          "max_score": null,
+          "groupping": null,
+          "id": 1210854,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "7008516b-5098-43ca-a943-8f26df323b7a",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2019-03-01T13:39:22.377349"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "According to Ricky Wilson, David Bowie… (3 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "According to Ricky Wilson, David Bowie… (3 p.)\n",
+            "questionType": "reading",
+            "displayNumber": "9.5."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.763407",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1210127,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 13,
+              "text": "…was spared from doing the kind of things modern stars have to do",
+              "parent": "b399075d-2612-4c7b-863d-3a207bf0b510",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 14,
+              "text": "…became a vegetarian just to gain more attention from the public",
+              "parent": "b399075d-2612-4c7b-863d-3a207bf0b510",
+              "choices": []
+            },
+            {
+              "id": 15,
+              "text": "…was a forerunner in inventing ways to get public attention",
+              "parent": "b399075d-2612-4c7b-863d-3a207bf0b510",
+              "choices": []
+            }
+          ],
+          "uuid": "b399075d-2612-4c7b-863d-3a207bf0b510",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2019-03-01T12:09:08.226913"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What does the _Active Citizens_ programme teach? (3 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "What does the _Active Citizens_ programme teach? (3 p.)\n",
+            "questionType": "reading",
+            "displayNumber": "10.4."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.761196",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1210134,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 31,
+              "text": "How to affect one’s own environment",
+              "parent": "3179a797-251a-4bae-9595-924613fae438",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 32,
+              "text": "How to provide schooling for girls",
+              "parent": "3179a797-251a-4bae-9595-924613fae438",
+              "choices": []
+            },
+            {
+              "id": 33,
+              "text": "How to recognize serious illnesses",
+              "parent": "3179a797-251a-4bae-9595-924613fae438",
+              "choices": []
+            }
+          ],
+          "uuid": "3179a797-251a-4bae-9595-924613fae438",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2019-03-01T12:09:08.246496"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "I firstly realised that owning a car in a city is slightly demented when a friend in Manhattan [SELECT id=178] me her Upper West Side apartment for a month. When I arrived, I discovered the catch for her seeming generosity – the keys to her Jeep Cherokee and a breezy request to “look after it”, [SELECT id=179] with “Please move it for street cleaning after five pm today”.\n\n​\n\nIt took two parking tickets in week one to learn that park [SELECT id=180], certainly in New York, is way more onerous than pet 3)____________ . Ticket one was for not moving it; number two, seven days later, for moving it – to a lovely but forbidden spot by a fire hydrant.\n\n​\n\nThe endlessly tedious West 76th Street experience [SELECT id=181] me to sell my old Saab before heading to the US for a few months last year.\n\n​\n\nEven though you’re legally parked in my borough, the council can move your car whenever they fancy it, charge £200 [SELECT id=182] the helpful tow-away, and then £40-a-day storage. But now I’m back for a while at what is nominally home, I thought I’d buy another car. [SELECT id=183] I haven’t, and I’m not sure I will.\n\n​\n\nNot owning a car is also giving me a feeling, not wholly delusional, that I’m doing something to make cities better, and to put cars to more sensible use. I’m no great friend of the Earth, but is there [SELECT id=184] dumber, really, than good machines [SELECT id=185] idle ninety-five per cent of the time?\n\n​\n\nI touched last week on that idea that disruption is overstated, overrated and overhyped. A commenter, TKR, [SELECT id=186], however, that what disruptive tech does marvellously is exploit unemployed resources like our chronically underused cars.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "I firstly realised that owning a car in a city is slightly demented when a friend in Manhattan [SELECT id=178] me her Upper West Side apartment for a month. When I arrived, I discovered the catch for her seeming generosity – the keys to her Jeep Cherokee and a breezy request to “look after it”, [SELECT id=179] with “Please move it for street cleaning after five pm today”.\n\n​\n\nIt took two parking tickets in week one to learn that park [SELECT id=180], certainly in New York, is way more onerous than pet 3)____________ . Ticket one was for not moving it; number two, seven days later, for moving it – to a lovely but forbidden spot by a fire hydrant.\n\n​\n\nThe endlessly tedious West 76th Street experience [SELECT id=181] me to sell my old Saab before heading to the US for a few months last year.\n\n​\n\nEven though you’re legally parked in my borough, the council can move your car whenever they fancy it, charge £200 [SELECT id=182] the helpful tow-away, and then £40-a-day storage. But now I’m back for a while at what is nominally home, I thought I’d buy another car. [SELECT id=183] I haven’t, and I’m not sure I will.\n\n​\n\nNot owning a car is also giving me a feeling, not wholly delusional, that I’m doing something to make cities better, and to put cars to more sensible use. I’m no great friend of the Earth, but is there [SELECT id=184] dumber, really, than good machines [SELECT id=185] idle ninety-five per cent of the time?\n\n​\n\nI touched last week on that idea that disruption is overstated, overrated and overhyped. A commenter, TKR, [SELECT id=186], however, that what disruptive tech does marvellously is exploit unemployed resources like our chronically underused cars."
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.756336",
+          "max_score": 9,
+          "groupping": null,
+          "id": 1212231,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 178,
+              "parent": "634aa8ad-36e2-41c8-be73-17939d277a3e",
+              "choices": [
+                {
+                  "id": "a11a75c5-ab23-4ecc-a9b8-0da9e5d578cc",
+                  "text": "adopted"
+                },
+                {
+                  "id": "7a148ab8-9a9b-4d57-b722-3d26c40c59b8",
+                  "text": "lent",
+                  "correct": true
+                },
+                {
+                  "id": "936702a5-4dc0-41a3-b5ef-5e03d1d2c496",
+                  "text": "borrowed"
+                },
+                {
+                  "id": "29b47569-3fbf-4e6f-a621-a6548fca0493",
+                  "text": "received"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 179,
+              "parent": "634aa8ad-36e2-41c8-be73-17939d277a3e",
+              "choices": [
+                {
+                  "id": "5585c67c-2ae7-40cd-bb7a-eb18ee99ee7d",
+                  "text": "start"
+                },
+                {
+                  "id": "44157c93-9ceb-4702-863c-d4fef285f226",
+                  "text": "started"
+                },
+                {
+                  "id": "d162f4be-b252-4555-8ff3-b2249bece269",
+                  "text": "starts"
+                },
+                {
+                  "id": "d073036d-4fb8-4076-bcee-230ea23b6617",
+                  "text": "starting",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 180,
+              "parent": "634aa8ad-36e2-41c8-be73-17939d277a3e",
+              "choices": [
+                {
+                  "id": "98e95f4b-5d56-4ca6-b7ef-703509388373",
+                  "text": "sitting",
+                  "correct": true
+                },
+                {
+                  "id": "d5b2cbc0-f727-4d13-b4e5-7691bfb2c8fa",
+                  "text": "sits"
+                },
+                {
+                  "id": "456aa226-c197-4df1-aeb2-b38cc64da577",
+                  "text": "sit"
+                },
+                {
+                  "id": "cbb7c755-58d4-4aa8-b24e-9e5340e504dc",
+                  "text": "sitter"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 181,
+              "parent": "634aa8ad-36e2-41c8-be73-17939d277a3e",
+              "choices": [
+                {
+                  "id": "634bc93c-d63b-4c20-b315-7f10869be9e3",
+                  "text": "concluded"
+                },
+                {
+                  "id": "6501ada3-819e-4723-977d-f0f53e6b1117",
+                  "text": "contributed"
+                },
+                {
+                  "id": "7a81775a-3de1-4952-956a-5241c4ffc8ae",
+                  "text": "convinced",
+                  "correct": true
+                },
+                {
+                  "id": "2bf3f219-1b3e-4766-b2c0-bfdca1fc41de",
+                  "text": "constrained"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 182,
+              "parent": "634aa8ad-36e2-41c8-be73-17939d277a3e",
+              "choices": [
+                {
+                  "id": "bd620082-4a70-4637-bd75-a67622063387",
+                  "text": "for",
+                  "correct": true
+                },
+                {
+                  "id": "6fb30eb9-1575-42ac-9f55-d6873cf041b3",
+                  "text": "in"
+                },
+                {
+                  "id": "acb422a2-5b60-43a1-a76f-dd6b4a56a9da",
+                  "text": "on"
+                },
+                {
+                  "id": "5bf3e3d0-e4a2-4afb-97d4-a4738856f950",
+                  "text": "with"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 183,
+              "parent": "634aa8ad-36e2-41c8-be73-17939d277a3e",
+              "choices": [
+                {
+                  "id": "a006b3b2-ddd2-4c60-ac0c-4a8efed05518",
+                  "text": "Excluding"
+                },
+                {
+                  "id": "06cb5ef2-066b-49c9-9402-f46a9b136363",
+                  "text": "Exempt from"
+                },
+                {
+                  "id": "3de0bb78-8cc5-48ba-a462-9757b576b805",
+                  "text": "Expect"
+                },
+                {
+                  "id": "77196372-bff8-41be-b2de-e8ba1b9881f9",
+                  "text": "Except",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 184,
+              "parent": "634aa8ad-36e2-41c8-be73-17939d277a3e",
+              "choices": [
+                {
+                  "id": "0647e898-4498-44a9-b130-c2f815ea142d",
+                  "text": "everything"
+                },
+                {
+                  "id": "141db4c4-2e66-4555-a8a2-5d0475b8e09f",
+                  "text": "nothing"
+                },
+                {
+                  "id": "dbeb3092-6d48-458f-a8ad-af619e722dc8",
+                  "text": "anything",
+                  "correct": true
+                },
+                {
+                  "id": "6c43e592-32fb-4013-b758-3ca30ef6f489",
+                  "text": "something"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 185,
+              "parent": "634aa8ad-36e2-41c8-be73-17939d277a3e",
+              "choices": [
+                {
+                  "id": "ada27f03-6b21-4344-94ad-cdf0091316b0",
+                  "text": "left"
+                },
+                {
+                  "id": "a4050e3d-db4f-4673-a6e7-21b5f966a9a7",
+                  "text": "being left",
+                  "correct": true
+                },
+                {
+                  "id": "166dd884-ff84-4f55-86e2-a03757940dad",
+                  "text": "be left"
+                },
+                {
+                  "id": "753e202b-6062-4169-a985-1ec0302fb52f",
+                  "text": "been left"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 186,
+              "parent": "634aa8ad-36e2-41c8-be73-17939d277a3e",
+              "choices": [
+                {
+                  "id": "2977dc9a-8324-47b7-a282-9b7f654d8c64",
+                  "text": "drew attention"
+                },
+                {
+                  "id": "1270263c-235b-48a5-b142-910e28164655",
+                  "text": "nailed down"
+                },
+                {
+                  "id": "e06f6637-fe86-4d97-9737-8be8c4c12f7f",
+                  "text": "raised the question"
+                },
+                {
+                  "id": "69182bf3-e8ed-40e1-a304-9971970f14c7",
+                  "text": "made the point",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "634aa8ad-36e2-41c8-be73-17939d277a3e",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2019-03-06T14:16:34.377251"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Koe koostuu neljästä osasta: kuullunymmärtämistehtävät, tekstin­ymmärtämistehtävät, sanasto- ja rakennetehtävät ja kirjallinen tuottaminen.\n\n​\n\nVoit tehdä tehtävät haluamassasi järjestyksessä. Noudata tehtäväkohtaisia vastaamisohjeita. Voit muuttaa antamiasi vastauksia koska tahansa kokeen aikana. Tee kukin tehtävä loppuun ennen kuin aloitat seuraavan.\n\n​\n\nVastaa monivalintatehtäviin ja monivalinta-aukkotehtäviin napsauttamalla kulloinkin sopivinta vaihtoehtoa. Kirjoita avoimissa tehtävissä vastauksesi tehtävän yhteydessä olevaan vastauskenttään. Tehtävissä voi olla myös tehtäväkohtaista ohjeistusta.\n\n​\n\nLisää kielikokeen vastausohjeita on linkissä [LINK url=https://yle.fi/plus/abitreenit/2018/syksy/EA-fi/attachments/Kielikokeen-ohjeistus.pdf|text=Kielikokeen ohjeistus].\n\n​\n\nKuullunymmärtämistehtävien äänitteet ja videot saat käynnistää omaan tahtiisi napsauttamalla siihen liittyvää painiketta. Kun olet käyttänyt sallitut kuuntelukerrat, et voi enää kuunnella äänitettä uudelleen. Käytetyt painikkeet tunnistaa niiden muuttuneesta väristä. Varaa aikaa kuullun­ymmärtämistehtävien tekemiseen yhteensä noin 1 tunti.\n\n​\n\nVideot katsotaan aineistovälilehdellä olevalla mediasoittimella. Videoita voit katsoa niin monta kertaa kuin haluat. Voit myös pysäyttää videoiden toiston ja kelata niitä eteen- tai taaksepäin.\n\n​\n\nJoissakin tehtävissä on aineistoa, joka löytyy erilliseltä välilehdeltä. Sinne pääset [LINK url=https://yle.fi/plus/abitreenit/2018/syksy/EA-fi/attachments/index.html|text=tästä linkistä]. Yksittäisen tehtävän aineistoon pääset myös suoraan napsauttamalla kyseisen tehtävän yhteydessä olevaa Avaa aineisto -linkkiä.\n\n​\n\nOnnea kokeeseen!\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "Koe koostuu neljästä osasta: kuullunymmärtämistehtävät, tekstin­ymmärtämistehtävät, sanasto- ja rakennetehtävät ja kirjallinen tuottaminen.\n\n​\n\nVoit tehdä tehtävät haluamassasi järjestyksessä. Noudata tehtäväkohtaisia vastaamisohjeita. Voit muuttaa antamiasi vastauksia koska tahansa kokeen aikana. Tee kukin tehtävä loppuun ennen kuin aloitat seuraavan.\n\n​\n\nVastaa monivalintatehtäviin ja monivalinta-aukkotehtäviin napsauttamalla kulloinkin sopivinta vaihtoehtoa. Kirjoita avoimissa tehtävissä vastauksesi tehtävän yhteydessä olevaan vastauskenttään. Tehtävissä voi olla myös tehtäväkohtaista ohjeistusta.\n\n​\n\nLisää kielikokeen vastausohjeita on linkissä [LINK url=https://yle.fi/plus/abitreenit/2018/syksy/EA-fi/attachments/Kielikokeen-ohjeistus.pdf|text=Kielikokeen ohjeistus].\n\n​\n\nKuullunymmärtämistehtävien äänitteet ja videot saat käynnistää omaan tahtiisi napsauttamalla siihen liittyvää painiketta. Kun olet käyttänyt sallitut kuuntelukerrat, et voi enää kuunnella äänitettä uudelleen. Käytetyt painikkeet tunnistaa niiden muuttuneesta väristä. Varaa aikaa kuullun­ymmärtämistehtävien tekemiseen yhteensä noin 1 tunti.\n\n​\n\nVideot katsotaan aineistovälilehdellä olevalla mediasoittimella. Videoita voit katsoa niin monta kertaa kuin haluat. Voit myös pysäyttää videoiden toiston ja kelata niitä eteen- tai taaksepäin.\n\n​\n\nJoissakin tehtävissä on aineistoa, joka löytyy erilliseltä välilehdeltä. Sinne pääset [LINK url=https://yle.fi/plus/abitreenit/2018/syksy/EA-fi/attachments/index.html|text=tästä linkistä]. Yksittäisen tehtävän aineistoon pääset myös suoraan napsauttamalla kyseisen tehtävän yhteydessä olevaa Avaa aineisto -linkkiä.\n\n​\n\nOnnea kokeeseen!\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-03-18T11:35:59.753534",
+          "max_score": null,
+          "groupping": null,
+          "id": 1210102,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "02038722-d1b2-4361-ad1d-8f0ad8b13758",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2019-03-01T11:44:42.9367"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Help for Health Problems**\n\n&NewLine;\n\nRead the following labels and answer questions 15.1.–15.3. in Finnish. In 15.4., choose the best alternative.\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/syksy/EA-fi/attachments/index.html#q15|text=Avaa aineisto]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "**Help for Health Problems**\n\n&NewLine;\n\nRead the following labels and answer questions 15.1.–15.3. in Finnish. In 15.4., choose the best alternative.\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/syksy/EA-fi/attachments/index.html#q15|text=Avaa aineisto]\n",
+            "questionType": "reading",
+            "displayNumber": "15."
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "9d0d860c-fd0d-4e25-9a79-ccbaa21df2a0",
+            "ea579c9c-a8aa-4706-a0c5-0ed7a8d53955",
+            "68c353fe-5bf9-4306-8329-38f93a685618",
+            "343f48d9-a93c-4219-9919-cd1c08b2845e"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-03-18T11:35:59.75126",
+          "max_score": null,
+          "groupping": null,
+          "id": 1210375,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "70c581d4-f8eb-4b84-9a45-80f239350fac",
+          "order_number": 18,
+          "multipart": true,
+          "created_at": "2019-03-01T12:45:22.670921"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Vinyl Records (video)**\n\n&NewLine;\n\nThis is a video where Adia Douglas talks about her interest in vinyl records. You can play the video as many times as you want to, and stop, fast forward, and rewind it. Read the questions carefully and then watch the video.\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/syksy/EA-fi/attachments/index.html#q5|text=Avaa aineisto]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "**Vinyl Records (video)**\n\n&NewLine;\n\nThis is a video where Adia Douglas talks about her interest in vinyl records. You can play the video as many times as you want to, and stop, fast forward, and rewind it. Read the questions carefully and then watch the video.\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/syksy/EA-fi/attachments/index.html#q5|text=Avaa aineisto]\n",
+            "displayNumber": "5."
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "5b884125-f13c-4f36-ad08-b1f058259595",
+            "385c3ab3-d125-4b2a-8ce2-a9e3a876471a",
+            "5d62efc2-8364-4c49-98d1-1cf9483a38b4",
+            "e65cfe94-4ee5-4b0d-b9a4-855660955d93"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-03-18T11:35:59.747344",
+          "max_score": null,
+          "groupping": null,
+          "id": 1210858,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "c462aec6-a851-4923-bf4b-e9efb93c65bb",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2019-03-01T13:39:22.386445"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Dunedin Study**\n\n&NewLine;\n\nThis is a news report, where Kim Hill interviews Richie Poulton about the Dunedin Study, a health and development study conducted in New Zealand. You can listen to this part twice: first straight through and then in short sections. Read the questions carefully and then listen to the recording.\n\n&NewLine;\n\n[LINK url=https://yle.fi/plus/abitreenit/2018/syksy/EA-fi/#1|text=Kuuntele aineisto tästä.]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "**Dunedin Study**\n\n&NewLine;\n\nThis is a news report, where Kim Hill interviews Richie Poulton about the Dunedin Study, a health and development study conducted in New Zealand. You can listen to this part twice: first straight through and then in short sections. Read the questions carefully and then listen to the recording.\n\n&NewLine;\n\n[LINK url=https://yle.fi/plus/abitreenit/2018/syksy/EA-fi/#1|text=Kuuntele aineisto tästä.]",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "5be1618c-4843-45c8-bb73-2f9d911b182f",
+            "32cbcc1f-745e-43b5-8a51-97611d1726f4",
+            "5ee1281a-3e61-4328-b54e-8cbe8967e181",
+            "0a02d47b-541d-4ffa-891a-a0d4d7799d95",
+            "ca78d598-c201-4fe9-97f1-af0ff42ff7c8",
+            "5f3b6262-1532-4867-93b3-19d3128ee6a2"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-03-18T11:35:59.74488",
+          "max_score": null,
+          "groupping": null,
+          "id": 1210836,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "641e53ba-fcbd-4593-b5db-28466a57ed2f",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2019-03-01T13:39:22.33595"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "That power will travel 730 miles to California through a direct current transmission line built by an **affiliate**.\n\n[SELECT id=176]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "That power will travel 730 miles to California through a direct current transmission line built by an **affiliate**.\n\n[SELECT id=176]\n",
+            "displayNumber": "12.11."
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.742628",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1212121,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 176,
+              "parent": "e3d27810-dc5b-4a4a-a603-72286c3ec7c1",
+              "choices": [
+                {
+                  "id": "e5eaf61e-71cb-4c37-ad20-6d0fbcc29f51",
+                  "text": "a new invention that proves to be very useful"
+                },
+                {
+                  "id": "38665b07-7dfe-406f-8874-2bf189eb8de8",
+                  "text": "a service provided for the public"
+                },
+                {
+                  "id": "25d728a7-1b56-48df-820a-c1ac484c9103",
+                  "text": "a thing that makes progress towards a goal"
+                },
+                {
+                  "id": "826620a8-ec96-49e1-9d73-79c0a676d3c0",
+                  "text": "a very succesful business that is growing fast"
+                },
+                {
+                  "id": "a01f42f2-3ea9-445d-8b98-39fa698dbe32",
+                  "text": "an institution linked to a larger organization",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "e3d27810-dc5b-4a4a-a603-72286c3ec7c1",
+          "order_number": 12,
+          "multipart": true,
+          "created_at": "2019-03-06T14:01:15.533081"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Bad Mood Conversation**\n\n&NewLine;\n\nThis is a conversation between two people in two sections. You can listen to each section twice. At the end of each section, decide what they would say next by listening to the answer alternatives and choosing **the most impolite response**. You can listen to the alternatives as many times as you like.\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/syksy/EA-fi/attachments/index.html#q7|text=Avaa aineisto ja kuuntele vaihtoehdot]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "**Bad Mood Conversation**\n\n&NewLine;\n\nThis is a conversation between two people in two sections. You can listen to each section twice. At the end of each section, decide what they would say next by listening to the answer alternatives and choosing **the most impolite response**. You can listen to the alternatives as many times as you like.\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/syksy/EA-fi/attachments/index.html#q7|text=Avaa aineisto ja kuuntele vaihtoehdot]\n",
+            "displayNumber": "7."
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "055f0fb2-4cbd-4587-ab9b-523e1cf9ea64",
+            "26ad644e-bd30-4dfc-9461-e0be84c2c1bf"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-03-18T11:35:59.738022",
+          "max_score": null,
+          "groupping": null,
+          "id": 1210866,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "183d06d3-d7de-41b7-9fdb-12576fd081ef",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2019-03-01T13:39:22.404643"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Bookshop Phone Call**\n\n&NewLine;\n\nThis is a phone call between two people in two sections. You can listen to each section twice. At the end of each section, decide what they would say next by listening to the answer alternatives and choosing the most polite response. You can listen to the alternatives as many times as you like.\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/syksy/EA-fi/attachments/index.html#q6|text=Avaa aineisto ja kuuntele vaihtoehdot]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "**Bookshop Phone Call**\n\n&NewLine;\n\nThis is a phone call between two people in two sections. You can listen to each section twice. At the end of each section, decide what they would say next by listening to the answer alternatives and choosing the most polite response. You can listen to the alternatives as many times as you like.\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/syksy/EA-fi/attachments/index.html#q6|text=Avaa aineisto ja kuuntele vaihtoehdot]\n",
+            "displayNumber": "6."
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "1ed0354c-1277-42aa-945c-f7486094f401",
+            "27a59f43-2535-4768-b366-cdf136993eae"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-03-18T11:35:59.735716",
+          "max_score": null,
+          "groupping": null,
+          "id": 1210863,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "7e501552-69d7-4b60-9faf-bb7de744fe82",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2019-03-01T13:39:22.398034"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What does Adia’s father say about how the internet has affected vinyl sales? (2 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "What does Adia’s father say about how the internet has affected vinyl sales? (2 p.)\n",
+            "displayNumber": "5.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.720749",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1210861,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 150,
+              "text": "It has made online buying more popular than traditional shops",
+              "parent": "5d62efc2-8364-4c49-98d1-1cf9483a38b4",
+              "choices": []
+            },
+            {
+              "id": 151,
+              "text": "It has made people less interested in sound quality",
+              "parent": "5d62efc2-8364-4c49-98d1-1cf9483a38b4",
+              "choices": []
+            },
+            {
+              "id": 152,
+              "text": "It has made it easier to buy vinyl records",
+              "parent": "5d62efc2-8364-4c49-98d1-1cf9483a38b4",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "5d62efc2-8364-4c49-98d1-1cf9483a38b4",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2019-03-01T13:39:22.393467"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "According to Botstein’s conclusion, why is creating art inherently human? (2 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "According to Botstein’s conclusion, why is creating art inherently human? (2 p.)\n",
+            "displayNumber": "3.4."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.709811",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1210853,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 132,
+              "text": "It presupposes creativity",
+              "parent": "b6b1168f-656c-4a98-9ed9-f34a8d4b5edf",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 133,
+              "text": "It mimics everyday life",
+              "parent": "b6b1168f-656c-4a98-9ed9-f34a8d4b5edf",
+              "choices": []
+            },
+            {
+              "id": 134,
+              "text": "It allows for escapism",
+              "parent": "b6b1168f-656c-4a98-9ed9-f34a8d4b5edf",
+              "choices": []
+            }
+          ],
+          "uuid": "b6b1168f-656c-4a98-9ed9-f34a8d4b5edf",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2019-03-01T13:39:22.375146"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What kind of an effect has participating in the programme had for some people? (3 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "What kind of an effect has participating in the programme had for some people? (3 p.)\n",
+            "questionType": "reading",
+            "displayNumber": "10.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.706047",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1210133,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 28,
+              "text": "They are now employed by the programme",
+              "parent": "fee66d2c-50e3-417b-8d5b-2f214a612b30",
+              "choices": []
+            },
+            {
+              "id": 29,
+              "text": "They are now able to get a study place",
+              "parent": "fee66d2c-50e3-417b-8d5b-2f214a612b30",
+              "choices": []
+            },
+            {
+              "id": 30,
+              "text": "They are now finding their own hidden talent",
+              "parent": "fee66d2c-50e3-417b-8d5b-2f214a612b30",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "fee66d2c-50e3-417b-8d5b-2f214a612b30",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2019-03-01T12:09:08.243853"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What makes the wind farm project in Wyoming so significant? (3 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "What makes the wind farm project in Wyoming so significant? (3 p.)\n",
+            "questionType": "reading",
+            "displayNumber": "12.4."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.701309",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1210277,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 70,
+              "text": "It opens up a new line of industry in the whole area",
+              "parent": "8e83339e-2e8d-4c58-9b39-42a3bc3ab759",
+              "choices": []
+            },
+            {
+              "id": 71,
+              "text": "It will produce enough renewable energy for California",
+              "parent": "8e83339e-2e8d-4c58-9b39-42a3bc3ab759",
+              "choices": []
+            },
+            {
+              "id": 72,
+              "text": "Its substantial scale shows the way for future developments",
+              "parent": "8e83339e-2e8d-4c58-9b39-42a3bc3ab759",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "8e83339e-2e8d-4c58-9b39-42a3bc3ab759",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2019-03-01T12:25:14.210456"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Berkshire Hathaway, which owns Pacific Power, has also **jumped on the bandwagon**, pumping billions into developing Wyoming’s own wind-power farm and transmission lines.\n\n[SELECT id=177]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "Berkshire Hathaway, which owns Pacific Power, has also **jumped on the bandwagon**, pumping billions into developing Wyoming’s own wind-power farm and transmission lines.\n\n[SELECT id=177]\n",
+            "displayNumber": "12.12."
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.692167",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1212122,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 177,
+              "parent": "b9bd3834-3ce5-4a12-b96c-471154f8da54",
+              "choices": [
+                {
+                  "id": "0f5e8d09-277f-4b81-b3b6-f485ebb2a73c",
+                  "text": "to appear or occur, often unexpectedly"
+                },
+                {
+                  "id": "9deb81dd-4e0a-4bcf-bf56-d832a9d40684",
+                  "text": "to be firmly established"
+                },
+                {
+                  "id": "14a285a3-5c8d-4b46-b76c-13df692d675d",
+                  "text": "to cause a process to begin and continue"
+                },
+                {
+                  "id": "ff055e46-3d1c-4e3c-b2b5-0be34f63651e",
+                  "text": "to compete fiercely with someone"
+                },
+                {
+                  "id": "850acc5d-5c1c-420d-ba5c-8ec8f6f16c3b",
+                  "text": "to join others in doing something",
+                  "correct": true
+                },
+                {
+                  "id": "f50dca56-1b2b-4586-a60d-cc15b8d3a86b",
+                  "text": "to take the first steps in a new venture"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "b9bd3834-3ce5-4a12-b96c-471154f8da54",
+          "order_number": 13,
+          "multipart": true,
+          "created_at": "2019-03-06T14:01:15.535536"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Now, Carbon County is **vying for** a place at the forefront of America's growing clean-power economy.\n\n[SELECT id=76]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "Now, Carbon County is **vying for** a place at the forefront of America's growing clean-power economy.\n\n[SELECT id=76]\n",
+            "questionType": "reading",
+            "displayNumber": "12.6. "
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.69777",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1210368,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 76,
+              "hint": "",
+              "parent": "7561c91d-96f2-4419-a676-2f45a3d3996a",
+              "choices": [
+                {
+                  "id": "72fbf9b1-20a4-4db5-a9fb-da426022e5fd",
+                  "text": "to appear or occur, often unexpectedly",
+                  "correct": false
+                },
+                {
+                  "id": "81ec5d5b-89d3-40a7-84d7-9aff6df47521",
+                  "text": "to be firmly established",
+                  "correct": false
+                },
+                {
+                  "id": "0080a989-88cc-49ed-b6a6-eb3c4373e86a",
+                  "text": "to cause a process to begin and continue"
+                },
+                {
+                  "id": "3fd55ec5-31a0-483c-bb3d-1de0a0effac0",
+                  "text": "to compete fiercely with someone",
+                  "correct": true
+                },
+                {
+                  "id": "13e2b679-e43f-4d14-9882-3e9dca922c22",
+                  "text": "to join others in doing something"
+                },
+                {
+                  "id": "29173bf9-3ab4-4023-baff-427499e2cc1a",
+                  "text": "to take the first steps in a new venture"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "7561c91d-96f2-4419-a676-2f45a3d3996a",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2019-03-01T12:45:22.65376"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "That gap between need and supply has **set off** an arms race in Wyoming, Montana and Idaho – all states with lots of wind and relatively little infrastructure to capture it.\n\n[SELECT id=173]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "That gap between need and supply has **set off** an arms race in Wyoming, Montana and Idaho – all states with lots of wind and relatively little infrastructure to capture it.\n\n[SELECT id=173]\n",
+            "displayNumber": "12.8."
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.699499",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1212118,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 173,
+              "parent": "4eea6620-8d30-4fd2-9604-cf6468404929",
+              "choices": [
+                {
+                  "id": "35bee7bf-b65e-4dc7-a7e9-02eb94ce9438",
+                  "text": "to appear or occur, often unexpectedly"
+                },
+                {
+                  "id": "23c85a9f-f4c2-40ad-af71-614531a2d9f7",
+                  "text": "to be firmly established"
+                },
+                {
+                  "id": "fdb91093-b8e9-4692-acb2-ef8644f5aa3c",
+                  "text": "to cause a process to begin and continue",
+                  "correct": true
+                },
+                {
+                  "id": "6caf02d6-a011-4536-aef7-149612e60451",
+                  "text": "to compete fiercely with someone"
+                },
+                {
+                  "id": "0dfec9f4-5d0a-49a0-93ed-bd2b02f289ec",
+                  "text": "to join others in doing something"
+                },
+                {
+                  "id": "3573e1a2-b7c3-42a5-b90a-f5815aa43e63",
+                  "text": "to take the first steps in a new venture"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "4eea6620-8d30-4fd2-9604-cf6468404929",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2019-03-06T14:01:15.525356"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Why is the Dunedin Study especially significant? (2 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "Why is the Dunedin Study especially significant? (2 p.)\n",
+            "displayNumber": "1.6."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.704397",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1210843,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 108,
+              "text": "It has shown that age 3 is crucial for succeeding later in one’s life",
+              "parent": "5f3b6262-1532-4867-93b3-19d3128ee6a2",
+              "choices": []
+            },
+            {
+              "id": 109,
+              "text": "It has assisted in identifying the children who need help the most",
+              "parent": "5f3b6262-1532-4867-93b3-19d3128ee6a2",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 110,
+              "text": "It has developed new types of intervention for very young children",
+              "parent": "5f3b6262-1532-4867-93b3-19d3128ee6a2",
+              "choices": []
+            }
+          ],
+          "uuid": "5f3b6262-1532-4867-93b3-19d3128ee6a2",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2019-03-01T13:39:22.351784"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "The biggest **strides** are being made in Wyoming, where two companies are racing to build massive wind farms to supply the West Coast.\n\n[SELECT id=175]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "The biggest **strides** are being made in Wyoming, where two companies are racing to build massive wind farms to supply the West Coast.\n\n[SELECT id=175]\n",
+            "displayNumber": "12.10."
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.70822",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1212120,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 175,
+              "parent": "7d36843d-9fce-4fb2-a298-c6929722e78a",
+              "choices": [
+                {
+                  "id": "54133d45-b8b5-4d0b-8ec3-e2c1e763ae54",
+                  "text": "a new invention that proves to be very useful"
+                },
+                {
+                  "id": "75c0743c-791d-4a7e-816e-1806925a039a",
+                  "text": "a service provided for the public"
+                },
+                {
+                  "id": "2721db88-4e0d-4b16-8e7d-537ce316e256",
+                  "text": "a thing that makes progress towards a goal",
+                  "correct": true
+                },
+                {
+                  "id": "ac6fc1e5-e3cc-49bb-b735-75f7ee5be345",
+                  "text": "a very succesful business that is growing fast"
+                },
+                {
+                  "id": "d5d61e8e-af9d-4b1c-95c2-52b459d33e51",
+                  "text": "an institution linked to a larger organization"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "7d36843d-9fce-4fb2-a298-c6929722e78a",
+          "order_number": 11,
+          "multipart": true,
+          "created_at": "2019-03-06T14:01:15.530498"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Minkälaista dataa Walmartin pilvi käsittelee, ja mitä analyytikot selvittävät sen avulla? Vastaa lyhyesti suomeksi. (6 p.)\n",
+          "deleted_at": null,
+          "feedback": "Ostotapahtumia (3 p.); mitkä tuotteet myyvät huonosti (3 p.)\n",
+          "exam_id": 35116,
+          "content": {
+            "text": "Minkälaista dataa Walmartin pilvi käsittelee, ja mitä analyytikot selvittävät sen avulla? Vastaa lyhyesti suomeksi. (6 p.)\n",
+            "questionType": "reading"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.711977",
+          "max_score": null,
+          "groupping": null,
+          "id": 1210374,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "bebd0aaa-1ac3-4f02-8a90-604dbd6bcb9d",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2019-03-01T12:45:22.66859"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "How does this text end? (3 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "How does this text end? (3 p.)\n",
+            "questionType": "reading",
+            "displayNumber": "13.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.713898",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1210372,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 83,
+              "text": "It promotes action",
+              "parent": "4dcf222b-7003-45d7-9cb7-7f6572ff4036",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 84,
+              "text": "It avoids taking a stand",
+              "parent": "4dcf222b-7003-45d7-9cb7-7f6572ff4036",
+              "choices": []
+            },
+            {
+              "id": 85,
+              "text": "It invokes guilt",
+              "parent": "4dcf222b-7003-45d7-9cb7-7f6572ff4036",
+              "choices": []
+            }
+          ],
+          "uuid": "4dcf222b-7003-45d7-9cb7-7f6572ff4036",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2019-03-01T12:45:22.663436"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What is Ricky Wilson’s attitude to what Bono did? (3 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "What is Ricky Wilson’s attitude to what Bono did? (3 p.)\n",
+            "questionType": "reading",
+            "displayNumber": "9.4."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.715593",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1210126,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 10,
+              "text": "He sees the reason why Bono did it but feels Bono went too far this time",
+              "parent": "4fd9b694-76cb-42b8-92d4-b163cfdc8ebf",
+              "choices": []
+            },
+            {
+              "id": 11,
+              "text": "He thinks Bono just did what everybody in the music business has to do",
+              "parent": "4fd9b694-76cb-42b8-92d4-b163cfdc8ebf",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 12,
+              "text": "He does not really understand why Bono did it",
+              "parent": "4fd9b694-76cb-42b8-92d4-b163cfdc8ebf",
+              "choices": []
+            }
+          ],
+          "uuid": "4fd9b694-76cb-42b8-92d4-b163cfdc8ebf",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2019-03-01T12:09:08.223911"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What is Ricky Wilson’s view of today’s bands? (3 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "What is Ricky Wilson’s view of today’s bands? (3 p.)\n",
+            "questionType": "reading",
+            "displayNumber": "9.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.717178",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1210116,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 4,
+              "text": "Many bands still rely on the music they made earlier in their career",
+              "parent": "53ce5fc4-a736-4a0f-a910-c98b2ee644f8",
+              "choices": []
+            },
+            {
+              "id": 5,
+              "text": "Many famous bands have achieved everything and lost their creativity",
+              "parent": "53ce5fc4-a736-4a0f-a910-c98b2ee644f8",
+              "choices": []
+            },
+            {
+              "id": 6,
+              "text": "Many bands think they have not yet reached their artistic goals",
+              "parent": "53ce5fc4-a736-4a0f-a910-c98b2ee644f8",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "53ce5fc4-a736-4a0f-a910-c98b2ee644f8",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2019-03-01T11:46:04.016191"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What does the bookseller say next? (2 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "What does the bookseller say next? (2 p.)\n",
+            "displayNumber": "6.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.71916",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1210864,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 156,
+              "text": "A) I didn’t quite catch that.",
+              "parent": "1ed0354c-1277-42aa-945c-f7486094f401",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 157,
+              "text": "B) What did you say?",
+              "parent": "1ed0354c-1277-42aa-945c-f7486094f401",
+              "choices": []
+            },
+            {
+              "id": 158,
+              "text": "C) Speak up, please.",
+              "parent": "1ed0354c-1277-42aa-945c-f7486094f401",
+              "choices": []
+            },
+            {
+              "id": 159,
+              "text": "D) Can you say that again?",
+              "parent": "1ed0354c-1277-42aa-945c-f7486094f401",
+              "choices": []
+            }
+          ],
+          "uuid": "1ed0354c-1277-42aa-945c-f7486094f401",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2019-03-01T13:39:22.40032"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Private Cloud**\n\n​\n\nRead the text and answer the question in Finnish.\n\n​\n\nEnterprise firms are embracing data analytics to improve both internal processes and the customer’s total experience. Global retailer Walmart is building the world’s biggest private cloud, which will crunch more than 2.5 petabytes of transactions at both retail stores and through the website per hour. For example, the data analysts can judge if an item at the store is underperforming.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "**Private Cloud**\n\n​\n\nRead the text and answer the question in Finnish.\n\n​\n\nEnterprise firms are embracing data analytics to improve both internal processes and the customer’s total experience. Global retailer Walmart is building the world’s biggest private cloud, which will crunch more than 2.5 petabytes of transactions at both retail stores and through the website per hour. For example, the data analysts can judge if an item at the store is underperforming.\n",
+            "questionType": "reading",
+            "displayNumber": "14."
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "bebd0aaa-1ac3-4f02-8a90-604dbd6bcb9d"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-03-18T11:35:59.722989",
+          "max_score": null,
+          "groupping": null,
+          "id": 1210373,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "39f352f0-30fa-4699-b8df-e1e1dcec2dbe",
+          "order_number": 17,
+          "multipart": true,
+          "created_at": "2019-03-01T12:45:22.665802"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Interview with a Rock Band**\n\n&NewLine;\n\nRead the text and choose the best alternative for each item.\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/syksy/EA-fi/attachments/index.html#q9|text=Avaa aineisto]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "**Interview with a Rock Band**\n\n&NewLine;\n\nRead the text and choose the best alternative for each item.\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/syksy/EA-fi/attachments/index.html#q9|text=Avaa aineisto]\n",
+            "questionType": "reading",
+            "displayNumber": "9."
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "773de5f4-0fed-409b-8602-866f00b29c3d",
+            "53ce5fc4-a736-4a0f-a910-c98b2ee644f8",
+            "31f9e4ba-d48e-43d2-a6bc-fdf60c1a80b5",
+            "4fd9b694-76cb-42b8-92d4-b163cfdc8ebf",
+            "b399075d-2612-4c7b-863d-3a207bf0b510",
+            "5d70b297-e0c5-4e4f-9280-a087b64284a0"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-03-18T11:35:59.725163",
+          "max_score": null,
+          "groupping": null,
+          "id": 1210107,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "bd8735dd-d567-4a42-93ab-fa4718e47614",
+          "order_number": 12,
+          "multipart": true,
+          "created_at": "2019-03-01T11:44:42.951978"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Wind Power Catches a Mountain Breeze**\n\n​\n\nRead the text and choose the best alternative for each item.\n\n​\n\n[LINK url=https://yle.fi/plus/abitreenit/2018/syksy/EA-fi/attachments/index.html#q12|text=Avaa aineisto]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "**Wind Power Catches a Mountain Breeze**\n\n​\n\nRead the text and choose the best alternative for each item.\n\n​\n\n[LINK url=https://yle.fi/plus/abitreenit/2018/syksy/EA-fi/attachments/index.html#q12|text=Avaa aineisto]\n",
+            "questionType": "reading",
+            "displayNumber": "12."
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "a9a1f06d-2eee-4c54-9581-a3befd53907e",
+            "79a07867-ec05-498f-8da6-c82d2b792b00",
+            "7fdd1ca8-1300-46eb-8ee9-036a1f49bd38",
+            "8e83339e-2e8d-4c58-9b39-42a3bc3ab759",
+            "ed8368d1-fe17-489d-af61-7ef7a1b7ef04",
+            "1eda06b4-16f3-4df0-8ac2-cc6cdaf081bf",
+            "7561c91d-96f2-4419-a676-2f45a3d3996a",
+            "a3d5e509-9016-480b-8c86-82fb6b08c2b0",
+            "4eea6620-8d30-4fd2-9604-cf6468404929",
+            "b1443a01-55d1-4093-a950-e8695a6e970a",
+            "7d36843d-9fce-4fb2-a298-c6929722e78a",
+            "e3d27810-dc5b-4a4a-a603-72286c3ec7c1",
+            "b9bd3834-3ce5-4a12-b96c-471154f8da54"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-03-18T11:35:59.726934",
+          "max_score": null,
+          "groupping": null,
+          "id": 1210239,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "31734226-d8ac-43fb-a81e-b63ce89ec911",
+          "order_number": 15,
+          "multipart": true,
+          "created_at": "2019-03-01T12:23:04.910737"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mark: Don’t forget about tomorrow night – it’s Frank’s twenty-first birthday party.\n\nDave: **Really?** Is he only twenty-one?\n\n&NewLine;\n\nIs Dave\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "Mark: Don’t forget about tomorrow night – it’s Frank’s twenty-first birthday party.\n\nDave: **Really?** Is he only twenty-one?\n\n&NewLine;\n\nIs Dave\n",
+            "displayNumber": "2.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.729497",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1210845,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 111,
+              "text": "surprised?",
+              "parent": "c014c8c4-5fff-47c6-9c4e-254c93d2e480",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 112,
+              "text": "skeptical?",
+              "parent": "c014c8c4-5fff-47c6-9c4e-254c93d2e480",
+              "choices": []
+            },
+            {
+              "id": 113,
+              "text": "amused?",
+              "parent": "c014c8c4-5fff-47c6-9c4e-254c93d2e480",
+              "choices": []
+            }
+          ],
+          "uuid": "c014c8c4-5fff-47c6-9c4e-254c93d2e480",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2019-03-01T13:39:22.356528"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What is California’s take on energy policy? (3 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "What is California’s take on energy policy? (3 p.)\n",
+            "questionType": "reading",
+            "displayNumber": "12.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.731131",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1210241,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 64,
+              "text": "It wants to increase eco-friendly energy use across the U.S.",
+              "parent": "79a07867-ec05-498f-8da6-c82d2b792b00",
+              "choices": []
+            },
+            {
+              "id": 65,
+              "text": "It wants to rapidly source half of its energy from green power",
+              "parent": "79a07867-ec05-498f-8da6-c82d2b792b00",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 66,
+              "text": "It wants to cut down energy consumption drastically",
+              "parent": "79a07867-ec05-498f-8da6-c82d2b792b00",
+              "choices": []
+            }
+          ],
+          "uuid": "79a07867-ec05-498f-8da6-c82d2b792b00",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2019-03-01T12:23:04.91653"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Since arriving in Iraq in 2015, _Active Citizens_ has trained more than 180 young people, who have reached a further 4,000 **marginalised** people through projects focusing on health awareness, employability and economic empowerment.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "Since arriving in Iraq in 2015, _Active Citizens_ has trained more than 180 young people, who have reached a further 4,000 **marginalised** people through projects focusing on health awareness, employability and economic empowerment.\n",
+            "questionType": "reading",
+            "displayNumber": "10.6."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.732715",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1210137,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 37,
+              "text": "excluded",
+              "parent": "97d95df7-7cae-4aa4-80e1-f966d618870e",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 38,
+              "text": "differentiated",
+              "parent": "97d95df7-7cae-4aa4-80e1-f966d618870e",
+              "choices": []
+            },
+            {
+              "id": 39,
+              "text": "unconnected",
+              "parent": "97d95df7-7cae-4aa4-80e1-f966d618870e",
+              "choices": []
+            }
+          ],
+          "uuid": "97d95df7-7cae-4aa4-80e1-f966d618870e",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2019-03-01T12:09:08.254237"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What does the woman say next? (2 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "What does the woman say next? (2 p.)\n",
+            "displayNumber": "7.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.734267",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1210868,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 168,
+              "text": "A) So it’s maybe not a good idea.",
+              "parent": "26ad644e-bd30-4dfc-9461-e0be84c2c1bf",
+              "choices": []
+            },
+            {
+              "id": 169,
+              "text": "B) So I’d really rather you didn’t.",
+              "parent": "26ad644e-bd30-4dfc-9461-e0be84c2c1bf",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 170,
+              "text": "C) So isn’t it better closed?",
+              "parent": "26ad644e-bd30-4dfc-9461-e0be84c2c1bf",
+              "choices": []
+            },
+            {
+              "id": 171,
+              "text": "D) So could we keep it closed?",
+              "parent": "26ad644e-bd30-4dfc-9461-e0be84c2c1bf",
+              "choices": []
+            }
+          ],
+          "uuid": "26ad644e-bd30-4dfc-9461-e0be84c2c1bf",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2019-03-01T13:39:22.409351"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "12.9. “It blows more often in Wyoming than it does in most any other part of the Western U.S.,” says Stefan Bird, CEO of Pacific Power, a West Coast **utility** whose parent company plans to build a major wind farm in Wyoming.\n\n[SELECT id=174]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "12.9. “It blows more often in Wyoming than it does in most any other part of the Western U.S.,” says Stefan Bird, CEO of Pacific Power, a West Coast **utility** whose parent company plans to build a major wind farm in Wyoming.\n\n[SELECT id=174]\n",
+            "displayNumber": "12.9."
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.740455",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1212119,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 174,
+              "parent": "b1443a01-55d1-4093-a950-e8695a6e970a",
+              "choices": [
+                {
+                  "id": "c17e7261-fa27-458c-8719-5d910caf5228",
+                  "text": "a new invention that proves to be very useful"
+                },
+                {
+                  "id": "8f51c613-af5c-4231-8b97-1dd465c452d8",
+                  "text": "a service provided for the public",
+                  "correct": true
+                },
+                {
+                  "id": "ca50b01b-3fba-4c01-9bbd-858576c1354b",
+                  "text": "a thing that makes progress towards a goal"
+                },
+                {
+                  "id": "e4463456-3323-4f9c-a48c-1e8142e3e7be",
+                  "text": "a very succesful business that is growing fast"
+                },
+                {
+                  "id": "a5fec586-75e7-4044-8e21-1c80d7ffb863",
+                  "text": "an institution linked to a larger organization"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "b1443a01-55d1-4093-a950-e8695a6e970a",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2019-03-06T14:01:15.527913"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What has the Dunedin Study done? (2 p.) \n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "What has the Dunedin Study done? (2 p.) \n",
+            "displayNumber": "1.1"
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.74979",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1210837,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 90,
+              "text": "It has assisted in settling a long-running debate",
+              "parent": "5be1618c-4843-45c8-bb73-2f9d911b182f",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 91,
+              "text": "It has connected hundreds of international researchers",
+              "parent": "5be1618c-4843-45c8-bb73-2f9d911b182f",
+              "choices": []
+            },
+            {
+              "id": 92,
+              "text": "It has continued for longer than any other study",
+              "parent": "5be1618c-4843-45c8-bb73-2f9d911b182f",
+              "choices": []
+            }
+          ],
+          "uuid": "5be1618c-4843-45c8-bb73-2f9d911b182f",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2019-03-01T13:39:22.338134"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "The demand is **rooted** in a series of legally binding renewable-energy targets adopted by California, Oregon and Washington State.\n\n[SELECT id=172]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "The demand is **rooted** in a series of legally binding renewable-energy targets adopted by California, Oregon and Washington State.\n\n[SELECT id=172]\n",
+            "displayNumber": "12.7."
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.759262",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1212117,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 172,
+              "parent": "a3d5e509-9016-480b-8c86-82fb6b08c2b0",
+              "choices": [
+                {
+                  "id": "60dd5712-73b5-430c-9298-78ca93d4a8d5",
+                  "text": "to appear or occur, often unexpectedly"
+                },
+                {
+                  "id": "947223ae-a7cf-4963-a440-895b404551ff",
+                  "text": "to be firmly established",
+                  "correct": true
+                },
+                {
+                  "id": "c6ba7298-d5c2-445e-9fcc-0e005947885f",
+                  "text": "to cause a process to begin and continue"
+                },
+                {
+                  "id": "e6b08e71-e55c-4983-b84d-47eb5525f551",
+                  "text": "to compete fiercely with someone"
+                },
+                {
+                  "id": "6945233c-895f-4460-a766-0e53f0d73480",
+                  "text": "to join others in doing something",
+                  "correct": false
+                },
+                {
+                  "id": "a8eb3d4a-ae7c-4408-a532-a3ee0df8f90d",
+                  "text": "to take the first steps in a new venture"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "a3d5e509-9016-480b-8c86-82fb6b08c2b0",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2019-03-06T14:01:15.522825"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What do Adia Douglas and her father dislike about listening to digital downloads and streaming? (2 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "What do Adia Douglas and her father dislike about listening to digital downloads and streaming? (2 p.)\n",
+            "displayNumber": "5.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.768025",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1210859,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 144,
+              "text": "Easy access makes people appreciate the music less",
+              "parent": "5b884125-f13c-4f36-ad08-b1f058259595",
+              "choices": []
+            },
+            {
+              "id": 145,
+              "text": "It lacks the excitement of visiting a record store",
+              "parent": "5b884125-f13c-4f36-ad08-b1f058259595",
+              "choices": []
+            },
+            {
+              "id": 146,
+              "text": "The music sounds artificial and mechanical",
+              "parent": "5b884125-f13c-4f36-ad08-b1f058259595",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "5b884125-f13c-4f36-ad08-b1f058259595",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2019-03-01T13:39:22.388828"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Which option best describes what the band wants to do in the future? (3 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "Which option best describes what the band wants to do in the future? (3 p.)\n",
+            "questionType": "reading",
+            "displayNumber": "9.6."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.769621",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1210128,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 16,
+              "text": "To go back to their musical roots",
+              "parent": "5d70b297-e0c5-4e4f-9280-a087b64284a0",
+              "choices": []
+            },
+            {
+              "id": 17,
+              "text": "To surprise everybody with their music",
+              "parent": "5d70b297-e0c5-4e4f-9280-a087b64284a0",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 18,
+              "text": "To make music with a political message",
+              "parent": "5d70b297-e0c5-4e4f-9280-a087b64284a0",
+              "choices": []
+            }
+          ],
+          "uuid": "5d70b297-e0c5-4e4f-9280-a087b64284a0",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2019-03-01T12:09:08.229791"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Digital Age**\n\n&NewLine;\n\nRead the text carefully and then answer the questions.\n\n&NewLine;\n\n[LINK url=https://yle.fi/plus/abitreenit/2018/syksy/EA-fi/attachments/index.html#q13|text=Avaa aineisto]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "**Digital Age**\n\n&NewLine;\n\nRead the text carefully and then answer the questions.\n\n&NewLine;\n\n[LINK url=https://yle.fi/plus/abitreenit/2018/syksy/EA-fi/attachments/index.html#q13|text=Avaa aineisto]\n",
+            "questionType": "reading",
+            "displayNumber": "13."
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "644e0393-b535-4f1f-b12e-28d37f936302",
+            "3e819c05-9cc7-4462-8c61-89b139ff5db6",
+            "4dcf222b-7003-45d7-9cb7-7f6572ff4036"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-03-18T11:35:59.771071",
+          "max_score": null,
+          "groupping": null,
+          "id": 1210369,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "9768fb61-8aa2-432a-bb9e-465eee7854f1",
+          "order_number": 16,
+          "multipart": true,
+          "created_at": "2019-03-01T12:45:22.656119"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Nigeria’s Nightmare**\n\n&NewLine;\n\nFill in the blanks using suggestions when given. (10 p.)\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/syksy/EA-fi/attachments/index.html#q17|text=Avaa aineisto]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "**Nigeria’s Nightmare**\n\n&NewLine;\n\nFill in the blanks using suggestions when given. (10 p.)\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/syksy/EA-fi/attachments/index.html#q17|text=Avaa aineisto]\n",
+            "questionType": "grammar",
+            "displayNumber": "17."
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "d199cf8e-3c55-4de3-9f1d-cbcffc74da4d",
+            "e7745992-5eb6-478e-8d07-58e36bae3897",
+            "eebfc30c-f715-400d-8f64-c6cd8f22a0a0",
+            "844a55c6-1521-4064-9b25-e191cc47ba59",
+            "66f5e9dd-a748-4aa2-99eb-bfe8a07bf3b1",
+            "bfcf0a45-7e8f-45e6-88de-67b1cb5ea40c",
+            "5b717e59-f6db-405f-9fbb-ef44ce5d3b70",
+            "68e6d087-b93d-4fee-99c9-a9504212502a",
+            "1e9676bc-bc55-47bc-83d5-9d602a9631b7",
+            "7731da0d-3764-453a-a7db-3027f9c54600"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-03-18T11:35:59.773048",
+          "max_score": null,
+          "groupping": null,
+          "id": 1210510,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "fa713557-94e4-4b62-b4e0-07b0ad64c809",
+          "order_number": 21,
+          "multipart": true,
+          "created_at": "2019-03-01T12:53:11.06905"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Birthday**\n\n&NewLine;\n\nListen to the recording of the following dialogue. You can listen to the dialogue twice: first straight through and then in short sections. In the transcription below, select the word that best describes the attitude or feeling expressed by the phrases in bold. (8 p.)\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/syksy/EA-fi/|text=Kuuntele aineisto]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "**Birthday**\n\n&NewLine;\n\nListen to the recording of the following dialogue. You can listen to the dialogue twice: first straight through and then in short sections. In the transcription below, select the word that best describes the attitude or feeling expressed by the phrases in bold. (8 p.)\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/syksy/EA-fi/|text=Kuuntele aineisto]\n",
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "c014c8c4-5fff-47c6-9c4e-254c93d2e480",
+            "2aa6a5f9-acf3-44d1-b55b-b8e23e29f417",
+            "7b844d6f-81d3-473e-83ba-c10c0c64e71c",
+            "22d9d4e4-5d80-401b-bca5-2cc9f3d87cbc"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-03-18T11:35:59.774802",
+          "max_score": null,
+          "groupping": null,
+          "id": 1210844,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "1f3acf94-d2d2-420b-867d-7e45a5b563c7",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2019-03-01T13:39:22.353948"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Which one of the following would be the best alternative title for the text? (3 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "Which one of the following would be the best alternative title for the text? (3 p.)\n",
+            "questionType": "reading",
+            "displayNumber": "13.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.776496",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1210371,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 80,
+              "text": "The Great Wake Up",
+              "parent": "3e819c05-9cc7-4462-8c61-89b139ff5db6",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 81,
+              "text": "Take It Easy",
+              "parent": "3e819c05-9cc7-4462-8c61-89b139ff5db6",
+              "choices": []
+            },
+            {
+              "id": 82,
+              "text": "Eye Contact Matters",
+              "parent": "3e819c05-9cc7-4462-8c61-89b139ff5db6",
+              "choices": []
+            }
+          ],
+          "uuid": "3e819c05-9cc7-4462-8c61-89b139ff5db6",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2019-03-01T12:45:22.661026"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**What Is Art? (video)**\n\n&NewLine;\n\nThis is a video of Leon Botstein discussing art. You can play the video as many times as you want to, and stop, fast forward, and rewind it. Read the questions carefully and then watch the video.\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/syksy/EA-fi/attachments/index.html#q3|text=Avaa aineisto]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "**What Is Art? (video)**\n\n&NewLine;\n\nThis is a video of Leon Botstein discussing art. You can play the video as many times as you want to, and stop, fast forward, and rewind it. Read the questions carefully and then watch the video.\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/syksy/EA-fi/attachments/index.html#q3|text=Avaa aineisto]\n",
+            "displayNumber": "3."
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "92f957a6-0831-4071-a001-61cb72f4b835",
+            "c5385e9f-f130-443b-be1b-23ee9951cfaa",
+            "5eb343e8-91c1-4370-8489-d7e2d0ca5d0b",
+            "b6b1168f-656c-4a98-9ed9-f34a8d4b5edf"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-03-18T11:35:59.778156",
+          "max_score": null,
+          "groupping": null,
+          "id": 1210849,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "4a0e535b-0239-4cc2-a84d-567334bd5573",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2019-03-01T13:39:22.365901"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mihin tämä tuote auttaa? Vastaa lyhyesti suomeksi. (3 p.)\n",
+          "deleted_at": null,
+          "feedback": "Närästykseen/happovaivoihin/liikahappoisuuteen (3 p.)\n",
+          "exam_id": 35116,
+          "content": {
+            "text": "Mihin tämä tuote auttaa? Vastaa lyhyesti suomeksi. (3 p.)\n",
+            "questionType": "reading",
+            "displayNumber": "15.2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.782717",
+          "max_score": null,
+          "groupping": null,
+          "id": 1210377,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "ea579c9c-a8aa-4706-a0c5-0ed7a8d53955",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2019-03-01T12:45:22.675621"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "You are giving a speech at your graduation event to all the new graduates. Your topic is Future Working Life. Write your speech using the ideas from the mind map. You should include at least three of the main themes in your speech.\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/syksy/EA-fi/attachments/index.html#q18.2|text=Avaa aineisto]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "You are giving a speech at your graduation event to all the new graduates. Your topic is Future Working Life. Write your speech using the ideas from the mind map. You should include at least three of the main themes in your speech.\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/syksy/EA-fi/attachments/index.html#q18.2|text=Avaa aineisto]\n",
+            "questionType": "writing",
+            "displayNumber": "18.2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-03-18T11:35:59.786999",
+          "max_score": null,
+          "groupping": null,
+          "id": 1210587,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "0c4205b8-c44f-4146-9343-0041114937b9",
+          "order_number": 24,
+          "multipart": true,
+          "created_at": "2019-03-01T12:57:03.164215"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What does the phrase “it’s either depressing or uplifting or both at the same time” refer to? (2 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "What does the phrase “it’s either depressing or uplifting or both at the same time” refer to? (2 p.)\n",
+            "displayNumber": "1.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.788793",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1210839,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 96,
+              "text": "The behaviour of the participants",
+              "parent": "32cbcc1f-745e-43b5-8a51-97611d1726f4",
+              "choices": []
+            },
+            {
+              "id": 97,
+              "text": "The outcome of the study",
+              "parent": "32cbcc1f-745e-43b5-8a51-97611d1726f4",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 98,
+              "text": "The role of the researcher",
+              "parent": "32cbcc1f-745e-43b5-8a51-97611d1726f4",
+              "choices": []
+            }
+          ],
+          "uuid": "32cbcc1f-745e-43b5-8a51-97611d1726f4",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2019-03-01T13:39:22.342741"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": null,
+          "deleted_at": null,
+          "feedback": "fewer/less (1 p.)\n",
+          "exam_id": 35116,
+          "content": {
+            "questionType": "grammar",
+            "displayNumber": "17.1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.79091",
+          "max_score": null,
+          "groupping": null,
+          "id": 1210511,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "d199cf8e-3c55-4de3-9f1d-cbcffc74da4d",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2019-03-01T12:53:11.071387"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Avasit uuden pakkauksen, ja se näyttää vajaalta. Mistä tämä johtuu? Vastaa lyhyesti suomeksi. (3 p.)\n",
+          "deleted_at": null,
+          "feedback": "Sisältö voi mennä kasaan kuljetuksen aikana (3 p.)\n",
+          "exam_id": 35116,
+          "content": {
+            "text": "Avasit uuden pakkauksen, ja se näyttää vajaalta. Mistä tämä johtuu? Vastaa lyhyesti suomeksi. (3 p.)\n",
+            "questionType": "reading",
+            "displayNumber": "15.3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.792839",
+          "max_score": null,
+          "groupping": null,
+          "id": 1210455,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "68c353fe-5bf9-4306-8329-38f93a685618",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2019-03-01T12:47:40.80977"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Art-Making Is Distinctly Human**\n\n&NewLine;\n\nRead the text about art by conductor Leon Botstein and choose the best alternative for each item.\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/syksy/EA-fi/attachments/index.html#q11|text=Avaa aineisto.]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "**Art-Making Is Distinctly Human**\n\n&NewLine;\n\nRead the text about art by conductor Leon Botstein and choose the best alternative for each item.\n\n&NewLine;\n\n[LINK url=http://yle.fi/plus/abitreenit/2018/syksy/EA-fi/attachments/index.html#q11|text=Avaa aineisto.]\n",
+            "questionType": "reading",
+            "displayNumber": "11."
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "51443bd8-7dda-441e-88f7-d43e04c3560a",
+            "fa9450eb-588c-4025-addd-c1f7c61cfc44",
+            "639ca321-6eb3-4558-b0ab-18a3b2a53b39",
+            "9b5e06c1-1f4f-424a-b028-5030101e376b"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-03-18T11:35:59.798879",
+          "max_score": null,
+          "groupping": null,
+          "id": 1210191,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "3d137274-784b-4ca1-9051-3357055f70b4",
+          "order_number": 14,
+          "multipart": true,
+          "created_at": "2019-03-01T12:14:16.291815"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Dave: **Really? **He looks older.\n\n&NewLine;\n\nDave is expressing\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "Dave: **Really? **He looks older.\n\n&NewLine;\n\nDave is expressing\n",
+            "displayNumber": "2.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.802921",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1210847,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 117,
+              "text": "disbelief",
+              "parent": "7b844d6f-81d3-473e-83ba-c10c0c64e71c",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 118,
+              "text": "realisation",
+              "parent": "7b844d6f-81d3-473e-83ba-c10c0c64e71c",
+              "choices": []
+            },
+            {
+              "id": 119,
+              "text": "uncertainty",
+              "parent": "7b844d6f-81d3-473e-83ba-c10c0c64e71c",
+              "choices": []
+            }
+          ],
+          "uuid": "7b844d6f-81d3-473e-83ba-c10c0c64e71c",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2019-03-01T13:39:22.361253"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mark:** Wait, are you thinking of his brother?**\n\nDave: Yeah, that must be it.\n\n&NewLine;\n\nMark is expressing\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "Mark:** Wait, are you thinking of his brother?**\n\nDave: Yeah, that must be it.\n\n&NewLine;\n\nMark is expressing\n",
+            "displayNumber": "2.4."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.804504",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1210848,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 120,
+              "text": "disbelief",
+              "parent": "22d9d4e4-5d80-401b-bca5-2cc9f3d87cbc",
+              "choices": []
+            },
+            {
+              "id": 121,
+              "text": "pity",
+              "parent": "22d9d4e4-5d80-401b-bca5-2cc9f3d87cbc",
+              "choices": []
+            },
+            {
+              "id": 122,
+              "text": "realisation",
+              "parent": "22d9d4e4-5d80-401b-bca5-2cc9f3d87cbc",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "22d9d4e4-5d80-401b-bca5-2cc9f3d87cbc",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2019-03-01T13:39:22.363584"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "According to Adia, a good result of teenagers’ interest in vinyl is that... (2 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "According to Adia, a good result of teenagers’ interest in vinyl is that... (2 p.)\n",
+            "displayNumber": "5.4."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.806145",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1210862,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 153,
+              "text": "...it expands their musical taste",
+              "parent": "e65cfe94-4ee5-4b0d-b9a4-855660955d93",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 154,
+              "text": "...they can decrease their overall spending",
+              "parent": "e65cfe94-4ee5-4b0d-b9a4-855660955d93",
+              "choices": []
+            },
+            {
+              "id": 155,
+              "text": "...their parents can get rid of old records",
+              "parent": "e65cfe94-4ee5-4b0d-b9a4-855660955d93",
+              "choices": []
+            }
+          ],
+          "uuid": "e65cfe94-4ee5-4b0d-b9a4-855660955d93",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2019-03-01T13:39:22.395741"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What does the customer say next? (2 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "What does the customer say next? (2 p.)\n",
+            "displayNumber": "6.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.808249",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1210865,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 160,
+              "text": "A) Sure, go ahead.",
+              "parent": "27a59f43-2535-4768-b366-cdf136993eae",
+              "choices": []
+            },
+            {
+              "id": 161,
+              "text": "B) Yes, get it for me.",
+              "parent": "27a59f43-2535-4768-b366-cdf136993eae",
+              "choices": []
+            },
+            {
+              "id": 162,
+              "text": "C) That would be great!",
+              "parent": "27a59f43-2535-4768-b366-cdf136993eae",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 163,
+              "text": "D) Go for it!",
+              "parent": "27a59f43-2535-4768-b366-cdf136993eae",
+              "choices": []
+            }
+          ],
+          "uuid": "27a59f43-2535-4768-b366-cdf136993eae",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2019-03-01T13:39:22.402403"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Choose an expression that has a fairly similar meaning to the bolded word and fits the context. (4 x 2 p.)**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "**Choose an expression that has a fairly similar meaning to the bolded word and fits the context. (4 x 2 p.)**\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.814576",
+          "max_score": null,
+          "groupping": null,
+          "id": 1210136,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "d34d8111-c173-4852-937e-43fde5a1bd31",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2019-03-01T12:09:08.251665"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "The _Active Citizens_ delivered campaigns and seminars dealing with how to tackle **communicable** diseases, such as cholera, which were spreading throughout the camps. \n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "The _Active Citizens_ delivered campaigns and seminars dealing with how to tackle **communicable** diseases, such as cholera, which were spreading throughout the camps. \n",
+            "questionType": "reading",
+            "displayNumber": "10.8."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.819034",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1210139,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 43,
+              "text": "tropical",
+              "parent": "cefce5fa-22e5-4c99-a865-79728fb1ce19",
+              "choices": []
+            },
+            {
+              "id": 44,
+              "text": "contagious",
+              "parent": "cefce5fa-22e5-4c99-a865-79728fb1ce19",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 45,
+              "text": "incurable",
+              "parent": "cefce5fa-22e5-4c99-a865-79728fb1ce19",
+              "choices": []
+            }
+          ],
+          "uuid": "cefce5fa-22e5-4c99-a865-79728fb1ce19",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2019-03-01T12:09:08.260496"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Why isn’t birdsong considered music? (3 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "Why isn’t birdsong considered music? (3 p.)\n",
+            "questionType": "reading",
+            "displayNumber": "11.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.824714",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1210193,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 52,
+              "text": "It doesn’t conform to our understanding of music",
+              "parent": "fa9450eb-588c-4025-addd-c1f7c61cfc44",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 53,
+              "text": "It doesn’t contain tonal and rhythmic variation",
+              "parent": "fa9450eb-588c-4025-addd-c1f7c61cfc44",
+              "choices": []
+            },
+            {
+              "id": 54,
+              "text": "It doesn’t surpass the complexity of human songs",
+              "parent": "fa9450eb-588c-4025-addd-c1f7c61cfc44",
+              "choices": []
+            }
+          ],
+          "uuid": "fa9450eb-588c-4025-addd-c1f7c61cfc44",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2019-03-01T12:14:16.29738"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Which of the following is true based on the discussion on music and paintings? (3 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "Which of the following is true based on the discussion on music and paintings? (3 p.)\n",
+            "questionType": "reading",
+            "displayNumber": "11.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.827258",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1210194,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 55,
+              "text": "Making opera realistic requires an effort",
+              "parent": "639ca321-6eb3-4558-b0ab-18a3b2a53b39",
+              "choices": []
+            },
+            {
+              "id": 56,
+              "text": "Even realistic paintings convey an illusion",
+              "parent": "639ca321-6eb3-4558-b0ab-18a3b2a53b39",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 57,
+              "text": "Music and paintings are equally realistic",
+              "parent": "639ca321-6eb3-4558-b0ab-18a3b2a53b39",
+              "choices": []
+            }
+          ],
+          "uuid": "639ca321-6eb3-4558-b0ab-18a3b2a53b39",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2019-03-01T12:14:16.300072"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Choose the best definition for each bolded expression in the text to fit the context. Please note that there are more definitions than there are expressions. (7 p.)**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "**Choose the best definition for each bolded expression in the text to fit the context. Please note that there are more definitions than there are expressions. (7 p.)**\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.829331",
+          "max_score": null,
+          "groupping": null,
+          "id": 1210367,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "1eda06b4-16f3-4df0-8ac2-cc6cdaf081bf",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2019-03-01T12:45:22.651202"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**PART II  Reading Comprehension**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "**PART II  Reading Comprehension**\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-03-18T11:35:59.831054",
+          "max_score": null,
+          "groupping": null,
+          "id": 1210106,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "767538ea-f90a-4826-8cb5-a3c74fbec970",
+          "order_number": 11,
+          "multipart": true,
+          "created_at": "2019-03-01T11:44:42.94971"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": null,
+          "deleted_at": null,
+          "feedback": "on/against (1 p.)\n",
+          "exam_id": 35116,
+          "content": {
+            "questionType": "grammar",
+            "displayNumber": "17.2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.833068",
+          "max_score": null,
+          "groupping": null,
+          "id": 1210512,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "e7745992-5eb6-478e-8d07-58e36bae3897",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2019-03-01T12:53:11.073629"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": null,
+          "deleted_at": null,
+          "feedback": "cutting (1 p.)\n",
+          "exam_id": 35116,
+          "content": {
+            "questionType": "grammar",
+            "displayNumber": "17.3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.835073",
+          "max_score": null,
+          "groupping": null,
+          "id": 1210513,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "eebfc30c-f715-400d-8f64-c6cd8f22a0a0",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2019-03-01T12:53:11.076098"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": null,
+          "deleted_at": null,
+          "feedback": "oil revenue / oil income (1 p.)\n",
+          "exam_id": 35116,
+          "content": {
+            "questionType": "grammar",
+            "displayNumber": "17.4."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.836654",
+          "max_score": null,
+          "groupping": null,
+          "id": 1210514,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "844a55c6-1521-4064-9b25-e191cc47ba59",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2019-03-01T12:53:11.078483"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": null,
+          "deleted_at": null,
+          "feedback": "currency (1 p.)\n",
+          "exam_id": 35116,
+          "content": {
+            "questionType": "grammar",
+            "displayNumber": "17.5."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.838227",
+          "max_score": null,
+          "groupping": null,
+          "id": 1210515,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "66f5e9dd-a748-4aa2-99eb-bfe8a07bf3b1",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2019-03-01T12:53:11.080768"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": null,
+          "deleted_at": null,
+          "feedback": "northeast (1 p.)\n",
+          "exam_id": 35116,
+          "content": {
+            "questionType": "grammar",
+            "displayNumber": "17.6."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.839836",
+          "max_score": null,
+          "groupping": null,
+          "id": 1210516,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "bfcf0a45-7e8f-45e6-88de-67b1cb5ea40c",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2019-03-01T12:53:11.083053"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": null,
+          "deleted_at": null,
+          "feedback": "was elected / got elected (1 p.)\n",
+          "exam_id": 35116,
+          "content": {
+            "questionType": "grammar",
+            "displayNumber": "17.7."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.841493",
+          "max_score": null,
+          "groupping": null,
+          "id": 1210517,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "5b717e59-f6db-405f-9fbb-ef44ce5d3b70",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2019-03-01T12:53:11.085365"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": null,
+          "deleted_at": null,
+          "feedback": "revive/boost/repair/sort out/revivify (1 p.)\n",
+          "exam_id": 35116,
+          "content": {
+            "questionType": "grammar",
+            "displayNumber": "17.8."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.843085",
+          "max_score": null,
+          "groupping": null,
+          "id": 1210518,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "68e6d087-b93d-4fee-99c9-a9504212502a",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2019-03-01T12:53:11.087691"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": null,
+          "deleted_at": null,
+          "feedback": "didn't approve / did not approve / didn’t accept / did not accept (1 p.)\n",
+          "exam_id": 35116,
+          "content": {
+            "questionType": "grammar",
+            "displayNumber": "17.9."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.844725",
+          "max_score": null,
+          "groupping": null,
+          "id": 1210519,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "1e9676bc-bc55-47bc-83d5-9d602a9631b7",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2019-03-01T12:53:11.08986"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": null,
+          "deleted_at": null,
+          "feedback": "until May (1 p.)\n",
+          "exam_id": 35116,
+          "content": {
+            "questionType": "grammar",
+            "displayNumber": "17.10."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.846183",
+          "max_score": null,
+          "groupping": null,
+          "id": 1210520,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "7731da0d-3764-453a-a7db-3027f9c54600",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2019-03-01T12:53:11.092002"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**PART III  Grammar and Vocabulary**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "**PART III  Grammar and Vocabulary**\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-03-18T11:35:59.851731",
+          "max_score": null,
+          "groupping": null,
+          "id": 1210508,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "b7dd9c02-9109-492f-97a2-17e70f67a4db",
+          "order_number": 19,
+          "multipart": true,
+          "created_at": "2019-03-01T12:53:11.064222"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Writer’s Digest**\n\n​\n\n_Writer’s Digest_ magazine has its annual writing contest for young adults. The theme this year is reinvention, and the task is to write about an incident in your past that you would like to have a chance to relive and do differently. Write your entry in the contest.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "**Writer’s Digest**\n\n​\n\n_Writer’s Digest_ magazine has its annual writing contest for young adults. The theme this year is reinvention, and the task is to write about an incident in your past that you would like to have a chance to relive and do differently. Write your entry in the contest.\n",
+            "questionType": "writing",
+            "displayNumber": "18.4."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-03-18T11:35:59.85632",
+          "max_score": null,
+          "groupping": null,
+          "id": 1210589,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "22409df4-dd1b-4c42-8586-e8d7b265f5b7",
+          "order_number": 26,
+          "multipart": true,
+          "created_at": "2019-03-01T12:57:03.169512"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What characterizes the mountain states in the West, such as Idaho and Montana? (3 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "What characterizes the mountain states in the West, such as Idaho and Montana? (3 p.)\n",
+            "questionType": "reading",
+            "displayNumber": "12.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.860451",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1210242,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 67,
+              "text": "They are not keen on environmentally friendly options",
+              "parent": "7fdd1ca8-1300-46eb-8ee9-036a1f49bd38",
+              "choices": []
+            },
+            {
+              "id": 68,
+              "text": "They suffer from there not being much industry",
+              "parent": "7fdd1ca8-1300-46eb-8ee9-036a1f49bd38",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 69,
+              "text": "Their demand for energy does not meet the supply",
+              "parent": "7fdd1ca8-1300-46eb-8ee9-036a1f49bd38",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "7fdd1ca8-1300-46eb-8ee9-036a1f49bd38",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2019-03-01T12:23:04.919371"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "How has the study been helpful? (2 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "How has the study been helpful? (2 p.)\n",
+            "displayNumber": "1.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.862395",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1210840,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 99,
+              "text": "It has drawn on a significant number of research sources",
+              "parent": "5ee1281a-3e61-4328-b54e-8cbe8967e181",
+              "choices": []
+            },
+            {
+              "id": 100,
+              "text": "It has solved a substantial number of public health problems",
+              "parent": "5ee1281a-3e61-4328-b54e-8cbe8967e181",
+              "choices": []
+            },
+            {
+              "id": 101,
+              "text": "It has generated a considerable amount of valuable data",
+              "parent": "5ee1281a-3e61-4328-b54e-8cbe8967e181",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "5ee1281a-3e61-4328-b54e-8cbe8967e181",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2019-03-01T13:39:22.345102"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What is meant by the term “policy” here? (2 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "What is meant by the term “policy” here? (2 p.)\n",
+            "displayNumber": "1.4."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.863976",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1210841,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 102,
+              "text": "The interrelationship between various parties",
+              "parent": "0a02d47b-541d-4ffa-891a-a0d4d7799d95",
+              "choices": []
+            },
+            {
+              "id": 103,
+              "text": "The way one comes across in social situations",
+              "parent": "0a02d47b-541d-4ffa-891a-a0d4d7799d95",
+              "choices": []
+            },
+            {
+              "id": 104,
+              "text": "The resolutions made in order to manage society",
+              "parent": "0a02d47b-541d-4ffa-891a-a0d4d7799d95",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "0a02d47b-541d-4ffa-891a-a0d4d7799d95",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2019-03-01T13:39:22.347346"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What best describes Kim’s approach? (2 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "What best describes Kim’s approach? (2 p.)\n",
+            "displayNumber": "1.5."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.865817",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1210842,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 105,
+              "text": "She criticises the way the study was conducted",
+              "parent": "ca78d598-c201-4fe9-97f1-af0ff42ff7c8",
+              "choices": []
+            },
+            {
+              "id": 106,
+              "text": "She questions the usefulness of the study results",
+              "parent": "ca78d598-c201-4fe9-97f1-af0ff42ff7c8",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 107,
+              "text": "She comes across as ignorant of earlier studies",
+              "parent": "ca78d598-c201-4fe9-97f1-af0ff42ff7c8",
+              "choices": []
+            }
+          ],
+          "uuid": "ca78d598-c201-4fe9-97f1-af0ff42ff7c8",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2019-03-01T13:39:22.349582"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**PART I  Listening Comprehension**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "**PART I  Listening Comprehension**\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-03-18T11:35:59.86763",
+          "max_score": null,
+          "groupping": null,
+          "id": 1210834,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "28c57cba-baca-4824-a877-4a9714acf219",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2019-03-01T13:39:22.330844"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Traditionally, the main model of conservation has been one where wolves... (2 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "Traditionally, the main model of conservation has been one where wolves... (2 p.)\n",
+            "displayNumber": "4.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.8719",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1210855,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 135,
+              "text": "...are kept separate from other animals",
+              "parent": "c11c257b-3e49-4771-a471-830f8c49590a",
+              "choices": []
+            },
+            {
+              "id": 136,
+              "text": "...roam across a wide area",
+              "parent": "c11c257b-3e49-4771-a471-830f8c49590a",
+              "choices": []
+            },
+            {
+              "id": 137,
+              "text": "...are protected within restricted areas",
+              "parent": "c11c257b-3e49-4771-a471-830f8c49590a",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "c11c257b-3e49-4771-a471-830f8c49590a",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2019-03-01T13:39:22.379593"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mikä linnun käytöksessä herättää kummastusta, ja mikä tämän käytöksen selittää? Vastaa lyhyesti suomeksi. (6 p.)\n",
+          "deleted_at": null,
+          "feedback": "Se tuijottaa peilikuvaansa (3 p.); se yrittää piiloutua / se on tyypillistä lajille (3 p.)\n",
+          "exam_id": 35116,
+          "content": {
+            "text": "Mikä linnun käytöksessä herättää kummastusta, ja mikä tämän käytöksen selittää? Vastaa lyhyesti suomeksi. (6 p.)\n",
+            "displayNumber": "8.2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.875989",
+          "max_score": null,
+          "groupping": null,
+          "id": 1210872,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "b7e1f1b6-5554-47e4-ba65-1c0f7434f129",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2019-03-01T13:39:22.418543"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Miksi tohtori Kimmelin mukaan nuoret miehet haluavat viettää enemmän aikaa keskenään (2 asiaa)? Vastaa lyhyesti suomeksi. (6 p.)\n",
+          "deleted_at": null,
+          "feedback": "Välttääkseen aikuisuuden tuomaa vastuuta (3 p.), suojautuakseen tasa-arvoa/naisia\n\nvastaan (3 p.)\n",
+          "exam_id": 35116,
+          "content": {
+            "text": "Miksi tohtori Kimmelin mukaan nuoret miehet haluavat viettää enemmän aikaa keskenään (2 asiaa)? Vastaa lyhyesti suomeksi. (6 p.)\n",
+            "displayNumber": "8.3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.877621",
+          "max_score": null,
+          "groupping": null,
+          "id": 1210873,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "1b819ce8-82ac-4695-857e-7046881597c9",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2019-03-01T13:39:22.421084"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Millä tavoin Youth Allies for Sustainability Leadership -ohjelmassa on edistetty sen tavoitteita (2 asiaa)? Vastaa lyhyesti suomeksi. (6 p.)\n",
+          "deleted_at": null,
+          "feedback": "Perustamalla nuorten neuvottelukunta (3 p.), järjestämällä nuorille koulutusta (3 p.)\n",
+          "exam_id": 35116,
+          "content": {
+            "text": "Millä tavoin Youth Allies for Sustainability Leadership -ohjelmassa on edistetty sen tavoitteita (2 asiaa)? Vastaa lyhyesti suomeksi. (6 p.)\n",
+            "displayNumber": "8.4."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.879148",
+          "max_score": null,
+          "groupping": null,
+          "id": 1210874,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "ca5855d4-1efe-4998-bc1e-19301f1186e1",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2019-03-01T13:39:22.423336"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mitkä kaksi asiaa pitäisi muistaa tehdä, kun irtisanoutuu ensimmäisestä työpaikastaan? Vastaa lyhyesti suomeksi. (6 p.)\n",
+          "deleted_at": null,
+          "feedback": "Kertoa asiasta esimiehelle ennen kollegoita (3 p.), irtisanoutua riittävän aikaisin / noudattaa irtisanoutumisaikaa (3 p.)\n",
+          "exam_id": 35116,
+          "content": {
+            "text": "Mitkä kaksi asiaa pitäisi muistaa tehdä, kun irtisanoutuu ensimmäisestä työpaikastaan? Vastaa lyhyesti suomeksi. (6 p.)\n",
+            "displayNumber": "8.5."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.880887",
+          "max_score": null,
+          "groupping": null,
+          "id": 1210875,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "ce0f4f53-c512-4bc9-a6ab-5de149239257",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2019-03-01T13:39:22.425518"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kokeen tekstit ja kuvat pohjautuvat seuraaviin lähteisiin: \n\n1. radionz.co.nz (14.7.2017)\n\n2. Ylioppilastutkinto­lautakunta\n\n3. Kuvat: squarespace.com, cybershop.fi, telegraph.co.uk (9.1.2018)\n\n4. scientificamerican.com (5.9.2017)\n\n6. Ylioppilastutkinto­lautakunta\n\n7. Ylioppilastutkinto­lautakunta\n\n8. metro.co.uk, theshortnews.com, independent.co.uk, susted.com, monster.com (14.7.2017)\n\n14. insidebigdata.com (28.3.2017)\n\n16. Jonathan Margolis, Financial Times, 8.2.2016 (adapted)\n\n18.1. e.e.cummings – 73 poems\n\n18.3. Kuva: exchange.blogs.tamk.fi/ (29.9.2017)\n\n18.4. Kuva: www.writersdigest.com (3.10.2017)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "Kokeen tekstit ja kuvat pohjautuvat seuraaviin lähteisiin: \n\n1. radionz.co.nz (14.7.2017)\n\n2. Ylioppilastutkinto­lautakunta\n\n3. Kuvat: squarespace.com, cybershop.fi, telegraph.co.uk (9.1.2018)\n\n4. scientificamerican.com (5.9.2017)\n\n6. Ylioppilastutkinto­lautakunta\n\n7. Ylioppilastutkinto­lautakunta\n\n8. metro.co.uk, theshortnews.com, independent.co.uk, susted.com, monster.com (14.7.2017)\n\n14. insidebigdata.com (28.3.2017)\n\n16. Jonathan Margolis, Financial Times, 8.2.2016 (adapted)\n\n18.1. e.e.cummings – 73 poems\n\n18.3. Kuva: exchange.blogs.tamk.fi/ (29.9.2017)\n\n18.4. Kuva: www.writersdigest.com (3.10.2017)\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-03-18T11:35:59.885165",
+          "max_score": null,
+          "groupping": null,
+          "id": 1210660,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "46ca4b6a-844f-4a96-a660-f483d7570220",
+          "order_number": 27,
+          "multipart": true,
+          "created_at": "2019-03-01T12:57:53.675703"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "How does the Active Citizens programme find its participants? (3 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "How does the Active Citizens programme find its participants? (3 p.)\n",
+            "questionType": "reading",
+            "displayNumber": "10.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.887073",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1210131,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 22,
+              "text": "By sending British Council workers to recruit them",
+              "parent": "4f9be880-e0ba-40c9-a110-faca541db247",
+              "choices": []
+            },
+            {
+              "id": 23,
+              "text": "Through its training projects and school visits",
+              "parent": "4f9be880-e0ba-40c9-a110-faca541db247",
+              "choices": []
+            },
+            {
+              "id": 24,
+              "text": "With the help of regional organisations",
+              "parent": "4f9be880-e0ba-40c9-a110-faca541db247",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "4f9be880-e0ba-40c9-a110-faca541db247",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2019-03-01T12:09:08.238371"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Why did Adia start selling vinyl records? (2 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "Why did Adia start selling vinyl records? (2 p.)\n",
+            "displayNumber": "5.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.889191",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1210860,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 147,
+              "text": "She likes older music",
+              "parent": "385c3ab3-d125-4b2a-8ce2-a9e3a876471a",
+              "choices": []
+            },
+            {
+              "id": 148,
+              "text": "Her father inspired her",
+              "parent": "385c3ab3-d125-4b2a-8ce2-a9e3a876471a",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 149,
+              "text": "They sounded better in her opinion",
+              "parent": "385c3ab3-d125-4b2a-8ce2-a9e3a876471a",
+              "choices": []
+            }
+          ],
+          "uuid": "385c3ab3-d125-4b2a-8ce2-a9e3a876471a",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2019-03-01T13:39:22.391033"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What is the biggest challenge in wind power? (3 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "What is the biggest challenge in wind power? (3 p.)\n",
+            "questionType": "reading",
+            "displayNumber": "12.5."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.89091",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1210278,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 73,
+              "text": "Turning wind into power",
+              "parent": "ed8368d1-fe17-489d-af61-7ef7a1b7ef04",
+              "choices": []
+            },
+            {
+              "id": 74,
+              "text": "Transferring the electricity",
+              "parent": "ed8368d1-fe17-489d-af61-7ef7a1b7ef04",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 75,
+              "text": "Finding enough funding",
+              "parent": "ed8368d1-fe17-489d-af61-7ef7a1b7ef04",
+              "choices": []
+            }
+          ],
+          "uuid": "ed8368d1-fe17-489d-af61-7ef7a1b7ef04",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2019-03-01T12:25:14.212712"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "In Botstein’s view, which of the following portraits would most likely be considered a piece of art? (2 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "In Botstein’s view, which of the following portraits would most likely be considered a piece of art? (2 p.)\n",
+            "displayNumber": "3.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.892531",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1210851,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 126,
+              "text": "[IMS id=39-5475265c7fd8ccc6c7f]",
+              "parent": "c5385e9f-f130-443b-be1b-23ee9951cfaa",
+              "choices": []
+            },
+            {
+              "id": 127,
+              "text": "[IMS id=39-5475215c7fd822c9361|aspect=Original]",
+              "parent": "c5385e9f-f130-443b-be1b-23ee9951cfaa",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 128,
+              "text": "[IMS id=39-5475255c7fd8a53092e]",
+              "parent": "c5385e9f-f130-443b-be1b-23ee9951cfaa",
+              "choices": []
+            }
+          ],
+          "uuid": "c5385e9f-f130-443b-be1b-23ee9951cfaa",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2019-03-01T13:39:22.370558"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "According to Botstein, how do people escape their mortality? (3 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "According to Botstein, how do people escape their mortality? (3 p.)\n",
+            "questionType": "reading",
+            "displayNumber": "11.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.896522",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1210192,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 49,
+              "text": "By pretending to be in love",
+              "parent": "51443bd8-7dda-441e-88f7-d43e04c3560a",
+              "choices": []
+            },
+            {
+              "id": 50,
+              "text": "By creating art about celestial beings",
+              "parent": "51443bd8-7dda-441e-88f7-d43e04c3560a",
+              "choices": []
+            },
+            {
+              "id": 51,
+              "text": "By conjuring up fictional worlds",
+              "parent": "51443bd8-7dda-441e-88f7-d43e04c3560a",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "51443bd8-7dda-441e-88f7-d43e04c3560a",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2019-03-01T12:14:16.294507"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What may cause increase in lack of empathy? (3 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "What may cause increase in lack of empathy? (3 p.)\n",
+            "questionType": "reading",
+            "displayNumber": "13.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.898258",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1210370,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 77,
+              "text": "Disinterest in talking with people",
+              "parent": "644e0393-b535-4f1f-b12e-28d37f936302",
+              "choices": []
+            },
+            {
+              "id": 78,
+              "text": "Decline in direct personal contacts",
+              "parent": "644e0393-b535-4f1f-b12e-28d37f936302",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 79,
+              "text": "Inability to befriend new people",
+              "parent": "644e0393-b535-4f1f-b12e-28d37f936302",
+              "choices": []
+            }
+          ],
+          "uuid": "644e0393-b535-4f1f-b12e-28d37f936302",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2019-03-01T12:45:22.658545"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What is Carbon County, Wyoming known for? (3 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "What is Carbon County, Wyoming known for? (3 p.)\n",
+            "questionType": "reading",
+            "displayNumber": "12.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.900044",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1210240,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 61,
+              "text": "It has a law governing the use of sustainable energy",
+              "parent": "a9a1f06d-2eee-4c54-9581-a3befd53907e",
+              "choices": []
+            },
+            {
+              "id": 62,
+              "text": "Of all the states, it produces the most energy in the U.S.",
+              "parent": "a9a1f06d-2eee-4c54-9581-a3befd53907e",
+              "choices": []
+            },
+            {
+              "id": 63,
+              "text": "It used to be a dominant producer of fossil fuel",
+              "parent": "a9a1f06d-2eee-4c54-9581-a3befd53907e",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "a9a1f06d-2eee-4c54-9581-a3befd53907e",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2019-03-01T12:23:04.913707"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What does the woman say next? (2 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "What does the woman say next? (2 p.)\n",
+            "displayNumber": "7.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.904821",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1210867,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 164,
+              "text": "A) So thanks, but not for me.",
+              "parent": "055f0fb2-4cbd-4587-ab9b-523e1cf9ea64",
+              "choices": []
+            },
+            {
+              "id": 165,
+              "text": "B) So I’ll pass, thanks.",
+              "parent": "055f0fb2-4cbd-4587-ab9b-523e1cf9ea64",
+              "choices": []
+            },
+            {
+              "id": 166,
+              "text": "C) So I’m fine, thanks.",
+              "parent": "055f0fb2-4cbd-4587-ab9b-523e1cf9ea64",
+              "choices": []
+            },
+            {
+              "id": 167,
+              "text": "D) So thank you, but no.",
+              "parent": "055f0fb2-4cbd-4587-ab9b-523e1cf9ea64",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "055f0fb2-4cbd-4587-ab9b-523e1cf9ea64",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2019-03-01T13:39:22.407122"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Your family members wonder if they could find relief for their problems by taking this medicine. Which one could find help from this medicine? (2 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "Your family members wonder if they could find relief for their problems by taking this medicine. Which one could find help from this medicine? (2 p.)\n",
+            "questionType": "reading",
+            "displayNumber": "15.4."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:35:59.908686",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1210456,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 86,
+              "text": "Your cousin has bulimia and has developed a urinary tract infection.",
+              "parent": "343f48d9-a93c-4219-9919-cd1c08b2845e",
+              "choices": []
+            },
+            {
+              "id": 87,
+              "text": "Your sister has an upset tummy. She is pregnant.",
+              "parent": "343f48d9-a93c-4219-9919-cd1c08b2845e",
+              "choices": []
+            },
+            {
+              "id": 88,
+              "text": "Your grandfather has trouble sleeping. He is allergic to birch pollen.",
+              "parent": "343f48d9-a93c-4219-9919-cd1c08b2845e",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 89,
+              "text": "Your younger brother has a rash. He is vegan and does not use any animal products.",
+              "parent": "343f48d9-a93c-4219-9919-cd1c08b2845e",
+              "choices": []
+            }
+          ],
+          "uuid": "343f48d9-a93c-4219-9919-cd1c08b2845e",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2019-03-01T12:47:40.812504"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**PART IV Production**\n\n​\n\nWrite a composition of 700–1,300 characters on one of the topics below, following the instructions. Spaces and line breaks are not included in the character count. (1 x 99 p.)\n\n​\n\nLeave the three other text fields empty.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 35116,
+          "content": {
+            "text": "**PART IV Production**\n\n​\n\nWrite a composition of 700–1,300 characters on one of the topics below, following the instructions. Spaces and line breaks are not included in the character count. (1 x 99 p.)\n\n​\n\nLeave the three other text fields empty.\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-03-18T11:35:59.910442",
+          "max_score": null,
+          "groupping": null,
+          "id": 1210585,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "61b20da8-ba9a-4049-ab0f-cf68dec0272e",
+          "order_number": 22,
+          "multipart": true,
+          "created_at": "2019-03-01T12:57:03.158344"
+        }
+      ],
+      "name": "Englanti, pitkä oppimäärä syksy 2018",
+      "settings": {},
+      "exam_type": "yo-koe",
+      "classification": {
+        "category": "digital-exam",
+        "disable_saving": false,
+        "hide_review_buttons": false,
+        "exam_type": "yo-koe",
+        "year": "2018",
+        "language": "fi-FI",
+        "hide_statistics": false,
+        "show_exam_series": false,
+        "force_yletunnus": false,
+        "subject": "englanti-pitkä",
+        "published": true,
+        "semester": "fall"
+      },
+      "published_at": "2019-03-07T08:43:03.240Z",
+      "language": "fi-FI",
+      "id": 35116,
+      "reviews": [],
+      "is_open": true,
+      "uuid": "a5127c88-32ad-4a8e-b3e1-331ae7a9c082"
+    }
+  ]
+}

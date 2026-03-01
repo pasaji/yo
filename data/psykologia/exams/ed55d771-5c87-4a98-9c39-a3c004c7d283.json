@@ -1,0 +1,466 @@
+{
+  "meta": {
+    "count": 1
+  },
+  "data": [
+    {
+      "tags": [
+        ""
+      ],
+      "main_text": "**Enintään 6 tehtävään saa vastata. Tehtävät arvostellaan pistein 0-6, paitsi muita vaativammat, +:lla merkityt jokeritehtävät, jotka arvostellaan pistein 0-9. Moniosaisissa, esimerkiksi a-, b- ja c-kohdan sisältävissä tehtävissä voidaan erikseen ilmoittaa eri alakohtien enimmäispistemäärät.**\n",
+      "characters": null,
+      "deleted_at": null,
+      "series_uuids": [],
+      "questions": [
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252837",
+            "18-217362"
+          ],
+          "main_text": "Tarkastele psykologian valossa väitettä \"ihminen on eläin\".\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1302,
+          "content": {
+            "text": "Tarkastele psykologian valossa väitettä \"ihminen on eläin\".\n",
+            "displayNumber": "+9."
+          },
+          "images": null,
+          "settings": {
+            "joker": true,
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T09:34:20.057642",
+          "max_score": null,
+          "groupping": null,
+          "id": 19884,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "29960fa1-e905-4d6e-8f86-a2b8544a84ad",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2017-06-09T10:30:12.878734"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-210286",
+            "18-252840"
+          ],
+          "main_text": "Selvitä esimerkkien avulla, miten aivojen limbinen järjestelmä ja aivokuoren otsalohko osallistuvat tunteiden säätelyyn.\n\n[IMS id=39-407518593a74b5f09fa]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1302,
+          "content": {
+            "text": "Selvitä esimerkkien avulla, miten aivojen limbinen järjestelmä ja aivokuoren otsalohko osallistuvat tunteiden säätelyyn.\n\n[IMS id=39-407518593a74b5f09fa]\n",
+            "displayNumber": "6."
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T09:34:20.064576",
+          "max_score": null,
+          "groupping": null,
+          "id": 19799,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "9662f6ef-bda5-4417-b1ab-b6e4992d4e31",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2017-06-09T10:19:46.274012"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-35057",
+            "18-252841"
+          ],
+          "main_text": "Oheisessa tekstissä kuvataan median vahvaa vaikutusta nykymaailmassa. Laadi suunnitelma jonkin medioitumiseen liittyvän ilmiön psykologisten vaikutusten tutkimiseksi.\n\n[IMS id=39-407534593a78547f7c8]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1302,
+          "content": {
+            "text": "Oheisessa tekstissä kuvataan median vahvaa vaikutusta nykymaailmassa. Laadi suunnitelma jonkin medioitumiseen liittyvän ilmiön psykologisten vaikutusten tutkimiseksi.\n\n[IMS id=39-407534593a78547f7c8]\n",
+            "displayNumber": "+10."
+          },
+          "images": null,
+          "settings": {
+            "joker": true,
+            "material": true,
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T09:34:20.071324",
+          "max_score": null,
+          "groupping": null,
+          "id": 19885,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "b98c2623-85ac-4ab9-9071-7176a4beed61",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2017-06-09T10:30:12.881745"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "tehtäväsuuntautuneisuus\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1302,
+          "content": {
+            "text": "tehtäväsuuntautuneisuus\n",
+            "displayNumber": "a)"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-07-19T09:34:20.0807",
+          "max_score": null,
+          "groupping": null,
+          "id": 19713,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "146e0021-65b1-4794-9c56-52c0e49c488d",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-06-09T10:07:36.488768"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "sisäinen malli\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1302,
+          "content": {
+            "text": "sisäinen malli\n",
+            "displayNumber": "c)"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-07-19T09:34:20.083543",
+          "max_score": null,
+          "groupping": null,
+          "id": 19715,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "cead4ba2-d6de-4326-aedd-cdc3adf65f9e",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2017-06-09T10:07:36.493991"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "metakognitio\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1302,
+          "content": {
+            "text": "metakognitio\n",
+            "displayNumber": "b)"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-07-19T09:34:20.077562",
+          "max_score": null,
+          "groupping": null,
+          "id": 19714,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "bffd1499-efeb-46b5-8907-cdbe9e3fad85",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2017-06-09T10:07:36.491367"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-253197"
+          ],
+          "main_text": "Miten tapaustutkimusta käytetään psykologisessa tiedonmuodostuksessa?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1302,
+          "content": {
+            "text": "Miten tapaustutkimusta käytetään psykologisessa tiedonmuodostuksessa?\n",
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T09:34:20.086398",
+          "max_score": null,
+          "groupping": null,
+          "id": 19716,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "23ee9749-96cb-4af9-b506-6525c17ad4f8",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2017-06-09T10:07:36.496468"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-204676",
+            "18-252837"
+          ],
+          "main_text": "Valitse alla olevista käsitteistä yksi ja tarkastele sen merkitystä omassa opiskelussasi. Perustele oppimispsykologian perusteella, miksi valitset juuri kyseisen käsitteen.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1302,
+          "content": {
+            "text": "Valitse alla olevista käsitteistä yksi ja tarkastele sen merkitystä omassa opiskelussasi. Perustele oppimispsykologian perusteella, miksi valitset juuri kyseisen käsitteen.\n",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "146e0021-65b1-4794-9c56-52c0e49c488d",
+            "bffd1499-efeb-46b5-8907-cdbe9e3fad85",
+            "cead4ba2-d6de-4326-aedd-cdc3adf65f9e"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T09:34:20.089611",
+          "max_score": null,
+          "groupping": null,
+          "id": 19712,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "a44de902-4b88-4076-8373-c165b6132eda",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-06-09T10:07:36.486236"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252839",
+            "18-1754"
+          ],
+          "main_text": "Miten havaintopsykologista tutkimustietoa voidaan soveltaa liikennekasvatukseen?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1302,
+          "content": {
+            "text": "Miten havaintopsykologista tutkimustietoa voidaan soveltaa liikennekasvatukseen?\n",
+            "displayNumber": "5."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T09:34:20.09698",
+          "max_score": null,
+          "groupping": null,
+          "id": 19757,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "71484f99-deb4-4f76-b035-574840ce634f",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2017-06-09T10:11:19.715629"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252838",
+            "18-205530"
+          ],
+          "main_text": "Identiteetti, \"kuka minä olen\", on ihmisen keskeisiä elämänkysymyksiä. Selosta, mikä merkitys omalla etsinnällä ja muilla ihmisillä on nuoren identiteetin muodostumisessa.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1302,
+          "content": {
+            "text": "Identiteetti, \"kuka minä olen\", on ihmisen keskeisiä elämänkysymyksiä. Selosta, mikä merkitys omalla etsinnällä ja muilla ihmisillä on nuoren identiteetin muodostumisessa.\n",
+            "displayNumber": "3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T09:34:20.060642",
+          "max_score": null,
+          "groupping": null,
+          "id": 19725,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "032fe71b-cc25-4d17-8170-b2c68208caa2",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2017-06-09T10:10:22.895768"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-205400",
+            "18-252840"
+          ],
+          "main_text": "Minäpystyvyysuskomuksilla tarkoitetaan yksilön käsitystä siitä, pystyykö hän ratkaisemaan kohtaamiaan haastavia ongelmia. Mikä merkitys tällaisilla uskomuksilla voi olla mielenterveydelle?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1302,
+          "content": {
+            "text": "Minäpystyvyysuskomuksilla tarkoitetaan yksilön käsitystä siitä, pystyykö hän ratkaisemaan kohtaamiaan haastavia ongelmia. Mikä merkitys tällaisilla uskomuksilla voi olla mielenterveydelle?\n",
+            "displayNumber": "8."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T09:34:20.067619",
+          "max_score": null,
+          "groupping": null,
+          "id": 19854,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "7acf3389-29dd-4188-af41-8f2f658fa211",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2017-06-09T10:22:02.016725"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252841",
+            "18-218160"
+          ],
+          "main_text": "Miksi jotkut ihmiset ovat erityisen elämyshakuisia ja etsivät jännittäviä ja vaarallisia urheilukokemuksia? Tarkastele psykologisia perusteita tälle taipumukselle.\n\n[IMS id=39-407522593a75b255970|caption=Lähteet: www.n-e-ability.co.uk, www.abc-of-rockclimbing.com, www.longsworld.net, www.scenicwonders.com]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1302,
+          "content": {
+            "text": "Miksi jotkut ihmiset ovat erityisen elämyshakuisia ja etsivät jännittäviä ja vaarallisia urheilukokemuksia? Tarkastele psykologisia perusteita tälle taipumukselle.\n\n[IMS id=39-407522593a75b255970|caption=Lähteet: www.n-e-ability.co.uk, www.abc-of-rockclimbing.com, www.longsworld.net, www.scenicwonders.com]\n",
+            "displayNumber": "7."
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T09:34:20.074202",
+          "max_score": null,
+          "groupping": null,
+          "id": 19800,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "2ff7fcc3-bf27-4e40-a8f0-70b41ee7e669",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2017-06-09T10:19:46.27729"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252838",
+            "18-212028",
+            "18-215968"
+          ],
+          "main_text": "Pohdi kehityspsykologisen tiedon varassa, miten sopiva 6-7 vuoden ikä on koulun aloittamiseen. Tarkastele lapsen kouluvalmiuden psyykkisiä, sosiaalisia ja fyysisiä edellytyksiä.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1302,
+          "content": {
+            "text": "Pohdi kehityspsykologisen tiedon varassa, miten sopiva 6-7 vuoden ikä on koulun aloittamiseen. Tarkastele lapsen kouluvalmiuden psyykkisiä, sosiaalisia ja fyysisiä edellytyksiä.\n",
+            "displayNumber": "4."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T09:34:20.092502",
+          "max_score": null,
+          "groupping": null,
+          "id": 19726,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "0ea23e65-5f91-4e3c-a7ff-9e83bf9fb591",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2017-06-09T10:10:22.899024"
+        }
+      ],
+      "name": "Psykologia kevät 2006",
+      "settings": {},
+      "exam_type": "yo-koe",
+      "classification": {
+        "category": "",
+        "hide_review_buttons": null,
+        "exam_type": "yo-koe",
+        "year": "2006",
+        "language": "fi-FI",
+        "show_exam_series": null,
+        "force_yletunnus": false,
+        "subject": "psykologia",
+        "published": true,
+        "semester": "spring"
+      },
+      "published_at": "2017-06-09T10:00:56.168Z",
+      "language": "fi-FI",
+      "id": 1302,
+      "reviews": [],
+      "is_open": true,
+      "uuid": "ed55d771-5c87-4a98-9c39-a3c004c7d283"
+    }
+  ]
+}

@@ -1,0 +1,497 @@
+{
+  "meta": {
+    "count": 1
+  },
+  "data": [
+    {
+      "tags": [
+        ""
+      ],
+      "main_text": "Ohje: Tehtävät liittyvät oheiseen aineistoon. **Valitse viidestä tehtävästä kolme**. Tehtävät arvostellaan pistein 0–6. Vastausta kirjoittaessasi voit lähteä siitä, että lukija tuntee aineiston. Vastauksessa esitetyt havainnot, väitteet ja tulkinnat tulee kuitenkin perustella aineiston avulla. Vastauksen sopiva pituus on noin kaksi sivua. Aloita jokainen vastaus uudelta sivulta. **Anna kullekin vastaustekstillesi otsikko**. Merkitse otsikon eteen myös tehtävän numero. Vastausten tulee olla selvästi ja siististi kirjoitettuja, mutta niitä ei tarvitse kirjoittaa puhtaaksi kuulakynällä tai musteella.\n\n​\n\nHuom.! Tekstien kieliasu on alkuperäisen julkaisun mukainen.\n",
+      "characters": null,
+      "deleted_at": null,
+      "series_uuids": [],
+      "questions": [
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Tulkitse Heikki Salon _Lapsuuden sankarille_ -laulun sanoitusta. Mistä se puhuu?\n\n​\n\n**Taustatietoa**: Neuvostoliittolainen Juri Gagarin (1934–1968) oli ensimmäinen avaruuslentäjä, joka kiersi Maan ympäri (12.4.1961).\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 14588,
+          "content": {
+            "text": "Tulkitse Heikki Salon _Lapsuuden sankarille_ -laulun sanoitusta. Mistä se puhuu?\n\n​\n\n**Taustatietoa**: Neuvostoliittolainen Juri Gagarin (1934–1968) oli ensimmäinen avaruuslentäjä, joka kiersi Maan ympäri (12.4.1961).\n"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-07-17T08:26:21.620292",
+          "max_score": null,
+          "groupping": null,
+          "id": 453108,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "f8c821db-4284-42a1-961b-90df7111b21d",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2017-07-04T07:20:10.100059"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-142303",
+            "18-213871",
+            "18-238656",
+            "18-213233",
+            "18-218539"
+          ],
+          "main_text": null,
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 14588,
+          "content": {
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "f0888547-5a27-4371-9f60-62bbbc6b7a97",
+            "76b833f8-9c1e-4c9c-80df-fd1144e3f7c1"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-07-17T08:26:21.615084",
+          "max_score": null,
+          "groupping": null,
+          "id": 453094,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "07cdd462-0643-4506-848c-4a9c5100616e",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2017-07-04T07:20:10.056908"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Vertaile Heikki Salon sanoitusta ja Leena Tähtisen artikkelia. Miten niissä kuvataan avaruutta ja avaruusmatkoja?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 14588,
+          "content": {
+            "text": "Vertaile Heikki Salon sanoitusta ja Leena Tähtisen artikkelia. Miten niissä kuvataan avaruutta ja avaruusmatkoja?\n"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-07-17T08:26:21.596401",
+          "max_score": null,
+          "groupping": null,
+          "id": 453102,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "af42f105-d265-476a-81c2-1be9d221e288",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2017-07-04T07:20:10.081299"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-177327",
+            "18-216408"
+          ],
+          "main_text": null,
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 14588,
+          "content": {
+            "displayNumber": "5."
+          },
+          "images": null,
+          "settings": {
+            "material": true
+          },
+          "child_ids": [
+            "7527ed03-e91c-44eb-95ef-643f186dee52",
+            "87b402b4-85c5-491b-a7cc-1d3f24dbe726"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-07-17T08:26:21.59849",
+          "max_score": null,
+          "groupping": null,
+          "id": 453096,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "0753bec6-138a-450b-8260-1a21553ce8f4",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2017-07-04T07:20:10.063455"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-212923",
+            "18-213925"
+          ],
+          "main_text": null,
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 14588,
+          "content": {
+            "displayNumber": "4."
+          },
+          "images": null,
+          "settings": {
+            "material": true
+          },
+          "child_ids": [
+            "8b396b24-7658-4e26-b025-144ef574c93d",
+            "32b0bc6f-7718-4871-b0bf-6fb270c79a2b"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-07-17T08:26:21.600514",
+          "max_score": null,
+          "groupping": null,
+          "id": 453095,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "c148f916-f1dc-4000-a9e2-178d3a9d7018",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2017-07-04T07:20:10.060447"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Aineisto: [LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_tekstitaito\\_s\\_2011\\_4\\_.pdf|text=Leena Tähtinen: Tervemenoa avaruuteen (artikkeli)]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 14588,
+          "content": {
+            "text": "Aineisto: [LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_tekstitaito\\_s\\_2011\\_4\\_.pdf|text=Leena Tähtinen: Tervemenoa avaruuteen (artikkeli)]\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-07-17T08:26:21.603271",
+          "max_score": null,
+          "groupping": null,
+          "id": 453099,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "8b396b24-7658-4e26-b025-144ef574c93d",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-07-04T07:20:10.072394"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mistä tunnistaa, ettei Rosa Liksomin novelli ole uutinen?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 14588,
+          "content": {
+            "text": "Mistä tunnistaa, ettei Rosa Liksomin novelli ole uutinen?\n"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-07-17T08:26:21.605751",
+          "max_score": null,
+          "groupping": null,
+          "id": 453101,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "76b833f8-9c1e-4c9c-80df-fd1144e3f7c1",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2017-07-04T07:20:10.078291"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Miten Tiede-lehden artikkelissa tietoa on yleistajuistettu (popularisoitu)?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 14588,
+          "content": {
+            "text": "Miten Tiede-lehden artikkelissa tietoa on yleistajuistettu (popularisoitu)?\n"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-07-17T08:26:21.608328",
+          "max_score": null,
+          "groupping": null,
+          "id": 453103,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "32b0bc6f-7718-4871-b0bf-6fb270c79a2b",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2017-07-04T07:20:10.084332"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-187175",
+            "18-205125",
+            "18-211172"
+          ],
+          "main_text": null,
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 14588,
+          "content": {
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {
+            "material": true
+          },
+          "child_ids": [
+            "69d5aead-685f-4897-aa32-c6f54c33e5eb",
+            "f8c821db-4284-42a1-961b-90df7111b21d"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-07-17T08:26:21.610644",
+          "max_score": null,
+          "groupping": null,
+          "id": 453105,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "1581d01f-7593-4f05-9e10-19a3fa30642c",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-07-04T07:20:10.090255"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Aineisto: [LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_tekstitaito\\_s\\_2011\\_1.pdf|text=Heikki Salo: Lapsuuden sankarille (laululyriikkaa)]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 14588,
+          "content": {
+            "text": "Aineisto: [LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_tekstitaito\\_s\\_2011\\_1.pdf|text=Heikki Salo: Lapsuuden sankarille (laululyriikkaa)]\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-07-17T08:26:21.612986",
+          "max_score": null,
+          "groupping": null,
+          "id": 453107,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "69d5aead-685f-4897-aa32-c6f54c33e5eb",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-07-04T07:20:10.096439"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-205125",
+            "18-218539",
+            "18-211172",
+            "18-213925"
+          ],
+          "main_text": null,
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 14588,
+          "content": {
+            "displayNumber": "3."
+          },
+          "images": null,
+          "settings": {
+            "material": true
+          },
+          "child_ids": [
+            "0b283e57-d874-4fcf-b6cd-859248b3d6c0",
+            "af42f105-d265-476a-81c2-1be9d221e288"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-07-17T08:26:21.617507",
+          "max_score": null,
+          "groupping": null,
+          "id": 453106,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "eeb2d46f-771d-4c87-9c0e-390cd4c6ca88",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2017-07-04T07:20:10.093433"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Aineisto: [LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_tekstitaito\\_s\\_2011\\_2.pdf|text=Rosa Liksom (novelli)]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 14588,
+          "content": {
+            "text": "Aineisto: [LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_tekstitaito\\_s\\_2011\\_2.pdf|text=Rosa Liksom (novelli)]\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-07-17T08:26:21.62302",
+          "max_score": null,
+          "groupping": null,
+          "id": 453097,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "f0888547-5a27-4371-9f60-62bbbc6b7a97",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-07-04T07:20:10.06642"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Aineisto:  [LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_tekstitaito\\_s\\_2011\\_1.pdf|text=Heikki Salo: Lapsuuden sankarille (laululyriikkaa)]\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_tekstitaito\\_s\\_2011\\_2.pdf|text=Rosa Liksom (novelli)]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 14588,
+          "content": {
+            "text": "Aineisto:  [LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_tekstitaito\\_s\\_2011\\_1.pdf|text=Heikki Salo: Lapsuuden sankarille (laululyriikkaa)]\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_tekstitaito\\_s\\_2011\\_2.pdf|text=Rosa Liksom (novelli)]\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-07-17T08:26:21.625141",
+          "max_score": null,
+          "groupping": null,
+          "id": 453098,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "0b283e57-d874-4fcf-b6cd-859248b3d6c0",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-07-04T07:20:10.069461"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Aineisto: [LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_tekstitaito\\_s\\_2011\\_5.pdf|text=Zacharias Topelius: Luonnonkirja Ala-alkeiskouluin tarpeeksi (katkelma oppikirjasta)]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 14588,
+          "content": {
+            "text": "Aineisto: [LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_tekstitaito\\_s\\_2011\\_5.pdf|text=Zacharias Topelius: Luonnonkirja Ala-alkeiskouluin tarpeeksi (katkelma oppikirjasta)]\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-07-17T08:26:21.627656",
+          "max_score": null,
+          "groupping": null,
+          "id": 453100,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "7527ed03-e91c-44eb-95ef-643f186dee52",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-07-04T07:20:10.075342"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Ohessa on katkelma Zacharias Topeliuksen alakoululaisille kirjoittamasta oppikirjasta vuodelta 1860. Mistä näkyy, että teksti on tarkoitettu lapsille?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 14588,
+          "content": {
+            "text": "Ohessa on katkelma Zacharias Topeliuksen alakoululaisille kirjoittamasta oppikirjasta vuodelta 1860. Mistä näkyy, että teksti on tarkoitettu lapsille?\n"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-07-17T08:26:21.630227",
+          "max_score": null,
+          "groupping": null,
+          "id": 453104,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "87b402b4-85c5-491b-a7cc-1d3f24dbe726",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2017-07-04T07:20:10.087311"
+        }
+      ],
+      "name": "Äidinkieli, suomi, lukutaidon koe syksy 2011",
+      "settings": {},
+      "exam_type": "yo-koe",
+      "classification": {
+        "category": "",
+        "exam_type": "yo-koe",
+        "year": "2011",
+        "language": "fi-FI",
+        "show_exam_series": false,
+        "force_yletunnus": false,
+        "subject": "äidinkieli-suomi-lukutaidon-koe",
+        "published": true,
+        "semester": "fall"
+      },
+      "published_at": "2017-07-04T07:20:10.052Z",
+      "language": "fi-FI",
+      "id": 14588,
+      "reviews": [],
+      "is_open": true,
+      "uuid": "ae304cc5-14d3-419a-b1ab-4a3c16b33bd5"
+    }
+  ]
+}

@@ -1,0 +1,4312 @@
+{
+  "meta": {
+    "count": 1
+  },
+  "data": [
+    {
+      "tags": [
+        ""
+      ],
+      "main_text": "Koe koostuu neljästä osasta: kuullun ymmärtäminen, luetun ymmärtäminen, sanasto ja rakenteet sekä kirjallinen tuottaminen.\n\n&NewLine;\n\nVoit tehdä tehtävät haluamassasi järjestyksessä. Noudata tehtäväkohtaisia vastaamisohjeita. Voit muuttaa antamiasi vastauksia koska tahansa kokeen aikana. Varaa aikaa kuullun ymmärtämisen tehtävien tekemiseen yhteensä noin 1 tunti.\n\n&NewLine;\n\nOnnea kokeeseen!\n",
+      "characters": null,
+      "deleted_at": null,
+      "series_uuids": [],
+      "questions": [
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Choose a caption that best describes the photo. 2 p.\n\n&NewLine;\n\n[LINK text=Katso kuva täältä.|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/index.html#10.3.]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "Choose a caption that best describes the photo. 2 p.\n\n&NewLine;\n\n[LINK text=Katso kuva täältä.|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/index.html#10.3.]\n",
+            "displayNumber": "10.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.25608",
+          "max_score": 2,
+          "groupping": null,
+          "id": 3291464,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 45,
+              "text": "When you can’t find the sunshine, be the sunshine.",
+              "parent": "a3cbf936-b182-4d3a-997d-18498280801d",
+              "choices": []
+            },
+            {
+              "id": 46,
+              "text": "Clear your mind of can’t.",
+              "parent": "a3cbf936-b182-4d3a-997d-18498280801d",
+              "choices": []
+            },
+            {
+              "id": 47,
+              "text": "Growing up is a trap!",
+              "parent": "a3cbf936-b182-4d3a-997d-18498280801d",
+              "choices": []
+            },
+            {
+              "id": 48,
+              "text": "Not looking a day over fabulous!",
+              "parent": "a3cbf936-b182-4d3a-997d-18498280801d",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 49,
+              "text": "Forget the butterflies, I feel the whole zoo when I’m with you.",
+              "parent": "a3cbf936-b182-4d3a-997d-18498280801d",
+              "choices": []
+            },
+            {
+              "id": 50,
+              "text": "You are what you do, not what you say you’ll do.",
+              "parent": "a3cbf936-b182-4d3a-997d-18498280801d",
+              "choices": []
+            }
+          ],
+          "uuid": "a3cbf936-b182-4d3a-997d-18498280801d",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2021-06-11T09:07:56.527673"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Which book would you recommend to someone who likes income class differences? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "Which book would you recommend to someone who likes income class differences? 3 p.\n",
+            "displayNumber": "12.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.24512",
+          "max_score": 3,
+          "groupping": null,
+          "id": 3291589,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 54,
+              "text": "American Dirt",
+              "parent": "1574953e-e45a-4c63-ab48-3bfc37c85bca",
+              "choices": []
+            },
+            {
+              "id": 55,
+              "text": "Black Wave",
+              "parent": "1574953e-e45a-4c63-ab48-3bfc37c85bca",
+              "choices": []
+            },
+            {
+              "id": 56,
+              "text": "Cleanness",
+              "parent": "1574953e-e45a-4c63-ab48-3bfc37c85bca",
+              "choices": []
+            },
+            {
+              "id": 57,
+              "text": "Hitting a Straight Lick …",
+              "parent": "1574953e-e45a-4c63-ab48-3bfc37c85bca",
+              "choices": []
+            },
+            {
+              "id": 58,
+              "text": "Long Bright River",
+              "parent": "1574953e-e45a-4c63-ab48-3bfc37c85bca",
+              "choices": []
+            },
+            {
+              "id": 59,
+              "text": "Tightrope…",
+              "parent": "1574953e-e45a-4c63-ab48-3bfc37c85bca",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 60,
+              "text": "Uncanny Valley",
+              "parent": "1574953e-e45a-4c63-ab48-3bfc37c85bca",
+              "choices": []
+            }
+          ],
+          "uuid": "1574953e-e45a-4c63-ab48-3bfc37c85bca",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2021-06-11T09:16:55.781281"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Keille Verdi tarkoitti taiteilijakotinsa? (max 100 characters) 3 p.\n",
+          "deleted_at": null,
+          "feedback": "Sallitun merkkimäärän ylittämisestä vähennetään 1 piste.\n\n&NewLine;\n\n• (Eläköityneille) muusikoille, joita onni/kohtalo ei ole suosinut / jotka ovat\n\nvähävaraisia/varattomia/köyhiä / jotka eivät ole menestyneet (3/0 p.)\n\n&NewLine;\n\nOK: Epäonnisille/epäonnekkaille muusikoille\n\nOK: Oopperalaulajille/-tähdille, joilla ei ole käynyt hyvä tuuri\n\nEI: Taiteilijoille, joita onni ei ole suosinut\n\nEI: Muusikot, joita ei arvostettu omana aikakautenaan, eivät olleet suosittuja/tunnettuja\n\nEI: Eläköityneille muusikoille (ei riitä pelkästään, pitää olla ajatus epäonnisuudesta)\n\nEI: Muusikoille, jotka eivät ole kiinnostuneita omaisuudesta\n\nEI: Onnettomille muusikoille\n",
+          "exam_id": 102392,
+          "content": {
+            "text": "Keille Verdi tarkoitti taiteilijakotinsa? (max 100 characters) 3 p.\n",
+            "displayNumber": "14.1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.240171",
+          "max_score": null,
+          "groupping": null,
+          "id": 3291744,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "87ed3fec-c71f-4d4c-a35c-fd6f0ded0458",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2021-06-11T09:25:56.402721"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Listen, and choose the most polite response. 3 p.\n\n&NewLine;\n\n[LINK text=Kuuntele audio tästä ja vastaa kysymykseen. |url=https://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/index.html#3.3]\n\n&NewLine;\n\nWhich response is the most polite?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "Listen, and choose the most polite response. 3 p.\n\n&NewLine;\n\n[LINK text=Kuuntele audio tästä ja vastaa kysymykseen. |url=https://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/index.html#3.3]\n\n&NewLine;\n\nWhich response is the most polite?\n",
+            "questionType": "listening-comprehension",
+            "displayNumber": "3.3"
+          },
+          "images": null,
+          "settings": {
+            "points": "3"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.207466",
+          "max_score": 3,
+          "groupping": null,
+          "id": 7151488,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 102,
+              "text": "And what about that £10 fee?",
+              "parent": "421b7e0d-396d-4618-a7fb-00b383e38d79",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 103,
+              "text": "Will you charge me £10 though?",
+              "parent": "421b7e0d-396d-4618-a7fb-00b383e38d79",
+              "choices": []
+            },
+            {
+              "id": 104,
+              "text": "But will it still cost me £10?",
+              "parent": "421b7e0d-396d-4618-a7fb-00b383e38d79",
+              "choices": []
+            }
+          ],
+          "uuid": "421b7e0d-396d-4618-a7fb-00b383e38d79",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2024-09-30T11:42:36.195641"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**One Last Happy Night 10 p.**\n\n&NewLine;\n\nFill in the blanks in English using suggestions when given. Make sure your answer fits in the context (e.g. tenses).\n\n&NewLine;\n\nOne last happy night at a healthy hotel in Finland\n\nOn a carpet of grass and buttercups amid a forest of tall pines 3 km from the small Finnish town [GAP id=77]1 p. it shares [GAP id=78] 1 p. name, Paimio is a clean-lined architectural masterpiece by the godfather of Finnish functionalism, Alvar Aalto.\n\n&NewLine;\n\nPaimio has a Riviera flair at odds [GAP id=79] 1 p. elements of its oral tradition. As one-time resident Kaarlo Aitomäki wrote in his diary: “This house contains more suffering than any other. Hospitals are different. You only spend a short time in them. But here you stay month after month, even years. And you have no idea [GAP id=80] 1 p. you are going to get better or die. The mortuary is always waiting there in the forest.” The complex had its own morgue, stationed at a respectful distance and [GAP id=81] 1 p. as the Rose Cellar.\n\n&NewLine;\n\nPaimio is [GAP id=82] 1 p. surviving example of a sanatorium, an isolated residential facility for the treatment of long-term illness from the era when bed rest and healing sunlight were [GAP id=83] 1 p. first line of defence against disease.\n\n&NewLine;\n\nThere has been little call for sanatoria since [GAP id=84] 1 p., so Paimio became a general hospital in the 60’s, then a residential rehabilitation centre for children and families, which is currently [GAP id=85] 1 p. and relocated. As various attempts to secure the building’s future [GAP id=86] 1 p., my stay potentially constitutes the last ever opportunity to sleep in conditions experienced by the original residents.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "**One Last Happy Night 10 p.**\n\n&NewLine;\n\nFill in the blanks in English using suggestions when given. Make sure your answer fits in the context (e.g. tenses).\n\n&NewLine;\n\nOne last happy night at a healthy hotel in Finland\n\nOn a carpet of grass and buttercups amid a forest of tall pines 3 km from the small Finnish town [GAP id=77]1 p. it shares [GAP id=78] 1 p. name, Paimio is a clean-lined architectural masterpiece by the godfather of Finnish functionalism, Alvar Aalto.\n\n&NewLine;\n\nPaimio has a Riviera flair at odds [GAP id=79] 1 p. elements of its oral tradition. As one-time resident Kaarlo Aitomäki wrote in his diary: “This house contains more suffering than any other. Hospitals are different. You only spend a short time in them. But here you stay month after month, even years. And you have no idea [GAP id=80] 1 p. you are going to get better or die. The mortuary is always waiting there in the forest.” The complex had its own morgue, stationed at a respectful distance and [GAP id=81] 1 p. as the Rose Cellar.\n\n&NewLine;\n\nPaimio is [GAP id=82] 1 p. surviving example of a sanatorium, an isolated residential facility for the treatment of long-term illness from the era when bed rest and healing sunlight were [GAP id=83] 1 p. first line of defence against disease.\n\n&NewLine;\n\nThere has been little call for sanatoria since [GAP id=84] 1 p., so Paimio became a general hospital in the 60’s, then a residential rehabilitation centre for children and families, which is currently [GAP id=85] 1 p. and relocated. As various attempts to secure the building’s future [GAP id=86] 1 p., my stay potentially constitutes the last ever opportunity to sleep in conditions experienced by the original residents.\n",
+            "questionType": "grammar",
+            "displayNumber": "17."
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-03-20T09:55:28.195289",
+          "max_score": 10,
+          "groupping": null,
+          "id": 5611686,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 77,
+              "hint": "jonka kanssa",
+              "parent": "58bc55e6-727e-4dce-9d5f-8549523a5030",
+              "choices": [],
+              "correct": "with which",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 78,
+              "hint": "pronomini",
+              "parent": "58bc55e6-727e-4dce-9d5f-8549523a5030",
+              "choices": [],
+              "correct": "its",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 79,
+              "hint": "prepositio",
+              "parent": "58bc55e6-727e-4dce-9d5f-8549523a5030",
+              "choices": [],
+              "correct": "with",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 80,
+              "hint": "jos",
+              "parent": "58bc55e6-727e-4dce-9d5f-8549523a5030",
+              "choices": [],
+              "correct": "whether | if",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 81,
+              "hint": "viitata",
+              "parent": "58bc55e6-727e-4dce-9d5f-8549523a5030",
+              "choices": [],
+              "correct": "referred to | known",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 82,
+              "hint": "merkittävin",
+              "parent": "58bc55e6-727e-4dce-9d5f-8549523a5030",
+              "choices": [],
+              "correct": "the most notable | the most important | the most significant | the most noteworthy | the most prominent | the most remarkable",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 83,
+              "hint": "ihmiskunta",
+              "parent": "58bc55e6-727e-4dce-9d5f-8549523a5030",
+              "choices": [],
+              "correct": "mankind's | humanity's | humankind's | mankind`s | humankind`s",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 84,
+              "hint": "antibioottien kehittäminen",
+              "parent": "58bc55e6-727e-4dce-9d5f-8549523a5030",
+              "choices": [],
+              "correct": "the development of antibiotics | antibiotics were developed | the creation of antibiotics | the invention of antibiotics",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 85,
+              "hint": "wind down",
+              "parent": "58bc55e6-727e-4dce-9d5f-8549523a5030",
+              "choices": [],
+              "correct": "being wound down",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 86,
+              "hint": "eivät ole johtaneet mihinkään",
+              "parent": "58bc55e6-727e-4dce-9d5f-8549523a5030",
+              "choices": [],
+              "correct": "have not led anywhere|haven’t led anywhere|have led nowhere|have led to nothing| have not led to anything|haven’t led to anything|haven’t been leading anywhere",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "58bc55e6-727e-4dce-9d5f-8549523a5030",
+          "order_number": 21,
+          "multipart": true,
+          "created_at": "2023-05-11T14:24:20.601918"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "This text is an abridged extract from the translation of the Finnish national core curriculum for general upper secondary education, 2019. The text states how transversal competence areas defined in the core curricula are embedded in the instruction of physical education (P.E.). Choose the right alternative to fill in the gap.\n\n&NewLine;\n\n**Transversal competences in physical education**\n\n&NewLine;\n\nThe instruction of physical education strengthens the students’ motivation, self-confidence, and self-efficacy in physical activity  [SELECT id=87] 1 p. their understanding of the significance of lifelong physical activity.\n\n&NewLine;\n\nPhysical education supports the students’ perseverance, tenacity and coping,  [SELECT id=88] 1 p. their well-being competence and a school culture that promotes health and well-being in broader terms. In physical education, functional capacity refers to physical, social, and psychological capabilities for coping \n\n [SELECT id=89] 1 p. different daily activities. In this subject, the students learn to look after their functional capacity and to understand [SELECT id=90] 1 p. functional capacity affects their physical and cognitive performance and well-being.\n\n&NewLine;\n\nInteraction competence is developed through the [SELECT id=91] 1 p. working methods and techniques of physical education. From the perspective [SELECT id=92]1 p. interaction competence, it is essential to strengthen the students’ positive self-image, ensuring that they learn to value themselves. Good interaction requires of the [SELECT id=93] 1 p. skills in self-regulation, including recognising and understanding their feelings and regulating the way the feelings are expressed.\n\n&NewLine;\n\nPhysical education in upper secondary school is [SELECT id=94] 1 p. multidisciplinary subject which offers opportunities for understanding different fields of science and subjects, including health education, biology, physics, and music. Multidisciplinary and creative competence [SELECT id=95]1 p. in the learning situations of physical education which comprise problem solving. Physical education develops the brain and promotes its well-being diversely, supporting general alertness at school and the preconditions for learning.\n\n&NewLine;\n\nLong-term self-development, using your muscles, and showing respect for others are manifestations of ethical and environmental competence, [SELECT id=96]1 p. in physical education are realised as acting for the common good. Physical education supports positive social values and action in line with them, including honesty, responsibility, and fairness.\n\n&NewLine;\n\nWell-being and physical activity technologies are used in the instruction of physical education as [SELECT id=97]1 p. as possible, and the students learn about interpreting information critically and safety in media use, including when publishing geographical information and describing performances. Physical activity as a global, shared, and bodily language [SELECT id=98] 1 p. different people and cultures. This strengthens the students’ global and cultural competence.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "This text is an abridged extract from the translation of the Finnish national core curriculum for general upper secondary education, 2019. The text states how transversal competence areas defined in the core curricula are embedded in the instruction of physical education (P.E.). Choose the right alternative to fill in the gap.\n\n&NewLine;\n\n**Transversal competences in physical education**\n\n&NewLine;\n\nThe instruction of physical education strengthens the students’ motivation, self-confidence, and self-efficacy in physical activity  [SELECT id=87] 1 p. their understanding of the significance of lifelong physical activity.\n\n&NewLine;\n\nPhysical education supports the students’ perseverance, tenacity and coping,  [SELECT id=88] 1 p. their well-being competence and a school culture that promotes health and well-being in broader terms. In physical education, functional capacity refers to physical, social, and psychological capabilities for coping \n\n [SELECT id=89] 1 p. different daily activities. In this subject, the students learn to look after their functional capacity and to understand [SELECT id=90] 1 p. functional capacity affects their physical and cognitive performance and well-being.\n\n&NewLine;\n\nInteraction competence is developed through the [SELECT id=91] 1 p. working methods and techniques of physical education. From the perspective [SELECT id=92]1 p. interaction competence, it is essential to strengthen the students’ positive self-image, ensuring that they learn to value themselves. Good interaction requires of the [SELECT id=93] 1 p. skills in self-regulation, including recognising and understanding their feelings and regulating the way the feelings are expressed.\n\n&NewLine;\n\nPhysical education in upper secondary school is [SELECT id=94] 1 p. multidisciplinary subject which offers opportunities for understanding different fields of science and subjects, including health education, biology, physics, and music. Multidisciplinary and creative competence [SELECT id=95]1 p. in the learning situations of physical education which comprise problem solving. Physical education develops the brain and promotes its well-being diversely, supporting general alertness at school and the preconditions for learning.\n\n&NewLine;\n\nLong-term self-development, using your muscles, and showing respect for others are manifestations of ethical and environmental competence, [SELECT id=96]1 p. in physical education are realised as acting for the common good. Physical education supports positive social values and action in line with them, including honesty, responsibility, and fairness.\n\n&NewLine;\n\nWell-being and physical activity technologies are used in the instruction of physical education as [SELECT id=97]1 p. as possible, and the students learn about interpreting information critically and safety in media use, including when publishing geographical information and describing performances. Physical activity as a global, shared, and bodily language [SELECT id=98] 1 p. different people and cultures. This strengthens the students’ global and cultural competence.\n",
+            "questionType": "grammar",
+            "displayNumber": "18."
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-03-20T09:55:28.191159",
+          "max_score": 12,
+          "groupping": null,
+          "id": 3293807,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 87,
+              "parent": "2a2f812a-330c-4fe7-a0f1-d071b74a1b97",
+              "choices": [
+                {
+                  "id": "8be48262-4ced-404a-96f7-e677d651bbcc",
+                  "text": "prior to"
+                },
+                {
+                  "id": "63bf5718-d461-44c9-98d2-e4078fa9549e",
+                  "text": "as well as",
+                  "correct": true
+                },
+                {
+                  "id": "181b94e6-e723-411b-b612-d7183d12b82c",
+                  "text": "as a result of"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 88,
+              "parent": "2a2f812a-330c-4fe7-a0f1-d071b74a1b97",
+              "choices": [
+                {
+                  "id": "46d6b79e-ca76-4751-b6ec-084bab465556",
+                  "text": "to reinforce"
+                },
+                {
+                  "id": "4e891eca-eedb-4aa8-ba8a-c138c69535cc",
+                  "text": "reinforcing",
+                  "correct": true
+                },
+                {
+                  "id": "ca98bb54-43d4-472d-9f45-bba84fa32506",
+                  "text": "having reinforced"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 89,
+              "parent": "2a2f812a-330c-4fe7-a0f1-d071b74a1b97",
+              "choices": [
+                {
+                  "id": "1fce1631-0617-490e-9618-d72ed488ad7e",
+                  "text": "to"
+                },
+                {
+                  "id": "52800bbd-f63d-4b24-bbc7-c1003d862caa",
+                  "text": "by"
+                },
+                {
+                  "id": "f0d2a6c7-213a-4e8e-a612-b09111cd716d",
+                  "text": "with",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 90,
+              "parent": "2a2f812a-330c-4fe7-a0f1-d071b74a1b97",
+              "choices": [
+                {
+                  "id": "8edacceb-6fa7-46d2-b0da-9320d0714def",
+                  "text": "whose"
+                },
+                {
+                  "id": "19d18f58-ca96-4eda-9691-ab03f2eba1bf",
+                  "text": "how",
+                  "correct": true
+                },
+                {
+                  "id": "ea3a3854-074e-47a1-be0c-294186f1b1a2",
+                  "text": "where"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 91,
+              "parent": "2a2f812a-330c-4fe7-a0f1-d071b74a1b97",
+              "choices": [
+                {
+                  "id": "84e901a6-2ce4-45db-b857-e16dd7b36948",
+                  "text": "diversifying"
+                },
+                {
+                  "id": "e5707bf0-c49f-4c8d-97dd-b45943d6e9d9",
+                  "text": "diverted"
+                },
+                {
+                  "id": "207cd267-0ebb-4bce-b978-220d197bddbc",
+                  "text": "diverse",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 92,
+              "parent": "2a2f812a-330c-4fe7-a0f1-d071b74a1b97",
+              "choices": [
+                {
+                  "id": "39c8c7cd-37e5-4647-a0e3-9361cc595c46",
+                  "text": "of",
+                  "correct": true
+                },
+                {
+                  "id": "4c893019-dd21-43df-a3a7-1605360ba3c1",
+                  "text": "by"
+                },
+                {
+                  "id": "14955146-73e9-411e-b5ae-36f1d9b19ece",
+                  "text": "for"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 93,
+              "parent": "2a2f812a-330c-4fe7-a0f1-d071b74a1b97",
+              "choices": [
+                {
+                  "id": "29901570-9078-43ab-9bdc-cf53440b196d",
+                  "text": "students",
+                  "correct": true
+                },
+                {
+                  "id": "c245f0d3-e882-46eb-9b6f-48475a8bf353",
+                  "text": "student's"
+                },
+                {
+                  "id": "ca58b541-b0ab-47c3-95ce-7c1982444649",
+                  "text": "students'"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 94,
+              "parent": "2a2f812a-330c-4fe7-a0f1-d071b74a1b97",
+              "choices": [
+                {
+                  "id": "4cdf3ddc-033c-4af8-82ef-e34dde206418",
+                  "text": "a",
+                  "correct": true
+                },
+                {
+                  "id": "f9bf76a8-0858-4179-961a-e9c5f5f0cd25",
+                  "text": "this"
+                },
+                {
+                  "id": "c107ffe3-288f-4808-8c81-bdfdefa1eb17",
+                  "text": "the"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 95,
+              "parent": "2a2f812a-330c-4fe7-a0f1-d071b74a1b97",
+              "choices": [
+                {
+                  "id": "ce14b1dc-f18b-4d14-ad95-20596d4db8d1",
+                  "text": "will develop"
+                },
+                {
+                  "id": "6e285f6c-f820-44e5-a5a9-ea1bcde4ecea",
+                  "text": "are developed",
+                  "correct": true
+                },
+                {
+                  "id": "7d732326-f6e9-4062-8253-cc81aa29c95c",
+                  "text": "is developing"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 96,
+              "parent": "2a2f812a-330c-4fe7-a0f1-d071b74a1b97",
+              "choices": [
+                {
+                  "id": "7ba259d4-e0e7-4e95-96ea-4ac7a51b1ddf",
+                  "text": "which",
+                  "correct": true
+                },
+                {
+                  "id": "63cba74f-f60e-4dea-896d-e9848be8af7a",
+                  "text": "that"
+                },
+                {
+                  "id": "3556a0e5-7db5-44d7-868d-332889c32921",
+                  "text": "who"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 97,
+              "parent": "2a2f812a-330c-4fe7-a0f1-d071b74a1b97",
+              "choices": [
+                {
+                  "id": "de920846-8fda-47ef-8426-d62c542ce4db",
+                  "text": "well"
+                },
+                {
+                  "id": "1b1b187d-5076-4cab-845e-940875a2cd43",
+                  "text": "far",
+                  "correct": true
+                },
+                {
+                  "id": "8f87c084-caba-452b-9cf9-83f7b6fa35ce",
+                  "text": "long"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 98,
+              "parent": "2a2f812a-330c-4fe7-a0f1-d071b74a1b97",
+              "choices": [
+                {
+                  "id": "b6c3fb3c-84dd-4964-a146-8eb406f0a36d",
+                  "text": "has united"
+                },
+                {
+                  "id": "df9b6da8-c1aa-420b-9606-ba04b8b3fb1e",
+                  "text": "unites",
+                  "correct": true
+                },
+                {
+                  "id": "9746d74f-53e5-4100-bcb0-b1f5c601134f",
+                  "text": "will unite"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "2a2f812a-330c-4fe7-a0f1-d071b74a1b97",
+          "order_number": 22,
+          "multipart": true,
+          "created_at": "2021-06-11T13:31:27.211613"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Sources**\n\n&NewLine;\n\nSource: https://content.production.cdn.art19.com/images/08/b8/74/c0/08b874c0-769c-4851-a83a-7250ec22f21c/2a4da6527c4ab8500d508b1ee1d980d56500e279f5b5872520f086728519c4f5f29e6812a52c0616edd7c901eeecda2771d3808bc0f8c473e7b989d053a0076c.jpeg. Accessed: 31.10.2019.\n\nSource: LeVar Burton Reads. Midroll Media. https://art19.com/shows/levar-burton-reads/episodes/0bdb3596-b3f7-4a9c-a5d6-e5aca8c1f48e. Published: 8.1.2017. Accessed: 31.10.2019.\n\nSource: https://cdn.businesstraveller.com/wp-content/uploads/fly-images/824363/Boarding-passes-916x561.jpg. Accessed: 2.6.2019.\n\nSource: YTL.\n\nSource: https://images.squarespace-cdn.com/content/5bce245a11f7847e1903ab8e/1543189758378-2GO5IVL1HFMORLWBW3LM/Gigis+-+WhiteDkBkgrd+-+KBC.jpg?format=1500w&content-type=image%2Fjpeg. Accessed: 20.11.2019.\n\nSource: Shout Radio Productions. https://www.shout-radio.com. Accessed: 20.11.2019.\n\nSource: http://www.joycottonexports.com/images/slider/bell.jpg. Accessed: 14.11.2019.\n\nSource: Texas Tech University, College of Arts & Sciences. https://www.depts.ttu.edu/artsandsciences/podcast\\_now/audio/Nonwovens-Mixdown-2.mp3. Accessed: 14.11.2019.\n\nSource: YTL.\n\nSource: https://thelearningexchange.ca/wp-content/uploads/2013/09/CSC555-10\\_Allan-Luke\\_Authentic-Tasks\\_MASTER-e1487281239544.png. Accessed: 18.12.2019.\n\nSource: Allen Luke - Critical Literacy. Jonathan Rajalingam. YouTube. https://www.youtube.com/watch?v=UnWdARykdcw&. Published: 31.3.2015. Accessed: 18.12.2019.\n\nSource: https://www.earthintransition.org/wp-content/uploads/2011/10/jolie-kittens-101011.jpg. Accessed: 17.2.2020.\n\nSource: YTL.\n\nSource: https://www.lifewire.com/best-instagram-captions-4171697. Accessed: 6.1.2020. Adaptation: YTL.\n\nSource: https://i.pinimg.com/originals/80/70/60/80706079c59b2adb7ee333fcaeb4cbc8.jpg. Accessed: 21.1.2020.\n\nSource: https://i.rmbl.ws/s8/1/3/o/i/u/3oiua.OvCc.1-small-Puppy-Climbs-Stairs-For-The.jpg. Accessed: 21.1.2020.\n\nSource: https://cdn.aarp.net/content/dam/aarp/money/budgeting\\_savings/2019/12/1140-three-women-pose-for-birthday-selfie.imgcache.rev5228f77f118787d42dff3df218aade72.jpg. Accessed: 21.1.2020.\n\nSource: https://www.coventrydental.co.uk/wp-content/uploads/2017/03/happy-couple.jpg. Accessed: 21.1.2020.\n\nSource: https://happytoothnc.com/tmj-exercises/. Accessed: 8.1.2020. Adaptation: YTL.\n\nSource: https://www.yahoo.com/news/waiting-1-start-saving-retirement-181500763.html. Accessed: 21.1.2020. Adaptation: YTL.\n\nSource: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAGhf6A.img?h=0&w=720&m=6&q=60&u=t&o=f&l=f&x=1069&y=494. Accessed: 21.1.2020. Adaptation: YTL.\n\nSource: Mark Smith. Fantastic Man issue nr 28. Adaptation: YTL.\n\nSource: The national core curriculum for upper secondary education, 2019. Abridged from the unofficial translation draft of the subject physical education, 2020.\n\nSource: https://www.statista.com/statistics/873120/share-of-people-reading-books-in-finland/. Accessed: 13.2.2020.\n\nSource: https://www.statista.com/statistics/873340/time-spent-reading-books-in-finland/. Accessed: 13.2.2020.\n\nSource: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0QnWXimUe4OR0ksPaQeTG\\_3UwDAMHWKf9nI2SQGVxOAqJdSuI0Q. Accessed: 27.11.2019.\n\nSource: http://www.atlas-games.com/images/FTG\\_toad.png. Accessed: 27.11.2019.\n\nSource: https://www.telegraph.co.uk/content/dam/Travel/2017/March/fairytale-Neuschwanstein%20Castle.jpg. Accessed: 27.11.2019.\n\nSource: http://3.bp.blogspot.com/-gS3Fl5HFoe8/TxeQKJxlhiI/AAAAAAAAByo/krpyENQpahA/s1600/rumpelstiltskin-once-upon-a-time.jpg. Accessed: 27.11.2019.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "**Sources**\n\n&NewLine;\n\nSource: https://content.production.cdn.art19.com/images/08/b8/74/c0/08b874c0-769c-4851-a83a-7250ec22f21c/2a4da6527c4ab8500d508b1ee1d980d56500e279f5b5872520f086728519c4f5f29e6812a52c0616edd7c901eeecda2771d3808bc0f8c473e7b989d053a0076c.jpeg. Accessed: 31.10.2019.\n\nSource: LeVar Burton Reads. Midroll Media. https://art19.com/shows/levar-burton-reads/episodes/0bdb3596-b3f7-4a9c-a5d6-e5aca8c1f48e. Published: 8.1.2017. Accessed: 31.10.2019.\n\nSource: https://cdn.businesstraveller.com/wp-content/uploads/fly-images/824363/Boarding-passes-916x561.jpg. Accessed: 2.6.2019.\n\nSource: YTL.\n\nSource: https://images.squarespace-cdn.com/content/5bce245a11f7847e1903ab8e/1543189758378-2GO5IVL1HFMORLWBW3LM/Gigis+-+WhiteDkBkgrd+-+KBC.jpg?format=1500w&content-type=image%2Fjpeg. Accessed: 20.11.2019.\n\nSource: Shout Radio Productions. https://www.shout-radio.com. Accessed: 20.11.2019.\n\nSource: http://www.joycottonexports.com/images/slider/bell.jpg. Accessed: 14.11.2019.\n\nSource: Texas Tech University, College of Arts & Sciences. https://www.depts.ttu.edu/artsandsciences/podcast\\_now/audio/Nonwovens-Mixdown-2.mp3. Accessed: 14.11.2019.\n\nSource: YTL.\n\nSource: https://thelearningexchange.ca/wp-content/uploads/2013/09/CSC555-10\\_Allan-Luke\\_Authentic-Tasks\\_MASTER-e1487281239544.png. Accessed: 18.12.2019.\n\nSource: Allen Luke - Critical Literacy. Jonathan Rajalingam. YouTube. https://www.youtube.com/watch?v=UnWdARykdcw&. Published: 31.3.2015. Accessed: 18.12.2019.\n\nSource: https://www.earthintransition.org/wp-content/uploads/2011/10/jolie-kittens-101011.jpg. Accessed: 17.2.2020.\n\nSource: YTL.\n\nSource: https://www.lifewire.com/best-instagram-captions-4171697. Accessed: 6.1.2020. Adaptation: YTL.\n\nSource: https://i.pinimg.com/originals/80/70/60/80706079c59b2adb7ee333fcaeb4cbc8.jpg. Accessed: 21.1.2020.\n\nSource: https://i.rmbl.ws/s8/1/3/o/i/u/3oiua.OvCc.1-small-Puppy-Climbs-Stairs-For-The.jpg. Accessed: 21.1.2020.\n\nSource: https://cdn.aarp.net/content/dam/aarp/money/budgeting\\_savings/2019/12/1140-three-women-pose-for-birthday-selfie.imgcache.rev5228f77f118787d42dff3df218aade72.jpg. Accessed: 21.1.2020.\n\nSource: https://www.coventrydental.co.uk/wp-content/uploads/2017/03/happy-couple.jpg. Accessed: 21.1.2020.\n\nSource: https://happytoothnc.com/tmj-exercises/. Accessed: 8.1.2020. Adaptation: YTL.\n\nSource: https://www.yahoo.com/news/waiting-1-start-saving-retirement-181500763.html. Accessed: 21.1.2020. Adaptation: YTL.\n\nSource: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAGhf6A.img?h=0&w=720&m=6&q=60&u=t&o=f&l=f&x=1069&y=494. Accessed: 21.1.2020. Adaptation: YTL.\n\nSource: Mark Smith. Fantastic Man issue nr 28. Adaptation: YTL.\n\nSource: The national core curriculum for upper secondary education, 2019. Abridged from the unofficial translation draft of the subject physical education, 2020.\n\nSource: https://www.statista.com/statistics/873120/share-of-people-reading-books-in-finland/. Accessed: 13.2.2020.\n\nSource: https://www.statista.com/statistics/873340/time-spent-reading-books-in-finland/. Accessed: 13.2.2020.\n\nSource: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0QnWXimUe4OR0ksPaQeTG\\_3UwDAMHWKf9nI2SQGVxOAqJdSuI0Q. Accessed: 27.11.2019.\n\nSource: http://www.atlas-games.com/images/FTG\\_toad.png. Accessed: 27.11.2019.\n\nSource: https://www.telegraph.co.uk/content/dam/Travel/2017/March/fairytale-Neuschwanstein%20Castle.jpg. Accessed: 27.11.2019.\n\nSource: http://3.bp.blogspot.com/-gS3Fl5HFoe8/TxeQKJxlhiI/AAAAAAAAByo/krpyENQpahA/s1600/rumpelstiltskin-once-upon-a-time.jpg. Accessed: 27.11.2019.\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-03-20T09:55:28.188074",
+          "max_score": null,
+          "groupping": null,
+          "id": 3293969,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "b1f07808-0775-408c-aa2b-2a29fc3e832f",
+          "order_number": 25,
+          "multipart": true,
+          "created_at": "2021-06-11T13:37:32.423957"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Which book would you recommend to someone who likes business affecting society? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "Which book would you recommend to someone who likes business affecting society? 3 p.\n",
+            "displayNumber": "12.5."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.18564",
+          "max_score": 3,
+          "groupping": null,
+          "id": 3291591,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 54,
+              "text": "American Dirt",
+              "parent": "4fbd9d19-168c-4344-8ff2-b8f74a7b847c",
+              "choices": []
+            },
+            {
+              "id": 55,
+              "text": "Black Wave",
+              "parent": "4fbd9d19-168c-4344-8ff2-b8f74a7b847c",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 56,
+              "text": "Cleanness",
+              "parent": "4fbd9d19-168c-4344-8ff2-b8f74a7b847c",
+              "choices": []
+            },
+            {
+              "id": 57,
+              "text": "Hitting a Straight Lick …",
+              "parent": "4fbd9d19-168c-4344-8ff2-b8f74a7b847c",
+              "choices": []
+            },
+            {
+              "id": 58,
+              "text": "Long Bright River",
+              "parent": "4fbd9d19-168c-4344-8ff2-b8f74a7b847c",
+              "choices": []
+            },
+            {
+              "id": 59,
+              "text": "Tightrope…",
+              "parent": "4fbd9d19-168c-4344-8ff2-b8f74a7b847c",
+              "choices": []
+            },
+            {
+              "id": 60,
+              "text": "Uncanny Valley",
+              "parent": "4fbd9d19-168c-4344-8ff2-b8f74a7b847c",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "4fbd9d19-168c-4344-8ff2-b8f74a7b847c",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2021-06-11T09:16:55.78644"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Critical Literacy 6 p.**\n\n&NewLine;\n\nAllan Luke\n\nYou will hear Allan Luke talk about critical literacy. You can listen to the recording twice. After listening to the recording, fill in the gaps in the summary of the recording in English. Each gap must be filled in with one word only.\n\n&NewLine;\n\n✲✲✲\n\n&NewLine;\n\n[LINK text=The whole recording|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/index.html#7]\n\n&NewLine;\n\nSUMMARY OF THE RECORDING:\n\n&NewLine;\n\nAccording to Allan Luke, the fundamental purpose of critical literacy is to be able to [GAP id=31] 3 p. the reality from how it is portrayed. In relation to how the concept of critical literacy is evolving, one of the issues he is concerned about is that people [GAP id=32] 3 p. to believe anything.\n\n&NewLine;\n\n&NewLine;\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "**Critical Literacy 6 p.**\n\n&NewLine;\n\nAllan Luke\n\nYou will hear Allan Luke talk about critical literacy. You can listen to the recording twice. After listening to the recording, fill in the gaps in the summary of the recording in English. Each gap must be filled in with one word only.\n\n&NewLine;\n\n✲✲✲\n\n&NewLine;\n\n[LINK text=The whole recording|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/index.html#7]\n\n&NewLine;\n\nSUMMARY OF THE RECORDING:\n\n&NewLine;\n\nAccording to Allan Luke, the fundamental purpose of critical literacy is to be able to [GAP id=31] 3 p. the reality from how it is portrayed. In relation to how the concept of critical literacy is evolving, one of the issues he is concerned about is that people [GAP id=32] 3 p. to believe anything.\n\n&NewLine;\n\n&NewLine;\n",
+            "questionType": "listening-comprehension",
+            "displayNumber": "7."
+          },
+          "images": null,
+          "settings": {
+            "points": "3"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-03-20T09:55:28.18066",
+          "max_score": 6,
+          "groupping": null,
+          "id": 3291307,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 31,
+              "parent": "2ed1b3ee-5af9-49f2-bd03-a304562faf5f",
+              "choices": [],
+              "correct": "distinguish | differentiate | separate | extract | tell",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 32,
+              "parent": "2ed1b3ee-5af9-49f2-bd03-a304562faf5f",
+              "choices": [],
+              "correct": "refuse | cease | fail ",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "2ed1b3ee-5af9-49f2-bd03-a304562faf5f",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2021-06-11T08:51:20.069637"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "[LINK text=The passage related to question 8.3|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/index.html#8.4]\n\n&NewLine;\n\n&NewLine;\n\n_Brandi: Well yes, or if you knew anyone else who might want a kitten._\n\n_Michelle: Hm, I’ll have a think about it and I’ll ask around. My brother might want one._\n\n_Brandi: Thank you! Five cats is quite a handful._\n\n&NewLine;\n\nWhat feeling is Brandi expressing? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "[LINK text=The passage related to question 8.3|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/index.html#8.4]\n\n&NewLine;\n\n&NewLine;\n\n_Brandi: Well yes, or if you knew anyone else who might want a kitten._\n\n_Michelle: Hm, I’ll have a think about it and I’ll ask around. My brother might want one._\n\n_Brandi: Thank you! Five cats is quite a handful._\n\n&NewLine;\n\nWhat feeling is Brandi expressing? 3 p.\n",
+            "displayNumber": "8.4."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.175875",
+          "max_score": 3,
+          "groupping": null,
+          "id": 3291354,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 39,
+              "text": "Disappointment",
+              "parent": "45277135-40df-4e6e-bab8-3cfb9d0a19bd",
+              "choices": []
+            },
+            {
+              "id": 40,
+              "text": "Frustration",
+              "parent": "45277135-40df-4e6e-bab8-3cfb9d0a19bd",
+              "choices": []
+            },
+            {
+              "id": 41,
+              "text": "Weariness",
+              "parent": "45277135-40df-4e6e-bab8-3cfb9d0a19bd",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "45277135-40df-4e6e-bab8-3cfb9d0a19bd",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2021-06-11T08:56:18.085052"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Which book would you recommend to someone who likes expatriot experiences? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "Which book would you recommend to someone who likes expatriot experiences? 3 p.\n",
+            "displayNumber": "12.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.171051",
+          "max_score": 3,
+          "groupping": null,
+          "id": 3291588,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 54,
+              "text": "American Dirt",
+              "parent": "243f1e4b-8050-4448-8e42-85f87213aac5",
+              "choices": []
+            },
+            {
+              "id": 55,
+              "text": "Black Wave",
+              "parent": "243f1e4b-8050-4448-8e42-85f87213aac5",
+              "choices": []
+            },
+            {
+              "id": 56,
+              "text": "Cleanness",
+              "parent": "243f1e4b-8050-4448-8e42-85f87213aac5",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 57,
+              "text": "Hitting a Straight Lick …",
+              "parent": "243f1e4b-8050-4448-8e42-85f87213aac5",
+              "choices": []
+            },
+            {
+              "id": 58,
+              "text": "Long Bright River",
+              "parent": "243f1e4b-8050-4448-8e42-85f87213aac5",
+              "choices": []
+            },
+            {
+              "id": 59,
+              "text": "Tightrope…",
+              "parent": "243f1e4b-8050-4448-8e42-85f87213aac5",
+              "choices": []
+            },
+            {
+              "id": 60,
+              "text": "Uncanny Valley",
+              "parent": "243f1e4b-8050-4448-8e42-85f87213aac5",
+              "choices": []
+            }
+          ],
+          "uuid": "243f1e4b-8050-4448-8e42-85f87213aac5",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2021-06-11T09:16:55.778649"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Printing a Boarding Pass 12 p.\n\n\n\nThe following is a conversation in an airport, between an airline representative and a customer. The recording is in four sections. In each question, pay attention to the tone of voice and decide which of the customer’s responses is the most polite. You can listen to each option as many times as you like.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "### Printing a Boarding Pass 12 p.\n\n\n\nThe following is a conversation in an airport, between an airline representative and a customer. The recording is in four sections. In each question, pay attention to the tone of voice and decide which of the customer’s responses is the most polite. You can listen to each option as many times as you like.",
+            "questionType": "listening-comprehension",
+            "displayNumber": "3."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "c2d8b472-a6bf-4383-9b07-c9eaa93c8d38",
+            "edc8842e-f375-4f2d-a7c3-45c03b72d6da",
+            "421b7e0d-396d-4618-a7fb-00b383e38d79",
+            "d9a89386-057a-4aca-9654-82cd32ec03f2"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-03-20T09:55:28.167838",
+          "max_score": null,
+          "groupping": null,
+          "id": 7151485,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "f487fa05-7641-4f9d-af87-0f9ed7a6d377",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2024-09-30T11:42:36.187809"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Lue teksti “What Is Sociology of Sport?” ja täydennä siitä tehty tiivistelmä valitsemalla kuhunkin aukkoon tekstin sisältöön parhaiten sopiva vaihtoehto.\n\n&NewLine;\n\nMaterial\n\n[LINK text=15.A Text: What Is Sociology of Sport?|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/attachments/index.html#15.A]\n\n&NewLine;\n\nUrheilusosiologia on tieteenala, joka tutkii urheilun ja [SELECT id=64] 3 p. yhteyksiä. Yksi sen tarkastelemista kysymyksistä koskee sukupuolten tasa-arvoa urheilussa. Aikaisemmin naisten ei haluttu harrastavan tiettyjä urheilulajeja, koska [SELECT id=65] 3 p. Ennen kuin naisten sallittiin osallistua maratoneille, saattoi tapahtua niin, että naisjuoksija  [SELECT id=66] 3 p. Nykyään naisten urheilu on lähes yhtä yleistä kuin miesten, [SELECT id=67] 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "Lue teksti “What Is Sociology of Sport?” ja täydennä siitä tehty tiivistelmä valitsemalla kuhunkin aukkoon tekstin sisältöön parhaiten sopiva vaihtoehto.\n\n&NewLine;\n\nMaterial\n\n[LINK text=15.A Text: What Is Sociology of Sport?|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/attachments/index.html#15.A]\n\n&NewLine;\n\nUrheilusosiologia on tieteenala, joka tutkii urheilun ja [SELECT id=64] 3 p. yhteyksiä. Yksi sen tarkastelemista kysymyksistä koskee sukupuolten tasa-arvoa urheilussa. Aikaisemmin naisten ei haluttu harrastavan tiettyjä urheilulajeja, koska [SELECT id=65] 3 p. Ennen kuin naisten sallittiin osallistua maratoneille, saattoi tapahtua niin, että naisjuoksija  [SELECT id=66] 3 p. Nykyään naisten urheilu on lähes yhtä yleistä kuin miesten, [SELECT id=67] 3 p.\n",
+            "questionType": "reading",
+            "displayNumber": "15."
+          },
+          "images": null,
+          "settings": {
+            "points": "3"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-03-20T09:55:28.160786",
+          "max_score": 12,
+          "groupping": null,
+          "id": 3291845,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 64,
+              "parent": "fc0a7add-db4b-467b-ba96-2e5abf24864a",
+              "choices": [
+                {
+                  "id": "ec867ad8-1449-4ce7-8b2b-9a69e764895f",
+                  "text": "arvojen"
+                },
+                {
+                  "id": "ee573d85-e701-4506-a4eb-6a64290210aa",
+                  "text": "yhteiskunnan",
+                  "correct": true
+                },
+                {
+                  "id": "a46b866f-b1d4-43c4-854b-079cf22623a6",
+                  "text": "kulttuurin"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 65,
+              "parent": "fc0a7add-db4b-467b-ba96-2e5abf24864a",
+              "choices": [
+                {
+                  "id": "7da112e3-598e-407c-8c64-f9b839b0db3a",
+                  "text": "niiden pelättiin asettavan naiset alttiiksi vaaroille."
+                },
+                {
+                  "id": "1eb941d7-f8a1-4134-8934-deb024de4c97",
+                  "text": "niiden katsottiin olevan sopimattomia naisille.",
+                  "correct": true
+                },
+                {
+                  "id": "9f553922-458c-47e4-92fa-5ad8b3e63c15",
+                  "text": "niiden opetus naisille aloitettiin kouluissa varsin myöhään."
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 66,
+              "parent": "fc0a7add-db4b-467b-ba96-2e5abf24864a",
+              "choices": [
+                {
+                  "id": "727be4ba-56a4-40f3-9715-aa0cdf2e8c1c",
+                  "text": "joutui ennen kilpailua läpäisemään rankan kuntotestin."
+                },
+                {
+                  "id": "85b3c15e-8bd1-4661-83cb-37ed118ca001",
+                  "text": "yritti naamioitua mieheksi päästäkseen mukaan kilpailuun."
+                },
+                {
+                  "id": "1c41a63d-dd64-4971-9073-ccb15f85eee0",
+                  "text": "yritettiin väkisin poistaa juoksureitiltä kesken kilpailun.",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 67,
+              "parent": "fc0a7add-db4b-467b-ba96-2e5abf24864a",
+              "choices": [
+                {
+                  "id": "2970d00b-861c-4fb1-b73b-da2746e4b0f8",
+                  "text": "mutta koululiikunta voi myös vahvistaa sukupuolten välisiä eroja.",
+                  "correct": true
+                },
+                {
+                  "id": "168bd3f6-4bb0-4f74-8562-83fd8ee3c696",
+                  "text": "tosin erilaiset liikuntavalinnat voivat johtaa sukupuolten välisiin konflikteihin."
+                },
+                {
+                  "id": "8caaa87b-2090-466d-9ad0-3693050ccfce",
+                  "text": "ja niinpä monet koulut tarjoavat yhteisiä liikuntakursseja tytöille ja pojille."
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "fc0a7add-db4b-467b-ba96-2e5abf24864a",
+          "order_number": 18,
+          "multipart": true,
+          "created_at": "2021-06-11T09:32:47.677018"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Late Night Television (video) 12 p.**\n\n&NewLine;\n\nThis is a video clip taken from The Last Leg, a British late night television show, where the host and four commentators briefly discuss various topics. You can play the video as many times as you want to. Read the questions carefully and choose the best alternative for each item.\n\n&NewLine;\n\nMaterial\n\n[LINK text=2.A Video: Late Night Television|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/attachments/index.html#2.A]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "**Late Night Television (video) 12 p.**\n\n&NewLine;\n\nThis is a video clip taken from The Last Leg, a British late night television show, where the host and four commentators briefly discuss various topics. You can play the video as many times as you want to. Read the questions carefully and choose the best alternative for each item.\n\n&NewLine;\n\nMaterial\n\n[LINK text=2.A Video: Late Night Television|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/attachments/index.html#2.A]\n",
+            "questionType": "listening-comprehension",
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "37e4b5ac-643a-47ab-a69b-d7606d59e35b",
+            "340e7ded-5106-439a-bc55-f9107144b6dd",
+            "541d52d2-86eb-4cc5-ad85-4c8cb7fe839c",
+            "cb287cf3-85b1-4510-9b42-21e6201a033a"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-03-20T09:55:28.153835",
+          "max_score": null,
+          "groupping": null,
+          "id": 3291174,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "4815fbb2-b3b9-42a1-a821-be53f2180e7d",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2021-06-11T08:09:30.117591"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "When Wiener took her first job at a start-up, she was (like many liberal arts majors at the time) **ambivalent** about tech: intrigued by its promises but aware of the specter of dread surrounding it. 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "When Wiener took her first job at a start-up, she was (like many liberal arts majors at the time) **ambivalent** about tech: intrigued by its promises but aware of the specter of dread surrounding it. 3 p.\n",
+            "displayNumber": "16.7."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.14179",
+          "max_score": 3,
+          "groupping": null,
+          "id": 3293657,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 74,
+              "text": "ignorant",
+              "parent": "5233dc53-add3-4c20-b6ae-3ef96609730f",
+              "choices": []
+            },
+            {
+              "id": 75,
+              "text": "indifferent",
+              "parent": "5233dc53-add3-4c20-b6ae-3ef96609730f",
+              "choices": []
+            },
+            {
+              "id": 76,
+              "text": "undecided",
+              "parent": "5233dc53-add3-4c20-b6ae-3ef96609730f",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "5233dc53-add3-4c20-b6ae-3ef96609730f",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2021-06-11T13:12:05.211006"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What does Ellie Taylor suggest? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "What does Ellie Taylor suggest? 3 p.\n",
+            "displayNumber": "2.4."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.137565",
+          "max_score": 3,
+          "groupping": null,
+          "id": 3291178,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 16,
+              "text": "Putting another domestic appliance into a different room",
+              "parent": "cb287cf3-85b1-4510-9b42-21e6201a033a",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 17,
+              "text": "Placing domestic appliances in the corners to save space",
+              "parent": "cb287cf3-85b1-4510-9b42-21e6201a033a",
+              "choices": []
+            },
+            {
+              "id": 18,
+              "text": "Keeping the washer away from other domestic appliances",
+              "parent": "cb287cf3-85b1-4510-9b42-21e6201a033a",
+              "choices": []
+            }
+          ],
+          "uuid": "cb287cf3-85b1-4510-9b42-21e6201a033a",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2021-06-11T08:09:30.131072"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What seems to be the problem? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "What seems to be the problem? 3 p.\n",
+            "displayNumber": "6.4."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.139689",
+          "max_score": 3,
+          "groupping": null,
+          "id": 3291305,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 28,
+              "text": "There is a missing link in the system",
+              "parent": "11b1e222-b4f2-44ca-b5ed-f4519797a01c",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 29,
+              "text": "John doesn’t want to cover for Pete",
+              "parent": "11b1e222-b4f2-44ca-b5ed-f4519797a01c",
+              "choices": []
+            },
+            {
+              "id": 30,
+              "text": "The announcer is lost just before the beginning",
+              "parent": "11b1e222-b4f2-44ca-b5ed-f4519797a01c",
+              "choices": []
+            }
+          ],
+          "uuid": "11b1e222-b4f2-44ca-b5ed-f4519797a01c",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2021-06-11T08:51:20.063862"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Part 4: Production\n\n&NewLine;\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "### Part 4: Production\n\n&NewLine;\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-03-20T09:55:28.147282",
+          "max_score": null,
+          "groupping": null,
+          "id": 3293883,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "d162b62b-23c2-4b93-9373-b041113bae41",
+          "order_number": 23,
+          "multipart": true,
+          "created_at": "2021-06-11T13:34:26.024371"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What do people tend to do quite naturally? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "What do people tend to do quite naturally? 3 p.\n",
+            "displayNumber": "9.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.149622",
+          "max_score": 3,
+          "groupping": null,
+          "id": 5611107,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 42,
+              "text": "Believe in others’ good intentions",
+              "parent": "1e47ecbf-990a-4f49-90a3-8c11f2c754e3",
+              "choices": []
+            },
+            {
+              "id": 43,
+              "text": "Find support for their existing beliefs",
+              "parent": "1e47ecbf-990a-4f49-90a3-8c11f2c754e3",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 44,
+              "text": "Grasp the first idea that they encounter",
+              "parent": "1e47ecbf-990a-4f49-90a3-8c11f2c754e3",
+              "choices": []
+            }
+          ],
+          "uuid": "1e47ecbf-990a-4f49-90a3-8c11f2c754e3",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2023-05-11T14:02:56.83014"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Given the context, what is the answer to the female speaker’s final question? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "Given the context, what is the answer to the female speaker’s final question? 3 p.\n",
+            "displayNumber": "6.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.151848",
+          "max_score": 3,
+          "groupping": null,
+          "id": 3291297,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 22,
+              "text": "Students Without Borders",
+              "parent": "bf0d36de-7773-4088-bd23-6c1e3c8f4548",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 23,
+              "text": "Safety for Women in Botswana",
+              "parent": "bf0d36de-7773-4088-bd23-6c1e3c8f4548",
+              "choices": []
+            },
+            {
+              "id": 24,
+              "text": "Solidarity Workforce Board",
+              "parent": "bf0d36de-7773-4088-bd23-6c1e3c8f4548",
+              "choices": []
+            }
+          ],
+          "uuid": "bf0d36de-7773-4088-bd23-6c1e3c8f4548",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2021-06-11T08:51:20.042578"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "– Hey, did you guys make it to Gigi’s last night?\n\n– Oh yeah.\n\n– Ah, sorry.\n\n– We were there, we were all sitting down at the patio, it was a beautiful night, eating tamale pie.\n\n– Yeah. You were eating tamale pie? I got to hang up downtown, sorry. Was Karen there?\n\n– Yeah, Karen and Tom, everybody was there, and you know who we saw?\n\n– Who?\n\n– There was... it was a celebrity.\n\n– A celebrity was at Gigi’s?\n\n– Yeah, Victor Borgnine was there. We saw him.\n\n– Ah, you know, I think you’re confusing two different guys, and they’re both dead.\n\n– Oh, I think he was in town for a movie.\n\n– Mm.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "– Hey, did you guys make it to Gigi’s last night?\n\n– Oh yeah.\n\n– Ah, sorry.\n\n– We were there, we were all sitting down at the patio, it was a beautiful night, eating tamale pie.\n\n– Yeah. You were eating tamale pie? I got to hang up downtown, sorry. Was Karen there?\n\n– Yeah, Karen and Tom, everybody was there, and you know who we saw?\n\n– Who?\n\n– There was... it was a celebrity.\n\n– A celebrity was at Gigi’s?\n\n– Yeah, Victor Borgnine was there. We saw him.\n\n– Ah, you know, I think you’re confusing two different guys, and they’re both dead.\n\n– Oh, I think he was in town for a movie.\n\n– Mm.\n",
+            "foldOutTitle": "Kuullunymmärtämistehtävien (4.1.-4.2.) produktiivisten vastausten käsikirjoitukset"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": true
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.165738",
+          "max_score": null,
+          "groupping": null,
+          "id": 3294052,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "e2a923da-c621-48cb-9486-65fcb98bcc4d",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2021-06-11T13:39:25.241768"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mitä tutkittu puuvillatyyppi tekee tehokkaasti? (max 100 characters) 3 p.\n",
+          "deleted_at": null,
+          "feedback": "Imee/sitoo/absorboi öljyä itseensä. / Puhdistaa/siivoaa\n\nöljyvuotoja/öljyläikkiä/öljyvahinkoja/öljyjälkiä/öljypäästöjä/öljykaatoja/öljyvalumia. (3/0 p.)\n\nOK: Poistaa öljyä vesistöistä/maasta\n\nOK: Siivoaa/puhdistaa öljyä/öljyn (pois)\n\nEI: Maahan kaadettu öljy / Läikkynyt öljy\n\nEI: Imee nestettä/rasvaa/aineita\n\nEI: Puhdistaa öljytahroja/öljyroiskeita/öljyjäämiä/öljyläikytyksiä/öljyläikähdyksiä/öljyisiä pintoja",
+          "exam_id": 102392,
+          "content": {
+            "text": "Mitä tutkittu puuvillatyyppi tekee tehokkaasti? (max 100 characters) 3 p.\n",
+            "displayNumber": "5.1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.173718",
+          "max_score": null,
+          "groupping": null,
+          "id": 3291292,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "4b2fe312-74e4-460a-83fa-d73457acf802",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2021-06-11T08:51:20.021919"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Reading habits are dying – or are they? 99 p.**\n\n&NewLine;\n\nPeople are said to be reading less and less, and their literacy skills are declining. At the same time, we spend more and more time reading on our phones, and reading new types of texts. Your school is participating in a global data gathering project on young people’s thoughts on this issue. Write a text presenting your views. You can use the information in the two graphs below to back up your views.\n\n&NewLine;\n\n[LINK text=Katso tilastot täältä.|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/index.html#19.3]\n",
+          "deleted_at": null,
+          "feedback": "HUOM! Taulukoihin ei tarvitse viitata\n\nHUOM! Saa olla muodollinen aloitus/lopetus tai lukijan puhuttelu, mutta sitä ei vaadita\n",
+          "exam_id": 102392,
+          "content": {
+            "text": "**Reading habits are dying – or are they? 99 p.**\n\n&NewLine;\n\nPeople are said to be reading less and less, and their literacy skills are declining. At the same time, we spend more and more time reading on our phones, and reading new types of texts. Your school is participating in a global data gathering project on young people’s thoughts on this issue. Write a text presenting your views. You can use the information in the two graphs below to back up your views.\n\n&NewLine;\n\n[LINK text=Katso tilastot täältä.|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/index.html#19.3]\n",
+            "displayNumber": "19.3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.178516",
+          "max_score": null,
+          "groupping": null,
+          "id": 3293887,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "398e518c-eb7d-4d2a-b213-4b0844e90262",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2021-06-11T13:34:26.033379"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What does Graeme Muller see as necessary in the future? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "What does Graeme Muller see as necessary in the future? 3 p.\n",
+            "displayNumber": "9.5."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.183604",
+          "max_score": 3,
+          "groupping": null,
+          "id": 5611110,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 42,
+              "text": "Influencing publishers to be more vigilant",
+              "parent": "b3ef4528-682b-48f4-b604-87c4f34821da",
+              "choices": []
+            },
+            {
+              "id": 43,
+              "text": "Educating citizens in interpreting social media",
+              "parent": "b3ef4528-682b-48f4-b604-87c4f34821da",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 44,
+              "text": "Fortifying state involvement in cybersecurity",
+              "parent": "b3ef4528-682b-48f4-b604-87c4f34821da",
+              "choices": []
+            }
+          ],
+          "uuid": "b3ef4528-682b-48f4-b604-87c4f34821da",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2023-05-11T14:02:56.83936"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Books to Watch For 17 p.**\n\n&NewLine;\n\nWhat words could replace the underlined words in the text ([LINK text=12.A Text: Books to Watch For|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/attachments/index.html#12.A])? Choose the alternative that best fits the context and conveys a similar meaning.\n\n&NewLine;\n\nHuom. Abitreenien kokeessa korvattava sana on lihavoitu.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "**Books to Watch For 17 p.**\n\n&NewLine;\n\nWhat words could replace the underlined words in the text ([LINK text=12.A Text: Books to Watch For|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/attachments/index.html#12.A])? Choose the alternative that best fits the context and conveys a similar meaning.\n\n&NewLine;\n\nHuom. Abitreenien kokeessa korvattava sana on lihavoitu.",
+            "questionType": "grammar",
+            "displayNumber": "16."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "3f59e242-32c3-4fad-a1eb-993028f5a8ad",
+            "c44e9f44-0ffc-4d26-ad84-e924d86fb146",
+            "a4f995fd-91c1-4898-8481-d3b22669e07f",
+            "717bf50e-c4be-47a0-9df4-c6b5aa951a01",
+            "63378c56-5a4c-40b1-97c3-83161ccec6ca",
+            "4f1c2214-c383-4641-b9ad-495bd5e20538",
+            "5233dc53-add3-4c20-b6ae-3ef96609730f"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-03-20T09:55:28.198975",
+          "max_score": null,
+          "groupping": null,
+          "id": 3293650,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "2daa3ce7-7f25-4cc1-a7e9-24c3e4782d8e",
+          "order_number": 20,
+          "multipart": true,
+          "created_at": "2021-06-11T13:12:05.191535"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "[LINK text=The passage related to question 8.3|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/index.html#8.3]\n\n&NewLine;\n\n_Brandi: No, we couldn’t tell! And we wanted one cat, not a family! So when they’re a bit older we’ll be looking to home them._\n\n_Michelle: And you’re wondering if I’d be interested in taking one._\n\n&NewLine;\n\nWhat attitude is Michelle expressing? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "[LINK text=The passage related to question 8.3|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/index.html#8.3]\n\n&NewLine;\n\n_Brandi: No, we couldn’t tell! And we wanted one cat, not a family! So when they’re a bit older we’ll be looking to home them._\n\n_Michelle: And you’re wondering if I’d be interested in taking one._\n\n&NewLine;\n\nWhat attitude is Michelle expressing? 3 p.\n",
+            "displayNumber": "8.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.201193",
+          "max_score": 3,
+          "groupping": null,
+          "id": 3291353,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 39,
+              "text": "Realization",
+              "parent": "96983807-7cf1-48fe-9c22-cc2630ae109c",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 40,
+              "text": "Confusion",
+              "parent": "96983807-7cf1-48fe-9c22-cc2630ae109c",
+              "choices": []
+            },
+            {
+              "id": 41,
+              "text": "Unwillingness",
+              "parent": "96983807-7cf1-48fe-9c22-cc2630ae109c",
+              "choices": []
+            }
+          ],
+          "uuid": "96983807-7cf1-48fe-9c22-cc2630ae109c",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2021-06-11T08:56:18.082044"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Dialogues 12 p.**\n\n&NewLine;\n\nYou will hear two dialogues twice. Read the questions carefully and choose the best alternative for each item.\n\n&NewLine;\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "**Dialogues 12 p.**\n\n&NewLine;\n\nYou will hear two dialogues twice. Read the questions carefully and choose the best alternative for each item.\n\n&NewLine;\n",
+            "questionType": "listening-comprehension",
+            "displayNumber": "6."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "c311a160-7a02-4f23-8e7e-dafe4130bc7e",
+            "bf0d36de-7773-4088-bd23-6c1e3c8f4548",
+            "8a9caa1c-7f58-493c-81e7-97384f085c72",
+            "2cad263b-9e7b-4af9-9237-1c104c66de8a",
+            "90ec6a3d-05ac-4ae1-97bd-edda5735bb16",
+            "11b1e222-b4f2-44ca-b5ed-f4519797a01c"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-03-20T09:55:28.203171",
+          "max_score": null,
+          "groupping": null,
+          "id": 3291295,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "94d680fe-b983-42dd-b0bf-1ab22d3bb9a0",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2021-06-11T08:51:20.036446"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Short Fiction Audiobook 12 p.**\n\n&NewLine;\n\nYou will hear the beginning of Haruki Murakami’s short fiction story The Second Bakery Attack published as an episode of the LeVar Burton Reads podcast. You can listen to the recording twice, first straight through and then in two shorter sections. Read the questions carefully and choose the best alternative for each item.\n\n&NewLine;\n\n[LINK text=Kuuntele tallenne täältä.|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/index.html#1]\n\n&NewLine;\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "**Short Fiction Audiobook 12 p.**\n\n&NewLine;\n\nYou will hear the beginning of Haruki Murakami’s short fiction story The Second Bakery Attack published as an episode of the LeVar Burton Reads podcast. You can listen to the recording twice, first straight through and then in two shorter sections. Read the questions carefully and choose the best alternative for each item.\n\n&NewLine;\n\n[LINK text=Kuuntele tallenne täältä.|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/index.html#1]\n\n&NewLine;\n",
+            "questionType": "listening-comprehension",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "9446daac-38e2-4a20-87c2-654385066b33",
+            "64335881-eb13-424e-97b0-9203dbf0c7c3",
+            "d3e5a354-e151-44c0-be0d-2328551c7afb",
+            "80d152de-e3df-41e4-99e8-57136ee6eb9d"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-03-20T09:55:28.205222",
+          "max_score": null,
+          "groupping": null,
+          "id": 3291133,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "3d3c5249-75e7-4abb-8364-b3e59eb8764d",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2021-06-11T07:50:39.469154"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Listen, and choose the most polite response. 3 p.\n\n\n\n[LINK url=https://yle.fi/plus/abitreenit/2021/Kev%C3%A4t/2021-03-22_EA_fi/index.html#3.4|text=Kuuntele aineisto täältä.]\n\n\n\nWhich response is the most polite?",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "Listen, and choose the most polite response. 3 p.\n\n\n\n[LINK url=https://yle.fi/plus/abitreenit/2021/Kev%C3%A4t/2021-03-22_EA_fi/index.html#3.4|text=Kuuntele aineisto täältä.]\n\n\n\nWhich response is the most polite?",
+            "displayNumber": "3.4"
+          },
+          "images": null,
+          "settings": {
+            "points": "3"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.210147",
+          "max_score": 3,
+          "groupping": null,
+          "id": 7151489,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 114,
+              "text": "Ok, that’s good, then.",
+              "parent": "d9a89386-057a-4aca-9654-82cd32ec03f2",
+              "choices": []
+            },
+            {
+              "id": 115,
+              "text": "Oh, that’s fine, thanks.",
+              "parent": "d9a89386-057a-4aca-9654-82cd32ec03f2",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 116,
+              "text": "Well I’m glad to hear it.",
+              "parent": "d9a89386-057a-4aca-9654-82cd32ec03f2",
+              "choices": []
+            }
+          ],
+          "uuid": "d9a89386-057a-4aca-9654-82cd32ec03f2",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2024-09-30T11:42:36.198308"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Listen, and choose the most polite response. 3 p.\n\n&NewLine;\n\n[LINK text=Kuuntele audio tästä ja vastaa kysymykseen. |url=https://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/index.html#3.2]\n\n&NewLine;\n\nWhich response is the most polite?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "Listen, and choose the most polite response. 3 p.\n\n&NewLine;\n\n[LINK text=Kuuntele audio tästä ja vastaa kysymykseen. |url=https://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/index.html#3.2]\n\n&NewLine;\n\nWhich response is the most polite?\n",
+            "questionType": "listening-comprehension",
+            "displayNumber": "3.2"
+          },
+          "images": null,
+          "settings": {
+            "points": "3"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.212236",
+          "max_score": 3,
+          "groupping": null,
+          "id": 7151487,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 99,
+              "text": "I tried that already, but none of the machines will scan my passport.",
+              "parent": "edc8842e-f375-4f2d-a7c3-45c03b72d6da",
+              "choices": []
+            },
+            {
+              "id": 100,
+              "text": "I already tried a number of times, but it seems the machines aren’t working.",
+              "parent": "edc8842e-f375-4f2d-a7c3-45c03b72d6da",
+              "choices": []
+            },
+            {
+              "id": 101,
+              "text": "I did try several of them, but I’m afraid they couldn’t read my passport.",
+              "parent": "edc8842e-f375-4f2d-a7c3-45c03b72d6da",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "edc8842e-f375-4f2d-a7c3-45c03b72d6da",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2024-09-30T11:42:36.192898"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Listen, and choose the most polite response. 3 p.\n\n&NewLine;\n\n[LINK text=Kuuntele tallenteet täältä.|url=https://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/index.html#3.1]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "Listen, and choose the most polite response. 3 p.\n\n&NewLine;\n\n[LINK text=Kuuntele tallenteet täältä.|url=https://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/index.html#3.1]",
+            "questionType": "listening-comprehension",
+            "displayNumber": "3.1."
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.214438",
+          "max_score": null,
+          "groupping": null,
+          "id": 7151486,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 111,
+              "text": "Yes, can you arrange to print my boarding pass for me?",
+              "parent": "c2d8b472-a6bf-4383-9b07-c9eaa93c8d38",
+              "choices": []
+            },
+            {
+              "id": 112,
+              "text": "I want to print my boarding pass: can you do that here?",
+              "parent": "c2d8b472-a6bf-4383-9b07-c9eaa93c8d38",
+              "choices": []
+            },
+            {
+              "id": 113,
+              "text": "Is there any chance you could print my boarding pass?",
+              "parent": "c2d8b472-a6bf-4383-9b07-c9eaa93c8d38",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "c2d8b472-a6bf-4383-9b07-c9eaa93c8d38",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2024-09-30T11:42:36.190454"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "[LINK text=The passage related to question 8.2|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/index.html#8.2]\n\n&NewLine;\n\n_Brandi: You remember that stray cat that Mike and I took in last week?_\n\n_Michelle: Of course, I saw your pictures! He’s a beautiful cat!_\n\n_Brandi: Well, actually he is a she. And the cat’s now got four kittens living under our bed._\n\n_Michelle: Oh my goodness! And you didn’t realise when you took her in?_\n\n&NewLine;\n\nHow does Michelle sound? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "[LINK text=The passage related to question 8.2|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/index.html#8.2]\n\n&NewLine;\n\n_Brandi: You remember that stray cat that Mike and I took in last week?_\n\n_Michelle: Of course, I saw your pictures! He’s a beautiful cat!_\n\n_Brandi: Well, actually he is a she. And the cat’s now got four kittens living under our bed._\n\n_Michelle: Oh my goodness! And you didn’t realise when you took her in?_\n\n&NewLine;\n\nHow does Michelle sound? 3 p.\n",
+            "displayNumber": "8.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.216774",
+          "max_score": 3,
+          "groupping": null,
+          "id": 3291310,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 36,
+              "text": "Puzzled",
+              "parent": "a2c7c69d-c286-43bc-94a9-5dce2818e6ac",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 37,
+              "text": "Scornful",
+              "parent": "a2c7c69d-c286-43bc-94a9-5dce2818e6ac",
+              "choices": []
+            },
+            {
+              "id": 38,
+              "text": "Amused",
+              "parent": "a2c7c69d-c286-43bc-94a9-5dce2818e6ac",
+              "choices": []
+            }
+          ],
+          "uuid": "a2c7c69d-c286-43bc-94a9-5dce2818e6ac",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2021-06-11T08:51:20.077201"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Choose a caption that best describes the photo. 2 p.\n\n&NewLine;\n\n[LINK text=Katso kuva täältä.|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/index.html#10.4.]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "Choose a caption that best describes the photo. 2 p.\n\n&NewLine;\n\n[LINK text=Katso kuva täältä.|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/index.html#10.4.]\n",
+            "displayNumber": "10.4."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.21921",
+          "max_score": 2,
+          "groupping": null,
+          "id": 3291465,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 45,
+              "text": "When you can’t find the sunshine, be the sunshine.",
+              "parent": "6d732044-ece9-4626-a956-4a8ff985f3c2",
+              "choices": []
+            },
+            {
+              "id": 46,
+              "text": "Clear your mind of can’t.",
+              "parent": "6d732044-ece9-4626-a956-4a8ff985f3c2",
+              "choices": []
+            },
+            {
+              "id": 47,
+              "text": "Growing up is a trap!",
+              "parent": "6d732044-ece9-4626-a956-4a8ff985f3c2",
+              "choices": []
+            },
+            {
+              "id": 48,
+              "text": "Not looking a day over fabulous!",
+              "parent": "6d732044-ece9-4626-a956-4a8ff985f3c2",
+              "choices": []
+            },
+            {
+              "id": 49,
+              "text": "Forget the butterflies, I feel the whole zoo when I’m with you.",
+              "parent": "6d732044-ece9-4626-a956-4a8ff985f3c2",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 50,
+              "text": "You are what you do, not what you say you’ll do.",
+              "parent": "6d732044-ece9-4626-a956-4a8ff985f3c2",
+              "choices": []
+            }
+          ],
+          "uuid": "6d732044-ece9-4626-a956-4a8ff985f3c2",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2021-06-11T09:07:56.530512"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Cat Adoption 12 p.**\n\n&NewLine;\n\nThe following recording is a conversation between two friends about cat adoption. The recording is divided into four segments: you can listen to the recording once all the way through, and you can listen to each section twice. Pay attention to tone of voice and, for the phrases in bold, choose the option that best describes the feeling or attitude being expressed.\n\n&NewLine;\n\n✲✲✲\n\n&NewLine;\n\n[LINK text=The whole recording|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/index.html#8]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "**Cat Adoption 12 p.**\n\n&NewLine;\n\nThe following recording is a conversation between two friends about cat adoption. The recording is divided into four segments: you can listen to the recording once all the way through, and you can listen to each section twice. Pay attention to tone of voice and, for the phrases in bold, choose the option that best describes the feeling or attitude being expressed.\n\n&NewLine;\n\n✲✲✲\n\n&NewLine;\n\n[LINK text=The whole recording|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/index.html#8]\n",
+            "questionType": "listening-comprehension",
+            "displayNumber": "8."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "790edae2-fa3a-435d-9dc7-e387f500fc76",
+            "a2c7c69d-c286-43bc-94a9-5dce2818e6ac",
+            "96983807-7cf1-48fe-9c22-cc2630ae109c",
+            "45277135-40df-4e6e-bab8-3cfb9d0a19bd"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-03-20T09:55:28.221184",
+          "max_score": null,
+          "groupping": null,
+          "id": 3291308,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "a2344b99-02c7-4ac4-9fab-57bd87b0c05d",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2021-06-11T08:51:20.072161"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**A Night at Gigi’s 9 p.**\n\n&NewLine;\n\nYou will hear two people talk about the previous night at Gigi’s. You will hear the recording three times. Listen to the recording and answer the questions in Finnish. Please write a concise answer not exceeding 100 characters for each question. Exceeding the maximum number of characters will lead to points being cut.\n\n&NewLine;\n\n[LINK text=Kuuntele tallenne täältä.|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/index.html#4.2.]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "**A Night at Gigi’s 9 p.**\n\n&NewLine;\n\nYou will hear two people talk about the previous night at Gigi’s. You will hear the recording three times. Listen to the recording and answer the questions in Finnish. Please write a concise answer not exceeding 100 characters for each question. Exceeding the maximum number of characters will lead to points being cut.\n\n&NewLine;\n\n[LINK text=Kuuntele tallenne täältä.|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/index.html#4.2.]\n",
+            "questionType": "listening-comprehension",
+            "displayNumber": "4."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "6957a857-8c70-403f-b14b-924cfd969cbf",
+            "bfcb3cb9-680f-4151-a98c-27accff9e9ac",
+            "e2a923da-c621-48cb-9486-65fcb98bcc4d"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-03-20T09:55:28.223301",
+          "max_score": null,
+          "groupping": null,
+          "id": 3291206,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "ec0f404b-2c3e-4574-9ea8-a1d1c21f84af",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2021-06-11T08:13:17.142586"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Cotton Studies 9 p.**\n\n&NewLine;\n\nYou will hear Seshadri Ramkumar talk about his research on cotton. You will hear the recording three times. Listen to the recording and answer the questions in Finnish. Please write a concise answer not exceeding 100 characters for each question. Exceeding the maximum number of characters will lead to points being cut.\n\n&NewLine;\n\n[LINK text=The whole recording|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/index.html#5.3.]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "**Cotton Studies 9 p.**\n\n&NewLine;\n\nYou will hear Seshadri Ramkumar talk about his research on cotton. You will hear the recording three times. Listen to the recording and answer the questions in Finnish. Please write a concise answer not exceeding 100 characters for each question. Exceeding the maximum number of characters will lead to points being cut.\n\n&NewLine;\n\n[LINK text=The whole recording|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/index.html#5.3.]\n",
+            "questionType": "listening-comprehension",
+            "displayNumber": "5."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "4b2fe312-74e4-460a-83fa-d73457acf802",
+            "7af997a7-8dd5-4f40-b0a5-e0ad464a11ae",
+            "eecd1e13-c46b-49fb-a63a-cc5a11ff75d5",
+            "834d0421-64b3-4608-bda6-a1789b3d852e"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-03-20T09:55:28.22529",
+          "max_score": null,
+          "groupping": null,
+          "id": 3291291,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "fdc34da3-9432-49be-be31-799695b5f8da",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2021-06-11T08:51:20.019029"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Choose a caption that best describes the photo. 2 p.\n\n&NewLine;\n\n[LINK text=Katso kuva täältä.|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/index.html#10.2.]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "Choose a caption that best describes the photo. 2 p.\n\n&NewLine;\n\n[LINK text=Katso kuva täältä.|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/index.html#10.2.]\n",
+            "displayNumber": "10.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.227387",
+          "max_score": 2,
+          "groupping": null,
+          "id": 3291463,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 45,
+              "text": "When you can’t find the sunshine, be the sunshine.",
+              "parent": "6df81fcf-2a53-4c00-843a-a42b1dca7cc7",
+              "choices": []
+            },
+            {
+              "id": 46,
+              "text": "Clear your mind of can’t.",
+              "parent": "6df81fcf-2a53-4c00-843a-a42b1dca7cc7",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 47,
+              "text": "Growing up is a trap!",
+              "parent": "6df81fcf-2a53-4c00-843a-a42b1dca7cc7",
+              "choices": []
+            },
+            {
+              "id": 48,
+              "text": "Not looking a day over fabulous!",
+              "parent": "6df81fcf-2a53-4c00-843a-a42b1dca7cc7",
+              "choices": []
+            },
+            {
+              "id": 49,
+              "text": "Forget the butterflies, I feel the whole zoo when I’m with you.",
+              "parent": "6df81fcf-2a53-4c00-843a-a42b1dca7cc7",
+              "choices": []
+            },
+            {
+              "id": 50,
+              "text": "You are what you do, not what you say you’ll do.",
+              "parent": "6df81fcf-2a53-4c00-843a-a42b1dca7cc7",
+              "choices": []
+            }
+          ],
+          "uuid": "6df81fcf-2a53-4c00-843a-a42b1dca7cc7",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2021-06-11T09:07:56.524747"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": " Mikä tutkitun puuvillatyypin rakenteessa on erityistä? (max 100 characters) 3 p.\n",
+          "deleted_at": null,
+          "feedback": "Sallitun merkkimäärän ylittämisestä vähennetään 1 piste.\n\n• Se painuu kasaan / pakkautuu tiiviiksi / Rakenne/kuidut luhistuu/murtuu/sortuu/romahtaa/hajoaa/\n\nrikkoutuu / antaa periksi / Se on heikko/hauras. (3/0 p.)\n\nEI: Hajoaa moneen osaan, sirpaloituu, murenee, jakautuu\n\nEI: Leviää laajalle alueelle\n\nEI: Luo uusia kuituja\n\nEI: Väljärakenteinen/huokoinen/ilmava/kevyt\n",
+          "exam_id": 102392,
+          "content": {
+            "text": " Mikä tutkitun puuvillatyypin rakenteessa on erityistä? (max 100 characters) 3 p.\n",
+            "displayNumber": "5.2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.229425",
+          "max_score": null,
+          "groupping": null,
+          "id": 3291293,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "7af997a7-8dd5-4f40-b0a5-e0ad464a11ae",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2021-06-11T08:51:20.02737"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Production 99 p.**\n\n&NewLine;\n\nVastaa yhteen kohdista 19.1–19.4.\n\n&NewLine;\n\nWrite a composition of 700–1,300 characters on one of the topics below, following the instructions. Spaces and line breaks are not included in the character count. Please note that the limit is 1,300 characters not words.\n\n&NewLine;\n\nLeave the three other text fields empty.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "**Production 99 p.**\n\n&NewLine;\n\nVastaa yhteen kohdista 19.1–19.4.\n\n&NewLine;\n\nWrite a composition of 700–1,300 characters on one of the topics below, following the instructions. Spaces and line breaks are not included in the character count. Please note that the limit is 1,300 characters not words.\n\n&NewLine;\n\nLeave the three other text fields empty.\n",
+            "questionType": "writing",
+            "displayNumber": "19."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "e56f0d80-e291-4d5e-87bb-a27446dbc215",
+            "2c0a2aa1-5b46-4416-9bad-6b449e131c71",
+            "398e518c-eb7d-4d2a-b213-4b0844e90262",
+            "bafceb09-4e24-491c-95ab-29c0cd217e3a"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-03-20T09:55:28.231613",
+          "max_score": null,
+          "groupping": null,
+          "id": 3293884,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "85db8609-1e84-4e02-981c-1066ec90aa11",
+          "order_number": 24,
+          "multipart": true,
+          "created_at": "2021-06-11T13:34:26.027197"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "[LINK text=The passage related to question 8.1|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/index.html#8.1]\n\n&NewLine;\n\n_Brandi:\tHey, do you have a minute? I really need to talk to you._\n\n_Michelle:\tSure, what about?_\n\n&NewLine;\n\n How does Michelle sound? 3 p.\n\n&NewLine;\n\n&NewLine;\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "[LINK text=The passage related to question 8.1|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/index.html#8.1]\n\n&NewLine;\n\n_Brandi:\tHey, do you have a minute? I really need to talk to you._\n\n_Michelle:\tSure, what about?_\n\n&NewLine;\n\n How does Michelle sound? 3 p.\n\n&NewLine;\n\n&NewLine;\n",
+            "displayNumber": "8.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.233883",
+          "max_score": 3,
+          "groupping": null,
+          "id": 3291309,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 33,
+              "text": "Irritated",
+              "parent": "790edae2-fa3a-435d-9dc7-e387f500fc76",
+              "choices": []
+            },
+            {
+              "id": 34,
+              "text": "Worried",
+              "parent": "790edae2-fa3a-435d-9dc7-e387f500fc76",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 35,
+              "text": "Indifferent",
+              "parent": "790edae2-fa3a-435d-9dc7-e387f500fc76",
+              "choices": []
+            }
+          ],
+          "uuid": "790edae2-fa3a-435d-9dc7-e387f500fc76",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2021-06-11T08:51:20.074647"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Why did the couple have an almost empty refrigerator? 3 p.\n\n&NewLine;\n\n[LINK text=The passage related to questions 1.3 and 1.4|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/index.html#1]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "Why did the couple have an almost empty refrigerator? 3 p.\n\n&NewLine;\n\n[LINK text=The passage related to questions 1.3 and 1.4|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/index.html#1]\n",
+            "displayNumber": "1.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.236002",
+          "max_score": 3,
+          "groupping": null,
+          "id": 3291136,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 7,
+              "text": "Their everyday routines were still forming",
+              "parent": "d3e5a354-e151-44c0-be0d-2328551c7afb",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 8,
+              "text": "Their diets were mutually incompatible",
+              "parent": "d3e5a354-e151-44c0-be0d-2328551c7afb",
+              "choices": []
+            },
+            {
+              "id": 9,
+              "text": "They lacked time to go grocery shopping",
+              "parent": "d3e5a354-e151-44c0-be0d-2328551c7afb",
+              "choices": []
+            }
+          ],
+          "uuid": "d3e5a354-e151-44c0-be0d-2328551c7afb",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2021-06-11T07:50:39.477669"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**In a House of Lies 9 p.**\n\n&NewLine;\n\nRead the text and answer the questions. Answer questions 13.1–13.2 in Finnish. (Maximum length 100 characters each. Exceeding the maximum number of characters will lead to points being cut.) Choose the best alternative for 13.3.\n\n&NewLine;\n\nMaterial\n\n[LINK text=13.A Text: In a House of Lies|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/attachments/index.html#13.A]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "**In a House of Lies 9 p.**\n\n&NewLine;\n\nRead the text and answer the questions. Answer questions 13.1–13.2 in Finnish. (Maximum length 100 characters each. Exceeding the maximum number of characters will lead to points being cut.) Choose the best alternative for 13.3.\n\n&NewLine;\n\nMaterial\n\n[LINK text=13.A Text: In a House of Lies|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/attachments/index.html#13.A]\n",
+            "questionType": "reading",
+            "displayNumber": "13."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "1ec1d39c-5fbe-4d11-ada1-827ebbc1044b",
+            "3b5d5b36-2b21-4bf3-a40b-c027c92333ca",
+            "fd63cb9b-d95c-4a32-94f0-c227aafe16f7"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-03-20T09:55:28.237869",
+          "max_score": null,
+          "groupping": null,
+          "id": 3291658,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "9cfebc91-9dcf-41da-bd0e-255f6215ea8e",
+          "order_number": 16,
+          "multipart": true,
+          "created_at": "2021-06-11T09:23:00.347067"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What is characteristic about ‘deep fakes’? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "What is characteristic about ‘deep fakes’? 3 p.\n",
+            "displayNumber": "9.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.242928",
+          "max_score": 3,
+          "groupping": null,
+          "id": 5611108,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 42,
+              "text": "They seem and sound authentic",
+              "parent": "ce418244-3ac4-4e18-80c6-885308efbfd9",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 43,
+              "text": "They require experts to create them",
+              "parent": "ce418244-3ac4-4e18-80c6-885308efbfd9",
+              "choices": []
+            },
+            {
+              "id": 44,
+              "text": "They mess with your brain",
+              "parent": "ce418244-3ac4-4e18-80c6-885308efbfd9",
+              "choices": []
+            }
+          ],
+          "uuid": "ce418244-3ac4-4e18-80c6-885308efbfd9",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2023-05-11T14:02:56.833299"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "According to the first news item, how would the sales of some unhealthy products change? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "According to the first news item, how would the sales of some unhealthy products change? 3 p.\n",
+            "displayNumber": "2.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.247621",
+          "max_score": 3,
+          "groupping": null,
+          "id": 3291175,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 13,
+              "text": "Their wrapping would become generic",
+              "parent": "37e4b5ac-643a-47ab-a69b-d7606d59e35b",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 14,
+              "text": "Their labels would be void of brand names",
+              "parent": "37e4b5ac-643a-47ab-a69b-d7606d59e35b",
+              "choices": []
+            },
+            {
+              "id": 15,
+              "text": "Their sellers would introduce age limits",
+              "parent": "37e4b5ac-643a-47ab-a69b-d7606d59e35b",
+              "choices": []
+            }
+          ],
+          "uuid": "37e4b5ac-643a-47ab-a69b-d7606d59e35b",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2021-06-11T08:09:30.122472"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Once upon a time 99 p.**\n\n​\n\nWrite a fairy tale. You can use the images for inspiration or just use your imagination. It can be a tale of your own or a re-telling of an existing tale with an original twist of your own.\n\n​\n\n[LINK text=Katso kuvat täältä.|url=http://yle.fi/plus/abitreenit/2021/Kev%C3%A4t/2021-03-22\\_EA\\_fi/index.html#19.4]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "**Once upon a time 99 p.**\n\n​\n\nWrite a fairy tale. You can use the images for inspiration or just use your imagination. It can be a tale of your own or a re-telling of an existing tale with an original twist of your own.\n\n​\n\n[LINK text=Katso kuvat täältä.|url=http://yle.fi/plus/abitreenit/2021/Kev%C3%A4t/2021-03-22\\_EA\\_fi/index.html#19.4]\n",
+            "displayNumber": "19.4."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.249764",
+          "max_score": null,
+          "groupping": null,
+          "id": 3293968,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "bafceb09-4e24-491c-95ab-29c0cd217e3a",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2021-06-11T13:37:32.421301"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "The stories here deal with race, class, migration and love, and are **an invaluable** window into African-American experiences during the Harlem Renaissance. 2 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "The stories here deal with race, class, migration and love, and are **an invaluable** window into African-American experiences during the Harlem Renaissance. 2 p.\n",
+            "displayNumber": "16.4."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.251908",
+          "max_score": 2,
+          "groupping": null,
+          "id": 3293654,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 74,
+              "text": "an inferior",
+              "parent": "717bf50e-c4be-47a0-9df4-c6b5aa951a01",
+              "choices": []
+            },
+            {
+              "id": 75,
+              "text": "a neutral",
+              "parent": "717bf50e-c4be-47a0-9df4-c6b5aa951a01",
+              "choices": []
+            },
+            {
+              "id": 76,
+              "text": "a precious",
+              "parent": "717bf50e-c4be-47a0-9df4-c6b5aa951a01",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "717bf50e-c4be-47a0-9df4-c6b5aa951a01",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2021-06-11T13:12:05.203011"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Retired Opera Singers 9 p.**\n\n&NewLine;\n\nRead the text carefully and answer the questions in Finnish. (Maximum length 100 characters each. Exceeding the maximum number of characters will lead to points being cut.)\n\n&NewLine;\n\nMaterial\n\n[LINK text=14.A Text: Retired Opera Singers|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/attachments/index.html#14.A]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "**Retired Opera Singers 9 p.**\n\n&NewLine;\n\nRead the text carefully and answer the questions in Finnish. (Maximum length 100 characters each. Exceeding the maximum number of characters will lead to points being cut.)\n\n&NewLine;\n\nMaterial\n\n[LINK text=14.A Text: Retired Opera Singers|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/attachments/index.html#14.A]\n",
+            "questionType": "reading",
+            "displayNumber": "14."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "87ed3fec-c71f-4d4c-a35c-fd6f0ded0458",
+            "c5306a68-db8f-4522-b250-ed8d9f135ab3",
+            "6c3258a7-9b00-476f-8026-ac01a9c6436e"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-03-20T09:55:28.253885",
+          "max_score": null,
+          "groupping": null,
+          "id": 3291742,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "54b122c1-d533-427f-862c-d78d995b11b7",
+          "order_number": 17,
+          "multipart": true,
+          "created_at": "2021-06-11T09:25:56.397136"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What proof is there that fake news is affecting New Zealanders? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "What proof is there that fake news is affecting New Zealanders? 3 p.\n",
+            "displayNumber": "9.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.258537",
+          "max_score": 3,
+          "groupping": null,
+          "id": 5611106,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 42,
+              "text": "Quite a few think the media are lying",
+              "parent": "65f681b5-e344-423e-8eb1-d7b4380660e6",
+              "choices": []
+            },
+            {
+              "id": 43,
+              "text": "Some go for rumours rather than research",
+              "parent": "65f681b5-e344-423e-8eb1-d7b4380660e6",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 44,
+              "text": "Many are sceptical about medicine",
+              "parent": "65f681b5-e344-423e-8eb1-d7b4380660e6",
+              "choices": []
+            }
+          ],
+          "uuid": "65f681b5-e344-423e-8eb1-d7b4380660e6",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2023-05-11T14:02:56.826431"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Sustainable travel 99 p.**\n\n&NewLine;\n\nSustainable travel means finding a way that tourism can be maintained without harming natural and cultural environments. Write a paper on sustainable travel for the International Youth Forum. Write a paper for the Forum, in which you present your views and possible solutions for sustainable travel.\n",
+          "deleted_at": null,
+          "feedback": "HUOM! Jos puuttuu näkemys tai ratkaisu, vähennetään –5 p.\n",
+          "exam_id": 102392,
+          "content": {
+            "text": "**Sustainable travel 99 p.**\n\n&NewLine;\n\nSustainable travel means finding a way that tourism can be maintained without harming natural and cultural environments. Write a paper on sustainable travel for the International Youth Forum. Write a paper for the Forum, in which you present your views and possible solutions for sustainable travel.\n",
+            "displayNumber": "19.2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.260599",
+          "max_score": null,
+          "groupping": null,
+          "id": 3293886,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "2c0a2aa1-5b46-4416-9bad-6b449e131c71",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2021-06-11T13:34:26.031421"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What is John refusing to do? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "What is John refusing to do? 3 p.\n",
+            "displayNumber": "6.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.263114",
+          "max_score": 3,
+          "groupping": null,
+          "id": 3291304,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 25,
+              "text": "To inform the public about a blunder",
+              "parent": "90ec6a3d-05ac-4ae1-97bd-edda5735bb16",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 26,
+              "text": "To find out where the problem lies",
+              "parent": "90ec6a3d-05ac-4ae1-97bd-edda5735bb16",
+              "choices": []
+            },
+            {
+              "id": 27,
+              "text": "To stay on to take the lead",
+              "parent": "90ec6a3d-05ac-4ae1-97bd-edda5735bb16",
+              "choices": []
+            }
+          ],
+          "uuid": "90ec6a3d-05ac-4ae1-97bd-edda5735bb16",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2021-06-11T08:51:20.061395"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**My language biography 99 p.**\n\n&NewLine;\n\nThe Council of Europe wants to develop understanding of the languages spoken in Europe. They are inviting young Europeans to write their language biographies. What languages or dialects do you speak? Where and with whom do you use those languages? What language or languages are the most important for you? Write your own language biography.\n",
+          "deleted_at": null,
+          "feedback": "&NewLine;\n",
+          "exam_id": 102392,
+          "content": {
+            "text": "**My language biography 99 p.**\n\n&NewLine;\n\nThe Council of Europe wants to develop understanding of the languages spoken in Europe. They are inviting young Europeans to write their language biographies. What languages or dialects do you speak? Where and with whom do you use those languages? What language or languages are the most important for you? Write your own language biography.\n",
+            "displayNumber": "19.1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.26526",
+          "max_score": null,
+          "groupping": null,
+          "id": 3293885,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "e56f0d80-e291-4d5e-87bb-a27446dbc215",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2021-06-11T13:34:26.029283"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Instagram Captions 8 p.**\n\n&NewLine;\n\nBelow are four Instagram photos and six captions. Choose a caption that best describes each photo.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "**Instagram Captions 8 p.**\n\n&NewLine;\n\nBelow are four Instagram photos and six captions. Choose a caption that best describes each photo.\n",
+            "questionType": "reading",
+            "displayNumber": "10."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "6218cf4d-c3fb-4c85-bdf7-4852054a4190",
+            "6df81fcf-2a53-4c00-843a-a42b1dca7cc7",
+            "a3cbf936-b182-4d3a-997d-18498280801d",
+            "6d732044-ece9-4626-a956-4a8ff985f3c2"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-03-20T09:55:28.267502",
+          "max_score": null,
+          "groupping": null,
+          "id": 3291407,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "f26d3325-b41d-4f79-8de7-7080a2e3e08f",
+          "order_number": 13,
+          "multipart": true,
+          "created_at": "2021-06-11T09:05:42.175662"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What did the Coast Salish use the body of water for? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "What did the Coast Salish use the body of water for? 3 p.\n",
+            "displayNumber": "11.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.269865",
+          "max_score": 3,
+          "groupping": null,
+          "id": 3291524,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 51,
+              "text": "raising farmstock",
+              "parent": "e6956b72-d5ab-491c-abc0-bb43e621499f",
+              "choices": []
+            },
+            {
+              "id": 52,
+              "text": "collecting seafood",
+              "parent": "e6956b72-d5ab-491c-abc0-bb43e621499f",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 53,
+              "text": "hunting seals",
+              "parent": "e6956b72-d5ab-491c-abc0-bb43e621499f",
+              "choices": []
+            }
+          ],
+          "uuid": "e6956b72-d5ab-491c-abc0-bb43e621499f",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2021-06-11T09:10:30.493064"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Which book would you recommend to someone who likes international politics? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "Which book would you recommend to someone who likes international politics? 3 p.\n",
+            "displayNumber": "12.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.272082",
+          "max_score": 3,
+          "groupping": null,
+          "id": 3291587,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 54,
+              "text": "American Dirt",
+              "parent": "1639b36d-3244-43e4-8b74-b02e3e3af3f7",
+              "choices": []
+            },
+            {
+              "id": 55,
+              "text": "Black Wave",
+              "parent": "1639b36d-3244-43e4-8b74-b02e3e3af3f7",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 56,
+              "text": "Cleanness",
+              "parent": "1639b36d-3244-43e4-8b74-b02e3e3af3f7",
+              "choices": []
+            },
+            {
+              "id": 57,
+              "text": "Hitting a Straight Lick …",
+              "parent": "1639b36d-3244-43e4-8b74-b02e3e3af3f7",
+              "choices": []
+            },
+            {
+              "id": 58,
+              "text": "Long Bright River",
+              "parent": "1639b36d-3244-43e4-8b74-b02e3e3af3f7",
+              "choices": []
+            },
+            {
+              "id": 59,
+              "text": "Tightrope…",
+              "parent": "1639b36d-3244-43e4-8b74-b02e3e3af3f7",
+              "choices": []
+            },
+            {
+              "id": 60,
+              "text": "Uncanny Valley",
+              "parent": "1639b36d-3244-43e4-8b74-b02e3e3af3f7",
+              "choices": []
+            }
+          ],
+          "uuid": "1639b36d-3244-43e4-8b74-b02e3e3af3f7",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2021-06-11T09:16:55.775963"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Ghattas focuses on people whose lives were **upended** by the rivalry between Iran and Saudi Arabia, including the journalist Jamal Khashoggi, who was killed in 2018. 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "Ghattas focuses on people whose lives were **upended** by the rivalry between Iran and Saudi Arabia, including the journalist Jamal Khashoggi, who was killed in 2018. 3 p.\n",
+            "displayNumber": "16.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.274288",
+          "max_score": 3,
+          "groupping": null,
+          "id": 3293652,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 71,
+              "text": "altered",
+              "parent": "c44e9f44-0ffc-4d26-ad84-e924d86fb146",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 72,
+              "text": "revived",
+              "parent": "c44e9f44-0ffc-4d26-ad84-e924d86fb146",
+              "choices": []
+            },
+            {
+              "id": 73,
+              "text": "disturbed",
+              "parent": "c44e9f44-0ffc-4d26-ad84-e924d86fb146",
+              "choices": []
+            }
+          ],
+          "uuid": "c44e9f44-0ffc-4d26-ad84-e924d86fb146",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2021-06-11T13:12:05.1976"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Hello. My name is Seshadri Ramkumar, an environmental toxicologist at Texas Tech. In my nonwovens and\n\nadvanced materials lab, my research group is studying low-grade cotton for its potential in cleaning up oil\n\nspills. Our research shows that the low-grade cotton that gets rejected by the garment industry has a weak\n\nstructure that collapses, packing more fibers into a given area. Crude oil not only sticks to the surface, it\n\nabsorbs into the fiber. This could be good news for West Texas cotton farmers, because about 10% of the\n\ncotton grown here is this very type.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "Hello. My name is Seshadri Ramkumar, an environmental toxicologist at Texas Tech. In my nonwovens and\n\nadvanced materials lab, my research group is studying low-grade cotton for its potential in cleaning up oil\n\nspills. Our research shows that the low-grade cotton that gets rejected by the garment industry has a weak\n\nstructure that collapses, packing more fibers into a given area. Crude oil not only sticks to the surface, it\n\nabsorbs into the fiber. This could be good news for West Texas cotton farmers, because about 10% of the\n\ncotton grown here is this very type.\n",
+            "foldOutTitle": "Kuullunymmärtämistehtävien (5.1.-5.3.) produktiivisten vastausten käsikirjoitukset"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": true
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.276419",
+          "max_score": null,
+          "groupping": null,
+          "id": 3294053,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "834d0421-64b3-4608-bda6-a1789b3d852e",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2021-06-11T13:39:25.247526"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mitä ensimmäinen puhuja pahoittelee? (max 100 characters) 3 p.\n",
+          "deleted_at": null,
+          "feedback": "Sallitun merkkimäärän ylittämisestä vähennetään 1 piste.\n\n&NewLine;\n\n• Hän ei päässyt paikalle / joutui jäämään keskustaan / ei ehtinyt tulemaan. (3/0 p.)\n\nOK: Jäi oleskelemaan/hengailemaan/jumiin kaupungille / oli muuta menoa / oli este / tuli viivästys /\n\nkesti kauemmin kaupungilla / oli asioita hoidettavana / oli pakko jäädä keskustaan\n\nOK: Alakaupunki, kantakaupunki\n\nOK: Hän oli toisessa kaupunginosassa\n\n&NewLine;\n\nEI: Jäi ruuhkaan / oli töissä (liian spesifi)\n\nEI: Hänen täytyi mennä kaupungille\n\nEI: Esikaupunki, downtown\n\nEI: Gigin luokse\n",
+          "exam_id": 102392,
+          "content": {
+            "text": "Mitä ensimmäinen puhuja pahoittelee? (max 100 characters) 3 p.\n",
+            "displayNumber": "4.1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.278926",
+          "max_score": null,
+          "groupping": null,
+          "id": 3291207,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "6957a857-8c70-403f-b14b-924cfd969cbf",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2021-06-11T08:13:17.145673"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Cyber Crime in New Zealand 18 p.**\n\n&NewLine;\n\nRead the text carefully and then answer the questions.\n\n&NewLine;\n\nMaterial:\n\n[LINK text=9.A Text: NZ losing millions from cyber crimes|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/attachments/index.html#9.A]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "**Cyber Crime in New Zealand 18 p.**\n\n&NewLine;\n\nRead the text carefully and then answer the questions.\n\n&NewLine;\n\nMaterial:\n\n[LINK text=9.A Text: NZ losing millions from cyber crimes|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/attachments/index.html#9.A]\n",
+            "questionType": "reading",
+            "displayNumber": "9."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "65f681b5-e344-423e-8eb1-d7b4380660e6",
+            "1e47ecbf-990a-4f49-90a3-8c11f2c754e3",
+            "ce418244-3ac4-4e18-80c6-885308efbfd9",
+            "7c608d9b-95bf-4792-8ad9-f906516c6e63",
+            "b3ef4528-682b-48f4-b604-87c4f34821da",
+            "744a7f29-200e-4576-a552-098f1b232ac1"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-03-20T09:55:28.280869",
+          "max_score": null,
+          "groupping": null,
+          "id": 3754377,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "7ad7ed5a-4b0b-481e-b857-6793d66d0b9c",
+          "order_number": 12,
+          "multipart": true,
+          "created_at": "2021-10-01T06:22:43.24802"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Why is it called the Lost Lagoon? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "Why is it called the Lost Lagoon? 3 p.\n",
+            "displayNumber": "11.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.283162",
+          "max_score": 3,
+          "groupping": null,
+          "id": 3291525,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 51,
+              "text": "It is inaccessible to visiting locals",
+              "parent": "3a9c3ba9-d9f0-49c6-be49-d243f976e827",
+              "choices": []
+            },
+            {
+              "id": 52,
+              "text": "It has been filled with building debris",
+              "parent": "3a9c3ba9-d9f0-49c6-be49-d243f976e827",
+              "choices": []
+            },
+            {
+              "id": 53,
+              "text": "It is no longer connected to the ocean",
+              "parent": "3a9c3ba9-d9f0-49c6-be49-d243f976e827",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "3a9c3ba9-d9f0-49c6-be49-d243f976e827",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2021-06-11T09:10:30.495514"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What does Romesh Ranganathan think about the suggested change? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "What does Romesh Ranganathan think about the suggested change? 3 p.\n",
+            "displayNumber": "2.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.285458",
+          "max_score": 3,
+          "groupping": null,
+          "id": 3291176,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 13,
+              "text": "He thinks it would fail at addressing the root cause",
+              "parent": "340e7ded-5106-439a-bc55-f9107144b6dd",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 14,
+              "text": "He thinks it would increase the consumption of cigarettes",
+              "parent": "340e7ded-5106-439a-bc55-f9107144b6dd",
+              "choices": []
+            },
+            {
+              "id": 15,
+              "text": "He thinks it would punish the retail sector too severely",
+              "parent": "340e7ded-5106-439a-bc55-f9107144b6dd",
+              "choices": []
+            }
+          ],
+          "uuid": "340e7ded-5106-439a-bc55-f9107144b6dd",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2021-06-11T08:09:30.125116"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Why does Alex Brooker have his washing machine in his daughter’s room? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "Why does Alex Brooker have his washing machine in his daughter’s room? 3 p.\n",
+            "displayNumber": "2.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.287713",
+          "max_score": 3,
+          "groupping": null,
+          "id": 3291177,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 13,
+              "text": "His daughter uses it for a peculiar purpose",
+              "parent": "541d52d2-86eb-4cc5-ad85-4c8cb7fe839c",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 14,
+              "text": "His daughter entertains herself by watching it",
+              "parent": "541d52d2-86eb-4cc5-ad85-4c8cb7fe839c",
+              "choices": []
+            },
+            {
+              "id": 15,
+              "text": "His daughter washes her clothes in it every day",
+              "parent": "541d52d2-86eb-4cc5-ad85-4c8cb7fe839c",
+              "choices": []
+            }
+          ],
+          "uuid": "541d52d2-86eb-4cc5-ad85-4c8cb7fe839c",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2021-06-11T08:09:30.128364"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Miksi tutkimuksen tulokset koskettavat erityisesti teksasilaisia puuvillan viljelijöitä? (max 100 characters) 3 p.\n",
+          "deleted_at": null,
+          "feedback": "Sallitun merkkimäärän ylittämisestä vähennetään 1 piste.\n\n• Osa / 10 % siellä viljellystä/kasvatetusta puuvillasta on kasaan painuvaa / luhistuvaa/tätä/kyseistä\n\ntyyppiä/lajia. (3/0 p.)\n\nOK: Tätä puuvillatyyppiä kasvaa/viljellään (juuri) Teksasissa\n\nEI: Suurin osa\n\nEI: Yli 10 %\n\nEI: 10 % tästä lajikkeesta kasvaa Teksasissa\n\nEI: 10 % viljelijöistä kasvattaa tätä puuvillatyyppiä\n\nEI: Puuvillatyyppiä voi viljellä Teksasissa (voi viljellä muuallakin)\n\nEI: Se, mitä he viljelevät, on tätä puuvillatyyppiä (liian kategorinen)\n",
+          "exam_id": 102392,
+          "content": {
+            "text": "Miksi tutkimuksen tulokset koskettavat erityisesti teksasilaisia puuvillan viljelijöitä? (max 100 characters) 3 p.\n",
+            "displayNumber": "5.3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.290047",
+          "max_score": null,
+          "groupping": null,
+          "id": 3291294,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "eecd1e13-c46b-49fb-a63a-cc5a11ff75d5",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2021-06-11T08:51:20.030607"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Miten asukkaiden terveydenhuoltokustannukset rahoitettiin alkuaikoina? (max 100 characters) 3 p.\n",
+          "deleted_at": null,
+          "feedback": "Sallitun merkkimäärän ylittämisestä vähennetään 1 piste.\n\n&NewLine;\n\n• (Verdin teosten/töiden) tekijänoikeusmaksuilla/rojalteilla/käyttöoikeustuotoilla/Teosto-maksuilla/\n\ntilityksillä / (Verdin) töiden/teosten tuotoilla/tuloilla/tienesteillä/ansioilla/korvauksilla/palkkioilla (3/0 p.)\n\nOK: Verdin perinnöllä\n\nOK: Verdin töistä maksetuilla rahoilla\n\nEI: Teokset myytiin ja siitä saatiin tuloja\n\nEI: Palkoilla, Verdin tienesteillä\n\nEI: Verdin tekijänoikeuksistaan saamilla tuotoilla\n\nEI: Verdin teoksilla/sävellyksillä (pelkästään)\n\nEI: Aikaisempien töiden tuotoilla\n",
+          "exam_id": 102392,
+          "content": {
+            "text": "Miten asukkaiden terveydenhuoltokustannukset rahoitettiin alkuaikoina? (max 100 characters) 3 p.\n",
+            "displayNumber": "14.2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.292237",
+          "max_score": null,
+          "groupping": null,
+          "id": 3291745,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "c5306a68-db8f-4522-b250-ed8d9f135ab3",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2021-06-11T09:25:56.405303"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Which of the following pictures best portrays Ellis Meikle? 3 p.\n\n&NewLine;\n\n[LINK text=Katso vastausvaihtoehtojen kuvat täältä.|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/index.html#13.3]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "Which of the following pictures best portrays Ellis Meikle? 3 p.\n\n&NewLine;\n\n[LINK text=Katso vastausvaihtoehtojen kuvat täältä.|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/index.html#13.3]\n",
+            "displayNumber": "13.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.294364",
+          "max_score": 3,
+          "groupping": null,
+          "id": 3291662,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 61,
+              "text": "Kuva 1",
+              "parent": "fd63cb9b-d95c-4a32-94f0-c227aafe16f7",
+              "choices": []
+            },
+            {
+              "id": 62,
+              "text": "Kuva 2",
+              "parent": "fd63cb9b-d95c-4a32-94f0-c227aafe16f7",
+              "choices": []
+            },
+            {
+              "id": 63,
+              "text": "Kuva 3",
+              "parent": "fd63cb9b-d95c-4a32-94f0-c227aafe16f7",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "fd63cb9b-d95c-4a32-94f0-c227aafe16f7",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2021-06-11T09:23:00.358663"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Choose a caption that best describes the photo. 2 p.\n\n&NewLine;\n\n[LINK text=Katso kuva täältä.|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/index.html#10.1.]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "Choose a caption that best describes the photo. 2 p.\n\n&NewLine;\n\n[LINK text=Katso kuva täältä.|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/index.html#10.1.]\n",
+            "displayNumber": "10.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.296778",
+          "max_score": 2,
+          "groupping": null,
+          "id": 3291408,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 45,
+              "text": "When you can’t find the sunshine, be the sunshine.",
+              "parent": "6218cf4d-c3fb-4c85-bdf7-4852054a4190",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 46,
+              "text": "Clear your mind of can’t.",
+              "parent": "6218cf4d-c3fb-4c85-bdf7-4852054a4190",
+              "choices": []
+            },
+            {
+              "id": 47,
+              "text": "Growing up is a trap!",
+              "parent": "6218cf4d-c3fb-4c85-bdf7-4852054a4190",
+              "choices": []
+            },
+            {
+              "id": 48,
+              "text": "Not looking a day over fabulous!",
+              "parent": "6218cf4d-c3fb-4c85-bdf7-4852054a4190",
+              "choices": []
+            },
+            {
+              "id": 49,
+              "text": "Forget the butterflies, I feel the whole zoo when I’m with you.",
+              "parent": "6218cf4d-c3fb-4c85-bdf7-4852054a4190",
+              "choices": []
+            },
+            {
+              "id": 50,
+              "text": "You are what you do, not what you say you’ll do.",
+              "parent": "6218cf4d-c3fb-4c85-bdf7-4852054a4190",
+              "choices": []
+            }
+          ],
+          "uuid": "6218cf4d-c3fb-4c85-bdf7-4852054a4190",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2021-06-11T09:05:42.179115"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mikä paikka Saughton on? (max 100 characters) 3 p.\n",
+          "deleted_at": null,
+          "feedback": "Sallitun merkkimäärän ylittämisestä vähennetään 1 piste.\n\n&NewLine;\n\n• Vankila/rangaistuslaitos/vankimielisairaala (3/0 p.)\n\nOK: Vankilan vierailuhuone/perhehuone\n\nOK: Vankila tai muu vastaava suljettu laitos\n\nOK: Vankilan tapainen/oloinen paikka\n\nOK: Hyvin turvallinen vankila (vankilan yleinen ominaisuus)\n\nEI: Kuntoutuslaitos/mielisairaala\n\nEI: Vankila vaarallisille/nuorille vangeille (väärää spesifiä tietoa)\n\nEI: Putka, poliisilaitos\n",
+          "exam_id": 102392,
+          "content": {
+            "text": "Mikä paikka Saughton on? (max 100 characters) 3 p.\n",
+            "displayNumber": "13.1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.298846",
+          "max_score": null,
+          "groupping": null,
+          "id": 3291659,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "1ec1d39c-5fbe-4d11-ada1-827ebbc1044b",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2021-06-11T09:23:00.349765"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What could be an alternative heading for the text? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "What could be an alternative heading for the text? 3 p.\n",
+            "displayNumber": "9.6."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.301192",
+          "max_score": 3,
+          "groupping": null,
+          "id": 5611111,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 42,
+              "text": "Don’t make a mountain out of a molehill",
+              "parent": "744a7f29-200e-4576-a552-098f1b232ac1",
+              "choices": []
+            },
+            {
+              "id": 43,
+              "text": "Don’t judge a book by its cover",
+              "parent": "744a7f29-200e-4576-a552-098f1b232ac1",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 44,
+              "text": "Don’t bark up the wrong tree",
+              "parent": "744a7f29-200e-4576-a552-098f1b232ac1",
+              "choices": []
+            }
+          ],
+          "uuid": "744a7f29-200e-4576-a552-098f1b232ac1",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2023-05-11T14:02:56.842995"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Miten taiteilijakodin asumismaksut määräytyvät nykyään? (max 100 characters) 3 p.\n",
+          "deleted_at": null,
+          "feedback": "Sallitun merkkimäärän ylittämisestä vähennetään 1 piste.\n\n• Kunkin asukkaan varallisuuden/kyvyn/kyvykkyytensä/mahdollisuuksiensa/tulojensa/(raha)tilanteensa mukaan\n\n(3/0 p.)\n\nEI: Tarpeiden/käyttönsä/keinojensa mukaan\n\nEI: Osa/loput asukkailta (liian epämääräinen)\n\nEI: Asukkaat päättävät itse kuinka paljon maksavat, maksavat kuinka paljon huvittaa, maksavat\n\nomantunnon mukaan\n",
+          "exam_id": 102392,
+          "content": {
+            "text": "Miten taiteilijakodin asumismaksut määräytyvät nykyään? (max 100 characters) 3 p.\n",
+            "displayNumber": "14.3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.303461",
+          "max_score": null,
+          "groupping": null,
+          "id": 3291746,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "6c3258a7-9b00-476f-8026-ac01a9c6436e",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2021-06-11T09:25:56.407792"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Why is Graeme Muller worried about the election? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "Why is Graeme Muller worried about the election? 3 p.\n",
+            "displayNumber": "9.4."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.305807",
+          "max_score": 3,
+          "groupping": null,
+          "id": 5611109,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 42,
+              "text": "New kinds of methods may be attempted in producing a scam",
+              "parent": "7c608d9b-95bf-4792-8ad9-f906516c6e63",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 43,
+              "text": "US corporations are likely to try to influence the results",
+              "parent": "7c608d9b-95bf-4792-8ad9-f906516c6e63",
+              "choices": []
+            },
+            {
+              "id": 44,
+              "text": "Authorities are helpless in confronting fake news",
+              "parent": "7c608d9b-95bf-4792-8ad9-f906516c6e63",
+              "choices": []
+            }
+          ],
+          "uuid": "7c608d9b-95bf-4792-8ad9-f906516c6e63",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2023-05-11T14:02:56.836265"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Before the Lagoon Was Lost 6 p.**\n\n&NewLine;\n\nRead the text carefully and choose the correct alternative.\n\n&NewLine;\n\nMaterial\n\n[LINK text=11.A Text: Before the Lagoon Was Lost|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/attachments/index.html#11.A]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "**Before the Lagoon Was Lost 6 p.**\n\n&NewLine;\n\nRead the text carefully and choose the correct alternative.\n\n&NewLine;\n\nMaterial\n\n[LINK text=11.A Text: Before the Lagoon Was Lost|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/attachments/index.html#11.A]\n",
+            "questionType": "reading",
+            "displayNumber": "11."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "e6956b72-d5ab-491c-abc0-bb43e621499f",
+            "3a9c3ba9-d9f0-49c6-be49-d243f976e827"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-03-20T09:55:28.307897",
+          "max_score": null,
+          "groupping": null,
+          "id": 3291523,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "78d75ac7-15b8-481c-a7ed-003f4687aea3",
+          "order_number": 14,
+          "multipart": true,
+          "created_at": "2021-06-11T09:10:30.49002"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Dialogue 2**\n\n&NewLine;\n\n[LINK text=The whole recording|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/index.html#6.3.]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "**Dialogue 2**\n\n&NewLine;\n\n[LINK text=The whole recording|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/index.html#6.3.]\n"
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.310196",
+          "max_score": 1,
+          "groupping": null,
+          "id": 3291303,
+          "question_type": "CUSTOMIZED_FEEDBACK",
+          "options": [],
+          "uuid": "2cad263b-9e7b-4af9-9237-1c104c66de8a",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2021-06-11T08:51:20.058339"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Which of the following statements describes the narrator’s line of thinking best? 3 p.\n\n&NewLine;\n\n[LINK text=The passage related to questions 1.1 and 1.2|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/index.html#1]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "Which of the following statements describes the narrator’s line of thinking best? 3 p.\n\n&NewLine;\n\n[LINK text=The passage related to questions 1.1 and 1.2|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/index.html#1]\n",
+            "displayNumber": "1.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.312223",
+          "max_score": 3,
+          "groupping": null,
+          "id": 3291134,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "text": "Decisions ultimately have logical consequences",
+              "parent": "9446daac-38e2-4a20-87c2-654385066b33",
+              "choices": []
+            },
+            {
+              "id": 2,
+              "text": "The outcome of decisions determines their morality",
+              "parent": "9446daac-38e2-4a20-87c2-654385066b33",
+              "choices": []
+            },
+            {
+              "id": 3,
+              "text": "The ability to make decisions is just an illusion",
+              "parent": "9446daac-38e2-4a20-87c2-654385066b33",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "9446daac-38e2-4a20-87c2-654385066b33",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2021-06-11T07:50:39.472394"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Books to Watch For 15 p.**\n\n&NewLine;\n\nRead the book descriptions and answer the questions.\n\n&NewLine;\n\nMaterial\n\n[LINK text=12.A Text: Books to Watch For|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/attachments/index.html#12.A]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "**Books to Watch For 15 p.**\n\n&NewLine;\n\nRead the book descriptions and answer the questions.\n\n&NewLine;\n\nMaterial\n\n[LINK text=12.A Text: Books to Watch For|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/attachments/index.html#12.A]\n",
+            "questionType": "reading",
+            "displayNumber": "12."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "1639b36d-3244-43e4-8b74-b02e3e3af3f7",
+            "243f1e4b-8050-4448-8e42-85f87213aac5",
+            "1574953e-e45a-4c63-ab48-3bfc37c85bca",
+            "0cce0023-e844-49fb-ad67-b8672992b12f",
+            "4fbd9d19-168c-4344-8ff2-b8f74a7b847c"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-03-20T09:55:28.314469",
+          "max_score": null,
+          "groupping": null,
+          "id": 3291586,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "f8ea8980-2f19-4efc-a6c3-0db5f5a89583",
+          "order_number": 15,
+          "multipart": true,
+          "created_at": "2021-06-11T09:16:55.773371"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Which of the following words characterizes the wife’s reply best? 3 p.\n\n&NewLine;\n\n[LINK text=The passage related to questions 1.3 and 1.4|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/index.html#1]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "Which of the following words characterizes the wife’s reply best? 3 p.\n\n&NewLine;\n\n[LINK text=The passage related to questions 1.3 and 1.4|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/index.html#1]\n",
+            "displayNumber": "1.4."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.316662",
+          "max_score": 3,
+          "groupping": null,
+          "id": 3291137,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 10,
+              "text": "Tentative",
+              "parent": "80d152de-e3df-41e4-99e8-57136ee6eb9d",
+              "choices": []
+            },
+            {
+              "id": 11,
+              "text": "Consistent",
+              "parent": "80d152de-e3df-41e4-99e8-57136ee6eb9d",
+              "choices": []
+            },
+            {
+              "id": 12,
+              "text": "Resolute",
+              "parent": "80d152de-e3df-41e4-99e8-57136ee6eb9d",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "80d152de-e3df-41e4-99e8-57136ee6eb9d",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2021-06-11T07:50:39.481328"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Why did the narrator tell his wife about the bakery attack? 3 p.\n\n&NewLine;\n\n[LINK text=The passage related to questions 1.1 and 1.2|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/index.html#1]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "Why did the narrator tell his wife about the bakery attack? 3 p.\n\n&NewLine;\n\n[LINK text=The passage related to questions 1.1 and 1.2|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/index.html#1]\n",
+            "displayNumber": "1.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.318812",
+          "max_score": 3,
+          "groupping": null,
+          "id": 3291135,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 4,
+              "text": "Being famished served as a memory cue",
+              "parent": "64335881-eb13-424e-97b0-9203dbf0c7c3",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 5,
+              "text": "There were loud noises coming from outside",
+              "parent": "64335881-eb13-424e-97b0-9203dbf0c7c3",
+              "choices": []
+            },
+            {
+              "id": 6,
+              "text": "Thinking about it caused him insomnia",
+              "parent": "64335881-eb13-424e-97b0-9203dbf0c7c3",
+              "choices": []
+            }
+          ],
+          "uuid": "64335881-eb13-424e-97b0-9203dbf0c7c3",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2021-06-11T07:50:39.474887"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mitkä kaksi asiaa mainitun julkkiksen nimessä saivat ensimmäisen puhujan epäuskoiseksi? (max 100 characters) 6 p.\n",
+          "deleted_at": null,
+          "feedback": "Sallitun merkkimäärän ylittämisestä vähennetään 1 piste.\n\n&NewLine;\n\n• Se oli sekoitus kahden julkkiksen nimistä / Hän sekoitti kaksi ihmistä/miestä (3/0 p.)\n\nOK: Nimi oli muunnelma kahden julkkiksen nimistä\n\n&NewLine;\n\nEI: Mainitsi kaksi eri nimeä\n\nEI: Sekoittaa kaksi eri ihmistä julkkikseksi\n\n&NewLine;\n\n• Molemmat olivat kuolleet (3/0 p.)\n\nEI: Puhuja luuli julkkiksen kuolleen\n",
+          "exam_id": 102392,
+          "content": {
+            "text": "Mitkä kaksi asiaa mainitun julkkiksen nimessä saivat ensimmäisen puhujan epäuskoiseksi? (max 100 characters) 6 p.\n",
+            "displayNumber": "4.2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.320893",
+          "max_score": null,
+          "groupping": null,
+          "id": 3291208,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "bfcb3cb9-680f-4151-a98c-27accff9e9ac",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2021-06-11T08:13:17.148012"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Which book would you recommend to someone who likes sibling relationships? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "Which book would you recommend to someone who likes sibling relationships? 3 p.\n",
+            "displayNumber": "12.4."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.323368",
+          "max_score": 3,
+          "groupping": null,
+          "id": 3291590,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 54,
+              "text": "American Dirt",
+              "parent": "0cce0023-e844-49fb-ad67-b8672992b12f",
+              "choices": []
+            },
+            {
+              "id": 55,
+              "text": "Black Wave",
+              "parent": "0cce0023-e844-49fb-ad67-b8672992b12f",
+              "choices": []
+            },
+            {
+              "id": 56,
+              "text": "Cleanness",
+              "parent": "0cce0023-e844-49fb-ad67-b8672992b12f",
+              "choices": []
+            },
+            {
+              "id": 57,
+              "text": "Hitting a Straight Lick …",
+              "parent": "0cce0023-e844-49fb-ad67-b8672992b12f",
+              "choices": []
+            },
+            {
+              "id": 58,
+              "text": "Long Bright River",
+              "parent": "0cce0023-e844-49fb-ad67-b8672992b12f",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 59,
+              "text": "Tightrope…",
+              "parent": "0cce0023-e844-49fb-ad67-b8672992b12f",
+              "choices": []
+            },
+            {
+              "id": 60,
+              "text": "Uncanny Valley",
+              "parent": "0cce0023-e844-49fb-ad67-b8672992b12f",
+              "choices": []
+            }
+          ],
+          "uuid": "0cce0023-e844-49fb-ad67-b8672992b12f",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2021-06-11T09:16:55.783761"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "The authors are careful to show not just misery but moments of optimism and **resilience**, too. 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "The authors are careful to show not just misery but moments of optimism and **resilience**, too. 3 p.\n",
+            "displayNumber": "16.6."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.325606",
+          "max_score": 3,
+          "groupping": null,
+          "id": 3293656,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 74,
+              "text": "positivity",
+              "parent": "4f1c2214-c383-4641-b9ad-495bd5e20538",
+              "choices": []
+            },
+            {
+              "id": 75,
+              "text": "flexibility",
+              "parent": "4f1c2214-c383-4641-b9ad-495bd5e20538",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 76,
+              "text": "mutuality",
+              "parent": "4f1c2214-c383-4641-b9ad-495bd5e20538",
+              "choices": []
+            }
+          ],
+          "uuid": "4f1c2214-c383-4641-b9ad-495bd5e20538",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2021-06-11T13:12:05.208364"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kacey is an addict, living on the streets, while Mickey, a police officer, does her best to** keep tabs on** her sister. 2 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "Kacey is an addict, living on the streets, while Mickey, a police officer, does her best to** keep tabs on** her sister. 2 p.\n",
+            "displayNumber": "16.5."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.32777",
+          "max_score": 2,
+          "groupping": null,
+          "id": 3293655,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 74,
+              "text": "reconnect with",
+              "parent": "63378c56-5a4c-40b1-97c3-83161ccec6ca",
+              "choices": []
+            },
+            {
+              "id": 75,
+              "text": "take control of",
+              "parent": "63378c56-5a4c-40b1-97c3-83161ccec6ca",
+              "choices": []
+            },
+            {
+              "id": 76,
+              "text": "look after",
+              "parent": "63378c56-5a4c-40b1-97c3-83161ccec6ca",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "63378c56-5a4c-40b1-97c3-83161ccec6ca",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2021-06-11T13:12:05.20596"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Desire, longing and taboo all **converge** here, as the teacher reflects on the encounters and relationships that shaped him. 2 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "Desire, longing and taboo all **converge** here, as the teacher reflects on the encounters and relationships that shaped him. 2 p.\n",
+            "displayNumber": "16.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.329794",
+          "max_score": 2,
+          "groupping": null,
+          "id": 3293653,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 74,
+              "text": "drizzle",
+              "parent": "a4f995fd-91c1-4898-8481-d3b22669e07f",
+              "choices": []
+            },
+            {
+              "id": 75,
+              "text": "mingle",
+              "parent": "a4f995fd-91c1-4898-8481-d3b22669e07f",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 76,
+              "text": "trickle",
+              "parent": "a4f995fd-91c1-4898-8481-d3b22669e07f",
+              "choices": []
+            }
+          ],
+          "uuid": "a4f995fd-91c1-4898-8481-d3b22669e07f",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2021-06-11T13:12:05.200232"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "This novel is a heart-stopping story of survival, danger and love, as they undertake the **grueling** journey to the United States. 2 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "This novel is a heart-stopping story of survival, danger and love, as they undertake the **grueling** journey to the United States. 2 p.\n",
+            "displayNumber": "16.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.33183",
+          "max_score": 2,
+          "groupping": null,
+          "id": 3293651,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 68,
+              "text": "revengeful",
+              "parent": "3f59e242-32c3-4fad-a1eb-993028f5a8ad",
+              "choices": []
+            },
+            {
+              "id": 69,
+              "text": "violent",
+              "parent": "3f59e242-32c3-4fad-a1eb-993028f5a8ad",
+              "choices": []
+            },
+            {
+              "id": 70,
+              "text": "exhausting",
+              "parent": "3f59e242-32c3-4fad-a1eb-993028f5a8ad",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "3f59e242-32c3-4fad-a1eb-993028f5a8ad",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2021-06-11T13:12:05.195003"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Part 3: Grammar and Vocabulary\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "### Part 3: Grammar and Vocabulary\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-03-20T09:55:28.333891",
+          "max_score": null,
+          "groupping": null,
+          "id": 3291923,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "05541412-0d26-4cff-8fc4-8cc8ca438868",
+          "order_number": 19,
+          "multipart": true,
+          "created_at": "2021-06-11T09:33:07.123691"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mitä Rebusin lääkkeelle tapahtui? (max 100 characters) 3 p.\n",
+          "deleted_at": null,
+          "feedback": "Sallitun merkkimäärän ylittämisestä vähennetään 1 piste.\n\n&NewLine;\n\n• Ei mitään / Hän sai pitää sen mukanaan / Sai luvan pitää sen / Siitä kysyttiin / Sen hallussapitoa\n\nselvitettiin / Joutui selittämään mikä se on. (3/0 p.)\n\nOK: Monikko ok\n\nOK: Astmapiippu/inhalaattori\n\nOK: Lääkkeet meinattiin ottaa pois (häneltä)\n\nEI: Hengityskone/hengityslaite\n\nEI: Ne tarkastettiin/tutkittiin\n\nEI: Luultiin huumeiksi ja siksi tarkistettiin\n\nEI: Se vietiin (pois)\n",
+          "exam_id": 102392,
+          "content": {
+            "text": "Mitä Rebusin lääkkeelle tapahtui? (max 100 characters) 3 p.\n",
+            "displayNumber": "13.2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.336554",
+          "max_score": null,
+          "groupping": null,
+          "id": 3291660,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "3b5d5b36-2b21-4bf3-a40b-c027c92333ca",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2021-06-11T09:23:00.353106"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Part 2: Reading Comprehension\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "### Part 2: Reading Comprehension\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-03-20T09:55:28.338643",
+          "max_score": null,
+          "groupping": null,
+          "id": 3291399,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "ac2ae9bd-c36b-42c2-ab8c-22921bc839c7",
+          "order_number": 11,
+          "multipart": true,
+          "created_at": "2021-06-11T09:05:42.151749"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Dialogue 1**\n\n&NewLine;\n\n[LINK text=The whole recording|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/index.html#6.1.]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "**Dialogue 1**\n\n&NewLine;\n\n[LINK text=The whole recording|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-22\\_EA\\_fi/index.html#6.1.]\n"
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.340959",
+          "max_score": 1,
+          "groupping": null,
+          "id": 3291302,
+          "question_type": "CUSTOMIZED_FEEDBACK",
+          "options": [],
+          "uuid": "8a9caa1c-7f58-493c-81e7-97384f085c72",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2021-06-11T08:51:20.055981"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What is the male speaker undecided about? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "What is the male speaker undecided about? 3 p.\n",
+            "displayNumber": "6.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-03-20T09:55:28.343299",
+          "max_score": 3,
+          "groupping": null,
+          "id": 3291296,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 22,
+              "text": "Whether to join a humanitarian aid project",
+              "parent": "c311a160-7a02-4f23-8e7e-dafe4130bc7e",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 23,
+              "text": "Whether to change what he’s majoring in",
+              "parent": "c311a160-7a02-4f23-8e7e-dafe4130bc7e",
+              "choices": []
+            },
+            {
+              "id": 24,
+              "text": "Whether to be employed by a global corporation",
+              "parent": "c311a160-7a02-4f23-8e7e-dafe4130bc7e",
+              "choices": []
+            }
+          ],
+          "uuid": "c311a160-7a02-4f23-8e7e-dafe4130bc7e",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2021-06-11T08:51:20.040015"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Part 1: Listening Comprehension\n\nKoe sisältää kuullunymmärtämisen tehtäviä.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 102392,
+          "content": {
+            "text": "### Part 1: Listening Comprehension\n\nKoe sisältää kuullunymmärtämisen tehtäviä.\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-03-20T09:55:28.34537",
+          "max_score": null,
+          "groupping": null,
+          "id": 3291132,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "4a21bc69-a308-49f4-a1f7-68ba355b5e84",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2021-06-11T07:50:39.466412"
+        }
+      ],
+      "name": "Englanti, pitkä oppimäärä kevät 2021",
+      "settings": {
+        "overrideTitle": true
+      },
+      "exam_type": "yo-koe",
+      "classification": {
+        "category": "digital-exam",
+        "disable_saving": false,
+        "hide_review_buttons": false,
+        "exam_type": "yo-koe",
+        "year": "2021",
+        "language": "fi-FI",
+        "hide_statistics": false,
+        "show_exam_series": false,
+        "force_yletunnus": false,
+        "subject": "englanti-pitkä",
+        "published": true,
+        "semester": "spring"
+      },
+      "published_at": "2021-06-11T13:39:30.000Z",
+      "language": "fi-FI",
+      "id": 102392,
+      "reviews": [],
+      "is_open": true,
+      "uuid": "60b900e2-9d51-4a86-aa6d-9ef6ca465921"
+    }
+  ]
+}

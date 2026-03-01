@@ -1,0 +1,436 @@
+{
+  "meta": {
+    "count": 1
+  },
+  "data": [
+    {
+      "tags": [
+        ""
+      ],
+      "main_text": "**Enintään 6 tehtävään saa vastata. Tehtävät arvostellaan pistein 0-6, paitsi muita vaativammat, +:lla merkityt jokeritehtävät, jotka arvostellaan pistein 0-9. Moniosaisissa, esimerkiksi a-, b- ja c-kohdan sisältävissä tehtävissä voidaan erikseen ilmoittaa eri alakohtien enimmäispistemäärät.**\n",
+      "characters": null,
+      "deleted_at": null,
+      "series_uuids": [],
+      "questions": [
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-205512",
+            "18-252840"
+          ],
+          "main_text": "Selosta psykologisen tiedon pohjalta, miten sosiaalinen ja kulttuurinen ympäristö vaikuttavat tunteiden säätelyyn ja ilmaisuun\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1331,
+          "content": {
+            "text": "Selosta psykologisen tiedon pohjalta, miten sosiaalinen ja kulttuurinen ympäristö vaikuttavat tunteiden säätelyyn ja ilmaisuun\n",
+            "displayNumber": "5."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T09:34:56.073245",
+          "max_score": null,
+          "groupping": null,
+          "id": 20009,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "6702e980-72a0-4fbb-80f7-1341cafdcbec",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2017-06-09T10:47:57.757705"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "asiasta vaikeneminen ja (3 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1331,
+          "content": {
+            "text": "asiasta vaikeneminen ja (3 p.)\n",
+            "displayNumber": "a) "
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-07-19T09:34:56.079464",
+          "max_score": null,
+          "groupping": null,
+          "id": 20269,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "f7362ab7-047a-47ab-9dd9-ab51b3931ce4",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-06-09T11:02:39.722645"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "kiusaajien rankaiseminen. (3 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1331,
+          "content": {
+            "text": "kiusaajien rankaiseminen. (3 p.)\n",
+            "displayNumber": "b)"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-07-19T09:34:56.076317",
+          "max_score": null,
+          "groupping": null,
+          "id": 20270,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "d705c92e-0fe7-4e53-b46d-53850e719468",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2017-06-09T11:02:39.725821"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-204676",
+            "18-252837"
+          ],
+          "main_text": "Pohdi lukio-opiskeluun liittyvien esimerkkien avulla, millainen on hyvä oppimisympäristö.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1331,
+          "content": {
+            "text": "Pohdi lukio-opiskeluun liittyvien esimerkkien avulla, millainen on hyvä oppimisympäristö.\n",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T09:34:56.08236",
+          "max_score": null,
+          "groupping": null,
+          "id": 19968,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "e61171d0-044a-49a6-9e89-0fde9b1e0e1b",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-06-09T10:37:54.512221"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-104758",
+            "18-252837"
+          ],
+          "main_text": "Tahdonvapaus on paljon pohdittu kysymys arjessa, filosofiassa ja psykologiassa. Pohdi psykologiaan nojaten, mitkä psykologiset tekijät rajoittavat ja mitkä edistävät yksilön valintojen vapautta.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1331,
+          "content": {
+            "text": "Tahdonvapaus on paljon pohdittu kysymys arjessa, filosofiassa ja psykologiassa. Pohdi psykologiaan nojaten, mitkä psykologiset tekijät rajoittavat ja mitkä edistävät yksilön valintojen vapautta.\n",
+            "displayNumber": "+10."
+          },
+          "images": null,
+          "settings": {
+            "joker": true,
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T09:34:56.085433",
+          "max_score": null,
+          "groupping": null,
+          "id": 20559,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "98dad196-d6a4-469e-84d6-08d0b3e53fb1",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2017-06-09T11:06:43.67519"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252839",
+            "18-210286"
+          ],
+          "main_text": "Millä perusteilla voidaan väittää, että aivot ja psyykkiset toiminnat ovat yhteydessä toisiinsa?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1331,
+          "content": {
+            "text": "Millä perusteilla voidaan väittää, että aivot ja psyykkiset toiminnat ovat yhteydessä toisiinsa?\n",
+            "displayNumber": "+9."
+          },
+          "images": null,
+          "settings": {
+            "joker": true,
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T09:34:56.088276",
+          "max_score": null,
+          "groupping": null,
+          "id": 20364,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "44a19451-cc6b-428c-87d4-71d25be613ce",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2017-06-09T11:04:51.835321"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252838",
+            "18-253197"
+          ],
+          "main_text": "Oheisessa kuviossa havainnollistetaan poikittais- ja pitkittäistutkimusta. Vertaile näiden kahden tutkimusasetelman vahvuuksia ja heikkouksia kehityspsykologisessa tutkimuksessa.\n\n[IMS id=39-407541593a7b56c9380|caption=Mukailtu teoksesta Cole, M., Cole S. R. & Lightfoot, C. (2005), The development of children. Fifht edition. New York: Worth]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1331,
+          "content": {
+            "text": "Oheisessa kuviossa havainnollistetaan poikittais- ja pitkittäistutkimusta. Vertaile näiden kahden tutkimusasetelman vahvuuksia ja heikkouksia kehityspsykologisessa tutkimuksessa.\n\n[IMS id=39-407541593a7b56c9380|caption=Mukailtu teoksesta Cole, M., Cole S. R. & Lightfoot, C. (2005), The development of children. Fifht edition. New York: Worth]\n",
+            "displayNumber": "3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T09:34:56.091722",
+          "max_score": null,
+          "groupping": null,
+          "id": 19990,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "7dfd1d2a-dab4-4f61-8f27-2bdd8f38f04a",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2017-06-09T10:44:17.238775"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-216307",
+            "18-252838"
+          ],
+          "main_text": "Nuorten uranvalintaan liittyy monia ongelmia ja ratkaistavia kysymyksiä. Valitse **yksi** alla olevista käsitteistä ja tarkastele nuoren uranvalintatilannetta sen antamasta näkökulmasta\n\n- selviytymisodotukset\n\n- motiiviristiriidat\n\n- minäkäsitys\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1331,
+          "content": {
+            "text": "Nuorten uranvalintaan liittyy monia ongelmia ja ratkaistavia kysymyksiä. Valitse **yksi** alla olevista käsitteistä ja tarkastele nuoren uranvalintatilannetta sen antamasta näkökulmasta\n\n- selviytymisodotukset\n\n- motiiviristiriidat\n\n- minäkäsitys\n",
+            "displayNumber": "6."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T09:34:56.094737",
+          "max_score": null,
+          "groupping": null,
+          "id": 20037,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "6372a633-944a-49e8-b80c-9f43529d5d1c",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2017-06-09T10:49:14.911093"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-205838",
+            "18-252838",
+            "18-215968"
+          ],
+          "main_text": "Mikä merkitys leikillä on lapsen kehitykselle?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1331,
+          "content": {
+            "text": "Mikä merkitys leikillä on lapsen kehitykselle?\n",
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T09:34:56.104453",
+          "max_score": null,
+          "groupping": null,
+          "id": 19969,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "132a8a31-5dcd-472c-9366-3dea11ef7554",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2017-06-09T10:37:54.516847"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-252838",
+            "18-253197"
+          ],
+          "main_text": "Yhteiskunnallisesti ja inhimillisesti merkittävissä tutkimuksissa on usein eettisesti herkkiä näkökohtia. Tutkija Harry Harlow osoitti apinoilla tehtyjen kokeellisten tutkimusten avulla, että läheiset suhteet ovat elintärkeitä ja että niiden laadulla on ratkaiseva merkitys seksuaalisen, emotionaalisen ja sosiaalisen kehityksen kannalta. Koesarjassa apinanpoikasia kohdeltiin huonosti ja tämän kohtelun takia niistä tuli pelokkaita ja ahdistuneita. Täydellisen sosiaalisen eristyksen tuloksena oli vakavia tunne-elämän ja sosiaalisten taitojen häiriöitä. Pohdi näihin kokeellisiin tutkimuksiin liittyviä tutkimuseettisiä ongelmia.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1331,
+          "content": {
+            "text": "Yhteiskunnallisesti ja inhimillisesti merkittävissä tutkimuksissa on usein eettisesti herkkiä näkökohtia. Tutkija Harry Harlow osoitti apinoilla tehtyjen kokeellisten tutkimusten avulla, että läheiset suhteet ovat elintärkeitä ja että niiden laadulla on ratkaiseva merkitys seksuaalisen, emotionaalisen ja sosiaalisen kehityksen kannalta. Koesarjassa apinanpoikasia kohdeltiin huonosti ja tämän kohtelun takia niistä tuli pelokkaita ja ahdistuneita. Täydellisen sosiaalisen eristyksen tuloksena oli vakavia tunne-elämän ja sosiaalisten taitojen häiriöitä. Pohdi näihin kokeellisiin tutkimuksiin liittyviä tutkimuseettisiä ongelmia.\n",
+            "displayNumber": "8."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T09:34:56.107365",
+          "max_score": null,
+          "groupping": null,
+          "id": 20271,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "9a31b8cf-76cf-4fdb-81f3-6647c93c4952",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2017-06-09T11:02:39.7288"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-208925",
+            "18-252839"
+          ],
+          "main_text": "Monet taidot, kuten urheilu, jonkin instrumentin soittaminen, autolla ajo tai tanssiminen, ovat monimutkaisia ja edellyttävät usean asian tekemistä yhtäaikaisesti. Esittele yksi vapaasti valitsemasi harrastus tai arkielämän taito, jossa on yhtäaikaa tehtävä useita asioita. Erittele psykologian tietoihin nojaten, miten ja mistä syistä taituri eli pitkälle edennyt henkilö suoriutuu kyseisestä toiminnasta aloittelijaa paremmin.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1331,
+          "content": {
+            "text": "Monet taidot, kuten urheilu, jonkin instrumentin soittaminen, autolla ajo tai tanssiminen, ovat monimutkaisia ja edellyttävät usean asian tekemistä yhtäaikaisesti. Esittele yksi vapaasti valitsemasi harrastus tai arkielämän taito, jossa on yhtäaikaa tehtävä useita asioita. Erittele psykologian tietoihin nojaten, miten ja mistä syistä taituri eli pitkälle edennyt henkilö suoriutuu kyseisestä toiminnasta aloittelijaa paremmin.\n",
+            "displayNumber": "4."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T09:34:56.097598",
+          "max_score": null,
+          "groupping": null,
+          "id": 19994,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "1305ce78-0c86-4071-9f79-94a953bcc376",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2017-06-09T10:46:53.596627"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-219892",
+            "18-252838",
+            "18-216476"
+          ],
+          "main_text": "_”Kouluväkivalta on varsin yleinen ja monimuotoinen ongelmavyyhti, joka liittyy yleiseen väkivallan ongelmaan yhteiskunnassa. Siihen on puututtava sekä yksilön että yhteiskunnan vuoksi. Ala-asteella ohjelmien vaikutus voi olla tehokkaampi kuin yläasteella. Vaikka ei voida sanoa, mikä on paras käytäntö koulukiusaamisen ehkäisyssä, on tärkeää, että jokainen koulu tuntee ongelman ja laatii tarpeitansa vastaavan ohjelman sen ennaltaehkäisemiseksi osana koulun normaalia toimintaa ja kehittämistä. Ehkäisyohjelman suunnittelu koko kouluyhteisön, oppilaitten ja mahdollisuuksien mukaan myös heidän vanhempiensa ja asiantuntijoiden välisenä yhteistyönä, johon kaikki osapuolet sitoutuvat, luo pohjaa myös toiminnalle yhteiskunnassa demokraattisten pelisääntöjen mukaan. _\n\n_Kouluväkivallan ennaltaehkäisyssä erilliset ohjelmat tai pelkästään kiusaajiin ja uhreihin kohdistetut toimenpiteet eivät riitä. Tarvitaan koko kouluyhteisöä koskevia toimenpiteitä, joita on päädytty suosittelemaan myös tutkimuksissa, jotka ovat koskeneet tietyille ongelmaryhmille tarkoitettuja ohjelmia. Kaikkiin oppilaisiin kohdistuvat toimet, joita voidaan tarpeen mukaan täydentää erityisryhmiä koskevilla toimenpiteillä, ovat perusteltuja myös siksi, että itse asiassa kiusaaminen koskee kaikkia oppilaita eri osallistumisroolien kautta ja jokainen on osaltaan siitä vastuussa ja voi siihen vaikuttaa. _\n\n_Kouluväkivallassa painopiste tulee asettaa primääriehkäisyyn ja tarkastella asiaa laajasta näkökulmasta, mukaan lukien sellaisten koulutuspoliittisten toimien vaikutus kuten syrjäytymisen ehkäisy, kaikkien koulumenestyksen turvaaminen, tilan antaminen tunteille ja eräänä keskeisenä kysymyksenä sukupuolten välinen tasa-arvo. Suvaitsevaisuuden ja demokraattisten pelisääntöjen soveltaminen on välttämätöntä, samoin opettajien valmiuksien ja erityisesti luokan johtamistaitojen kehittäminen.”_\n\n[CITE source=Lähde: Savolainen, Kaisa (2005), Kouluväkivallan ennaltaehkäisyssä laajaan näkökulmaan. Psykologia 4, 370-383. Tekstistä on poistettu tekstin sisäiset lähdeviitteet.]\n\nOhessa on koulukiusaamista ja -väkivaltaa käsittelevän artikkelin lopputiivistelmä. Arvioi tekstin ja muun psykologisen tiedon perusteella, miten toimivia koulukiusaamisen käsittely- ja ehkäisykeinoja ovat\n\n​\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 1331,
+          "content": {
+            "text": "_”Kouluväkivalta on varsin yleinen ja monimuotoinen ongelmavyyhti, joka liittyy yleiseen väkivallan ongelmaan yhteiskunnassa. Siihen on puututtava sekä yksilön että yhteiskunnan vuoksi. Ala-asteella ohjelmien vaikutus voi olla tehokkaampi kuin yläasteella. Vaikka ei voida sanoa, mikä on paras käytäntö koulukiusaamisen ehkäisyssä, on tärkeää, että jokainen koulu tuntee ongelman ja laatii tarpeitansa vastaavan ohjelman sen ennaltaehkäisemiseksi osana koulun normaalia toimintaa ja kehittämistä. Ehkäisyohjelman suunnittelu koko kouluyhteisön, oppilaitten ja mahdollisuuksien mukaan myös heidän vanhempiensa ja asiantuntijoiden välisenä yhteistyönä, johon kaikki osapuolet sitoutuvat, luo pohjaa myös toiminnalle yhteiskunnassa demokraattisten pelisääntöjen mukaan. _\n\n_Kouluväkivallan ennaltaehkäisyssä erilliset ohjelmat tai pelkästään kiusaajiin ja uhreihin kohdistetut toimenpiteet eivät riitä. Tarvitaan koko kouluyhteisöä koskevia toimenpiteitä, joita on päädytty suosittelemaan myös tutkimuksissa, jotka ovat koskeneet tietyille ongelmaryhmille tarkoitettuja ohjelmia. Kaikkiin oppilaisiin kohdistuvat toimet, joita voidaan tarpeen mukaan täydentää erityisryhmiä koskevilla toimenpiteillä, ovat perusteltuja myös siksi, että itse asiassa kiusaaminen koskee kaikkia oppilaita eri osallistumisroolien kautta ja jokainen on osaltaan siitä vastuussa ja voi siihen vaikuttaa. _\n\n_Kouluväkivallassa painopiste tulee asettaa primääriehkäisyyn ja tarkastella asiaa laajasta näkökulmasta, mukaan lukien sellaisten koulutuspoliittisten toimien vaikutus kuten syrjäytymisen ehkäisy, kaikkien koulumenestyksen turvaaminen, tilan antaminen tunteille ja eräänä keskeisenä kysymyksenä sukupuolten välinen tasa-arvo. Suvaitsevaisuuden ja demokraattisten pelisääntöjen soveltaminen on välttämätöntä, samoin opettajien valmiuksien ja erityisesti luokan johtamistaitojen kehittäminen.”_\n\n[CITE source=Lähde: Savolainen, Kaisa (2005), Kouluväkivallan ennaltaehkäisyssä laajaan näkökulmaan. Psykologia 4, 370-383. Tekstistä on poistettu tekstin sisäiset lähdeviitteet.]\n\nOhessa on koulukiusaamista ja -väkivaltaa käsittelevän artikkelin lopputiivistelmä. Arvioi tekstin ja muun psykologisen tiedon perusteella, miten toimivia koulukiusaamisen käsittely- ja ehkäisykeinoja ovat\n\n​\n",
+            "displayNumber": "7."
+          },
+          "images": null,
+          "settings": {
+            "material": true
+          },
+          "child_ids": [
+            "f7362ab7-047a-47ab-9dd9-ab51b3931ce4",
+            "d705c92e-0fe7-4e53-b46d-53850e719468"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-19T09:34:56.100816",
+          "max_score": null,
+          "groupping": null,
+          "id": 20268,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "024d5c5f-6792-449f-9c5d-49a29a8af298",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2017-06-09T11:02:39.718819"
+        }
+      ],
+      "name": "Psykologia kevät 2007",
+      "settings": {},
+      "exam_type": "yo-koe",
+      "classification": {
+        "category": "",
+        "hide_review_buttons": null,
+        "exam_type": "yo-koe",
+        "year": "2007",
+        "language": "fi-FI",
+        "show_exam_series": null,
+        "force_yletunnus": false,
+        "subject": "psykologia",
+        "published": true,
+        "semester": "spring"
+      },
+      "published_at": "2017-06-09T10:34:36.785Z",
+      "language": "fi-FI",
+      "id": 1331,
+      "reviews": [],
+      "is_open": true,
+      "uuid": "ca2824b4-57cd-47e4-b99f-df32d10e24a3"
+    }
+  ]
+}

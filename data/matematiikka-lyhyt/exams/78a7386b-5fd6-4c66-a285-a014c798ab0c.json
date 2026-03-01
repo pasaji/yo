@@ -1,0 +1,1053 @@
+{
+  "meta": {
+    "count": 1
+  },
+  "data": [
+    {
+      "tags": [
+        ""
+      ],
+      "main_text": "Koe koostuu 13 tehtävästä, joista vastataan kymmeneen. Tehtävät on jaettu kolmeen osaan. A-osassa on neljä kaikille pakollista tehtävää. B1-osassa on viisi tehtävää, joista vastataan kolmeen. B2-osassa on neljä tehtävää, joista vastataan kolmeen. Kaikki tehtävät arvostellaan pistein 0–12, joten kokeen maksimipistemäärä on 120.\n\nA-osassa saat käyttää taulukkokirjaa ja koejärjestelmän tarjoamia perusohjelmia. A-osa palautetaan tehtävän 4 jäljessä olevalla painikkeella. Tämän jälkeen A-osan vastauksia ei voi enää muokata. A-osan palauttamisen jälkeen kaikki koejärjestelmän ohjelmat ovat käytettävissäsi. Lisäksi saat käyttöön oman laskimesi. Voit vastata B-osien tehtäviin myös ennen A-osan palauttamista.\n\nUseimmissa tehtävissä kaikkien osatehtävien vastaukset kirjoitetaan samaan vastauskenttään. Jaottele vastauksesi osatehtävien mukaisesti. Halutessasi voit tuottaa vastausten tueksi piirroksia, kaavioita tai taulukoita ja liittää niistä kuvakaappauksen mihin tahansa tekstivastaukseen.\n\nÄlä jätä mitään merkintöjä sellaisen tehtävän vastaukselle varattuun tilaan, jota et halua jättää arvosteltavaksi.\n\nA-osa\n\n1. Lukujonojen määritelmiä (luetteloaineisto)\n2. Paraabelien huiput (ei aineistoa)\n3. Värikäs lippu (kuva-aineisto)\n4. Tilastokysymyksiä nopanheitosta (kuva-aineisto)\n\nB1-osa\n\n1. Paljonko tölkissä on ilmaa? (kuva-aineisto)\n2. Puun kasvu (ei aineistoa)\n3. Mikko vaihtaa rahaa (ei aineistoa)\n4. Lukujonon kasvaminen ja väheneminen (ei aineistoa)\n5. Vuorovesimalli / Ennätyslämmin heinäkuu (tekstiaineisto)\n\nB2-osa\n\n1. Miten vauva kasvaa? (ei aineistoa)\n2. Harrin palkka (ei aineistoa)\n3. Elisan laina (taulukkoaineisto)\n4. Polynomifunktioita (ei aineistoa)\n\nVoit avata tehtäviin liittyvät aineistot erilliseen välilehteen [LINK url=http://yle.fi/plus/abitreenit/2019/kevat/N-fi/attachments/index.html|text=tästä linkistä]. Myös tehtävänantojen yhteydessä on suorat linkit aineistoihin.\n",
+      "characters": null,
+      "deleted_at": null,
+      "series_uuids": [],
+      "questions": [
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "_y_ = [MATH text=2x²+1]\n",
+          "deleted_at": null,
+          "feedback": "x = 0\n\ny = 1\n",
+          "exam_id": 37443,
+          "content": {
+            "text": "_y_ = [MATH text=2x²+1]\n",
+            "displayNumber": "2.1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-06-08T09:39:18.500422",
+          "max_score": null,
+          "groupping": null,
+          "id": 1239090,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "8843f0cb-23ef-4ad6-93eb-e6ab9f852f46",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2019-05-16T10:55:30.430157"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "_y_ = [MATH text=3(x-5)²+7]\n",
+          "deleted_at": null,
+          "feedback": "x = 5\n\ny = 7\n",
+          "exam_id": 37443,
+          "content": {
+            "text": "_y_ = [MATH text=3(x-5)²+7]\n",
+            "displayNumber": "2.3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-06-08T09:39:18.502581",
+          "max_score": null,
+          "groupping": null,
+          "id": 1239113,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "7e5136e9-b711-42e7-b2b4-1b566910ec26",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2019-05-16T11:00:13.726752"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "[MATH text=a\\_n=2n-1] [SELECT id=1] (2p.)\n\n​\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 37443,
+          "content": {
+            "text": "[MATH text=a\\_n=2n-1] [SELECT id=1] (2p.)\n\n​\n",
+            "displayNumber": "1.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-06-08T09:39:18.507157",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1238935,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "parent": "a9cce97a-887e-4340-9244-072d729d156d",
+              "choices": [
+                {
+                  "id": "c5bde59b-00dc-4bed-b54d-fdd39d4433b0",
+                  "text": "A.  (1, 2, 3, 4, . . .)"
+                },
+                {
+                  "id": "c9cd456e-7824-409a-a402-381153785ffe",
+                  "text": "B. (1, 2, 3, 5, . . .)"
+                },
+                {
+                  "id": "0f84789e-f8ff-4231-80be-7603ec76ed4e",
+                  "text": "C. (1, 3, 5, 7, . . .)",
+                  "correct": true
+                },
+                {
+                  "id": "1a001784-1196-4931-8076-a1944ab0cb87",
+                  "text": "D. (1, 4, 9, 16, . . .)"
+                },
+                {
+                  "id": "432f261c-9017-49ac-bd80-d5094c08faa1",
+                  "text": "E. (1, 8, 27, 64, . . .)"
+                },
+                {
+                  "id": "124e430f-2138-4b56-9d8e-5b529e570ca1",
+                  "text": "F. (2, 4, 6, 8, . . .)"
+                },
+                {
+                  "id": "c1438d19-646c-4088-af5f-c9dd16a6159c",
+                  "text": "G. (2, 4, 8, 16, . . .)"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "a9cce97a-887e-4340-9244-072d729d156d",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2019-05-16T10:09:24.665392"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "[MATH text=a\\_n=n^3] [SELECT id=1] (2p.)\n\n​\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 37443,
+          "content": {
+            "text": "[MATH text=a\\_n=n^3] [SELECT id=1] (2p.)\n\n​\n",
+            "displayNumber": "1.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-06-08T09:39:18.509238",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1238941,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "parent": "c29ff549-2938-498b-9ce9-ec0f3cd61401",
+              "choices": [
+                {
+                  "id": "eb8fa553-cc58-4292-b6f0-0d65dd5fdbcc",
+                  "text": "A.  (1, 2, 3, 4, . . .)"
+                },
+                {
+                  "id": "0b6d159a-9205-4716-9a44-2775cae479c0",
+                  "text": "B. (1, 2, 3, 5, . . .)"
+                },
+                {
+                  "id": "4f12a82c-f951-4df7-9ce3-1e850c92af95",
+                  "text": "C. (1, 3, 5, 7, . . .)",
+                  "correct": false
+                },
+                {
+                  "id": "f5cc2e62-bf75-400e-aa6b-00b3c24370fe",
+                  "text": "D. (1, 4, 9, 16, . . .)",
+                  "correct": false
+                },
+                {
+                  "id": "da1e4c48-3900-4f6c-b337-cfdef1525e63",
+                  "text": "E. (1, 8, 27, 64, . . .)",
+                  "correct": true
+                },
+                {
+                  "id": "dde9026c-4986-4125-9997-b60fddcbbea5",
+                  "text": "F. (2, 4, 6, 8, . . .)"
+                },
+                {
+                  "id": "5b0904f2-f6ff-4aa9-bc31-78a9c455d124",
+                  "text": "G. (2, 4, 8, 16, . . .)"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "c29ff549-2938-498b-9ce9-ec0f3cd61401",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2019-05-16T10:09:53.807966"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Paraabelien huiput (12 p.)\n\n​\n\nMääritä seuraavien paraabelien huippujen x- ja y-koordinaatit. Vastaukset voi antaa vain tekstimuodossa. Vastauksia ei tarvitse perustella.\n\nAnna vastaukset muodossa ”x =\\_\\_\\_, y =\\_\\_\\_”.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 37443,
+          "content": {
+            "text": "Paraabelien huiput (12 p.)\n\n​\n\nMääritä seuraavien paraabelien huippujen x- ja y-koordinaatit. Vastaukset voi antaa vain tekstimuodossa. Vastauksia ei tarvitse perustella.\n\nAnna vastaukset muodossa ”x =\\_\\_\\_, y =\\_\\_\\_”.\n",
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "8843f0cb-23ef-4ad6-93eb-e6ab9f852f46",
+            "b330ffbb-0901-40c2-b61d-ed896d72f81d",
+            "7e5136e9-b711-42e7-b2b4-1b566910ec26"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-06-08T09:39:18.511364",
+          "max_score": null,
+          "groupping": null,
+          "id": 1239080,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "05dbec3d-8b15-4204-a0c6-dc979897c49e",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2019-05-16T10:53:56.485007"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**A-osa**\n\n**Ratkaise kaikki tämän osan tehtävät 1–4.**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 37443,
+          "content": {
+            "text": "**A-osa**\n\n**Ratkaise kaikki tämän osan tehtävät 1–4.**\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-06-08T09:39:18.513565",
+          "max_score": null,
+          "groupping": null,
+          "id": 1238922,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "852518a1-456e-436d-928b-141114d3fcf9",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2019-05-16T09:57:42.416544"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**B1-osa**\n\n**Ratkaise kolme tehtävistä 5–9. Tässä osassa saat käyttää kaikkia koejärjestelmän ohjelmia ja omaa laskintasi, kun olet palauttanut A-osan vastaukset.**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 37443,
+          "content": {
+            "text": "**B1-osa**\n\n**Ratkaise kolme tehtävistä 5–9. Tässä osassa saat käyttää kaikkia koejärjestelmän ohjelmia ja omaa laskintasi, kun olet palauttanut A-osan vastaukset.**\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-06-08T09:39:18.51568",
+          "max_score": null,
+          "groupping": null,
+          "id": 1427651,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "3f5eed84-567b-4115-9017-42ff1493d516",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2019-07-17T06:32:23.817158"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Tarkista, että vastasit oikeaan määrään tehtäviä. Älä jätä mitään merkintöjä sellaisen tehtävän vastaukselle varattuun tilaan, jota et halua jättää arvosteltavaksi.**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 37443,
+          "content": {
+            "text": "**Tarkista, että vastasit oikeaan määrään tehtäviä. Älä jätä mitään merkintöjä sellaisen tehtävän vastaukselle varattuun tilaan, jota et halua jättää arvosteltavaksi.**\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-06-08T09:39:18.517845",
+          "max_score": null,
+          "groupping": null,
+          "id": 1428772,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "58db7bdb-811b-474e-9802-f53f90c17b13",
+          "order_number": 17,
+          "multipart": true,
+          "created_at": "2019-07-17T07:36:37.278458"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Vuorovesimalli / Ennätyslämmin heinäkuu**\n\n\n\n**Jos valitset tämän tehtävän, ratkaise joko 9.1. TAI 9.2.** (Voit valita kumman tahansa tehtävän riippumatta siitä, minkä opetussuunnitelman mukaisesti olet opiskellut.)\n\n\n\n**9.1. (Vanha opetussuunnitelma, ennen 1.8.2016 lukion aloittaneet)**\n\n\n\nVuoroveden korkeutta kellonajan_ t _(yksikkönä tunti, _t = 0_ keskiyöllä) funktiona voidaan kuvata funktion\n\n[MATH text=f(t)=A+Bsin\\frac{2\\pi}{12{,}4}(t-t\\_{0 })]\n\navulla. Tässä_** A , B**_ ja _t_[SUB text=0] ovat vakioita. Norjan Tromssassa merenpinta on eräänä päivänä kello 9.00 matalimmillaan. Seuraavan kerran merenpinta on matalimmillaan samana päivänä kello 21.24. Korkeimmillaan merenpinnan korkeus näin kuvattuna on 192 cm ja matalimmillaan 0 cm.\n\nMääritä näiden tietojen avulla funktion _f(t)_ lausekkeessa esiintyvien vakioiden arvot. Anna vastaukset kolmen merkitsevän numeron tarkkuudella.\n\n\n\n**9.2. (Uusi opetussuunnitelma, 1.8.2016 tai sen jälkeen lukion aloittaneet)**\n\n\n\nAineisto:\n\n9.A [LINK url=http://yle.fi/plus/abitreenit/2019/kevat/N-fi/attachments/index.html#9.A|text=Teksti: Ilmasto-opas]\n\n\n\nIlmasto-oppaan (aineisto 9.A) perusteella oletetaan, että vuoden 2010 tyyppisen ennätyslämpimän heinäkuun todennäköisyys on joka vuosi [MATH text=\\frac{1}{60}] . Tapahtumat oletetaan myös toisistaan riippumattomiksi. Kuinka suurella todennäköisyydellä Suomessa\n\n– ei ole yhtään ennätyslämmintä heinäkuuta seuraavien 30 vuoden aikana? (4 p.)\n\n– on vähintään kaksi ennätyslämmintä heinäkuuta seuraavien 30 vuoden aikana? (8 p.)\n\nKirjoita tähän vastauskenttään joko tehtävän 9.1. TAI tehtävän 9.2. ratkaisu.\n",
+          "deleted_at": null,
+          "feedback": "**9.1.**\n\nSinifunktio saa arvoja välillä −1 ja 1.\n\nKun B > 0, niin funktion suurin arvo on A + B ja pienin arvo on A − B.\n\nSaadaan yhtälöpari A + B = 192 ja A − B = 0\n\n⇒_ A = B_ = [MATH text=\\frac{192}{2}] = 96 (cm).\n\nSinifunktion sin_(x)_ pienin arvo saavutetaan esimerkiksi kohdassa [MATH text=x=\\frac{\\pi}{2}]\n\nSaadaan yhtälö [MATH text=-\\frac{\\pi}{2}=\\frac{2\\pi}{12{,}4}(9-t\\_0)]\n\n⇒ [MATH text=t\\_0] = 12,1.\n\n​\n\n**9.2.**\n\nTodennäköisyys, että yksi heinäkuu ei ole ennätyslämmin, on [MATH text=\\frac{59}{60}]\n\nKoska tapahtumat ovat riippumattomia,\n\nniin todennäköisyys saadaan tulokaavalla [MATH text=\\left(\\frac{59}{60}\\right)^{30}] = 0,6039 ... ≈ 60 %.\n\n(Toistokoetta kuvaa binomijakauma)\n\nja komplementtitapahtuman todennäköisyys on [MATH text=\\left(\\frac{59}{60}\\right)^3] [MATH text=+\\left(\\frac{30}{1}\\right)\\left(\\frac{59}{60}\\right)^{29}\\left(\\frac{1}{60}\\right)^1] = 0,91108 ...\n\nKysytyn tapahtuman todennäköisyys on 1 − 0,91108 ... = 0,08891 ≈ 8,9 %.\n",
+          "exam_id": 37443,
+          "content": {
+            "text": "**Vuorovesimalli / Ennätyslämmin heinäkuu**\n\n\n\n**Jos valitset tämän tehtävän, ratkaise joko 9.1. TAI 9.2.** (Voit valita kumman tahansa tehtävän riippumatta siitä, minkä opetussuunnitelman mukaisesti olet opiskellut.)\n\n\n\n**9.1. (Vanha opetussuunnitelma, ennen 1.8.2016 lukion aloittaneet)**\n\n\n\nVuoroveden korkeutta kellonajan_ t _(yksikkönä tunti, _t = 0_ keskiyöllä) funktiona voidaan kuvata funktion\n\n[MATH text=f(t)=A+Bsin\\frac{2\\pi}{12{,}4}(t-t\\_{0 })]\n\navulla. Tässä_** A , B**_ ja _t_[SUB text=0] ovat vakioita. Norjan Tromssassa merenpinta on eräänä päivänä kello 9.00 matalimmillaan. Seuraavan kerran merenpinta on matalimmillaan samana päivänä kello 21.24. Korkeimmillaan merenpinnan korkeus näin kuvattuna on 192 cm ja matalimmillaan 0 cm.\n\nMääritä näiden tietojen avulla funktion _f(t)_ lausekkeessa esiintyvien vakioiden arvot. Anna vastaukset kolmen merkitsevän numeron tarkkuudella.\n\n\n\n**9.2. (Uusi opetussuunnitelma, 1.8.2016 tai sen jälkeen lukion aloittaneet)**\n\n\n\nAineisto:\n\n9.A [LINK url=http://yle.fi/plus/abitreenit/2019/kevat/N-fi/attachments/index.html#9.A|text=Teksti: Ilmasto-opas]\n\n\n\nIlmasto-oppaan (aineisto 9.A) perusteella oletetaan, että vuoden 2010 tyyppisen ennätyslämpimän heinäkuun todennäköisyys on joka vuosi [MATH text=\\frac{1}{60}] . Tapahtumat oletetaan myös toisistaan riippumattomiksi. Kuinka suurella todennäköisyydellä Suomessa\n\n– ei ole yhtään ennätyslämmintä heinäkuuta seuraavien 30 vuoden aikana? (4 p.)\n\n– on vähintään kaksi ennätyslämmintä heinäkuuta seuraavien 30 vuoden aikana? (8 p.)\n\nKirjoita tähän vastauskenttään joko tehtävän 9.1. TAI tehtävän 9.2. ratkaisu.\n",
+            "displayNumber": "9."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-06-08T09:39:18.519949",
+          "max_score": null,
+          "groupping": null,
+          "id": 1427976,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "8a6d19cc-47d4-41ea-9cc6-7ad62a398866",
+          "order_number": 11,
+          "multipart": true,
+          "created_at": "2019-07-17T07:07:29.800262"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**B2-osa**\n\n**Ratkaise kolme tehtävistä 10–13. Tässä osassa saat käyttää kaikkia koejärjestelmän ohjelmia ja omaa laskintasi, kun olet palauttanut A-osan vastaukset.**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 37443,
+          "content": {
+            "text": "**B2-osa**\n\n**Ratkaise kolme tehtävistä 10–13. Tässä osassa saat käyttää kaikkia koejärjestelmän ohjelmia ja omaa laskintasi, kun olet palauttanut A-osan vastaukset.**\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-06-08T09:39:18.522369",
+          "max_score": null,
+          "groupping": null,
+          "id": 1428414,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "6bca51fa-8db2-41bf-b36c-11bee58907b5",
+          "order_number": 12,
+          "multipart": true,
+          "created_at": "2019-07-17T07:23:32.900081"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "_y_ = [MATH text=x²-2x]\n",
+          "deleted_at": null,
+          "feedback": "(y = (x-1)[SUP text=2]-1)\n\nx = 1\n\ny = -1\n",
+          "exam_id": 37443,
+          "content": {
+            "text": "_y_ = [MATH text=x²-2x]\n",
+            "displayNumber": "2.2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-06-08T09:39:18.524499",
+          "max_score": null,
+          "groupping": null,
+          "id": 1239101,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "b330ffbb-0901-40c2-b61d-ed896d72f81d",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2019-05-16T10:58:31.222658"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "[MATH text=a\\_n=2^n] [SELECT id=1] (2p.)\n\n​\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 37443,
+          "content": {
+            "text": "[MATH text=a\\_n=2^n] [SELECT id=1] (2p.)\n\n​\n",
+            "displayNumber": "1.4."
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-06-08T09:39:18.526697",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1238976,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "parent": "554e7928-bce6-4f51-8763-7a55465a281d",
+              "choices": [
+                {
+                  "id": "4fa83087-66f2-466f-9c6e-3b108a2bfcbc",
+                  "text": "A.  (1, 2, 3, 4, . . .)"
+                },
+                {
+                  "id": "26ecfefe-e951-498b-be18-f5862826ce0b",
+                  "text": "B. (1, 2, 3, 5, . . .)"
+                },
+                {
+                  "id": "d112995b-e563-404d-b0c3-ef05b859abe1",
+                  "text": "C. (1, 3, 5, 7, . . .)",
+                  "correct": false
+                },
+                {
+                  "id": "79852c2d-7e57-4be0-bd2f-913a710d07e1",
+                  "text": "D. (1, 4, 9, 16, . . .)",
+                  "correct": false
+                },
+                {
+                  "id": "1a4d13f8-da83-4224-ac4b-d01787f7dfe4",
+                  "text": "E. (1, 8, 27, 64, . . .)",
+                  "correct": false
+                },
+                {
+                  "id": "7a213906-886b-447d-9905-7c2fcfc95569",
+                  "text": "F. (2, 4, 6, 8, . . .)"
+                },
+                {
+                  "id": "c91e339a-5d60-4511-83ee-61aa3295d04f",
+                  "text": "G. (2, 4, 8, 16, . . .)",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "554e7928-bce6-4f51-8763-7a55465a281d",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2019-05-16T10:21:09.83542"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Polynomifunktioita (12 p.)\n\n​\n\nTutkitaan suljetulla välillä [MATH text=-1≤x≤2] määriteltyjä polynomifunktioita _p(x)_ .\n\n​\n\n13.1. Anna esimerkki tällaisesta funktiosta, jonka ainoa maksimikohta on avoimella välillä . \n\n​\n\n13.2. Anna esimerkki tällaisesta funktiosta, joka saavuttaa suurimman arvonsa välin molemmissa päätepisteissä. \n",
+          "deleted_at": null,
+          "feedback": "Funktio _f(x) = −x_[SUP text=2]\n toteuttaa vaaditut ehdot, \n\nsillä sen ainoa maksimikohta on x = 0, joka on avoimella välillä.\n\n​\n\nFunktio [MATH text=f(x)=(x-\\frac{1}{2})²]  toteuttaa vaaditut ehdot,\n\nsillä välillä [MATH text=-1≤x≤2]  sen maksimiarvo on [MATH text=\\frac{9}{4}] , joka saavutetaan, kun [MATH text=x=-1]  ja [MATH text=x=2]\n\n​\n",
+          "exam_id": 37443,
+          "content": {
+            "text": "Polynomifunktioita (12 p.)\n\n​\n\nTutkitaan suljetulla välillä [MATH text=-1≤x≤2] määriteltyjä polynomifunktioita _p(x)_ .\n\n​\n\n13.1. Anna esimerkki tällaisesta funktiosta, jonka ainoa maksimikohta on avoimella välillä . \n\n​\n\n13.2. Anna esimerkki tällaisesta funktiosta, joka saavuttaa suurimman arvonsa välin molemmissa päätepisteissä. \n",
+            "displayNumber": "13."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-06-08T09:39:18.52883",
+          "max_score": null,
+          "groupping": null,
+          "id": 1428745,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "e48f6e83-1fee-42a2-8abb-d2b59d03be1f",
+          "order_number": 16,
+          "multipart": true,
+          "created_at": "2019-07-17T07:36:27.208887"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Puun kasvu (12 p.)\n\n\n\nMetsäntutkija mallintaa puun kasvua. Mallissa puunrunko ajatellaan suoraksi ympyräpohjaiseksi kartioksi. Ajanhetkellä t=0  puunrunko on korkeudeltaan 6 metriä ja tyvestä halkaisijaltaan 8cm paksu. Joka vuosi puu kasvaa pituutta 45 cm ja tyven halkaisija kasvaa 0,6 cm. Muodosta funktio, joka kuvaa puunrungon tilavuutta ajan funktiona. Mikä on rungon tilavuus 20 vuoden kuluttua?\n",
+          "deleted_at": null,
+          "feedback": "Korkeuden funktio h(t)=600+45t\n\nSäteen funktio r(t)=4+0,3t (cm) \n\nTilavuuden funktio [MATH text=V(t)=\\frac{\\pi}{3}h(t)r(t)²=π(200+15t)(4+0,3)²]\n\n3h(t)r(t)2 = π(200 + 15t)(4 + 0,3t)2 4\n\nTilavuus 20 vuoden kuluttua _V_(20) = 157079,6327 ... ≈ 157 000 (cm[SUP text=3])\n",
+          "exam_id": 37443,
+          "content": {
+            "text": "Puun kasvu (12 p.)\n\n\n\nMetsäntutkija mallintaa puun kasvua. Mallissa puunrunko ajatellaan suoraksi ympyräpohjaiseksi kartioksi. Ajanhetkellä t=0  puunrunko on korkeudeltaan 6 metriä ja tyvestä halkaisijaltaan 8cm paksu. Joka vuosi puu kasvaa pituutta 45 cm ja tyven halkaisija kasvaa 0,6 cm. Muodosta funktio, joka kuvaa puunrungon tilavuutta ajan funktiona. Mikä on rungon tilavuus 20 vuoden kuluttua?\n",
+            "displayNumber": "6."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-06-08T09:39:18.530926",
+          "max_score": null,
+          "groupping": null,
+          "id": 1427715,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "1aa74b9a-c1d5-494b-8c7c-fc998ee1703b",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2019-07-17T06:34:43.127578"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "[MATH text=a\\_1=1{,}\\ a\\_2=2\\ ja\\ a\\_n=a\\_{n-1}+a\\_{n-2}{,}\\ kun\\ n\\ge3](2p.)\n\n&NewLine;\n\n[SELECT id=1] (2p.)\n\n&NewLine;\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 37443,
+          "content": {
+            "text": "[MATH text=a\\_1=1{,}\\ a\\_2=2\\ ja\\ a\\_n=a\\_{n-1}+a\\_{n-2}{,}\\ kun\\ n\\ge3](2p.)\n\n&NewLine;\n\n[SELECT id=1] (2p.)\n\n&NewLine;\n",
+            "displayNumber": "1.6."
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-06-08T09:39:18.535429",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1239006,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "parent": "9cac7808-6b83-4021-8f91-c9f5acdded75",
+              "choices": [
+                {
+                  "id": "66c704dd-5113-4e7d-b8cf-cbaf7985b634",
+                  "text": "A.  (1, 2, 3, 4, . . .)"
+                },
+                {
+                  "id": "0f5045ee-7bf3-420c-9d8d-bb21cb72f030",
+                  "text": "B. (1, 2, 3, 5, . . .)",
+                  "correct": true
+                },
+                {
+                  "id": "68e4a9bf-91aa-4071-8845-6de20763fe7d",
+                  "text": "C. (1, 3, 5, 7, . . .)",
+                  "correct": false
+                },
+                {
+                  "id": "02014cd9-a9e0-47ad-80d9-07c0c03c95f2",
+                  "text": "D. (1, 4, 9, 16, . . .)",
+                  "correct": false
+                },
+                {
+                  "id": "337ad1a8-ebbe-41dc-97d4-979d03829e85",
+                  "text": "E. (1, 8, 27, 64, . . .)",
+                  "correct": false
+                },
+                {
+                  "id": "53807659-5df2-4912-90e5-55a09927882b",
+                  "text": "F. (2, 4, 6, 8, . . .)",
+                  "correct": false
+                },
+                {
+                  "id": "d662f7a2-5b82-4e71-90c8-618712f7e7a8",
+                  "text": "G. (2, 4, 8, 16, . . .)",
+                  "correct": false
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "9cac7808-6b83-4021-8f91-c9f5acdded75",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2019-05-16T10:26:37.374261"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Tilastokysymyksiä nopanheitosta (12 p.)\n\n&NewLine;\n\nAineisto:\n\n4.A [LINK url=https://yle.fi/plus/abitreenit/2019/kevat/N-fi/attachments/index.html#4.A|text=Kuva: Nopat]\n\n&NewLine;\n\nHeitettiin 30 noppaa, ja saatiin kuvan 4.A mukainen tulos, jota kutsutaan tässä tehtävässä aineistoksi.\n\n&NewLine;\n\n4.1. Muodosta aineiston perusteella frekvenssitaulukko. Voit laatia taulukon kaavaeditorin taulukko-ominaisuudella tai pelkkänä tekstinä. _Huom. Abitreenien harjoittelukokeeseen ei voi liittää kuvia. _(2 p.)\n\n4.2. Mikä on aineiston moodi? Perustele lyhyesti vastauksesi. (2 p.)\n\n4.3. Mikä on aineiston mediaani? Perustele lyhyesti vastauksesi. (3 p.)\n\n4.4. Mikä on aineiston keskiarvo? Perustele lyhyesti vastauksesi. (3 p.)\n\n4.5. Mikä on silmäluvun 6 tilastollinen todennäköisyys tässä aineistossa? (2 p.)\n",
+          "deleted_at": null,
+          "feedback": "Tulos 1 2 3 4 5 6\n\nFrekvenssi 5 2 5 8 8 2\n\n&NewLine;\n\nMoodi eli tyyppiarvo on 4 ja 5, sillä nämä ovat useimmin esiintyvät tulokset\n\n&NewLine;\n\nMediaani on 4, sillä suuruusjärjestyksessä keskimmäiset (eli viidestoista ja kuudestoista) nopat saivat arvon 4.\n\n&NewLine;\n\nKeskiarvo on 108: 30 = 3,6. Arvo saadaan jakamalla noppien silmälukujen summa\n\nnoppien lukumäärällä.\n\n&NewLine;\n\n[MATH text=\\frac{2}{30}=\\frac{1}{15}]\n",
+          "exam_id": 37443,
+          "content": {
+            "text": "Tilastokysymyksiä nopanheitosta (12 p.)\n\n&NewLine;\n\nAineisto:\n\n4.A [LINK url=https://yle.fi/plus/abitreenit/2019/kevat/N-fi/attachments/index.html#4.A|text=Kuva: Nopat]\n\n&NewLine;\n\nHeitettiin 30 noppaa, ja saatiin kuvan 4.A mukainen tulos, jota kutsutaan tässä tehtävässä aineistoksi.\n\n&NewLine;\n\n4.1. Muodosta aineiston perusteella frekvenssitaulukko. Voit laatia taulukon kaavaeditorin taulukko-ominaisuudella tai pelkkänä tekstinä. _Huom. Abitreenien harjoittelukokeeseen ei voi liittää kuvia. _(2 p.)\n\n4.2. Mikä on aineiston moodi? Perustele lyhyesti vastauksesi. (2 p.)\n\n4.3. Mikä on aineiston mediaani? Perustele lyhyesti vastauksesi. (3 p.)\n\n4.4. Mikä on aineiston keskiarvo? Perustele lyhyesti vastauksesi. (3 p.)\n\n4.5. Mikä on silmäluvun 6 tilastollinen todennäköisyys tässä aineistossa? (2 p.)\n",
+            "displayNumber": "4."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-06-08T09:39:18.537523",
+          "max_score": null,
+          "groupping": null,
+          "id": 1427574,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "9e7f1a6f-7d8c-4d9e-8cc6-f2c88f92acce",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2019-07-17T06:27:33.766854"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Lukujonojen määritelmiä (12 p.)\n\nAineisto:\n\n1.A [LINK url=https://yle.fi/plus/abitreenit/2019/kevat/N-fi/attachments/index.html#1.A|text=Luettelo: Lukujonot A-G]\n\nYhdistä kukin lukujonon määritelmä 1.1.–1.6. siihen jonoon A–G, joka määritelmän perusteella saadaan. Kaikki jonot alkavat jäsenestä [MATH text=a\\_{1}] ja yksi vastausjono jää käyttämättä. Vastauksia ei tarvitse perustella.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 37443,
+          "content": {
+            "text": "Lukujonojen määritelmiä (12 p.)\n\nAineisto:\n\n1.A [LINK url=https://yle.fi/plus/abitreenit/2019/kevat/N-fi/attachments/index.html#1.A|text=Luettelo: Lukujonot A-G]\n\nYhdistä kukin lukujonon määritelmä 1.1.–1.6. siihen jonoon A–G, joka määritelmän perusteella saadaan. Kaikki jonot alkavat jäsenestä [MATH text=a\\_{1}] ja yksi vastausjono jää käyttämättä. Vastauksia ei tarvitse perustella.\n",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "a9cce97a-887e-4340-9244-072d729d156d",
+            "090c1b05-c51b-4ba0-96b5-d5fcd8ba2618",
+            "c29ff549-2938-498b-9ce9-ec0f3cd61401",
+            "554e7928-bce6-4f51-8763-7a55465a281d",
+            "ea832434-977d-4aa4-98b5-767f28ad7e38",
+            "9cac7808-6b83-4021-8f91-c9f5acdded75"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-06-08T09:39:18.5423",
+          "max_score": null,
+          "groupping": null,
+          "id": 1238923,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "d88325ad-3320-477e-b6d9-f470f1aaf337",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2019-05-16T09:57:42.41965"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "[MATH text=a\\_1=2\\ ja\\ a\\_n=a\\_{n-1}+2{,}\\ kun\\ n\\ge2] (2p.)\n\n&NewLine;\n\n[SELECT id=1](2p.)\n\n&NewLine;\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 37443,
+          "content": {
+            "text": "[MATH text=a\\_1=2\\ ja\\ a\\_n=a\\_{n-1}+2{,}\\ kun\\ n\\ge2] (2p.)\n\n&NewLine;\n\n[SELECT id=1](2p.)\n\n&NewLine;\n",
+            "displayNumber": "1.5."
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-06-08T09:39:18.544502",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1238991,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "parent": "ea832434-977d-4aa4-98b5-767f28ad7e38",
+              "choices": [
+                {
+                  "id": "bf6f1263-8c16-49e3-83f5-2c448b624c78",
+                  "text": "A.  (1, 2, 3, 4, . . .)"
+                },
+                {
+                  "id": "ef5d7c16-521a-446f-bf47-bb59fea9b3d9",
+                  "text": "B. (1, 2, 3, 5, . . .)"
+                },
+                {
+                  "id": "dce52450-4292-4ccd-abe2-31368f76c7a7",
+                  "text": "C. (1, 3, 5, 7, . . .)",
+                  "correct": false
+                },
+                {
+                  "id": "76212bd9-a50c-490b-b891-e48c3bfc4f93",
+                  "text": "D. (1, 4, 9, 16, . . .)",
+                  "correct": false
+                },
+                {
+                  "id": "2f37c31b-59e4-437b-b898-97fcfaf70338",
+                  "text": "E. (1, 8, 27, 64, . . .)",
+                  "correct": false
+                },
+                {
+                  "id": "0f3dd959-1375-41bd-a698-adbf2a01a3de",
+                  "text": "F. (2, 4, 6, 8, . . .)",
+                  "correct": true
+                },
+                {
+                  "id": "7a066d63-0a61-4dc4-9df8-77cf7285c8ca",
+                  "text": "G. (2, 4, 8, 16, . . .)",
+                  "correct": false
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "ea832434-977d-4aa4-98b5-767f28ad7e38",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2019-05-16T10:24:34.365946"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Elisan laina (12 p.)\n\n\n\nAineisto:\n\n12.A [LINK url=http://yle.fi/plus/abitreenit/2019/kevat/N-fi/attachments/index.html#12.A|text=Taulukko: Lainan korko]\n\n\n\nElisa otti aikanaan 100 000 euron suuruiselle kymmenen vuoden tasalyhennyslainalleen korkokaton. Pankista sai lainalle 4,5 prosentin korkokaton 5000 euron hintaan. Laina oli sidottu 12 kuukauden euriborkorkoon, joka vaihteli laina-aikana taulukon 12.A mukaan. Kaikki tehtävässä mainitut korkokannat sisältävät korkomarginaalin, ja lainaa lyhennetään kuukausittain.\n\nKannattiko Elisan ottaa lainalleen korkokattoa? Korkokaton sijaan hän olisi voinut sijoittaa 5000 euroa säästötilille, jolloin talletuksen nykyinen arvo olisi 5700 euroa. Muita rahan arvon muutoksia ei tarvitse huomioida.\n\nVoit halutessasi esittää laskut taulukkolaskentaohjelmasta otetussa kuvakaappauksessa, kunhan vastauksesta selviää, miten tuloksiin on päästy._ Huom: Abitreenien harjoittelukokeeseen ei voi lisätä kuvakaappauksia._\n",
+          "deleted_at": null,
+          "feedback": "Tehtävän voi ratkaista selvittämällä, kuinka paljon korkoa maksetaan, kun korkokattoa ei ole, ja kuinka paljon maksetaan, kun on.\n\n​\n\nOheisesta taulukosta (linkit alla) ilmenee, että ilman korkokattoa laina-aikana\n\nmaksetaan 15833,75 euroa korkoa. \n\nLainakustannus korkokaton kanssa saadaan korvaamalla taulukossa lukua 4,5 suuremmat luvut luvulla 4,5. \n\n​\n\nOheisesta taulukosta (linkit alla) ilmenee, että lainasta, jossa on korkokatto, maksetaan laina-aikana 15065 euroa korkoa. \n\nKorkokatto säästää siis koroissa noin 800 euroa, joka on vähemmän kuin sen kustannukset (5 700 euroa), joten korkokaton ottaminen ei tässä tapauksessa kannattanut. \n\n​\n\n[LINK url=https://www.ylioppilastutkinto.fi/images/sivuston\\_tiedostot/Hyv\\_vast\\_piirt/FI\\_2019\\_K/n\\_t12\\_v1.ods|text=https://www.ylioppilastutkinto.fi/images/sivuston\\_tiedostot/Hyv\\_vast\\_piirt/FI\\_2019\\_K/n\\_t12\\_v1.ods]\n\n[LINK url=https://www.ylioppilastutkinto.fi/images/sivuston\\_tiedostot/Hyv\\_vast\\_piirt/FI\\_2019\\_K/n\\_t12\\_v2.ods|text=https://www.ylioppilastutkinto.fi/images/sivuston\\_tiedostot/Hyv\\_vast\\_piirt/FI\\_2019\\_K/n\\_t12\\_v2.ods]\n",
+          "exam_id": 37443,
+          "content": {
+            "text": "Elisan laina (12 p.)\n\n\n\nAineisto:\n\n12.A [LINK url=http://yle.fi/plus/abitreenit/2019/kevat/N-fi/attachments/index.html#12.A|text=Taulukko: Lainan korko]\n\n\n\nElisa otti aikanaan 100 000 euron suuruiselle kymmenen vuoden tasalyhennyslainalleen korkokaton. Pankista sai lainalle 4,5 prosentin korkokaton 5000 euron hintaan. Laina oli sidottu 12 kuukauden euriborkorkoon, joka vaihteli laina-aikana taulukon 12.A mukaan. Kaikki tehtävässä mainitut korkokannat sisältävät korkomarginaalin, ja lainaa lyhennetään kuukausittain.\n\nKannattiko Elisan ottaa lainalleen korkokattoa? Korkokaton sijaan hän olisi voinut sijoittaa 5000 euroa säästötilille, jolloin talletuksen nykyinen arvo olisi 5700 euroa. Muita rahan arvon muutoksia ei tarvitse huomioida.\n\nVoit halutessasi esittää laskut taulukkolaskentaohjelmasta otetussa kuvakaappauksessa, kunhan vastauksesta selviää, miten tuloksiin on päästy._ Huom: Abitreenien harjoittelukokeeseen ei voi lisätä kuvakaappauksia._\n",
+            "displayNumber": "12."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-06-08T09:39:18.553777",
+          "max_score": null,
+          "groupping": null,
+          "id": 1428650,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "db468b6f-475f-4fad-a411-cb84ded93825",
+          "order_number": 15,
+          "multipart": true,
+          "created_at": "2019-07-17T07:32:23.488343"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Harrin palkka (12 p.)\n\nHarri saa palkkaa 4200 euroa kuukaudessa ja hänen työtuntimääränsä on 155 tuntia kuukaudessa. Hän arvioi tuntipalkkaansa seuraavalla tavalla: _Jos työtuntimääräni olisi 160 tuntia ja palkkani 4000 euroa, niin tuntipalkkani olisi 4000/160=25 . Tässä ei ole otettu huomioon 200 euroa palkasta, joten virhe on runsas euro tuntia kohti; palkka on siis runsaat 26 euroa. Todellinen työtuntimäärä on 155 , ei 160 , ja siitä tulee varmaankin pieni virhe, joten todellinen tuntipalkka on ehkäpä 27 euroa._\n\n11.1. Kuinka monta prosenttia enemmän tai vähemmän Harri arvioi saavansa palkkaa tunnilta kuin hän oikeasti saa? (4 p.)\n\n11.2. Selitä Harrin päättelyn vaiheita ja arvioi, perustuuko päättely päteviin arvioihin. (8 p.)\n",
+          "deleted_at": null,
+          "feedback": "Arvion mukaan Harrin kuukausipalkka olisi 155 · 27 = 4185 2\n\neli [MATH text=\\frac{15}{4200}] = 0,3571 ... % ≈ 0,36% vähemmän kuin mitä hän todellisuudessa saa. \n\nHarri laskee ensin, mikä olisi tuntipalkka, jos työtunteja olisi 160. \n\nHän arvioi [MATH text=\\frac{4200}{160}=\\frac{4000}{160}+\\frac{200}{160}= 25 +1],..., joka on oikein. \n\n​\n\nSeuraavaksi hän ottaa huomioon, että tämä tulos pitäisi kertoa luvulla [MATH text=\\frac{160}{155}], jotta\n\nsaisi oikean tuntipalkan, \n\nja käyttää arviota [MATH text=\\frac{160}{155}≈\\frac{27}{26}] , joka on varsin hyvä, sillä \n\n[MATH text=\\frac{27}{26}=\\frac{162}{156}] . \n\nHarrin järkeily perustuu siis päteviin arvioihin. \n\nPäättelyn pätevyyttä perustellaan ensimmäisen kohdan vastauksella.\n",
+          "exam_id": 37443,
+          "content": {
+            "text": "Harrin palkka (12 p.)\n\nHarri saa palkkaa 4200 euroa kuukaudessa ja hänen työtuntimääränsä on 155 tuntia kuukaudessa. Hän arvioi tuntipalkkaansa seuraavalla tavalla: _Jos työtuntimääräni olisi 160 tuntia ja palkkani 4000 euroa, niin tuntipalkkani olisi 4000/160=25 . Tässä ei ole otettu huomioon 200 euroa palkasta, joten virhe on runsas euro tuntia kohti; palkka on siis runsaat 26 euroa. Todellinen työtuntimäärä on 155 , ei 160 , ja siitä tulee varmaankin pieni virhe, joten todellinen tuntipalkka on ehkäpä 27 euroa._\n\n11.1. Kuinka monta prosenttia enemmän tai vähemmän Harri arvioi saavansa palkkaa tunnilta kuin hän oikeasti saa? (4 p.)\n\n11.2. Selitä Harrin päättelyn vaiheita ja arvioi, perustuuko päättely päteviin arvioihin. (8 p.)\n",
+            "displayNumber": "11."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-06-08T09:39:18.539837",
+          "max_score": null,
+          "groupping": null,
+          "id": 1428459,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "c33264f6-4583-40fc-bf19-12e33c42097a",
+          "order_number": 14,
+          "multipart": true,
+          "created_at": "2019-07-17T07:25:43.272441"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "[MATH text=a\\_n=n^2] [SELECT id=1] (2p.)\n\n​\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 37443,
+          "content": {
+            "text": "[MATH text=a\\_n=n^2] [SELECT id=1] (2p.)\n\n​\n",
+            "displayNumber": "1.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-06-08T09:39:18.504789",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1238936,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "parent": "090c1b05-c51b-4ba0-96b5-d5fcd8ba2618",
+              "choices": [
+                {
+                  "id": "71d81451-ebdf-4781-ad7c-1c02ce531d8c",
+                  "text": "A.  (1, 2, 3, 4, . . .)"
+                },
+                {
+                  "id": "0fd75bbd-e27f-4c92-a28d-059b01bd203e",
+                  "text": "B. (1, 2, 3, 5, . . .)"
+                },
+                {
+                  "id": "5202354c-d366-40d0-82ca-626ef6e4ea32",
+                  "text": "C. (1, 3, 5, 7, . . .)",
+                  "correct": false
+                },
+                {
+                  "id": "fffd5963-ee1b-4731-a12c-9273f5b0df73",
+                  "text": "D. (1, 4, 9, 16, . . .)",
+                  "correct": true
+                },
+                {
+                  "id": "f8d18f5f-476a-4091-8621-a3fe9b2077f4",
+                  "text": "E. (1, 8, 27, 64, . . .)"
+                },
+                {
+                  "id": "404c8f7b-c8ff-4f84-a0cd-fbbf07af4e34",
+                  "text": "F. (2, 4, 6, 8, . . .)"
+                },
+                {
+                  "id": "482c441a-a0ed-4669-9775-d84d76362390",
+                  "text": "G. (2, 4, 8, 16, . . .)"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "090c1b05-c51b-4ba0-96b5-d5fcd8ba2618",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2019-05-16T10:09:24.667817"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Värikäs lippu (12 p.)\n\n&NewLine;\n\nAineisto:\n\n3.A [LINK url=https://yle.fi/plus/abitreenit/2019/kevat/N-fi/attachments/index.html#3.A|text=Kuva: Seychellien lippu]\n\n&NewLine;\n\nSeychellien lipussa on viisi eri väriä kuvan 3.A mukaisesti. Kuinka monta prosenttia kukin väri peittää koko lipun pinta-alasta?\n",
+          "deleted_at": null,
+          "feedback": "Jaetaan punainen alue kahtia lipun lävistäjän avulla.\n\nSinisen, keltaisen ja ylemmän punaisen kolmion korkeus on 150 ja kanta 100, eli kunkin pinta-al aon 7500.\n\n\n\nVihreän, valkoisen ja alemman punaisen kolmion korkeus on 300 ja kanta 50, eli pinta-ala 7500.\n\n\n\nKoko lipun pinta-ala on 300 kertaa 150 = 45 000\n\nPunaisen suhteellinen osuus on siten [MATH text=\\frac{2}{6}] = [MATH text=\\frac{1}{3}],\n\n[MATH text=\\approx33\\%]\n\nja neljän muun värin osuus on [MATH text=\\frac{1}{6}]\n\n≈17%\n",
+          "exam_id": 37443,
+          "content": {
+            "text": "Värikäs lippu (12 p.)\n\n&NewLine;\n\nAineisto:\n\n3.A [LINK url=https://yle.fi/plus/abitreenit/2019/kevat/N-fi/attachments/index.html#3.A|text=Kuva: Seychellien lippu]\n\n&NewLine;\n\nSeychellien lipussa on viisi eri väriä kuvan 3.A mukaisesti. Kuinka monta prosenttia kukin väri peittää koko lipun pinta-alasta?\n",
+            "displayNumber": "3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-06-08T09:39:18.533238",
+          "max_score": null,
+          "groupping": null,
+          "id": 1239137,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "30d91121-cf4e-49a4-a893-a23bbaaf7583",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2019-05-16T11:05:12.314245"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Miten vauva kasvaa? (12 p.)\n\n\n\nVauvan painon voidaan arvioida kasvavan _q_[SUP text=3]-kertaiseksi, kun vauvan pituus kasvaa_ q_-kertaiseksi. Tämä perustuu siihen, että vauva on kolmiulotteinen ja kasvua tapahtuu suurin piirtein yhtä paljon jokaiseen suuntaan. Oletetaan, että vauva on syntyessään 52 cm pitkä ja painaa 4,0 kilogrammaa.\n\n\n\n10.1. Arvioi vauvan painoa tällä menetelmällä, kun vauvan pituus on 55,60 ,65 ja 70 cm. (4 p.)\n\n10.2. Piirrä kuvaaja, josta ilmenevät syntymämitat ja kohdassa 10.1. lasketut tiedot. (4 p.) _Huom: Abitreenien harjoittelukokeisiin ei voi lisätä kuvia. Voit harjoitella kuvaajan piirtämistä halutessasi toisessa ohjelmassa ja verrata sitä hyvän vastauksen piirteisiin._\n\n10.3. Voiko samaa arviointitapaa käyttää aikuiseksi asti? Valota esimerkeillä ja perustele, miksi uskot menetelmän toimivan tai olevan toimimatta. (4 p.)\n",
+          "deleted_at": null,
+          "feedback": "Vauvan painon malli on _m(x) = ax_[SUP text=3].\n\nAlkuarvoilla 0,52 (m) ja 4 (kg) saadaan _a_(0,52)[SUP text=3] = 4, joten _a_ ≈ 28,45. 2\n\nKaavalla lasketaan _m_(0,55) ≈ 4,7; _m_(0,60) ≈ 6,1; _m_(0,65) ≈ 7,8; _m_(0,70) ≈ 9,8 (kg). \n\nPisteet on merkitty oikein kuvaajaan. \n\nKaavalla arvioitu paino 1,75-metriselle henkilölle on 152 kg, joka on enemmän\n\nkuin keskivertoihmiseltä odottaisi. \n\nKaava perustuu siihen, että aikuinen ihminen olisi vain skaalattu versio vauvasta,\n\nmutta ihmisen kehon mittasuhteet muuttuvat hänen kasvaessaan.\n",
+          "exam_id": 37443,
+          "content": {
+            "text": "Miten vauva kasvaa? (12 p.)\n\n\n\nVauvan painon voidaan arvioida kasvavan _q_[SUP text=3]-kertaiseksi, kun vauvan pituus kasvaa_ q_-kertaiseksi. Tämä perustuu siihen, että vauva on kolmiulotteinen ja kasvua tapahtuu suurin piirtein yhtä paljon jokaiseen suuntaan. Oletetaan, että vauva on syntyessään 52 cm pitkä ja painaa 4,0 kilogrammaa.\n\n\n\n10.1. Arvioi vauvan painoa tällä menetelmällä, kun vauvan pituus on 55,60 ,65 ja 70 cm. (4 p.)\n\n10.2. Piirrä kuvaaja, josta ilmenevät syntymämitat ja kohdassa 10.1. lasketut tiedot. (4 p.) _Huom: Abitreenien harjoittelukokeisiin ei voi lisätä kuvia. Voit harjoitella kuvaajan piirtämistä halutessasi toisessa ohjelmassa ja verrata sitä hyvän vastauksen piirteisiin._\n\n10.3. Voiko samaa arviointitapaa käyttää aikuiseksi asti? Valota esimerkeillä ja perustele, miksi uskot menetelmän toimivan tai olevan toimimatta. (4 p.)\n",
+            "displayNumber": "10."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-06-08T09:39:18.546688",
+          "max_score": null,
+          "groupping": null,
+          "id": 1428415,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "45d52d5d-5573-4e84-9326-11f79df1084a",
+          "order_number": 13,
+          "multipart": true,
+          "created_at": "2019-07-17T07:23:32.902416"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Lukujonon kasvaminen ja väheneminen (12 p.)\n\n​\n\nTarkastellaan lukuja _a_[SUB text=n] = [MATH text=-n³+1000n²+100n+2019]\n\n​\n\nkun _n_ = 0,1,2,3,...1000.  Etsi derivaatan avulla sellainen indeksin _k _ arvo, että lukujono _(a_[SUB text=0],...,_a_[SUB text=k])\n on kasvava ja lukujono (_a_[SUB text=k],....,_a_[SUB text=1000])  on vähenevä.\n",
+          "deleted_at": null,
+          "feedback": "Tarkastellaan funktiota [MATH text=f(x) = -x³+1000x²+100x+2019]\n\nja derivaattaa [MATH text=f'(x)=-3x²+2000x+100]\n\nDerivaatta on positiivinen, kun [MATH text=x≤\\frac{1000}{3}+\\frac{10}{3}\\sqrt{10003}≈666,7]\n\nSiten jono (_a_[SUB text=1],...,_a_[SUB text=666]) on kasvava ja jono (_a_[SUB text=667],...,_a_[SUB text=1000]) on vähenevä.\n\nLasketaan arvot _a_[SUB text=666] ja _a_[SUB text=667] : _a_[SUB text=666] = 148 216 323 ja _a_[SUB text=667] = 148 216 756.\n\nValinta _k_ = 667 toteuttaa tehtävän ehdon\n",
+          "exam_id": 37443,
+          "content": {
+            "text": "Lukujonon kasvaminen ja väheneminen (12 p.)\n\n​\n\nTarkastellaan lukuja _a_[SUB text=n] = [MATH text=-n³+1000n²+100n+2019]\n\n​\n\nkun _n_ = 0,1,2,3,...1000.  Etsi derivaatan avulla sellainen indeksin _k _ arvo, että lukujono _(a_[SUB text=0],...,_a_[SUB text=k])\n on kasvava ja lukujono (_a_[SUB text=k],....,_a_[SUB text=1000])  on vähenevä.\n",
+            "displayNumber": "8."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-06-08T09:39:18.549057",
+          "max_score": null,
+          "groupping": null,
+          "id": 1427819,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "53655a7c-3a51-4e47-9992-93df82b57309",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2019-07-17T06:57:06.879189"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Paljonko tölkissä on ilmaa? (12 p.)\n\n&NewLine;\n\nAineisto:\n\n5.A [LINK url=https://yle.fi/plus/abitreenit/2019/kevat/N-fi/attachments/index.html#5.A|text=Kuva: Maitotölkki]\n\n&NewLine;\n\nMaitotölkki (aineisto 5.A) sisältää 1,75 litraa maitoa. Tölkin pohja on neliö, jonka sivun pituus on 9,25 cm. Tölkin sisäosan kokonaiskorkeus on 23,0 cm, ja sen alaosa koostuu suorakulmaisesta särmiöstä, jonka korkeus on 20,0 cm. Tölkin yläosa muodostuu pyramidista. Kuinka paljon ilmaa on avaamattomassa maitotölkissä?\n",
+          "deleted_at": null,
+          "feedback": "Koska yksi litra vastaa yhtä kuutiodesimetriä, niin tölkissä on 1 750 kuutiosenttimetriä maitoa. 2\n\nSärmiön tilavuus on [MATH text=(9,25)²·20=1711,25]\n\nPyramidin tilavuus on [MATH text=\\frac{1}{3}(9,25)²(23-20)=85,5625]\n\nTölkin tilavuus on siten noin 1 797 kuutiosenttimetriä, \n\njoten ilmaa on täydessä maitotölkissä 47 kuutiosenttimetriä\n",
+          "exam_id": 37443,
+          "content": {
+            "text": "Paljonko tölkissä on ilmaa? (12 p.)\n\n&NewLine;\n\nAineisto:\n\n5.A [LINK url=https://yle.fi/plus/abitreenit/2019/kevat/N-fi/attachments/index.html#5.A|text=Kuva: Maitotölkki]\n\n&NewLine;\n\nMaitotölkki (aineisto 5.A) sisältää 1,75 litraa maitoa. Tölkin pohja on neliö, jonka sivun pituus on 9,25 cm. Tölkin sisäosan kokonaiskorkeus on 23,0 cm, ja sen alaosa koostuu suorakulmaisesta särmiöstä, jonka korkeus on 20,0 cm. Tölkin yläosa muodostuu pyramidista. Kuinka paljon ilmaa on avaamattomassa maitotölkissä?\n",
+            "displayNumber": "5."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-06-08T09:39:18.551491",
+          "max_score": null,
+          "groupping": null,
+          "id": 1427652,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "70d7d0fd-9368-4efa-a261-47c849a5c9f6",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2019-07-17T06:32:23.82024"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mikko vaihtaa rahaa (12 p.)\n\n\n\nMikko lähtee matkalle Varsovaan ja Prahaan. Hän joutuu vaihtamaan rahaa useita kertoja ennen matkaa ja matkan aikana. Jokaisessa vaihdossa hän menettää vaihtotappiona 5 prosenttia rahan arvosta. Hän vaihtaa 300 euroa Puolan złotyiksi ja 200 euroa Tšekin korunoiksi. Hän ei muista, millä kurssilla vaihto suoritettiin, mutta pitää kirjaa siitä, kuinka suuri osuus rahoista tulee käytettyä.\n\n\n\nPuolassa hän huomaa, että kolmasosa złoteista on jäänyt käyttämättä, ja hän vaihtaa ne lähtiessään Tšekin korunoiksi. Kotiin tullessaan hänellä on vielä viidesosa kaikista korunoista jäljellä, ja hän vaihtaa ne takaisin euroiksi.\n\n\n\nKuinka monta euroa hän saa takaisin? Anna vastaus euron tarkkuudella.\n",
+          "deleted_at": null,
+          "feedback": "Lasketaan eri valuuttojen arvot euroissa eri vaihtohjen jälkeen. \n\nEnsimmäisen vaihdon jälkeen zloteja on 285 e ja korunoita 190 e \n\nPuolen osuuden jälkeen jäljellä on 285/3 = 95 euron arvosta zloteja, jotka vaihdon\n\njälkeen ovat 90,25 euron arvosta korunoita. \n\nYhteensä korunoita on siis 280,25 euron arvosta. \n\nTsekin osuuden jälkeen jäljellä on 280,25/5 = 56,05 euron arvosta zloteja. \n\nVaihtotappion jälkeen Mikolle jää noin 56,05 · 0,95 = 53,25 euroa. \n\n​\n\nTAI\n\n​\n\nTehtävässä osa rahoista vaihdetaan kolme kertaa, osa kaksi kertaa. \n\nEuroista zlotyjen ja korunien kautta takaisin euroiksi tulee vaihdettua 300·[MATH text=\\frac{1}{3}\\cdot \\frac{1}{5}] \n\n =20 euroa, \n\neli kolmen vaihdon seurauksena Mikko saa takaisin 20 · (0,95)[SUP text=3]\n = 17,15 euroa. \n\nEuroista korunien kautta takaisin euroiksi tulee vaihdettua 200 · [MATH text=\\frac{1}{5}]  = 40 euroa, eli kahden vaihdon seurauksena hän saa takaisin 40 · (0,95)[SUP text=2] = 36,10 euroa. \n\nYhteensä hän saa takaisin noin 53,25 euroa. \n\nVastaukseksi kelpaa myös 53 euroa.\n",
+          "exam_id": 37443,
+          "content": {
+            "text": "Mikko vaihtaa rahaa (12 p.)\n\n\n\nMikko lähtee matkalle Varsovaan ja Prahaan. Hän joutuu vaihtamaan rahaa useita kertoja ennen matkaa ja matkan aikana. Jokaisessa vaihdossa hän menettää vaihtotappiona 5 prosenttia rahan arvosta. Hän vaihtaa 300 euroa Puolan złotyiksi ja 200 euroa Tšekin korunoiksi. Hän ei muista, millä kurssilla vaihto suoritettiin, mutta pitää kirjaa siitä, kuinka suuri osuus rahoista tulee käytettyä.\n\n\n\nPuolassa hän huomaa, että kolmasosa złoteista on jäänyt käyttämättä, ja hän vaihtaa ne lähtiessään Tšekin korunoiksi. Kotiin tullessaan hänellä on vielä viidesosa kaikista korunoista jäljellä, ja hän vaihtaa ne takaisin euroiksi.\n\n\n\nKuinka monta euroa hän saa takaisin? Anna vastaus euron tarkkuudella.\n",
+            "displayNumber": "7."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-06-08T09:39:18.556184",
+          "max_score": null,
+          "groupping": null,
+          "id": 1427782,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "37dac8a3-b95f-40aa-8a6b-0d824fdcc1cf",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2019-07-17T06:42:59.402737"
+        }
+      ],
+      "name": "Matematiikka, lyhyt oppimäärä kevät 2019",
+      "settings": {},
+      "exam_type": "yo-koe",
+      "classification": {
+        "category": "",
+        "disable_saving": false,
+        "hide_review_buttons": false,
+        "exam_type": "yo-koe",
+        "year": "2019",
+        "language": "fi-FI",
+        "hide_statistics": false,
+        "show_exam_series": false,
+        "force_yletunnus": false,
+        "subject": "matematiikka-lyhyt",
+        "published": true,
+        "semester": "spring"
+      },
+      "published_at": "2019-07-17T07:36:41.938Z",
+      "language": "fi-FI",
+      "id": 37443,
+      "reviews": [],
+      "is_open": true,
+      "uuid": "78a7386b-5fd6-4c66-a285-a014c798ab0c"
+    }
+  ]
+}

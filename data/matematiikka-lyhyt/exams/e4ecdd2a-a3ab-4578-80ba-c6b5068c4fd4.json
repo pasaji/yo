@@ -1,0 +1,1023 @@
+{
+  "meta": {
+    "count": 1
+  },
+  "data": [
+    {
+      "tags": [
+        ""
+      ],
+      "main_text": "Koe koostuu 13 tehtävästä, joista vastataan kymmeneen. Tehtävät on jaettu kolmeen osaan. A-osassa on neljä kaikille pakollista tehtävää. B1-osassa on viisi tehtävää, joista vastataan kolmeen. B2-osassa on neljä tehtävää, joista vastataan kolmeen. Kaikki tehtävät arvostellaan pistein 0–12, joten kokeen maksimipistemäärä on 120.\n\n&NewLine;\n\nA-osassa saat käyttää taulukkokirjaa ja koejärjestelmän tarjoamia perusohjelmia. A-osa palautetaan tehtävän 4 jälkeen olevalla painikkeella. Tämän jälkeen A-osan vastauksia ei voi enää muokata. A-osan palauttamisen jälkeen kaikki koejärjestelmän ohjelmat ovat käytettävissäsi. Lisäksi saat käyttöön oman laskimesi. Voit vastata B-osien tehtäviin myös ennen A-osan palauttamista.\n\n&NewLine;\n\nUseimmissa tehtävissä kaikkien osatehtävien vastaukset kirjoitetaan samaan vastauskenttään. Jaottele vastauksesi osatehtävien mukaisesti. Halutessasi voit tuottaa vastausten tueksi piirroksia, kaavioita tai taulukoita ja liittää niistä kuvakaappauksen mihin tahansa tekstivastaukseen.\n\n&NewLine;\n\nÄlä jätä mitään merkintöjä sellaisen tehtävän vastaukselle varattuun tilaan, jota et halua jättää arvosteltavaksi.\n\n&NewLine;\n\n**Huom. Abitreenien harjoittelukokeessa ei voi käyttää kuvakaappauksia eikä kaavaeditoria.**\n\n&NewLine;\n",
+      "characters": null,
+      "deleted_at": null,
+      "series_uuids": [],
+      "questions": [
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### A-osa\n\n&NewLine;\n\nVastaa neljään tehtävään.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 89175,
+          "content": {
+            "text": "### A-osa\n\n&NewLine;\n\nVastaa neljään tehtävään.\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-09-13T10:39:49.664702",
+          "max_score": null,
+          "groupping": null,
+          "id": 2941891,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "5b8cb1b4-4822-4c32-a6a2-229e52b0fc2d",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2020-12-16T08:18:24.336362"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Abiturientit ravintolassa 12 p.**\n\n&NewLine;\n\nJoukko abiturientteja on ravintolassa syömässä ja laskun maksun yhteydessä päättää antaa tarjoilijalle juomarahaa 10 % laskun loppusummasta. Jos jokainen abiturientti maksaa 25 euroa, niin rahaa laskun maksuun on 3 euroa enemmän kuin laskun loppusumma, mutta raha ei riitä kattamaan 10 %:n juomarahaa. Jos jokainen abiturientti maksaa 27 euroa, niin laskun maksuun kerätty raha kattaa juomarahan ja tarjoilijalle jää vielä 80 senttiä ylimääräistä juomarahaa 10 % juomarahan lisäksi. Mikä on laskun loppusumma, ja kuinka monta abiturienttia joukossa on?\n",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/135pv-ifDI28dbEEICV2P8Wm7hqgaj54t/view|text=Katso oikeat vastaukset hyvän vastauksen piirteistä.]\n",
+          "exam_id": 89175,
+          "content": {
+            "text": "**Abiturientit ravintolassa 12 p.**\n\n&NewLine;\n\nJoukko abiturientteja on ravintolassa syömässä ja laskun maksun yhteydessä päättää antaa tarjoilijalle juomarahaa 10 % laskun loppusummasta. Jos jokainen abiturientti maksaa 25 euroa, niin rahaa laskun maksuun on 3 euroa enemmän kuin laskun loppusumma, mutta raha ei riitä kattamaan 10 %:n juomarahaa. Jos jokainen abiturientti maksaa 27 euroa, niin laskun maksuun kerätty raha kattaa juomarahan ja tarjoilijalle jää vielä 80 senttiä ylimääräistä juomarahaa 10 % juomarahan lisäksi. Mikä on laskun loppusumma, ja kuinka monta abiturienttia joukossa on?\n",
+            "displayNumber": "6."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-09-13T10:39:49.652851",
+          "max_score": null,
+          "groupping": null,
+          "id": 2942117,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "215951dd-3396-4142-9f21-d07e6e56e509",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2020-12-16T09:52:08.804088"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Yhtälöitä 12 p.**\n\n&NewLine;\n\nRatkaise seuraavat yhtälöt. Anna vastausten likiarvot kahden desimaalin tarkkuudella.\n",
+          "deleted_at": null,
+          "feedback": "&NewLine;\n",
+          "exam_id": 89175,
+          "content": {
+            "text": "**Yhtälöitä 12 p.**\n\n&NewLine;\n\nRatkaise seuraavat yhtälöt. Anna vastausten likiarvot kahden desimaalin tarkkuudella.\n",
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "d9662eb9-f58f-4bfa-8827-23fa1e78af51"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-09-13T10:39:49.643478",
+          "max_score": null,
+          "groupping": null,
+          "id": 2942110,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "b2fca414-94d8-4625-b602-01b4f4b187cd",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2020-12-16T09:52:08.771473"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Hallitustenvälisen ilmastopaneelin (IPCC) vuoden 2019 raportissa hyödynnettiin maankäytön tilastoja vuodelta 2015 (aineisto 5. A). Niiden mukaan jäättömästä maanpinnasta on ihmisen käytössä 72 % ja loput 28 % on käyttämättä. Oletetaan, että maankäyttö muuttuu vuosien 2015 ja 2030 välillä seuraavilla tavoilla:\n\n&NewLine;\n\nKasvispitoisempaan ruokavalioon siirtyminen vähentää laidunmaan pinta-alaa kymmenellä prosentilla. Tämä pinta-ala muuttuu viljelysmaaksi.\n\nViisi prosenttia käyttämättömästä osasta otetaan käyttöön talousmetsänä.\n\nLaske näiden oletusten perusteella eri maankäyttötapojen prosenttiosuudet vuonna 2030.\n",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/135pv-ifDI28dbEEICV2P8Wm7hqgaj54t/view|text=Katso oikeat vastaukset hyvän vastauksen piirteistä.]\n",
+          "exam_id": 89175,
+          "content": {
+            "text": "Hallitustenvälisen ilmastopaneelin (IPCC) vuoden 2019 raportissa hyödynnettiin maankäytön tilastoja vuodelta 2015 (aineisto 5. A). Niiden mukaan jäättömästä maanpinnasta on ihmisen käytössä 72 % ja loput 28 % on käyttämättä. Oletetaan, että maankäyttö muuttuu vuosien 2015 ja 2030 välillä seuraavilla tavoilla:\n\n&NewLine;\n\nKasvispitoisempaan ruokavalioon siirtyminen vähentää laidunmaan pinta-alaa kymmenellä prosentilla. Tämä pinta-ala muuttuu viljelysmaaksi.\n\nViisi prosenttia käyttämättömästä osasta otetaan käyttöön talousmetsänä.\n\nLaske näiden oletusten perusteella eri maankäyttötapojen prosenttiosuudet vuonna 2030.\n"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-09-13T10:39:49.640919",
+          "max_score": null,
+          "groupping": null,
+          "id": 2942116,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "48a1d67c-bda3-487a-87a0-69db77f37dcc",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2020-12-16T09:52:08.798461"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Arvioi yleistiedon perusteella, mikä vaihtoehdoista kuvaa parhaiten seuraavien muuttujien välistä korrelaatiota. Oikea vastaus 1 p., väärä vastaus 0 p., ei vastausta 0 p. 4 p.\n\n​\n\nsuomalaisten lasten pituus ja paino\n\n[SELECT id=14]\n\n​\n\nsuomalaisten aikuisten kengännumero ja verenpaine\n\n[SELECT id=15]\n\n​\n\nmaan bruttokansantuote asukasta kohti ja lapsikuolleisuus\n\n[SELECT id=16]\n\n​\n\ntikkatauluun osuneiden tikkojen pysty- ja vaakasuuntaiset koordinaatit.\n\n[SELECT id=17]\n\n​\n\n​\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 89175,
+          "content": {
+            "text": "Arvioi yleistiedon perusteella, mikä vaihtoehdoista kuvaa parhaiten seuraavien muuttujien välistä korrelaatiota. Oikea vastaus 1 p., väärä vastaus 0 p., ei vastausta 0 p. 4 p.\n\n​\n\nsuomalaisten lasten pituus ja paino\n\n[SELECT id=14]\n\n​\n\nsuomalaisten aikuisten kengännumero ja verenpaine\n\n[SELECT id=15]\n\n​\n\nmaan bruttokansantuote asukasta kohti ja lapsikuolleisuus\n\n[SELECT id=16]\n\n​\n\ntikkatauluun osuneiden tikkojen pysty- ja vaakasuuntaiset koordinaatit.\n\n[SELECT id=17]\n\n​\n\n​\n",
+            "displayNumber": "12.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-09-13T10:39:49.629586",
+          "max_score": 4,
+          "groupping": null,
+          "id": 2942485,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 14,
+              "parent": "7a7ef3a8-c88c-4e7d-8fb2-cd0b798e6b44",
+              "choices": [
+                {
+                  "id": "719582cf-c4df-4b97-8a3c-95c415dab9e7",
+                  "text": "positiivinen korrelaatio",
+                  "correct": true
+                },
+                {
+                  "id": "8087e2cd-9376-4708-ac23-9e70b56ddefb",
+                  "text": "korrelaatio lähes nolla"
+                },
+                {
+                  "id": "128a311a-46fa-463e-ae74-643ff3e056d5",
+                  "text": "negatiivinen korrelaatio"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 15,
+              "parent": "7a7ef3a8-c88c-4e7d-8fb2-cd0b798e6b44",
+              "choices": [
+                {
+                  "id": "b66d6873-b996-4cfc-a292-d7eeb1abecf1",
+                  "text": "positiivinen korrelaatio"
+                },
+                {
+                  "id": "32114fcf-9d61-4bd4-a481-509fa8b4922b",
+                  "text": "korrelaatio lähes nolla",
+                  "correct": true
+                },
+                {
+                  "id": "88dc5d7e-4d81-4592-90c5-024678118f3b",
+                  "text": "negatiivinen korrelaatio"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 16,
+              "parent": "7a7ef3a8-c88c-4e7d-8fb2-cd0b798e6b44",
+              "choices": [
+                {
+                  "id": "5c5045ba-28ef-4f6b-9e65-a69c0af77a91",
+                  "text": "positiivinen korrelaatio"
+                },
+                {
+                  "id": "bad32118-b67c-4d63-8fdb-6a3ba3e49204",
+                  "text": "korrelaatio lähes nolla"
+                },
+                {
+                  "id": "8cee35f7-3e0e-457f-a844-c586870ed53b",
+                  "text": "negatiivinen korrelaatio",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 17,
+              "parent": "7a7ef3a8-c88c-4e7d-8fb2-cd0b798e6b44",
+              "choices": [
+                {
+                  "id": "d2b11cde-ba8c-4d56-8a83-63ac792541cc",
+                  "text": "positiivinen korrelaatio"
+                },
+                {
+                  "id": "607634b0-ad75-4cf8-aa54-4146b5670b48",
+                  "text": "korrelaatio lähes nolla",
+                  "correct": true
+                },
+                {
+                  "id": "365fb9ff-df11-4400-a492-ed5a7f767c38",
+                  "text": "negatiivinen korrelaatio"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "7a7ef3a8-c88c-4e7d-8fb2-cd0b798e6b44",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2020-12-16T10:05:46.032146"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Seuraavista jonoista vain yksi voi olla geometrinen jono. Mikä? 2 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 89175,
+          "content": {
+            "text": "Seuraavista jonoista vain yksi voi olla geometrinen jono. Mikä? 2 p.\n",
+            "displayNumber": "1.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-09-13T10:39:49.625327",
+          "max_score": 2,
+          "groupping": null,
+          "id": 2941896,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 4,
+              "text": "[MATH text=\\left(1{,}\\ 2{,}\\ 3{,}\\ ...\\right)]",
+              "parent": "e6eabf9c-661c-44ac-9544-ef4d93fd1542",
+              "choices": []
+            },
+            {
+              "id": 5,
+              "text": "[MATH text=\\left(\\frac{2}{5}{,}\\ 1{,}\\ \\frac{5}{2}{,}\\ ...\\right)]",
+              "parent": "e6eabf9c-661c-44ac-9544-ef4d93fd1542",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 6,
+              "text": "[MATH text=\\left(\\frac{3}{4}{,}\\frac{4}{3}{,}\\frac{16}{9}{,}\\ ...\\right)]",
+              "parent": "e6eabf9c-661c-44ac-9544-ef4d93fd1542",
+              "choices": []
+            }
+          ],
+          "uuid": "e6eabf9c-661c-44ac-9544-ef4d93fd1542",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2020-12-16T08:18:24.348237"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Polynomin merkkikaavio 12 p.**\n\n&NewLine;\n\nTutkitaan kolmannen asteen polynomifunktiota [MATH text=p\\left(x\\right)=ax^3+bx^2+cx+d]. Funktion derivaatan merkkikaavio on seuraava.\n\n&NewLine;\n\n[LINK text=Katso kaava täältä.|url=https://yle.fi/plus/abitreenit/2020/syksy/2020-09-22_N_fi/index.html#13]\n\n&NewLine;\n\nLisäksi tiedetään, että funktion p(x) kuvaaja kulkee origon ja pisteiden (−1, 7) ja (2, − 20) kautta.\n\n&NewLine;\n\n1. Millä muuttujan x arvoilla p'(x) = 0? (2 p.)\n2. Määritä funktio p(x). (6 p.)\n3. Määritä p' (x). (4 p.)",
+          "deleted_at": null,
+          "feedback": "Katso oikeat vastaukset [LINK url=https://drive.google.com/file/d/135pv-ifDI28dbEEICV2P8Wm7hqgaj54t/view|text=hyvän vastauksen piirteistä.]\n",
+          "exam_id": 89175,
+          "content": {
+            "text": "**Polynomin merkkikaavio 12 p.**\n\n&NewLine;\n\nTutkitaan kolmannen asteen polynomifunktiota [MATH text=p\\left(x\\right)=ax^3+bx^2+cx+d]. Funktion derivaatan merkkikaavio on seuraava.\n\n&NewLine;\n\n[LINK text=Katso kaava täältä.|url=https://yle.fi/plus/abitreenit/2020/syksy/2020-09-22_N_fi/index.html#13]\n\n&NewLine;\n\nLisäksi tiedetään, että funktion p(x) kuvaaja kulkee origon ja pisteiden (−1, 7) ja (2, − 20) kautta.\n\n&NewLine;\n\n1. Millä muuttujan x arvoilla p'(x) = 0? (2 p.)\n2. Määritä funktio p(x). (6 p.)\n3. Määritä p' (x). (4 p.)",
+            "displayNumber": "13."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-09-13T10:39:49.618513",
+          "max_score": null,
+          "groupping": null,
+          "id": 2943536,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "039e58bf-7ca3-46a2-a96f-b6bf1c107eb3",
+          "order_number": 16,
+          "multipart": true,
+          "created_at": "2020-12-16T11:35:07.526764"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "1) [MATH text=^{x^2=7}](3 p.)\n\n&NewLine;\n\n2) [MATH text=7x^5+2=-3x^5+4] (3 p.)\n\n&NewLine;\n\n3) [MATH text=\\left(3^x\\right)^3\\cdot3^4=3^{11}] (3 p.)\n\n&NewLine;\n\n4) [MATH text=13^x=147] (3 p.)\n",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/135pv-ifDI28dbEEICV2P8Wm7hqgaj54t/view|text=Katso oikeat vastaukset hyvän vastauksen piirteistä.]\n",
+          "exam_id": 89175,
+          "content": {
+            "text": "1) [MATH text=^{x^2=7}](3 p.)\n\n&NewLine;\n\n2) [MATH text=7x^5+2=-3x^5+4] (3 p.)\n\n&NewLine;\n\n3) [MATH text=\\left(3^x\\right)^3\\cdot3^4=3^{11}] (3 p.)\n\n&NewLine;\n\n4) [MATH text=13^x=147] (3 p.)\n"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-09-13T10:39:49.612922",
+          "max_score": null,
+          "groupping": null,
+          "id": 2942111,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "d9662eb9-f58f-4bfa-8827-23fa1e78af51",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2020-12-16T09:52:08.775131"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Veriryhmä tai Suurin arvo 12 p.**\n\n&NewLine;\n\nRatkaise joko tehtävä 1. Veriryhmä TAI tehtävä 2. Suurin arvo.\n\n&NewLine;\n\n1) Veriryhmä: Ihmisen veriryhmä on jokin tyypeistä A, B, AB tai O. Suomessa A:n osuus on 41 %, B:n 18 %, AB:n 8 % ja O:n 33 %. Millä todennäköisyydellä kahdella satunnaisesti valitulla henkilöllä on sama veriryhmä? (12 p.)\n\n&NewLine;\n\n2) Suurin arvo: Määritä derivaattaa käyttämällä funktion[MATH text=f\\left(x\\right)=\\frac{4}{3}x^3-x+4] suurin arvo välillä [MATH text=0\\le x\\le1.] (12 p.)\n\n&NewLine;\n\nKirjoita tähän vastauskenttään joko tehtävän 1. Veriryhmä TAI tehtävän 2. Suurin arvo ratkaisu.\n",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/135pv-ifDI28dbEEICV2P8Wm7hqgaj54t/view|text=Katso oikeat vastaukset hyvän vastauksen piirteistä.]\n",
+          "exam_id": 89175,
+          "content": {
+            "text": "**Veriryhmä tai Suurin arvo 12 p.**\n\n&NewLine;\n\nRatkaise joko tehtävä 1. Veriryhmä TAI tehtävä 2. Suurin arvo.\n\n&NewLine;\n\n1) Veriryhmä: Ihmisen veriryhmä on jokin tyypeistä A, B, AB tai O. Suomessa A:n osuus on 41 %, B:n 18 %, AB:n 8 % ja O:n 33 %. Millä todennäköisyydellä kahdella satunnaisesti valitulla henkilöllä on sama veriryhmä? (12 p.)\n\n&NewLine;\n\n2) Suurin arvo: Määritä derivaattaa käyttämällä funktion[MATH text=f\\left(x\\right)=\\frac{4}{3}x^3-x+4] suurin arvo välillä [MATH text=0\\le x\\le1.] (12 p.)\n\n&NewLine;\n\nKirjoita tähän vastauskenttään joko tehtävän 1. Veriryhmä TAI tehtävän 2. Suurin arvo ratkaisu.\n",
+            "displayNumber": "4."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-09-13T10:39:49.609333",
+          "max_score": null,
+          "groupping": null,
+          "id": 2942113,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "e2406aee-4226-40fe-bde7-7cbfa454d1bc",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2020-12-16T09:52:08.785126"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kun yksityishenkilö hakee asuntolainaa, haluaa pankki yleensä tehdä maksukykyisyystestin. Tavoitteena on varmistaa, että henkilö selviää tulevaisuudessa mahdollisesti kasvavista koroista. Annikalle myönnetään 100 000 euron laina 1,2 %:n vuosikorkokannalla. Pankki on tehnyt maksukykyisyystestin 6,0 %:n vuosikorkokannalla. Annuiteettilainan takaisinmaksuaika on 15 vuotta.\n\n&NewLine;\n\n1. Kuinka paljon rahaa kuukaudessa Annikalla on oltava käytettävissä lainan takaisinmaksuun, jotta hän läpäisisi maksukykyisyystestin? (6 p.)\n\n2. Tee taulukon 10. A mallin mukainen laskelma, josta näkyvät jäljellä oleva lainan määrä kuukausittain sekä ensimmäisen 12 kuukauden korot, lyhennykset ja annuiteetit. Laina nostetaan tänään, ja ensimmäinen lyhennys on kuukauden kuluttua. (6 p.)\n",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/135pv-ifDI28dbEEICV2P8Wm7hqgaj54t/view|text=Katso oikeat vastaukset hyvän vastauksen piirteistä.]\n",
+          "exam_id": 89175,
+          "content": {
+            "text": "Kun yksityishenkilö hakee asuntolainaa, haluaa pankki yleensä tehdä maksukykyisyystestin. Tavoitteena on varmistaa, että henkilö selviää tulevaisuudessa mahdollisesti kasvavista koroista. Annikalle myönnetään 100 000 euron laina 1,2 %:n vuosikorkokannalla. Pankki on tehnyt maksukykyisyystestin 6,0 %:n vuosikorkokannalla. Annuiteettilainan takaisinmaksuaika on 15 vuotta.\n\n&NewLine;\n\n1. Kuinka paljon rahaa kuukaudessa Annikalla on oltava käytettävissä lainan takaisinmaksuun, jotta hän läpäisisi maksukykyisyystestin? (6 p.)\n\n2. Tee taulukon 10. A mallin mukainen laskelma, josta näkyvät jäljellä oleva lainan määrä kuukausittain sekä ensimmäisen 12 kuukauden korot, lyhennykset ja annuiteetit. Laina nostetaan tänään, ja ensimmäinen lyhennys on kuukauden kuluttua. (6 p.)\n"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-09-13T10:39:49.602707",
+          "max_score": null,
+          "groupping": null,
+          "id": 2942482,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "ec07d6bb-6742-4c9b-b575-a0406d1944c8",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2020-12-16T10:05:46.024414"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Merimetsot 12 p.**\n\n&NewLine;\n\nAineisto\n\n9.A [LINK url=http://yle.fi/plus/abitreenit/2020/syksy/2020-09-22\\_N\\_fi/attachments/index.html#9.%20A|text=Taulukko: Merimetsot]\n\n&NewLine;\n\nTaulukossa 9. A on merimetson pesien lukumäärä eri yhdyskunnissa vuonna 2019. Samassa kunnassa sijaitsevia yhdyskuntia on merkitty taulukossa numeroilla, esimerkiksi Kirkkonummi 1 ja Kirkkonummi 2.\n\n&NewLine;\n\n1. Kuinka monta merimetson pesää oli aineiston mukaan olemassa vuonna 2019? (2 p.)\n\n2. Selvitä, mikä yhdyskunnista oli pienin ja mikä suurin, sekä se, mikä oli samaan yhdyskuntaan kuuluvien pesien lukumäärän keskiarvo ja keskihajonta. (3 p.)\n\n3. Aineisto luokitellaan keskihajonnan pituisiin luokkiin siten, että keskiarvo on yhtenä luokkarajana. Mihin luokkaan Kokkolan merimetsoyhdyskunta kuuluu? (3 p.)\n\n4. Määritä luokitellun aineiston suhteelliset frekvenssit ja kuvaile sanallisesti luokiteltua jakaumaa. (4 p.)\n\n&NewLine;\n",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/135pv-ifDI28dbEEICV2P8Wm7hqgaj54t/view|text=Katso oikeat vastaukset hyvän vastauksen piirteistä.]\n",
+          "exam_id": 89175,
+          "content": {
+            "text": "**Merimetsot 12 p.**\n\n&NewLine;\n\nAineisto\n\n9.A [LINK url=http://yle.fi/plus/abitreenit/2020/syksy/2020-09-22\\_N\\_fi/attachments/index.html#9.%20A|text=Taulukko: Merimetsot]\n\n&NewLine;\n\nTaulukossa 9. A on merimetson pesien lukumäärä eri yhdyskunnissa vuonna 2019. Samassa kunnassa sijaitsevia yhdyskuntia on merkitty taulukossa numeroilla, esimerkiksi Kirkkonummi 1 ja Kirkkonummi 2.\n\n&NewLine;\n\n1. Kuinka monta merimetson pesää oli aineiston mukaan olemassa vuonna 2019? (2 p.)\n\n2. Selvitä, mikä yhdyskunnista oli pienin ja mikä suurin, sekä se, mikä oli samaan yhdyskuntaan kuuluvien pesien lukumäärän keskiarvo ja keskihajonta. (3 p.)\n\n3. Aineisto luokitellaan keskihajonnan pituisiin luokkiin siten, että keskiarvo on yhtenä luokkarajana. Mihin luokkaan Kokkolan merimetsoyhdyskunta kuuluu? (3 p.)\n\n4. Määritä luokitellun aineiston suhteelliset frekvenssit ja kuvaile sanallisesti luokiteltua jakaumaa. (4 p.)\n\n&NewLine;\n",
+            "displayNumber": "9."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-09-13T10:39:49.593963",
+          "max_score": null,
+          "groupping": null,
+          "id": 2953314,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "0371f3f4-a6c5-4c35-becc-67214c851eb0",
+          "order_number": 11,
+          "multipart": true,
+          "created_at": "2020-12-21T10:08:09.149878"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Rekursiiviset mallit 12 p.**\n\n&NewLine;\n\n1) Säästötilin saldolle maksetaan vuosittain 2 % nettokorkoa, ja sen jälkeen tilille talletetaan 100 euroa. Tilin saldoa [MATH text=a\\_n] voidaan mallintaa rekursiokaavalla\n\n&NewLine;\n\n[MATH text=a\\_{n+1}=1{,}02a\\_n+100{,}\\ n\\ge1.]\n\n&NewLine;\n\nAlkuarvona on [MATH text=a\\_1]= 1000. Laske[MATH text=a\\_5] eli saldo neljän vuoden jälkeen. (6 p.)\n\n&NewLine;\n\n2) Tutkijat ovat mallintaneet korppipopulaation kokoa seuraavien rekursiokaavojen avulla:\n\n&NewLine;\n\n[MATH text=p\\_{n+1}=0{,}95p\\_n+0{,}02e\\_n] ,\n\n&NewLine;\n\n[MATH text=e\\_{n+1}=p\\_n+e\\_n\\left(1-0{,}01e\\_n\\right)]\n\n&NewLine;\n\nmissä [MATH text=p\\_n] on pesivien korppien lukumäärä ja [MATH text=e\\_n] on ei-pesivien korppien lukumäärä vuonna [MATH text=n\\ge1]. Alkuarvot ovat [MATH text=p\\_1=12] ja [MATH text=e\\_1=23]. Laske [MATH text=p\\_2\\ ja\\ e\\_3]. (6 p.)\n",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso oikea vastaus hyvän vastauksen piirteistä. |url=https://drive.google.com/file/d/135pv-ifDI28dbEEICV2P8Wm7hqgaj54t/view]\n",
+          "exam_id": 89175,
+          "content": {
+            "text": "**Rekursiiviset mallit 12 p.**\n\n&NewLine;\n\n1) Säästötilin saldolle maksetaan vuosittain 2 % nettokorkoa, ja sen jälkeen tilille talletetaan 100 euroa. Tilin saldoa [MATH text=a\\_n] voidaan mallintaa rekursiokaavalla\n\n&NewLine;\n\n[MATH text=a\\_{n+1}=1{,}02a\\_n+100{,}\\ n\\ge1.]\n\n&NewLine;\n\nAlkuarvona on [MATH text=a\\_1]= 1000. Laske[MATH text=a\\_5] eli saldo neljän vuoden jälkeen. (6 p.)\n\n&NewLine;\n\n2) Tutkijat ovat mallintaneet korppipopulaation kokoa seuraavien rekursiokaavojen avulla:\n\n&NewLine;\n\n[MATH text=p\\_{n+1}=0{,}95p\\_n+0{,}02e\\_n] ,\n\n&NewLine;\n\n[MATH text=e\\_{n+1}=p\\_n+e\\_n\\left(1-0{,}01e\\_n\\right)]\n\n&NewLine;\n\nmissä [MATH text=p\\_n] on pesivien korppien lukumäärä ja [MATH text=e\\_n] on ei-pesivien korppien lukumäärä vuonna [MATH text=n\\ge1]. Alkuarvot ovat [MATH text=p\\_1=12] ja [MATH text=e\\_1=23]. Laske [MATH text=p\\_2\\ ja\\ e\\_3]. (6 p.)\n",
+            "displayNumber": "8."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-09-13T10:39:49.588686",
+          "max_score": null,
+          "groupping": null,
+          "id": 2953257,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "d7eb3de1-107b-435e-a4b2-8c11943c7086",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2020-12-21T10:05:35.807409"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Perustehtäviä 12 p.**\n\n&NewLine;\n\nKirjoita tämän tehtävän vastauskenttiin pelkät laskujen lopputulokset ilman välivaiheita ja perusteluja. Tehtävässä ei voi käyttää kuvakaappauksia eikä kaavaeditoria. Osatehtävissä 1.3.–1.6. vastauksen maksimipituus on 10 merkkiä. Vastaukset arvostellaan tietokoneavusteisesti ja ohjeiden noudattamatta jättäminen voi johtaa pistevähennyksiin.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 89175,
+          "content": {
+            "text": "**Perustehtäviä 12 p.**\n\n&NewLine;\n\nKirjoita tämän tehtävän vastauskenttiin pelkät laskujen lopputulokset ilman välivaiheita ja perusteluja. Tehtävässä ei voi käyttää kuvakaappauksia eikä kaavaeditoria. Osatehtävissä 1.3.–1.6. vastauksen maksimipituus on 10 merkkiä. Vastaukset arvostellaan tietokoneavusteisesti ja ohjeiden noudattamatta jättäminen voi johtaa pistevähennyksiin.\n",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "e6eabf9c-661c-44ac-9544-ef4d93fd1542",
+            "babdae7b-61c7-4f65-8d68-e1aef657f43e",
+            "b6ede198-2a93-441c-81ec-ef5370fd48cb",
+            "b189363c-79a1-4c17-995c-e13305f004e2",
+            "03e683a4-25cd-4337-9d4f-6f8231d4988c",
+            "d86ae116-238e-49ee-8d81-7a97c697ffa1"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-09-13T10:39:49.586204",
+          "max_score": null,
+          "groupping": null,
+          "id": 2941892,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "ed7e7270-66ab-46f1-a5ae-fec4bd5eb64d",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2020-12-16T08:18:24.338776"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Vastaa seuraaviin korrelaatiota ja syy-yhteyttä koskeviin osatehtäviin. 8 p.\n\n&NewLine;\n\n1. Selitä omin sanoin, mitä tarkoittaa kahden muuttujan välinen korrelaatio. (4 p.)\n\n2. Usein varoitetaan, että tilastollinen korrelaatio ei ole sama kuin muuttujien välinen syy-yhteys. Anna esimerkki todellisesta tilanteesta, jossa kahdella muuttujalla ei ole syy-yhteyttä, mutta ne kuitenkin korreloivat selvästi keskenään. Laskuja ei vaadita esimerkin tueksi, vaan sanallinen perustelu riittää. (4 p.)\n",
+          "deleted_at": null,
+          "feedback": "Esimerkki kahdesta (järkevästä) ilmiöstä, jossa oikeanlainen yhteys (1 p.)\n\nEm. esimerkki muotoiltu kahden muuttujan avulla (1 p.)\n\nSelitetty muuttujien välinen korrelaatio (1 p.)\n\nSelitetty syy-yhteyden puuttuminen (1 p.)\n\n&NewLine;\n\nKolme viimeistä riviä voi tehdä missä järjestyksessä tahansa.\n\nUseampi esimerkki: huonoin arvioidaan.\n\nYli kaksi muuttujaa yhdessä esimerkissä. (max 3 p.)\n\n&NewLine;\n\nEsimerkki: jäätelö ja hukkumiset (1p), päivässä syödyn jäätelön määrä ja päi-\n\nvittäiset hukkumiset (1p), kesällä syödään paljon jäätelöä ja silloin on paljon hukkumisia (1p), molemmat johtuvat lämpimästä säästä (1p).\n",
+          "exam_id": 89175,
+          "content": {
+            "text": "Vastaa seuraaviin korrelaatiota ja syy-yhteyttä koskeviin osatehtäviin. 8 p.\n\n&NewLine;\n\n1. Selitä omin sanoin, mitä tarkoittaa kahden muuttujan välinen korrelaatio. (4 p.)\n\n2. Usein varoitetaan, että tilastollinen korrelaatio ei ole sama kuin muuttujien välinen syy-yhteys. Anna esimerkki todellisesta tilanteesta, jossa kahdella muuttujalla ei ole syy-yhteyttä, mutta ne kuitenkin korreloivat selvästi keskenään. Laskuja ei vaadita esimerkin tueksi, vaan sanallinen perustelu riittää. (4 p.)\n",
+            "displayNumber": "12.2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-09-13T10:39:49.599807",
+          "max_score": null,
+          "groupping": null,
+          "id": 2942572,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "77ff4881-59b1-47ed-91c3-69495210d144",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2020-12-16T10:07:45.026446"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mikä on funktion [MATH text=f\\left(x\\right)=-x^2+6x-8] suurin nollakohta? 2 p.\n\n​\n\nVastaus: [GAP id=13]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 89175,
+          "content": {
+            "text": "Mikä on funktion [MATH text=f\\left(x\\right)=-x^2+6x-8] suurin nollakohta? 2 p.\n\n​\n\nVastaus: [GAP id=13]\n",
+            "displayNumber": "1.5."
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-09-13T10:39:49.606831",
+          "max_score": 1,
+          "groupping": null,
+          "id": 2942040,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 13,
+              "parent": "03e683a4-25cd-4337-9d4f-6f8231d4988c",
+              "choices": [],
+              "correct": "4 | 2 | 4; -4",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "03e683a4-25cd-4337-9d4f-6f8231d4988c",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2020-12-16T09:16:21.824598"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Suorat ja kolmio 12 p.**\n\n&NewLine;\n\nSuoran[MATH text=S\\_1]yhtälö on 2x + 5y = 7. Suora[MATH text=S\\_2]kulkee pisteiden (−1 , −1) ja (2,5) kautta. Määritä suorien [MATH text=S\\_1] ja [MATH text=S\\_2] leikkauspiste. (6 p.)\n\nKolmion kärjet ovat pisteissä (0,0), (2,3) ja (−1, 4). Laske kolmion origossa oleva kulma asteen tarkkuudella ja tämän kulman vastaisen sivun pituuden tarkka arvo. (6 p.)\n",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/135pv-ifDI28dbEEICV2P8Wm7hqgaj54t/view|text=Katso oikea vastaus hyvän vastauksen piirteistä. ]\n",
+          "exam_id": 89175,
+          "content": {
+            "text": "**Suorat ja kolmio 12 p.**\n\n&NewLine;\n\nSuoran[MATH text=S\\_1]yhtälö on 2x + 5y = 7. Suora[MATH text=S\\_2]kulkee pisteiden (−1 , −1) ja (2,5) kautta. Määritä suorien [MATH text=S\\_1] ja [MATH text=S\\_2] leikkauspiste. (6 p.)\n\nKolmion kärjet ovat pisteissä (0,0), (2,3) ja (−1, 4). Laske kolmion origossa oleva kulma asteen tarkkuudella ja tämän kulman vastaisen sivun pituuden tarkka arvo. (6 p.)\n",
+            "displayNumber": "3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-09-13T10:39:49.616292",
+          "max_score": null,
+          "groupping": null,
+          "id": 2942112,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "6ace7e53-4ba5-414e-a623-4764145f5083",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2020-12-16T09:52:08.780385"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Kolmiot neliössä 12 p.**\n\n&NewLine;\n\nNeliön kärjet ovat pisteissä (0, 0), (10, 0), (10, 10) ja (0, 10). Neliön sisältä valitaan piste P, joka yhdistetään janoilla jokaiseen neliön kärkeen. Näin muodostuu neljä kolmiota. Merkitään kolmioita ja niiden pinta-aloja kirjaimilla A, B, C ja D.\n\n&NewLine;\n\n1. Piirrä tilanteesta kuva. (3 p.)\n\n&NewLine;\n\n2. Määritä pisteen P koordinaattien tarkat arvot, kun A on kuviossa vasemmalla, B ylhäällä, C alhaalla ja D oikealla ja pinta-alojen suhteille pätee A : B : C : D = 1 : 2 : 3 : 4. (9 p.)\n\n&NewLine;\n\n_Huom. Abitreenien harjoittelukokeessa ei voi käyttää kuvakaappauksia eikä kaavaeditoria._\n\n&NewLine;\n\n&NewLine;\n",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/135pv-ifDI28dbEEICV2P8Wm7hqgaj54t/view|text=Katso oikeat vastaukset hyvän vastauksen piirteistä. ]\n",
+          "exam_id": 89175,
+          "content": {
+            "text": "**Kolmiot neliössä 12 p.**\n\n&NewLine;\n\nNeliön kärjet ovat pisteissä (0, 0), (10, 0), (10, 10) ja (0, 10). Neliön sisältä valitaan piste P, joka yhdistetään janoilla jokaiseen neliön kärkeen. Näin muodostuu neljä kolmiota. Merkitään kolmioita ja niiden pinta-aloja kirjaimilla A, B, C ja D.\n\n&NewLine;\n\n1. Piirrä tilanteesta kuva. (3 p.)\n\n&NewLine;\n\n2. Määritä pisteen P koordinaattien tarkat arvot, kun A on kuviossa vasemmalla, B ylhäällä, C alhaalla ja D oikealla ja pinta-alojen suhteille pätee A : B : C : D = 1 : 2 : 3 : 4. (9 p.)\n\n&NewLine;\n\n_Huom. Abitreenien harjoittelukokeessa ei voi käyttää kuvakaappauksia eikä kaavaeditoria._\n\n&NewLine;\n\n&NewLine;\n",
+            "displayNumber": "11."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-09-13T10:39:49.620814",
+          "max_score": null,
+          "groupping": null,
+          "id": 2942483,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "ee2c9107-f929-4481-976d-2719627811fe",
+          "order_number": 14,
+          "multipart": true,
+          "created_at": "2020-12-16T10:05:46.026928"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Taksin kilometriveloitus on 1,55 €/km. Lisäksi on maksettava perusmaksu 5,90 €. Laske 5,0 km pitkän taksimatkan hinta. 2 p.\n\n&NewLine;\n\nVastaus: [GAP id=10] €\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 89175,
+          "content": {
+            "text": "Taksin kilometriveloitus on 1,55 €/km. Lisäksi on maksettava perusmaksu 5,90 €. Laske 5,0 km pitkän taksimatkan hinta. 2 p.\n\n&NewLine;\n\nVastaus: [GAP id=10] €\n",
+            "displayNumber": "1.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-09-13T10:39:49.622871",
+          "max_score": 2,
+          "groupping": null,
+          "id": 2942026,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 10,
+              "parent": "b6ede198-2a93-441c-81ec-ef5370fd48cb",
+              "choices": [],
+              "correct": "13,65 | 13.65",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "b6ede198-2a93-441c-81ec-ef5370fd48cb",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2020-12-16T09:12:51.025748"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Korrelaatiot (12 p.)**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 89175,
+          "content": {
+            "text": "**Korrelaatiot (12 p.)**\n",
+            "displayNumber": "12."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "7a7ef3a8-c88c-4e7d-8fb2-cd0b798e6b44",
+            "77ff4881-59b1-47ed-91c3-69495210d144"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-09-13T10:39:49.633705",
+          "max_score": null,
+          "groupping": null,
+          "id": 2942484,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "cb4a13b4-59a2-46e7-b0cb-043eedec32c7",
+          "order_number": 15,
+          "multipart": true,
+          "created_at": "2020-12-16T10:05:46.029474"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Maksukykyisyystesti 12 p.**\n\n​\n\nAineisto\n\n10.A [LINK url=http://yle.fi/plus/abitreenit/2020/syksy/2020-09-22\\_N\\_fi/attachments/index.html#10.%20A|text=Taulukko: Laina]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 89175,
+          "content": {
+            "text": "**Maksukykyisyystesti 12 p.**\n\n​\n\nAineisto\n\n10.A [LINK url=http://yle.fi/plus/abitreenit/2020/syksy/2020-09-22\\_N\\_fi/attachments/index.html#10.%20A|text=Taulukko: Laina]\n",
+            "displayNumber": "10."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "ec07d6bb-6742-4c9b-b575-a0406d1944c8"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-09-13T10:39:49.63621",
+          "max_score": null,
+          "groupping": null,
+          "id": 2942481,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "f8be39e1-4478-4f0b-a180-f6d0fd5bdfed",
+          "order_number": 13,
+          "multipart": true,
+          "created_at": "2020-12-16T10:05:46.021916"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### B2-osa\n\nVastaa kolmeen tehtävään.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 89175,
+          "content": {
+            "text": "### B2-osa\n\nVastaa kolmeen tehtävään.\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-09-13T10:39:49.638727",
+          "max_score": null,
+          "groupping": null,
+          "id": 2942480,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "2516908d-d776-46b1-b564-5c9de9264201",
+          "order_number": 12,
+          "multipart": true,
+          "created_at": "2020-12-16T10:05:46.019498"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Seuraavassa on kolme yhtälöä. Minkä kuvaaja on paraabeli? 2 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 89175,
+          "content": {
+            "text": "Seuraavassa on kolme yhtälöä. Minkä kuvaaja on paraabeli? 2 p.\n",
+            "displayNumber": "1.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-09-13T10:39:49.646123",
+          "max_score": 2,
+          "groupping": null,
+          "id": 2941904,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 7,
+              "text": "[MATH text=y=2x+7x+2]",
+              "parent": "babdae7b-61c7-4f65-8d68-e1aef657f43e",
+              "choices": []
+            },
+            {
+              "id": 8,
+              "text": "[MATH text=y=2\\left(x+1\\right)^2]",
+              "parent": "babdae7b-61c7-4f65-8d68-e1aef657f43e",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 9,
+              "text": "[MATH text=y=x^3+x^2]",
+              "parent": "babdae7b-61c7-4f65-8d68-e1aef657f43e",
+              "choices": []
+            }
+          ],
+          "uuid": "babdae7b-61c7-4f65-8d68-e1aef657f43e",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2020-12-16T08:20:36.387166"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Hammastahnaa tuubista 12 p.**\n\n&NewLine;\n\nHammastahnatuubissa on 90 ml tahnaa, ja sen pyöreän suuaukon halkaisija on 6 mm. Riittääkö yksi hammastahnatuubi nelihenkisessä perheessä kolmen kuukauden käyttöön, kun jokainen perheenjäsen pesee hampaansa aamulla ja illalla ja pursottaa 5 mm tahnaa hammasharjaansa jokaisella pesukerralla?\n\n&NewLine;\n",
+          "deleted_at": null,
+          "feedback": "[LINK url=http://yle.fi/plus/abitreenit/2020/syksy/2020-09-22\\_N\\_fi/index.html|text=Katso oikea vastaus hyvän vastauksen piirteistä.]\n",
+          "exam_id": 89175,
+          "content": {
+            "text": "**Hammastahnaa tuubista 12 p.**\n\n&NewLine;\n\nHammastahnatuubissa on 90 ml tahnaa, ja sen pyöreän suuaukon halkaisija on 6 mm. Riittääkö yksi hammastahnatuubi nelihenkisessä perheessä kolmen kuukauden käyttöön, kun jokainen perheenjäsen pesee hampaansa aamulla ja illalla ja pursottaa 5 mm tahnaa hammasharjaansa jokaisella pesukerralla?\n\n&NewLine;\n",
+            "displayNumber": "7."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-09-13T10:39:49.648547",
+          "max_score": null,
+          "groupping": null,
+          "id": 2942118,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "97afb60a-50a0-46c3-b6dc-a72e11fb4f05",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2020-12-16T09:52:08.808638"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Maankäytön muutos 12 p.**\n\n&NewLine;\n\n**Aineisto**\n\n5.A Taulukko: [LINK url=http://yle.fi/plus/abitreenit/2020/syksy/2020-09-22\\_N\\_fi/attachments/index.html#5.%20A|text=Maankäyttö vuonna 2015]\n\n&NewLine;\n\n&NewLine;\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 89175,
+          "content": {
+            "text": "**Maankäytön muutos 12 p.**\n\n&NewLine;\n\n**Aineisto**\n\n5.A Taulukko: [LINK url=http://yle.fi/plus/abitreenit/2020/syksy/2020-09-22\\_N\\_fi/attachments/index.html#5.%20A|text=Maankäyttö vuonna 2015]\n\n&NewLine;\n\n&NewLine;\n",
+            "displayNumber": "5."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "48a1d67c-bda3-487a-87a0-69db77f37dcc"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-09-13T10:39:49.656377",
+          "max_score": null,
+          "groupping": null,
+          "id": 2942115,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "7812a64e-7dd4-466f-9c7f-dee11cbcea3e",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2020-12-16T09:52:08.793475"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### B1-osa\n\nVastaa kolmeen tehtävään.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 89175,
+          "content": {
+            "text": "### B1-osa\n\nVastaa kolmeen tehtävään.\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-09-13T10:39:49.658567",
+          "max_score": null,
+          "groupping": null,
+          "id": 2942114,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "99a7ecc8-b5bd-42e1-bfcb-8882b49925e9",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2020-12-16T09:52:08.789668"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mikä on funktion [MATH text=f\\left(x\\right)=-x^2+6x-8]  suurin arvo? 2 p.\n",
+          "deleted_at": null,
+          "feedback": "[LINK url=https://drive.google.com/file/d/135pv-ifDI28dbEEICV2P8Wm7hqgaj54t/view|text=Katso oikea vastaus hyvän vastauksen piirteistä. ]\n",
+          "exam_id": 89175,
+          "content": {
+            "text": "Mikä on funktion [MATH text=f\\left(x\\right)=-x^2+6x-8]  suurin arvo? 2 p.\n",
+            "displayNumber": "1.6."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-09-13T10:39:49.660527",
+          "max_score": null,
+          "groupping": null,
+          "id": 2942109,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "d86ae116-238e-49ee-8d81-7a97c697ffa1",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2020-12-16T09:52:08.768455"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Laske ympyräsektorin pinta-ala yhden neliömillimetrin tarkkuudella, kun keskuskulman suuruus on 40∘ ja ympyrän säde on 34 mm. 2 p.\n\n&NewLine;\n\nVastaus: [GAP id=12] mm2\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 89175,
+          "content": {
+            "text": "Laske ympyräsektorin pinta-ala yhden neliömillimetrin tarkkuudella, kun keskuskulman suuruus on 40∘ ja ympyrän säde on 34 mm. 2 p.\n\n&NewLine;\n\nVastaus: [GAP id=12] mm2\n",
+            "displayNumber": "1.4."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-09-13T10:39:49.662628",
+          "max_score": 2,
+          "groupping": null,
+          "id": 2942028,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 12,
+              "parent": "b189363c-79a1-4c17-995c-e13305f004e2",
+              "choices": [],
+              "correct": "404",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "b189363c-79a1-4c17-995c-e13305f004e2",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2020-12-16T09:12:51.031709"
+        }
+      ],
+      "name": "Matematiikka, lyhyt oppimäärä, syksy 2020",
+      "settings": {
+        "overrideTitle": true
+      },
+      "exam_type": "yo-koe",
+      "classification": {
+        "category": "",
+        "disable_saving": false,
+        "hide_review_buttons": false,
+        "exam_type": "yo-koe",
+        "year": "2020",
+        "language": "fi-FI",
+        "hide_statistics": false,
+        "show_exam_series": false,
+        "force_yletunnus": false,
+        "subject": "matematiikka-lyhyt",
+        "published": true,
+        "semester": "fall"
+      },
+      "published_at": "2020-12-16T11:35:20.000Z",
+      "language": "fi-FI",
+      "id": 89175,
+      "reviews": [],
+      "is_open": true,
+      "uuid": "e4ecdd2a-a3ab-4578-80ba-c6b5068c4fd4"
+    }
+  ]
+}

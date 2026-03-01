@@ -1,0 +1,1002 @@
+{
+  "meta": {
+    "count": 1
+  },
+  "data": [
+    {
+      "tags": [
+        ""
+      ],
+      "main_text": "Koe koostuu 13 tehtävästä, joista vastataan kymmeneen. Tehtävät on jaettu kolmeen osaan. A-osassa on neljä kaikille pakollista tehtävää. B1-osassa on viisi tehtävää, joista vastataan kolmeen. B2-osassa on neljä tehtävää, joista vastataan kolmeen. Kaikki tehtävät arvostellaan pistein 0–12, joten kokeen maksimipistemäärä on 120.\n\n&NewLine;\n\nA-osassa saat käyttää koejärjestelmässä olevaa taulukkokirjaa ja perusohjelmia. A-osa palautetaan tehtävän 4 jälkeen olevalla painikkeella. Tämän jälkeen A-osan vastauksia ei voi enää muokata. A-osan palauttamisen jälkeen kaikki koejärjestelmän ohjelmat ovat käytettävissäsi. Voit vastata B-osien tehtäviin myös ennen A-osan palauttamista.\n\n&NewLine;\n\nUseimmissa tehtävissä kaikkien osatehtävien vastaukset kirjoitetaan samaan vastauskenttään. Jaottele vastauksesi osatehtävien mukaisesti. Halutessasi voit tuottaa vastausten tueksi piirroksia, kaavioita tai taulukoita ja liittää niistä kuvakaappauksen mihin tahansa tekstivastaukseen.\n\n&NewLine;\n\nÄlä jätä mitään merkintöjä sellaisen tehtävän vastaukselle varattuun tilaan, jota et halua jättää arvosteltavaksi.\n",
+      "characters": null,
+      "deleted_at": null,
+      "series_uuids": [],
+      "questions": [
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Pituuksia ja pinta-aloja 12 p.**\n\n&NewLine;\n\nKirjoita tämän tehtävän vastauskenttiin pelkät laskujen lopputulokset ilman välivaiheita ja perusteluja. Tehtävässä ei voi käyttää kuvakaappauksia eikä kaavaeditoria. Kunkin vastauksen maksimipituus on 10 merkkiä. Vastaukset arvostellaan tietokoneavusteisesti ja ohjeiden noudattamatta jättäminen voi johtaa pistevähennyksiin. Jokaisesta kohdasta voi saada 3 pistettä.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 115851,
+          "content": {
+            "text": "**Pituuksia ja pinta-aloja 12 p.**\n\n&NewLine;\n\nKirjoita tämän tehtävän vastauskenttiin pelkät laskujen lopputulokset ilman välivaiheita ja perusteluja. Tehtävässä ei voi käyttää kuvakaappauksia eikä kaavaeditoria. Kunkin vastauksen maksimipituus on 10 merkkiä. Vastaukset arvostellaan tietokoneavusteisesti ja ohjeiden noudattamatta jättäminen voi johtaa pistevähennyksiin. Jokaisesta kohdasta voi saada 3 pistettä.\n",
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "d61fa1a5-6653-4027-80c3-c3a8e208cb92",
+            "55efa427-0381-46b4-83dd-885eddc8814a",
+            "e937cbcd-c122-4d40-a25e-3f1baa2967ea",
+            "7485b9cd-9c64-4537-85a6-b795215d5ce5"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2021-10-20T09:59:54.227414",
+          "max_score": null,
+          "groupping": null,
+          "id": 4021895,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "3dc9b9b7-ce66-4912-9585-2f2ea9607a62",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2021-10-12T09:32:20.952659"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mikä on lausekkeen [MATH text=2x+8] arvo, kun [MATH text=x=-3] 3 p.\n\n​\n\n[SELECT id=1]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 115851,
+          "content": {
+            "text": "Mikä on lausekkeen [MATH text=2x+8] arvo, kun [MATH text=x=-3] 3 p.\n\n​\n\n[SELECT id=1]\n",
+            "displayNumber": "1.1"
+          },
+          "images": null,
+          "settings": {
+            "points": "3"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2021-10-20T09:59:54.208607",
+          "max_score": 3,
+          "groupping": null,
+          "id": 4021899,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "parent": "9e1d9ac7-2c14-4b39-ae17-9e7673c3497d",
+              "choices": [
+                {
+                  "id": "86bd494b-3ee4-4889-bf5d-f0f9cc0d6dc1",
+                  "text": "-10"
+                },
+                {
+                  "id": "cbd21fda-3089-4515-aafa-6738998c3e56",
+                  "text": "-9"
+                },
+                {
+                  "id": "9835a805-8009-4629-87ab-36c69bd8053e",
+                  "text": "-8"
+                },
+                {
+                  "id": "8c5286f4-5b69-4ff9-ad79-96114acdda31",
+                  "text": "-7"
+                },
+                {
+                  "id": "209579d2-6781-4232-b6fa-8aa65fa0e3a9",
+                  "text": "-6"
+                },
+                {
+                  "id": "141e8cc4-6dd3-493d-899e-3a522d805639",
+                  "text": "-5"
+                },
+                {
+                  "id": "637e1e8c-5852-4683-a747-fe459a1b0802",
+                  "text": "-4"
+                },
+                {
+                  "id": "56cf3a08-2a7d-427d-9157-f6685400c286",
+                  "text": "-3"
+                },
+                {
+                  "id": "a28f0da1-8ecd-49e0-b98a-1628ad564131",
+                  "text": "-2"
+                },
+                {
+                  "id": "94ab1fd9-e14e-48ad-ac57-75f3d3501b53",
+                  "text": "-1"
+                },
+                {
+                  "id": "e634a4de-face-47c2-b975-0e7180b960aa",
+                  "text": "0"
+                },
+                {
+                  "id": "49ecefb8-2a64-46a8-8b54-08898ad42c44",
+                  "text": "1"
+                },
+                {
+                  "id": "9c0e65f5-9987-4dbd-8031-355233377d95",
+                  "text": "2",
+                  "correct": true
+                },
+                {
+                  "id": "3b9ff1f0-3454-4d6e-8549-ed7b67a3c818",
+                  "text": "3"
+                },
+                {
+                  "id": "7742913a-c36d-4678-9a6f-4f38297c7af8",
+                  "text": "4"
+                },
+                {
+                  "id": "48757777-e2f8-4e98-ab7c-68c68c953995",
+                  "text": "5"
+                },
+                {
+                  "id": "77066fe1-67a9-4f06-bc2c-fa271b805f43",
+                  "text": "6"
+                },
+                {
+                  "id": "7c639ffb-6f91-4932-b74b-488aa1fd61a7",
+                  "text": "7"
+                },
+                {
+                  "id": "2cb5e04a-c91c-443d-b0ef-9fe392f0a28f",
+                  "text": "8"
+                },
+                {
+                  "id": "858eb67a-42c0-48e4-8c59-2ddd6aeb45b3",
+                  "text": "9"
+                },
+                {
+                  "id": "4b19080b-3173-44dc-9789-ab43e7694706",
+                  "text": "10"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "9e1d9ac7-2c14-4b39-ae17-9e7673c3497d",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2021-10-12T09:34:12.046923"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Noppatilastoja 12 p.**\n\n&NewLine;\n\n**Aineisto**\n\n[LINK text=Taulukko: Noppatilasto|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-21\\_N\\_fi/attachments/index.html#9.A]\n\n&NewLine;\n\nTämä tehtävä on tarkoitettu ohjelmistolla ratkaistavaksi. Vastaukset voi antaa likiarvoina, ja perusteluiksi riittävät kuvakaappaukset tai selitykset, joista ilmenee, mitä on tehty.\n\n&NewLine;\n\nOpiskelijat yrittivät selvittää, minkälaisen jakauman viiden nopan silmäluvun summa toteuttaa. He heittivät 100 kertaa viittä noppaa ja kirjasivat tulokset, ks. taulukko [LINK text=9.A|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-21\\_N\\_fi/attachments/index.html#9.A]. Laskemalla jokaisen heittokerran viiden nopan silmäluvut yhteen saadaan _summamuuttuja_.\n\n&NewLine;\n\n1.Määritä tämän summamuuttujan minimi, maksimi, moodi, mediaani, keskiarvo ja keskihajonta. **(6 p.)**\n\n2.Piirrä tämän summamuuttujan jakauman pylväskaavio. **(3 p.)**\n\n3.Muistuttaako jakauma enemmän normaalijakaumaa vai tasaista jakaumaa? **(3 p.)**\n\n&NewLine;\n",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso hyvän vastauksen piirteet tästä. |url=https://drive.google.com/file/d/18osYKeM2b6mjRHl0KS1QCeMv7iJNzwUb/view]\n",
+          "exam_id": 115851,
+          "content": {
+            "text": "**Noppatilastoja 12 p.**\n\n&NewLine;\n\n**Aineisto**\n\n[LINK text=Taulukko: Noppatilasto|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-21\\_N\\_fi/attachments/index.html#9.A]\n\n&NewLine;\n\nTämä tehtävä on tarkoitettu ohjelmistolla ratkaistavaksi. Vastaukset voi antaa likiarvoina, ja perusteluiksi riittävät kuvakaappaukset tai selitykset, joista ilmenee, mitä on tehty.\n\n&NewLine;\n\nOpiskelijat yrittivät selvittää, minkälaisen jakauman viiden nopan silmäluvun summa toteuttaa. He heittivät 100 kertaa viittä noppaa ja kirjasivat tulokset, ks. taulukko [LINK text=9.A|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-21\\_N\\_fi/attachments/index.html#9.A]. Laskemalla jokaisen heittokerran viiden nopan silmäluvut yhteen saadaan _summamuuttuja_.\n\n&NewLine;\n\n1.Määritä tämän summamuuttujan minimi, maksimi, moodi, mediaani, keskiarvo ja keskihajonta. **(6 p.)**\n\n2.Piirrä tämän summamuuttujan jakauman pylväskaavio. **(3 p.)**\n\n3.Muistuttaako jakauma enemmän normaalijakaumaa vai tasaista jakaumaa? **(3 p.)**\n\n&NewLine;\n",
+            "displayNumber": "9."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2021-10-20T09:59:54.205649",
+          "max_score": null,
+          "groupping": null,
+          "id": 4021968,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "27da4266-7b86-40af-8e65-cda9c7d7a285",
+          "order_number": 11,
+          "multipart": true,
+          "created_at": "2021-10-12T09:43:20.190398"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Kasvihuonekaasujen vähentäminen 12 p.**\n\n&NewLine;\n\n**Aineisto**\n\n[LINK text=Teksti: Ehdotus Euroopan parlamentin ja neuvoston direktiiviksi|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-21\\_N\\_fi/attachments/index.html#10.A]\n\n&NewLine;\n\nTeksti [LINK text=10.A|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-21\\_N\\_fi/attachments/index.html#10.A] käsittelee EU:n pyrkimyksiä vähentää kasvihuonekaasupäästöjä EU:n alueella. Jotta pitkän aikavälin tavoitteet saavutetaan, EU suunnitteli kiristävänsä rajoituksia aikavälille 2021–2030 tekstin kuvailemalla tavalla.\n\n&NewLine;\n\n1.Laadi indeksisarja kasvihuonekaasupäästöjen enimmäismäärästä uuden päästörajan mukaisesti ja käytä indeksivuotena vuotta 2021. Vuoden 2021 indeksin arvo on siis 100. **(4 p.)**\n\n2.Kuinka monta prosenttia kokonaispäästötavoite vähenee uuden päästörajan vaikutuksesta kymmenen vuoden ajanjakson 2021–2030 aikana? **(4 p.)**\n\n3.Kuinka monta prosenttia pienempi on päästötavoite vuonna 2030 uuden päästörajan vuoksi verrattuna siihen, että raja olisi säilytetty ennallaan? **(4 p.)**\n",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso hyvän vastauksen piirteet tästä. |url=https://drive.google.com/file/d/18osYKeM2b6mjRHl0KS1QCeMv7iJNzwUb/view]\n",
+          "exam_id": 115851,
+          "content": {
+            "text": "**Kasvihuonekaasujen vähentäminen 12 p.**\n\n&NewLine;\n\n**Aineisto**\n\n[LINK text=Teksti: Ehdotus Euroopan parlamentin ja neuvoston direktiiviksi|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-21\\_N\\_fi/attachments/index.html#10.A]\n\n&NewLine;\n\nTeksti [LINK text=10.A|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-21\\_N\\_fi/attachments/index.html#10.A] käsittelee EU:n pyrkimyksiä vähentää kasvihuonekaasupäästöjä EU:n alueella. Jotta pitkän aikavälin tavoitteet saavutetaan, EU suunnitteli kiristävänsä rajoituksia aikavälille 2021–2030 tekstin kuvailemalla tavalla.\n\n&NewLine;\n\n1.Laadi indeksisarja kasvihuonekaasupäästöjen enimmäismäärästä uuden päästörajan mukaisesti ja käytä indeksivuotena vuotta 2021. Vuoden 2021 indeksin arvo on siis 100. **(4 p.)**\n\n2.Kuinka monta prosenttia kokonaispäästötavoite vähenee uuden päästörajan vaikutuksesta kymmenen vuoden ajanjakson 2021–2030 aikana? **(4 p.)**\n\n3.Kuinka monta prosenttia pienempi on päästötavoite vuonna 2030 uuden päästörajan vuoksi verrattuna siihen, että raja olisi säilytetty ennallaan? **(4 p.)**\n",
+            "displayNumber": "10."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2021-10-20T09:59:54.20252",
+          "max_score": null,
+          "groupping": null,
+          "id": 4022034,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "58cb6457-4662-48eb-90fa-2380cb9fd6f2",
+          "order_number": 13,
+          "multipart": true,
+          "created_at": "2021-10-12T09:46:12.914127"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**B2-osa**\n\n&NewLine;\n\n**Vastaa kolmeen tehtävään.**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 115851,
+          "content": {
+            "text": "**B2-osa**\n\n&NewLine;\n\n**Vastaa kolmeen tehtävään.**\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2021-10-20T09:59:54.211271",
+          "max_score": null,
+          "groupping": null,
+          "id": 4021999,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "82865672-d519-43d9-afad-8e607c42059e",
+          "order_number": 12,
+          "multipart": true,
+          "created_at": "2021-10-12T09:44:55.648977"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Yhtälöparilla 3p.\n\n​\n\n[MATH text=\\begin{cases} x+2y\\ =\\ 10&\\\\ 2x\\ -y\\ =\\ 10& \\end{cases}]\n\n​\n\n[SELECT id=7]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 115851,
+          "content": {
+            "text": "Yhtälöparilla 3p.\n\n​\n\n[MATH text=\\begin{cases} x+2y\\ =\\ 10&\\\\ 2x\\ -y\\ =\\ 10& \\end{cases}]\n\n​\n\n[SELECT id=7]\n",
+            "displayNumber": "1.4"
+          },
+          "images": null,
+          "settings": {
+            "points": "3"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2021-10-20T09:59:54.213854",
+          "max_score": 3,
+          "groupping": null,
+          "id": 4025415,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 7,
+              "parent": "53148437-85d0-4452-9a5f-0c093899b8d7",
+              "choices": [
+                {
+                  "id": "cd18869c-302a-49a6-a169-a9e25474dcc0",
+                  "text": "ei ole ratkaisua"
+                },
+                {
+                  "id": "69c85d53-50b4-437e-9068-c142554eeff8",
+                  "text": "on täsmälleen yksi ratkaisu",
+                  "correct": true
+                },
+                {
+                  "id": "1df52362-a0ce-4088-8e11-5cc1ba5a92ad",
+                  "text": "on äärettömän monta ratkaisua"
+                },
+                {
+                  "id": "327a8388-4923-47ab-ad91-c1e0263cd038",
+                  "text": "ei mikään näistä vaihtoehdoista toteudu. "
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "53148437-85d0-4452-9a5f-0c093899b8d7",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2021-10-12T11:23:02.112156"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Yhtälö [MATH text=x^2 -4 x =0 ] toteutuu 3 p.\n\n​\n\n[SELECT id=6]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 115851,
+          "content": {
+            "text": "Yhtälö [MATH text=x^2 -4 x =0 ] toteutuu 3 p.\n\n​\n\n[SELECT id=6]\n",
+            "displayNumber": "1.3"
+          },
+          "images": null,
+          "settings": {
+            "points": "3"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2021-10-20T09:59:54.216515",
+          "max_score": 3,
+          "groupping": null,
+          "id": 4024928,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 6,
+              "parent": "3e61d156-5d62-487f-8a29-3c74378c636b",
+              "choices": [
+                {
+                  "id": "e11e6298-2bc4-43da-a24c-b2378eec7231",
+                  "text": "vain arvolla x = 4"
+                },
+                {
+                  "id": "84390ce2-aa83-4acd-945b-255ed2dc2d3c",
+                  "text": "vain arvolla x = 0"
+                },
+                {
+                  "id": "8e5cdb6b-03ad-4d32-87f3-0187b2ca42bd",
+                  "text": "vain arvolla x = -4"
+                },
+                {
+                  "id": "a21b059f-6a9d-4aba-98ad-f03dfbf915b8",
+                  "text": "arvoilla x=0 ja x=4",
+                  "correct": true
+                },
+                {
+                  "id": "dbb75cf1-4c79-4a8b-8055-90451452e55c",
+                  "text": "arvoilla x=0 ja x=-4"
+                },
+                {
+                  "id": "b0e97bd0-0bfc-4c33-aafe-c304a46208a7",
+                  "text": "arvoilla x=-4 ja x=4"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "3e61d156-5d62-487f-8a29-3c74378c636b",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2021-10-12T11:16:47.167756"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Aritmeettisen lukujonon [MATH text=(a\\_n)] yleinen termi on [MATH text=a\\_n][MATH text==3n + 9] [MATH text==1, 2, 3...] Mikä on indeksin [MATH text=n] pienin arvo, jota vastaava termi [MATH text=a\\_n] on suurempi kuin 100? 3 p.\n\n​\n\n[SELECT id=5]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 115851,
+          "content": {
+            "text": "Aritmeettisen lukujonon [MATH text=(a\\_n)] yleinen termi on [MATH text=a\\_n][MATH text==3n + 9] [MATH text==1, 2, 3...] Mikä on indeksin [MATH text=n] pienin arvo, jota vastaava termi [MATH text=a\\_n] on suurempi kuin 100? 3 p.\n\n​\n\n[SELECT id=5]\n",
+            "displayNumber": "1.2"
+          },
+          "images": null,
+          "settings": {
+            "points": "3"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2021-10-20T09:59:54.219163",
+          "max_score": 3,
+          "groupping": null,
+          "id": 4024523,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 5,
+              "parent": "1a12f2ec-cbf8-48b9-a4b6-537d113a7417",
+              "choices": [
+                {
+                  "id": "d96cede4-21ce-4746-a163-1348d136de07",
+                  "text": "n=10"
+                },
+                {
+                  "id": "df1a5e9b-c9bd-4796-919b-2d00237cae5a",
+                  "text": "n=11"
+                },
+                {
+                  "id": "7e1f9e25-5015-4181-93d9-d750b4cc1b07",
+                  "text": "n=30"
+                },
+                {
+                  "id": "3e3a237a-832e-44d6-8357-d7c42299f198",
+                  "text": "n=31",
+                  "correct": true
+                },
+                {
+                  "id": "c2cc5038-5015-48bf-b79f-6c1e146c5208",
+                  "text": "n=100"
+                },
+                {
+                  "id": "f982e30d-f41b-4b9d-bead-1d0a4a4e7b5c",
+                  "text": "n=101"
+                },
+                {
+                  "id": "5f2b8abc-9de5-49ea-b05b-35f733272773",
+                  "text": "ei mikään näistä vaihtoehdoista"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "1a12f2ec-cbf8-48b9-a4b6-537d113a7417",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2021-10-12T11:11:15.701973"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Kukkaruukku 12 p.**\n\n​\n\n**Aineisto**\n\n[LINK text=Kuva: Kukkaruukun poikkileikkaus|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-21\\_N\\_fi/attachments/index.html#3.A]\n\n​\n\nKukkaruukun pystysuora poikkileikkaus ja sisämitat on esitetty kuvassa [LINK text=3.A|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-21\\_N\\_fi/attachments/index.html#3.A]. Kukkaruukun alaosa on suora katkaistu ympyräpohjainen kartio. Kukkaruukun pohjan halkaisija on 30 cm. Kukkaruukun alaosa levenee, kunnes se yhtyy kukkaruukun yläosaan, joka on suora ympyräpohjainen lieriö, jonka halkaisija on 40 cm. Kukkaruukun alaosan korkeus on 20 cm ja yläosan korkeus 15 cm. Laske kukkaruukun tilavuus.\n",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso hyvän vastauksen piirteet tästä. |url=https://drive.google.com/file/d/18osYKeM2b6mjRHl0KS1QCeMv7iJNzwUb/view]\n",
+          "exam_id": 115851,
+          "content": {
+            "text": "**Kukkaruukku 12 p.**\n\n​\n\n**Aineisto**\n\n[LINK text=Kuva: Kukkaruukun poikkileikkaus|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-21\\_N\\_fi/attachments/index.html#3.A]\n\n​\n\nKukkaruukun pystysuora poikkileikkaus ja sisämitat on esitetty kuvassa [LINK text=3.A|url=https://yle.fi/plus/abitreenit/2021/Syksy/2021-09-21\\_N\\_fi/attachments/index.html#3.A]. Kukkaruukun alaosa on suora katkaistu ympyräpohjainen kartio. Kukkaruukun pohjan halkaisija on 30 cm. Kukkaruukun alaosa levenee, kunnes se yhtyy kukkaruukun yläosaan, joka on suora ympyräpohjainen lieriö, jonka halkaisija on 40 cm. Kukkaruukun alaosan korkeus on 20 cm ja yläosan korkeus 15 cm. Laske kukkaruukun tilavuus.\n",
+            "displayNumber": "3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2021-10-20T09:59:54.222264",
+          "max_score": null,
+          "groupping": null,
+          "id": 4024043,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "05bcb596-b6cf-467d-a5a7-12e0b8582f90",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2021-10-12T11:01:04.485043"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Hampaiden harjaajat 12 p.**\n\n&NewLine;\n\nHammaslääkäriliiton suositusten mukaan hampaita on harjattava kahdesti päivässä kaksi minuuttia kerrallaan. Lisäksi aikuisten tulee huolehtia lasten hampaiden harjaamisesta. Virtasen perheessä on neljä lasta, isä ja äiti. Hampaiden harjausvastuu on jaettu tasan molempien vanhempien kesken, eli kumpikin vanhempi harjaa omat sekä kahden lapsen hampaat. Kuinka monta tuntia vuodessa perheen isä viettää hampaita harjaten?\n\n&NewLine;\n\n&NewLine;\n",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso hyvän vastauksen piirteet tästä. |url=https://drive.google.com/file/d/18osYKeM2b6mjRHl0KS1QCeMv7iJNzwUb/view]\n",
+          "exam_id": 115851,
+          "content": {
+            "text": "**Hampaiden harjaajat 12 p.**\n\n&NewLine;\n\nHammaslääkäriliiton suositusten mukaan hampaita on harjattava kahdesti päivässä kaksi minuuttia kerrallaan. Lisäksi aikuisten tulee huolehtia lasten hampaiden harjaamisesta. Virtasen perheessä on neljä lasta, isä ja äiti. Hampaiden harjausvastuu on jaettu tasan molempien vanhempien kesken, eli kumpikin vanhempi harjaa omat sekä kahden lapsen hampaat. Kuinka monta tuntia vuodessa perheen isä viettää hampaita harjaten?\n\n&NewLine;\n\n&NewLine;\n",
+            "displayNumber": "5."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2021-10-20T09:59:54.224702",
+          "max_score": null,
+          "groupping": null,
+          "id": 4023780,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "fe9fc656-a6f3-4804-8445-d3a91146511a",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2021-10-12T10:49:46.604121"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Ympyräsektorin säde on 3,00 cm ja keskuskulma [MATH text=26°]. Määritä sektorin pinta-ala 0,01[MATH text=cm^2]:n tarkkuudella. 3 p.\n\n&NewLine;\n\nVastaus: [GAP id=4] [MATH text=cm^2]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 115851,
+          "content": {
+            "text": "Ympyräsektorin säde on 3,00 cm ja keskuskulma [MATH text=26°]. Määritä sektorin pinta-ala 0,01[MATH text=cm^2]:n tarkkuudella. 3 p.\n\n&NewLine;\n\nVastaus: [GAP id=4] [MATH text=cm^2]\n",
+            "displayNumber": "2.4"
+          },
+          "images": null,
+          "settings": {
+            "points": "3"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2021-10-20T09:59:54.230083",
+          "max_score": 3,
+          "groupping": null,
+          "id": 4024323,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 4,
+              "parent": "7485b9cd-9c64-4537-85a6-b795215d5ce5",
+              "choices": [],
+              "correct": "2,04",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "7485b9cd-9c64-4537-85a6-b795215d5ce5",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2021-10-12T11:08:51.419351"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Vinoneliö (eli neljäkäs) on suunnikas, jonka kaikki sivut ovat yhtä pitkiä. Vinoneliön lävistäjät leikkaavat toisensa kohtisuoraan ja niiden pituudet ovat 2,0 cm ja 5,0 cm. Määritä vinoneliön pinta-ala yhden neliösenttimetrin tarkkuudella. 3 p.\n\n&NewLine;\n\nVastaus: [GAP id=3] [MATH text=cm^2]\n\n&NewLine;\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 115851,
+          "content": {
+            "text": "Vinoneliö (eli neljäkäs) on suunnikas, jonka kaikki sivut ovat yhtä pitkiä. Vinoneliön lävistäjät leikkaavat toisensa kohtisuoraan ja niiden pituudet ovat 2,0 cm ja 5,0 cm. Määritä vinoneliön pinta-ala yhden neliösenttimetrin tarkkuudella. 3 p.\n\n&NewLine;\n\nVastaus: [GAP id=3] [MATH text=cm^2]\n\n&NewLine;\n",
+            "displayNumber": "2.3"
+          },
+          "images": null,
+          "settings": {
+            "points": "3"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2021-10-20T09:59:54.232942",
+          "max_score": 3,
+          "groupping": null,
+          "id": 4024241,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 3,
+              "parent": "e937cbcd-c122-4d40-a25e-3f1baa2967ea",
+              "choices": [],
+              "correct": "5",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "e937cbcd-c122-4d40-a25e-3f1baa2967ea",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2021-10-12T11:06:36.33413"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Lukujono 12 p.**\n\n&NewLine;\n\nRekursiivinen lukujono [MATH text=(a\\_n)] on määritelty seuraavalla tavalla: [MATH text=a\\_1 =3], ja [MATH text=a\\_n +1 =2 a\\_n -1,] kun [MATH text=n\\ge1].\n\n&NewLine;\n\n1.Laske [MATH text=a\\_2], [MATH text=a\\_3] ja [MATH text=a\\_4]. **(4 p.)**\n\n&NewLine;\n\n2.Miksi lukujono [MATH text=(a\\_n)] ei ole aritmeettinen eikä geometrinen? Voit käyttää perusteluissa esimerkiksi kohdassa 4.1 laskettuja lukuja. **(8 p.)**\n",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso hyvän vastauksen piirteet tästä. |url=https://drive.google.com/file/d/18osYKeM2b6mjRHl0KS1QCeMv7iJNzwUb/view]\n",
+          "exam_id": 115851,
+          "content": {
+            "text": "**Lukujono 12 p.**\n\n&NewLine;\n\nRekursiivinen lukujono [MATH text=(a\\_n)] on määritelty seuraavalla tavalla: [MATH text=a\\_1 =3], ja [MATH text=a\\_n +1 =2 a\\_n -1,] kun [MATH text=n\\ge1].\n\n&NewLine;\n\n1.Laske [MATH text=a\\_2], [MATH text=a\\_3] ja [MATH text=a\\_4]. **(4 p.)**\n\n&NewLine;\n\n2.Miksi lukujono [MATH text=(a\\_n)] ei ole aritmeettinen eikä geometrinen? Voit käyttää perusteluissa esimerkiksi kohdassa 4.1 laskettuja lukuja. **(8 p.)**\n",
+            "displayNumber": "4."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2021-10-20T09:59:54.235534",
+          "max_score": null,
+          "groupping": null,
+          "id": 4023822,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "2f217421-829b-4d7a-9973-3ab059a4beef",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2021-10-12T10:55:21.278202"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Esteratsastus 12 p.**\n\n​\n\nEsteratsastus on kehittynyt hevosten suorituskyvyn parantuessa, ja hevosten suoriutumista on myös tutkittu kokeellisesti. On selvinnyt, että parhaimman ponnistuskohdan ja esteen välinen etäisyys [MATH text=d] saadaan kertomalla esteen korkeus [MATH text=h] luvulla 1,3 ja lisäämällä tulokseen 20 cm.\n\n​\n\n1.Mikä on etäisyys [MATH text=d], kun esteen korkeus on 140 cm? **(3 p.)**\n\n2.Kuinka korkean esteen hevonen ja ratsastaja yrittävät ylittää, jos hevosen ponnistuskohdan etäisyys esteeseen on 215 cm? **(3 p.)**\n\n3.Määritä etäisyyden [MATH text=d] lauseke esteen korkeuden h funktiona. **(3 p.)**\n\n4.Määritä esteen korkeuden [MATH text=h] lauseke etäisyyden [MATH text=d] funktiona. **(3 p.)**\n",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso hyvän vastauksen piirteet tästä. |url=https://drive.google.com/file/d/18osYKeM2b6mjRHl0KS1QCeMv7iJNzwUb/view]\n",
+          "exam_id": 115851,
+          "content": {
+            "text": "**Esteratsastus 12 p.**\n\n​\n\nEsteratsastus on kehittynyt hevosten suorituskyvyn parantuessa, ja hevosten suoriutumista on myös tutkittu kokeellisesti. On selvinnyt, että parhaimman ponnistuskohdan ja esteen välinen etäisyys [MATH text=d] saadaan kertomalla esteen korkeus [MATH text=h] luvulla 1,3 ja lisäämällä tulokseen 20 cm.\n\n​\n\n1.Mikä on etäisyys [MATH text=d], kun esteen korkeus on 140 cm? **(3 p.)**\n\n2.Kuinka korkean esteen hevonen ja ratsastaja yrittävät ylittää, jos hevosen ponnistuskohdan etäisyys esteeseen on 215 cm? **(3 p.)**\n\n3.Määritä etäisyyden [MATH text=d] lauseke esteen korkeuden h funktiona. **(3 p.)**\n\n4.Määritä esteen korkeuden [MATH text=h] lauseke etäisyyden [MATH text=d] funktiona. **(3 p.)**\n",
+            "displayNumber": "6."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2021-10-20T09:59:54.238384",
+          "max_score": null,
+          "groupping": null,
+          "id": 4023707,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "921cb006-db78-49da-8b81-d64d6c775295",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2021-10-12T10:43:42.539493"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Suorakulmion yhden sivun pituus on 5,0 cm, ja se muodostaa [MATH text=35°] kulman suorakulmion lävistäjän kanssa. Laske suorakulmion piiri millimetrin tarkkuudella. 3 p.\n\n​\n\nVastaus: [GAP id=2] mm.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 115851,
+          "content": {
+            "text": "Suorakulmion yhden sivun pituus on 5,0 cm, ja se muodostaa [MATH text=35°] kulman suorakulmion lävistäjän kanssa. Laske suorakulmion piiri millimetrin tarkkuudella. 3 p.\n\n​\n\nVastaus: [GAP id=2] mm.\n",
+            "displayNumber": "2.2"
+          },
+          "images": null,
+          "settings": {
+            "points": "3"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2021-10-20T09:59:54.241075",
+          "max_score": 3,
+          "groupping": null,
+          "id": 4024188,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 2,
+              "parent": "55efa427-0381-46b4-83dd-885eddc8814a",
+              "choices": [],
+              "correct": "170",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "55efa427-0381-46b4-83dd-885eddc8814a",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2021-10-12T11:05:02.04877"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Suorakulmion lävistäjän pituus on 5,0 cm ja lyhyemmän sivun pituus 2,0 cm. Määritä suorakulmion pidemmän sivun pituus millimetrin tarkkuudella. 3 p. \n\n&NewLine;\n\nVastaus: [GAP id=2] mm.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 115851,
+          "content": {
+            "text": "Suorakulmion lävistäjän pituus on 5,0 cm ja lyhyemmän sivun pituus 2,0 cm. Määritä suorakulmion pidemmän sivun pituus millimetrin tarkkuudella. 3 p. \n\n&NewLine;\n\nVastaus: [GAP id=2] mm.\n",
+            "displayNumber": "2.1"
+          },
+          "images": null,
+          "settings": {
+            "points": "3"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2021-10-20T09:59:54.243683",
+          "max_score": 3,
+          "groupping": null,
+          "id": 4024137,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 2,
+              "parent": "d61fa1a5-6653-4027-80c3-c3a8e208cb92",
+              "choices": [],
+              "correct": "46",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "d61fa1a5-6653-4027-80c3-c3a8e208cb92",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2021-10-12T11:03:50.891969"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Noppapeli 12 p.**\n\n&NewLine;\n\nEräässä pelissä aloittava pelaaja A heittää tavallista noppaa. Mikäli hänen tuloksensa on 1 tai 2, hän voittaa pelin. Muussa tapauksessa pelaaja B heittää samaa noppaa. Mikäli hänen tuloksensa on 1, 2 tai 3, hän voittaa. Muussa tapauksessa peli päätyy tasapeliin, eikä kumpikaan voita. Laske pelaajien A ja B todennäköisyydet voittaa peli.\n\n&NewLine;\n\n&NewLine;\n",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso hyvän vastauksen piirteet tästä. |url=https://drive.google.com/file/d/18osYKeM2b6mjRHl0KS1QCeMv7iJNzwUb/view]\n",
+          "exam_id": 115851,
+          "content": {
+            "text": "**Noppapeli 12 p.**\n\n&NewLine;\n\nEräässä pelissä aloittava pelaaja A heittää tavallista noppaa. Mikäli hänen tuloksensa on 1 tai 2, hän voittaa pelin. Muussa tapauksessa pelaaja B heittää samaa noppaa. Mikäli hänen tuloksensa on 1, 2 tai 3, hän voittaa. Muussa tapauksessa peli päätyy tasapeliin, eikä kumpikaan voita. Laske pelaajien A ja B todennäköisyydet voittaa peli.\n\n&NewLine;\n\n&NewLine;\n",
+            "displayNumber": "13."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2021-10-20T09:59:54.246271",
+          "max_score": null,
+          "groupping": null,
+          "id": 4021918,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "ef45961e-076f-412a-afea-b1bc0aa0c8d8",
+          "order_number": 16,
+          "multipart": true,
+          "created_at": "2021-10-12T09:39:30.22262"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**B1-osa**\n\n&NewLine;\n\n**Vastaa kolmeen tehtävään.**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 115851,
+          "content": {
+            "text": "**B1-osa**\n\n&NewLine;\n\n**Vastaa kolmeen tehtävään.**\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2021-10-20T09:59:54.248838",
+          "max_score": null,
+          "groupping": null,
+          "id": 4023800,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "0e1e96b6-aca2-48e1-a070-533523ce6eab",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2021-10-12T10:50:52.812818"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Viiden luvun mediaani 12 p.**\n\n&NewLine;\n\nLukujen [MATH text=x+1], [MATH text=2x+5], [MATH text=3x-2],[MATH text=4x+1] ja [MATH text=5x^2]\n\nkeskiarvo on 1. Määritä näiden lukujen mediaanin kaikki mahdolliset arvot.\n",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso hyvän vastauksen piirteet tästä. |url=https://drive.google.com/file/d/18osYKeM2b6mjRHl0KS1QCeMv7iJNzwUb/view]\n",
+          "exam_id": 115851,
+          "content": {
+            "text": "**Viiden luvun mediaani 12 p.**\n\n&NewLine;\n\nLukujen [MATH text=x+1], [MATH text=2x+5], [MATH text=3x-2],[MATH text=4x+1] ja [MATH text=5x^2]\n\nkeskiarvo on 1. Määritä näiden lukujen mediaanin kaikki mahdolliset arvot.\n",
+            "displayNumber": "11."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2021-10-20T09:59:54.251377",
+          "max_score": null,
+          "groupping": null,
+          "id": 4023592,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "1c644254-bcc5-41fc-b7be-16791a510330",
+          "order_number": 14,
+          "multipart": true,
+          "created_at": "2021-10-12T10:27:25.897855"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Kananmunien hintamuutos 12 p.**\n\n&NewLine;\n\nKananmunien kilohinta kaupassa on 3,50 euroa ilman arvonlisäveroa. Hinnasta 35 % saa alkutuotanto, 25 % pakkaamo ja 40 % kauppa. Kauppa alentaa kananmunien hintaa 10 %. Kuinka monta prosenttia kunkin toimijan saama korvaus laskee, jos euromääräinen hinnanalennus jaetaan tasan kaikkien kolmen toimijan kesken?\n",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso hyvän vastauksen piirteet tästä. |url=https://drive.google.com/file/d/18osYKeM2b6mjRHl0KS1QCeMv7iJNzwUb/view]\n",
+          "exam_id": 115851,
+          "content": {
+            "text": "**Kananmunien hintamuutos 12 p.**\n\n&NewLine;\n\nKananmunien kilohinta kaupassa on 3,50 euroa ilman arvonlisäveroa. Hinnasta 35 % saa alkutuotanto, 25 % pakkaamo ja 40 % kauppa. Kauppa alentaa kananmunien hintaa 10 %. Kuinka monta prosenttia kunkin toimijan saama korvaus laskee, jos euromääräinen hinnanalennus jaetaan tasan kaikkien kolmen toimijan kesken?\n",
+            "displayNumber": "7."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2021-10-20T09:59:54.253939",
+          "max_score": null,
+          "groupping": null,
+          "id": 4023672,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "51712006-8996-42e6-91eb-a63616388426",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2021-10-12T10:41:50.414802"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Huippuparaabeli 12 p. **\n\n&NewLine;\n\nMillä parametrien [MATH text=b] ja [MATH text=c] arvoilla paraabelin [MATH text=y=][MATH text=-x^2][MATH text=+bx+c]huippu on pisteessä (2,1)? Perustele vastauksesi derivaatan avulla\n\n&NewLine;\n\n&NewLine;\n",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso hyvän vastauksen piirteet tästä. |url=https://drive.google.com/file/d/18osYKeM2b6mjRHl0KS1QCeMv7iJNzwUb/view]\n",
+          "exam_id": 115851,
+          "content": {
+            "text": "**Huippuparaabeli 12 p. **\n\n&NewLine;\n\nMillä parametrien [MATH text=b] ja [MATH text=c] arvoilla paraabelin [MATH text=y=][MATH text=-x^2][MATH text=+bx+c]huippu on pisteessä (2,1)? Perustele vastauksesi derivaatan avulla\n\n&NewLine;\n\n&NewLine;\n",
+            "displayNumber": "8."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2021-10-20T09:59:54.25659",
+          "max_score": null,
+          "groupping": null,
+          "id": 4023623,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "68b1c088-3c6d-483c-be8c-5bc28e8cf45e",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2021-10-12T10:36:22.041894"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Tornin rakentaminen 12 p.**\n\n&NewLine;\n\nLinnaan rakennetaan katkaistun pyramidin muotoista tornia. Tornin korkeudeksi on suunniteltu 10 metriä ja seinän leveydeksi tornin huipulla 80 % leveydestä tornin juurella. Saatavilla oleva rakennusmateriaali rajoittaa tornin seinien pinta-alan 120 neliömetriin. Laske seinän leveys tornin juurella.\n",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso hyvän vastauksen piirteet tästä. |url=https://drive.google.com/file/d/18osYKeM2b6mjRHl0KS1QCeMv7iJNzwUb/view]\n",
+          "exam_id": 115851,
+          "content": {
+            "text": "**Tornin rakentaminen 12 p.**\n\n&NewLine;\n\nLinnaan rakennetaan katkaistun pyramidin muotoista tornia. Tornin korkeudeksi on suunniteltu 10 metriä ja seinän leveydeksi tornin huipulla 80 % leveydestä tornin juurella. Saatavilla oleva rakennusmateriaali rajoittaa tornin seinien pinta-alan 120 neliömetriin. Laske seinän leveys tornin juurella.\n",
+            "displayNumber": "12."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2021-10-20T09:59:54.259013",
+          "max_score": null,
+          "groupping": null,
+          "id": 4021933,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "64b57c54-5bbc-4888-92f7-ccbcebb6245d",
+          "order_number": 15,
+          "multipart": true,
+          "created_at": "2021-10-12T09:41:21.814008"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Lausekkeita ja yhtälöitä 12 p.**\n\n&NewLine;\n\nValitse oikea vaihtoehto. Vastauksia ei tarvitse perustella. Oikea vastaus 3 p., väärä vastaus 0 p., ei vastausta 0 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 115851,
+          "content": {
+            "text": "**Lausekkeita ja yhtälöitä 12 p.**\n\n&NewLine;\n\nValitse oikea vaihtoehto. Vastauksia ei tarvitse perustella. Oikea vastaus 3 p., väärä vastaus 0 p., ei vastausta 0 p.\n",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "9e1d9ac7-2c14-4b39-ae17-9e7673c3497d",
+            "1a12f2ec-cbf8-48b9-a4b6-537d113a7417",
+            "3e61d156-5d62-487f-8a29-3c74378c636b",
+            "53148437-85d0-4452-9a5f-0c093899b8d7"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2021-10-20T09:59:54.261733",
+          "max_score": null,
+          "groupping": null,
+          "id": 4021892,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "f791dbb9-a190-47b9-af68-a049cf5c2c52",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2021-10-12T09:31:39.415137"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**A-osa**\n\n&NewLine;\n\nVastaa neljään tehtävään.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 115851,
+          "content": {
+            "text": "**A-osa**\n\n&NewLine;\n\nVastaa neljään tehtävään.\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2021-10-20T09:59:54.264273",
+          "max_score": null,
+          "groupping": null,
+          "id": 4021890,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "2f9747d2-5f51-4260-9640-5ce782b8ab9f",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2021-10-12T09:30:49.534037"
+        }
+      ],
+      "name": "Matematiikka, lyhyt oppimäärä syksy 2021",
+      "settings": {
+        "hideTitle": false,
+        "overrideTitle": true
+      },
+      "exam_type": "yo-koe",
+      "classification": {
+        "category": "",
+        "disable_saving": false,
+        "hide_review_buttons": false,
+        "exam_type": "yo-koe",
+        "year": "2021",
+        "language": "fi-FI",
+        "hide_statistics": false,
+        "show_exam_series": false,
+        "force_yletunnus": false,
+        "subject": "matematiikka-lyhyt",
+        "published": true,
+        "semester": "fall"
+      },
+      "published_at": "2021-10-12T11:28:07.000Z",
+      "language": "fi-FI",
+      "id": 115851,
+      "reviews": [],
+      "is_open": true,
+      "uuid": "ca6a0797-0588-44e8-a335-b75d8aa3867a"
+    }
+  ]
+}

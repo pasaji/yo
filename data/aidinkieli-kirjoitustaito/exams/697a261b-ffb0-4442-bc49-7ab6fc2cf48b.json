@@ -1,0 +1,743 @@
+{
+  "meta": {
+    "count": 1
+  },
+  "data": [
+    {
+      "tags": [
+        ""
+      ],
+      "main_text": "",
+      "characters": null,
+      "deleted_at": null,
+      "series_uuids": [],
+      "questions": [
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-220090"
+          ],
+          "main_text": "**Rakkaudesta urheiluun**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16165,
+          "content": {
+            "text": "**Rakkaudesta urheiluun**\n",
+            "displayNumber": "5."
+          },
+          "images": null,
+          "settings": {
+            "titleEssay": true,
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-14T13:43:01.10809",
+          "max_score": null,
+          "groupping": null,
+          "id": 523611,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "dd354e69-80a1-4496-8405-22ffe5ff2f7e",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2017-07-06T11:26:54.687372"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-4137"
+          ],
+          "main_text": "Joukosta kannattaa erottua\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16165,
+          "content": {
+            "text": "Joukosta kannattaa erottua\n",
+            "displayNumber": "6."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-14T13:43:01.104001",
+          "max_score": null,
+          "groupping": null,
+          "id": 523609,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "f3e08bad-0d88-4e9b-a833-c21a56f811c8",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2017-07-06T11:26:54.681679"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-152016",
+            "18-219412"
+          ],
+          "main_text": "**Mihin tarvitsemme taivasta?**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16165,
+          "content": {
+            "text": "**Mihin tarvitsemme taivasta?**\n",
+            "displayNumber": "4."
+          },
+          "images": null,
+          "settings": {
+            "titleEssay": true,
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-14T13:43:01.111327",
+          "max_score": null,
+          "groupping": null,
+          "id": 523616,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "772fe387-e6d6-4f7c-8c9e-dc8b97f43681",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2017-07-06T11:26:54.701978"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-213155",
+            "18-213090",
+            "18-1178"
+          ],
+          "main_text": "Onko sähköauto ekologisesti kestävä ratkaisu?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16165,
+          "content": {
+            "text": "Onko sähköauto ekologisesti kestävä ratkaisu?\n",
+            "displayNumber": "3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-14T13:43:01.117275",
+          "max_score": null,
+          "groupping": null,
+          "id": 523615,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "a1e70498-c09e-4176-99c2-2eff53e1ce94",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2017-07-06T11:26:54.698732"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-10748"
+          ],
+          "main_text": "Mikä vampyyreissä kiehtoo?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16165,
+          "content": {
+            "text": "Mikä vampyyreissä kiehtoo?\n",
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-14T13:43:01.120786",
+          "max_score": null,
+          "groupping": null,
+          "id": 523610,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "5516c7e7-478c-4a3b-81a2-71a5c7707883",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2017-07-06T11:26:54.684794"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-211709",
+            "18-187871"
+          ],
+          "main_text": "Muuttavatko maahanmuuttajat maata?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16165,
+          "content": {
+            "text": "Muuttavatko maahanmuuttajat maata?\n",
+            "displayNumber": "7."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-14T13:43:01.124301",
+          "max_score": null,
+          "groupping": null,
+          "id": 523608,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "a9790374-0184-4638-bb81-0cbd36c92556",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2017-07-06T11:26:54.677116"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-219759"
+          ],
+          "main_text": null,
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16165,
+          "content": {
+            "displayNumber": "14."
+          },
+          "images": null,
+          "settings": {
+            "material": true
+          },
+          "child_ids": [
+            "b8280aae-a496-48f1-b5be-a870a559449c"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-14T13:43:01.127687",
+          "max_score": null,
+          "groupping": null,
+          "id": 526820,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "8dfcc95b-1173-4fae-8d07-dfae6a8cfbe5",
+          "order_number": 15,
+          "multipart": true,
+          "created_at": "2017-07-06T12:23:20.681941"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-35057"
+          ],
+          "main_text": null,
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16165,
+          "content": {
+            "displayNumber": "13."
+          },
+          "images": null,
+          "settings": {
+            "material": true
+          },
+          "child_ids": [
+            "70b95ea1-9fd8-4065-b3bd-7e1488f9aca2"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-14T13:43:01.131072",
+          "max_score": null,
+          "groupping": null,
+          "id": 526882,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "709aceac-57fc-441b-a78a-f88c5dc0d411",
+          "order_number": 14,
+          "multipart": true,
+          "created_at": "2017-07-06T12:25:02.408152"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-204041"
+          ],
+          "main_text": null,
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16165,
+          "content": {
+            "displayNumber": "12."
+          },
+          "images": null,
+          "settings": {
+            "material": true
+          },
+          "child_ids": [
+            "fddc5903-fe5f-4044-b3f3-b53cb5b24e71"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-14T13:43:01.134454",
+          "max_score": null,
+          "groupping": null,
+          "id": 526884,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "4f76ace3-691b-46d0-9035-e02f6c7c2e38",
+          "order_number": 13,
+          "multipart": true,
+          "created_at": "2017-07-06T12:25:02.413965"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-218850"
+          ],
+          "main_text": null,
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16165,
+          "content": {
+            "displayNumber": "11."
+          },
+          "images": null,
+          "settings": {
+            "material": true
+          },
+          "child_ids": [
+            "79bd6a0b-f4ae-4d74-a80a-615ebf680f61"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-14T13:43:01.14254",
+          "max_score": null,
+          "groupping": null,
+          "id": 526928,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "9892cd23-e0f5-48c8-adba-3e4d47e5b8bf",
+          "order_number": 12,
+          "multipart": true,
+          "created_at": "2017-07-06T12:25:47.032579"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Televisio ammatinvalinnanohjaajana. Pohdi, onko Veijo Hietalan väitteissä perää.\n\n​\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_essee\\_s\\_2011\\_13.pdf|text=Veijo Hietala: Televisio opastaa ammattiin]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16165,
+          "content": {
+            "text": "Televisio ammatinvalinnanohjaajana. Pohdi, onko Veijo Hietalan väitteissä perää.\n\n​\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_essee\\_s\\_2011\\_13.pdf|text=Veijo Hietala: Televisio opastaa ammattiin]\n"
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-07-14T13:43:01.145699",
+          "max_score": null,
+          "groupping": null,
+          "id": 526883,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "70b95ea1-9fd8-4065-b3bd-7e1488f9aca2",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-07-06T12:25:02.411153"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Loppuuko köyhyys koskaan? Käytä kannanotossa hyväksesi Seppo Simolan pääkirjoitusta _Kerjäläiset keskellämme_.\n\n​\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_essee\\_s\\_2011\\_12.pdf|text=Seppo Simola: Kerjäläiset keskellämme]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16165,
+          "content": {
+            "text": "Loppuuko köyhyys koskaan? Käytä kannanotossa hyväksesi Seppo Simolan pääkirjoitusta _Kerjäläiset keskellämme_.\n\n​\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_essee\\_s\\_2011\\_12.pdf|text=Seppo Simola: Kerjäläiset keskellämme]\n"
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-07-14T13:43:01.14883",
+          "max_score": null,
+          "groupping": null,
+          "id": 526885,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "fddc5903-fe5f-4044-b3f3-b53cb5b24e71",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-07-06T12:25:02.417414"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Ohje: Osaan tehtävistä liittyy aineistoa, jota on hyödynnettävä tehtävänannon mukaan. Lue tehtävät, silmäile aineistot läpi ja valitse tehtävistä yksi. Tehtävät arvostellaan pistein 0–60. Kirjoita ehyt ja kielellisesti huoliteltu teksti. Valmiit otsikot on lihavoitu. Muussa tapauksessa anna kirjoituksellesi oma otsikko. Jos valitset aineistotehtävän, tekstisi pitää olla siten ehyt, että lukija voi ymmärtää tekstisi, vaikka ei tunnekaan aineistoa. Aineistotehtävissä tulee viitata aineistoon.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16165,
+          "content": {
+            "text": "Ohje: Osaan tehtävistä liittyy aineistoa, jota on hyödynnettävä tehtävänannon mukaan. Lue tehtävät, silmäile aineistot läpi ja valitse tehtävistä yksi. Tehtävät arvostellaan pistein 0–60. Kirjoita ehyt ja kielellisesti huoliteltu teksti. Valmiit otsikot on lihavoitu. Muussa tapauksessa anna kirjoituksellesi oma otsikko. Jos valitset aineistotehtävän, tekstisi pitää olla siten ehyt, että lukija voi ymmärtää tekstisi, vaikka ei tunnekaan aineistoa. Aineistotehtävissä tulee viitata aineistoon.\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-14T13:43:01.151845",
+          "max_score": null,
+          "groupping": null,
+          "id": 523617,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "a787d23c-0509-41a3-9d54-220610e66d32",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-07-06T11:26:54.705429"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-204744",
+            "18-212574",
+            "18-211172"
+          ],
+          "main_text": null,
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16165,
+          "content": {
+            "displayNumber": "8."
+          },
+          "images": null,
+          "settings": {
+            "material": true
+          },
+          "child_ids": [
+            "15401140-fa62-4459-8d7d-1da991dd2fdd"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-14T13:43:01.155166",
+          "max_score": null,
+          "groupping": null,
+          "id": 527167,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "f9d5da64-73fa-490d-9fe6-9dfe1ef10ab5",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2017-07-06T12:29:47.953773"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-213871",
+            "18-211385",
+            "18-126957"
+          ],
+          "main_text": null,
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16165,
+          "content": {
+            "displayNumber": "9."
+          },
+          "images": null,
+          "settings": {
+            "material": true
+          },
+          "child_ids": [
+            "d46fc229-68ea-40bd-98e5-fd7846d0acbb"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-14T13:43:01.164976",
+          "max_score": null,
+          "groupping": null,
+          "id": 527094,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "79d704f2-bf10-4819-b747-483c46ae97c0",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2017-07-06T12:29:06.332873"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mitä runous on? Tarkastele kysymystä Sirkka Seljan ja Hannu Kankaanpään runojen ja oman näkemyksesi pohjalta.\n\n​\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_essee\\_s\\_2011\\_8.pdf|text=Sirkka Selja: Runo ja Runousoppia & Hanni Kankaanpään runo]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16165,
+          "content": {
+            "text": "Mitä runous on? Tarkastele kysymystä Sirkka Seljan ja Hannu Kankaanpään runojen ja oman näkemyksesi pohjalta.\n\n​\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_essee\\_s\\_2011\\_8.pdf|text=Sirkka Selja: Runo ja Runousoppia & Hanni Kankaanpään runo]\n"
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-07-14T13:43:01.158352",
+          "max_score": null,
+          "groupping": null,
+          "id": 527168,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "15401140-fa62-4459-8d7d-1da991dd2fdd",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-07-06T12:29:47.957097"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Analysoi Hermann Hessen novellia _Ilta tohtori Faustin luona_ (1927) ja pohdi, onko siinä esitetty ennustus tulevaisuudesta toteutunut.\n\n​\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_essee\\_s\\_2011\\_9.pdf|text=Hermann Hesse: Ilta tohtori Faustin luona]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16165,
+          "content": {
+            "text": "Analysoi Hermann Hessen novellia _Ilta tohtori Faustin luona_ (1927) ja pohdi, onko siinä esitetty ennustus tulevaisuudesta toteutunut.\n\n​\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_essee\\_s\\_2011\\_9.pdf|text=Hermann Hesse: Ilta tohtori Faustin luona]\n"
+          },
+          "images": null,
+          "settings": {
+            "points": "",
+            "material": true
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-07-14T13:43:01.161374",
+          "max_score": null,
+          "groupping": null,
+          "id": 527095,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [],
+          "uuid": "d46fc229-68ea-40bd-98e5-fd7846d0acbb",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-07-06T12:29:06.336189"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-211408",
+            "18-193572"
+          ],
+          "main_text": null,
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16165,
+          "content": {
+            "displayNumber": "10."
+          },
+          "images": null,
+          "settings": {
+            "material": true
+          },
+          "child_ids": [
+            "e2248b48-6121-4394-b585-e25c4803b762"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-14T13:43:01.168168",
+          "max_score": null,
+          "groupping": null,
+          "id": 527067,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "62f1dffc-b5b7-4729-8952-8a5e9f357e6b",
+          "order_number": 11,
+          "multipart": true,
+          "created_at": "2017-07-06T12:27:28.308706"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Ohessa on sapluunoin tehtyjä graffiteja, jotka ovat osa rakennettua ympäristöä eri puolilla Eurooppaa. Edustavatko ne taidetta, ilkivaltaa vai yhteiskunnallista vaikuttamista?\n\n​\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_essee\\_s\\_2011\\_14.pdf|text=Sapluunagraffiteja]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16165,
+          "content": {
+            "text": "Ohessa on sapluunoin tehtyjä graffiteja, jotka ovat osa rakennettua ympäristöä eri puolilla Eurooppaa. Edustavatko ne taidetta, ilkivaltaa vai yhteiskunnallista vaikuttamista?\n\n​\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_essee\\_s\\_2011\\_14.pdf|text=Sapluunagraffiteja]\n"
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-07-14T13:43:01.138541",
+          "max_score": null,
+          "groupping": null,
+          "id": 526821,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "b8280aae-a496-48f1-b5be-a870a559449c",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-07-06T12:23:20.685239"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Riitta Kylänpää käsittelee Viron aikomusta kieltää puhekielen käyttö. Kuvittele, mitä seuraisi, jos Suomessa aiottaisiin tehdä samoin.\n\n​\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_essee\\_s\\_2011\\_10.pdf|text=Riitta Kylänpää: Kaplinski tyrmää uuden kielilain]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16165,
+          "content": {
+            "text": "Riitta Kylänpää käsittelee Viron aikomusta kieltää puhekielen käyttö. Kuvittele, mitä seuraisi, jos Suomessa aiottaisiin tehdä samoin.\n\n​\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_essee\\_s\\_2011\\_10.pdf|text=Riitta Kylänpää: Kaplinski tyrmää uuden kielilain]\n"
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-07-14T13:43:01.171441",
+          "max_score": null,
+          "groupping": null,
+          "id": 527068,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "e2248b48-6121-4394-b585-e25c4803b762",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-07-06T12:27:28.312831"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mitä ajatuksia Merja Virolaisen essee _Kiitän_ sinussa herättää?\n\n​\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_essee\\_s\\_2011\\_11.pdf|text=Merja Virolainen: Kiitän]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16165,
+          "content": {
+            "text": "Mitä ajatuksia Merja Virolaisen essee _Kiitän_ sinussa herättää?\n\n​\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/aidinkieli\\_essee\\_s\\_2011\\_11.pdf|text=Merja Virolainen: Kiitän]\n"
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-07-14T13:43:01.174891",
+          "max_score": null,
+          "groupping": null,
+          "id": 526929,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "79bd6a0b-f4ae-4d74-a80a-615ebf680f61",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-07-06T12:25:47.035163"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-206472",
+            "18-209446"
+          ],
+          "main_text": "On arvioitu, että suomalaisessa kodissa on keskimäärin 10 000 tavaraa, joista noin kolmasosaa ei käytetä koskaan. Ihmiset suhtautuvat tavaroihin hyvin eri tavoin – joko niitä rakastaen, vieroksuen tai jopa inhoten. Valtiovalta puolestaan kehottaa ristiriitaisesti ihmisiä sekä säästämään ympäristöä että lisäämään kulutusta. Millainen on sinun suhteesi tavaroihin? \n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16165,
+          "content": {
+            "text": "On arvioitu, että suomalaisessa kodissa on keskimäärin 10 000 tavaraa, joista noin kolmasosaa ei käytetä koskaan. Ihmiset suhtautuvat tavaroihin hyvin eri tavoin – joko niitä rakastaen, vieroksuen tai jopa inhoten. Valtiovalta puolestaan kehottaa ristiriitaisesti ihmisiä sekä säästämään ympäristöä että lisäämään kulutusta. Millainen on sinun suhteesi tavaroihin? \n",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-14T13:43:01.178444",
+          "max_score": null,
+          "groupping": null,
+          "id": 523612,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "02a15706-19ca-4557-91dc-d80c848c42dc",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2017-07-06T11:26:54.69014"
+        }
+      ],
+      "name": "Äidinkieli essee syksy 2011",
+      "settings": {},
+      "exam_type": "yo-koe",
+      "classification": {
+        "category": "",
+        "hide_review_buttons": null,
+        "exam_type": "yo-koe",
+        "year": "2011",
+        "language": "fi-FI",
+        "show_exam_series": null,
+        "force_yletunnus": false,
+        "subject": "äidinkieli-suomi-essee",
+        "published": true,
+        "semester": "fall"
+      },
+      "published_at": "2017-07-06T11:26:54.661Z",
+      "language": "fi-FI",
+      "id": 16165,
+      "reviews": [],
+      "is_open": true,
+      "uuid": "697a261b-ffb0-4442-bc49-7ab6fc2cf48b"
+    }
+  ]
+}

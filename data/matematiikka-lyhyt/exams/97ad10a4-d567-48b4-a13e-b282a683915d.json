@@ -1,0 +1,1666 @@
+{
+  "meta": {
+    "count": 1
+  },
+  "data": [
+    {
+      "tags": [
+        ""
+      ],
+      "main_text": "Koe koostuu 13 tehtävästä, joista vastataan kymmeneen. Tehtävät on jaettu kolmeen osaan. A-osassa on neljä kaikille pakollista tehtävää. B1-osassa on viisi tehtävää, joista vastataan kolmeen. B2-osassa on neljä tehtävää, joista vastataan kolmeen. Kaikki tehtävät arvostellaan pistein 0–12, joten kokeen maksimipistemäärä on 120.\n\n&NewLine;\n\nA-osassa saat käyttää koejärjestelmässä olevaa taulukkokirjaa ja perusohjelmia. A-osa palautetaan tehtävän 4 jälkeen olevalla painikkeella. Tämän jälkeen A-osan vastauksia ei voi enää muokata. A-osan palauttamisen jälkeen kaikki koejärjestelmän ohjelmat ovat käytettävissäsi. Voit vastata B-osien tehtäviin myös ennen A-osan palauttamista.\n\n&NewLine;\n\nUseimmissa tehtävissä kaikkien osatehtävien vastaukset kirjoitetaan samaan vastauskenttään. Jaottele vastauksesi osatehtävien mukaisesti. Halutessasi voit tuottaa vastausten tueksi piirroksia, kaavioita tai taulukoita ja liittää niistä kuvakaappauksen mihin tahansa tekstivastaukseen.\n\n&NewLine;\n\nÄlä jätä mitään merkintöjä sellaisen tehtävän vastaukselle varattuun tilaan, jota et halua jättää arvosteltavaksi.\n\n&NewLine;\n\n*Huom! Abitreenien harjoittelukokeessa ei ole käytössä laskinohjelmia.*",
+      "characters": null,
+      "deleted_at": null,
+      "series_uuids": [],
+      "questions": [
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Luvun [MATH text=\\frac{7}{5}] käänteisluvun ja vastaluvun summan itseisarvo. 2 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 176925,
+          "content": {
+            "text": "Luvun [MATH text=\\frac{7}{5}] käänteisluvun ja vastaluvun summan itseisarvo. 2 p.",
+            "displayNumber": "10.3"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-25T07:41:51.638658",
+          "max_score": 2,
+          "groupping": null,
+          "id": 6117706,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 54,
+              "text": "[MATH text=\\left|\\left(\\frac{5}{7}\\right)^{-1}+\\left(-\\frac{7}{5}\\right)\\right|]",
+              "parent": "d18691dd-7d9d-4dca-a738-85167591cfc0",
+              "choices": []
+            },
+            {
+              "id": 55,
+              "text": "[MATH text=\\left|\\frac{7}{5}+\\left(-\\frac{7}{5}\\right)\\right|^{-1}]",
+              "parent": "d18691dd-7d9d-4dca-a738-85167591cfc0",
+              "choices": []
+            },
+            {
+              "id": 56,
+              "text": "[MATH text=\\left|\\frac{5}{7}+\\left(-\\frac{7}{5}\\right)\\right|]",
+              "parent": "d18691dd-7d9d-4dca-a738-85167591cfc0",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 57,
+              "text": "[MATH text=\\left|\\frac{5}{7}\\right|][MATH text=+][MATH text=\\left|-\\frac{7}{5}\\right|]",
+              "parent": "d18691dd-7d9d-4dca-a738-85167591cfc0",
+              "choices": []
+            },
+            {
+              "id": 58,
+              "text": "[MATH text=\\frac{5}{7}+\\frac{7}{5}]",
+              "parent": "d18691dd-7d9d-4dca-a738-85167591cfc0",
+              "choices": []
+            },
+            {
+              "id": 59,
+              "text": "[MATH text=\\left(-\\frac{7}{5}\\right)^{-1}-\\frac{7}{5}]",
+              "parent": "d18691dd-7d9d-4dca-a738-85167591cfc0",
+              "choices": []
+            }
+          ],
+          "uuid": "d18691dd-7d9d-4dca-a738-85167591cfc0",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2023-09-21T10:37:26.304175"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Peräkkäiset kruunat 12 p.\n\nKolikkoa heitetään useita kertoja peräkkäin. Tällöin merkintä [MATH text=F_n ] ilmaisee kaikkien sellaisten tapausten lukumäärän, joissa n:ssä heitossa esiintyy vähintään kaksi peräkkäistä kruunaa. Tiedetään, että palautuskaava\n\n&NewLine;\n\n[MATH text=F_{n +3} =2 F_{n +2} -F_n +2^n]\n\npätee, kun  [MATH text=n\\ge1].\n\n&NewLine;\n\n1.Määritä [MATH text=F_1, F_2] ja [MATH text=F_3] laskemalla eri tapausten lukumäärät. **(4 p.)**\n\n&NewLine;\n\n2.Kolikkoa heitetään kuusi kertaa. Millä todennäköisyydellä saadaan vähintään kaksi peräkkäistä kruunaa? **(4 p.)**\n\n&NewLine;\n\n3.Kolikkoa heitetään kuusi kertaa. Millä todennäköisyydellä saadaan vähintään kaksi kruunaa? **(4 p.)**",
+          "deleted_at": null,
+          "feedback": "Jos kolikkoa heitetään kerran, ei voida saada kahta peräkkäistä kakkosta, eli [MATH text=F_1 =0]. 1 p.\n\n&NewLine;\n\nJos kolikkoa heitetään kahdesti, on yksi mahdollisuus saada kaksi peräkkäistä kakkosta, eli [MATH text=F_2 =1]. 1 p.\n\n&NewLine;\n\nAinoastaan ne jonot kelpaavat, joissa on vain kahtena ensimmäisenä kruuna tai vain kahtena viimeisenä kruuna tai kaikkina kruuna. Vaihtoehtoja on siis 3. Siispä [MATH text=F_3 =3]. 2 p.\n&NewLine;\n\n[MATH text=F_4 =2 F_3 -F_1 +2^1 =2 *3 -0 +2 =8]. 1 p.\n\n[MATH text=F_5 =2 F_4 -F_2 +2^2 =2 *8 -1 +4 =19]. 1 p.\n\n[MATH text=F_6 =2 F_5 -F_3 +2^3 =2 *19 -3 +8 =38 -3 +8 =43]. 1 p.\n\nKaksi peräkkäistä kruunaa saadaan siis todennäköisyydellä [MATH text=\\frac{43}{64}\\approx0{,}67]. 1 p.\n\n&NewLine;\n\n[MATH text=F_4 =2 F_3 -F_1 +2^1 =2 *3 -0 +2 =8]\n\nVastatapaus sille, että saadaan vähintään kaksi kruunaa, on se, että saadaan korkeintaan yksi kruuna, eli ei yhtään kruunaa tai täsmälleen yksi kruuna. 1 p.\n\nTodennäköisyys sille, ettei saada yhtään kruunaa, on [MATH text=\\frac{1}{2^6}]. 1 p.\n\nTodennäköisyys sille, että saadaan tasan yksi kruuna, on [MATH text=\\binom{6}{1}\\frac{1}{2^6}]. 1 p.\n\nKysytty todennäköisyys on siis [MATH text=1-][MATH text=\\frac{1}{2^6}] [MATH text=-][MATH text=\\binom{6}{1}\\frac{1}{2^6}][MATH text==\\frac{57}{64}\\approx0{,}89]. 1 p.",
+          "exam_id": 176925,
+          "content": {
+            "text": "### Peräkkäiset kruunat 12 p.\n\nKolikkoa heitetään useita kertoja peräkkäin. Tällöin merkintä [MATH text=F_n ] ilmaisee kaikkien sellaisten tapausten lukumäärän, joissa n:ssä heitossa esiintyy vähintään kaksi peräkkäistä kruunaa. Tiedetään, että palautuskaava\n\n&NewLine;\n\n[MATH text=F_{n +3} =2 F_{n +2} -F_n +2^n]\n\npätee, kun  [MATH text=n\\ge1].\n\n&NewLine;\n\n1.Määritä [MATH text=F_1, F_2] ja [MATH text=F_3] laskemalla eri tapausten lukumäärät. **(4 p.)**\n\n&NewLine;\n\n2.Kolikkoa heitetään kuusi kertaa. Millä todennäköisyydellä saadaan vähintään kaksi peräkkäistä kruunaa? **(4 p.)**\n\n&NewLine;\n\n3.Kolikkoa heitetään kuusi kertaa. Millä todennäköisyydellä saadaan vähintään kaksi kruunaa? **(4 p.)**",
+            "displayNumber": "13."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-25T07:41:51.620549",
+          "max_score": null,
+          "groupping": null,
+          "id": 6121389,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "69634c2c-fe61-4ad3-be8f-aba18491d242",
+          "order_number": 16,
+          "multipart": true,
+          "created_at": "2023-09-22T09:17:20.376651"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Maailman väestö 12 p.\n\n#### Aineisto\n\n12.A [LINK text=Taulukko: Väestömäärä YK:n arvioiden mukaan|url=https://yle.fi/plus/abitreenit/2023/syksy/matematiikka_lyhyt/attachments/index.html#12.A]\n\n&NewLine;\n\nTaulukossa 12.A on esitetty maailman väestömäärä vuodesta 1950 vuoteen 2020.\n\n&NewLine;\n\n1.Mallinna väestömäärää sovittamalla aineistoon regressiosuora [MATH text=y =a +bx] kun x on vuosi ja y väestömäärä. **(4 p.)**\n\n&NewLine;\n\n2.Väestönkasvua voi mallintaa myös lukujonolla[MATH text= y_n =c q^n], missä n on vuosi ja y_n on väestömäärä. Määritä parametrit c ja q käyttämällä vuosien 2010 ja 2020 väestömääriä. Vaihtoehtoisesti voit käyttää mallia[MATH text= y_n =c e^{kn}], joka on käytössä tietyissä ohjelmistoissa. **(4 p.)**\n\n&NewLine;\n\n3.Määritä ennusteet vuoden 2040 väestömäärästä osatehtävien 12.1 ja 12.2 mallien perusteella. **(2 p.)**\n\n&NewLine;\n\n4.Arvioi osatehtävien 12.1 ja 12.2 mallien hyviä tai huonoja puolia. Mainitse kummastakin mallista yksi seikka. **(2 p.)**",
+          "deleted_at": null,
+          "feedback": "Käytetään Geogebran tilastotyökalun regressiosuoran sovittamista. Kysytty suora on siis [MATH text=y =0,0769 x -147,7117]. 4 p.\n\n&NewLine;\n\n[LINK text=Hyvän vastauksen piirteistä|url=https://drive.google.com/file/d/1oBH3cwh9WNHnaucETnh7l5srmAfnvNq3/view] löytyvä sovitus on tehty käyttäen y-akselilla asukaslukua miljardeissa. Jos sovitus tehdään miljoonissa tai muulla järkevällä tavalla, ovat kertoimet vastaavasti erilaiset.\n\n&NewLine;\n\nMuodostetaan yhtälöpari [MATH text=cq^2010 =6.957.000.000 ] ja [MATH text=cq^2020 =7.795.000.000]. 2 p.\n\nSiispä [MATH text=q^{10}=\\frac{7.795.000.000}{6.957.000.000}], eli [MATH text=q\\approx1,0114] 1 p.\n\nja c =[MATH text=\\frac{6.957.000.000}{\\frac{(7.795.000.000}{6.957.000.000})^{201}}\\approx0{,}8207]. 1 p.\n\n&NewLine;\n\nEnsimmäisen mallin mukaan y[MATH text= =0,0769 *2040 -147,7117 \\approx9,2]. Väestömäärä on noin 9,2 miljardia. 1 p.\n\nToisen mallin mukaan [MATH text=y_2040 =0,8207 *1,0114^2040 \\approx9,1 ]miljardia. 1 p.\n\nEksponentiaalisen mallin antaman arvion suuruus riippuu huomattavasti käytetyistä likiarvoista.\n\n&NewLine;\n\nLineaarinen malli: yksi järkevä toteamus, esimerkiksi jokin seuraavista:\n\n\n- Väestönkasvu ei voi olla lineaarinen pitkällä aikavälillä, sillä jos tarkastellaan historiaa taaksepäin, löytyy piste, jolloin väestömäärä on ollut negatiivinen.\n- Kohdan 12.1 regressiosuora huomioi kaikki pisteet, mikä on myös hyvä puoli.\n- Väestö ei voi kasvaa ikuisesti lineaarisesti, koska maapallon kantokyky ylittyy.\n\n1 p.\n\n&NewLine;\n\nEksponentiaalinen malli: yksi järkevä toteamus, esimerkiksi jokin seuraavista:\n&NewLine;\n\n-Väestö ei voi kasvaa ikuisesti eksponentiaalisesti, koska maapallon kantokyky ylittyy.\n\n&NewLine;\n\n-Jonkin aikaa kasvu on usein eksponentiaalista – tämä seuraa suoraan yksinkertaisesta mallista, jossa kaksi ihmistä saa aina keskimäärin n lasta, jolloin väestö muuttuu sukupolvittain kertoimella [MATH text=\\frac{n}{2}]. Kohdan 12.2 eksponentiaalinen malli on kehitetty vain kahden pisteen pohjalta.\n\n1 p.",
+          "exam_id": 176925,
+          "content": {
+            "text": "### Maailman väestö 12 p.\n\n#### Aineisto\n\n12.A [LINK text=Taulukko: Väestömäärä YK:n arvioiden mukaan|url=https://yle.fi/plus/abitreenit/2023/syksy/matematiikka_lyhyt/attachments/index.html#12.A]\n\n&NewLine;\n\nTaulukossa 12.A on esitetty maailman väestömäärä vuodesta 1950 vuoteen 2020.\n\n&NewLine;\n\n1.Mallinna väestömäärää sovittamalla aineistoon regressiosuora [MATH text=y =a +bx] kun x on vuosi ja y väestömäärä. **(4 p.)**\n\n&NewLine;\n\n2.Väestönkasvua voi mallintaa myös lukujonolla[MATH text= y_n =c q^n], missä n on vuosi ja y_n on väestömäärä. Määritä parametrit c ja q käyttämällä vuosien 2010 ja 2020 väestömääriä. Vaihtoehtoisesti voit käyttää mallia[MATH text= y_n =c e^{kn}], joka on käytössä tietyissä ohjelmistoissa. **(4 p.)**\n\n&NewLine;\n\n3.Määritä ennusteet vuoden 2040 väestömäärästä osatehtävien 12.1 ja 12.2 mallien perusteella. **(2 p.)**\n\n&NewLine;\n\n4.Arvioi osatehtävien 12.1 ja 12.2 mallien hyviä tai huonoja puolia. Mainitse kummastakin mallista yksi seikka. **(2 p.)**",
+            "displayNumber": "12."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-25T07:41:51.617768",
+          "max_score": null,
+          "groupping": null,
+          "id": 6120691,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "e422a965-58e3-4f94-bf2c-8ead8a4ca86d",
+          "order_number": 15,
+          "multipart": true,
+          "created_at": "2023-09-22T09:01:47.037122"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Rokottamisen tehokkuus 12 p.\n\nTutkijat ovat kehittäneet yksinkertaistetun mallin rokottamisesta viruspandemiassa. Mallin mukaan viruspandemia saadaan maassa hallintaan, jos [MATH text=H\\ge\\frac{1-\\frac{1}{R_0}}{E}]. Tässä\n\n&NewLine;\n\n[MATH text=R_0][MATH text=>0]  on viruksen perusuusiutumisluku\n\n[MATH text=E > 0] on rokotteen tehokkuus\n\n[MATH text=H ]on rokotettujen osuus maan väestöstä.\n\n&NewLine;\n\nMuuttujat E ja H ovat prosenttilukuja sadasosina, eli esimerkiksi 1 % on 0,01.\n\n\n\n1.Oletetaan, että [MATH text=R_0 =3]. Määritä pienin mahdollinen H, jolla viruspandemia saadaan hallintaan rokotteella, jonka tehokkuus E on 80 %. **(4 p.)**\n\n2.Mutaation seurauksena perusuusiutumisluku kasvaa arvoon 4,5. Mikä on rokotteen pienin mahdollinen tehokkuus E, jolla viruspandemia saadaan hallintaan, jos H on 80 %? **(4 p.)**\n\n3.Anna esimerkki näiden kolmen muuttujan arvoista, joilla viruspandemiaa ei voi mallin mukaan saada hallintaan. **(4 p.)**",
+          "deleted_at": null,
+          "feedback": "Mallin mukaan pandemia saadaan hallintaan, jos [MATH text=H\\ge\\frac{1-\\frac{1}{3}}{0{,}80}\\approx0{,}83].2 p.\n\nVäestöstä on siis rokotettava vähintään 83 %. 2 p. \n\nMallin mukaan [MATH text=E\\ge\\frac{1-\\frac{1}{R_0}}{H}].2 p.\n\nTehokkuuden on siis oltava vähintään [MATH text=\\frac{1-\\frac{1}{4{,}5}}{0{,}8}\\approx0{,}97=97\\%].2 p.\n\nJos rokote on liian tehoton verrattuna viruksen uusiutumislukuun, ei pandemiaa saada tukahtumaan. Jos olisi esimerkiksi R =16 ja rokotteen teho 80 %, saataisiin rokotettavan väestön osuudeksi [MATH text=\\frac{1-\\frac{1}{16}}{0{,}8}\\approx1{,}17]. Väestöstä pitäisi rokottaa yli 100 prosenttia, mikä on mahdotonta.4 p.",
+          "exam_id": 176925,
+          "content": {
+            "text": "### Rokottamisen tehokkuus 12 p.\n\nTutkijat ovat kehittäneet yksinkertaistetun mallin rokottamisesta viruspandemiassa. Mallin mukaan viruspandemia saadaan maassa hallintaan, jos [MATH text=H\\ge\\frac{1-\\frac{1}{R_0}}{E}]. Tässä\n\n&NewLine;\n\n[MATH text=R_0][MATH text=>0]  on viruksen perusuusiutumisluku\n\n[MATH text=E > 0] on rokotteen tehokkuus\n\n[MATH text=H ]on rokotettujen osuus maan väestöstä.\n\n&NewLine;\n\nMuuttujat E ja H ovat prosenttilukuja sadasosina, eli esimerkiksi 1 % on 0,01.\n\n\n\n1.Oletetaan, että [MATH text=R_0 =3]. Määritä pienin mahdollinen H, jolla viruspandemia saadaan hallintaan rokotteella, jonka tehokkuus E on 80 %. **(4 p.)**\n\n2.Mutaation seurauksena perusuusiutumisluku kasvaa arvoon 4,5. Mikä on rokotteen pienin mahdollinen tehokkuus E, jolla viruspandemia saadaan hallintaan, jos H on 80 %? **(4 p.)**\n\n3.Anna esimerkki näiden kolmen muuttujan arvoista, joilla viruspandemiaa ei voi mallin mukaan saada hallintaan. **(4 p.)**",
+            "displayNumber": "11."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-25T07:41:51.614275",
+          "max_score": null,
+          "groupping": null,
+          "id": 6120517,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "c979baa0-fb84-4da9-9ac5-eb86cc0dbfaa",
+          "order_number": 14,
+          "multipart": true,
+          "created_at": "2023-09-22T08:58:50.94243"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Tuntemattomia muuttujia 12 p.\n\n#### Aineisto\n\n3.A [LINK text=Kuva: Suora|url=https://yle.fi/plus/abitreenit/2023/syksy/matematiikka_lyhyt/attachments/index.html#3.A]\n\n1. Kuvassa 3.A on suora y = ax + b, jonka kertoimet a ja b ovat kokonaislukuja. Päättele kuvaajan perusteella kertoimien arvot ja perustele, miten päädyit ratkaisuun. **(4 p.)**\n2. Ratkaise p murtolukuna yhtälöstä [MATH text=\\left(\\frac{3}{5}+\\frac{3}{4}\\right)\\cdot p=\\frac{3}{5}]. **(2 p.)**  \n3. Ratkaise q murtolukuna yhtälöstä [MATH text=\\left(\\frac{1}{3}-\\frac{1}{2}\\right):q=\\frac{1}{2}]. **(2 p.)**  \n4. Ratkaise x yhtälöstä [MATH text=\\frac{4n^{2^3}\\left(n^2\\right)^3}{2n}\\cdot x=8n^{10}]. **(4 p.)**",
+          "deleted_at": null,
+          "feedback": "Suora kulkee pisteen (0, -2) ja (1, 1) kautta. 1 p.\n\nKulmakerroin on siis 3 . 1 p.\n\nKoska suora kulkee pisteen (0, -2) kautta, on suoran yhtälö y =3 x -2, eli kertoimet ovat a =3 ja b =-2. 2 p.\n\nYhtälö[MATH text=\\left(\\frac{3}{5}+\\frac{3}{4}\\right)\\cdot p=\\frac{3}{5}] sievenee muotoon [MATH text=\\left(\\frac{1}{5}+\\frac{1}{4}\\right)\\cdot p=\\frac{1}{5}] .1 p.\n\nSiispä [MATH text=\\frac{4+5}{20}p=\\frac{1}{5}], joten [MATH text=p=\\frac{4}{9}] .1 p.\n\nYhtälö [MATH text=\\left(\\frac{1}{3}+\\frac{1}{2}\\right):q=\\frac{1}{2}] sievenee muotoon  [MATH text=-\\frac{1}{6}:q=\\frac{1}{2}].1 p.\n\nSiispä  [MATH text=q=-\\frac{1}{6}\\cdot2=-\\frac{1}{3}]. 1p.\n\nYhtälö [MATH text=\\frac{4n^{2^3}\\left(n^2\\right)^3}{2n}\\cdot x=8n^{10}] sievenee muotoon  [MATH text=2n^{13}x=8n^{10}].2 p.\n\nSiispä [MATH text=x =4 n^{10-13} =4 n^{-3}] .2 p.",
+          "exam_id": 176925,
+          "content": {
+            "text": "### Tuntemattomia muuttujia 12 p.\n\n#### Aineisto\n\n3.A [LINK text=Kuva: Suora|url=https://yle.fi/plus/abitreenit/2023/syksy/matematiikka_lyhyt/attachments/index.html#3.A]\n\n1. Kuvassa 3.A on suora y = ax + b, jonka kertoimet a ja b ovat kokonaislukuja. Päättele kuvaajan perusteella kertoimien arvot ja perustele, miten päädyit ratkaisuun. **(4 p.)**\n2. Ratkaise p murtolukuna yhtälöstä [MATH text=\\left(\\frac{3}{5}+\\frac{3}{4}\\right)\\cdot p=\\frac{3}{5}]. **(2 p.)**  \n3. Ratkaise q murtolukuna yhtälöstä [MATH text=\\left(\\frac{1}{3}-\\frac{1}{2}\\right):q=\\frac{1}{2}]. **(2 p.)**  \n4. Ratkaise x yhtälöstä [MATH text=\\frac{4n^{2^3}\\left(n^2\\right)^3}{2n}\\cdot x=8n^{10}]. **(4 p.)**",
+            "displayNumber": "3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-25T07:41:51.610295",
+          "max_score": null,
+          "groupping": null,
+          "id": 6117289,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "631731b0-56f2-4630-b9cb-529383cdcdb0",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2023-09-20T16:05:40.166093"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Pythagoraan kolmikot 12 p.\n\nPositiiviset kokonaisluvut a, b ja c muodostavat *Pythagoraan kolmikon*, jos [MATH text=a^2 +b^2 =c^2].\n\n&NewLine;\n\nNäitä kolmikoita voidaan muodostaa seuraavasti. Olkoot m ja n positiivisia kokonaislukuja, joille m > n. Tällöin luvut [MATH text=a =m^2 -n^2, b =2 mn] ja [MATH text=c =m^2 +n^2] muodostavat Pythagoraan kolmikon.\n\n\n\n1. Muodosta yllä esitetyllä tavalla jokin Pythagoraan kolmikko. **(3 p.)**\n\n\n\n2. Anna esimerkki kolmesta positiivisesta kokonaisluvusta, jotka eivät muodosta Pythagoraan kolmikkoa. **(3 p.)**\n\n\n\n3. Määritä luvut m ja n silloin, kun Pythagoraan kolmikkona ovat luvut a =15, b =8 ja c =17. **(3 p.)**\n\n\n\n4. Perustele, että jos a, b ja c on muodostettu lukujen m ja n avulla kuten tehtävän alkutekstissä, niin [MATH text=a^2 +b^2 =c^2].  **(3 p.)**",
+          "deleted_at": null,
+          "feedback": "Asetetaan esimerkiksi m =2 ja n =1. 1 p.\n\nNyt [MATH text=a = 2^2 -1^1 =3, b =2 *2 *1 =4] ja [MATH text=c =2^2 +1^2 =5]. 2 p.\n\nEsimerkiksi kokonaisluvut 1, 2 ja 3 eivät muodosta Pythagoraan kolmikkoa,1 p.sillä [MATH text=1^2 +2^2 =5 !=9 =3^2]. 2 p.\n\nKun a =15 ja c =17, saadaan [MATH text=32 =a +c =(m^2 -n^2) +(m^2 +n^2)], 1 p.\n\neli 3[MATH text=2 =2 m^2], jolloin m =4 (sillä vain positiivinen ratkaisu käy).1 p.\n\nNyt [MATH text=15 =m^2 -n^2 =4^2 -n^2], eli n =1. 1 p.\n\n[MATH text=a^2 +b^2 =(m^2 -n^2)^2 +(2 mn)^2 =m^4 +n^4 -2 m^2n^2 +4 m^2n^2 =m^4 +2 m^2n^2 +n^4 =(m^2 +n^2)^2 =c^2]. 3 p.",
+          "exam_id": 176925,
+          "content": {
+            "text": "### Pythagoraan kolmikot 12 p.\n\nPositiiviset kokonaisluvut a, b ja c muodostavat *Pythagoraan kolmikon*, jos [MATH text=a^2 +b^2 =c^2].\n\n&NewLine;\n\nNäitä kolmikoita voidaan muodostaa seuraavasti. Olkoot m ja n positiivisia kokonaislukuja, joille m > n. Tällöin luvut [MATH text=a =m^2 -n^2, b =2 mn] ja [MATH text=c =m^2 +n^2] muodostavat Pythagoraan kolmikon.\n\n\n\n1. Muodosta yllä esitetyllä tavalla jokin Pythagoraan kolmikko. **(3 p.)**\n\n\n\n2. Anna esimerkki kolmesta positiivisesta kokonaisluvusta, jotka eivät muodosta Pythagoraan kolmikkoa. **(3 p.)**\n\n\n\n3. Määritä luvut m ja n silloin, kun Pythagoraan kolmikkona ovat luvut a =15, b =8 ja c =17. **(3 p.)**\n\n\n\n4. Perustele, että jos a, b ja c on muodostettu lukujen m ja n avulla kuten tehtävän alkutekstissä, niin [MATH text=a^2 +b^2 =c^2].  **(3 p.)**",
+            "displayNumber": "4."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-25T07:41:51.607649",
+          "max_score": null,
+          "groupping": null,
+          "id": 6117317,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "0dcf4429-202a-475a-b0d3-8feb6cb5fbce",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2023-09-20T16:26:50.857251"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Postimerkin lisäpainama 12 p.\n\n#### Aineisto\n\n6.A [LINK text=Kuva: Postimerkki|url=https://yle.fi/plus/abitreenit/2023/syksy/matematiikka_lyhyt/attachments/index.html#6.A]\n\n&NewLine;\n\nKaroliinien saariryhmä oli yksi Saksan keisarikunnan siirtomaista. Siirtomaan ensimmäinen postimerkkisarja valmistettiin Saksan postimerkeistä painamalla niihin teksti ''Karolinen''. Lisäpainamasta on kaksi eri tyyppiä, *loiva* ja *jyrkkä*, joiden luettelohinnat ovat 1 800 ja 180 euroa. Loivan lisäpainaman kaltevuuskulma on noin [MATH text=48^{\\circ}] vaakatasosta mitattuna ja jyrkän lisäpainaman [MATH text= 56^{\\circ}].\n\n1. Arvioi kuvan 6.A postimerkin lisäpainaman kaltevuuskulmaa. Onko lisäpainama loivaa vai jyrkkää tyyppiä? **(6 p.)**\n2. Lisäpainaman ympärille piirretään mahdollisimman pieni suorakulmio. Arvioi, kuinka monta prosenttia suorakulmio peittää postimerkin pinta-alasta. Valkoisia reunoja ei lasketa mukaan postimerkin pinta-alaan. **(6 p.)**\n\nTehtävän voi ratkaista joko sopivalla ohjelmalla tai mittaamalla lukuarvoja näytöltä. Molemmissa vaihtoehdoissa täytyy käydä ilmi ratkaisutavan välivaiheet.",
+          "deleted_at": null,
+          "feedback": "Asetetaan kuva koordinaatistoon ja piirretään tekstiä myöten suora. Suoran yhtälö on[MATH text= -5\\mathrm{,}42x+3\\mathrm{,}66y=-5\\mathrm{,}17]. Suoran kulmakerroin on [MATH text=\\frac{5\\mathrm{,}42}{3\\mathrm{,}66}=1\\mathrm{,}48\\approx \\tan(56^{\\circ})]. Kyseessä on siis jyrkän tyypin merkki.\n\n&NewLine;\n\nPiirretään kohtisuorat tekstin ympärille ja niiden leikkauspisteiden kautta suorakulmio. Geogebra antaa automaattisesti suorakulmion pinta-alan. Piirretään tämän jälkeen postimerkin oranssin alueen kulmia kärkinä käyttäen suorakulmio, jonka pinta-ala tulee myös suoraan Geogebrasta. 4 p.\n\n&NewLine;\n\nPieni suorakulmio peittää siis pinta-alasta [MATH text=\\frac{9\\mathrm{,}18}{60\\mathrm{,}96}\\approx 15~\\%]. 2 p.Mikäli piirretty suorakulmio on sellainen, jonka sivut ovat yhdensuuntaiset alkuperäisen suorakulmion kanssa, voi ansaita 1+2=3 pistettä.max 3 p.\n\n&NewLine;\n\nKatso kuvat [LINK text=hyvän vastauksen piirteistä.|url=https://drive.google.com/file/d/1oBH3cwh9WNHnaucETnh7l5srmAfnvNq3/view]\n",
+          "exam_id": 176925,
+          "content": {
+            "text": "### Postimerkin lisäpainama 12 p.\n\n#### Aineisto\n\n6.A [LINK text=Kuva: Postimerkki|url=https://yle.fi/plus/abitreenit/2023/syksy/matematiikka_lyhyt/attachments/index.html#6.A]\n\n&NewLine;\n\nKaroliinien saariryhmä oli yksi Saksan keisarikunnan siirtomaista. Siirtomaan ensimmäinen postimerkkisarja valmistettiin Saksan postimerkeistä painamalla niihin teksti ''Karolinen''. Lisäpainamasta on kaksi eri tyyppiä, *loiva* ja *jyrkkä*, joiden luettelohinnat ovat 1 800 ja 180 euroa. Loivan lisäpainaman kaltevuuskulma on noin [MATH text=48^{\\circ}] vaakatasosta mitattuna ja jyrkän lisäpainaman [MATH text= 56^{\\circ}].\n\n1. Arvioi kuvan 6.A postimerkin lisäpainaman kaltevuuskulmaa. Onko lisäpainama loivaa vai jyrkkää tyyppiä? **(6 p.)**\n2. Lisäpainaman ympärille piirretään mahdollisimman pieni suorakulmio. Arvioi, kuinka monta prosenttia suorakulmio peittää postimerkin pinta-alasta. Valkoisia reunoja ei lasketa mukaan postimerkin pinta-alaan. **(6 p.)**\n\nTehtävän voi ratkaista joko sopivalla ohjelmalla tai mittaamalla lukuarvoja näytöltä. Molemmissa vaihtoehdoissa täytyy käydä ilmi ratkaisutavan välivaiheet.",
+            "displayNumber": "6."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-25T07:41:51.604453",
+          "max_score": null,
+          "groupping": null,
+          "id": 6117358,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "0b1a310d-4422-4a72-9154-29be838647f3",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2023-09-20T16:36:12.204474"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Luottamusväli 12 p.\n\nPakkauskone on säädetty täyttämään puolen kilon muropaketteja. Laadunvalvonnassa punnitaan 100 pakettia, joiden painon keskiarvoksi saadaan 509 grammaa ja keskihajonnaksi 6,0 grammaa. Oletetaan, että paketin paino noudattaa normaalijakaumaa N(509; 6,0).\n\n1. Millä todennäköisyydellä paketin paino on korkeintaan 500 grammaa? **(4 p.)**\n2. Määritä paketin painon keskiarvon keskivirhe ja 95 %:n luottamusväli, eli luottamusväli 95 %:n luottamustasolla. **(8 p.)**\n\n\n",
+          "deleted_at": null,
+          "feedback": "Käytetään Geogebran todennäköisyystyökalua. Kysytty todennäköisyys on siis noin [MATH text=6\\mathrm{,}7 %]. 4 p.\n\n[LINK url=https://drive.google.com/file/d/1oBH3cwh9WNHnaucETnh7l5srmAfnvNq3/view|text=Katso kuva hyvän vastauksen piirteistä.]\n\nKeskivirhe on [MATH text=\\frac{6}{\\sqrt{100}}=0{,}6]. 2 p.\n\nLuottamusväliä 95 % vastaava kriittinen arvo on 1,96. 2 p.\n\nLuottamusväli on siis [MATH text=[509-1{,}96*0{,}6;509+1{,}96*0{,}6]][MATH text=\\approx[507{,}8;510{,}2]].4 p.",
+          "exam_id": 176925,
+          "content": {
+            "text": "### Luottamusväli 12 p.\n\nPakkauskone on säädetty täyttämään puolen kilon muropaketteja. Laadunvalvonnassa punnitaan 100 pakettia, joiden painon keskiarvoksi saadaan 509 grammaa ja keskihajonnaksi 6,0 grammaa. Oletetaan, että paketin paino noudattaa normaalijakaumaa N(509; 6,0).\n\n1. Millä todennäköisyydellä paketin paino on korkeintaan 500 grammaa? **(4 p.)**\n2. Määritä paketin painon keskiarvon keskivirhe ja 95 %:n luottamusväli, eli luottamusväli 95 %:n luottamustasolla. **(8 p.)**\n\n\n",
+            "displayNumber": "9."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-25T07:41:51.598951",
+          "max_score": null,
+          "groupping": null,
+          "id": 6117412,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "02e11b8f-4525-4d77-a231-e9b6677ea839",
+          "order_number": 11,
+          "multipart": true,
+          "created_at": "2023-09-20T16:48:30.099365"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Luvun 6 kuutiojuuri. 1 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 176925,
+          "content": {
+            "text": "Luvun 6 kuutiojuuri. 1 p.",
+            "displayNumber": "10.1"
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-25T07:41:51.593365",
+          "max_score": 1,
+          "groupping": null,
+          "id": 6117558,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 43,
+              "text": "[MATH text=6^3]",
+              "parent": "b165f781-7d6e-43bb-ac7e-a22f627e9682",
+              "choices": []
+            },
+            {
+              "id": 44,
+              "text": "[MATH text=\\pm6^3]",
+              "parent": "b165f781-7d6e-43bb-ac7e-a22f627e9682",
+              "choices": []
+            },
+            {
+              "id": 45,
+              "text": "[MATH text=3^6]",
+              "parent": "b165f781-7d6e-43bb-ac7e-a22f627e9682",
+              "choices": []
+            },
+            {
+              "id": 46,
+              "text": "[MATH text=^{^3}\\sqrt{6}]",
+              "parent": "b165f781-7d6e-43bb-ac7e-a22f627e9682",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 47,
+              "text": "[MATH text=\\pm][MATH text=^{^3}\\sqrt{6}]",
+              "parent": "b165f781-7d6e-43bb-ac7e-a22f627e9682",
+              "choices": []
+            },
+            {
+              "id": 48,
+              "text": "[MATH text=^{^6}\\sqrt{3}]",
+              "parent": "b165f781-7d6e-43bb-ac7e-a22f627e9682",
+              "choices": []
+            }
+          ],
+          "uuid": "b165f781-7d6e-43bb-ac7e-a22f627e9682",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2023-09-21T08:31:15.789235"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Jos aritmeettisessa lukujonossa [MATH text=a_0=3] ja [MATH text=a_1 = 7], niin [MATH text=a_3=]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 176925,
+          "content": {
+            "text": "Jos aritmeettisessa lukujonossa [MATH text=a_0=3] ja [MATH text=a_1 = 7], niin [MATH text=a_3=]",
+            "displayNumber": "1.6"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-25T07:41:51.590151",
+          "max_score": 2,
+          "groupping": null,
+          "id": 6117256,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 33,
+              "text": "-4",
+              "parent": "b24b64da-c8cd-445f-9570-875f3200da6e",
+              "choices": []
+            },
+            {
+              "id": 34,
+              "text": "-1",
+              "parent": "b24b64da-c8cd-445f-9570-875f3200da6e",
+              "choices": []
+            },
+            {
+              "id": 35,
+              "text": "3",
+              "parent": "b24b64da-c8cd-445f-9570-875f3200da6e",
+              "choices": []
+            },
+            {
+              "id": 36,
+              "text": "4",
+              "parent": "b24b64da-c8cd-445f-9570-875f3200da6e",
+              "choices": []
+            },
+            {
+              "id": 37,
+              "text": "8",
+              "parent": "b24b64da-c8cd-445f-9570-875f3200da6e",
+              "choices": []
+            },
+            {
+              "id": 38,
+              "text": "10",
+              "parent": "b24b64da-c8cd-445f-9570-875f3200da6e",
+              "choices": []
+            },
+            {
+              "id": 39,
+              "text": "11",
+              "parent": "b24b64da-c8cd-445f-9570-875f3200da6e",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 40,
+              "text": "15",
+              "parent": "b24b64da-c8cd-445f-9570-875f3200da6e",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 41,
+              "text": "21",
+              "parent": "b24b64da-c8cd-445f-9570-875f3200da6e",
+              "choices": []
+            }
+          ],
+          "uuid": "b24b64da-c8cd-445f-9570-875f3200da6e",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2023-09-20T15:58:31.19872"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Funktion f arvo kohdassa 2 on suurempi kuin funktion g arvo kohdassa -3. 1 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 176925,
+          "content": {
+            "text": "Funktion f arvo kohdassa 2 on suurempi kuin funktion g arvo kohdassa -3. 1 p.",
+            "displayNumber": "10.10"
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-25T07:41:51.586791",
+          "max_score": 1,
+          "groupping": null,
+          "id": 6117855,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 94,
+              "text": "[MATH text=2>-3]",
+              "parent": "496a0882-9a70-484e-b277-8fab1ef3221b",
+              "choices": []
+            },
+            {
+              "id": 95,
+              "text": "[MATH text=f(x)=2>-3g(x)]",
+              "parent": "496a0882-9a70-484e-b277-8fab1ef3221b",
+              "choices": []
+            },
+            {
+              "id": 96,
+              "text": "[MATH text=f(2)>g(-3)]",
+              "parent": "496a0882-9a70-484e-b277-8fab1ef3221b",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 97,
+              "text": "[MATH text=f(2)\\le g(-3)]",
+              "parent": "496a0882-9a70-484e-b277-8fab1ef3221b",
+              "choices": []
+            },
+            {
+              "id": 98,
+              "text": "[MATH text=(f(x))^2>(g(x))^{-3}]",
+              "parent": "496a0882-9a70-484e-b277-8fab1ef3221b",
+              "choices": []
+            },
+            {
+              "id": 99,
+              "text": "[MATH text=f’(2) > g’(-3)]",
+              "parent": "496a0882-9a70-484e-b277-8fab1ef3221b",
+              "choices": []
+            }
+          ],
+          "uuid": "496a0882-9a70-484e-b277-8fab1ef3221b",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2023-09-21T11:07:48.791968"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Laskettelumatka 12 p.\n\nLukion 32 opiskelijan ryhmä varaa laskettelumatkaa varten linja-auton, jonka kustannukset jaetaan tasan osallistujien kesken. Neljä opiskelijaa joutuu perumaan lähtönsä, jolloin jokainen osallistuja maksaa lopulta 15 euroa alkuperäistä hintaa enemmän. Kuinka paljon yhden osallistujan matka lopulta maksoi?",
+          "deleted_at": null,
+          "feedback": "Olkoon y linja-auton kustannukset ja x kunkin opiskelijan maksama hinta, jos lähtijöitä on 32. 2 p.\n\nSaadaan yhtälöt y =32 x ja y =28(x +15). 6 p.\n\nRatkaistaan yhtälöt (esim. Ratkaise/Solve-komennolla). Saadaan x =105 ja y =3360. 3 p.\n\nYhden opiskelijan matka maksoi siis 105 +15 =120 euroa. 1 p.",
+          "exam_id": 176925,
+          "content": {
+            "text": "### Laskettelumatka 12 p.\n\nLukion 32 opiskelijan ryhmä varaa laskettelumatkaa varten linja-auton, jonka kustannukset jaetaan tasan osallistujien kesken. Neljä opiskelijaa joutuu perumaan lähtönsä, jolloin jokainen osallistuja maksaa lopulta 15 euroa alkuperäistä hintaa enemmän. Kuinka paljon yhden osallistujan matka lopulta maksoi?",
+            "displayNumber": "5."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-25T07:41:51.584065",
+          "max_score": null,
+          "groupping": null,
+          "id": 6117342,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "f4bd5a05-6908-4637-a41c-324f53f58b84",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2023-09-20T16:32:30.266578"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Luvut A ja B ovat suoraan verrannolliset verrannollisuuskertoimella k. 1 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 176925,
+          "content": {
+            "text": "Luvut A ja B ovat suoraan verrannolliset verrannollisuuskertoimella k. 1 p.",
+            "displayNumber": "10.4"
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-25T07:41:51.580979",
+          "max_score": 1,
+          "groupping": null,
+          "id": 6117776,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 60,
+              "text": "[MATH text=A:B=k]",
+              "parent": "585685b9-f2b7-42f7-8b92-8cabdd8a6528",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 61,
+              "text": "[MATH text=A:B^{-1}=k]",
+              "parent": "585685b9-f2b7-42f7-8b92-8cabdd8a6528",
+              "choices": []
+            },
+            {
+              "id": 62,
+              "text": "[MATH text=A:B^{-1}=1:k]",
+              "parent": "585685b9-f2b7-42f7-8b92-8cabdd8a6528",
+              "choices": []
+            },
+            {
+              "id": 63,
+              "text": "[MATH text=A^{-1}*B^{-1}=k]",
+              "parent": "585685b9-f2b7-42f7-8b92-8cabdd8a6528",
+              "choices": []
+            },
+            {
+              "id": 64,
+              "text": "[MATH text=AB=1:k]",
+              "parent": "585685b9-f2b7-42f7-8b92-8cabdd8a6528",
+              "choices": []
+            }
+          ],
+          "uuid": "585685b9-f2b7-42f7-8b92-8cabdd8a6528",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2023-09-21T10:50:52.626011"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Jos [MATH text=f(x)=x^2+2] ja [MATH text=h(x)=x^3-2], niin [MATH text=f(x)\\cdot h(2)][MATH text==]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 176925,
+          "content": {
+            "text": "Jos [MATH text=f(x)=x^2+2] ja [MATH text=h(x)=x^3-2], niin [MATH text=f(x)\\cdot h(2)][MATH text==]",
+            "displayNumber": "1.4"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-25T07:41:51.570574",
+          "max_score": 2,
+          "groupping": null,
+          "id": 6117185,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 19,
+              "text": "[MATH text=2x^2+2]",
+              "parent": "73372d2d-39ba-409a-b769-f23b6edba58b",
+              "choices": []
+            },
+            {
+              "id": 20,
+              "text": "[MATH text=2x^2+4]",
+              "parent": "73372d2d-39ba-409a-b769-f23b6edba58b",
+              "choices": []
+            },
+            {
+              "id": 21,
+              "text": "[MATH text=4x^2+2]",
+              "parent": "73372d2d-39ba-409a-b769-f23b6edba58b",
+              "choices": []
+            },
+            {
+              "id": 22,
+              "text": "[MATH text=4x^2+4]",
+              "parent": "73372d2d-39ba-409a-b769-f23b6edba58b",
+              "choices": []
+            },
+            {
+              "id": 23,
+              "text": "[MATH text=6x^2+2]",
+              "parent": "73372d2d-39ba-409a-b769-f23b6edba58b",
+              "choices": []
+            },
+            {
+              "id": 24,
+              "text": "[MATH text=6x^2+12]",
+              "parent": "73372d2d-39ba-409a-b769-f23b6edba58b",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 25,
+              "text": "[MATH text=8x^2+16]",
+              "parent": "73372d2d-39ba-409a-b769-f23b6edba58b",
+              "choices": []
+            }
+          ],
+          "uuid": "73372d2d-39ba-409a-b769-f23b6edba58b",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2023-09-20T15:47:34.03565"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Tason pisteen (x, y) etäisyys pisteestä (1, -3) on 4. 2 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 176925,
+          "content": {
+            "text": "Tason pisteen (x, y) etäisyys pisteestä (1, -3) on 4. 2 p.",
+            "displayNumber": "10.8"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-25T07:41:51.596404",
+          "max_score": 2,
+          "groupping": null,
+          "id": 6117825,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 82,
+              "text": "[MATH text=\\left|x-1\\right|+\\left|y+3\\right|=4^2]",
+              "parent": "dcd3c887-7469-461f-90bc-3a2079a98aec",
+              "choices": []
+            },
+            {
+              "id": 83,
+              "text": "[MATH text=\\sqrt{\\left(y+1\\right)^2+\\left(x-3\\right)^2=4}]",
+              "parent": "dcd3c887-7469-461f-90bc-3a2079a98aec",
+              "choices": []
+            },
+            {
+              "id": 84,
+              "text": "[MATH text=\\sqrt{\\left(x-1\\right)^2+\\left(y+3\\right)^2=4}]",
+              "parent": "dcd3c887-7469-461f-90bc-3a2079a98aec",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 85,
+              "text": "[MATH text=(x,y)^2+(1,-3)^2=4^2]",
+              "parent": "dcd3c887-7469-461f-90bc-3a2079a98aec",
+              "choices": []
+            },
+            {
+              "id": 86,
+              "text": "[MATH text=(x+1)^2+(y-3)^2=4^2]",
+              "parent": "dcd3c887-7469-461f-90bc-3a2079a98aec",
+              "choices": []
+            },
+            {
+              "id": 87,
+              "text": "[MATH text=\\left|x-3y\\right|=4]",
+              "parent": "dcd3c887-7469-461f-90bc-3a2079a98aec",
+              "choices": []
+            }
+          ],
+          "uuid": "dcd3c887-7469-461f-90bc-3a2079a98aec",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2023-09-21T11:04:40.108741"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Polynomifunktio 12 p.\n\nOlkoon [MATH text=p(x) =x^4 -4 x^3 -8 x^2 +48 x.]\n\n1. Laske derivaatta p’(x) ja ratkaise derivaatan nollakohdat. **(4 p.)**\n2. Millä väleillä funktio p on kasvava? **(4 p.)**\n3. Määritä funktion p pienin arvo. Missä kohdassa se saavutetaan? **(4 p.)**",
+          "deleted_at": null,
+          "feedback": "[MATH text=p’(x) =4 x^3 -12 x^2 -16 x +48].2 p\n\nRatkaistaan yhtälö [MATH text=4 x^3 -12 x^2 -16 x +48 =0] laskinohjelmiston Ratkaise/Solve-komennolla ja saadaan x =-2, x =2 ja x =3. 2 p.\n\nTehdään kulkukaavio laskemalla derivaatan arvot testipisteissä x =-3, x =0, x =5/2 ja x =4. 1 p.\n\nSaadaan - | + | - | +. 1 p.\n\nPolynomi on siis kasvava, kun[MATH text= -2 <= x <= 2] ja[MATH text= x => 3].2 p.\n\nKulkukaavion perusteella pienin arvo saavutetaan pisteessä x =-2 tai x =3. 1 p\n\nKoska p(-2) =-80 ja p(3) =45,2 p.pienin arvo on siis p(-2) =-80 ja se saavutetaan pisteessä x =-2. 1 p.\n\nViimeisen kohdan voi myös ratkaista laskinohjelmiston komennolla. max 4 p.",
+          "exam_id": 176925,
+          "content": {
+            "text": "### Polynomifunktio 12 p.\n\nOlkoon [MATH text=p(x) =x^4 -4 x^3 -8 x^2 +48 x.]\n\n1. Laske derivaatta p’(x) ja ratkaise derivaatan nollakohdat. **(4 p.)**\n2. Millä väleillä funktio p on kasvava? **(4 p.)**\n3. Määritä funktion p pienin arvo. Missä kohdassa se saavutetaan? **(4 p.)**",
+            "displayNumber": "8."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-25T07:41:51.601859",
+          "max_score": null,
+          "groupping": null,
+          "id": 6117393,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "759f5376-1df7-4c3f-9582-e0c1d2a0210a",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2023-09-20T16:41:45.742924"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Urheilusukat 12 p.\n\nKilpajuoksijalla on kuusi urheilusukkaa sekaisin pienessä korissa. Kolmessa sukassa on merkki L ja kolmessa R. Juoksija ottaa korista umpimähkään kaksi sukkaa peräkkäin. Määritä todennäköisyys sille, että\n\n1. ensimmäisessä sukassa on merkki L **(2 p.)**\n2. molemmissa sukissa on merkki L **(4 p.)**\n3. sukissa on eri merkit. **(6 p.)**",
+          "deleted_at": null,
+          "feedback": "Sukista 3 on L-sukkia, joten kysytty todennäköisyys on [MATH text=3/6 =1/2].2 p.\n\nTodennäköisyys sille, että myös toisessa sukassa on L, on 2/5. 2 p\n\nKysytty todennäköisyys on siis [MATH text=1/2 *2/5 =1/5]. 2 p.\n\nTodennäköisyys sille, että toisessa sukassa on R, jos ensimmäisessä on ollut L, on 3/5. 1 p\n\n.Yhdistelmän L ja R (tässä järjestyksessä) todennäköisyys on siis [MATH text=1/2 *3/5 =3/10]. 2 p.\n\nTodennäköisyys sille, että ensimmäinen on R ja toinen L, on sama kuin todennäköisyys sille, että ensimmäinen on L ja toinen R. 1 p.\n\nKysytty todennäköisyys on siis [MATH text=2\\cdot\\frac{3}{10}=\\frac{3}{5}]. 2 p.",
+          "exam_id": 176925,
+          "content": {
+            "text": "### Urheilusukat 12 p.\n\nKilpajuoksijalla on kuusi urheilusukkaa sekaisin pienessä korissa. Kolmessa sukassa on merkki L ja kolmessa R. Juoksija ottaa korista umpimähkään kaksi sukkaa peräkkäin. Määritä todennäköisyys sille, että\n\n1. ensimmäisessä sukassa on merkki L **(2 p.)**\n2. molemmissa sukissa on merkki L **(4 p.)**\n3. sukissa on eri merkit. **(6 p.)**",
+            "displayNumber": "7."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-25T07:41:51.623351",
+          "max_score": null,
+          "groupping": null,
+          "id": 6117375,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "c5d440eb-7a9d-472f-bb03-8acc87b3cb67",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2023-09-20T16:39:42.23518"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Vaatekaupassa 12 p.\n\n1. Farkkujen alkuperäinen hinta on 56,00 euroa ja alennusmyynnissä hintaa alennetaan 30 %. Mikä on alennettu hinta? **(4 p.)**\n2. Takin alkuperäinen hinta on 79,00 euroa ja alennettu hinta 55,30 euroa. Mikä on alennusprosentti? **(4 p.)**\n3. Vaatteiden arvonlisäverokanta on 24 %. Kuinka monta euroa paidan 45,00 euron myyntihinnasta on arvonlisäveroa? **(4 p.)**",
+          "deleted_at": null,
+          "feedback": "Alennettu hinta on (1 -0,3) *56 =39,20 euroa.4 p\n\nUusi hinta on 55,30/79 =0,7 =70 prosenttia alkuperäisestä hinnasta.2 p.\n\nAlennus on siis 30 prosenttia.2 p\n\nALV on 24 prosenttia verottomasta hinnasta.1 p.\n\nALV:n osuus on siis 45/1,24 *0,24 [MATH text=\\approx]8,71 euroa.3 p.",
+          "exam_id": 176925,
+          "content": {
+            "text": "### Vaatekaupassa 12 p.\n\n1. Farkkujen alkuperäinen hinta on 56,00 euroa ja alennusmyynnissä hintaa alennetaan 30 %. Mikä on alennettu hinta? **(4 p.)**\n2. Takin alkuperäinen hinta on 79,00 euroa ja alennettu hinta 55,30 euroa. Mikä on alennusprosentti? **(4 p.)**\n3. Vaatteiden arvonlisäverokanta on 24 %. Kuinka monta euroa paidan 45,00 euron myyntihinnasta on arvonlisäveroa? **(4 p.)**",
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-25T07:41:51.625746",
+          "max_score": null,
+          "groupping": null,
+          "id": 6117280,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "96a36b53-6cf0-4145-a7c4-34a6a0fb57be",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2023-09-20T16:01:25.443375"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Funktiot ja lukujonot 12 p.\n\nValitse oikea vaihtoehto. Vastauksia ei tarvitse perustella. Oikea vastaus 2 p., väärä vastaus 0 p., ei vastausta 0 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 176925,
+          "content": {
+            "text": "### Funktiot ja lukujonot 12 p.\n\nValitse oikea vaihtoehto. Vastauksia ei tarvitse perustella. Oikea vastaus 2 p., väärä vastaus 0 p., ei vastausta 0 p.",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "5431787d-ce5c-4aeb-a8a5-e8998b85c2c6",
+            "4cf66413-5001-4a3f-9939-3fcca90433a3",
+            "80b20c4f-6b13-4519-96d5-4155f1e38f22",
+            "73372d2d-39ba-409a-b769-f23b6edba58b",
+            "7a5e443a-1845-4819-a183-3450f2359467",
+            "b24b64da-c8cd-445f-9570-875f3200da6e"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-25T07:41:51.628206",
+          "max_score": null,
+          "groupping": null,
+          "id": 6117170,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "c9a89405-5617-47f9-a0e0-b66f17d1d05b",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2023-09-20T15:23:27.278541"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Jos [MATH text=a_n=3n+1], niin [MATH text=a_4=]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 176925,
+          "content": {
+            "text": "Jos [MATH text=a_n=3n+1], niin [MATH text=a_4=]",
+            "displayNumber": "1.5"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-25T07:41:51.631362",
+          "max_score": 2,
+          "groupping": null,
+          "id": 6117255,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 26,
+              "text": "[MATH text=-\\frac{1}{3}]",
+              "parent": "7a5e443a-1845-4819-a183-3450f2359467",
+              "choices": []
+            },
+            {
+              "id": 27,
+              "text": "1",
+              "parent": "7a5e443a-1845-4819-a183-3450f2359467",
+              "choices": []
+            },
+            {
+              "id": 28,
+              "text": "4",
+              "parent": "7a5e443a-1845-4819-a183-3450f2359467",
+              "choices": []
+            },
+            {
+              "id": 29,
+              "text": "5",
+              "parent": "7a5e443a-1845-4819-a183-3450f2359467",
+              "choices": []
+            },
+            {
+              "id": 30,
+              "text": "12",
+              "parent": "7a5e443a-1845-4819-a183-3450f2359467",
+              "choices": []
+            },
+            {
+              "id": 31,
+              "text": "13",
+              "parent": "7a5e443a-1845-4819-a183-3450f2359467",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 32,
+              "text": "15",
+              "parent": "7a5e443a-1845-4819-a183-3450f2359467",
+              "choices": [],
+              "correct": false
+            }
+          ],
+          "uuid": "7a5e443a-1845-4819-a183-3450f2359467",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2023-09-20T15:58:31.195547"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Jos [MATH text=f(x)=x^2+2], niin [MATH text=f(2)=]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 176925,
+          "content": {
+            "text": "Jos [MATH text=f(x)=x^2+2], niin [MATH text=f(2)=]",
+            "displayNumber": "1.1"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-25T07:41:51.633988",
+          "max_score": 2,
+          "groupping": null,
+          "id": 6117171,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "text": "[MATH text=-\\sqrt{2}]",
+              "parent": "5431787d-ce5c-4aeb-a8a5-e8998b85c2c6",
+              "choices": []
+            },
+            {
+              "id": 2,
+              "text": "0",
+              "parent": "5431787d-ce5c-4aeb-a8a5-e8998b85c2c6",
+              "choices": []
+            },
+            {
+              "id": 3,
+              "text": "[MATH text=\\sqrt{2}]",
+              "parent": "5431787d-ce5c-4aeb-a8a5-e8998b85c2c6",
+              "choices": []
+            },
+            {
+              "id": 4,
+              "text": "2",
+              "parent": "5431787d-ce5c-4aeb-a8a5-e8998b85c2c6",
+              "choices": []
+            },
+            {
+              "id": 5,
+              "text": "4",
+              "parent": "5431787d-ce5c-4aeb-a8a5-e8998b85c2c6",
+              "choices": []
+            },
+            {
+              "id": 6,
+              "text": "6",
+              "parent": "5431787d-ce5c-4aeb-a8a5-e8998b85c2c6",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 7,
+              "text": "16",
+              "parent": "5431787d-ce5c-4aeb-a8a5-e8998b85c2c6",
+              "choices": []
+            }
+          ],
+          "uuid": "5431787d-ce5c-4aeb-a8a5-e8998b85c2c6",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2023-09-20T15:23:27.282414"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Matematiikan merkintöjä 12 p.\n\nKuinka seuraavat sanalliset kuvaukset voidaan ilmaista symbolein?\n\nValitse parhaiten soveltuva vaihtoehto. Vastauksia ei tarvitse perustella. Oikea vastaus 1 p. tai 2 p., väärä vastaus 0 p., ei vastausta 0 p.\n\nJos olet aloittanut tehtävään vastaamisen, mutta et haluakaan jättää tehtävää arvosteltavaksi, poista vastauksesi valitsemalla pudotusvalikosta tyhjä rivi.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 176925,
+          "content": {
+            "text": "### Matematiikan merkintöjä 12 p.\n\nKuinka seuraavat sanalliset kuvaukset voidaan ilmaista symbolein?\n\nValitse parhaiten soveltuva vaihtoehto. Vastauksia ei tarvitse perustella. Oikea vastaus 1 p. tai 2 p., väärä vastaus 0 p., ei vastausta 0 p.\n\nJos olet aloittanut tehtävään vastaamisen, mutta et haluakaan jättää tehtävää arvosteltavaksi, poista vastauksesi valitsemalla pudotusvalikosta tyhjä rivi.",
+            "displayNumber": "10."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "b165f781-7d6e-43bb-ac7e-a22f627e9682",
+            "839851af-14ff-492a-8a30-0ef2d62e842d",
+            "d18691dd-7d9d-4dca-a738-85167591cfc0",
+            "585685b9-f2b7-42f7-8b92-8cabdd8a6528",
+            "6a207950-c0e9-42ae-8989-98172179589e",
+            "65491cad-461a-421d-8a7f-9997cad378f5",
+            "dcd3c887-7469-461f-90bc-3a2079a98aec",
+            "ef029cc3-c5b2-482c-b748-ff87a62f5e92",
+            "496a0882-9a70-484e-b277-8fab1ef3221b",
+            "46cd5322-41d1-400e-87a1-7317a1d5480e"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-25T07:41:51.636098",
+          "max_score": null,
+          "groupping": null,
+          "id": 6117434,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "e3894c2c-4942-4669-8c66-0126a55c0f29",
+          "order_number": 13,
+          "multipart": true,
+          "created_at": "2023-09-20T16:54:00.801737"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Tuotteen lopullinen hinta, kun alkuperäistä hintaa 129 € alennetaan ensin 10 % ja alennettua hintaa myöhemmin vielä 20 %. 1 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 176925,
+          "content": {
+            "text": "Tuotteen lopullinen hinta, kun alkuperäistä hintaa 129 € alennetaan ensin 10 % ja alennettua hintaa myöhemmin vielä 20 %. 1 p.",
+            "displayNumber": "10.6"
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-25T07:41:51.641416",
+          "max_score": 1,
+          "groupping": null,
+          "id": 6513831,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 71,
+              "text": "0,7 [MATH text=*]129 €",
+              "parent": "46cd5322-41d1-400e-87a1-7317a1d5480e",
+              "choices": []
+            },
+            {
+              "id": 72,
+              "text": "129 € -10 € -20€",
+              "parent": "46cd5322-41d1-400e-87a1-7317a1d5480e",
+              "choices": []
+            },
+            {
+              "id": 73,
+              "text": "(100 % -10 % -20 %) *129 €",
+              "parent": "46cd5322-41d1-400e-87a1-7317a1d5480e",
+              "choices": []
+            },
+            {
+              "id": 74,
+              "text": "99 €",
+              "parent": "46cd5322-41d1-400e-87a1-7317a1d5480e",
+              "choices": []
+            },
+            {
+              "id": 75,
+              "text": "0,8[MATH text= *]0,9 [MATH text=*]129 €",
+              "parent": "46cd5322-41d1-400e-87a1-7317a1d5480e",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "46cd5322-41d1-400e-87a1-7317a1d5480e",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2024-02-23T10:42:01.889932"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Suorien 2 x -3 y =1 ja -x +4 y =-2 leikkauspiste. 1 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 176925,
+          "content": {
+            "text": "Suorien 2 x -3 y =1 ja -x +4 y =-2 leikkauspiste. 1 p.",
+            "displayNumber": "10.9"
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-25T07:41:51.644379",
+          "max_score": 1,
+          "groupping": null,
+          "id": 6117826,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 88,
+              "text": "[MATH text=\\begin{cases} 2x-3y=0&\\\\ -x+4y=0& \\end{cases}]",
+              "parent": "ef029cc3-c5b2-482c-b748-ff87a62f5e92",
+              "choices": []
+            },
+            {
+              "id": 89,
+              "text": "[MATH text=\\begin{cases} 2x-3y=1&\\\\ -x+4y=-2& \\end{cases}]",
+              "parent": "ef029cc3-c5b2-482c-b748-ff87a62f5e92",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 90,
+              "text": "[MATH text=2 x -3 y -1 =-x +4 y +2]",
+              "parent": "ef029cc3-c5b2-482c-b748-ff87a62f5e92",
+              "choices": []
+            },
+            {
+              "id": 91,
+              "text": "[MATH text=(x, y) =(1, -2)]",
+              "parent": "ef029cc3-c5b2-482c-b748-ff87a62f5e92",
+              "choices": []
+            },
+            {
+              "id": 92,
+              "text": "[MATH text=(2 x -3 y) *(-x +4 y) =1 *(-2)]",
+              "parent": "ef029cc3-c5b2-482c-b748-ff87a62f5e92",
+              "choices": []
+            },
+            {
+              "id": 93,
+              "text": "[MATH text=x +y =-1]",
+              "parent": "ef029cc3-c5b2-482c-b748-ff87a62f5e92",
+              "choices": []
+            }
+          ],
+          "uuid": "ef029cc3-c5b2-482c-b748-ff87a62f5e92",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2023-09-21T11:04:40.112128"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kun kerrotaan kaksi samakantaista potenssia, niin eksponentit lasketaan yhteen. 1 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 176925,
+          "content": {
+            "text": "Kun kerrotaan kaksi samakantaista potenssia, niin eksponentit lasketaan yhteen. 1 p.",
+            "displayNumber": "10.5"
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-25T07:41:51.648884",
+          "max_score": 1,
+          "groupping": null,
+          "id": 6117777,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 65,
+              "text": "[MATH text=x^nx^m=x^{n+m}]",
+              "parent": "6a207950-c0e9-42ae-8989-98172179589e",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 66,
+              "text": "[MATH text=x^nx^m=x^{nm}]",
+              "parent": "6a207950-c0e9-42ae-8989-98172179589e",
+              "choices": []
+            },
+            {
+              "id": 67,
+              "text": "[MATH text=x^{n+m}=x^n+x^m]",
+              "parent": "6a207950-c0e9-42ae-8989-98172179589e",
+              "choices": []
+            },
+            {
+              "id": 68,
+              "text": "[MATH text=x^{n+m}=x^{nm}]",
+              "parent": "6a207950-c0e9-42ae-8989-98172179589e",
+              "choices": []
+            },
+            {
+              "id": 69,
+              "text": "[MATH text=\\left(x^n\\right)^m=x^{nm}]",
+              "parent": "6a207950-c0e9-42ae-8989-98172179589e",
+              "choices": []
+            },
+            {
+              "id": 70,
+              "text": "[MATH text=\\left(x^n\\right)^m=x^{n+m}]",
+              "parent": "6a207950-c0e9-42ae-8989-98172179589e",
+              "choices": []
+            }
+          ],
+          "uuid": "6a207950-c0e9-42ae-8989-98172179589e",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2023-09-21T10:50:52.629896"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Lukusuoran pisteen x etäisyys pisteestä -2 on 3. 1 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 176925,
+          "content": {
+            "text": "Lukusuoran pisteen x etäisyys pisteestä -2 on 3. 1 p.",
+            "displayNumber": "10.7"
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-25T07:41:51.651355",
+          "max_score": 1,
+          "groupping": null,
+          "id": 6117779,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 76,
+              "text": "[MATH text=\\left|x-2\\right|=3]",
+              "parent": "65491cad-461a-421d-8a7f-9997cad378f5",
+              "choices": []
+            },
+            {
+              "id": 77,
+              "text": "[MATH text=\\left|x+3\\right|=2]",
+              "parent": "65491cad-461a-421d-8a7f-9997cad378f5",
+              "choices": []
+            },
+            {
+              "id": 78,
+              "text": "[MATH text=x^2+(-2)^2=3^2]",
+              "parent": "65491cad-461a-421d-8a7f-9997cad378f5",
+              "choices": []
+            },
+            {
+              "id": 79,
+              "text": "[MATH text=\\left|x-(-2)\\right|=3]",
+              "parent": "65491cad-461a-421d-8a7f-9997cad378f5",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 80,
+              "text": "[MATH text=\\left|x-3\\right|=2]",
+              "parent": "65491cad-461a-421d-8a7f-9997cad378f5",
+              "choices": []
+            },
+            {
+              "id": 81,
+              "text": "[MATH text=x+5=0]",
+              "parent": "65491cad-461a-421d-8a7f-9997cad378f5",
+              "choices": []
+            }
+          ],
+          "uuid": "65491cad-461a-421d-8a7f-9997cad378f5",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2023-09-21T10:50:52.636253"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Parilliset kokonaisluvut. 1 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 176925,
+          "content": {
+            "text": "Parilliset kokonaisluvut. 1 p.",
+            "displayNumber": "10.2"
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-25T07:41:51.6539",
+          "max_score": 1,
+          "groupping": null,
+          "id": 6117684,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 49,
+              "text": "[MATH text=k\\in\\mathbb{Z}]",
+              "parent": "839851af-14ff-492a-8a30-0ef2d62e842d",
+              "choices": []
+            },
+            {
+              "id": 50,
+              "text": "[MATH text=2k,k\\in\\mathbb{Z}]",
+              "parent": "839851af-14ff-492a-8a30-0ef2d62e842d",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 51,
+              "text": "[MATH text=2k+1\\in\\mathbb{Z}]",
+              "parent": "839851af-14ff-492a-8a30-0ef2d62e842d",
+              "choices": []
+            },
+            {
+              "id": 52,
+              "text": "[MATH text=k+1,k\\in\\mathbb{Z}]",
+              "parent": "839851af-14ff-492a-8a30-0ef2d62e842d",
+              "choices": []
+            },
+            {
+              "id": 53,
+              "text": "[MATH text=k/2, k\\in\\mathbb{Z}]",
+              "parent": "839851af-14ff-492a-8a30-0ef2d62e842d",
+              "choices": []
+            }
+          ],
+          "uuid": "839851af-14ff-492a-8a30-0ef2d62e842d",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2023-09-21T10:31:25.610477"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "## B2-osa\n\nVastaa kolmeen tehtävään.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 176925,
+          "content": {
+            "text": "## B2-osa\n\nVastaa kolmeen tehtävään."
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-25T07:41:51.65636",
+          "max_score": null,
+          "groupping": null,
+          "id": 6117341,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "63bb856a-9120-47d2-bf0f-2ea29ee6b070",
+          "order_number": 12,
+          "multipart": true,
+          "created_at": "2023-09-20T16:32:30.259556"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "## B1-osa\n\nVastaa kolmeen tehtävään.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 176925,
+          "content": {
+            "text": "## B1-osa\n\nVastaa kolmeen tehtävään."
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-25T07:41:51.66101",
+          "max_score": null,
+          "groupping": null,
+          "id": 6117339,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "dcd71c57-7d81-42ba-8eae-bdf0cdc862dd",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2023-09-20T16:32:30.25337"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "## A-osa\n\nVastaa neljään tehtävään.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 176925,
+          "content": {
+            "text": "## A-osa\n\nVastaa neljään tehtävään."
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-09-25T07:41:51.663125",
+          "max_score": null,
+          "groupping": null,
+          "id": 6117338,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "df724401-640c-4fba-a999-57cdffabb467",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2023-09-20T16:32:30.250509"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Jos [MATH text=f(x)=x^2+2] ja [MATH text=h(x)=x^3-2], niin [MATH text=f(x)+h(x)=]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 176925,
+          "content": {
+            "text": "Jos [MATH text=f(x)=x^2+2] ja [MATH text=h(x)=x^3-2], niin [MATH text=f(x)+h(x)=]",
+            "displayNumber": "1.3"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-25T07:41:51.66525",
+          "max_score": 2,
+          "groupping": null,
+          "id": 6117180,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 14,
+              "text": "[MATH text=x^3+x^2]",
+              "parent": "80b20c4f-6b13-4519-96d5-4155f1e38f22",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 15,
+              "text": "[MATH text=x^3+x^2+4]",
+              "parent": "80b20c4f-6b13-4519-96d5-4155f1e38f22",
+              "choices": []
+            },
+            {
+              "id": 16,
+              "text": "[MATH text=x^5]",
+              "parent": "80b20c4f-6b13-4519-96d5-4155f1e38f22",
+              "choices": []
+            },
+            {
+              "id": 17,
+              "text": "[MATH text=x^5-4]",
+              "parent": "80b20c4f-6b13-4519-96d5-4155f1e38f22",
+              "choices": []
+            },
+            {
+              "id": 18,
+              "text": "[MATH text=x^6]",
+              "parent": "80b20c4f-6b13-4519-96d5-4155f1e38f22",
+              "choices": []
+            }
+          ],
+          "uuid": "80b20c4f-6b13-4519-96d5-4155f1e38f22",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2023-09-20T15:30:08.716342"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Jos [MATH text=g(x)=\\sqrt{x}], niin [MATH text=g(16)=]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 176925,
+          "content": {
+            "text": "Jos [MATH text=g(x)=\\sqrt{x}], niin [MATH text=g(16)=]",
+            "displayNumber": "1.2"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-09-25T07:41:51.667924",
+          "max_score": 2,
+          "groupping": null,
+          "id": 6117176,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 8,
+              "text": "-4",
+              "parent": "4cf66413-5001-4a3f-9939-3fcca90433a3",
+              "choices": []
+            },
+            {
+              "id": 9,
+              "text": "4",
+              "parent": "4cf66413-5001-4a3f-9939-3fcca90433a3",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 10,
+              "text": "[MATH text=\\pm4]",
+              "parent": "4cf66413-5001-4a3f-9939-3fcca90433a3",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 11,
+              "text": "-8",
+              "parent": "4cf66413-5001-4a3f-9939-3fcca90433a3",
+              "choices": []
+            },
+            {
+              "id": 12,
+              "text": "8",
+              "parent": "4cf66413-5001-4a3f-9939-3fcca90433a3",
+              "choices": []
+            },
+            {
+              "id": 13,
+              "text": "[MATH text=\\pm8]",
+              "parent": "4cf66413-5001-4a3f-9939-3fcca90433a3",
+              "choices": []
+            }
+          ],
+          "uuid": "4cf66413-5001-4a3f-9939-3fcca90433a3",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2023-09-20T15:27:39.636869"
+        }
+      ],
+      "name": "Matematiikka, lyhyt oppimäärä syksy 2023",
+      "settings": {},
+      "exam_type": "yo-koe",
+      "classification": {
+        "category": "",
+        "disable_saving": false,
+        "hide_review_buttons": false,
+        "exam_type": "yo-koe",
+        "year": "2023",
+        "language": "fi-FI",
+        "hide_statistics": false,
+        "show_exam_series": false,
+        "force_yletunnus": false,
+        "subject": "matematiikka-lyhyt",
+        "published": true,
+        "semester": "fall"
+      },
+      "published_at": "2023-09-22T09:17:22.000Z",
+      "language": "fi-FI",
+      "id": 176925,
+      "reviews": [],
+      "is_open": true,
+      "uuid": "97ad10a4-d567-48b4-a13e-b282a683915d"
+    }
+  ]
+}

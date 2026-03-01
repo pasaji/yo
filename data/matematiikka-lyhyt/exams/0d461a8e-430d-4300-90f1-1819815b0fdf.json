@@ -1,0 +1,1439 @@
+{
+  "meta": {
+    "count": 1
+  },
+  "data": [
+    {
+      "tags": [
+        ""
+      ],
+      "main_text": "Koe koostuu 13 tehtävästä, joista vastataan kymmeneen. Tehtävät on jaettu kolmeen osaan. A-osassa on neljä kaikille pakollista tehtävää. B1-osassa on viisi tehtävää, joista vastataan kolmeen. B2-osassa on neljä tehtävää, joista vastataan kolmeen. Kaikki tehtävät arvostellaan pistein 0–12, joten kokeen maksimipistemäärä on 120.\n\n​\n\nA-osassa saat käyttää taulukkokirjaa ja koejärjestelmän tarjoamia perusohjelmia. A-osa palautetaan tehtävän 4 jäljessä olevalla painikkeella. Tämän jälkeen A-osan vastauksia ei voi enää muokata. A-osan palauttamisen jälkeen kaikki koejärjestelmän ohjelmat ovat käytettävissäsi. Lisäksi saat käyttöön oman laskimesi. Voit vastata B-osien tehtäviin myös ennen A-osan palauttamista.\n\n​\n\nUseimmissa tehtävissä kaikkien osatehtävien vastaukset kirjoitetaan samaan vastauskenttään. Jaottele vastauksesi osatehtävien mukaisesti. Halutessasi voit tuottaa vastausten tueksi piirroksia, kaavioita tai taulukoita ja liittää niistä kuvakaappauksen mihin tahansa tekstivastaukseen.\n\n​\n\nÄlä jätä mitään merkintöjä sellaisen tehtävän vastaukselle varattuun tilaan, jota et halua jättää arvosteltavaksi.\n\n​\n\nA-osa\n\nPakolliset tehtävät.\n\n  1. Lukujonot (ei aineistoa)\n\n  2. Kuusi kolmiota (ei aineistoa)\n\n  3. Paraabeli ja suora (kuva-aineisto)\n\n  4. Numerotemppu (ei aineistoa)\n\n​\n\nB1-osa\n\nVastaa kolmeen tehtävään.\n\n  5. Akun varaus (ei aineistoa)\n\n  6. Algoritmista ajattelua (ei aineistoa)\n\n  7. Osakekaupat (tiedostoaineisto)\n\n  8. Kuvaajan tangentti (ei aineistoa)\n\n  9. Vektorit / 12-sivuinen noppa (kuva-aineisto)\n\n​\n\nB2-osa\n\nVastaa kolmeen tehtävään.\n\n  10. Perheen keski-ikä (ei aineistoa)\n\n  11. Neliöjuuren likiarvo (ei aineistoa)\n\n  12. Suureiden suhteet (ei aineistoa)\n\n  13. Suomen väestön rakenne (taulukkoaineisto)\n\n​\n\nVoit avata tehtäviin liittyvät aineistot erilliseen välilehteen [LINK url=http://yle.fi/plus/abitreenit/2019/syksy/N-fi/attachments/index.html|text=tästä linkistä]. Myös tehtävänantojen yhteydessä on suorat linkit aineistoihin.\n",
+      "characters": null,
+      "deleted_at": null,
+      "series_uuids": [],
+      "questions": [
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kohdan 2.1. kolmiossa pätee sivun pituudelle x = \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ yksikköä. (1 p.)\n",
+          "deleted_at": null,
+          "feedback": "8\n",
+          "exam_id": 55429,
+          "content": {
+            "text": "Kohdan 2.1. kolmiossa pätee sivun pituudelle x = \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ yksikköä. (1 p.)\n",
+            "displayNumber": "2.2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-06-08T09:38:29.975312",
+          "max_score": null,
+          "groupping": null,
+          "id": 1766264,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "ee153922-1e27-44d5-83ec-61e16996e313",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2019-11-19T12:08:40.609487"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kohdan 2.3. kolmiossa pätee kulman suuruudelle [MATH text=\\theta\\ =]\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_° (1 p.)\n",
+          "deleted_at": null,
+          "feedback": "45\n",
+          "exam_id": 55429,
+          "content": {
+            "text": "Kohdan 2.3. kolmiossa pätee kulman suuruudelle [MATH text=\\theta\\ =]\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_° (1 p.)\n",
+            "displayNumber": "2.4."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-06-08T09:38:29.977659",
+          "max_score": null,
+          "groupping": null,
+          "id": 1766766,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "509347ba-d3b4-41c5-b402-70d6bb1048ef",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2019-11-19T12:12:05.611079"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kohdan 2.5. kolmiossa pätee kulman suuruudelle [MATH text=\\theta\\approx] \\_\\_\\_\\_\\_\\_\\_\\_°. (1 p.)\n",
+          "deleted_at": null,
+          "feedback": "56\n",
+          "exam_id": 55429,
+          "content": {
+            "text": "Kohdan 2.5. kolmiossa pätee kulman suuruudelle [MATH text=\\theta\\approx] \\_\\_\\_\\_\\_\\_\\_\\_°. (1 p.)\n",
+            "displayNumber": "2.6."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-06-08T09:38:29.979806",
+          "max_score": null,
+          "groupping": null,
+          "id": 1766880,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "4aaaa9b6-7df2-4f89-8db8-3e2faa093072",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2019-11-19T12:15:30.465772"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kohdan 2.7. kolmiossa pätee kulman suuruudelle [MATH text=\\theta\\ =]\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ °. (1 p.)\n",
+          "deleted_at": null,
+          "feedback": "30\n",
+          "exam_id": 55429,
+          "content": {
+            "text": "Kohdan 2.7. kolmiossa pätee kulman suuruudelle [MATH text=\\theta\\ =]\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ °. (1 p.)\n",
+            "displayNumber": "2.8."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-06-08T09:38:29.981934",
+          "max_score": null,
+          "groupping": null,
+          "id": 1767104,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "9a491bc8-63e2-42e9-9cf3-fd31e7a88fdb",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2019-11-19T12:19:28.015343"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kohdan 2.9. kolmiossa pätee sivun pituudelle x = \\_\\_\\_\\_\\_\\_\\_\\_ yksikköä. (1 p.)\n",
+          "deleted_at": null,
+          "feedback": "10\n",
+          "exam_id": 55429,
+          "content": {
+            "text": "Kohdan 2.9. kolmiossa pätee sivun pituudelle x = \\_\\_\\_\\_\\_\\_\\_\\_ yksikköä. (1 p.)\n",
+            "displayNumber": "2.10."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-06-08T09:38:29.987314",
+          "max_score": null,
+          "groupping": null,
+          "id": 1767671,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "62e52185-9484-4f6b-aa80-969f52fbd4d0",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2019-11-19T12:22:36.240541"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kohdan 2.11. kolmiossa pätee kulman suuruudelle [MATH text=\\theta\\ \\approx] \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ °.(1 p.)\n",
+          "deleted_at": null,
+          "feedback": "54\n",
+          "exam_id": 55429,
+          "content": {
+            "text": "Kohdan 2.11. kolmiossa pätee kulman suuruudelle [MATH text=\\theta\\ \\approx] \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ °.(1 p.)\n",
+            "displayNumber": "2.12."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-06-08T09:38:29.995119",
+          "max_score": null,
+          "groupping": null,
+          "id": 1767968,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "6bed573a-5b21-4f02-89bf-88e59e923bc1",
+          "order_number": 12,
+          "multipart": true,
+          "created_at": "2019-11-19T12:25:10.969987"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Neliöjuuren likiarvo (12 p.)**\n\n​\n\nOpiskelijoiden tehtävänä on määrittää lävistäjän pituus sellaiselle suorakulmiolle, jonka sivujen pituudet ovat 1 ja 2. Käytössä on kuitenkin vain laskin, jolla voi laskea yhteen-, vähennys-, kerto- ja jakolaskuja, mutta ei neliöjuuria. Opiskelijat tietävät, että luvun 5 neliöjuurelle voi määrittää likiarvoja seuraavan jonon avulla: \n\n​\n\n[MATH text=\\mathbb{x\\_1=3{,}}]\n\n[MATH text=x\\_{n+1}=\\frac{1}{2}\\left(x\\_n+\\frac{5}{x\\_n}\\right){,}\\ n\\ge1.]\n\n​\n\nIlpo yrittää päästä helpolla ja tarjoaa luvulle [MATH text=\\sqrt{5}] arviota [MATH text=x\\_2]. Simo puolestaan päättää käyttää arviota [MATH text=x\\_4]. Vertaa arvioita [MATH text=x\\_2] ja [MATH text=x\\_4]\n laskimen antamaan luvun [MATH text=\\sqrt{5}] likiarvoon. Kuinka monta prosenttia liian suuria Ilpon ja Simon arviot ovat?\n",
+          "deleted_at": null,
+          "feedback": "[IMS id=39-6134435dd3e9dcdb2cc|showCopyright=false|imageLink=false]\n",
+          "exam_id": 55429,
+          "content": {
+            "text": "**Neliöjuuren likiarvo (12 p.)**\n\n​\n\nOpiskelijoiden tehtävänä on määrittää lävistäjän pituus sellaiselle suorakulmiolle, jonka sivujen pituudet ovat 1 ja 2. Käytössä on kuitenkin vain laskin, jolla voi laskea yhteen-, vähennys-, kerto- ja jakolaskuja, mutta ei neliöjuuria. Opiskelijat tietävät, että luvun 5 neliöjuurelle voi määrittää likiarvoja seuraavan jonon avulla: \n\n​\n\n[MATH text=\\mathbb{x\\_1=3{,}}]\n\n[MATH text=x\\_{n+1}=\\frac{1}{2}\\left(x\\_n+\\frac{5}{x\\_n}\\right){,}\\ n\\ge1.]\n\n​\n\nIlpo yrittää päästä helpolla ja tarjoaa luvulle [MATH text=\\sqrt{5}] arviota [MATH text=x\\_2]. Simo puolestaan päättää käyttää arviota [MATH text=x\\_4]. Vertaa arvioita [MATH text=x\\_2] ja [MATH text=x\\_4]\n laskimen antamaan luvun [MATH text=\\sqrt{5}] likiarvoon. Kuinka monta prosenttia liian suuria Ilpon ja Simon arviot ovat?\n",
+            "displayNumber": "11."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-06-08T09:38:29.999845",
+          "max_score": null,
+          "groupping": null,
+          "id": 1770344,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "2ad2c01b-5f1f-4485-94cd-739ac5f14c80",
+          "order_number": 14,
+          "multipart": true,
+          "created_at": "2019-11-19T13:06:28.151735"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### B1-osa\n\nRatkaise kolme tehtävistä 5–9. Tässä osassa saat käyttää kaikkia koejärjestelmän ohjelmia ja omaa laskintasi, kun olet palauttanut A-osan vastaukset.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 55429,
+          "content": {
+            "text": "### B1-osa\n\nRatkaise kolme tehtävistä 5–9. Tässä osassa saat käyttää kaikkia koejärjestelmän ohjelmia ja omaa laskintasi, kun olet palauttanut A-osan vastaukset.\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-06-08T09:38:30.022994",
+          "max_score": null,
+          "groupping": null,
+          "id": 1769401,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "f5fb559a-bef5-4d97-9348-e316c6390179",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2019-11-19T12:47:55.059721"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Akun varaus (12 p.)**\n\n​\n\nAkun varausta kuvaa malli [MATH text=a\\cdot q^t] kun [MATH text=t] on aika tunneissa, [MATH text=a=100] C ja [MATH text=q=0,877]. Mikä on akun varauksen puoliintumisaika?\n",
+          "deleted_at": null,
+          "feedback": "[IMS id=39-6134275dd3e57cc963c|showCopyright=false|imageLink=false]\n",
+          "exam_id": 55429,
+          "content": {
+            "text": "**Akun varaus (12 p.)**\n\n​\n\nAkun varausta kuvaa malli [MATH text=a\\cdot q^t] kun [MATH text=t] on aika tunneissa, [MATH text=a=100] C ja [MATH text=q=0,877]. Mikä on akun varauksen puoliintumisaika?\n",
+            "displayNumber": "5."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-06-08T09:38:30.026675",
+          "max_score": null,
+          "groupping": null,
+          "id": 1769429,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "c32c2e5d-d912-4f93-bf6c-2782e3876aee",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2019-11-19T12:48:09.708634"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Osakekaupat (12 p.)**\n\n&NewLine;\n\nAineisto:\n\n7.A [LINK url=https://yle.fi/plus/abitreenit/2019/syksy/N-fi/attachments/index.html#7.A|text=Tiedosto: Pörssikurssit]\n\n&NewLine;\n\nAineistossa 7.A on Helsingin pörssin kolmen eri osakkeen osakekurssit, joiden mukaisin hinnoin Roope osti ja myi osakkeita. Hän ostaa 1.2.2018 kello 14.00 osaketta B yhteensä 1 000 eurolla. Hän vaihtaa 2.2.2018 kello 10.00 kaiken osakkeeseen C, ja samana päivänä kello 18.00 hän vaihtaa edelleen kaiken osakkeeseen A. Hän myy kaiken 3.2.2018 kello 16.00. Jokaisesta osto- ja myyntitoimeksiannosta Roope maksaa 4,00 euroa välityspalkkiota. Vaihdon yhteydessä tapahtuu sekä myynti- että ostotoimeksianto. Kuinka paljon Roopella on rahaa osakkeet myytyään?\n",
+          "deleted_at": null,
+          "feedback": "B-osakeen hinta 3e/oikean välityspalkkion jälkeen (996e)/332 B-osaketta \n\nB-osakeen hinta 2,5e/oikean välityspalkkion jälkeen (822e)/ C hinta 6e/ joten 137\n\nC-osaketta \n\nC-osakeen hinta 7e/oikean välityspalkkion jälkeen (951e)/ A hinta 3e ja joten 317\n\nA-osaketta \n\nC-osakeen hinta 2,8e/oikean välityspalkkion jälkeen 883,60 euroa \n\nOsakkeiden hinnoista voi saada max 3 p., ellei ratkaisusta ilmene myös miten\n\nhinta vaikuttaa määrään. Tätä sovelletaan, jos ratkaisussa on esimerkiksi pelkkä\n\ntaulukko hinnoista, tai määriä on laskettu mallilla 3·996 = 2988 B-osaketta, tms.\n\nVälityspalkkio puuttuu/otettu kaikki palkkiot lopussa \n\nVälityspalkkio joka kohdassa 4e \n\nAlkupääoma 1004\n",
+          "exam_id": 55429,
+          "content": {
+            "text": "**Osakekaupat (12 p.)**\n\n&NewLine;\n\nAineisto:\n\n7.A [LINK url=https://yle.fi/plus/abitreenit/2019/syksy/N-fi/attachments/index.html#7.A|text=Tiedosto: Pörssikurssit]\n\n&NewLine;\n\nAineistossa 7.A on Helsingin pörssin kolmen eri osakkeen osakekurssit, joiden mukaisin hinnoin Roope osti ja myi osakkeita. Hän ostaa 1.2.2018 kello 14.00 osaketta B yhteensä 1 000 eurolla. Hän vaihtaa 2.2.2018 kello 10.00 kaiken osakkeeseen C, ja samana päivänä kello 18.00 hän vaihtaa edelleen kaiken osakkeeseen A. Hän myy kaiken 3.2.2018 kello 16.00. Jokaisesta osto- ja myyntitoimeksiannosta Roope maksaa 4,00 euroa välityspalkkiota. Vaihdon yhteydessä tapahtuu sekä myynti- että ostotoimeksianto. Kuinka paljon Roopella on rahaa osakkeet myytyään?\n",
+            "displayNumber": "7."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-06-08T09:38:30.030509",
+          "max_score": null,
+          "groupping": null,
+          "id": 1769763,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "2f8fb3d0-b931-443a-adc4-03c1e6f85622",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2019-11-19T12:55:14.557039"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Kuvaajan tangentti (12 p.)**\n\n&NewLine;\n\nTarkastellaan polynomia [MATH text=p\\left(x\\right)=x^3+5x] ja sen kuvaajan tangenttia pisteessä (1, 6). Määritä derivaatan avulla tämän tangentin yhtälö.\n",
+          "deleted_at": null,
+          "feedback": "[IMS id=39-6134355dd3e6f2a64c7|showCopyright=false|imageLink=false]\n",
+          "exam_id": 55429,
+          "content": {
+            "text": "**Kuvaajan tangentti (12 p.)**\n\n&NewLine;\n\nTarkastellaan polynomia [MATH text=p\\left(x\\right)=x^3+5x] ja sen kuvaajan tangenttia pisteessä (1, 6). Määritä derivaatan avulla tämän tangentin yhtälö.\n",
+            "displayNumber": "8."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-06-08T09:38:30.042565",
+          "max_score": null,
+          "groupping": null,
+          "id": 1769824,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "ad0ccb95-7b74-49b5-851e-24030d4f499a",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2019-11-19T12:56:11.734406"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "[MATH text=b\\_n=n\\cdot3^n] [SELECT id=1] (2 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 55429,
+          "content": {
+            "text": "[MATH text=b\\_n=n\\cdot3^n] [SELECT id=1] (2 p.)\n",
+            "displayNumber": "1.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-06-08T09:38:30.048374",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1765041,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "parent": "99e57d77-50af-4754-955e-950f13c1915b",
+              "choices": [
+                {
+                  "id": "e586ce67-ea59-4ed5-9d77-f4c95a03df65",
+                  "text": "aritmeettinen"
+                },
+                {
+                  "id": "4f6f9034-5956-422b-a8b5-38f13ca4d576",
+                  "text": "geometrinen",
+                  "correct": false
+                },
+                {
+                  "id": "798e998d-4e83-4359-8651-2f98e1d86dd4",
+                  "text": "kumpaakin"
+                },
+                {
+                  "id": "1daaaec6-d7b7-45db-83b1-590dcddbda98",
+                  "text": "ei kumpaakaan",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "99e57d77-50af-4754-955e-950f13c1915b",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2019-11-19T11:53:32.750865"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### B2-osa\n\nRatkaise kolme tehtävistä 10–13. Tässä osassa saat käyttää kaikkia koejärjestelmän ohjelmia ja omaa laskintasi, kun olet palauttanut A-osan vastaukset.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 55429,
+          "content": {
+            "text": "### B2-osa\n\nRatkaise kolme tehtävistä 10–13. Tässä osassa saat käyttää kaikkia koejärjestelmän ohjelmia ja omaa laskintasi, kun olet palauttanut A-osan vastaukset.\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-06-08T09:38:30.051081",
+          "max_score": null,
+          "groupping": null,
+          "id": 1770173,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "d993aa88-4929-411a-aea7-71dedb055789",
+          "order_number": 12,
+          "multipart": true,
+          "created_at": "2019-11-19T13:03:42.263412"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### A-osa\n\nRatkaise kaikki tämän osan tehtävät 1–4.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 55429,
+          "content": {
+            "text": "### A-osa\n\nRatkaise kaikki tämän osan tehtävät 1–4.\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-06-08T09:38:30.055716",
+          "max_score": null,
+          "groupping": null,
+          "id": 1764884,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "aa1433d1-ab44-4090-bcdf-6182b758fe07",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2019-11-19T11:50:37.144953"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Lukujonot (12 p.)**\n\n&NewLine;\n\nAlla on annettu eräiden lukujonojen yleisten termien lausekkeet. Valitse kunkin jonon alasvetovalikosta, onko jono aritmeettinen, geometrinen, kumpaakin vai ei kumpaakaan tyyppiä.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 55429,
+          "content": {
+            "text": "**Lukujonot (12 p.)**\n\n&NewLine;\n\nAlla on annettu eräiden lukujonojen yleisten termien lausekkeet. Valitse kunkin jonon alasvetovalikosta, onko jono aritmeettinen, geometrinen, kumpaakin vai ei kumpaakaan tyyppiä.\n",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "65e3413a-1536-4699-b5bd-b699b510debe",
+            "99e57d77-50af-4754-955e-950f13c1915b",
+            "c3a1f27e-78c0-405e-8b14-ecb04d5abfd6",
+            "90073f14-0f4e-4e0b-b0fd-70f2e44a4c78",
+            "1a68fbda-4b93-46ec-9f8d-c6e60019f15d",
+            "50309f21-4360-4543-b7e5-ed7316b9d3f4"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-06-08T09:38:30.058616",
+          "max_score": null,
+          "groupping": null,
+          "id": 1764988,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "1cf2f787-9098-4406-b81b-d57452c5ea73",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2019-11-19T11:50:56.860733"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "[MATH text=f\\_n=3-9n] [SELECT id=1] (2 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 55429,
+          "content": {
+            "text": "[MATH text=f\\_n=3-9n] [SELECT id=1] (2 p.)\n",
+            "displayNumber": "1.6."
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-06-08T09:38:30.060993",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1765347,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "parent": "50309f21-4360-4543-b7e5-ed7316b9d3f4",
+              "choices": [
+                {
+                  "id": "5973d69c-6d80-46d1-8aff-ff588137c46a",
+                  "text": "aritmeettinen",
+                  "correct": true
+                },
+                {
+                  "id": "d4519df6-4ac1-43a3-a2ec-7be7494d53f5",
+                  "text": "geometrinen",
+                  "correct": false
+                },
+                {
+                  "id": "be04eaf8-a0fb-47b3-b020-f17bd9a64a28",
+                  "text": "kumpaakin",
+                  "correct": false
+                },
+                {
+                  "id": "64ee9e19-249d-4bc4-801a-5457eb23db20",
+                  "text": "ei kumpaakaan",
+                  "correct": false
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "50309f21-4360-4543-b7e5-ed7316b9d3f4",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2019-11-19T11:58:12.19231"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "[MATH text=a\\_n=3\\cdot2^n] [SELECT id=1] (2 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 55429,
+          "content": {
+            "text": "[MATH text=a\\_n=3\\cdot2^n] [SELECT id=1] (2 p.)\n",
+            "displayNumber": "1.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-06-08T09:38:30.063174",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1764991,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "parent": "65e3413a-1536-4699-b5bd-b699b510debe",
+              "choices": [
+                {
+                  "id": "6d7d0fff-8815-4a83-871f-481d7c924043",
+                  "text": "aritmeettinen"
+                },
+                {
+                  "id": "09273284-6c46-48da-9a7f-16569757fc08",
+                  "text": "geometrinen",
+                  "correct": true
+                },
+                {
+                  "id": "0ea6592f-cd19-4cb3-87a2-2a68207e1ae8",
+                  "text": "kumpaakin"
+                },
+                {
+                  "id": "e7304eb7-5e76-4301-b1f4-caf169e6b28c",
+                  "text": "ei kumpaakaan"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "65e3413a-1536-4699-b5bd-b699b510debe",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2019-11-19T11:51:55.973333"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "[MATH text=c\\_n=7^{n+1}][SELECT id=1] (2 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 55429,
+          "content": {
+            "text": "[MATH text=c\\_n=7^{n+1}][SELECT id=1] (2 p.)\n",
+            "displayNumber": "1.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-06-08T09:38:30.070269",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1765054,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "parent": "c3a1f27e-78c0-405e-8b14-ecb04d5abfd6",
+              "choices": [
+                {
+                  "id": "15335ed2-47d6-4d7d-aa27-220c8da25db5",
+                  "text": "aritmeettinen"
+                },
+                {
+                  "id": "d80e2afd-0dc9-4049-9587-0cb60b5bb592",
+                  "text": "geometrinen",
+                  "correct": true
+                },
+                {
+                  "id": "216bae98-b9ee-479c-8596-b3c8110f3e8e",
+                  "text": "kumpaakin"
+                },
+                {
+                  "id": "7591c1d1-77cf-4aea-b8b9-2a1bd1c126da",
+                  "text": "ei kumpaakaan",
+                  "correct": false
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "c3a1f27e-78c0-405e-8b14-ecb04d5abfd6",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2019-11-19T11:54:31.9891"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "[MATH text=d\\_n=5][SELECT id=1] (2 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 55429,
+          "content": {
+            "text": "[MATH text=d\\_n=5][SELECT id=1] (2 p.)\n",
+            "displayNumber": "1.4."
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-06-08T09:38:30.068104",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1765282,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "parent": "90073f14-0f4e-4e0b-b0fd-70f2e44a4c78",
+              "choices": [
+                {
+                  "id": "947a6b4e-2bde-401b-bcc5-e5215a8760d9",
+                  "text": "aritmeettinen"
+                },
+                {
+                  "id": "1ae2b70d-b171-48cc-8f5e-770d7dccc3d7",
+                  "text": "geometrinen",
+                  "correct": false
+                },
+                {
+                  "id": "b054ae5b-5cae-4d00-8d95-8516124fc757",
+                  "text": "kumpaakin",
+                  "correct": true
+                },
+                {
+                  "id": "4f9de686-ad5a-46ee-bbb1-6ddd48161f54",
+                  "text": "ei kumpaakaan",
+                  "correct": false
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "90073f14-0f4e-4e0b-b0fd-70f2e44a4c78",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2019-11-19T11:56:15.059994"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "[MATH text=e\\_n=2019-1\\ \\bigg/\\_{\\!\\!\\!\\!\\!{ }}^{ }n] [SELECT id=1] (2 p.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 55429,
+          "content": {
+            "text": "[MATH text=e\\_n=2019-1\\ \\bigg/\\_{\\!\\!\\!\\!\\!{ }}^{ }n] [SELECT id=1] (2 p.)\n",
+            "displayNumber": "1.5."
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-06-08T09:38:30.06568",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1765313,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "parent": "1a68fbda-4b93-46ec-9f8d-c6e60019f15d",
+              "choices": [
+                {
+                  "id": "37c05134-eb2c-4c70-9faa-aa23ae533e84",
+                  "text": "aritmeettinen"
+                },
+                {
+                  "id": "b0c9f494-765c-4497-94a5-b8e017dbb624",
+                  "text": "geometrinen",
+                  "correct": false
+                },
+                {
+                  "id": "d25dcab0-abbb-4fb9-8ced-9a64e8fa47fb",
+                  "text": "kumpaakin",
+                  "correct": false
+                },
+                {
+                  "id": "6bf963a2-504f-4175-8add-b540b7726ac2",
+                  "text": "ei kumpaakaan",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "1a68fbda-4b93-46ec-9f8d-c6e60019f15d",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2019-11-19T11:57:49.306275"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Valitse kolmion osalta tilanteeseen parhaiten soveltuva kaava ja kirjoita vastauskenttään kulman [MATH text=\\theta\\ ] suuruus asteen tarkkuudella. (1 p.)\n\n​\n\n[IMS id=39-6134135dd3def87bb56|showCopyright=false|imageLink=false]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 55429,
+          "content": {
+            "text": "Valitse kolmion osalta tilanteeseen parhaiten soveltuva kaava ja kirjoita vastauskenttään kulman [MATH text=\\theta\\ ] suuruus asteen tarkkuudella. (1 p.)\n\n​\n\n[IMS id=39-6134135dd3def87bb56|showCopyright=false|imageLink=false]\n",
+            "displayNumber": "2.11."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-06-08T09:38:30.092396",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1767798,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 2,
+              "text": "[MATH text=a^2+b^2=c^2]",
+              "parent": "9c35c49c-e572-4fb2-8e6e-853ea561b8ce",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 3,
+              "text": "[MATH text=\\alpha+\\beta+\\gamma=180°]",
+              "parent": "9c35c49c-e572-4fb2-8e6e-853ea561b8ce",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 4,
+              "text": "[MATH text=\\sin\\alpha=\\frac{a}{c}]",
+              "parent": "9c35c49c-e572-4fb2-8e6e-853ea561b8ce",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 5,
+              "text": "[MATH text=\\cos\\alpha=\\frac{b}{c}]",
+              "parent": "9c35c49c-e572-4fb2-8e6e-853ea561b8ce",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 6,
+              "text": "[MATH text=\\tan\\alpha=\\frac{a}{b}]",
+              "parent": "9c35c49c-e572-4fb2-8e6e-853ea561b8ce",
+              "choices": [],
+              "correct": false
+            }
+          ],
+          "uuid": "9c35c49c-e572-4fb2-8e6e-853ea561b8ce",
+          "order_number": 11,
+          "multipart": true,
+          "created_at": "2019-11-19T12:23:07.729863"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Valitse kolmion osalta tilanteeseen parhaiten soveltuva kaava ja kirjoita vastauskenttään kulman [MATH text=\\theta]  suuruus. (1 p.)\n\n​\n\n[IMS id=39-6134075dd3dd95ac1cf|showCopyright=false|imageLink=false]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 55429,
+          "content": {
+            "text": "Valitse kolmion osalta tilanteeseen parhaiten soveltuva kaava ja kirjoita vastauskenttään kulman [MATH text=\\theta]  suuruus. (1 p.)\n\n​\n\n[IMS id=39-6134075dd3dd95ac1cf|showCopyright=false|imageLink=false]\n",
+            "displayNumber": "2.6."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-06-08T09:38:29.997385",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1767035,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 2,
+              "text": "[MATH text=a^2+b^2=c^2]",
+              "parent": "f544328e-2afe-478a-8f55-6910f2b596e4",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 3,
+              "text": "[MATH text=\\alpha+\\beta+\\gamma=180°]",
+              "parent": "f544328e-2afe-478a-8f55-6910f2b596e4",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 4,
+              "text": "[MATH text=\\sin\\alpha=\\frac{a}{c}]",
+              "parent": "f544328e-2afe-478a-8f55-6910f2b596e4",
+              "choices": []
+            },
+            {
+              "id": 5,
+              "text": "[MATH text=\\cos\\alpha=\\frac{b}{c}]",
+              "parent": "f544328e-2afe-478a-8f55-6910f2b596e4",
+              "choices": []
+            },
+            {
+              "id": 6,
+              "text": "[MATH text=\\tan\\alpha=\\frac{a}{b}]",
+              "parent": "f544328e-2afe-478a-8f55-6910f2b596e4",
+              "choices": [],
+              "correct": false
+            }
+          ],
+          "uuid": "f544328e-2afe-478a-8f55-6910f2b596e4",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2019-11-19T12:17:11.038556"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Numerotemppu (12 p.)**\n\n&NewLine;\n\nRiikka on kehittänyt seuraavan numerotempun ja testaa sitä serkullaan Almalla. Alma on syntynyt 1.2.2000. Riikka esittää Almalle seuraavat askeleet:\n\n&NewLine;\n\n(a) Valitse luku väliltä 1-9.\n\n(b) Kerro valitsemasi luku luvulla 2.\n\n(c) Lisää saamaasi lukuun 5.\n\n(d) Kerro nyt saamasi luku luvulla 50.\n\n(e) i) Jos olet jo viettänyt syntymäpäivääsi tänä vuonna, lisää lukuusi luku 1769.\n\n      ii) Jos et ole vielä viettänyt syntymäpäivääsi tänä vuonna, lisää lukuusi luku 1768.\n\n(f) Vähennä nyt tuloksesta syntymävuotesi.\n\n(g) Kerro, minkä tuloksen olet saanut.\n\n&NewLine;\n\nKun Alma vastaa 319, niin Riikka tietää kertoa, että Alma on 19-vuotias ja että hän valitsi alussa luvun 3.\n\n&NewLine;\n\nSelitä matemaattisesti, miksi Riikan numerotemppu toimi Almalle, ja miksei se toimi Alman isoisoäidille, joka on yli 100-vuotias.\n",
+          "deleted_at": null,
+          "feedback": "Laskettu Alman tapauksessa, että tulee 319 TAI jokin toinen esimerkki ali 100-\n\nvuotiaasta\n\n• Laskettu yksi esimerkki yli 100-vuotiaasta \n\nSanallinen johtopäätös (että tulos on muotoa 100x + y) ja siten toimii vain alle\n\n100-vuotiaille \n\n• Tarkasteltu esimerkeissä tai algebrallisesti erikseen tapauksia, joissa syntymä-\n\npäivä on jo ollut ja että syntymäpäivä ei ole vielä ollut \n\n&NewLine;\n\n_Algebrallinen perustelu_\n\nMerkitään alkuperäistä valittua lukua muuttujalla x ja henkilön ikää muuttujalla\n\ny. Muodostetaan algebrallinen lauseke eri kohtien ohjeiden mukaisesti:\n\n(b) 2x (1)\n\n(c) 2x + 5 (1)\n\n(d) 100x + 250 1\n\n(e) 100x + 2018 + j, missä j on 0 (tapaus ii) tai 1 (tapaus i). 1\n\nSyntymävuosi riippuu iästä y ja siitä, onko tänä vuonna jo ollut syntymäpäivä.\n\nSyntymävuosi on 2018−y +j. Tapausten i ja ii tarkastelun voi tehdä myös ilman\n\n”j”-muuttujaa. 1\n\n(f) 100x + y (tästä jatkuu yllä mainittuun sanalliseen perusteluun)\n\n&NewLine;\n\nAlgebrallinen päättely ilman sen tarkastelua, onko syntymäpäivä ollut vai tulossa max 10\n\nJos on laskenut kohtien (a)–(d) tulokset kaikilla luvun valinnoilla (350, 450, . . . ,\n\n1150), näistä kohdista (Huom.! Voi olla osa myös täydellistä ratkaisua, jolloin\n\ntäydet pisteet.)\n",
+          "exam_id": 55429,
+          "content": {
+            "text": "**Numerotemppu (12 p.)**\n\n&NewLine;\n\nRiikka on kehittänyt seuraavan numerotempun ja testaa sitä serkullaan Almalla. Alma on syntynyt 1.2.2000. Riikka esittää Almalle seuraavat askeleet:\n\n&NewLine;\n\n(a) Valitse luku väliltä 1-9.\n\n(b) Kerro valitsemasi luku luvulla 2.\n\n(c) Lisää saamaasi lukuun 5.\n\n(d) Kerro nyt saamasi luku luvulla 50.\n\n(e) i) Jos olet jo viettänyt syntymäpäivääsi tänä vuonna, lisää lukuusi luku 1769.\n\n      ii) Jos et ole vielä viettänyt syntymäpäivääsi tänä vuonna, lisää lukuusi luku 1768.\n\n(f) Vähennä nyt tuloksesta syntymävuotesi.\n\n(g) Kerro, minkä tuloksen olet saanut.\n\n&NewLine;\n\nKun Alma vastaa 319, niin Riikka tietää kertoa, että Alma on 19-vuotias ja että hän valitsi alussa luvun 3.\n\n&NewLine;\n\nSelitä matemaattisesti, miksi Riikan numerotemppu toimi Almalle, ja miksei se toimi Alman isoisoäidille, joka on yli 100-vuotias.\n",
+            "displayNumber": "4."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-06-08T09:38:30.009926",
+          "max_score": null,
+          "groupping": null,
+          "id": 1769296,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "4a523e41-f611-4776-a65a-8b181f71d698",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2019-11-19T12:45:49.439388"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Vektorit / 12-sivuinen noppa (12 p.)**\n\n&NewLine;\n\n**Jos valitset tämän tehtävän, ratkaise joko 9.1. TAI 9.2.** (Voit valita kumman tahansa tehtävän riippumatta siitä, minkä opetussuunnitelman mukaisesti olet opiskellut.)\n\n&NewLine;\n\n**9.1. (Vanha opetussuunnitelma, ennen 1.8.2016 lukion aloittaneet)**\n\n&NewLine;\n\nAineisto:\n\n9.A [LINK url=https://yle.fi/plus/abitreenit/2019/syksy/N-fi/attachments/index.html#9.A|text=Kuva: Suunnikas]\n\n&NewLine;\n\nKuvassa 9.A on suunnikas. Esitä vektorit [MATH text=\\overline{AE}] ja [MATH text=\\overline{BD}] vektorien [MATH text=a=\\overline{AB}] ja [MATH text=b=\\overline{AD}] avulla lausuttuina, kun piste [MATH text=E] on janan [MATH text=CD] keskipiste.\n\n&NewLine;\n\n**9.2. (Uusi opetussuunnitelma, 1.8.2016 tai sen jälkeen lukion aloittaneet)**\n\n&NewLine;\n\nHeitetään kahta 12-sivuista noppaa, joiden silmäluvut ovat 1, 2, ..., 12. Laske tulosten summan odotusarvo ja keskihajonta esimerkiksi taulukkolaskentaohjelman avulla.\n\n&NewLine;\n\nKirjoita tähän vastauskenttään joko tehtävän 9.1. TAI tehtävän 9.2. ratkaisu.\n",
+          "deleted_at": null,
+          "feedback": "[IMS id=39-6134395dd3e80cd6696|showCopyright=false|imageLink=false]\n",
+          "exam_id": 55429,
+          "content": {
+            "text": "**Vektorit / 12-sivuinen noppa (12 p.)**\n\n&NewLine;\n\n**Jos valitset tämän tehtävän, ratkaise joko 9.1. TAI 9.2.** (Voit valita kumman tahansa tehtävän riippumatta siitä, minkä opetussuunnitelman mukaisesti olet opiskellut.)\n\n&NewLine;\n\n**9.1. (Vanha opetussuunnitelma, ennen 1.8.2016 lukion aloittaneet)**\n\n&NewLine;\n\nAineisto:\n\n9.A [LINK url=https://yle.fi/plus/abitreenit/2019/syksy/N-fi/attachments/index.html#9.A|text=Kuva: Suunnikas]\n\n&NewLine;\n\nKuvassa 9.A on suunnikas. Esitä vektorit [MATH text=\\overline{AE}] ja [MATH text=\\overline{BD}] vektorien [MATH text=a=\\overline{AB}] ja [MATH text=b=\\overline{AD}] avulla lausuttuina, kun piste [MATH text=E] on janan [MATH text=CD] keskipiste.\n\n&NewLine;\n\n**9.2. (Uusi opetussuunnitelma, 1.8.2016 tai sen jälkeen lukion aloittaneet)**\n\n&NewLine;\n\nHeitetään kahta 12-sivuista noppaa, joiden silmäluvut ovat 1, 2, ..., 12. Laske tulosten summan odotusarvo ja keskihajonta esimerkiksi taulukkolaskentaohjelman avulla.\n\n&NewLine;\n\nKirjoita tähän vastauskenttään joko tehtävän 9.1. TAI tehtävän 9.2. ratkaisu.\n",
+            "displayNumber": "9."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-06-08T09:38:30.072806",
+          "max_score": null,
+          "groupping": null,
+          "id": 1769980,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "931f7eb5-8510-456a-ae4a-6e34ac8fed8e",
+          "order_number": 11,
+          "multipart": true,
+          "created_at": "2019-11-19T12:59:51.72894"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Paraabeli ja suora (12 p.)**\n\n&NewLine;\n\nAineisto:\n\n3.A [LINK url=https://yle.fi/plus/abitreenit/2019/syksy/N-fi/attachments/index.html#3.A|text=Kuva: Leikkauspisteet]\n\n&NewLine;\n\nKuvassa 3.A on paraabeli [MATH text=y=4x^2] ja eräs suora. Määritä graafisesti suoran yhtälö. Määritä laskemalla leikkauspiste [MATH text=P] suoran ja paraabelin yhtälöiden avulla.\n\n&NewLine;\n\n_Huom. Abitreenien harjoittelukokeeseen ei voi liittää kuvia._\n",
+          "deleted_at": null,
+          "feedback": "[IMS id=39-6134255dd3e3c88845c|showCopyright=false|imageLink=false]\n",
+          "exam_id": 55429,
+          "content": {
+            "text": "**Paraabeli ja suora (12 p.)**\n\n&NewLine;\n\nAineisto:\n\n3.A [LINK url=https://yle.fi/plus/abitreenit/2019/syksy/N-fi/attachments/index.html#3.A|text=Kuva: Leikkauspisteet]\n\n&NewLine;\n\nKuvassa 3.A on paraabeli [MATH text=y=4x^2] ja eräs suora. Määritä graafisesti suoran yhtälö. Määritä laskemalla leikkauspiste [MATH text=P] suoran ja paraabelin yhtälöiden avulla.\n\n&NewLine;\n\n_Huom. Abitreenien harjoittelukokeeseen ei voi liittää kuvia._\n",
+            "displayNumber": "3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-06-08T09:38:30.075637",
+          "max_score": null,
+          "groupping": null,
+          "id": 1769033,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "5bdd1526-0d25-4d3b-bc1f-e70371f49d4a",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2019-11-19T12:43:38.272319"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Algoritmista ajattelua (12 p.)**\n\n&NewLine;\n\nAlakoulun oppilaat harjoittelevat algoritmista ajattelua ja ohjelmointia. Oppilaiden tehtävänä on ohjelmoida toisiaan toimimaan täsmälleen tarkasti annettujen ohjeiden mukaan. Eräs oppilas antaa luokkatoverilleen seuraavat ohjeet:\n\n&NewLine;\n\n(a) Aloita pisteestä A.\n\n(b) Kulje täsmälleen 2 metriä suoraan eteenpäin.\n\n(c) Käänny 90 astetta oikealle.\n\n(d) Kulje täsmälleen 4 metriä eteenpäin.\n\n(e) Käänny 90 astetta oikealle.\n\n(f) Kulje täsmälleen 7 metriä eteenpäin ja olet perillä pisteessä B.\n\n&NewLine;\n\n6.1. Esitä oppilaan kulkema reitti käyttämällä sopivaa piirto-ohjelmaa ja kuvakaappaustyökalua. (6 p.)\n\n6.2. Laske pisteiden A ja B välinen etäisyys. (6 p.)\n\n&NewLine;\n",
+          "deleted_at": null,
+          "feedback": "[IMS id=39-6134285dd3e5ebc9ce9|showCopyright=false|imageLink=false]\n",
+          "exam_id": 55429,
+          "content": {
+            "text": "**Algoritmista ajattelua (12 p.)**\n\n&NewLine;\n\nAlakoulun oppilaat harjoittelevat algoritmista ajattelua ja ohjelmointia. Oppilaiden tehtävänä on ohjelmoida toisiaan toimimaan täsmälleen tarkasti annettujen ohjeiden mukaan. Eräs oppilas antaa luokkatoverilleen seuraavat ohjeet:\n\n&NewLine;\n\n(a) Aloita pisteestä A.\n\n(b) Kulje täsmälleen 2 metriä suoraan eteenpäin.\n\n(c) Käänny 90 astetta oikealle.\n\n(d) Kulje täsmälleen 4 metriä eteenpäin.\n\n(e) Käänny 90 astetta oikealle.\n\n(f) Kulje täsmälleen 7 metriä eteenpäin ja olet perillä pisteessä B.\n\n&NewLine;\n\n6.1. Esitä oppilaan kulkema reitti käyttämällä sopivaa piirto-ohjelmaa ja kuvakaappaustyökalua. (6 p.)\n\n6.2. Laske pisteiden A ja B välinen etäisyys. (6 p.)\n\n&NewLine;\n",
+            "displayNumber": "6."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-06-08T09:38:30.078187",
+          "max_score": null,
+          "groupping": null,
+          "id": 1769704,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "e0e5be80-99c0-47a4-ae28-0e8ff67bbc42",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2019-11-19T12:52:54.545089"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Suureiden suhteet (12 p.)**\n\n&NewLine;\n\n12.1. Tasapaksusta marmeladilevystä leikataan herkkupaloja isolla ja pienellä ympyränmuotoisella muotilla. Ison muotin halkaisija on kaksi kertaa niin suuri kuin pienen. Namuska on tottunut syömään kolme isoa marmeladipalaa. Kuinka monta pientä palaa hänen pitäisi syödä saadakseen yhtä paljon marmeladia? (4 p.)\n\n&NewLine;\n\n12.2. Lassi Lounastaja on tottunut syömään lounaallaan kaksi isoa perunaa. Eräänä päivänä tarjolla on pieniä perunoita, joiden halkaisija on vain 60 prosenttia ison perunan halkaisijasta. Kaikki perunat ovat yhdenmuotoisia. Kuinka monta pikkuperunaa Lassin pitäisi syödä saadakseen saman verran perunaa? (6 p.)\n\n&NewLine;\n\n12.3. Erään musiikkikappaleen esittämiseen kuluu 40-henkiseltä kuorolta 7 minuuttia ja 40 sekuntia. Eräässä esityksessä kolme kuoron jäsentä on flunssan takia poissa. Kuinka kauan tämän kappaleen esittämiseen kuluu 37-henkiseltä kuorolta? (2 p.)\n\n&NewLine;\n",
+          "deleted_at": null,
+          "feedback": "[IMS id=39-6134455dd3ea591a455|showCopyright=false|imageLink=false]\n",
+          "exam_id": 55429,
+          "content": {
+            "text": "**Suureiden suhteet (12 p.)**\n\n&NewLine;\n\n12.1. Tasapaksusta marmeladilevystä leikataan herkkupaloja isolla ja pienellä ympyränmuotoisella muotilla. Ison muotin halkaisija on kaksi kertaa niin suuri kuin pienen. Namuska on tottunut syömään kolme isoa marmeladipalaa. Kuinka monta pientä palaa hänen pitäisi syödä saadakseen yhtä paljon marmeladia? (4 p.)\n\n&NewLine;\n\n12.2. Lassi Lounastaja on tottunut syömään lounaallaan kaksi isoa perunaa. Eräänä päivänä tarjolla on pieniä perunoita, joiden halkaisija on vain 60 prosenttia ison perunan halkaisijasta. Kaikki perunat ovat yhdenmuotoisia. Kuinka monta pikkuperunaa Lassin pitäisi syödä saadakseen saman verran perunaa? (6 p.)\n\n&NewLine;\n\n12.3. Erään musiikkikappaleen esittämiseen kuluu 40-henkiseltä kuorolta 7 minuuttia ja 40 sekuntia. Eräässä esityksessä kolme kuoron jäsentä on flunssan takia poissa. Kuinka kauan tämän kappaleen esittämiseen kuluu 37-henkiseltä kuorolta? (2 p.)\n\n&NewLine;\n",
+            "displayNumber": "12."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-06-08T09:38:30.080761",
+          "max_score": null,
+          "groupping": null,
+          "id": 1770749,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "3ebf5629-0cf1-4d23-9b7f-895f30e8b4a9",
+          "order_number": 15,
+          "multipart": true,
+          "created_at": "2019-11-19T13:11:27.175583"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Valitse kolmion osalta tilanteeseen parhaiten soveltuva kaava ja kirjoita vastauskenttään sivun [MATH text=x] pituus. (1 p.)\n\n​\n\n[IMS id=39-6134105dd3de57dcbf7|showCopyright=false|imageLink=false]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 55429,
+          "content": {
+            "text": "Valitse kolmion osalta tilanteeseen parhaiten soveltuva kaava ja kirjoita vastauskenttään sivun [MATH text=x] pituus. (1 p.)\n\n​\n\n[IMS id=39-6134105dd3de57dcbf7|showCopyright=false|imageLink=false]\n",
+            "displayNumber": "2.9."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-06-08T09:38:30.083581",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1767265,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 2,
+              "text": "[MATH text=a^2+b^2=c^2]",
+              "parent": "6bedf4aa-f1a5-429b-b303-d40f34724100",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 3,
+              "text": "[MATH text=\\alpha+\\beta+\\gamma=180°]",
+              "parent": "6bedf4aa-f1a5-429b-b303-d40f34724100",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 4,
+              "text": "[MATH text=\\sin\\alpha=\\frac{a}{c}]",
+              "parent": "6bedf4aa-f1a5-429b-b303-d40f34724100",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 5,
+              "text": "[MATH text=\\cos\\alpha=\\frac{b}{c}]",
+              "parent": "6bedf4aa-f1a5-429b-b303-d40f34724100",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 6,
+              "text": "[MATH text=\\tan\\alpha=\\frac{a}{b}]",
+              "parent": "6bedf4aa-f1a5-429b-b303-d40f34724100",
+              "choices": [],
+              "correct": false
+            }
+          ],
+          "uuid": "6bedf4aa-f1a5-429b-b303-d40f34724100",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2019-11-19T12:20:28.260735"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Valitse kolmion osalta tilanteeseen parhaiten soveltuva kaava ja kirjoita vastauskenttään sivun [MATH text=x] pituus. (1 p.)\n\n​\n\n[IMS id=39-6134015dd3da4aa5a56|showCopyright=false|imageLink=false]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 55429,
+          "content": {
+            "text": "Valitse kolmion osalta tilanteeseen parhaiten soveltuva kaava ja kirjoita vastauskenttään sivun [MATH text=x] pituus. (1 p.)\n\n​\n\n[IMS id=39-6134015dd3da4aa5a56|showCopyright=false|imageLink=false]\n",
+            "displayNumber": "2.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-06-08T09:38:30.086416",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1765621,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 2,
+              "text": "[MATH text=a^2+b^2=c^2]",
+              "parent": "f87f6f55-9723-4428-8d46-4f2ad961b0fd",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 3,
+              "text": "[MATH text=\\alpha+\\beta+\\gamma=180°]",
+              "parent": "f87f6f55-9723-4428-8d46-4f2ad961b0fd",
+              "choices": []
+            },
+            {
+              "id": 4,
+              "text": "[MATH text=\\sin\\alpha=\\frac{a}{c}]",
+              "parent": "f87f6f55-9723-4428-8d46-4f2ad961b0fd",
+              "choices": []
+            },
+            {
+              "id": 5,
+              "text": "[MATH text=\\cos\\alpha=\\frac{b}{c}]",
+              "parent": "f87f6f55-9723-4428-8d46-4f2ad961b0fd",
+              "choices": []
+            },
+            {
+              "id": 6,
+              "text": "[MATH text=\\tan\\alpha=\\frac{a}{b}]",
+              "parent": "f87f6f55-9723-4428-8d46-4f2ad961b0fd",
+              "choices": []
+            }
+          ],
+          "uuid": "f87f6f55-9723-4428-8d46-4f2ad961b0fd",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2019-11-19T12:00:52.137093"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Valitse kolmion osalta tilanteeseen parhaiten soveltuva kaava ja kirjoita vastauskenttään kulman [MATH text=\\theta]  suuruus asteen tarkkuudella. (1 p.)\n\n​\n\n[IMS id=39-6134045dd3dcb4c09e1|showCopyright=false|imageLink=false]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 55429,
+          "content": {
+            "text": "Valitse kolmion osalta tilanteeseen parhaiten soveltuva kaava ja kirjoita vastauskenttään kulman [MATH text=\\theta]  suuruus asteen tarkkuudella. (1 p.)\n\n​\n\n[IMS id=39-6134045dd3dcb4c09e1|showCopyright=false|imageLink=false]\n",
+            "displayNumber": "2.5."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-06-08T09:38:30.089271",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1766823,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 2,
+              "text": "[MATH text=a^2+b^2=c^2]",
+              "parent": "19bafe4e-1160-474e-9e20-cb77aba1e688",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 3,
+              "text": "[MATH text=\\alpha+\\beta+\\gamma=180°]",
+              "parent": "19bafe4e-1160-474e-9e20-cb77aba1e688",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 4,
+              "text": "[MATH text=\\sin\\alpha=\\frac{a}{c}]",
+              "parent": "19bafe4e-1160-474e-9e20-cb77aba1e688",
+              "choices": []
+            },
+            {
+              "id": 5,
+              "text": "[MATH text=\\cos\\alpha=\\frac{b}{c}]",
+              "parent": "19bafe4e-1160-474e-9e20-cb77aba1e688",
+              "choices": []
+            },
+            {
+              "id": 6,
+              "text": "[MATH text=\\tan\\alpha=\\frac{a}{b}]",
+              "parent": "19bafe4e-1160-474e-9e20-cb77aba1e688",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "19bafe4e-1160-474e-9e20-cb77aba1e688",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2019-11-19T12:13:42.837031"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Suomen väestön rakenne (12 p.)**\n\n&NewLine;\n\nAineisto:\n\n13.A [LINK url=https://yle.fi/plus/abitreenit/2019/syksy/N-fi/attachments/index.html#13.A|text=Taulukko: Suomen väestön rakenne]\n\n&NewLine;\n\nAineistossa 13.A on esitetty Suomen väestön rakenne. Laske 15–64-vuotiaiden asukkaiden lukumäärät vuosina 1900, 1950, 1990, 2000, 2010 ja 2016. Sovita laskemaasi aineistoon lineaarinen malli [MATH text=f\\left(x\\right)] ja toisen asteen polynomi [MATH text=g\\left(x\\right)]. Ennusta molempien mallien avulla Suomen 15–64-vuotiaiden lukumäärät vuosina 2035 ja 2350 ja pohdi ennusteiden mielekkyyttä.\n",
+          "deleted_at": null,
+          "feedback": "15–64-vuotiaiden määrät saadaan kertomalla väkiluku vastaavalla prosenttiosuu-\n\ndella (liite rivi 9). \n\n&NewLine;\n\nMallien sovituksen voi tehdä esimerkiksi taulukkolaskentaohjelmalla (liite):\n\nLineaarinen malli on y = 17,33x − 31 290 (tuhatta ihmistä). \n\nToisen asteen malli on y = −0,06702x2 + 279,3x − 288 200 (tuhatta ihmistä). \n\nLineaarisen mallin ennusteet vuosille 2035 ja 2350 ovat 3 988 000 ja 9 449 000. \n\nToisen asteen mallin ennusteet vuosille 2035 ja 2350 ovat 3 730 000 ja −699 900. \n\nKummankin mallin ennuste vuodelle 2035 vaikuttaa mielekkäältä TAI järkevä\n\nperustelu, miksi toinen malli on vuonna 2035 parempi \n\nLineaarisen mallin ennuste vuodelle 2350 vaikuttaa suurelta TAI mahdolliselta \n\nToisen asteen mallin ennuste vuodelle 2350 on ilmeisen järjetön, sillä ihmisten\n\nlukumäärä ei voi olla negatiivinen. \n",
+          "exam_id": 55429,
+          "content": {
+            "text": "**Suomen väestön rakenne (12 p.)**\n\n&NewLine;\n\nAineisto:\n\n13.A [LINK url=https://yle.fi/plus/abitreenit/2019/syksy/N-fi/attachments/index.html#13.A|text=Taulukko: Suomen väestön rakenne]\n\n&NewLine;\n\nAineistossa 13.A on esitetty Suomen väestön rakenne. Laske 15–64-vuotiaiden asukkaiden lukumäärät vuosina 1900, 1950, 1990, 2000, 2010 ja 2016. Sovita laskemaasi aineistoon lineaarinen malli [MATH text=f\\left(x\\right)] ja toisen asteen polynomi [MATH text=g\\left(x\\right)]. Ennusta molempien mallien avulla Suomen 15–64-vuotiaiden lukumäärät vuosina 2035 ja 2350 ja pohdi ennusteiden mielekkyyttä.\n",
+            "displayNumber": "13."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-06-08T09:38:30.094694",
+          "max_score": null,
+          "groupping": null,
+          "id": 1770858,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "ac009011-af51-44dc-a9fe-85df2e8ec115",
+          "order_number": 16,
+          "multipart": true,
+          "created_at": "2019-11-19T13:13:40.423957"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Perheen keski-ikä (12 p.)**\n\n&NewLine;\n\nMatti ja Maija menevät naimisiin, kun he ovat 23- ja 21-vuotiaita. Heille syntyy ensimmäinen lapsi tasan 2 vuotta häiden jälkeen. Esikoisen jälkeen perheeseen syntyy vielä kolme lasta tasan 4 vuoden välein. Milloin perheen keski-ikä on pienimmillään? Mikä on perheen keski-ikä silloin?\n",
+          "deleted_at": null,
+          "feedback": "Koska kaikki perheenjäsenet vanhenevat, niin keski-ikä on pienimmillään, kun\n\nMatti ja Maija menivät naimisiin tai heti jonkun lapsen syntymän jälkeen. \n\nIät kun he menivät naimisiin: 23 ja 21.\n\n(Keskiarvo: 22)\n\nJokin keskiarvo laskettu oikein \n\nIät kun ensimmäinen lapsi syntyy: 25, 23 ja 0. \n\nKeskiarvo: 16 \n\nIät kun toinen lapsi syntyy: 29, 27, 4 ja 0. \n\nKeskiarvo: 15 \n\nIät kun kolmas lapsi syntyy: 33, 31, 8, 4 ja 0. \n\nKeskiarvo: 15,2 \n\nIät kun neljäs lapsi syntyy: 37, 35, 12, 8, 4 ja 0. \n\nKeskiarvo: 16 \n\nKeski-ikä on siis pienimmillään 15 vuotta, kun toinen lapsi syntyy. \n\nEnsimmäiset 2 pistettä joko aukikirjoitettu tai ilmenee siitä, että laskettu vain\n\nyllä esitetyt iät.\n\n&NewLine;\n\nTaulukoitu kaikki kokonaislukuarvot ilman mainintaa, että neljännen lapsen syn-\n\ntymän jälkeen keskiarvo aina kasvaa \n\n&NewLine;\n\nVain oikeat keskiarvot ja oikea vastaus \n\nTyyppivirhe: keskiarvot laskettu n − 1:llä kun yksi numero on 0 ⇒ 4 keskiarvoa\n\nväärin \n\nTyyppivirhe: lapsi syntyy 1-vuotiaana ⇒ 4 luetteloa väärin\n",
+          "exam_id": 55429,
+          "content": {
+            "text": "**Perheen keski-ikä (12 p.)**\n\n&NewLine;\n\nMatti ja Maija menevät naimisiin, kun he ovat 23- ja 21-vuotiaita. Heille syntyy ensimmäinen lapsi tasan 2 vuotta häiden jälkeen. Esikoisen jälkeen perheeseen syntyy vielä kolme lasta tasan 4 vuoden välein. Milloin perheen keski-ikä on pienimmillään? Mikä on perheen keski-ikä silloin?\n",
+            "displayNumber": "10."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-06-08T09:38:30.097123",
+          "max_score": null,
+          "groupping": null,
+          "id": 1770207,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "76008af2-9678-48b3-8f5f-eb2aeb53fc35",
+          "order_number": 13,
+          "multipart": true,
+          "created_at": "2019-11-19T13:04:32.269289"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Valitse kolmion osalta tilanteeseen parhaiten soveltuva kaava ja kirjoita vastauskenttään kulman [MATH text=\\theta] suuruus. (1 p.)\n\n&NewLine;\n\n[IMS id=39-6134025dd3dbcf2574e|showCopyright=false|imageLink=false]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 55429,
+          "content": {
+            "text": "Valitse kolmion osalta tilanteeseen parhaiten soveltuva kaava ja kirjoita vastauskenttään kulman [MATH text=\\theta] suuruus. (1 p.)\n\n&NewLine;\n\n[IMS id=39-6134025dd3dbcf2574e|showCopyright=false|imageLink=false]\n",
+            "displayNumber": "2.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "1",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2020-06-08T09:38:30.099422",
+          "max_score": 1,
+          "groupping": null,
+          "id": 1766501,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 2,
+              "text": "[MATH text=a^2+b^2=c^2]",
+              "parent": "988484f2-baa4-4531-a2f9-df59c9f0080a",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 3,
+              "text": "[MATH text=\\alpha+\\beta+\\gamma=180°]",
+              "parent": "988484f2-baa4-4531-a2f9-df59c9f0080a",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 4,
+              "text": "[MATH text=\\sin\\alpha=\\frac{a}{c}]",
+              "parent": "988484f2-baa4-4531-a2f9-df59c9f0080a",
+              "choices": []
+            },
+            {
+              "id": 5,
+              "text": "[MATH text=\\cos\\alpha=\\frac{b}{c}]",
+              "parent": "988484f2-baa4-4531-a2f9-df59c9f0080a",
+              "choices": []
+            },
+            {
+              "id": 6,
+              "text": "[MATH text=\\tan\\alpha=\\frac{a}{b}]",
+              "parent": "988484f2-baa4-4531-a2f9-df59c9f0080a",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "988484f2-baa4-4531-a2f9-df59c9f0080a",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2019-11-19T12:09:56.653415"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Kuusi kolmiota **\n\n​\n\nAlla on esitetty kuusi kolmiota, joista on annettu joitakin tietoja. Tarkoituksena on ratkaista sivu [MATH text=x] tai kulma [MATH text=\\theta].\n\n​\n\nValitse kunkin kolmion osalta tilanteeseen parhaiten soveltuva kaava ja kirjoita vastauskenttään sivun [MATH text=x] pituus tai kulman [MATH text=\\theta] suuruus asteen tarkkuudella. Älä perustele tämän tehtävän vastauksia. Tässä tehtävässä ei voi käyttää kaavaeditoria. Kunkin vastauksen maksimipituus on 10 merkkiä.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 55429,
+          "content": {
+            "text": "**Kuusi kolmiota **\n\n​\n\nAlla on esitetty kuusi kolmiota, joista on annettu joitakin tietoja. Tarkoituksena on ratkaista sivu [MATH text=x] tai kulma [MATH text=\\theta].\n\n​\n\nValitse kunkin kolmion osalta tilanteeseen parhaiten soveltuva kaava ja kirjoita vastauskenttään sivun [MATH text=x] pituus tai kulman [MATH text=\\theta] suuruus asteen tarkkuudella. Älä perustele tämän tehtävän vastauksia. Tässä tehtävässä ei voi käyttää kaavaeditoria. Kunkin vastauksen maksimipituus on 10 merkkiä.\n",
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [
+            "f87f6f55-9723-4428-8d46-4f2ad961b0fd",
+            "ee153922-1e27-44d5-83ec-61e16996e313",
+            "988484f2-baa4-4531-a2f9-df59c9f0080a",
+            "509347ba-d3b4-41c5-b402-70d6bb1048ef",
+            "19bafe4e-1160-474e-9e20-cb77aba1e688",
+            "4aaaa9b6-7df2-4f89-8db8-3e2faa093072",
+            "f544328e-2afe-478a-8f55-6910f2b596e4",
+            "9a491bc8-63e2-42e9-9cf3-fd31e7a88fdb",
+            "6bedf4aa-f1a5-429b-b303-d40f34724100",
+            "62e52185-9484-4f6b-aa80-969f52fbd4d0",
+            "9c35c49c-e572-4fb2-8e6e-853ea561b8ce",
+            "6bed573a-5b21-4f02-89bf-88e59e923bc1"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2020-06-08T09:38:30.101974",
+          "max_score": null,
+          "groupping": null,
+          "id": 1765466,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "0fdb878d-57d9-44d5-90b6-f56d4373fd01",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2019-11-19T11:59:05.74651"
+        }
+      ],
+      "name": "Matematiikka, lyhyt oppimäärä syksy 2019",
+      "settings": {},
+      "exam_type": "yo-koe",
+      "classification": {
+        "category": "",
+        "disable_saving": false,
+        "hide_review_buttons": false,
+        "exam_type": "yo-koe",
+        "year": "2019",
+        "language": "fi-FI",
+        "hide_statistics": false,
+        "show_exam_series": false,
+        "force_yletunnus": false,
+        "subject": "matematiikka-lyhyt",
+        "published": true,
+        "semester": "fall"
+      },
+      "published_at": "2019-11-19T13:16:12.000Z",
+      "language": "fi-FI",
+      "id": 55429,
+      "reviews": [],
+      "is_open": true,
+      "uuid": "0d461a8e-430d-4300-90f1-1819815b0fdf"
+    }
+  ]
+}

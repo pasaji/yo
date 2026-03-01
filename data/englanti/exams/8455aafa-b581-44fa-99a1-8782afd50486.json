@@ -1,0 +1,4647 @@
+{
+  "meta": {
+    "count": 1
+  },
+  "data": [
+    {
+      "tags": [
+        ""
+      ],
+      "main_text": "Koe koostuu neljästä osasta: kuullun ymmärtäminen, luetun ymmärtäminen, sanasto ja rakenteet sekä kirjallinen tuottaminen.\n\n&NewLine;\n\nVoit tehdä tehtävät haluamassasi järjestyksessä. Noudata tehtäväkohtaisia vastaamisohjeita. Voit muuttaa antamiasi vastauksia koska tahansa kokeen aikana. Varaa aikaa kuullun ymmärtämisen tehtävien tekemiseen yhteensä noin 1 tunti.\n\n&NewLine;\n\nÄlä jätä mitään merkintöjä sellaisen tehtävän vastaukselle varattuun tilaan, jota et halua jättää arvosteltavaksi.\n\n&NewLine;\n\nOnnea kokeeseen!\n",
+      "characters": null,
+      "deleted_at": null,
+      "series_uuids": [],
+      "questions": [
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What does the future of the F-150 look like? 2 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "What does the future of the F-150 look like? 2 p.\n",
+            "displayNumber": "10.9."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.183797",
+          "max_score": 2,
+          "groupping": null,
+          "id": 4910064,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 145,
+              "text": "It will make way for other electric vehicle brands",
+              "parent": "6ed4e1d8-2d89-412c-9a5b-786b16b3196a",
+              "choices": []
+            },
+            {
+              "id": 146,
+              "text": "Laymen will be convinced of the need to go petrol-free",
+              "parent": "6ed4e1d8-2d89-412c-9a5b-786b16b3196a",
+              "choices": []
+            },
+            {
+              "id": 147,
+              "text": "People will also keep buying it as it goes electric",
+              "parent": "6ed4e1d8-2d89-412c-9a5b-786b16b3196a",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "6ed4e1d8-2d89-412c-9a5b-786b16b3196a",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.527126"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What would be the best alternative title for this video? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "What would be the best alternative title for this video? 3 p.\n",
+            "displayNumber": "4.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.18039",
+          "max_score": 3,
+          "groupping": null,
+          "id": 4910079,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 134,
+              "text": "Building networks by establishing long-lasting connections in industry",
+              "parent": "59a8a82e-0d8c-445f-8f06-a0680428c351",
+              "choices": []
+            },
+            {
+              "id": 135,
+              "text": "Developing up-to-date knowledge for a swiftly moving media world",
+              "parent": "59a8a82e-0d8c-445f-8f06-a0680428c351",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 136,
+              "text": "Constructing narratives that will emotionally connect with real people",
+              "parent": "59a8a82e-0d8c-445f-8f06-a0680428c351",
+              "choices": [],
+              "correct": false
+            }
+          ],
+          "uuid": "59a8a82e-0d8c-445f-8f06-a0680428c351",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.560326"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Part 1: Listening Comprehension\n\nKoe sisältää kuullunymmärtämisen tehtäviä.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "### Part 1: Listening Comprehension\n\nKoe sisältää kuullunymmärtämisen tehtäviä.\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-08-30T06:36:54.177196",
+          "max_score": null,
+          "groupping": null,
+          "id": 4910099,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "cbd74ba8-0b99-47cc-a4d3-0b40c052f7b5",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.607955"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mihin Fordin uutta F-150-mallia voi käyttää ajamisen lisäksi? 3 p.\n\n&NewLine;\n\n_Vastauksen pituus on enintään 150 merkkiä. Ylityksestä seuraa pistevähennys._\n",
+          "deleted_at": null,
+          "feedback": "Sitä voi käyttää varavirtana (tuottamaan oman talon sähköt usean päivän ajan). (3/0 p.)\n",
+          "exam_id": 141350,
+          "content": {
+            "text": "Mihin Fordin uutta F-150-mallia voi käyttää ajamisen lisäksi? 3 p.\n\n&NewLine;\n\n_Vastauksen pituus on enintään 150 merkkiä. Ylityksestä seuraa pistevähennys._\n",
+            "displayNumber": "10.1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.154914",
+          "max_score": null,
+          "groupping": null,
+          "id": 4910069,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "6082cb87-0e9e-49bf-9679-f97d2575a608",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.537973"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "The analysis concluded: “This decline [of the AMOC in recent decades] may be associated with an almost complete loss of stability over the course of the last century, and the AMOC could be close to a critical transition to [SELECT id=157].”\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "The analysis concluded: “This decline [of the AMOC in recent decades] may be associated with an almost complete loss of stability over the course of the last century, and the AMOC could be close to a critical transition to [SELECT id=157].”\n"
+          },
+          "images": null,
+          "settings": {
+            "points": "3"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.132256",
+          "max_score": 3,
+          "groupping": null,
+          "id": 4910050,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 157,
+              "hint": "3 p.",
+              "parent": "f2d9a013-8af6-44dd-b10e-37534277f568",
+              "choices": [
+                {
+                  "id": "c5011f55-5de0-41aa-9857-000f45783816",
+                  "text": "its weak circulation mode",
+                  "correct": true
+                },
+                {
+                  "id": "6363bf8b-ef0c-4504-93e7-5e63a2cc7a6d",
+                  "text": "dangerously high temperatures"
+                },
+                {
+                  "id": "b7f2b6f5-cf04-47f4-af39-22036e91881b",
+                  "text": "higher CO2 emissions"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "f2d9a013-8af6-44dd-b10e-37534277f568",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.495897"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "According to the tradition, who or what created the joiks originally? 3 p.\n\n&NewLine;\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "According to the tradition, who or what created the joiks originally? 3 p.\n\n&NewLine;\n",
+            "displayNumber": "1.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.129237",
+          "max_score": 3,
+          "groupping": null,
+          "id": 4910083,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 128,
+              "text": "Arctic natural phenomena\n\n&NewLine;",
+              "parent": "7a309504-ff64-4591-8f66-d7bb9b856bf2",
+              "choices": []
+            },
+            {
+              "id": 129,
+              "text": "Ancestors of the Sami\n\n&NewLine;",
+              "parent": "7a309504-ff64-4591-8f66-d7bb9b856bf2",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 130,
+              "text": "Mythological creatures\n\n&NewLine;",
+              "parent": "7a309504-ff64-4591-8f66-d7bb9b856bf2",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "7a309504-ff64-4591-8f66-d7bb9b856bf2",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.569758"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "How does the narrator react to important events? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "How does the narrator react to important events? 3 p.\n",
+            "displayNumber": "11.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.125763",
+          "max_score": 3,
+          "groupping": null,
+          "id": 4910059,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 148,
+              "text": "Wanting to isolate herself\n\n&NewLine;",
+              "parent": "53a1c59b-2f55-45a4-bda4-6d81225983c8",
+              "choices": []
+            },
+            {
+              "id": 149,
+              "text": "Certain she can manage\n\n&NewLine;",
+              "parent": "53a1c59b-2f55-45a4-bda4-6d81225983c8",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 150,
+              "text": "Terrified well in advance\n\n&NewLine;",
+              "parent": "53a1c59b-2f55-45a4-bda4-6d81225983c8",
+              "choices": []
+            }
+          ],
+          "uuid": "53a1c59b-2f55-45a4-bda4-6d81225983c8",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.51534"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Why is electricity not a good solution for heating in the countryside? 3 p.\n\n&NewLine;\n\n[LINK text=The passage related to questions 8.5 and 8.6|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/#8.5]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "Why is electricity not a good solution for heating in the countryside? 3 p.\n\n&NewLine;\n\n[LINK text=The passage related to questions 8.5 and 8.6|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/#8.5]\n",
+            "displayNumber": "8.5."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.109103",
+          "max_score": 3,
+          "groupping": null,
+          "id": 4910048,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 138,
+              "text": "The power transmission capacity is limited\n\n&NewLine;",
+              "parent": "ed9815b0-3e51-4137-8a53-7a7af6f27756",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 139,
+              "text": "The electricity costs are steep in rural areas",
+              "parent": "ed9815b0-3e51-4137-8a53-7a7af6f27756",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 140,
+              "text": "The energy efficiency of farmhouses is poor\n\n&NewLine;",
+              "parent": "ed9815b0-3e51-4137-8a53-7a7af6f27756",
+              "choices": [],
+              "correct": false
+            }
+          ],
+          "uuid": "ed9815b0-3e51-4137-8a53-7a7af6f27756",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.491059"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": " Mikä varhaisen amerikkalaisen keittokirjan mukaan oli eurooppalaisen ruokakulttuurin ongelma? 3 p.\n\n&NewLine;\n\n_Vastauksen pituus on enintään 150 merkkiä. Ylityksestä seuraa pistevähennys._\n",
+          "deleted_at": null,
+          "feedback": "Eurooppalaiset tavat valmistaa ruokaa tekivät ruoansulatuksesta vaikeaa. (3/0 p.)\n",
+          "exam_id": 141350,
+          "content": {
+            "text": " Mikä varhaisen amerikkalaisen keittokirjan mukaan oli eurooppalaisen ruokakulttuurin ongelma? 3 p.\n\n&NewLine;\n\n_Vastauksen pituus on enintään 150 merkkiä. Ylityksestä seuraa pistevähennys._\n",
+            "displayNumber": "13.2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.088001",
+          "max_score": null,
+          "groupping": null,
+          "id": 4910046,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "2293b426-6605-44e9-846e-c0bfc3d28a3a",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.48639"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "The evolution of the _Dungeons and Dragons_ itself began with _Chainmail_, a game written by Gary Gygax and Jeff Perren [SELECT id=183] medieval combat. [SELECT id=184], at the end of the game, there was an extensive supplement [SELECT id=185] the application of the rules to fantasy. The fantasy supplement provided rules for magic swords, monsters, and spells with names like “Lightning” and “Fireball.”\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "The evolution of the _Dungeons and Dragons_ itself began with _Chainmail_, a game written by Gary Gygax and Jeff Perren [SELECT id=183] medieval combat. [SELECT id=184], at the end of the game, there was an extensive supplement [SELECT id=185] the application of the rules to fantasy. The fantasy supplement provided rules for magic swords, monsters, and spells with names like “Lightning” and “Fireball.”\n"
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.049591",
+          "max_score": 3,
+          "groupping": null,
+          "id": 4910004,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 183,
+              "hint": "1 p.",
+              "parent": "768d3e2a-bb93-4a57-9f4b-7ea3f53b48ed",
+              "choices": [
+                {
+                  "id": "343c3bee-276e-4766-ab9f-b826513aa6eb",
+                  "text": "to have simulated"
+                },
+                {
+                  "id": "8eff4105-9dc6-4bbf-97af-137a1e6b13b5",
+                  "text": "to be simulating"
+                },
+                {
+                  "id": "a5f463e3-788d-4a86-b86b-f16052153c20",
+                  "text": "to simulate",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 184,
+              "hint": "1 p.",
+              "parent": "768d3e2a-bb93-4a57-9f4b-7ea3f53b48ed",
+              "choices": [
+                {
+                  "id": "d42600a3-a69e-4d94-b75e-682c4a620d9a",
+                  "text": "However",
+                  "correct": true
+                },
+                {
+                  "id": "e2b27677-0d76-4ae6-ae90-7f41670a6f69",
+                  "text": "Still"
+                },
+                {
+                  "id": "53d3a38c-80ee-450a-a442-e21395ce4fcb",
+                  "text": "Above all"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 185,
+              "hint": "1 p.",
+              "parent": "768d3e2a-bb93-4a57-9f4b-7ea3f53b48ed",
+              "choices": [
+                {
+                  "id": "26e0c86e-4720-45a9-858e-acfd9d9fd39c",
+                  "text": "having described"
+                },
+                {
+                  "id": "c2f5c966-531b-4308-a294-2db88705972c",
+                  "text": "describing",
+                  "correct": true
+                },
+                {
+                  "id": "644b05db-05f9-4fb9-95ed-0f8892ee9578",
+                  "text": "to be describing"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "768d3e2a-bb93-4a57-9f4b-7ea3f53b48ed",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.379284"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "In the fall of 1972, Arneson drove down to Lake Geneva, Wisconsin from Minneapolis to run Blackmoor for Gary Gygax. Gygax was blown away by the game, and [SELECT id=188] weeks requested the rules from Arneson. He [SELECT id=189] 18 hand-written pages. Gygax took them and expanded them to fifty pages, and began testing the game with his children, Ernie and Elise. Gygax named the campaign he was running _Castle Greyhawk_. Soon, Gary and Dave had codified all their ideas and experiences into a ruleset [SELECT id=190] titled _Dungeons and Dragons_. It would prove to be a revolution.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "In the fall of 1972, Arneson drove down to Lake Geneva, Wisconsin from Minneapolis to run Blackmoor for Gary Gygax. Gygax was blown away by the game, and [SELECT id=188] weeks requested the rules from Arneson. He [SELECT id=189] 18 hand-written pages. Gygax took them and expanded them to fifty pages, and began testing the game with his children, Ernie and Elise. Gygax named the campaign he was running _Castle Greyhawk_. Soon, Gary and Dave had codified all their ideas and experiences into a ruleset [SELECT id=190] titled _Dungeons and Dragons_. It would prove to be a revolution.\n"
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.045873",
+          "max_score": 3,
+          "groupping": null,
+          "id": 4910022,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 188,
+              "hint": "1 p.",
+              "parent": "43d67f66-628a-48dc-8998-bb274e9e4e9c",
+              "choices": [
+                {
+                  "id": "186c907f-13e3-4c9f-9e76-82faab6ce310",
+                  "text": "in"
+                },
+                {
+                  "id": "4f960de3-6632-4461-b168-85ffd2ff5ba6",
+                  "text": "over"
+                },
+                {
+                  "id": "d10ee682-04c3-4235-bbdc-24ea8a3f0155",
+                  "text": "within",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 189,
+              "hint": "1 p.",
+              "parent": "43d67f66-628a-48dc-8998-bb274e9e4e9c",
+              "choices": [
+                {
+                  "id": "3cee3ad5-433c-4ea3-b9b3-7489e7526a96",
+                  "text": "had mailed"
+                },
+                {
+                  "id": "a10dbd16-e0b4-4edb-9eaf-1d7c7724460d",
+                  "text": "were mailed"
+                },
+                {
+                  "id": "11416ff5-eeca-4c52-bb18-c75a74731dd6",
+                  "text": "was mailed",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 190,
+              "hint": "1 p.",
+              "parent": "43d67f66-628a-48dc-8998-bb274e9e4e9c",
+              "choices": [
+                {
+                  "id": "d83e5c67-209f-4904-b1bb-4569105dd1ba",
+                  "text": "and"
+                },
+                {
+                  "id": "2bf52b74-cf1d-4210-b4b1-1eef48e0a73e",
+                  "text": "what"
+                },
+                {
+                  "id": "d6c1cabf-f998-4c79-aa89-8fb602d3f1ff",
+                  "text": "they",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "43d67f66-628a-48dc-8998-bb274e9e4e9c",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.426622"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Miten maitotölkki liittyy pandemiaan? 3 p.\n\n&NewLine;\n\n[LINK text=The passage related to questions 6.3 and 6.4|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/#6.4]\n\n&NewLine;\n\n_Vastauksen pituus on enintään 150 merkkiä. Ylityksestä seuraa pistevähennys._\n",
+          "deleted_at": null,
+          "feedback": "Maitotölkillisen verran viruksia riitti aiheuttamaan pandemian. (3/0 p.)\n",
+          "exam_id": 141350,
+          "content": {
+            "text": "Miten maitotölkki liittyy pandemiaan? 3 p.\n\n&NewLine;\n\n[LINK text=The passage related to questions 6.3 and 6.4|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/#6.4]\n\n&NewLine;\n\n_Vastauksen pituus on enintään 150 merkkiä. Ylityksestä seuraa pistevähennys._\n",
+            "displayNumber": "6.3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.039105",
+          "max_score": null,
+          "groupping": null,
+          "id": 4910076,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "255983cc-d0af-4fae-84d4-cf361f5ba00a",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.553448"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "When Dave Arneson read the Chainmail fantasy rules, he adapted them to a fantasy world of his own creation,_ Blackmoor_ – a setting inspired by the _Lord of the Rings_ universe combined with elements of Arneson’s own imagination and various mechanics pulled [SELECT id=186] other games. The premise was simple: players [SELECT id=187]  only a single character (an idea he lifted from a game called _Braunstein_), exploring underground dungeons where they were to face perils and puzzles. Both the characters and the story were to persist from session to session, with characters working cooperatively and improving over time.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "When Dave Arneson read the Chainmail fantasy rules, he adapted them to a fantasy world of his own creation,_ Blackmoor_ – a setting inspired by the _Lord of the Rings_ universe combined with elements of Arneson’s own imagination and various mechanics pulled [SELECT id=186] other games. The premise was simple: players [SELECT id=187]  only a single character (an idea he lifted from a game called _Braunstein_), exploring underground dungeons where they were to face perils and puzzles. Both the characters and the story were to persist from session to session, with characters working cooperatively and improving over time.\n"
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.020096",
+          "max_score": 2,
+          "groupping": null,
+          "id": 4910003,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 186,
+              "hint": "1 p.",
+              "parent": "08300eed-71a2-4264-8785-91d53587cbf5",
+              "choices": [
+                {
+                  "id": "e474cf82-f1ea-40aa-b5f5-0f6fd1e5530c",
+                  "text": "from",
+                  "correct": true
+                },
+                {
+                  "id": "e7e91d18-64be-4f65-a52d-943abf430bbb",
+                  "text": "by"
+                },
+                {
+                  "id": "704b1ef4-6716-42e4-a6e5-63882ba626ee",
+                  "text": "to"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 187,
+              "hint": "1 p.",
+              "parent": "08300eed-71a2-4264-8785-91d53587cbf5",
+              "choices": [
+                {
+                  "id": "2a963eaf-3f26-4cd5-92f7-b2d0b06284a9",
+                  "text": "had portrayed"
+                },
+                {
+                  "id": "b412cfec-b2e2-4bf7-98b7-170aedd6346a",
+                  "text": "were portraying"
+                },
+                {
+                  "id": "a987104a-c2b0-401c-b81a-658dcf349069",
+                  "text": "would portray",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "08300eed-71a2-4264-8785-91d53587cbf5",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.374652"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Wood-burning Stoves 18 p.**\n\n&NewLine;\n\nIn this recording, you will hear Patricia Thornley, professor of sustainable energy systems at the University of Manchester, discuss wood-burning stoves. The recording is divided into three sections. You can listen once all the way through, and then listen again to each section separately. Read the questions carefully and choose the best alternative.\n\n&NewLine;\n\n[LINK text=The whole recording|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/#8]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "**Wood-burning Stoves 18 p.**\n\n&NewLine;\n\nIn this recording, you will hear Patricia Thornley, professor of sustainable energy systems at the University of Manchester, discuss wood-burning stoves. The recording is divided into three sections. You can listen once all the way through, and then listen again to each section separately. Read the questions carefully and choose the best alternative.\n\n&NewLine;\n\n[LINK text=The whole recording|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/#8]\n",
+            "questionType": "listening-comprehension",
+            "displayNumber": "8."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "15a65477-f875-4920-b557-2b8d3298b1ab",
+            "db3b8dd8-de8e-4824-82f5-f13117e38723",
+            "1b8a93e1-623a-45b3-bd80-b29295e5e023",
+            "8cb85062-fb66-4c74-8f2e-9f61198f0a2e",
+            "ed9815b0-3e51-4137-8a53-7a7af6f27756",
+            "bb32dd2b-cd72-45ec-8b8b-6b1ff16b7166"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-08-30T06:36:54.015932",
+          "max_score": null,
+          "groupping": null,
+          "id": 4910041,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "05bd2e17-3b90-4cd6-aef7-3a3f3fd238d3",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.475711"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Electric Car 20 p.**\n\n&NewLine;\n\nRead the text carefully and then answer the questions. In 10.1–10.2 write your answer** in Finnish**. Please write a concise answer not exceeding 150 characters for each question. Exceeding the maximum number of characters will lead to points being cut. In 10.3–10.9, choose the best alternative.\n\n&NewLine;\n\n**Material**\n\n10.A [LINK text=Text: Ford’s New All-Electric F-150 Lightning Is More Than It Seems|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/attachments/index.html#10.A]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "**Electric Car 20 p.**\n\n&NewLine;\n\nRead the text carefully and then answer the questions. In 10.1–10.2 write your answer** in Finnish**. Please write a concise answer not exceeding 150 characters for each question. Exceeding the maximum number of characters will lead to points being cut. In 10.3–10.9, choose the best alternative.\n\n&NewLine;\n\n**Material**\n\n10.A [LINK text=Text: Ford’s New All-Electric F-150 Lightning Is More Than It Seems|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/attachments/index.html#10.A]\n",
+            "questionType": "reading",
+            "displayNumber": "10."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "6082cb87-0e9e-49bf-9679-f97d2575a608",
+            "879e3480-cdee-4301-b766-4271d7d7c077",
+            "786ee0c5-35a2-4907-871d-dbc06dcf2d11",
+            "2392a564-8f73-4932-8eb4-2dcb18a5bfa3",
+            "0b4b5909-ce49-448f-9d29-528e31b2b37c",
+            "100ca9e0-5511-4daf-8063-326c59c4d837",
+            "dcb394f6-9478-42b1-bdef-f0ab4d9f9be3",
+            "d09ce084-a71a-4329-831e-663ece2a424e",
+            "6ed4e1d8-2d89-412c-9a5b-786b16b3196a"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-08-30T06:36:53.9978",
+          "max_score": null,
+          "groupping": null,
+          "id": 4910018,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "f529aa86-d833-4c34-aec9-68bebcc43f81",
+          "order_number": 12,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.413166"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Climate crisis: Scientists spot warning signs of Gulf Stream collapse**\n\n&NewLine;\n\nClimate scientists have detected warning signs of the failure of the Gulf Stream. The research found “an almost complete loss of stability over the last century” of the currents that researchers call the Atlantic meridional overturning circulation (AMOC). The currents are already at their slowest point in at least 1,600 years, but the new analysis shows \n\n[SELECT id=151].\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "**Climate crisis: Scientists spot warning signs of Gulf Stream collapse**\n\n&NewLine;\n\nClimate scientists have detected warning signs of the failure of the Gulf Stream. The research found “an almost complete loss of stability over the last century” of the currents that researchers call the Atlantic meridional overturning circulation (AMOC). The currents are already at their slowest point in at least 1,600 years, but the new analysis shows \n\n[SELECT id=151].\n"
+          },
+          "images": null,
+          "settings": {
+            "points": "3"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:53.994991",
+          "max_score": 3,
+          "groupping": null,
+          "id": 4910019,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 151,
+              "hint": "3 p.",
+              "parent": "3b0c243b-ee2f-4a4b-b5cc-2e63ff8882f0",
+              "choices": [
+                {
+                  "id": "bd986279-bac7-4894-a328-c17e60f912e6",
+                  "text": "they can soon gain more speed"
+                },
+                {
+                  "id": "f0e8951c-ed35-44aa-9b76-b80fdaa1faec",
+                  "text": "they may be nearing a shutdown",
+                  "correct": true
+                },
+                {
+                  "id": "e91ee73f-81c3-4c7e-a30c-2ac35ba39d4e",
+                  "text": "they are likely to return to normal"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "3b0c243b-ee2f-4a4b-b5cc-2e63ff8882f0",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.41731"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Graduation Speech (video) 12 p.**\n\n&NewLine;\n\nThis is a video of the graduation speech given by Tim Minchin, who is a famous Australian actor and musician. In his speech, he talks about a mountaineer. You can play the video as many times as you want to. Read the questions carefully and then watch the video.\n\n&NewLine;\n\n**Material**\n\n2.A [LINK text=Video: Graduation Speech|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/attachments/index.html#2.A]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "**Graduation Speech (video) 12 p.**\n\n&NewLine;\n\nThis is a video of the graduation speech given by Tim Minchin, who is a famous Australian actor and musician. In his speech, he talks about a mountaineer. You can play the video as many times as you want to. Read the questions carefully and then watch the video.\n\n&NewLine;\n\n**Material**\n\n2.A [LINK text=Video: Graduation Speech|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/attachments/index.html#2.A]\n",
+            "questionType": "listening-comprehension",
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "68adb5c7-0ad2-4cfd-b426-098d8845a9dd",
+            "844b6149-6d2b-49b9-9fb4-c8ed7db6a329",
+            "1c961701-7c1a-4acb-b13f-677f3e2d8e12",
+            "0585be15-610a-4772-80cb-b5f614d4c47b"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-08-30T06:36:53.988957",
+          "max_score": null,
+          "groupping": null,
+          "id": 4910016,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "55f5be88-354c-4a6a-8155-047a3ce42ef0",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.40842"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "_Dungeons and Dragons_ grew [SELECT id=180]  the fortuitous meeting of Gary Gygax and Dave Arneson. Gamers back in the 60s and 70s often named their gaming groups, a bit like acting troupes or biker gangs. Gary Gygax, for example, was involved in a group called the Castle & Crusade Society. The society [SELECT id=181] ranks and peerage, exactly like a medieval realm. The “king”, ironically, was a [SELECT id=182], but there was also a certain baron from Minneapolis named Dave Arneson.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "_Dungeons and Dragons_ grew [SELECT id=180]  the fortuitous meeting of Gary Gygax and Dave Arneson. Gamers back in the 60s and 70s often named their gaming groups, a bit like acting troupes or biker gangs. Gary Gygax, for example, was involved in a group called the Castle & Crusade Society. The society [SELECT id=181] ranks and peerage, exactly like a medieval realm. The “king”, ironically, was a [SELECT id=182], but there was also a certain baron from Minneapolis named Dave Arneson.\n"
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:53.977443",
+          "max_score": 3,
+          "groupping": null,
+          "id": 4910027,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 180,
+              "hint": "1 p.",
+              "parent": "ab90454e-da5a-4f1c-87f2-769fb3c38ae8",
+              "choices": [
+                {
+                  "id": "9516b02c-300a-4666-9e20-aba06efe5f46",
+                  "text": "into"
+                },
+                {
+                  "id": "9f73e822-0f9c-4b3a-b89d-3de6527442ec",
+                  "text": "out of",
+                  "correct": true
+                },
+                {
+                  "id": "40587906-6951-44f1-8dbc-ceaee2dbe246",
+                  "text": "as of"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 181,
+              "hint": "1 p.",
+              "parent": "ab90454e-da5a-4f1c-87f2-769fb3c38ae8",
+              "choices": [
+                {
+                  "id": "d1570836-6f08-4d56-8a7f-b744b5e3c718",
+                  "text": "have"
+                },
+                {
+                  "id": "9ace7a6c-4750-47c6-a534-b907d0dc95d4",
+                  "text": "having"
+                },
+                {
+                  "id": "cb0da448-3513-45d1-9991-f66426fb5fe3",
+                  "text": "had",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 182,
+              "hint": "1 p.",
+              "parent": "ab90454e-da5a-4f1c-87f2-769fb3c38ae8",
+              "choices": [
+                {
+                  "id": "ec18ee64-042d-49da-8c31-d18a81d39233",
+                  "text": "14 years"
+                },
+                {
+                  "id": "4db15954-ad06-4b7b-b7aa-f9463146483c",
+                  "text": "14-year-old",
+                  "correct": true
+                },
+                {
+                  "id": "9d25c08d-2a53-4489-813d-d99675de2d8b",
+                  "text": "14 year-olds"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "ab90454e-da5a-4f1c-87f2-769fb3c38ae8",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.439504"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "In the next ten years, Gary Gygax would go from being an unemployed game designer cobbling shoes in his basement for extra income to living in a mansion in Beverly Hills and having a national television show based on the game he created. The business, _TSR_, grew from [GAP id=198] off Gygax’s dining room table to a corporation valued at [GAP id=199] with offices in Great Britain and Los Angeles.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "In the next ten years, Gary Gygax would go from being an unemployed game designer cobbling shoes in his basement for extra income to living in a mansion in Beverly Hills and having a national television show based on the game he created. The business, _TSR_, grew from [GAP id=198] off Gygax’s dining room table to a corporation valued at [GAP id=199] with offices in Great Britain and Los Angeles.\n"
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:53.973734",
+          "max_score": 2,
+          "groupping": null,
+          "id": 4910006,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 198,
+              "hint": "run",
+              "parent": "aeb8288e-027a-4e7f-8b9a-8d29e6319fdc",
+              "choices": [],
+              "correct": "being run",
+              "isCaseSensitive": false
+            },
+            {
+              "id": 199,
+              "hint": "miljoonia dollareita",
+              "parent": "aeb8288e-027a-4e7f-8b9a-8d29e6319fdc",
+              "choices": [],
+              "correct": "millions of dollars",
+              "isCaseSensitive": false
+            }
+          ],
+          "uuid": "aeb8288e-027a-4e7f-8b9a-8d29e6319fdc",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.384741"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "_**Dungeons and Dragons**_**: The origin**\n\n&NewLine;\n\nOnce upon a time_, Dungeons and Dragons_ was published by a company named _TSR_, in a magical realm named Wisconsin, where the hills [SELECT id=176] like green waves to the horizon, where the cheese is [SELECT id=177] orange of the sunrise, and the winters are long and dark as death. _Dungeons and Dragons_ was created [SELECT id=178] a brace of midwestern mages named Gary and Dave, and the tale of the game’s journey from a Lake Geneva basement in 1972 to the cultural institution [SELECT id=179]  is today is one of the great stories of gaming.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "_**Dungeons and Dragons**_**: The origin**\n\n&NewLine;\n\nOnce upon a time_, Dungeons and Dragons_ was published by a company named _TSR_, in a magical realm named Wisconsin, where the hills [SELECT id=176] like green waves to the horizon, where the cheese is [SELECT id=177] orange of the sunrise, and the winters are long and dark as death. _Dungeons and Dragons_ was created [SELECT id=178] a brace of midwestern mages named Gary and Dave, and the tale of the game’s journey from a Lake Geneva basement in 1972 to the cultural institution [SELECT id=179]  is today is one of the great stories of gaming."
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:53.968119",
+          "max_score": 4,
+          "groupping": null,
+          "id": 4910021,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 176,
+              "hint": "1 p.",
+              "parent": "134a0664-5219-4449-9355-11f8aa408342",
+              "choices": [
+                {
+                  "id": "baa19871-9b34-422a-8edd-651e0569b54c",
+                  "text": "rolling"
+                },
+                {
+                  "id": "e976c640-a04c-40de-8cee-6b61ca9b3259",
+                  "text": "rolls",
+                  "correct": false
+                },
+                {
+                  "id": "74fc10f0-c23c-43e1-8626-ca4c1a7a796f",
+                  "text": "roll",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 177,
+              "hint": "1 p.",
+              "parent": "134a0664-5219-4449-9355-11f8aa408342",
+              "choices": [
+                {
+                  "id": "2e4f7bc1-7355-4558-a31a-88a7cbab9335",
+                  "text": "bright"
+                },
+                {
+                  "id": "f61dd2a5-5c95-4497-a674-f0a3ba9ddf95",
+                  "text": "a bright"
+                },
+                {
+                  "id": "8805c805-d1ec-4b47-b44d-10f6a4b06726",
+                  "text": "the bright",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 178,
+              "hint": "1 p.",
+              "parent": "134a0664-5219-4449-9355-11f8aa408342",
+              "choices": [
+                {
+                  "id": "a296392d-9e72-48a7-8cb8-592e8e2d5670",
+                  "text": "at"
+                },
+                {
+                  "id": "f04cdc63-bc9a-4e9c-b1dd-2015921a50bf",
+                  "text": "in"
+                },
+                {
+                  "id": "07e954ed-7f69-4627-b63e-635d10862dd1",
+                  "text": "by",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 179,
+              "hint": "1 p.",
+              "parent": "134a0664-5219-4449-9355-11f8aa408342",
+              "choices": [
+                {
+                  "id": "310882e8-17ea-49b7-817a-813d5bbc50bc",
+                  "text": "there"
+                },
+                {
+                  "id": "9c115cef-f5f3-4624-a603-5ad210ab5091",
+                  "text": "it",
+                  "correct": true
+                },
+                {
+                  "id": "53151acf-ddf8-4e8c-816f-a64f245b36e9",
+                  "text": "that"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "134a0664-5219-4449-9355-11f8aa408342",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.423394"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Such an event would have [SELECT id=152], severely disrupting the rains that billions of people depend on for food in India, South America and West Africa; increasing storms and lowering temperatures in Europe; and pushing up the sea level off eastern North America. It would also further endanger the Amazon rainforest and Antarctic ice sheets.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "Such an event would have [SELECT id=152], severely disrupting the rains that billions of people depend on for food in India, South America and West Africa; increasing storms and lowering temperatures in Europe; and pushing up the sea level off eastern North America. It would also further endanger the Amazon rainforest and Antarctic ice sheets.\n"
+          },
+          "images": null,
+          "settings": {
+            "points": "3"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:53.964778",
+          "max_score": 3,
+          "groupping": null,
+          "id": 4910020,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 152,
+              "hint": "3 p.",
+              "parent": "38644dbd-4be8-4617-bf5b-c3d87e557eca",
+              "choices": [
+                {
+                  "id": "33fcb6a8-104b-4bf5-b3e5-3f0d163000c4",
+                  "text": "catastrophic consequences around the world",
+                  "correct": true
+                },
+                {
+                  "id": "859f4893-c860-4ba9-9a2a-3e2c948b767c",
+                  "text": "some limited and localized environmental impact"
+                },
+                {
+                  "id": "4951ad33-3997-4ae6-b07d-54c7c37220b0",
+                  "text": "serious effects in the areas near the Gulf Stream"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "38644dbd-4be8-4617-bf5b-c3d87e557eca",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.420463"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "_D&D_ is a game where anything can happen and players have total freedom of action. Furthermore, the timeframe of the game is [GAP id=196]. A game could go on for ten, twenty, or even a hundred years if not limited by the lifespans of the players. Better yet, the players’ characters would improve every session, [GAP id=197] power and knowledge. These features would combine to make the game a smash-hit.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "_D&D_ is a game where anything can happen and players have total freedom of action. Furthermore, the timeframe of the game is [GAP id=196]. A game could go on for ten, twenty, or even a hundred years if not limited by the lifespans of the players. Better yet, the players’ characters would improve every session, [GAP id=197] power and knowledge. These features would combine to make the game a smash-hit.\n"
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:53.961558",
+          "max_score": 2,
+          "groupping": null,
+          "id": 4910009,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 196,
+              "hint": "kirjaimellisesti ääretön",
+              "parent": "08a90a78-4ba6-4ef7-aa67-f05963593f35",
+              "choices": [],
+              "correct": "literally infinite|literally limitless",
+              "isCaseSensitive": false
+            },
+            {
+              "id": 197,
+              "hint": "grow + prepositio",
+              "parent": "08a90a78-4ba6-4ef7-aa67-f05963593f35",
+              "choices": [],
+              "correct": "growing in",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "08a90a78-4ba6-4ef7-aa67-f05963593f35",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.391047"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What would the patient say? 3 p.\n\n&NewLine;\n\n[LINK text=Kuuntele äänite tästä. |url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/#7.1]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "What would the patient say? 3 p.\n\n&NewLine;\n\n[LINK text=Kuuntele äänite tästä. |url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/#7.1]\n",
+            "displayNumber": "7.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:53.95663",
+          "max_score": 3,
+          "groupping": null,
+          "id": 4910015,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 7,
+              "text": "[LINK text=Option A.|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/#7.1]",
+              "parent": "a71f10c6-9ad4-47a5-9891-498495e8eecb",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 8,
+              "text": "[LINK text=Option B.|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/#7.1]",
+              "parent": "a71f10c6-9ad4-47a5-9891-498495e8eecb",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 9,
+              "text": "[LINK text=Option C.|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/#7.1]",
+              "parent": "a71f10c6-9ad4-47a5-9891-498495e8eecb",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "a71f10c6-9ad4-47a5-9891-498495e8eecb",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.406198"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": " Mitkä kolme erillistä elementtiä maalauksessa näkyvät taivasta vasten? 3 p.\n\n&NewLine;\n\n[LINK text=The passage related to question 3.1|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/#3.1]\n\n&NewLine;\n\n_Vastauksen pituus on enintään 150 merkkiä. Ylityksestä seuraa pistevähennys._\n",
+          "deleted_at": null,
+          "feedback": "- (Peuran) kallo (1/0 p.)\n- (punaiset ja keltaiset villi-) kukat (1/0 p.)\n- vuoret/kukkulat/aavikko/erämaa (1/0 p.)\n",
+          "exam_id": 141350,
+          "content": {
+            "text": " Mitkä kolme erillistä elementtiä maalauksessa näkyvät taivasta vasten? 3 p.\n\n&NewLine;\n\n[LINK text=The passage related to question 3.1|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/#3.1]\n\n&NewLine;\n\n_Vastauksen pituus on enintään 150 merkkiä. Ylityksestä seuraa pistevähennys._\n",
+            "displayNumber": "3.1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:53.949616",
+          "max_score": null,
+          "groupping": null,
+          "id": 4910030,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "651b14b9-8bc6-4210-849c-254a55b331c4",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.448105"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Studying Multimedia Journalism (video) 9 p.**\n\n&NewLine;\n\nThis video features a student called Aidan discussing his experience studying at Glasgow Caledonian University (GCU). You can view the video as many times as you wish. Read the questions carefully and choose the best alternative.\n\n&NewLine;\n\n**Material**\n\n4.A [LINK text=Video: Studying Multimedia Journalism|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/attachments/index.html#4.A]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "**Studying Multimedia Journalism (video) 9 p.**\n\n&NewLine;\n\nThis video features a student called Aidan discussing his experience studying at Glasgow Caledonian University (GCU). You can view the video as many times as you wish. Read the questions carefully and choose the best alternative.\n\n&NewLine;\n\n**Material**\n\n4.A [LINK text=Video: Studying Multimedia Journalism|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/attachments/index.html#4.A]\n",
+            "questionType": "listening-comprehension",
+            "displayNumber": "4."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "0418643b-f8b3-4149-8653-92713fad4d1c",
+            "c30c703b-2008-4fab-97bf-68bc73bb3ae8",
+            "59a8a82e-0d8c-445f-8f06-a0680428c351"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-08-30T06:36:53.945958",
+          "max_score": null,
+          "groupping": null,
+          "id": 4910035,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "a0681109-9c64-4afd-b09d-4a29d131a193",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.461588"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What have the measurements shown about the emission levels? 3 p.\n\n&NewLine;\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "What have the measurements shown about the emission levels? 3 p.\n\n&NewLine;\n",
+            "displayNumber": "8.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:53.942534",
+          "max_score": 3,
+          "groupping": null,
+          "id": 4910074,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 138,
+              "text": "The levels vary between different types of furnaces\n\n&NewLine;",
+              "parent": "db3b8dd8-de8e-4824-82f5-f13117e38723",
+              "choices": []
+            },
+            {
+              "id": 139,
+              "text": "The levels fluctuate throughout the gauging period\n\n&NewLine;",
+              "parent": "db3b8dd8-de8e-4824-82f5-f13117e38723",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 140,
+              "text": "The levels change depending on the burning stage\n\n&NewLine;",
+              "parent": "db3b8dd8-de8e-4824-82f5-f13117e38723",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "db3b8dd8-de8e-4824-82f5-f13117e38723",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.549267"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Summer Days 6 p.**\n\n&NewLine;\n\nThis is a description of an oil painting by Georgia O’Keeffe. You will hear the recording twice – first straight through and then in two short sections. Listen to the recording and answer the questions **in Finnish**. Please write a concise answer not exceeding 150 characters for each question. Exceeding the maximum number of characters will lead to points being cut.\n\n&NewLine;\n\n[LINK text=The whole recording|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/#3]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "**Summer Days 6 p.**\n\n&NewLine;\n\nThis is a description of an oil painting by Georgia O’Keeffe. You will hear the recording twice – first straight through and then in two short sections. Listen to the recording and answer the questions **in Finnish**. Please write a concise answer not exceeding 150 characters for each question. Exceeding the maximum number of characters will lead to points being cut.\n\n&NewLine;\n\n[LINK text=The whole recording|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/#3]\n",
+            "questionType": "listening-comprehension",
+            "displayNumber": "3."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "651b14b9-8bc6-4210-849c-254a55b331c4",
+            "5ab24de0-7b37-427e-b642-f3056a8b8e74"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-08-30T06:36:53.939518",
+          "max_score": null,
+          "groupping": null,
+          "id": 4910086,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "f9cb1cb1-beae-4f90-a871-092cbae157d0",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.576051"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What is described as the most important element in a joik? 3 p.\n\n&NewLine;\n\n[LINK text=The passage related to questions 1.3 and 1.4|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/#1.3]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "What is described as the most important element in a joik? 3 p.\n\n&NewLine;\n\n[LINK text=The passage related to questions 1.3 and 1.4|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/#1.3]\n",
+            "displayNumber": "1.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:53.936381",
+          "max_score": 3,
+          "groupping": null,
+          "id": 4910091,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 128,
+              "text": "Melodies\n\n&NewLine;",
+              "parent": "2ef38b32-4944-4a6f-aba6-bab049e2742a",
+              "choices": []
+            },
+            {
+              "id": 129,
+              "text": "Feelings\n\n&NewLine;",
+              "parent": "2ef38b32-4944-4a6f-aba6-bab049e2742a",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 130,
+              "text": "Lyrics\n\n&NewLine;",
+              "parent": "2ef38b32-4944-4a6f-aba6-bab049e2742a",
+              "choices": []
+            }
+          ],
+          "uuid": "2ef38b32-4944-4a6f-aba6-bab049e2742a",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.587636"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Doctor’s Appointment 12 p.**\n\n&NewLine;\n\nThe following recording is a dialogue between a medical receptionist and a patient making an appointment. In each question, decide which of the patient’s responses is the **most polite**. You can listen to the receptionist’s line once and to each option as many times as you like.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "**Doctor’s Appointment 12 p.**\n\n&NewLine;\n\nThe following recording is a dialogue between a medical receptionist and a patient making an appointment. In each question, decide which of the patient’s responses is the **most polite**. You can listen to the receptionist’s line once and to each option as many times as you like.\n",
+            "questionType": "listening-comprehension",
+            "displayNumber": "7."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "a71f10c6-9ad4-47a5-9891-498495e8eecb",
+            "e1baee45-3ccd-4443-a7ac-65fb80cb11ab",
+            "cf446aa1-5c82-47c6-a91c-1861ceea9504",
+            "6a720a2c-c232-4a0a-af39-7e677f288e27"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-08-30T06:36:53.931154",
+          "max_score": null,
+          "groupping": null,
+          "id": 4910007,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "17d276f2-e46d-41c7-9de9-c7df5d816a91",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.38686"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Which of the following statements is true about the F-150 in the US? 2 p.\n\n&NewLine;\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "Which of the following statements is true about the F-150 in the US? 2 p.\n\n&NewLine;\n",
+            "displayNumber": "10.5."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:53.92805",
+          "max_score": 2,
+          "groupping": null,
+          "id": 4910066,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 145,
+              "text": "The vehicle’s popularity makes major changes challenging",
+              "parent": "0b4b5909-ce49-448f-9d29-528e31b2b37c",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 146,
+              "text": "Those who own it are open to most recent innovations",
+              "parent": "0b4b5909-ce49-448f-9d29-528e31b2b37c",
+              "choices": []
+            },
+            {
+              "id": 147,
+              "text": "Its electric version has long been demanded by the market",
+              "parent": "0b4b5909-ce49-448f-9d29-528e31b2b37c",
+              "choices": []
+            }
+          ],
+          "uuid": "0b4b5909-ce49-448f-9d29-528e31b2b37c",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.531713"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What is mentioned as a difference between GM and Tesla? 2 p.\n\n&NewLine;\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "What is mentioned as a difference between GM and Tesla? 2 p.\n\n&NewLine;\n",
+            "displayNumber": "10.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:53.911307",
+          "max_score": 2,
+          "groupping": null,
+          "id": 4910067,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 145,
+              "text": "GM has a more established position\n\n&NewLine;",
+              "parent": "786ee0c5-35a2-4907-871d-dbc06dcf2d11",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 146,
+              "text": "GM is thought to focus on petrol engines\n\n&NewLine;",
+              "parent": "786ee0c5-35a2-4907-871d-dbc06dcf2d11",
+              "choices": []
+            },
+            {
+              "id": 147,
+              "text": "GM’s reputation is more disputed\n\n&NewLine;",
+              "parent": "786ee0c5-35a2-4907-871d-dbc06dcf2d11",
+              "choices": []
+            }
+          ],
+          "uuid": "786ee0c5-35a2-4907-871d-dbc06dcf2d11",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.533868"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Eight independently measured datasets of temperature and salinity going back as far as 150 years enabled Boers to show that global heating is indeed [SELECT id=157], not just changing their flow pattern.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "Eight independently measured datasets of temperature and salinity going back as far as 150 years enabled Boers to show that global heating is indeed [SELECT id=157], not just changing their flow pattern.\n"
+          },
+          "images": null,
+          "settings": {
+            "points": "3"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:53.901784",
+          "max_score": 3,
+          "groupping": null,
+          "id": 4910008,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 157,
+              "hint": "3 p.",
+              "parent": "d9f1f71f-3e00-44ec-b6f6-e9ee11124ec3",
+              "choices": [
+                {
+                  "id": "f2c96ccd-4cd1-4e1c-97de-ba90fd30f251",
+                  "text": "diminishing the size of the glaciers"
+                },
+                {
+                  "id": "56341558-61d7-49a2-bac5-2042bfa66ce6",
+                  "text": "changing the direction of ocean winds"
+                },
+                {
+                  "id": "b525ea1f-cbf0-47ca-bfd6-39366d06542d",
+                  "text": "increasing the instability of the currents",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "d9f1f71f-3e00-44ec-b6f6-e9ee11124ec3",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.389082"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What do style sheets say about singular _they_? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "What do style sheets say about singular _they_? 3 p.\n",
+            "displayNumber": "9.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:53.906513",
+          "max_score": 3,
+          "groupping": null,
+          "id": 4910073,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 86,
+              "text": "It can be used when needed or wished",
+              "parent": "3703611a-f530-4519-be9d-dd4a5bb4f21b",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 87,
+              "text": "It should replace gender-specific pronouns",
+              "parent": "3703611a-f530-4519-be9d-dd4a5bb4f21b",
+              "choices": []
+            },
+            {
+              "id": 88,
+              "text": "It will eventually make _he_ and _she_ redundant\n\n&NewLine;",
+              "parent": "3703611a-f530-4519-be9d-dd4a5bb4f21b",
+              "choices": [],
+              "correct": false
+            }
+          ],
+          "uuid": "3703611a-f530-4519-be9d-dd4a5bb4f21b",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.547128"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Why did Aidan focus on multimedia in his study of journalism? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "Why did Aidan focus on multimedia in his study of journalism? 3 p.\n",
+            "displayNumber": "4.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:53.908902",
+          "max_score": 3,
+          "groupping": null,
+          "id": 4910084,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 134,
+              "text": "He wanted to have a degree that would be prestigious",
+              "parent": "c30c703b-2008-4fab-97bf-68bc73bb3ae8",
+              "choices": []
+            },
+            {
+              "id": 135,
+              "text": "He wanted to obtain more experience in live reporting\n\n&NewLine;",
+              "parent": "c30c703b-2008-4fab-97bf-68bc73bb3ae8",
+              "choices": []
+            },
+            {
+              "id": 136,
+              "text": "He wanted to acquire a diversified and flexible skillset",
+              "parent": "c30c703b-2008-4fab-97bf-68bc73bb3ae8",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "c30c703b-2008-4fab-97bf-68bc73bb3ae8",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.571999"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Debate on cryptocurrencies 99 p.**\n\n&NewLine;\n\nYou are participating in an international debate club. The topic for the day is cryptocurrencies, such as Bitcoin or Dogecoin. Your task is to present views for banning cryptocurrencies. Write your speech.\n\n&NewLine;\n\n_Vastauksen pituus on enintään 1300 merkkiä. Ylityksestä seuraa pistevähennys._\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "**Debate on cryptocurrencies 99 p.**\n\n&NewLine;\n\nYou are participating in an international debate club. The topic for the day is cryptocurrencies, such as Bitcoin or Dogecoin. Your task is to present views for banning cryptocurrencies. Write your speech.\n\n&NewLine;\n\n_Vastauksen pituus on enintään 1300 merkkiä. Ylityksestä seuraa pistevähennys._\n",
+            "displayNumber": "17.4."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:53.953784",
+          "max_score": null,
+          "groupping": null,
+          "id": 4910094,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "0fb9c066-7f55-4244-a3c3-fb489e47cd59",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.595528"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": " Millä kouristuksia hoidettiin aiemmin? 3 p.\n\n&NewLine;\n\n_Vastauksen pituus on enintään 150 merkkiä. Ylityksestä seuraa pistevähennys._\n",
+          "deleted_at": null,
+          "feedback": "Riikinkukon lannalla (3/0 p.)\n",
+          "exam_id": 141350,
+          "content": {
+            "text": " Millä kouristuksia hoidettiin aiemmin? 3 p.\n\n&NewLine;\n\n_Vastauksen pituus on enintään 150 merkkiä. Ylityksestä seuraa pistevähennys._\n",
+            "displayNumber": "13.3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:53.981231",
+          "max_score": null,
+          "groupping": null,
+          "id": 4910049,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "9495e875-4b37-46c8-9b8d-c0c14478d390",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.493775"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What does Patricia Thornley say about people burning things that are not suited for it? 3 p.\n\n&NewLine;\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "What does Patricia Thornley say about people burning things that are not suited for it? 3 p.\n\n&NewLine;\n",
+            "displayNumber": "8.4."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:53.984195",
+          "max_score": 3,
+          "groupping": null,
+          "id": 4910068,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 138,
+              "text": "They follow the previous generations\n\n&NewLine;",
+              "parent": "8cb85062-fb66-4c74-8f2e-9f61198f0a2e",
+              "choices": []
+            },
+            {
+              "id": 139,
+              "text": "They are ignorant of the harmful impact",
+              "parent": "8cb85062-fb66-4c74-8f2e-9f61198f0a2e",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 140,
+              "text": "They try to diminish their cost of living\n\n&NewLine;",
+              "parent": "8cb85062-fb66-4c74-8f2e-9f61198f0a2e",
+              "choices": [],
+              "correct": false
+            }
+          ],
+          "uuid": "8cb85062-fb66-4c74-8f2e-9f61198f0a2e",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.535916"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "How could the mountaineer’s experiences be summarized best? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "How could the mountaineer’s experiences be summarized best? 3 p.\n",
+            "displayNumber": "2.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:53.986808",
+          "max_score": 3,
+          "groupping": null,
+          "id": 4910089,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 131,
+              "text": "Necessity is the mother of all invention\n\n&NewLine;",
+              "parent": "844b6149-6d2b-49b9-9fb4-c8ed7db6a329",
+              "choices": []
+            },
+            {
+              "id": 132,
+              "text": "Success may come at great personal cost\n\n&NewLine;",
+              "parent": "844b6149-6d2b-49b9-9fb4-c8ed7db6a329",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 133,
+              "text": "Change is impossible without collaboration\n\n&NewLine;",
+              "parent": "844b6149-6d2b-49b9-9fb4-c8ed7db6a329",
+              "choices": []
+            }
+          ],
+          "uuid": "844b6149-6d2b-49b9-9fb4-c8ed7db6a329",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.583192"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Climate Crisis 24 p.**\n\n&NewLine;\n\nRead the text and the map carefully and then choose the best option for each gap in the text.\n\n&NewLine;\n\n[LINK text=Katso karttakuva tästä.|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/#12]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "**Climate Crisis 24 p.**\n\n&NewLine;\n\nRead the text and the map carefully and then choose the best option for each gap in the text.\n\n&NewLine;\n\n[LINK text=Katso karttakuva tästä.|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/#12]\n",
+            "questionType": "reading",
+            "displayNumber": "12."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "3b0c243b-ee2f-4a4b-b5cc-2e63ff8882f0",
+            "38644dbd-4be8-4617-bf5b-c3d87e557eca",
+            "e28cab07-e963-40c4-8f0f-58317ba88ec6",
+            "325c7c62-84dc-4c89-9dbf-afbeb2057c53",
+            "32331b03-df4c-4706-9135-32d0beb403bd",
+            "b63638d0-0122-4740-94fe-c173a2f9656b",
+            "d9f1f71f-3e00-44ec-b6f6-e9ee11124ec3",
+            "f2d9a013-8af6-44dd-b10e-37534277f568"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-08-30T06:36:53.992056",
+          "max_score": null,
+          "groupping": null,
+          "id": 4910054,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "7a1189cf-2fa0-4660-b656-2c8d39b619d7",
+          "order_number": 14,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.504321"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What is the overall tone of Tim Minchin’s speech? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "What is the overall tone of Tim Minchin’s speech? 3 p.\n",
+            "displayNumber": "2.4."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.002024",
+          "max_score": 3,
+          "groupping": null,
+          "id": 4910087,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 131,
+              "text": "Solemn",
+              "parent": "0585be15-610a-4772-80cb-b5f614d4c47b",
+              "choices": []
+            },
+            {
+              "id": 132,
+              "text": "Sarcastic",
+              "parent": "0585be15-610a-4772-80cb-b5f614d4c47b",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 133,
+              "text": "Submissive",
+              "parent": "0585be15-610a-4772-80cb-b5f614d4c47b",
+              "choices": []
+            }
+          ],
+          "uuid": "0585be15-610a-4772-80cb-b5f614d4c47b",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.578393"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What aspects of Aidan’s studies can help him find future employment? 3 p.\n\n&NewLine;\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "What aspects of Aidan’s studies can help him find future employment? 3 p.\n\n&NewLine;\n",
+            "displayNumber": "4.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.00501",
+          "max_score": 3,
+          "groupping": null,
+          "id": 4910085,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 134,
+              "text": "His training builds connections in the journalism business\n\n&NewLine;",
+              "parent": "0418643b-f8b3-4149-8653-92713fad4d1c",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 135,
+              "text": "His degree is an expensive one that is officially recognised\n\n&NewLine;",
+              "parent": "0418643b-f8b3-4149-8653-92713fad4d1c",
+              "choices": []
+            },
+            {
+              "id": 136,
+              "text": "His classes prioritise teamworking with his fellow students\n\n&NewLine;",
+              "parent": "0418643b-f8b3-4149-8653-92713fad4d1c",
+              "choices": []
+            }
+          ],
+          "uuid": "0418643b-f8b3-4149-8653-92713fad4d1c",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.573974"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "The complexity of the AMOC system and uncertainty over levels of future global heating make it [SELECT id=153]. It could be within a decade or two, or several centuries away. But the colossal impact it would have means it must never be allowed to happen, the scientists said.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "The complexity of the AMOC system and uncertainty over levels of future global heating make it [SELECT id=153]. It could be within a decade or two, or several centuries away. But the colossal impact it would have means it must never be allowed to happen, the scientists said.\n"
+          },
+          "images": null,
+          "settings": {
+            "points": "3"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.007664",
+          "max_score": 3,
+          "groupping": null,
+          "id": 4910057,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 153,
+              "hint": "3 p.",
+              "parent": "e28cab07-e963-40c4-8f0f-58317ba88ec6",
+              "choices": [
+                {
+                  "id": "87c279a1-161f-4244-aef8-b6493113e7c0",
+                  "text": "impossible to forecast the date of any collapse",
+                  "correct": true
+                },
+                {
+                  "id": "bd93aa16-9907-46d6-bfbe-d7b1841b107e",
+                  "text": "difficult to predict the degree of global warming"
+                },
+                {
+                  "id": "4ff0ed53-c4fb-45d0-ad43-25254ce673a7",
+                  "text": "very complicated to estimate sea level rise"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "e28cab07-e963-40c4-8f0f-58317ba88ec6",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.511453"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**My Favourite Scottish Words (video) 6 p.**\n\n&NewLine;\n\nThis is a vlog post by a Scottish YouTuber, where she answers a question sent by her followers. You can play the video as many times as you want to. Read the questions carefully and then watch the video. Answer the questions **in Finnish**. Please write a concise answer not exceeding 50 characters for each question. Exceeding the maximum number of characters will lead to points being cut.\n\n&NewLine;\n\n**Material**\n\n5.A [LINK text=Video: My Favourite Scottish Words|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/attachments/index.html#5.A]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "**My Favourite Scottish Words (video) 6 p.**\n\n&NewLine;\n\nThis is a vlog post by a Scottish YouTuber, where she answers a question sent by her followers. You can play the video as many times as you want to. Read the questions carefully and then watch the video. Answer the questions **in Finnish**. Please write a concise answer not exceeding 50 characters for each question. Exceeding the maximum number of characters will lead to points being cut.\n\n&NewLine;\n\n**Material**\n\n5.A [LINK text=Video: My Favourite Scottish Words|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/attachments/index.html#5.A]\n",
+            "questionType": "listening-comprehension",
+            "displayNumber": "5."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "f25e8fab-043d-4745-8445-27b0903502bc",
+            "f549fad2-adb5-42e4-9687-1434fd3251f0",
+            "f0a81327-9b12-4e34-9a22-3f08592cf013"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-08-30T06:36:54.009759",
+          "max_score": null,
+          "groupping": null,
+          "id": 4910037,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "fa731413-00c9-4644-b66b-0350343d340f",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.466415"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What would the patient say? 3 p.\n\n&NewLine;\n\n[LINK text=Kuuntele äänite tästä.|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/#7.2]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "What would the patient say? 3 p.\n\n&NewLine;\n\n[LINK text=Kuuntele äänite tästä.|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/#7.2]\n",
+            "displayNumber": "7.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.023364",
+          "max_score": 3,
+          "groupping": null,
+          "id": 4910071,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 7,
+              "text": "[LINK text=Option A.|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/#7.2]",
+              "parent": "e1baee45-3ccd-4443-a7ac-65fb80cb11ab",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 8,
+              "text": "[LINK text=Option B.|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/#7.2]",
+              "parent": "e1baee45-3ccd-4443-a7ac-65fb80cb11ab",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 9,
+              "text": "[LINK text=Option C.|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/#7.2]",
+              "parent": "e1baee45-3ccd-4443-a7ac-65fb80cb11ab",
+              "choices": [],
+              "correct": false
+            }
+          ],
+          "uuid": "e1baee45-3ccd-4443-a7ac-65fb80cb11ab",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.542306"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Viruses 12 p.**\n\n&NewLine;\n\nYou will hear the beginning of a podcast on viruses. You will hear it twice – first straight through and then in two short sections. Listen to the recording and answer the questions **in Finnish**. Please write a concise answer not exceeding 150 characters for each question. Exceeding the maximum number of characters will lead to points being cut.\n\n&NewLine;\n\n[LINK text=The whole recording|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/#6]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "**Viruses 12 p.**\n\n&NewLine;\n\nYou will hear the beginning of a podcast on viruses. You will hear it twice – first straight through and then in two short sections. Listen to the recording and answer the questions **in Finnish**. Please write a concise answer not exceeding 150 characters for each question. Exceeding the maximum number of characters will lead to points being cut.\n\n&NewLine;\n\n[LINK text=The whole recording|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/#6]\n",
+            "questionType": "listening-comprehension",
+            "displayNumber": "6."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "ea5d289a-7027-4337-babe-fecb6ab3af84",
+            "4473d210-2fff-45bd-8f61-728a6ded95b0",
+            "255983cc-d0af-4fae-84d4-cf361f5ba00a",
+            "5c6b96e5-ee7e-48a4-a4f9-9f866b2df86e"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-08-30T06:36:54.025469",
+          "max_score": null,
+          "groupping": null,
+          "id": 4910011,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "aae32838-8fe4-4597-ab56-e07ef0507c03",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.396736"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Why is singular_ they_ even more significant today than before? 3 p.\n\n&NewLine;\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "Why is singular_ they_ even more significant today than before? 3 p.\n\n&NewLine;\n",
+            "displayNumber": "9.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.028331",
+          "max_score": 3,
+          "groupping": null,
+          "id": 4910042,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 86,
+              "text": "It is descriptive of everyday language\n\n&NewLine;",
+              "parent": "3309854b-a7d0-46f9-a054-c80d0eb7f5cf",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 87,
+              "text": "It reflects people’s political orientations\n\n&NewLine;",
+              "parent": "3309854b-a7d0-46f9-a054-c80d0eb7f5cf",
+              "choices": []
+            },
+            {
+              "id": 88,
+              "text": "It refers to different types of identities\n\n&NewLine;",
+              "parent": "3309854b-a7d0-46f9-a054-c80d0eb7f5cf",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "3309854b-a7d0-46f9-a054-c80d0eb7f5cf",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.477825"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "“The signs of destabilisation being visible already is something that I wouldn’t have expected and that I find scary,” said Niklas Boers, from the Potsdam Institute for Climate Impact Research in Germany, who did the research.\n\n&NewLine;\n\nIt is not known what level of CO­2 would trigger an AMOC collapse, he said. “So the only thing to do is [SELECT id=154]. The likelihood of this extremely high-impact event happening increases with every gram of CO2 that we put into the atmosphere”.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "“The signs of destabilisation being visible already is something that I wouldn’t have expected and that I find scary,” said Niklas Boers, from the Potsdam Institute for Climate Impact Research in Germany, who did the research.\n\n&NewLine;\n\nIt is not known what level of CO­2 would trigger an AMOC collapse, he said. “So the only thing to do is [SELECT id=154]. The likelihood of this extremely high-impact event happening increases with every gram of CO2 that we put into the atmosphere”."
+          },
+          "images": null,
+          "settings": {
+            "points": "3"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.031029",
+          "max_score": 3,
+          "groupping": null,
+          "id": 4910024,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 154,
+              "hint": "3 p.",
+              "parent": "325c7c62-84dc-4c89-9dbf-afbeb2057c53",
+              "choices": [
+                {
+                  "id": "e65ac4cf-ddb6-4688-a44f-5169f22df7bb",
+                  "text": "keep emissions as low as possible",
+                  "correct": true
+                },
+                {
+                  "id": "5b0a5215-7b80-4729-b670-4ac70153e39d",
+                  "text": "continue measuring CO2 levels"
+                },
+                {
+                  "id": "b643d1b2-8633-4e98-9300-8f6d23ddfb81",
+                  "text": "fight against oceanic pollution"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "325c7c62-84dc-4c89-9dbf-afbeb2057c53",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.432477"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Production 99 p.**\n\n&NewLine;\n\n_Vastaa yhteen kohdista 17.1–17.4._\n\n&NewLine;\n\nWrite a composition of 700–1,300 characters on **one** of the topics below, following the instructions. Spaces and line breaks are not included in the character count.\n\n&NewLine;\n\nLeave the three other text fields empty.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "**Production 99 p.**\n\n&NewLine;\n\n_Vastaa yhteen kohdista 17.1–17.4._\n\n&NewLine;\n\nWrite a composition of 700–1,300 characters on **one** of the topics below, following the instructions. Spaces and line breaks are not included in the character count.\n\n&NewLine;\n\nLeave the three other text fields empty.\n",
+            "questionType": "writing",
+            "displayNumber": "17."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "8b18339a-2943-43cc-b2cf-be8ccf935d17",
+            "05d58f72-1433-4812-9be0-8378bc21737f",
+            "839e0aac-1a0d-4932-b31a-3e5ffa21bfd6",
+            "0fb9c066-7f55-4244-a3c3-fb489e47cd59"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-08-30T06:36:54.033137",
+          "max_score": null,
+          "groupping": null,
+          "id": 4910097,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "8bda2c12-53fe-4813-a486-f76b2117399f",
+          "order_number": 21,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.602952"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Collectibles 99 p.**\n\n&NewLine;\n\nWe have founded a new association, International Collectors United. We are now gathering data on the types of things people collect. Tell us what you collect – stamps, shoes, sports memorabilia or something else – and why. Please describe your collection in a letter addressed to Ms. Sarah Scott, our secretary, who is a keen collector of stamps herself.\n\n&NewLine;\n\n_Vastauksen pituus on enintään 1300 merkkiä. Ylityksestä seuraa pistevähennys._\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "**Collectibles 99 p.**\n\n&NewLine;\n\nWe have founded a new association, International Collectors United. We are now gathering data on the types of things people collect. Tell us what you collect – stamps, shoes, sports memorabilia or something else – and why. Please describe your collection in a letter addressed to Ms. Sarah Scott, our secretary, who is a keen collector of stamps herself.\n\n&NewLine;\n\n_Vastauksen pituus on enintään 1300 merkkiä. Ylityksestä seuraa pistevähennys._\n",
+            "displayNumber": "17.1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.036156",
+          "max_score": null,
+          "groupping": null,
+          "id": 4910034,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "8b18339a-2943-43cc-b2cf-be8ccf935d17",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.459189"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Your personal health 99 p.**\n\n&NewLine;\n\nWho is responsible for your health: you, your parents, school, society at large? Write your contribution to an online discussion. Remember to support your argument with facts and reasons.\n\n&NewLine;\n\n_Vastauksen pituus on enintään 1300 merkkiä. Ylityksestä seuraa pistevähennys._\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "**Your personal health 99 p.**\n\n&NewLine;\n\nWho is responsible for your health: you, your parents, school, society at large? Write your contribution to an online discussion. Remember to support your argument with facts and reasons.\n\n&NewLine;\n\n_Vastauksen pituus on enintään 1300 merkkiä. Ylityksestä seuraa pistevähennys._\n",
+            "displayNumber": "17.2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.042905",
+          "max_score": null,
+          "groupping": null,
+          "id": 4910096,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "05d58f72-1433-4812-9be0-8378bc21737f",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.599852"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What do pick-up drivers prioritise? 2 p.\n\n&NewLine;\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "What do pick-up drivers prioritise? 2 p.\n\n&NewLine;\n",
+            "displayNumber": "10.8."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.052866",
+          "max_score": 2,
+          "groupping": null,
+          "id": 4910058,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 145,
+              "text": "Environment\n\n&NewLine;",
+              "parent": "d09ce084-a71a-4329-831e-663ece2a424e",
+              "choices": []
+            },
+            {
+              "id": 146,
+              "text": "Traditions",
+              "parent": "d09ce084-a71a-4329-831e-663ece2a424e",
+              "choices": []
+            },
+            {
+              "id": 147,
+              "text": "Independence\n\n&NewLine;",
+              "parent": "d09ce084-a71a-4329-831e-663ece2a424e",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "d09ce084-a71a-4329-831e-663ece2a424e",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.513467"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Ice-core and other data from the last 100,000 years show [SELECT id=155]: a fast, strong one, as seen over recent millennia, and a slow, weak one. The data shows rising temperatures can make the AMOC switch abruptly between states over one to five decades.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "Ice-core and other data from the last 100,000 years show [SELECT id=155]: a fast, strong one, as seen over recent millennia, and a slow, weak one. The data shows rising temperatures can make the AMOC switch abruptly between states over one to five decades.\n"
+          },
+          "images": null,
+          "settings": {
+            "points": "3"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.055629",
+          "max_score": 3,
+          "groupping": null,
+          "id": 4910052,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 155,
+              "hint": "3 p.",
+              "parent": "32331b03-df4c-4706-9135-32d0beb403bd",
+              "choices": [
+                {
+                  "id": "752e273f-fd86-48a8-9683-b8cc2ed74f53",
+                  "text": "the AMOC has two modes",
+                  "correct": true
+                },
+                {
+                  "id": "7903a389-ddc4-4ac9-a35c-5583189655f6",
+                  "text": "global climate has two levels"
+                },
+                {
+                  "id": "f627ff63-637f-4ddd-a856-531549827e38",
+                  "text": "the Gulf Stream has two currents"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "32331b03-df4c-4706-9135-32d0beb403bd",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.500345"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What does Simon Roberts tell us? 3 p.\n\n&NewLine;\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "What does Simon Roberts tell us? 3 p.\n\n&NewLine;\n",
+            "displayNumber": "13.5."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.058447",
+          "max_score": 3,
+          "groupping": null,
+          "id": 4910045,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 158,
+              "text": "Old cookbooks often present strict instructions\n\n&NewLine;",
+              "parent": "b14230ea-7ce8-4650-9146-2ba768b2ec87",
+              "choices": []
+            },
+            {
+              "id": 159,
+              "text": "Cookbooks also include references to ecology\n\n&NewLine;",
+              "parent": "b14230ea-7ce8-4650-9146-2ba768b2ec87",
+              "choices": []
+            },
+            {
+              "id": 160,
+              "text": "Past and present cookbooks have similar topics\n\n&NewLine;",
+              "parent": "b14230ea-7ce8-4650-9146-2ba768b2ec87",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "b14230ea-7ce8-4650-9146-2ba768b2ec87",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.48418"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": " (The game also cost $10, which [GAP id=194] an exorbitant amount of money at the time for a game, which may have had something to do [GAP id=195] all the intellectual property theft.)\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": " (The game also cost $10, which [GAP id=194] an exorbitant amount of money at the time for a game, which may have had something to do [GAP id=195] all the intellectual property theft.)\n"
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.061178",
+          "max_score": 2,
+          "groupping": null,
+          "id": 4910010,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 194,
+              "hint": "consider",
+              "parent": "e9aea120-b53d-427e-a846-112303470246",
+              "choices": [],
+              "correct": "was considered",
+              "isCaseSensitive": false
+            },
+            {
+              "id": 195,
+              "hint": "prepositio",
+              "parent": "e9aea120-b53d-427e-a846-112303470246",
+              "choices": [],
+              "correct": "with",
+              "isCaseSensitive": false
+            }
+          ],
+          "uuid": "e9aea120-b53d-427e-a846-112303470246",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.393535"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What kind of additional role does joiking have in the Sami culture? 3 p.\n\n&NewLine;\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "What kind of additional role does joiking have in the Sami culture? 3 p.\n\n&NewLine;\n",
+            "displayNumber": "1.4."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.064077",
+          "max_score": 3,
+          "groupping": null,
+          "id": 4910092,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 128,
+              "text": "It improves people’s overall well-being\n\n&NewLine;",
+              "parent": "258b2fea-0c28-456e-9fb4-5a6f7bb2cde2",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 129,
+              "text": "It helps the Sami to reinforce their identity",
+              "parent": "258b2fea-0c28-456e-9fb4-5a6f7bb2cde2",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 130,
+              "text": "It is used in the process of mediation\n\n&NewLine;\n\n&NewLine;",
+              "parent": "258b2fea-0c28-456e-9fb4-5a6f7bb2cde2",
+              "choices": [],
+              "correct": false
+            }
+          ],
+          "uuid": "258b2fea-0c28-456e-9fb4-5a6f7bb2cde2",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.590173"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "How do the British use wood-burning stoves in the winter compared to other Europeans? 3 p.\n\n&NewLine;\n\n[LINK text=The passage related to questions 8.3 and 8.4|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/#8.3]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "How do the British use wood-burning stoves in the winter compared to other Europeans? 3 p.\n\n&NewLine;\n\n[LINK text=The passage related to questions 8.3 and 8.4|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/#8.3]\n",
+            "displayNumber": "8.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.066653",
+          "max_score": 3,
+          "groupping": null,
+          "id": 4910056,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 138,
+              "text": "More sporadically\n\n&NewLine;",
+              "parent": "1b8a93e1-623a-45b3-bd80-b29295e5e023",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 139,
+              "text": "More efficiently\n\n&NewLine;",
+              "parent": "1b8a93e1-623a-45b3-bd80-b29295e5e023",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 140,
+              "text": "More consistently\n\n&NewLine;",
+              "parent": "1b8a93e1-623a-45b3-bd80-b29295e5e023",
+              "choices": []
+            }
+          ],
+          "uuid": "1b8a93e1-623a-45b3-bd80-b29295e5e023",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.509318"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Singular **_**They**_** 10 p.**\n\n&NewLine;\n\nWhat words could replace the underlined words in the text ([LINK text=material 9.A|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/attachments/index.html#9.A])? Choose the alternative that best fits the context and conveys a similar meaning.\n\n&NewLine;\n\n_HUOM! Abitreenien harjoituskokeessa tehtävän sana on lihavoitu teknisistä syistä._\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "**Singular **_**They**_** 10 p.**\n\n&NewLine;\n\nWhat words could replace the underlined words in the text ([LINK text=material 9.A|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/attachments/index.html#9.A])? Choose the alternative that best fits the context and conveys a similar meaning.\n\n&NewLine;\n\n_HUOM! Abitreenien harjoituskokeessa tehtävän sana on lihavoitu teknisistä syistä._\n",
+            "questionType": "grammar",
+            "displayNumber": "14."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "388d0889-1e42-4c82-8b1f-f6d863f30c00",
+            "1e144849-8623-4f28-a4c5-f60fe1bfb88f",
+            "b23e45b3-7207-410b-b3f2-a86904f27c44",
+            "f67c1deb-5736-4c9d-8bd9-c15d9bd8bf79",
+            "edabad2d-291a-4f85-af9c-cbdebf11d443"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-08-30T06:36:54.068697",
+          "max_score": null,
+          "groupping": null,
+          "id": 4910028,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "26d62851-79a3-4d57-abe4-d98925f8b9b3",
+          "order_number": 17,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.442269"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "It is a well-known truth that so long as English is changing, there will be people who are **belly-aching** about it, warning that if things keep going as they are, the language will soon be on life support and, as likely as not, dead within the year. 2 p.\n\n&NewLine;\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "It is a well-known truth that so long as English is changing, there will be people who are **belly-aching** about it, warning that if things keep going as they are, the language will soon be on life support and, as likely as not, dead within the year. 2 p.\n\n&NewLine;\n",
+            "displayNumber": "14.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.071506",
+          "max_score": 2,
+          "groupping": null,
+          "id": 4910040,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 161,
+              "text": "agitated\n\n&NewLine;",
+              "parent": "388d0889-1e42-4c82-8b1f-f6d863f30c00",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 162,
+              "text": "hushed\n\n&NewLine;",
+              "parent": "388d0889-1e42-4c82-8b1f-f6d863f30c00",
+              "choices": []
+            },
+            {
+              "id": 163,
+              "text": "delighted\n\n&NewLine;",
+              "parent": "388d0889-1e42-4c82-8b1f-f6d863f30c00",
+              "choices": []
+            }
+          ],
+          "uuid": "388d0889-1e42-4c82-8b1f-f6d863f30c00",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.473399"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Oh, and the company had a mansion [GAP id=200]. Yes, there were hiccups along the way, such as the _Satanic Panic_, but _TSR_, and _D&D_, seemed powerful and immortal, like a 20[SUP text=th] level wizard with the [GAP id=201] stone. Then it all fell apart.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "Oh, and the company had a mansion [GAP id=200]. Yes, there were hiccups along the way, such as the _Satanic Panic_, but _TSR_, and _D&D_, seemed powerful and immortal, like a 20[SUP text=th] level wizard with the [GAP id=201] stone. Then it all fell apart.\n"
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.074265",
+          "max_score": 2,
+          "groupping": null,
+          "id": 4910005,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 200,
+              "hint": "Isle of Man",
+              "parent": "0bd229d6-6ae8-467c-90c6-3d83025cc5e1",
+              "choices": [],
+              "correct": "on the Isle of Man",
+              "isCaseSensitive": false
+            },
+            {
+              "id": 201,
+              "hint": "filosofin",
+              "parent": "0bd229d6-6ae8-467c-90c6-3d83025cc5e1",
+              "choices": [],
+              "correct": "philosopher’s|philosopher's",
+              "isCaseSensitive": false
+            }
+          ],
+          "uuid": "0bd229d6-6ae8-467c-90c6-3d83025cc5e1",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.382199"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What is Patricia Thornley’s final point on using wood for heating? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "What is Patricia Thornley’s final point on using wood for heating? 3 p.\n",
+            "displayNumber": "8.6."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.077128",
+          "max_score": 3,
+          "groupping": null,
+          "id": 4910065,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 138,
+              "text": "Contrary to common belief, burning wood is eco-friendly",
+              "parent": "bb32dd2b-cd72-45ec-8b8b-6b1ff16b7166",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 139,
+              "text": "The advisability of wood heating depends on the location",
+              "parent": "bb32dd2b-cd72-45ec-8b8b-6b1ff16b7166",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 140,
+              "text": "Airborne particles are more harmful than greenhouse gases\n\n&NewLine;",
+              "parent": "bb32dd2b-cd72-45ec-8b8b-6b1ff16b7166",
+              "choices": [],
+              "correct": false
+            }
+          ],
+          "uuid": "bb32dd2b-cd72-45ec-8b8b-6b1ff16b7166",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.529597"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Why was the mountaineer hired? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "Why was the mountaineer hired? 3 p.\n",
+            "displayNumber": "2.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.079615",
+          "max_score": 3,
+          "groupping": null,
+          "id": 4910090,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 131,
+              "text": "To motivate the software developers\n\n&NewLine;",
+              "parent": "68adb5c7-0ad2-4cfd-b426-098d8845a9dd",
+              "choices": []
+            },
+            {
+              "id": 132,
+              "text": "To boost the employees’ performance\n\n&NewLine;",
+              "parent": "68adb5c7-0ad2-4cfd-b426-098d8845a9dd",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 133,
+              "text": "To enhance the public image of the firm\n\n&NewLine;",
+              "parent": "68adb5c7-0ad2-4cfd-b426-098d8845a9dd",
+              "choices": []
+            }
+          ],
+          "uuid": "68adb5c7-0ad2-4cfd-b426-098d8845a9dd",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.58517"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**The Story of Dungeons and Dragons 15 p.**\n\n&NewLine;\n\nChoose the best alternative.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "**The Story of Dungeons and Dragons 15 p.**\n\n&NewLine;\n\nChoose the best alternative.\n",
+            "questionType": "grammar",
+            "displayNumber": "15."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "134a0664-5219-4449-9355-11f8aa408342",
+            "ab90454e-da5a-4f1c-87f2-769fb3c38ae8",
+            "768d3e2a-bb93-4a57-9f4b-7ea3f53b48ed",
+            "08300eed-71a2-4264-8785-91d53587cbf5",
+            "43d67f66-628a-48dc-8998-bb274e9e4e9c"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-08-30T06:36:54.081875",
+          "max_score": null,
+          "groupping": null,
+          "id": 4910029,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "b99ef7cc-e15c-41f7-bc4b-c60390bbe646",
+          "order_number": 18,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.445029"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Rodham 9 p.**\n\n&NewLine;\n\nRead the text carefully and answer the questions.\n\n&NewLine;\n\n**Material**\n\n11.A [LINK text=Text: Rodham|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/attachments/index.html#11.A]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "**Rodham 9 p.**\n\n&NewLine;\n\nRead the text carefully and answer the questions.\n\n&NewLine;\n\n**Material**\n\n11.A [LINK text=Text: Rodham|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/attachments/index.html#11.A]\n",
+            "questionType": "reading",
+            "displayNumber": "11."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "53a1c59b-2f55-45a4-bda4-6d81225983c8",
+            "5d5426ad-1ed9-41da-bff7-b1a5d5b20150",
+            "0199573c-75f7-45a6-9aec-37ebb15d6fa3"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-08-30T06:36:54.084481",
+          "max_score": null,
+          "groupping": null,
+          "id": 4910055,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "915df599-850a-4efc-9a76-473a52901ac6",
+          "order_number": 13,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.506774"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Millä yllättävällä tavalla pandemia näkyi tyhjentyneiden kaupunkien katukuvassa? 3 p.\n\n&NewLine;\n\n[LINK text=The passage related to questions 6.1 and 6.2|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/#6.2]\n\n&NewLine;\n\n_Vastauksen pituus on enintään 150 merkkiä. Ylityksestä seuraa pistevähennys._\n",
+          "deleted_at": null,
+          "feedback": "Eläimet palasivat/muuttivat kaupunkeihin. / Eläimiä näkyi enemmän kaduilla/puistoissa. (3/0 p.)\n",
+          "exam_id": 141350,
+          "content": {
+            "text": "Millä yllättävällä tavalla pandemia näkyi tyhjentyneiden kaupunkien katukuvassa? 3 p.\n\n&NewLine;\n\n[LINK text=The passage related to questions 6.1 and 6.2|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/#6.2]\n\n&NewLine;\n\n_Vastauksen pituus on enintään 150 merkkiä. Ylityksestä seuraa pistevähennys._\n",
+            "displayNumber": "6.1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.094417",
+          "max_score": null,
+          "groupping": null,
+          "id": 4910078,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "ea5d289a-7027-4337-babe-fecb6ab3af84",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.558177"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "How does Patricia Thornley approach the topic at the beginning? 3 p.\n\n&NewLine;\n\n[LINK text=The passage related to questions 8.1 and 8.2|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/#8.1]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "How does Patricia Thornley approach the topic at the beginning? 3 p.\n\n&NewLine;\n\n[LINK text=The passage related to questions 8.1 and 8.2|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/#8.1]\n",
+            "displayNumber": "8.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.09738",
+          "max_score": 3,
+          "groupping": null,
+          "id": 4910075,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 138,
+              "text": "By questioning misguided conceptions\n\n&NewLine;",
+              "parent": "15a65477-f875-4920-b557-2b8d3298b1ab",
+              "choices": []
+            },
+            {
+              "id": 139,
+              "text": "By putting things in the right perspective\n\n&NewLine;",
+              "parent": "15a65477-f875-4920-b557-2b8d3298b1ab",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 140,
+              "text": "By setting aside potential prejudices\n\n&NewLine;",
+              "parent": "15a65477-f875-4920-b557-2b8d3298b1ab",
+              "choices": []
+            }
+          ],
+          "uuid": "15a65477-f875-4920-b557-2b8d3298b1ab",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.551266"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "How does joiking resemble the Inuit throat singing? 3 p.\n\n&NewLine;\n\n[LINK text=The passage related to questions 1.1 and 1.2|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/#1.1]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "How does joiking resemble the Inuit throat singing? 3 p.\n\n&NewLine;\n\n[LINK text=The passage related to questions 1.1 and 1.2|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/#1.1]\n",
+            "displayNumber": "1.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.100354",
+          "max_score": 3,
+          "groupping": null,
+          "id": 4910088,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 128,
+              "text": "They are performed in the same manner\n\n&NewLine;",
+              "parent": "c01ec023-d0ee-4c70-a92e-79c259ee6502",
+              "choices": []
+            },
+            {
+              "id": 129,
+              "text": "They are produced in the same way\n\n&NewLine;",
+              "parent": "c01ec023-d0ee-4c70-a92e-79c259ee6502",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 130,
+              "text": "They are of the same historic origin\n\n&NewLine;",
+              "parent": "c01ec023-d0ee-4c70-a92e-79c259ee6502",
+              "choices": []
+            }
+          ],
+          "uuid": "c01ec023-d0ee-4c70-a92e-79c259ee6502",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.581015"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Which saying best captures this extract? 3 p.\n\n&NewLine;\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "Which saying best captures this extract? 3 p.\n\n&NewLine;\n",
+            "displayNumber": "11.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.103039",
+          "max_score": 3,
+          "groupping": null,
+          "id": 4910062,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 148,
+              "text": "An empty vessel makes much noise\n\n&NewLine;",
+              "parent": "0199573c-75f7-45a6-9aec-37ebb15d6fa3",
+              "choices": []
+            },
+            {
+              "id": 149,
+              "text": "Fall down seven times, stand up eight\n\n&NewLine;",
+              "parent": "0199573c-75f7-45a6-9aec-37ebb15d6fa3",
+              "choices": []
+            },
+            {
+              "id": 150,
+              "text": "Always put your best foot forward\n\n&NewLine;",
+              "parent": "0199573c-75f7-45a6-9aec-37ebb15d6fa3",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "0199573c-75f7-45a6-9aec-37ebb15d6fa3",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.521698"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Part 3: Grammar and Vocabulary\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "### Part 3: Grammar and Vocabulary\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-08-30T06:36:54.105889",
+          "max_score": null,
+          "groupping": null,
+          "id": 4910098,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "b7f9ee95-f7f6-46b0-9468-7cec63bc446c",
+          "order_number": 16,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.605184"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Singular They 9 p.**\n\n&NewLine;\n\nRead the text carefully and then answer the questions.\n\n&NewLine;\n\n**Material**\n\n9.A [LINK text=Text: People Have Invented More Than 200 Gender-Neutral Pronouns|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/attachments/index.html#9.A]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "**Singular They 9 p.**\n\n&NewLine;\n\nRead the text carefully and then answer the questions.\n\n&NewLine;\n\n**Material**\n\n9.A [LINK text=Text: People Have Invented More Than 200 Gender-Neutral Pronouns|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/attachments/index.html#9.A]\n",
+            "questionType": "reading",
+            "displayNumber": "9."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "e5e2ceef-7be9-40eb-8d8a-3a5a6efa8cfa",
+            "3309854b-a7d0-46f9-a054-c80d0eb7f5cf",
+            "3703611a-f530-4519-be9d-dd4a5bb4f21b"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-08-30T06:36:54.112001",
+          "max_score": null,
+          "groupping": null,
+          "id": 4910077,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "9de0ed4e-459a-44d6-954d-417107f403e1",
+          "order_number": 11,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.555779"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Joiking 12 p.**\n\n&NewLine;\n\nThis podcast episode discusses joiking and its role in the Sami culture. The recording is divided into two sections. You can listen once all the way through, and then listen again to both sections separately. Read the questions carefully and choose the best alternative.\n\n&NewLine;\n\n[LINK text=The whole recording|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/#1]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "**Joiking 12 p.**\n\n&NewLine;\n\nThis podcast episode discusses joiking and its role in the Sami culture. The recording is divided into two sections. You can listen once all the way through, and then listen again to both sections separately. Read the questions carefully and choose the best alternative.\n\n&NewLine;\n\n[LINK text=The whole recording|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/#1]\n",
+            "questionType": "listening-comprehension",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "c01ec023-d0ee-4c70-a92e-79c259ee6502",
+            "7a309504-ff64-4591-8f66-d7bb9b856bf2",
+            "2ef38b32-4944-4a6f-aba6-bab049e2742a",
+            "258b2fea-0c28-456e-9fb4-5a6f7bb2cde2"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-08-30T06:36:54.114216",
+          "max_score": null,
+          "groupping": null,
+          "id": 4910093,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "19ed310f-7120-4c8b-8498-304345e879ec",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.592925"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Learning online 99 p.**\n\n&NewLine;\n\nTeachers have applied a variety of distance teaching methods over the past couple of years. Tell us about the good, the bad and the ugly. Which strategies and platforms work, which do not, and why?\n\n&NewLine;\n\n_Vastauksen pituus on enintään 1300 merkkiä. Ylityksestä seuraa pistevähennys._\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "**Learning online 99 p.**\n\n&NewLine;\n\nTeachers have applied a variety of distance teaching methods over the past couple of years. Tell us about the good, the bad and the ugly. Which strategies and platforms work, which do not, and why?\n\n&NewLine;\n\n_Vastauksen pituus on enintään 1300 merkkiä. Ylityksestä seuraa pistevähennys._\n",
+            "displayNumber": "17.3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.117185",
+          "max_score": null,
+          "groupping": null,
+          "id": 4910095,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "839e0aac-1a0d-4932-b31a-3e5ffa21bfd6",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.597838"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Why was Tim Minchin perplexed by the company’s speaker selection? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "Why was Tim Minchin perplexed by the company’s speaker selection? 3 p.\n",
+            "displayNumber": "2.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.120272",
+          "max_score": 3,
+          "groupping": null,
+          "id": 4910031,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 131,
+              "text": "Because of the speaker’s poor level of education\n\n&NewLine;",
+              "parent": "1c961701-7c1a-4acb-b13f-677f3e2d8e12",
+              "choices": []
+            },
+            {
+              "id": 132,
+              "text": "Because of the speaker’s wrong domain of expertise\n\n&NewLine;",
+              "parent": "1c961701-7c1a-4acb-b13f-677f3e2d8e12",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 133,
+              "text": "Because of the speaker’s expensive salary requirement",
+              "parent": "1c961701-7c1a-4acb-b13f-677f3e2d8e12",
+              "choices": []
+            }
+          ],
+          "uuid": "1c961701-7c1a-4acb-b13f-677f3e2d8e12",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.451152"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Why has the singular use of _they_ been opposed? 3 p.\n\n&NewLine;\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "Why has the singular use of _they_ been opposed? 3 p.\n\n&NewLine;\n",
+            "displayNumber": "9.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.123122",
+          "max_score": 3,
+          "groupping": null,
+          "id": 4910036,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 86,
+              "text": "It has been seen as a potential source of confusion\n\n&NewLine;",
+              "parent": "e5e2ceef-7be9-40eb-8d8a-3a5a6efa8cfa",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 87,
+              "text": "People have feared deterioration of the language",
+              "parent": "e5e2ceef-7be9-40eb-8d8a-3a5a6efa8cfa",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 88,
+              "text": "We can also understand each other without this usage\n\n&NewLine;",
+              "parent": "e5e2ceef-7be9-40eb-8d8a-3a5a6efa8cfa",
+              "choices": []
+            }
+          ],
+          "uuid": "e5e2ceef-7be9-40eb-8d8a-3a5a6efa8cfa",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.464158"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mitä sana “crabbit” tarkoittaa? \n\n&NewLine;\n\n_Vastauksen pituus on enintään 50 merkkiä. Ylityksestä seuraa pistevähennys._\n\n&NewLine;\n\n[GAP id=137]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "Mitä sana “crabbit” tarkoittaa? \n\n&NewLine;\n\n_Vastauksen pituus on enintään 50 merkkiä. Ylityksestä seuraa pistevähennys._\n\n&NewLine;\n\n[GAP id=137]\n",
+            "displayNumber": "5.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.135634",
+          "max_score": 2,
+          "groupping": null,
+          "id": 4910082,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 137,
+              "hint": "2 p.",
+              "parent": "f25e8fab-043d-4745-8445-27b0903502bc",
+              "choices": [],
+              "correct": "Äreää | kärttyistä | pahantuulista",
+              "isCaseSensitive": false
+            }
+          ],
+          "uuid": "f25e8fab-043d-4745-8445-27b0903502bc",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.567213"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mitä sana “mingin” tarkoittaa? 2 p.\n\n&NewLine;\n\n_Vastauksen pituus on enintään 50 merkkiä. Ylityksestä seuraa pistevähennys._\n\n&NewLine;\n\n[GAP id=137]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "Mitä sana “mingin” tarkoittaa? 2 p.\n\n&NewLine;\n\n_Vastauksen pituus on enintään 50 merkkiä. Ylityksestä seuraa pistevähennys._\n\n&NewLine;\n\n[GAP id=137]\n",
+            "displayNumber": "5.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.138456",
+          "max_score": 2,
+          "groupping": null,
+          "id": 4910080,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 137,
+              "hint": "2 p.",
+              "parent": "f0a81327-9b12-4e34-9a22-3f08592cf013",
+              "choices": [],
+              "correct": "Likaista | Samaa kuin “boggin”",
+              "isCaseSensitive": false
+            }
+          ],
+          "uuid": "f0a81327-9b12-4e34-9a22-3f08592cf013",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.562707"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mitä ilman puhdistuminen saasteista aiheutti? 3 p.\n\n&NewLine;\n\n_Vastauksen pituus on enintään 150 merkkiä. Ylityksestä seuraa pistevähennys._\n",
+          "deleted_at": null,
+          "feedback": "Ilman lämpötila nousi (asteen viidesosan verran). (3/0 p.)\n",
+          "exam_id": 141350,
+          "content": {
+            "text": "Mitä ilman puhdistuminen saasteista aiheutti? 3 p.\n\n&NewLine;\n\n_Vastauksen pituus on enintään 150 merkkiä. Ylityksestä seuraa pistevähennys._\n",
+            "displayNumber": "6.2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.141113",
+          "max_score": null,
+          "groupping": null,
+          "id": 4910032,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "4473d210-2fff-45bd-8f61-728a6ded95b0",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.453614"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Miksi O’Gorman ilahtui Texasissa? 3 p.\n\n&NewLine;\n\n_Vastauksen pituus on enintään 150 merkkiä. Ylityksestä seuraa pistevähennys._\n",
+          "deleted_at": null,
+          "feedback": "Fordin pick-up oli todella suosittu / löytyi monesta pihasta. (3/0 p.)\n",
+          "exam_id": 141350,
+          "content": {
+            "text": "Miksi O’Gorman ilahtui Texasissa? 3 p.\n\n&NewLine;\n\n_Vastauksen pituus on enintään 150 merkkiä. Ylityksestä seuraa pistevähennys._\n",
+            "displayNumber": "10.2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.143864",
+          "max_score": null,
+          "groupping": null,
+          "id": 4910070,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "879e3480-cdee-4301-b766-4271d7d7c077",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.540351"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "_Kokeen tehtävät loppuvat tähän._\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "_Kokeen tehtävät loppuvat tähän._\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-08-30T06:36:54.146813",
+          "max_score": null,
+          "groupping": null,
+          "id": 4910101,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "9f218f6b-5323-4577-a804-e59d26c76a9b",
+          "order_number": 22,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.613261"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Minkä kysymyksen ratkaisuksi tarjottiin uskonnollista tekstiä? 3 p.\n\n&NewLine;\n\n_Vastauksen pituus on enintään 150 merkkiä. Ylityksestä seuraa pistevähennys._\n",
+          "deleted_at": null,
+          "feedback": "Mikä on paras tapa laittaa teetä? / Kauanko teetä haudutetaan? (3/0 p.)\n",
+          "exam_id": 141350,
+          "content": {
+            "text": "Minkä kysymyksen ratkaisuksi tarjottiin uskonnollista tekstiä? 3 p.\n\n&NewLine;\n\n_Vastauksen pituus on enintään 150 merkkiä. Ylityksestä seuraa pistevähennys._\n",
+            "displayNumber": "13.1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.149672",
+          "max_score": null,
+          "groupping": null,
+          "id": 4910047,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "16f905ce-af72-4e13-9d44-70f8411fd64f",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.488893"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Roasted Badger and Raisin Wine 15 p.**\n\n&NewLine;\n\nRead the text carefully and answer the questions. In 13.1–13.3 write your answer **in Finnish**. Please write a concise answer not exceeding 150 characters for each question. Exceeding the maximum number of characters will lead to points being cut. In 13.4–13.5, choose the best alternative.\n\n&NewLine;\n\n**Material**\n\n[LINK text=Text: Roasted Badger and Raisin Wine|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/attachments/index.html#13.A]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "**Roasted Badger and Raisin Wine 15 p.**\n\n&NewLine;\n\nRead the text carefully and answer the questions. In 13.1–13.3 write your answer **in Finnish**. Please write a concise answer not exceeding 150 characters for each question. Exceeding the maximum number of characters will lead to points being cut. In 13.4–13.5, choose the best alternative.\n\n&NewLine;\n\n**Material**\n\n[LINK text=Text: Roasted Badger and Raisin Wine|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/attachments/index.html#13.A]\n",
+            "questionType": "reading",
+            "displayNumber": "13."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "16f905ce-af72-4e13-9d44-70f8411fd64f",
+            "2293b426-6605-44e9-846e-c0bfc3d28a3a",
+            "9495e875-4b37-46c8-9b8d-c0c14478d390",
+            "398f463a-4017-4e2e-a202-d4ce0a0b90b6",
+            "b14230ea-7ce8-4650-9146-2ba768b2ec87"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-08-30T06:36:54.151984",
+          "max_score": null,
+          "groupping": null,
+          "id": 4910025,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "856d5909-84ef-4675-9cb4-e1bb033569c9",
+          "order_number": 15,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.435146"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What would the patient say? 3 p.\n\n&NewLine;\n\n[LINK text=Kuuntele äänite tästä.|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/#7.4]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "What would the patient say? 3 p.\n\n&NewLine;\n\n[LINK text=Kuuntele äänite tästä.|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/#7.4]\n",
+            "displayNumber": "7.4."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.158026",
+          "max_score": 3,
+          "groupping": null,
+          "id": 4910023,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 7,
+              "text": "[LINK text=Option A.|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/#7.4]",
+              "parent": "6a720a2c-c232-4a0a-af39-7e677f288e27",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 8,
+              "text": "[LINK text=Option B.|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/#7.4]",
+              "parent": "6a720a2c-c232-4a0a-af39-7e677f288e27",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 9,
+              "text": "[LINK text=Option C.|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/#7.4]",
+              "parent": "6a720a2c-c232-4a0a-af39-7e677f288e27",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "6a720a2c-c232-4a0a-af39-7e677f288e27",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.429923"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What would the patient say? 3 p.\n\n&NewLine;\n\n[LINK text=Kuuntele äänite tästä|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/#7.3]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "What would the patient say? 3 p.\n\n&NewLine;\n\n[LINK text=Kuuntele äänite tästä|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/#7.3]\n",
+            "displayNumber": "7.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.162275",
+          "max_score": 3,
+          "groupping": null,
+          "id": 4910038,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 7,
+              "text": "[LINK text=Option A.|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/#7.3]",
+              "parent": "cf446aa1-5c82-47c6-a91c-1861ceea9504",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 8,
+              "text": "[LINK text=Option B.|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/#7.3]",
+              "parent": "cf446aa1-5c82-47c6-a91c-1861ceea9504",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 9,
+              "text": "[LINK text=Option C.|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/#7.3]",
+              "parent": "cf446aa1-5c82-47c6-a91c-1861ceea9504",
+              "choices": [],
+              "correct": false
+            }
+          ],
+          "uuid": "cf446aa1-5c82-47c6-a91c-1861ceea9504",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.468425"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Minkä hyvän asian virukset mahdollistavat? 3 p.\n\n&NewLine;\n\n_Vastauksen pituus on enintään 150 merkkiä. Ylityksestä seuraa pistevähennys._\n",
+          "deleted_at": null,
+          "feedback": "Ihmisten lisääntymisen / Vauvojen syntymisen / Hedelmöittyneen munasolun kehittymisen vauvaksi\n\n(yhdeksässä kuukaudessa) (3/0 p.)\n",
+          "exam_id": 141350,
+          "content": {
+            "text": "Minkä hyvän asian virukset mahdollistavat? 3 p.\n\n&NewLine;\n\n_Vastauksen pituus on enintään 150 merkkiä. Ylityksestä seuraa pistevähennys._\n",
+            "displayNumber": "6.4."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.165321",
+          "max_score": null,
+          "groupping": null,
+          "id": 4910017,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "5c6b96e5-ee7e-48a4-a4f9-9f866b2df86e",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.410737"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mitä sana “boggin” tarkoittaa? 2 p.\n\n&NewLine;\n\n_Vastauksen pituus on enintään 50 merkkiä. Ylityksestä seuraa pistevähennys._\n\n&NewLine;\n\n[GAP id=137]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "Mitä sana “boggin” tarkoittaa? 2 p.\n\n&NewLine;\n\n_Vastauksen pituus on enintään 50 merkkiä. Ylityksestä seuraa pistevähennys._\n\n&NewLine;\n\n[GAP id=137]\n",
+            "displayNumber": "5.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.168314",
+          "max_score": 2,
+          "groupping": null,
+          "id": 4910081,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 137,
+              "hint": "2 p.",
+              "parent": "f549fad2-adb5-42e4-9687-1434fd3251f0",
+              "choices": [],
+              "correct": "Likaista",
+              "isCaseSensitive": false
+            }
+          ],
+          "uuid": "f549fad2-adb5-42e4-9687-1434fd3251f0",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.565055"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mistä Georgia O’Keeffe on saanut inspiraation maalaukseensa? 3 p.\n\n&NewLine;\n\n[LINK text=The passage related to question 3.2|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/#3.2]\n\n&NewLine;\n\n_Vastauksen pituus on enintään 150 merkkiä. Ylityksestä seuraa pistevähennys._\n",
+          "deleted_at": null,
+          "feedback": "Omasta elämästään / New Mexicosta / USA:n lounaisosien maisemista (3/0 p.)\n",
+          "exam_id": 141350,
+          "content": {
+            "text": "Mistä Georgia O’Keeffe on saanut inspiraation maalaukseensa? 3 p.\n\n&NewLine;\n\n[LINK text=The passage related to question 3.2|url=https://yle.fi/plus/abitreenit/2022/Syksy/2022-09-16\\_EA\\_fi/#3.2]\n\n&NewLine;\n\n_Vastauksen pituus on enintään 150 merkkiä. Ylityksestä seuraa pistevähennys._\n",
+            "displayNumber": "3.2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.171213",
+          "max_score": null,
+          "groupping": null,
+          "id": 4910072,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "5ab24de0-7b37-427e-b642-f3056a8b8e74",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.545007"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Part 4: Production\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "### Part 4: Production\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-08-30T06:36:54.174076",
+          "max_score": null,
+          "groupping": null,
+          "id": 4910103,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "d02e3155-ac88-4c21-b2e2-4a312f64412e",
+          "order_number": 20,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.618882"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What has been Ford’s leading idea about demand from the beginning? 2 p.\n\n&NewLine;\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "What has been Ford’s leading idea about demand from the beginning? 2 p.\n\n&NewLine;\n",
+            "displayNumber": "10.6."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.187052",
+          "max_score": 2,
+          "groupping": null,
+          "id": 4910063,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 145,
+              "text": "The only demand for a car is speed",
+              "parent": "100ca9e0-5511-4daf-8063-326c59c4d837",
+              "choices": []
+            },
+            {
+              "id": 146,
+              "text": "New demand should be created",
+              "parent": "100ca9e0-5511-4daf-8063-326c59c4d837",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 147,
+              "text": "It should be met without delay\n\n&NewLine;",
+              "parent": "100ca9e0-5511-4daf-8063-326c59c4d837",
+              "choices": []
+            }
+          ],
+          "uuid": "100ca9e0-5511-4daf-8063-326c59c4d837",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.523867"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What novel elements do other electric vehicles than Ford have? 2 p.\n\n&NewLine;\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "What novel elements do other electric vehicles than Ford have? 2 p.\n\n&NewLine;\n",
+            "displayNumber": "10.7."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.189566",
+          "max_score": 2,
+          "groupping": null,
+          "id": 4910060,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 145,
+              "text": "They have parking assistants",
+              "parent": "dcb394f6-9478-42b1-bdef-f0ab4d9f9be3",
+              "choices": []
+            },
+            {
+              "id": 146,
+              "text": "Their tyres turn also crosswise",
+              "parent": "dcb394f6-9478-42b1-bdef-f0ab4d9f9be3",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 147,
+              "text": "They are more environmentally-friendly",
+              "parent": "dcb394f6-9478-42b1-bdef-f0ab4d9f9be3",
+              "choices": []
+            }
+          ],
+          "uuid": "dcb394f6-9478-42b1-bdef-f0ab4d9f9be3",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.51787"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What is Ryan O’Gorman’s opinion about the future? 2 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "What is Ryan O’Gorman’s opinion about the future? 2 p.\n",
+            "displayNumber": "10.4."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.192252",
+          "max_score": 2,
+          "groupping": null,
+          "id": 4910053,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 145,
+              "text": "The whole car industry is going to be altered\n\n&NewLine;",
+              "parent": "2392a564-8f73-4932-8eb4-2dcb18a5bfa3",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 146,
+              "text": "Old manufacturers will suffer bankruptcies\n\n&NewLine;",
+              "parent": "2392a564-8f73-4932-8eb4-2dcb18a5bfa3",
+              "choices": []
+            },
+            {
+              "id": 147,
+              "text": "There will be new car manufacturers in the US",
+              "parent": "2392a564-8f73-4932-8eb4-2dcb18a5bfa3",
+              "choices": []
+            }
+          ],
+          "uuid": "2392a564-8f73-4932-8eb4-2dcb18a5bfa3",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.502203"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "That has added social conservatives to the word’s **detractors,** but has also given it steam. 2 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "That has added social conservatives to the word’s **detractors,** but has also given it steam. 2 p.\n",
+            "displayNumber": "14.4."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.195019",
+          "max_score": 2,
+          "groupping": null,
+          "id": 4910039,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 170,
+              "text": "users",
+              "parent": "f67c1deb-5736-4c9d-8bd9-c15d9bd8bf79",
+              "choices": []
+            },
+            {
+              "id": 171,
+              "text": "critics\n\n&NewLine;",
+              "parent": "f67c1deb-5736-4c9d-8bd9-c15d9bd8bf79",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 172,
+              "text": "experts",
+              "parent": "f67c1deb-5736-4c9d-8bd9-c15d9bd8bf79",
+              "choices": []
+            }
+          ],
+          "uuid": "f67c1deb-5736-4c9d-8bd9-c15d9bd8bf79",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.47101"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Part 2: Reading Comprehension\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "### Part 2: Reading Comprehension\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-08-30T06:36:54.197917",
+          "max_score": null,
+          "groupping": null,
+          "id": 4910102,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "bb2cbe4e-b50c-4c51-8595-ef278cbfc459",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.616628"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What significant past experience does the narrator mention? 3 p.\n\n&NewLine;\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "What significant past experience does the narrator mention? 3 p.\n\n&NewLine;\n",
+            "displayNumber": "11.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.200732",
+          "max_score": 3,
+          "groupping": null,
+          "id": 4910061,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 148,
+              "text": "Having a public post",
+              "parent": "5d5426ad-1ed9-41da-bff7-b1a5d5b20150",
+              "choices": []
+            },
+            {
+              "id": 149,
+              "text": "Teaching classes",
+              "parent": "5d5426ad-1ed9-41da-bff7-b1a5d5b20150",
+              "choices": []
+            },
+            {
+              "id": 150,
+              "text": "Sitting an exam\n\n&NewLine;",
+              "parent": "5d5426ad-1ed9-41da-bff7-b1a5d5b20150",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "5d5426ad-1ed9-41da-bff7-b1a5d5b20150",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.519825"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "The AMOC is driven by dense, salty seawater sinking into the Arctic ocean, [SELECT id=156] the melting of freshwater from Greenland’s ice sheet is slowing the process down earlier than climate models suggested.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "The AMOC is driven by dense, salty seawater sinking into the Arctic ocean, [SELECT id=156] the melting of freshwater from Greenland’s ice sheet is slowing the process down earlier than climate models suggested.\n"
+          },
+          "images": null,
+          "settings": {
+            "points": "3"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.203844",
+          "max_score": 3,
+          "groupping": null,
+          "id": 4910051,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 156,
+              "hint": "3 p.",
+              "parent": "b63638d0-0122-4740-94fe-c173a2f9656b",
+              "choices": [
+                {
+                  "id": "a11bb502-97e2-470b-abf5-dc1dcbd0bb4d",
+                  "text": "hence"
+                },
+                {
+                  "id": "8fa98cfb-1363-410b-ad46-bcc2204a4bd4",
+                  "text": "since"
+                },
+                {
+                  "id": "ed5c4e0a-8c4a-4f2a-813a-fad30bdfbaff",
+                  "text": "but",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "b63638d0-0122-4740-94fe-c173a2f9656b",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.498282"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "What do the books in Watson’s archive show about cooking in the 1700s? 3 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "What do the books in Watson’s archive show about cooking in the 1700s? 3 p.\n",
+            "displayNumber": "13.4."
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.206773",
+          "max_score": 3,
+          "groupping": null,
+          "id": 4910044,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 158,
+              "text": "Diets might have made people lose their temper",
+              "parent": "398f463a-4017-4e2e-a202-d4ce0a0b90b6",
+              "choices": []
+            },
+            {
+              "id": 159,
+              "text": "Different diets were popular already then",
+              "parent": "398f463a-4017-4e2e-a202-d4ce0a0b90b6",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 160,
+              "text": "In fighting illness, eating habits were futile",
+              "parent": "398f463a-4017-4e2e-a202-d4ce0a0b90b6",
+              "choices": []
+            }
+          ],
+          "uuid": "398f463a-4017-4e2e-a202-d4ce0a0b90b6",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.482129"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "All the while singular _they_ has been **lurking** in the background. 2 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "All the while singular _they_ has been **lurking** in the background. 2 p.\n",
+            "displayNumber": "14.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.209812",
+          "max_score": 2,
+          "groupping": null,
+          "id": 4910043,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 167,
+              "text": "surfacing",
+              "parent": "b23e45b3-7207-410b-b3f2-a86904f27c44",
+              "choices": []
+            },
+            {
+              "id": 168,
+              "text": "hiding",
+              "parent": "b23e45b3-7207-410b-b3f2-a86904f27c44",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 169,
+              "text": "abiding\n\n&NewLine;",
+              "parent": "b23e45b3-7207-410b-b3f2-a86904f27c44",
+              "choices": []
+            }
+          ],
+          "uuid": "b23e45b3-7207-410b-b3f2-a86904f27c44",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.480179"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "And, they have **lamented** the usage of one pronoun in particular: singular _they_. 2 p.\n\n&NewLine;\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "And, they have **lamented** the usage of one pronoun in particular: singular _they_. 2 p.\n\n&NewLine;\n",
+            "displayNumber": "14.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.21264",
+          "max_score": 2,
+          "groupping": null,
+          "id": 4910033,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 164,
+              "text": "praised\n\n&NewLine;",
+              "parent": "1e144849-8623-4f28-a4c5-f60fe1bfb88f",
+              "choices": []
+            },
+            {
+              "id": 165,
+              "text": "grieved",
+              "parent": "1e144849-8623-4f28-a4c5-f60fe1bfb88f",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 166,
+              "text": "avoided\n\n&NewLine;",
+              "parent": "1e144849-8623-4f28-a4c5-f60fe1bfb88f",
+              "choices": []
+            }
+          ],
+          "uuid": "1e144849-8623-4f28-a4c5-f60fe1bfb88f",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.456746"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "And each evolution has added to the sense that this usage isn’t just **convenient**, it’s also grammatically okay. 2 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "And each evolution has added to the sense that this usage isn’t just **convenient**, it’s also grammatically okay. 2 p.\n",
+            "displayNumber": "14.5."
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.215531",
+          "max_score": 2,
+          "groupping": null,
+          "id": 4910026,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 173,
+              "text": "accessible",
+              "parent": "edabad2d-291a-4f85-af9c-cbdebf11d443",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 174,
+              "text": "manageable",
+              "parent": "edabad2d-291a-4f85-af9c-cbdebf11d443",
+              "choices": []
+            },
+            {
+              "id": 175,
+              "text": "inappropriate\n\n&NewLine;",
+              "parent": "edabad2d-291a-4f85-af9c-cbdebf11d443",
+              "choices": []
+            }
+          ],
+          "uuid": "edabad2d-291a-4f85-af9c-cbdebf11d443",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.437278"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Ironically, _D&D_ was unable to find a publisher, so Gygax decided to publish it himself. _D&D_ sold 150 copies in its first month, and [GAP id=191] , another 1,000 copies.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "Ironically, _D&D_ was unable to find a publisher, so Gygax decided to publish it himself. _D&D_ sold 150 copies in its first month, and [GAP id=191] , another 1,000 copies.\n"
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.219497",
+          "max_score": 1,
+          "groupping": null,
+          "id": 4910014,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 191,
+              "hint": "kesään mennessä ",
+              "parent": "2f6ef88f-7410-43e5-907b-804a037e3151",
+              "choices": [],
+              "correct": "by summer|by the summer",
+              "isCaseSensitive": false
+            }
+          ],
+          "uuid": "2f6ef88f-7410-43e5-907b-804a037e3151",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.403582"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**The Story of Dungeons and Dragons 11 p.**\n\n&NewLine;\n\nRead the text carefully and fill in each gap in English according to the clue and using the correct form in each sentence.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "**The Story of Dungeons and Dragons 11 p.**\n\n&NewLine;\n\nRead the text carefully and fill in each gap in English according to the clue and using the correct form in each sentence.\n",
+            "questionType": "grammar",
+            "displayNumber": "16."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "2f6ef88f-7410-43e5-907b-804a037e3151",
+            "182075c7-3b9e-4ad5-8b1c-e3294a1ff69d",
+            "e9aea120-b53d-427e-a846-112303470246",
+            "08a90a78-4ba6-4ef7-aa67-f05963593f35",
+            "aeb8288e-027a-4e7f-8b9a-8d29e6319fdc",
+            "0bd229d6-6ae8-467c-90c6-3d83025cc5e1"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2023-08-30T06:36:54.221822",
+          "max_score": null,
+          "groupping": null,
+          "id": 4910013,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "1231da44-d3e5-476b-8bd6-11043727784f",
+          "order_number": 19,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.401425"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "For the first years of [GAP id=192], the game was difficult to find, and because of that, pirate photocopies of the rules [GAP id=193].\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 141350,
+          "content": {
+            "text": "For the first years of [GAP id=192], the game was difficult to find, and because of that, pirate photocopies of the rules [GAP id=193].\n"
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2023-08-30T06:36:54.224914",
+          "max_score": 2,
+          "groupping": null,
+          "id": 4910012,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 192,
+              "hint": "exist",
+              "parent": "182075c7-3b9e-4ad5-8b1c-e3294a1ff69d",
+              "choices": [],
+              "correct": "its existence",
+              "isCaseSensitive": false
+            },
+            {
+              "id": 193,
+              "hint": "proliferate",
+              "parent": "182075c7-3b9e-4ad5-8b1c-e3294a1ff69d",
+              "choices": [],
+              "correct": "proliferated",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "182075c7-3b9e-4ad5-8b1c-e3294a1ff69d",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2022-10-28T10:48:49.398906"
+        }
+      ],
+      "name": "Englanti, pitkä oppimäärä, syksy 2022",
+      "settings": {
+        "overrideTitle": true
+      },
+      "exam_type": "yo-koe",
+      "classification": {
+        "category": "digital-exam",
+        "disable_saving": false,
+        "hide_review_buttons": false,
+        "exam_type": "yo-koe",
+        "year": "2022",
+        "language": "fi-FI",
+        "hide_statistics": false,
+        "show_exam_series": false,
+        "force_yletunnus": false,
+        "subject": "englanti-pitkä",
+        "published": true,
+        "semester": "fall"
+      },
+      "published_at": "2022-10-28T12:13:11.000Z",
+      "language": "fi-FI",
+      "id": 141350,
+      "reviews": [],
+      "is_open": true,
+      "uuid": "8455aafa-b581-44fa-99a1-8782afd50486"
+    }
+  ]
+}

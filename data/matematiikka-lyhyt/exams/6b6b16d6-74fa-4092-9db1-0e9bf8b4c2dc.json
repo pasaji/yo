@@ -1,0 +1,1381 @@
+{
+  "meta": {
+    "count": 1
+  },
+  "data": [
+    {
+      "tags": [
+        ""
+      ],
+      "main_text": "Koe koostuu 11 tehtävästä, joista vastataan yhdeksään. Tehtävät on jaettu kahteen osaan. A-osassa on kuusi tehtävää, joista vastataan viiteen. B-osassa on viisi tehtävää, joista vastataan neljään. Tehtävät 1–9 arvostellaan pistein 0–12, ja tehtävät 10 ja 11 pistein 0–18. Kokeen maksimipistemäärä on 120 ja sen voi saavuttaa vain, jos vastaa tehtäviin 10 ja 11.\n\n&NewLine;\n\nA-osassa saat käyttää koejärjestelmän taulukkokirjoja ja perusohjelmia. A-osa palautetaan tehtävän 6 jälkeen olevalla painikkeella. Tämän jälkeen A-osan vastauksia ei voi enää muokata. A-osan palauttamisen jälkeen kaikki koejärjestelmän ohjelmat ovat käytettävissäsi. Voit vastata B-osan tehtäviin myös ennen A-osan palauttamista.\n\n&NewLine;\n\nHalutessasi voit tuottaa vastausten tueksi piirroksia, kaavioita tai taulukoita ja liittää niistä kuvakaappauksen mihin tahansa tekstivastaukseen.\n\n&NewLine;\n\nÄlä jätä mitään merkintöjä sellaisen tehtävän vastaukselle varattuun tilaan, jota et halua jättää arvosteltavaksi.",
+      "characters": null,
+      "deleted_at": null,
+      "series_uuids": [],
+      "questions": [
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Klassikko 12 p.\n\nMääritä esimerkiksi derivaatan avulla polynomifunktion [MATH text=p(x) =x^3 -x^2 +x] suurin ja pienin arvo, kun [MATH text=1≤x≤2].",
+          "deleted_at": null,
+          "feedback": "Lasketaan derivaatta: [MATH text=p'(x)=3x^2-2x+1]. (yksi termi ja derivaatan aste oikein 1 p., kaksi termiä oikein 1 p., kaikki termit oikein 1 p.) (3 p.)\n\nSelvitetään omalle derivaatalle, joka on 2. asteen polynomi, onko sillä nollakohtia:\n\n[MATH text=x=\\frac{2\\pm\\sqrt{(-2)^2-4*3*1}}{2*3}=\\frac{2\\pm\\sqrt{-8}}{2*3}]. (sijoitus likimain oikein 1 p., sijoitettu oikein omat kolme nollasta poikkeavaa termiä 1 p., diskriminantti sievennetty oikein [myös 4-12 käy] 1 p.) (3 p.)\n\nriippumaton Diskriminantti on negatiivinen ja todettu, että derivaatalla ei ole nollakohtia. (1 p.)\n\nSanallisesti todettu, että koska derivaatalla ei ole nollakohtia (tarkasteluvälillä), riittää tarkastaa määrittelyvälin päätepisteet (3 p.). TAI Käsitelty funktion kulkua tarkasteluvälillä (hieman vajaavainen käsittely 1 p., huolellinen käsittely 2 p.), todettu, että derivaatan positiivisuudesta seuraa että funktio on kasvava 1 p.\n\nEsimerkkejä perustelusta: Derivaatan merkki testipisteessä ja päättely, esimerkiksi [MATH text=p'(1)=3*1^2-2*1+1=2>0], joten derivaatta on positiivinen. (Ei pisteitä pelkästä derivaatan arvojen laskemisesta.) TAI Koska derivaatta on ylöspäin aukeava paraabeli, jolla ei ole nollakohtia, sen arvot ovat positiivisia.\n\nriippumaton Suurin arvo on [MATH text=p(2)=2^3-2^2+2=6], ja pienin arvo on [MATH text=p(1)=1^3-1^2+1=1] (1 p. kummastakin vastauksesta TAI 1 p. jos laskettu p(2) ja p(1).) (2 p.)\n\nRatkaisukohtaiset erillisohjeet\n\nHavainto [MATH text=p'(x)=3x^2-2x+1=2x^2+(x-1)^2>0] osoittaa sekä derivaatan nollakohtien puuttumisen, että derivaatan positiivisuuden samalla kertaa. (max 12 p.)\n\nLöydetty (virheellisesti) derivaatan nollakohtia, esimerkiksi virhe nollakohtien laskemisessa. (3+2+0+2+2) tai (2+3+0+2+2) (max 9 p.)\n\nTyyppivirhe: [MATH text=p'(x)=3x^2-2x]. (2+2+0+2+2) (max 8 p.)\n\nTAI\n\nEsitetty p tarkasteluvälillä kasvavien ja positiivisten komponenttien tulona/summana. Esimerkiksi: [MATH text=p(x)=x^2(x-1)+x], [MATH text=p(x)=x((x-1)^2+x)] (1 p.)\n\nOsoitettu, että komponentit (esimerkiksi [MATH text=x^2], [MATH text=x-1] ja [MATH text=x]) ovat (tarkasteluvälillä) kasvavia (3 p.)\n\nOsoitettu, että tulon tekijät ovat (tarkasteluvälillä) ei-negatiivisia (3 p.)\n\nNäin ollen p on kasvava. (3 p.)\n\nriippumaton Suurin arvo on [MATH text=p(2)=2^3-2^2+2=6], ja pienin arvo on [MATH text=p(1)=1^3-1^2+1=1]. (2 p.)",
+          "exam_id": 241425,
+          "content": {
+            "text": "### Klassikko 12 p.\n\nMääritä esimerkiksi derivaatan avulla polynomifunktion [MATH text=p(x) =x^3 -x^2 +x] suurin ja pienin arvo, kun [MATH text=1≤x≤2].",
+            "displayNumber": "6."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-11-27T07:16:27.325949",
+          "max_score": null,
+          "groupping": null,
+          "id": 7495005,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "d2530964-946d-40bf-a139-0bb842b56925",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2025-04-02T13:34:31.22579"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Nopeus  [SELECT id=2] 1 p. aikaan, kun matka on vakio.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 241425,
+          "content": {
+            "text": "Nopeus  [SELECT id=2] 1 p. aikaan, kun matka on vakio.",
+            "displayNumber": "7.1.1"
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-11-27T07:16:27.305014",
+          "max_score": 2,
+          "groupping": null,
+          "id": 7498348,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 2,
+              "parent": "ba4a6550-a82d-45e3-989b-b5b71f0196e0",
+              "choices": [
+                {
+                  "id": "0dbbeaf2-7d1a-4668-a9cf-32814a1dadf9",
+                  "text": "on suoraan verrannollinen"
+                },
+                {
+                  "id": "1f5822b8-ddd8-4bbf-b8cb-c55608a39cc4",
+                  "text": "on kääntäen verrannollinen",
+                  "correct": true
+                },
+                {
+                  "id": "f0f20240-03fc-48a3-ad13-d3fb5c5f06f6",
+                  "text": "ei ole suoraan eikä kääntäen verrannollinen"
+                }
+              ],
+              "multivalue": true
+            },
+            {
+              "id": 3,
+              "parent": "ba4a6550-a82d-45e3-989b-b5b71f0196e0",
+              "choices": [
+                {
+                  "id": "2b143bae-47ed-42b8-b03e-132057101034",
+                  "text": "60"
+                },
+                {
+                  "id": "d0f791eb-a1d1-487f-8b92-d0ebced5565f",
+                  "text": "70"
+                },
+                {
+                  "id": "5f4f30e0-cfc9-4450-bc5a-29d1a878a096",
+                  "text": "80"
+                },
+                {
+                  "id": "6ee50bb8-2edd-40e0-a161-e590263ca718",
+                  "text": "90"
+                },
+                {
+                  "id": "a43fb5b8-49b1-4669-a06e-b20a3fb2dc44",
+                  "text": "100"
+                },
+                {
+                  "id": "a02ef788-6f87-4163-b31b-caafaa383008",
+                  "text": "110"
+                },
+                {
+                  "id": "4ad2cc2d-17b2-4ea4-96ee-934dc45c3428",
+                  "text": "120"
+                },
+                {
+                  "id": "5d4d2b62-98bf-4afd-93ff-970d470706db",
+                  "text": "130"
+                },
+                {
+                  "id": "62950c1c-dec6-4e53-9188-f3dd4bdcd677",
+                  "text": "140"
+                },
+                {
+                  "id": "bc23f079-ef6f-4fe8-a57e-2b8319aca469",
+                  "text": "150"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "ba4a6550-a82d-45e3-989b-b5b71f0196e0",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2025-04-03T12:39:34.581082"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Yhtälö ja lukujono 12 p.\n\n1.) Ratkaise yhtälö [MATH text=(x +3) (2 x -1) =4]. **(6 p.)**\n\n2.) Aritmeettisen lukujonon ensimmäinen jäsen on 2025 ja viides jäsen on 1973. Mikä on lukujonon sadas jäsen? **(6 p.)**",
+          "deleted_at": null,
+          "feedback": "**Osatehtävä 2.1**\n\nSulkujen poisto oikein [MATH text=2x^2-x+6x-3=4]. (1 p.)\n\nSTOP: Ei pisteitä jatkosta, jos yhtälö ei ole toista astetta.\n\nTermit yhdistetty oikein ([MATH text=2x^2+5x-7=0] TAI [MATH text=2x^2+5x=7]). (1 p.)\n\nJonkinlainen aloitus yhtälön ratkaisemiseen: Sijoitettu ratkaisukaavaan omat 3 kerrointa (2, 5 ja -7) mahdollisesti väärään paikkaan tai eri merkein. Tällä rivillä kelpaa myös yhtälöstä [MATH text=2x^2+5x-3=4] sijoitetut kertoimet 2, 5 ja -3. (1 p.)\n\nKaikki omaa normaalimuotoa vastaavat kertoimet sijoitettu oikein [MATH text=x=\\frac{-5\\pm\\sqrt{5^2-4*2*(-7)}}{2*2}] TAI lisätty kuvakaappaus SpeedCrunchista, josta näkyvät oikeat kertoimet. (1 p.)\n\nOma diskriminantti sievennetty tai käsitelty oikein. [1 p.]\n\nSaatu juuret oikein melko täsmälleen [MATH text=x=1] ja [MATH text=x=-\\frac{7}{2}]. (Desimaalimuoto melko täsmälleen [MATH text=x=-3{,}5] käy myös.) (1 p.)\n\nOsatehtäväkohtaiset erillisohjeet\n\nSaatu vaillinainen toisen asteen yhtälö, [MATH text=ax^2=b] tai [MATH text=ax^2+bx=0]. (1+0+1+1+1+0) tai (0+1+1+1+1+0) (max 4 p.)\n\nAlkupiste (1 p.): [MATH text=x=1] tai [MATH text=x=-\\frac{7}{2}] arvattu ja tarkistettu.\n\n**Osatehtävä 2.2**\n\n(Merkitään lukujonon jäseniä [MATH text=a_1], [MATH text=a_2] jne.) Nyt [MATH text=a_5-a_1=1973-2025=(-52)]. Myös [MATH text=2025-1973=(52)] käy. (1 p.)\n\nKahden peräkkäisen jäsenen välinen erotus on siis [MATH text=-52/4=-13]. Oikea idea jakamisesta / oikea jakaja. (2 p.)\n\nSiispä [MATH text=a_{100}=2025-13*99=738]. Oikea idea vähentämisestä/ kerroin 99/ sievennetty vastaus oikein. (3 p.)\n\nOsatehtäväkohtaiset erillisohjeet\n\nTyyppivirhe: luku 13 perustelematta. (0+0+3) (max 3 p.)\n\nTyyppivirhe: luku 13 perustelematta, mutta näytetty, että se toimii, esimerkiksi [MATH text=2025-13-13-13-13=1973]. (0+2+3) (max 5 p.)\n\nAlkupiste (1 p): Oikea idea aritmeettisesta jonosta, esimerkiksi [MATH text=a_{100}=2025+(100-1)d].",
+          "exam_id": 241425,
+          "content": {
+            "text": "### Yhtälö ja lukujono 12 p.\n\n1.) Ratkaise yhtälö [MATH text=(x +3) (2 x -1) =4]. **(6 p.)**\n\n2.) Aritmeettisen lukujonon ensimmäinen jäsen on 2025 ja viides jäsen on 1973. Mikä on lukujonon sadas jäsen? **(6 p.)**",
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-11-27T07:16:27.297219",
+          "max_score": null,
+          "groupping": null,
+          "id": 7494924,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "b811a81e-1477-4d2a-ab97-761ddfdad22d",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2025-04-02T12:57:39.390587"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Kokouspalkkio 12 p.\n\nJärjestön luottamushenkilöiden kokouspalkkioita on korotettu viimeksi vuonna 2009. Vuonna 2023 järjestö päättää korottaa kokouspalkkiotaan 30 eurosta 40 euroon. Ansiotasoindeksi oli 2 717 vuonna 2009 ja 3 667 vuonna 2023. Ylittääkö luottamushenkilöiden ansiokehitys tämän jälkeen yleisen ansiokehityksen? Kuinka suuri uuden kokouspalkkion pitäisi olla, jotta korotus noudattaisi yleistä ansiokehitystä?",
+          "deleted_at": null,
+          "feedback": "Indeksin muutoksen suhde (katso taulukko) TAI indeksin ja palkkion suhde vanhoilla luvuilla ([MATH text=2717/30\\approx90{,}57] TAI [MATH text=30/2717\\approx0{,}0110]). (lasku 3 p., vastaus 1 p.) (4 p.)\n\nPalkkion muutoksen suhde (katso taulukko) TAI indeksin ja palkkion suhde uusilla luvuilla ([MATH text=3667/40=91{,}675] TAI [MATH text=40/3667\\approx0{,}0109]). (lasku 1 p., vastaus 1 p.) (2 p.)\n\nKahteen oikealla logiikalla saatuun ja keskenään vertailukelpoiseen lukuun perustuen: luottamushenkilöiden ansiokehitys ei ylitä yleistä ansiokehitystä. (2 p.)\n\nLasketaan oikealla logiikalla yleistä ansiokehitystä noudattava kokouspalkkio (esimerkiksi [MATH text=30+0{,}3497*30] tai [MATH text=30/0{,}7409]) TAI verrantoyhtälöllä (esimerkiksi [MATH text=30/x=2717/3667]). (2 p.)\n\nJohtopäätöksenä: Saadaan kokouspalkkioksi [MATH text\\approx40{,}49] (euroa) (tai [MATH text=40{,}50] euroa tai [MATH text=40{,}5] euroa, vain nämä tarkkuudet). (vastaus 1 p., pyöristys 1 p.) (2 p.)\n\nTehtäväkohtaiset erillisohjeet\n\nKerroin [MATH text=0{,}3497]/jakaja [MATH text=0{,}7409] vähintään tämä tarkkuus tai ei pyöristyspistettä.\n\nVastaus [MATH text=40{,}49] tai [MATH text=40{,}50] tai [MATH text=40{,}5] euroa löydetty kokeilemalla ja vastaus tarkistettu (4+2+2+1+2).\n\nEnsimmäisen rivin nimittäjässä [MATH text=3667]: vaatii selityksen vertailussa tai -1 p. kolmannella rivillä.\n\nLaskettu [MATH text=40] euroa vastaava indeksiluku [MATH text=2717*40/30\\approx3623]: (4+2+...) kahdelta ensimmäiseltä riviltä. Tästä pystyy tekemään johtopäätöksen (4+2+2+...).\n\nLaskettu uuden indeksin mukainen palkkio:\n\n– ei johtopäätöstä (4+0+0+2+2) (max 8 p.)\n\n– tehty johtopäätös (2. riviä ei tarvitse --> sen pisteet saa, vaikka palkkio väärin) (max 12 p.)\n\n– laskettu väärin: kerroin saattaa antaa pisteitä 1. tai 2. riviltä.\n\nKertoimien laskut puuttuvat mutta luvut näkyvät ja selitetty. (max 11 p.)\n\nPelkkä vastaus [MATH text=40{,}49] euroa (tai vastaava) ja \"40 e palkkio ei ylitä yleistä tasoa\". (0 p.)\n\nAlla olevassa taulukossa on listattu erilaisia suhteita, joita voi käyttää johtopäätöksen teossa. Myös muista sellaisista suhteista max 6 kahdelta ensimmäiseltä riviltä, joita voi käyttää johtopäätöksen tekemiseen. Suhteiden ei tarvitse olla keskenään vertailukelpoisia.\n\nIndeksi (4 p.)\tPalkkio (2 p.)\n\nnousu\t[MATH text=(3667-2717)/2717\\approx34{,}97\\%] [MATH text=\\approx35\\%]\t[MATH text=(40-30)/30\\approx33\\%]\n\nmuutoskerroin\t[MATH text=3667/2717\\approx1{,}3497] [MATH text=\\approx1{,}35] [MATH text=40/30\\approx1{,}33]\n\nvanha vähemmän kuin nykyinen\t[MATH text=(3667-2717)/3667\\approx25{,}91\\%] [MATH text\\approx26\\%]\t[MATH text=(40-30)/40=25\\%]\n\nvanhan muutoskerroin\t[MATH text=2717/3667\\approx0{,}7409] [MATH text\\approx0{,}74] [MATH text=30/40=0{,}75]",
+          "exam_id": 241425,
+          "content": {
+            "text": "### Kokouspalkkio 12 p.\n\nJärjestön luottamushenkilöiden kokouspalkkioita on korotettu viimeksi vuonna 2009. Vuonna 2023 järjestö päättää korottaa kokouspalkkiotaan 30 eurosta 40 euroon. Ansiotasoindeksi oli 2 717 vuonna 2009 ja 3 667 vuonna 2023. Ylittääkö luottamushenkilöiden ansiokehitys tämän jälkeen yleisen ansiokehityksen? Kuinka suuri uuden kokouspalkkion pitäisi olla, jotta korotus noudattaisi yleistä ansiokehitystä?",
+            "displayNumber": "3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-11-27T07:16:27.274438",
+          "max_score": null,
+          "groupping": null,
+          "id": 7494936,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "8ee98450-fc03-4b7a-bb42-a2bb03c79870",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2025-04-02T13:02:08.462162"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Yhtälötyyppejä 12 p.\n\nLukiomatematiikassa on tärkeää osata erottaa *potenssiyhtälöt* ja *eksponenttiyhtälöt* toisistaan. Yksinkertaistettu potenssiyhtälö voidaan kirjoittaa muodossa[MATH text= x^n =t ]ja yksinkertaistettu eksponenttiyhtälö muodossa [MATH text=a^x =b]. Molemmissa esimerkkiyhtälöissä tuntematon muuttuja on x.\n\n&NewLine;\n\n1) Anna esimerkki yksinkertaistettua muotoa olevasta potenssiyhtälöstä, jossa[MATH text=n≥2]ja [MATH text=t\\neq0]ja jolla on vain yksi ratkaisu. Ratkaise myös yhtälösi. **(6 p.)**\n\n2) Anna esimerkki yksinkertaistettua muotoa olevasta eksponenttiyhtälöstä, jossa [MATH text=a > 1] ja [MATH text=b> 0]. Ratkaise myös yhtälösi. **(6 p.)**",
+          "deleted_at": null,
+          "feedback": "**Osatehtävä 4.1**\n\nAnnettu yhtälö muotoa [MATH text=x^n=t], jossa [MATH text=n\\geq2] ja [MATH text=t\\neq0]. (1 p.)\n\nOikeaa muotoa olevalla yhtälöllä [MATH text=x^n=t] on tasan yksi ratkaisu. (1 p.)\n\nSTOP: Seuraavat pisteet voi saada vain, jos edeltä saatu kaikki 2 pistettä.\n\nAnnettu oman yhtälön oikea ratkaisu. (2 p.)\n\nYhtälö ratkaistu toimivalla menetelmällä. (2 p.)\n\nOsatehtäväkohtaiset erillisohjeet\n\nTyyppivirhe: [MATH text=x^2=4] eli [MATH text=x=\\sqrt{4}=2]. (1+0+stop) (max 1 p.)\n\nTyyppivirhe: [MATH text=x^2=4] eli [MATH text=x=\\pm\\sqrt{4}=\\pm2]. (1+0+stop) (max 1 p.)\n\nAnnettu oman yhtälön oikea ratkaisu, joka testattu sijoittamalla. (1+1+2+1) (max 5 p.)\n\nVastauksena päättymätön desimaaliluku ja pyöristys. (max 6 p.)\n\nMerkintävirhe, esimerkiksi otettu neliöjuuri kuutiojuuren tms. sijaan. (Ei vähennystä, jos sanallinen selitys on oikein ja juuressa ei ole indeksiä.) (-1 p.)\n\n**Osatehtävä 4.2**\n\nAnnettu muotoa [MATH text=a^x=b] oleva yhtälö omilla luvuilla. (1 p.)\n\nOmassa muotoa [MATH text=a^x=b] olevassa yhtälössä [MATH text=a>1] ja [MATH text=b>0]. (1 p.)\n\nSTOP: Seuraavat pisteet voi saada vain, jos edeltä saatu kaikki 2 pistettä.\n\nAnnettu oman yhtälön oikea ratkaisu. (2 p.)\n\nYhtälö ratkaistu toimivalla menetelmällä TAI ratkaisu tarkistettu sijoituksella. (2 p.)\n\nOsatehtäväkohtaiset erillisohjeet\n\nIlmoitettu tehtävänannon mukaiset a:n ja b:n arvot, mutta termit tai yhtälö esittämättä. (+0 p.)\n\nPuuttuva ratkaisumenetelmä (esimerkiksi [MATH text=6^x=1] eli [MATH text=x=0] tai [MATH text=6^x=6] joten [MATH text=x=1]). (1+1+2+0) (max 4 p.)\n\nMolemmat puolet esitetty saman kantaluvun avulla (esimerkiksi [MATH text=6^x=1] eli [MATH text=x=0], koska [MATH text=6^0=1] tai [MATH text=6^x=6=6^1], joten [MATH text=x=1]). (1+1+2+2) (max 6 p.)\n\nMerkintävirhe, esimerkiksi jaettu kantaluvut puolittain pois. (-1 p.)\n\nAnnettu oman yhtälön oikea ratkaisu tuottaa pisteitä, vaikka ratkaisu olisi saatu virheellisellä laskulla/menetelmällä.\n\nTyyppivirhe: ylimääräiset miinusmerkit (esimerkiksi [MATH text=-2^x=-8], joten [MATH text=x=3]). (0 p.)",
+          "exam_id": 241425,
+          "content": {
+            "text": "### Yhtälötyyppejä 12 p.\n\nLukiomatematiikassa on tärkeää osata erottaa *potenssiyhtälöt* ja *eksponenttiyhtälöt* toisistaan. Yksinkertaistettu potenssiyhtälö voidaan kirjoittaa muodossa[MATH text= x^n =t ]ja yksinkertaistettu eksponenttiyhtälö muodossa [MATH text=a^x =b]. Molemmissa esimerkkiyhtälöissä tuntematon muuttuja on x.\n\n&NewLine;\n\n1) Anna esimerkki yksinkertaistettua muotoa olevasta potenssiyhtälöstä, jossa[MATH text=n≥2]ja [MATH text=t\\neq0]ja jolla on vain yksi ratkaisu. Ratkaise myös yhtälösi. **(6 p.)**\n\n2) Anna esimerkki yksinkertaistettua muotoa olevasta eksponenttiyhtälöstä, jossa [MATH text=a > 1] ja [MATH text=b> 0]. Ratkaise myös yhtälösi. **(6 p.)**",
+            "displayNumber": "4."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-11-27T07:16:27.252087",
+          "max_score": null,
+          "groupping": null,
+          "id": 7494949,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "f5dac66a-0845-418c-ae7b-64540524d6a6",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2025-04-02T13:13:16.663462"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Lyhyitä tehtäviä 12 p.\n\nAnna tässä tehtävässä pelkkä vastaus ilman perusteluja. Vastauslaatikkoon voi kirjoittaa vain yhden kokonaisluvun. \n\n&NewLine; **HUOMIO: ABITREENIEN KOEJÄRJESTELMÄ ILMOITTAA ENNEN VASTAUSLAATIKKOA NUMERON MUODOSSA 1). ÄLÄ HUOMIOI NUMEROA.**",
+          "deleted_at": null,
+          "feedback": "[LINK text=Ks. lopulliset hyvän vastauksen piirteet Abitreenien sivuilta|url=https://yle.fi/plus/abitreenit/2025/kevat/matematiikka_lyhyt/hvp_lopullinen.pdf] https://yle.fi/plus/abitreenit/2025/kevat/matematiikka_lyhyt/hvp_lopullinen.pdf",
+          "exam_id": 241425,
+          "content": {
+            "text": "### Lyhyitä tehtäviä 12 p.\n\nAnna tässä tehtävässä pelkkä vastaus ilman perusteluja. Vastauslaatikkoon voi kirjoittaa vain yhden kokonaisluvun. \n\n&NewLine; **HUOMIO: ABITREENIEN KOEJÄRJESTELMÄ ILMOITTAA ENNEN VASTAUSLAATIKKOA NUMERON MUODOSSA 1). ÄLÄ HUOMIOI NUMEROA.**",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "4388f57e-e17f-47d2-8bfe-58dff0ddb10f",
+            "ee516694-acae-4c67-8d47-f4f531c2b55e",
+            "4c671be9-3246-43f0-978c-ac1cda8ad759",
+            "729b3290-ee95-490a-aea9-f9b1386f2ffb",
+            "199c0ef9-1928-463e-8162-370b9d80641c",
+            "c11b6c77-64f1-444b-8393-22b38df1fcc6"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-11-27T07:16:27.249006",
+          "max_score": null,
+          "groupping": null,
+          "id": 7494752,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "99c14786-2a1b-4f72-a9ed-237a525e4167",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2025-04-02T12:20:16.528167"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### **7.** Verrannollisuuksia 12 p.\n\nTäydennä virkkeet. Vastauksia ei tarvitse perustella. Oikea vastaus 1–2 p., väärä vastaus 0 p., ei vastausta 0 p. Jos olet aloittanut tehtävään vastaamisen, mutta et haluakaan jättää tehtävää arvosteltavaksi, poista vastauksesi valitsemalla pudotusvalikosta tyhjä rivi.",
+          "deleted_at": null,
+          "feedback": "[LINK text=Ks. lopulliset hyvän vastauksen piirteet Abitreenien sivuilta|url=https://yle.fi/plus/abitreenit/2025/kevat/matematiikka_lyhyt/hvp_lopullinen.pdf] https://yle.fi/plus/abitreenit/2025/kevat/matematiikka_lyhyt/hvp_lopullinen.pdf",
+          "exam_id": 241425,
+          "content": {
+            "text": "### **7.** Verrannollisuuksia 12 p.\n\nTäydennä virkkeet. Vastauksia ei tarvitse perustella. Oikea vastaus 1–2 p., väärä vastaus 0 p., ei vastausta 0 p. Jos olet aloittanut tehtävään vastaamisen, mutta et haluakaan jättää tehtävää arvosteltavaksi, poista vastauksesi valitsemalla pudotusvalikosta tyhjä rivi.",
+            "displayNumber": "7."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "ba4a6550-a82d-45e3-989b-b5b71f0196e0",
+            "71e6eb93-3a73-4612-a5c7-8d6b2be8a8e1",
+            "07da4e9a-dfc9-4fa0-8d91-294aa6ede14e",
+            "6fbbb14b-68f1-4b5e-a79c-448b880ae234",
+            "251a7afc-774e-4559-ad76-7e66435fc5ab",
+            "7cb99dd3-94a6-489c-87bf-3b6ae69d58a0",
+            "668ebdef-2ea3-410d-a7ca-82c51c80675f",
+            "7972f3cb-7cdd-4d90-b65d-6c069ef03ad1",
+            "395878c4-64ec-4b6a-af2a-36b8940a4d90",
+            "ab23e4f6-3c2a-46d1-8bff-42845d0faa16",
+            "8331af95-3b24-4eb6-8aa6-cbcb2ce12da8",
+            "1bcc7981-79e5-4458-b0f3-503d046429d4"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-11-27T07:16:27.242739",
+          "max_score": null,
+          "groupping": null,
+          "id": 7498346,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "954aadc8-8d9e-4178-82f4-c8c6db799b47",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2025-04-03T12:39:34.575812"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Pickin lause 12 p.\n\n#### Aineisto\n\n1.) [LINK text=Kuva: Tasokuvio A|url=https://yle.fi/plus/abitreenit/2025/kevat/matematiikka_lyhyt/attachments/index.html#5.A]\n\n2.) [LINK text=Kuva: Tasokuvio B|url=https://yle.fi/plus/abitreenit/2025/kevat/matematiikka_lyhyt/attachments/index.html#5.B]\n\n&NewLine;\n\nPickin lause vuodelta 1899 liittyy tasogeometriaan ja monikulmioiden pinta-aloihin. Monikulmio on piirretty ruudukkoon niin, että sen kaikki kärkipisteet sijaitsevat viivojen risteyskohdissa eli hilapisteissä. Lauseen mukaan tietyntyyppisten monikulmioiden pinta-ala voidaan tällöin laskea kaavalla\n\n&NewLine;\n\n[MATH text=(*)\\qquad A = S + \\frac{R}2 - 1],\n\n&NewLine;\n\njossa A on monikulmion pinta-ala ruutuina, S on monikulmion sisälle jäävien hilapisteiden lukumäärä ja R on monikulmion reunalla olevien hilapisteiden lukumäärä.\n\nLaske kuvioiden pinta-alat ja osoita, että kaava (*) pitää paikkansa tasokuvion 5.A tapauksessa, mutta ei pidä paikkaansa tasokuvion 5.B tapauksessa.",
+          "deleted_at": null,
+          "feedback": "Jotta piste voi olla ympyränkaarella, tulee päteä [MATH text=|x|\\leq\\sqrt{9}=3] ja [MATH text=|y|\\leq\\sqrt{9}=3]. (2 p.)\n\nVoidaan testata: Jos [MATH text=x=\\pm3], niin [MATH text=y^2=9-(\\pm3)^2], eli [MATH text=y=0]. Jos [MATH text=x=\\pm2], niin [MATH text=y^2=9-4=5], eli ei ratkaisua. Jos [MATH text=x=\\pm1], niin [MATH text=y^2=9-1=8], eli ei ratkaisua. Jos [MATH text=x=0], niin [MATH text=y=3] vastaavasti kuin edellä. (2 p.)\n\nAinoat ratkaisut ovat siis (0, 3), (0, -3), (3, 0) ja (-3, 0), eli pisteitä on neljä. (1 p.)\n\nPiste on ympyrän sisällä, ei kaarella, jos [MATH text=x^2+y^2<9]. (1 p.)\n\nNyt on siis oltava [MATH text=|x|<\\sqrt{9}=3], eli [MATH text=|x|\\leq2]. (2 p.)\n\nVoidaan testata: Jos [MATH text=x=\\pm2], niin [MATH text=|y|<9-(\\pm2)^2=5] eli y voi saada kokonaislukuarvot väliltä [-2, 2]. Tällaisia pisteitä on siis 5. (2 p.)\n\nJos [MATH text=x=\\pm1], niin [MATH text=|y|<9-(\\pm1)^2=8], eli y voi saada kokonaislukuarvot väliltä [-2, 2]. Tällaisia pisteitä on jälleen 5. Jos [MATH text=x=0], niin [MATH text=|y|<9], eli y voi taas saada kokonaislukuarvot väliltä [-2, 2]. Myös tällaisia pisteitä on 5. (1 p.)\n\nPisteitä on siis yhteensä 15. (1 p.)",
+          "exam_id": 241425,
+          "content": {
+            "text": "### Pickin lause 12 p.\n\n#### Aineisto\n\n1.) [LINK text=Kuva: Tasokuvio A|url=https://yle.fi/plus/abitreenit/2025/kevat/matematiikka_lyhyt/attachments/index.html#5.A]\n\n2.) [LINK text=Kuva: Tasokuvio B|url=https://yle.fi/plus/abitreenit/2025/kevat/matematiikka_lyhyt/attachments/index.html#5.B]\n\n&NewLine;\n\nPickin lause vuodelta 1899 liittyy tasogeometriaan ja monikulmioiden pinta-aloihin. Monikulmio on piirretty ruudukkoon niin, että sen kaikki kärkipisteet sijaitsevat viivojen risteyskohdissa eli hilapisteissä. Lauseen mukaan tietyntyyppisten monikulmioiden pinta-ala voidaan tällöin laskea kaavalla\n\n&NewLine;\n\n[MATH text=(*)\\qquad A = S + \\frac{R}2 - 1],\n\n&NewLine;\n\njossa A on monikulmion pinta-ala ruutuina, S on monikulmion sisälle jäävien hilapisteiden lukumäärä ja R on monikulmion reunalla olevien hilapisteiden lukumäärä.\n\nLaske kuvioiden pinta-alat ja osoita, että kaava (*) pitää paikkansa tasokuvion 5.A tapauksessa, mutta ei pidä paikkaansa tasokuvion 5.B tapauksessa.",
+            "displayNumber": "5."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-11-27T07:16:27.23574",
+          "max_score": null,
+          "groupping": null,
+          "id": 7494976,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "8bd4913c-4770-4e6d-b3b9-4ff2b812ddaa",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2025-04-02T13:18:52.550313"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Sähkösopimukset 12 p.\n\n#### Aineisto\n\n9.A [LINK text=Taulukko: Sähkönkulutus ja pörssisähkön hinta|url=https://yle.fi/plus/abitreenit/2025/kevat/matematiikka_lyhyt/attachments/index.html#9.A]\n\n&NewLine;\n\nViima on hankkimassa uutta sähkösopimusta. Eräs sähköyhtiö tarjoaa seuraavia sopimuksia:\n\n1. kiinteähintainen: 9,80 snt/kWh + 5,99 e/kk\n2. kiinteähintainen, jossa huomioidaan käyttövaikutus: 8,99 snt/kWh + käyttövaikutus + 3,99 e/kk.\n\nSähkösopimuksessa B esiintyvä käyttövaikutus (yksikkönä snt/kWh) lasketaan kuukausittain kaavalla X /Y -Z. Tässä X lasketaan kuukauden ajalta tuntikohtaisten sähkönkulutusten s_k ja tuntikohtaisten pörssisähkön hintojen h_k avulla kaavalla [MATH text=X = s 1 h 1 + s 2 h 2 + … + s 7 20 h 7 20 .]\n&NewLine;\n\n&NewLine;\n\nNimittäjä Y on kuukauden kokonaissähkönkulutus ja Z on tuntikohtaisten pörssisähkön hintojen h_k keskiarvo kuukauden ajalta. Käyttövaikutus voi olla myös negatiivinen.\n\nViima tarkastelee päätöksensä tueksi syyskuun sähkönkulutustaan. Taulukossa 9.A on esitetty syyskuun sähkönkulutus tunneittain sekä tunteja vastaavat pörssisähkön hinnat. Taulukossa otsikkoa seuraavalla rivillä esiintyvät siis muuttujien s_1 ja h_1 arvot, sitä seuraavalla s_2 ja h_2 ja niin edelleen.\n\nKummalla sopimuksella Viiman syyskuun sähkölasku olisi ollut pienempi?",
+          "deleted_at": null,
+          "feedback": "Koska tunteja on kuukaudessa [MATH text=720], vastaa Viiman otos [MATH text=4/720=1/180] osaa kuukaudesta. (1 p.)\n\nNäiden neljän tunnin sähkönkulutus on [MATH text=0{,}65+0{,}65+0{,}42+0{,}33=2{,}05], joten kuukauden kokonaiskulutus on arviolta [MATH text=2{,}05*180=369] kWh. (2 p.)\n\nKiinteähintaisella sopimuksella kustannukset ovat [MATH text=369*0{,}098+5{,}99\\approx42{,}16] euroa. (1 p.)\n\nLasketaan nyt käyttövaikutuksen suuruus toisessa sopimustyypissä. Aloitetaan laskemalla parametrit X, Y ja Z. Arvo [MATH text=Y=369] kWh, kuten on laskettu jo aiemmin.\n\nArvo X on kokonaishinta, jos maksetaan tunneittain. Näiltä neljältä tunnilta hinta on [MATH text=0{,}65*11{,}66344+0{,}65*2{,}50356+0{,}42*2{,}45272+0{,}33*2{,}35228=11{,}0149448], joten koko kuukaudelta hinta on [MATH text=180*11{,}0149448\\approx1983{,}69] senttiä. (2 p.)\n\nArvo Z on keskihinta, eli [MATH text=(11{,}66344+2{,}50356+2{,}45272+2{,}35228)/4=4{,}743] snt/kWh. (1 p.)\n\nKäyttövaikutus on [MATH text=X/Y-Z=1982{,}69/369-4{,}743\\approx0{,}6301] snt/kWh. (2 p.)\n\nKokonaiskustannus on siis senteissä [MATH text=369*(8{,}99+0{,}6301)+399\\approx3949] senttiä, eli [MATH text=39{,}49] euroa. (2 p.)\n\nKiinteähintainen sopimus on siis edullisempi Viiman arvion perusteella. (1 p.)",
+          "exam_id": 241425,
+          "content": {
+            "text": "### Sähkösopimukset 12 p.\n\n#### Aineisto\n\n9.A [LINK text=Taulukko: Sähkönkulutus ja pörssisähkön hinta|url=https://yle.fi/plus/abitreenit/2025/kevat/matematiikka_lyhyt/attachments/index.html#9.A]\n\n&NewLine;\n\nViima on hankkimassa uutta sähkösopimusta. Eräs sähköyhtiö tarjoaa seuraavia sopimuksia:\n\n1. kiinteähintainen: 9,80 snt/kWh + 5,99 e/kk\n2. kiinteähintainen, jossa huomioidaan käyttövaikutus: 8,99 snt/kWh + käyttövaikutus + 3,99 e/kk.\n\nSähkösopimuksessa B esiintyvä käyttövaikutus (yksikkönä snt/kWh) lasketaan kuukausittain kaavalla X /Y -Z. Tässä X lasketaan kuukauden ajalta tuntikohtaisten sähkönkulutusten s_k ja tuntikohtaisten pörssisähkön hintojen h_k avulla kaavalla [MATH text=X = s 1 h 1 + s 2 h 2 + … + s 7 20 h 7 20 .]\n&NewLine;\n\n&NewLine;\n\nNimittäjä Y on kuukauden kokonaissähkönkulutus ja Z on tuntikohtaisten pörssisähkön hintojen h_k keskiarvo kuukauden ajalta. Käyttövaikutus voi olla myös negatiivinen.\n\nViima tarkastelee päätöksensä tueksi syyskuun sähkönkulutustaan. Taulukossa 9.A on esitetty syyskuun sähkönkulutus tunneittain sekä tunteja vastaavat pörssisähkön hinnat. Taulukossa otsikkoa seuraavalla rivillä esiintyvät siis muuttujien s_1 ja h_1 arvot, sitä seuraavalla s_2 ja h_2 ja niin edelleen.\n\nKummalla sopimuksella Viiman syyskuun sähkölasku olisi ollut pienempi?",
+            "displayNumber": "9."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-11-27T07:16:27.233014",
+          "max_score": null,
+          "groupping": null,
+          "id": 7500541,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "6f56e90e-b114-4a61-873a-083c13d2ee5a",
+          "order_number": 11,
+          "multipart": true,
+          "created_at": "2025-04-03T13:21:17.544226"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Koulutus 18 p.\n\n#### Aineisto\n\n10.A [LINK text=Kuva: Koulutettujen ihmisten osuus|url=https://yle.fi/plus/abitreenit/2025/kevat/matematiikka_lyhyt/attachments/index.html#10.A]\n\n&NewLine;\n\nYksi kestävän kehityksen tavoitteista (SDG Tavoite 4.1, lyhenne sanoista Sustainable Development Goal) on tarjota riittävä koulutus mahdollisimman monille ihmisille. Eräs tapa arvioida tämän tavoitteen toteutumista on tarkastella niiden 25–29-vuotiaiden ihmisten prosenttiosuutta p(t), jotka ovat opiskelleet vähintään 12 vuotta. Prosenttiosuuden p(t) kehitys on esitetty kuvassa 10.A, jossa aika t on vuosiluku.\n\n&NewLine;\n\nLogistinen malli on eräs tapa ennustaa funktion p(t) arvoja. Sen mukaan\n\n&NewLine;\n\n[MATH text=p(t_2) =p(t_1) +c p(t_1) (100 -p(t_1)) (t_2 -t_1)],\n\n\n&NewLine;\n\n&NewLine;\n\nkun c on malliin liittyvä vakio.\n\n1. Mallinnetaan ensin korkean tulotason maiden koulutettujen osuutta. Määritä vakion c arvo niin, että alkuarvolla p(1970) =54 logistinen malli antaa tulokseksi p(2018) =84. Nämä luvut on poimittu kuvan 10.A käyrästä, jonka otsikko on \"High-income\". **(4 p.)**\n2. Koko maailman tapauksessa saadaan aikaväliä 1970–2018 käyttämällä vakion arvoksi c = 0{,}000404. Kuvassa 10.A tämä vastaa käyrää, jonka otsikko on \"Global\". Laske logistisen mallin mukainen vuoden 2030 prosenttiosuuden ennuste käyttämällä vain yhtä aikaväliä 2018–2030 ja kuvasta 10.A poimittua alkuarvoa. Miten hyvin tulos vastaa kuvan 10.A mukaista ennustetta vuodelle 2030? **(6 p.)**\n3. Minä vuonna osatehtävän 10.2 logistisen mallin mukaan koko maailman koulutettujen osuus p(t) saavuttaa 75 %:n rajan? Tutki tilannetta taulukoimalla prosenttiosuuden kehitystä vuoden välein alkaen vuodesta 2018. **(8 p.)**",
+          "deleted_at": null,
+          "feedback": "**Osatehtävä 10.1**\n\nSijoitettu kaavaan arvoista [MATH text=t_1=1970], [MATH text=t_2=2018], [MATH text=p(t_1)=54] ja [MATH text=p(t_2)=84]\n\n([MATH text=84=54+c*54(100-54)*(2018-1970)])\n\nvähintään 2 eri lukua oikeille paikoille (1 p.) ja kaikki oikein (1 p.). (2 p.)\n\nRatkaistu ohjelmistolla (kuvakaappaus) tai laskemalla [MATH text=c=\\frac{p(t_2)-p(t_1)}{p(t_1)(100-p(t_1))*(t_2-t_1)}] [1 p.]\n\n([MATH text=\\frac{84-54}{54*(100-54)*(2018-1970)}=\\frac{30}{119232}=\\frac{5}{19872}\\approx0{,}0002516103]) [MATH text\\approx0{,}000252]. (1 p.)\n\n**Osatehtävä 10.2**\n\nSijoitettu kaavaan arvoista [MATH text=t_1=2018], [MATH text=t_2=2030], [MATH text=p(t_1)=51] ja [MATH text=c=0{,}000404]\n\nvähintään 2 eri lukua oikeille paikoille (1 p.) ja kaikki oikein (1 p.). (2 p.)\n\n[MATH text=p(2030)=51+0{,}000404*51*(100-51)*(2030-2018)=63{,}115152] [MATH text\\approx63]. (2 p.)\n\nMallin hyvyyden arvioinnin pisteitys: (2 p.)\n\n2 pisteen vastaus: Vertailtu tilannetta monesta näkökulmasta ja 61 % osana vertailua TAI 2 %-yksikköä osana vertailua TAI laskelmilla analysoidaan tilannetta tarkemmin (lasketaan esimerkiksi prosentuaalinen virhe).\n\n1 pisteen vastaus: Vertailu ei ole monipuolinen, mutta vertailussa on mukana 61 % tai kyseessä muuten 2 pisteen vastaus, mutta sotkettu prosenttiyksiköt ja prosentit. Vastauksessa saa olla virheellistä terminologiaa.\n\n**Osatehtävä 10.3**\n\nSiirtymä seuraavaan vuoteen saadaan laskemalla [MATH text=p(t+1)=p(t)+c\\,p(t)(100-p(t))], sillä nyt aikavälin pituus on 1. (2 p.)\n\n[MATH text=p(2019)=p(2018)+0{,}000404*51*(100-51)=51+0{,}000404*51*(100-51)=52{,}009596]. (2 p.)\n\nVastaavasti [MATH text=p(2020)=52{,}009596+0{,}000404*52{,}009596*(100-52{,}009596)\\approx53{,}017964], [MATH text=p(2021)=53{,}017964+0{,}000404*53{,}017964*(100-53{,}017964)\\approx54{,}024284]. (2 p.)\n\nKoska [MATH text=p(2022)=54{,}024284+0{,}000404*54{,}024284*(100-54{,}024284)\\approx55{,}03], on kysytty vuosi 2022. (2 p.)",
+          "exam_id": 241425,
+          "content": {
+            "text": "### Koulutus 18 p.\n\n#### Aineisto\n\n10.A [LINK text=Kuva: Koulutettujen ihmisten osuus|url=https://yle.fi/plus/abitreenit/2025/kevat/matematiikka_lyhyt/attachments/index.html#10.A]\n\n&NewLine;\n\nYksi kestävän kehityksen tavoitteista (SDG Tavoite 4.1, lyhenne sanoista Sustainable Development Goal) on tarjota riittävä koulutus mahdollisimman monille ihmisille. Eräs tapa arvioida tämän tavoitteen toteutumista on tarkastella niiden 25–29-vuotiaiden ihmisten prosenttiosuutta p(t), jotka ovat opiskelleet vähintään 12 vuotta. Prosenttiosuuden p(t) kehitys on esitetty kuvassa 10.A, jossa aika t on vuosiluku.\n\n&NewLine;\n\nLogistinen malli on eräs tapa ennustaa funktion p(t) arvoja. Sen mukaan\n\n&NewLine;\n\n[MATH text=p(t_2) =p(t_1) +c p(t_1) (100 -p(t_1)) (t_2 -t_1)],\n\n\n&NewLine;\n\n&NewLine;\n\nkun c on malliin liittyvä vakio.\n\n1. Mallinnetaan ensin korkean tulotason maiden koulutettujen osuutta. Määritä vakion c arvo niin, että alkuarvolla p(1970) =54 logistinen malli antaa tulokseksi p(2018) =84. Nämä luvut on poimittu kuvan 10.A käyrästä, jonka otsikko on \"High-income\". **(4 p.)**\n2. Koko maailman tapauksessa saadaan aikaväliä 1970–2018 käyttämällä vakion arvoksi c = 0{,}000404. Kuvassa 10.A tämä vastaa käyrää, jonka otsikko on \"Global\". Laske logistisen mallin mukainen vuoden 2030 prosenttiosuuden ennuste käyttämällä vain yhtä aikaväliä 2018–2030 ja kuvasta 10.A poimittua alkuarvoa. Miten hyvin tulos vastaa kuvan 10.A mukaista ennustetta vuodelle 2030? **(6 p.)**\n3. Minä vuonna osatehtävän 10.2 logistisen mallin mukaan koko maailman koulutettujen osuus p(t) saavuttaa 75 %:n rajan? Tutki tilannetta taulukoimalla prosenttiosuuden kehitystä vuoden välein alkaen vuodesta 2018. **(8 p.)**",
+            "displayNumber": "10."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-11-27T07:16:27.229892",
+          "max_score": null,
+          "groupping": null,
+          "id": 7500971,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "73fd0466-adc6-40e9-8260-3564929c8790",
+          "order_number": 12,
+          "multipart": true,
+          "created_at": "2025-04-03T13:23:35.145104"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Avaruuslentoja, tekstiviestejä ja muuta mielenkiintoista 18 p.\n\n#### Aineisto\n\n11.A [LINK text=Kuva: Tekstiviestien vastaanottajien lukumäärät ja kirjeiden postimaksut|url=https://yle.fi/plus/abitreenit/2025/kevat/matematiikka_lyhyt/attachments/index.html#11.A]\n\n11.B [LINK text=Kuva: Avaruuslentojen ja sosiologian tohtorintutkintojen lukumäärät|url=https://yle.fi/plus/abitreenit/2025/kevat/matematiikka_lyhyt/attachments/index.html#11.B]\n\n&NewLine;\n\nKuvassa 11.A verrataan kirjeen postimaksua ja tekstiviestin vastaanottamiseen kykenevien yhdysvaltalaisten lukumäärää. Kuvassa 11.B verrataan kaupallisten avaruuslentojen ja sosiologian alan tohtorintutkintojen lukumäärää. Vastaa näiden aineistojen perusteella seuraaviin kysymyksiin. Tarvittaessa voit mitata kuvista lukuarvoja sopivassa ohjelmistossa.\n\n1. Minkä kahden peräkkäisen vuoden välillä kirjeen postimaksu muuttui eniten? **(4 p.)**\n2. Minä vuonna kaupallisten avaruuslentojen lukumäärä on ollut lähimpänä vuosien 1997–2009 keskiarvoa? **(8 p.)**\n3. Miten kuvissa 11.A ja 11.B näkyy muuttujien välinen korrelaatio? Kummassa tapauksessa on perustellumpaa arvioida, että ilmiöiden välillä on syy-seuraussuhde? **(6 p.)**",
+          "deleted_at": null,
+          "feedback": "**Osatehtävä 11.1**\n\nKahden muuttujan korrelaatio on niiden välinen lineaarinen yhteys. Korrelaatiokerroin on luku välillä [MATH text=[-1,1]]. Korrelaatio on vahvasti positiivinen, jos toisen muuttujan kasvaessa toinenkin kasvaa, ja toisen vähentyessä toinenkin vähenee. Korrelaatio on vahvasti negatiivinen, jos toisen muuttujan kasvaessa toinen vähenee, ja toisen vähentyessä toinen taas kasvaa. Korrelaatio on lähellä nollaa, jos tällaista yhteyttä ei löydy. (3 p.)\n\nEsimerkiksi pienen lapsen pituuden ja iän välillä on positiivinen korrelaatio. Vaikka pidemmät lapset eivät aina ole vanhempia kuin lyhyemmät lapset, niin pääpiirteittäin kuitenkin vanhemmat lapset ovat pidempiä kuin nuoremmat lapset. Sen sijaan esimerkiksi ajomatkalla on negatiivinen korrelaatio jäljellä olevan ajomatkan ja jo ajetun ajan välillä, sillä mitä enemmän on ajettu, sitä vähemmän on matkaa jäljellä. Aikuisen ihmisen pituuden ja omistamien kynien lukumäärän välinen korrelaatio on luultavasti aika lähellä nollaa, sillä ei ole todennäköistä, että näiden välillä olisi mitään yhteyttä. (3 p.)\n\n**Osatehtävä 11.2**\n\nKun on ajettu [MATH text=x] tuntia, on edetty vähintään [MATH text=50x] kilometriä ja korkeintaan [MATH text=70x] kilometriä. Ajan kasvaessa siis kasvaa myös matka, ja lisäksi kasvu on melko lineaarista. (4 p.)\n\nKysytty korrelaatio on siis vahvasti positiivinen. (2 p.)\n\n**Osatehtävä 11.3**\n\nJos aineisto on jakautunut melko tasaisesti yksikköympyrälle, niin x-koordinaatin kasvaessa y-koordinaatti voi pienentyä tai kasvaa riippuen siitä onko y-koordinaatti positiivinen vai negatiivinen. (4 p.)\n\nKysytty korrelaatio on siis lähellä nollaa. (2 p.)",
+          "exam_id": 241425,
+          "content": {
+            "text": "### Avaruuslentoja, tekstiviestejä ja muuta mielenkiintoista 18 p.\n\n#### Aineisto\n\n11.A [LINK text=Kuva: Tekstiviestien vastaanottajien lukumäärät ja kirjeiden postimaksut|url=https://yle.fi/plus/abitreenit/2025/kevat/matematiikka_lyhyt/attachments/index.html#11.A]\n\n11.B [LINK text=Kuva: Avaruuslentojen ja sosiologian tohtorintutkintojen lukumäärät|url=https://yle.fi/plus/abitreenit/2025/kevat/matematiikka_lyhyt/attachments/index.html#11.B]\n\n&NewLine;\n\nKuvassa 11.A verrataan kirjeen postimaksua ja tekstiviestin vastaanottamiseen kykenevien yhdysvaltalaisten lukumäärää. Kuvassa 11.B verrataan kaupallisten avaruuslentojen ja sosiologian alan tohtorintutkintojen lukumäärää. Vastaa näiden aineistojen perusteella seuraaviin kysymyksiin. Tarvittaessa voit mitata kuvista lukuarvoja sopivassa ohjelmistossa.\n\n1. Minkä kahden peräkkäisen vuoden välillä kirjeen postimaksu muuttui eniten? **(4 p.)**\n2. Minä vuonna kaupallisten avaruuslentojen lukumäärä on ollut lähimpänä vuosien 1997–2009 keskiarvoa? **(8 p.)**\n3. Miten kuvissa 11.A ja 11.B näkyy muuttujien välinen korrelaatio? Kummassa tapauksessa on perustellumpaa arvioida, että ilmiöiden välillä on syy-seuraussuhde? **(6 p.)**",
+            "displayNumber": "11."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-11-27T07:16:27.22654",
+          "max_score": null,
+          "groupping": null,
+          "id": 7501667,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "7a001d72-47da-4370-b43a-1d39370e5bc7",
+          "order_number": 13,
+          "multipart": true,
+          "created_at": "2025-04-03T13:35:57.137146"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Superkuu 12 p. \n\nKun Kuu on täydenkuun aikaan lähellä kiertoratansa Maata lähimpänä olevaa kohtaa (perigeum), sitä kutsutaan superkuuksi. Tämän vuosisadan suurin superkuu nähdään 6.12.2052, jolloin Kuun keskipisteen etäisyys Maan pinnalta on noin 350.000 kilometriä. Vastaava etäisyys Kuun kiertoradan kauimpana olevaan kohtaan (apogeum) on noin 401.000 kilometriä. Kuinka monta prosenttia suuremmassa kulmassa Kuu näkyy 6.12.2052 verrattuna pienimpään mahdolliseen kulmaan? Kuun säde on 1737 kilometriä.",
+          "deleted_at": null,
+          "feedback": "Tilanteen hahmottaminen\n\nMallinnettu kulmaa sanallisesti tai kuvan avulla. (Ympyrä ja kaksi suoraa, jotka muistuttavat tangentteja.) (1 p.)\n\nKuvattu sanallisesti tai piirretty suorakulmainen kolmio. Vaaditaan joko suorakulman merkki tai että tekstistä käy ilmi kolmion suorakulmaisuus. (1 p.)\n\nJoko oikea malli TAI maininta, että likimääräinen malli riittää. (Joko 0 tai 2 p.)\n\nTarkennus: Oikealla mallilla tarkoitetaan, että katselupisteestä piirretään tangentit kuulle, jolloin suorakulmat syntyvät kuun kehäpisteisiin. Likimääräisellä mallilla tarkoitetaan, että suorakulmat ovat kuun keskipisteessä etäisyysjanan ja kuun halkaisijan välillä, ja kuun sivuille tulevat suorat ovat näiden kolmioiden hypotenuusat.\n\nKulmien laskeminen\n\nylläolevista riveistä riippumaton piste Superkuun tapaus omaa tilannetta vastaavan trigonometrisen yhtälön avulla ([MATH text=\\sin(x)=\\frac{1737}{350\\,000}] TAI [MATH text=\\tan(x)=\\frac{1737}{350\\,000}]) JA ratkaistu yhtälö ([MATH text=x=0{,}2843519359\\ldots\\,^\\circ=0{,}004962877516\\ldots\\,\\text{rad}] TAI [MATH text=x=0{,}2843484341\\ldots\\,^\\circ=0{,}004962816399\\ldots\\,\\text{rad}]). (2+1 p.)\n\nKauimmaisin tapaus omaa tilannetta vastaavan trigonometrisen yhtälön avulla ([MATH text=\\sin(x)=\\frac{1737}{401\\,000}] TAI [MATH text=\\tan(x)=\\frac{1737}{401\\,000}]) JA ratkaistu yhtälö ([MATH text=x=0{,}2481872324\\ldots\\,^\\circ=0{,}004331684369\\ldots\\,\\text{rad}] TAI [MATH text=x=0{,}2481849041\\ldots\\,^\\circ=0{,}004331643731\\ldots\\,\\text{rad}]). (2+1 p.)\n\nSTOP: Seuraavat pisteet vain silloin, jos ratkaisussa on laskettu molempien tapausten kulmat.\n\nKoska halkaisija näkyy kaksinkertaisessa kulmassa kummassakin tapauksessa, tätä ei tarvitse huomioida suhteita vertaillessa TAI kerrottu molempien kulmien suuruudet kahdella. (1 p.)\n\nKulmien suhde vertailtu prosenttilaskulla\n\nSuhde laskettu oikein (esimerkiksi [MATH text=\\frac{0{,}2843519359\\ldots-0{,}2481849041\\ldots}{0{,}2481849041\\ldots}] ) ja saatu ((14,5715406... % ~~) 10 %, 15 % TAI 14,6 %. (vain nämä tarkkuudet) (1 p.)\n\nRatkaisukohtaiset erillisohjeet\n\nErikoistapaus: Asteet ja radiaanit sekaisin tai 0,284 astetta muuttuu maagisesti 28,4 asteeseen ja muut vastaavasti, -1 p. (vähennys vain kertaalleen)\n\nErikoistapaus: Sekoitettu säde ja halkaisija 1+1+0+3+3+1+1 (virhe jo kuvassa) tai 1+1+2+(1+1)+(1+1)+1+1 (virhe vasta laskussa) (max 10 p.)\n\nErikoistapaus: Vertailtu sivujen pituuksia 1+1+2+0+0+0+0+0+0 (max 4 p.)\n\nErikoistapaus: Luettu tehtävää väärin ja saatu etäisyyksiksi 350000+1737 ja 401000+1737: 1+1+2+2+2+1+1 (max 10 p.)\n\nErikoistapaus: Kulmat laskettu eri malleilla (oikea ja likimääräinen) 1+1+0+(2+1)+(2+1)+1+0 (max 9 p.)\n\nTAI (Ohjelmisto)\n\nMallinnettu molemmat kulmat kuvan avulla tai komennoilla. (2 p.)\n\nOikea mallinnus (tangentit kuulle) TAI epätarkan mallin selitys. (Joko 0 tai 2 p.)\n\nKulmien mittaaminen\n\nKuvan mittakaava vaikuttaa olevan oikein (1 p.)\n\nMitattu ensimmäinen kulma (1 p.)\n\nMitattu toinen kulma (1 p.)\n\nDokumentaatio/komennot\n\nNäkyvissä komennot kulman sivujen (suorien) tuottamiseen (2 p.)\n\nNäkyvissä komennot kulmien tuottamiseen (2 p.)\n\nKulmia vertailtu prosenttilaskulla\n\nKulmien suhde laskettu oikein ja saatu ((14,5715406... % [MATH text=\\approx]) 10 %, 15 % TAI 14,6 % (vain nämä tarkkuudet) (1 p.)\n\nRatkaisukohtaiset erillisohjeet\n\nErikoistapaus: Jos ohjelmistoratkaisussa laskettu puolikkailla kulmilla ilman perustelua, niin 2+2+1+0+1+2+2+1 (max 11 p.)",
+          "exam_id": 241425,
+          "content": {
+            "text": "### Superkuu 12 p. \n\nKun Kuu on täydenkuun aikaan lähellä kiertoratansa Maata lähimpänä olevaa kohtaa (perigeum), sitä kutsutaan superkuuksi. Tämän vuosisadan suurin superkuu nähdään 6.12.2052, jolloin Kuun keskipisteen etäisyys Maan pinnalta on noin 350.000 kilometriä. Vastaava etäisyys Kuun kiertoradan kauimpana olevaan kohtaan (apogeum) on noin 401.000 kilometriä. Kuinka monta prosenttia suuremmassa kulmassa Kuu näkyy 6.12.2052 verrattuna pienimpään mahdolliseen kulmaan? Kuun säde on 1737 kilometriä.",
+            "displayNumber": "8."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-11-27T07:16:27.217947",
+          "max_score": null,
+          "groupping": null,
+          "id": 7499770,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "51712c30-84fa-4c51-912e-6980dc580c72",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2025-04-03T13:13:39.457076"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Erään kolmion korkeus on 3 cm ja pinta-ala [MATH text=8 cm^2]. Sen kanssa yhdenmuotoisen kolmion korkeus on 9 cm ja pinta-ala [SELECT id=9] 2 p. ",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 241425,
+          "content": {
+            "text": "Erään kolmion korkeus on 3 cm ja pinta-ala [MATH text=8 cm^2]. Sen kanssa yhdenmuotoisen kolmion korkeus on 9 cm ja pinta-ala [SELECT id=9] 2 p. ",
+            "displayNumber": "7.2.2"
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-11-27T07:16:27.239846",
+          "max_score": 2,
+          "groupping": null,
+          "id": 7498357,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 9,
+              "parent": "251a7afc-774e-4559-ad76-7e66435fc5ab",
+              "choices": [
+                {
+                  "id": "2dcc58fe-9dea-4d95-b2ab-c2320b8bb5fb",
+                  "text": "12"
+                },
+                {
+                  "id": "dfc41be8-63e3-4aae-af62-7f331f5507ad",
+                  "text": "24"
+                },
+                {
+                  "id": "60cfe776-3a13-46f2-9cd8-0d6256e96989",
+                  "text": "36"
+                },
+                {
+                  "id": "e8d6c3f0-fe8b-4860-9664-090f05c37e4d",
+                  "text": "48"
+                },
+                {
+                  "id": "b2a24611-9e3a-4e6f-bb19-865fabacaa40",
+                  "text": "60"
+                },
+                {
+                  "id": "55bb7a72-7b4f-4fe1-8f5b-f0164d9fa8be",
+                  "text": "72",
+                  "correct": true
+                },
+                {
+                  "id": "66869442-7b96-48c9-bd48-474484f8d1ee",
+                  "text": "84"
+                },
+                {
+                  "id": "5a9c2de4-dda4-456f-9888-72d25c3ad145",
+                  "text": "96"
+                },
+                {
+                  "id": "6cbe981b-b853-46e7-bf04-6df19b9d6b9b",
+                  "text": "108"
+                },
+                {
+                  "id": "3e8ce931-fba1-4072-8aa6-28dde979d9ad",
+                  "text": "120"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "251a7afc-774e-4559-ad76-7e66435fc5ab",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2025-04-03T12:39:34.605297"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Tasasivuisen kolmion sivun pituus [SELECT id=8] 1 p. sen pinta-alaan.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 241425,
+          "content": {
+            "text": "Tasasivuisen kolmion sivun pituus [SELECT id=8] 1 p. sen pinta-alaan.",
+            "displayNumber": "7.2.1"
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-11-27T07:16:27.246354",
+          "max_score": 1,
+          "groupping": null,
+          "id": 7498356,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 8,
+              "parent": "6fbbb14b-68f1-4b5e-a79c-448b880ae234",
+              "choices": [
+                {
+                  "id": "c6cb6884-9cbf-4486-8d1a-535a347ffc8b",
+                  "text": "on suoraan verrannollinen"
+                },
+                {
+                  "id": "157ed388-f14e-4ea6-bf2a-632e66155f39",
+                  "text": "on kääntäen verrannollinen"
+                },
+                {
+                  "id": "182fb841-e0dc-49d3-9463-40d5d2902f77",
+                  "text": "ei ole suoraan eikä kääntäen verrannollinen",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "6fbbb14b-68f1-4b5e-a79c-448b880ae234",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2025-04-03T12:39:34.601924"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mikä on lausekkeen [MATH text=-7 x^2 +2 x (4 x -1)] arvo kohdassa [MATH text=x=2]? 2 p.\n\n[GAP id=1]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 241425,
+          "content": {
+            "text": "Mikä on lausekkeen [MATH text=-7 x^2 +2 x (4 x -1)] arvo kohdassa [MATH text=x=2]? 2 p.\n\n[GAP id=1]",
+            "displayNumber": "1.2"
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-11-27T07:16:27.255751",
+          "max_score": 2,
+          "groupping": null,
+          "id": 7494857,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "parent": "ee516694-acae-4c67-8d47-f4f531c2b55e",
+              "choices": [],
+              "correct": "0",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "ee516694-acae-4c67-8d47-f4f531c2b55e",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2025-04-02T12:44:59.278505"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mikä on pisteiden ([MATH text=-2, -2]) ja ([MATH text=1,4]) kautta kulkevan suoran kulmakerroin? 2 p.\n\n[GAP id=1]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 241425,
+          "content": {
+            "text": "Mikä on pisteiden ([MATH text=-2, -2]) ja ([MATH text=1,4]) kautta kulkevan suoran kulmakerroin? 2 p.\n\n[GAP id=1]",
+            "displayNumber": "1.3"
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-11-27T07:16:27.259061",
+          "max_score": 2,
+          "groupping": null,
+          "id": 7494858,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "parent": "4c671be9-3246-43f0-978c-ac1cda8ad759",
+              "choices": [],
+              "correct": "2",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "4c671be9-3246-43f0-978c-ac1cda8ad759",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2025-04-02T12:44:59.280792"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mikä on edellisen osatehtävän suoran vakiotermi? 2 p.\n\n[GAP id=1]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 241425,
+          "content": {
+            "text": "Mikä on edellisen osatehtävän suoran vakiotermi? 2 p.\n\n[GAP id=1]",
+            "displayNumber": "1.4"
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-11-27T07:16:27.262296",
+          "max_score": 2,
+          "groupping": null,
+          "id": 7494921,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "parent": "729b3290-ee95-490a-aea9-f9b1386f2ffb",
+              "choices": [],
+              "correct": "2",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "729b3290-ee95-490a-aea9-f9b1386f2ffb",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2025-04-02T12:57:39.383121"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Ratkaise yhtälö [MATH text=5x−17=43]. 2 p.\n\n[MATH text=x=][GAP id=1]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 241425,
+          "content": {
+            "text": "Ratkaise yhtälö [MATH text=5x−17=43]. 2 p.\n\n[MATH text=x=][GAP id=1]",
+            "displayNumber": "1.1"
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-11-27T07:16:27.265331",
+          "max_score": 2,
+          "groupping": null,
+          "id": 7494856,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "parent": "4388f57e-e17f-47d2-8bfe-58dff0ddb10f",
+              "choices": [],
+              "correct": "12",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "4388f57e-e17f-47d2-8bfe-58dff0ddb10f",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2025-04-02T12:44:59.275304"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Tasakylkisen kolmion kantakulmat ovat koordinaatiston pisteissä ([MATH text=1, 1]) ja ([MATH text=5, 1]) . Mikä on huippukulman [MATH text=x]-koordinaatti? 2 p. \n\n[GAP id=1]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 241425,
+          "content": {
+            "text": "Tasakylkisen kolmion kantakulmat ovat koordinaatiston pisteissä ([MATH text=1, 1]) ja ([MATH text=5, 1]) . Mikä on huippukulman [MATH text=x]-koordinaatti? 2 p. \n\n[GAP id=1]",
+            "displayNumber": "1.5"
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-11-27T07:16:27.26836",
+          "max_score": 2,
+          "groupping": null,
+          "id": 7494922,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "parent": "199c0ef9-1928-463e-8162-370b9d80641c",
+              "choices": [],
+              "correct": "3",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "199c0ef9-1928-463e-8162-370b9d80641c",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2025-04-02T12:57:39.385682"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mikä luku saadaan, kun ensimmäiset 50 positiivista paritonta kokonaislukua lasketaan yhteen, eli kuinka paljon on[MATH text= 1 +3 +]… [MATH text=+97 +99]? 2 p. \n\n[GAP id=1]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 241425,
+          "content": {
+            "text": "Mikä luku saadaan, kun ensimmäiset 50 positiivista paritonta kokonaislukua lasketaan yhteen, eli kuinka paljon on[MATH text= 1 +3 +]… [MATH text=+97 +99]? 2 p. \n\n[GAP id=1]",
+            "displayNumber": "1.6"
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-11-27T07:16:27.271409",
+          "max_score": 2,
+          "groupping": null,
+          "id": 7494923,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "parent": "c11b6c77-64f1-444b-8393-22b38df1fcc6",
+              "choices": [],
+              "correct": "2500",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "c11b6c77-64f1-444b-8393-22b38df1fcc6",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2025-04-02T12:57:39.387664"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**7.3 Täydennä virkkeet. 3p**",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 241425,
+          "content": {
+            "text": "**7.3 Täydennä virkkeet. 3p**"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-11-27T07:16:27.278052",
+          "max_score": null,
+          "groupping": null,
+          "id": 7498358,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "7cb99dd3-94a6-489c-87bf-3b6ae69d58a0",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2025-04-03T12:39:34.607822"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Jos auto kulkee tietyn matkan 2 tunnissa nopeudella 75 km/h, niin se kulkee saman matkan 1,5 tunnissa nopeudella [SELECT id=5] 2 p. km/h. ",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 241425,
+          "content": {
+            "text": "Jos auto kulkee tietyn matkan 2 tunnissa nopeudella 75 km/h, niin se kulkee saman matkan 1,5 tunnissa nopeudella [SELECT id=5] 2 p. km/h. ",
+            "displayNumber": "7.1.2"
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-11-27T07:16:27.281261",
+          "max_score": 2,
+          "groupping": null,
+          "id": 7498351,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 5,
+              "parent": "71e6eb93-3a73-4612-a5c7-8d6b2be8a8e1",
+              "choices": [
+                {
+                  "id": "d2102ac1-d382-4260-8ac9-28c4a7259103",
+                  "text": "60"
+                },
+                {
+                  "id": "6513c022-d92b-4f33-a40a-a7d7337afa2b",
+                  "text": "70"
+                },
+                {
+                  "id": "1dce3c6e-2f0e-4481-b038-3c6045e2f465",
+                  "text": "80"
+                },
+                {
+                  "id": "8197fead-b9a9-4156-ae2c-51a459d3946f",
+                  "text": "90"
+                },
+                {
+                  "id": "d05597a4-f7ed-4cd4-ae97-6755ace20df5",
+                  "text": "100",
+                  "correct": true
+                },
+                {
+                  "id": "2bb91f01-7fb8-4272-b326-241dffe42b56",
+                  "text": "110"
+                },
+                {
+                  "id": "88ac7573-9643-4769-8345-d56b1701959b",
+                  "text": "120"
+                },
+                {
+                  "id": "3905d5be-fb39-4003-82ab-dc4b36092175",
+                  "text": "130"
+                },
+                {
+                  "id": "adafe96b-2c08-43b9-a329-cd23ec88d14c",
+                  "text": "140"
+                },
+                {
+                  "id": "4245e71d-d930-48f2-bab5-efa2a33180af",
+                  "text": "150"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "71e6eb93-3a73-4612-a5c7-8d6b2be8a8e1",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2025-04-03T12:39:34.588956"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Muuttujien [MATH text=X ]ja [MATH text=Y ]tulo[MATH text= X Y] on vakio, joten muuttujat [MATH text=X ]ja [MATH text=Y  ] [SELECT id=10]1 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 241425,
+          "content": {
+            "text": "Muuttujien [MATH text=X ]ja [MATH text=Y ]tulo[MATH text= X Y] on vakio, joten muuttujat [MATH text=X ]ja [MATH text=Y  ] [SELECT id=10]1 p.",
+            "displayNumber": "7.4.1"
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-11-27T07:16:27.284175",
+          "max_score": 1,
+          "groupping": null,
+          "id": 7499768,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 10,
+              "parent": "ab23e4f6-3c2a-46d1-8bff-42845d0faa16",
+              "choices": [
+                {
+                  "id": "904e9022-9754-4a97-845d-d1d614f4e127",
+                  "text": "ovat suoraan verrannolliset"
+                },
+                {
+                  "id": "4c76182a-6488-4e9a-b051-a1dec8287098",
+                  "text": "ovat kääntäen verrannolliset",
+                  "correct": true
+                },
+                {
+                  "id": "25b18b9b-9a20-42d6-9b59-da7cb6a518b8",
+                  "text": "eivät ole suoraan eivätkä kääntäen verrannolliset"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "ab23e4f6-3c2a-46d1-8bff-42845d0faa16",
+          "order_number": 11,
+          "multipart": true,
+          "created_at": "2025-04-03T13:13:39.450298"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Jos 180 euroa maksavasta tuotteesta maksetaan 22,11 euroa arvonlisäveroa, niin [SELECT id=10] 2 p. euroa maksavasta tuotteesta maksetaan 29,48 euroa arvonlisäveroa.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 241425,
+          "content": {
+            "text": "Jos 180 euroa maksavasta tuotteesta maksetaan 22,11 euroa arvonlisäveroa, niin [SELECT id=10] 2 p. euroa maksavasta tuotteesta maksetaan 29,48 euroa arvonlisäveroa.",
+            "displayNumber": "7.3.2"
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-11-27T07:16:27.287334",
+          "max_score": 2,
+          "groupping": null,
+          "id": 7499766,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 10,
+              "parent": "7972f3cb-7cdd-4d90-b65d-6c069ef03ad1",
+              "choices": [
+                {
+                  "id": "fcf3044f-5dcc-4aed-b30a-79527bf0f884",
+                  "text": "150"
+                },
+                {
+                  "id": "bfaad1d9-b8e6-4e05-b533-379fa357d71f",
+                  "text": "160"
+                },
+                {
+                  "id": "9c70447a-c8b5-435e-b28b-9684bef87177",
+                  "text": "170"
+                },
+                {
+                  "id": "a23d8765-f2ad-40f7-80f3-9961e2334fe8",
+                  "text": "180"
+                },
+                {
+                  "id": "8b92ad43-27f6-4c6a-a25d-9457c38c6d4c",
+                  "text": "190"
+                },
+                {
+                  "id": "407596e1-d303-48ca-92d3-62c93e08bfbc",
+                  "text": "200"
+                },
+                {
+                  "id": "afc22de0-db17-499f-9b33-7b82985f265c",
+                  "text": "210"
+                },
+                {
+                  "id": "837ab68f-04ab-4dcd-9975-cbb22fe57cfe",
+                  "text": "220"
+                },
+                {
+                  "id": "5f772755-ae9e-40ef-87da-83cbee781506",
+                  "text": "230"
+                },
+                {
+                  "id": "d5582891-a1b1-4d74-bca8-d6491e1be21f",
+                  "text": "240",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "7972f3cb-7cdd-4d90-b65d-6c069ef03ad1",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2025-04-03T13:13:39.443843"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Tiedetään, että kun [MATH text=X =5], niin[MATH text= Y =7]. Tällöin [MATH text=X =10], kun [MATH text=Y = ] [SELECT id=10] 2 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 241425,
+          "content": {
+            "text": "Tiedetään, että kun [MATH text=X =5], niin[MATH text= Y =7]. Tällöin [MATH text=X =10], kun [MATH text=Y = ] [SELECT id=10] 2 p.",
+            "displayNumber": "7.4.2"
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-11-27T07:16:27.290483",
+          "max_score": 2,
+          "groupping": null,
+          "id": 7499769,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 10,
+              "parent": "8331af95-3b24-4eb6-8aa6-cbcb2ce12da8",
+              "choices": [
+                {
+                  "id": "ec9f3db7-a79c-4145-a057-9fbdcc6fb8a5",
+                  "text": "1,4"
+                },
+                {
+                  "id": "4118896d-bea0-460c-8935-24fe4d7b0408",
+                  "text": "3,5",
+                  "correct": true
+                },
+                {
+                  "id": "814e2e4e-81c0-495c-ade5-068b62f9874c",
+                  "text": "7"
+                },
+                {
+                  "id": "753704d8-1eca-4f64-9cb3-89811a36e2a3",
+                  "text": "14"
+                },
+                {
+                  "id": "c75becb9-8141-4203-8e0a-de2a71a96adc",
+                  "text": "28"
+                },
+                {
+                  "id": "5218bec5-1b59-4ef7-a45c-0749c9f46704",
+                  "text": "35"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "8331af95-3b24-4eb6-8aa6-cbcb2ce12da8",
+          "order_number": 12,
+          "multipart": true,
+          "created_at": "2025-04-03T13:13:39.453452"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Tuotteen hinta [SELECT id=10] 1 p. siitä maksettavaan arvonlisäveroon. ",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 241425,
+          "content": {
+            "text": "Tuotteen hinta [SELECT id=10] 1 p. siitä maksettavaan arvonlisäveroon. ",
+            "displayNumber": "7.3.1"
+          },
+          "images": null,
+          "settings": {
+            "points": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-11-27T07:16:27.293705",
+          "max_score": 1,
+          "groupping": null,
+          "id": 7498359,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 10,
+              "parent": "668ebdef-2ea3-410d-a7ca-82c51c80675f",
+              "choices": [
+                {
+                  "id": "f3877994-64d9-48cc-9944-8fe5953a80bc",
+                  "text": "on suoraan verrannollinen"
+                },
+                {
+                  "id": "c127e65d-25a1-4430-a449-2d3a28e319ae",
+                  "text": "on kääntäen verrannollinen"
+                },
+                {
+                  "id": "ec123ffd-5215-4953-bb46-5387c00c74f2",
+                  "text": "ei ole suoraan eikä kääntäen verrannollinen"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "668ebdef-2ea3-410d-a7ca-82c51c80675f",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2025-04-03T12:39:34.610247"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**7.1 Täydennä virkkeet. 3p**",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 241425,
+          "content": {
+            "text": "**7.1 Täydennä virkkeet. 3p**"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-11-27T07:16:27.301059",
+          "max_score": null,
+          "groupping": null,
+          "id": 7507192,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "1bcc7981-79e5-4458-b0f3-503d046429d4",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2025-04-09T12:32:38.612238"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "*Kokeen tehtävät loppuvat tähän.*",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 241425,
+          "content": {
+            "text": "*Kokeen tehtävät loppuvat tähän.*"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-11-27T07:16:27.309642",
+          "max_score": null,
+          "groupping": null,
+          "id": 7501709,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "1deca867-a44b-4831-92ee-e24f25fef26e",
+          "order_number": 14,
+          "multipart": true,
+          "created_at": "2025-04-03T13:36:17.106857"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**7.4 Täydennä virkkeet. 3p**",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 241425,
+          "content": {
+            "text": "**7.4 Täydennä virkkeet. 3p**"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-11-27T07:16:27.313931",
+          "max_score": null,
+          "groupping": null,
+          "id": 7499767,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "395878c4-64ec-4b6a-af2a-36b8940a4d90",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2025-04-03T13:13:39.447206"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**7.2 Täydennä virkkeet. 3p**",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 241425,
+          "content": {
+            "text": "**7.2 Täydennä virkkeet. 3p**"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-11-27T07:16:27.31798",
+          "max_score": null,
+          "groupping": null,
+          "id": 7498352,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "07da4e9a-dfc9-4fa0-8d91-294aa6ede14e",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2025-04-03T12:39:34.591374"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### **B-osa**\n\nVastaa neljään tehtävään.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 241425,
+          "content": {
+            "text": "### **B-osa**\n\nVastaa neljään tehtävään."
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-11-27T07:16:27.322079",
+          "max_score": null,
+          "groupping": null,
+          "id": 7495006,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "0bb7d6d0-0e33-47b7-a3bc-3596f6c993c7",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2025-04-02T13:34:31.229289"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### **A-osa**\n\nVastaa viiteen tehtävään.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 241425,
+          "content": {
+            "text": "### **A-osa**\n\nVastaa viiteen tehtävään."
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-11-27T07:16:27.329718",
+          "max_score": null,
+          "groupping": null,
+          "id": 7494751,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "8dae53e8-4377-449e-8614-3b17b9950268",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2025-04-02T12:20:16.523848"
+        }
+      ],
+      "name": "Matematiikka, lyhyt oppimäärä kevät 2025",
+      "settings": {},
+      "exam_type": "yo-koe",
+      "classification": {
+        "category": "",
+        "disable_saving": false,
+        "hide_review_buttons": false,
+        "exam_type": "yo-koe",
+        "year": "2025",
+        "language": "fi-FI",
+        "hide_statistics": false,
+        "show_exam_series": false,
+        "force_yletunnus": false,
+        "subject": "matematiikka-lyhyt",
+        "published": true,
+        "semester": "spring"
+      },
+      "published_at": "2025-05-15T10:53:16.000Z",
+      "language": "fi-FI",
+      "id": 241425,
+      "reviews": [],
+      "is_open": true,
+      "uuid": "6b6b16d6-74fa-4092-9db1-0e9bf8b4c2dc"
+    }
+  ]
+}

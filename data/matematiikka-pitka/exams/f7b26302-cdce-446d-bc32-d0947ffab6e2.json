@@ -1,0 +1,1009 @@
+{
+  "meta": {
+    "count": 1
+  },
+  "data": [
+    {
+      "tags": [
+        ""
+      ],
+      "main_text": "Koe koostuu 13 tehtävästä, joista vastataan kymmeneen. Tehtävät on jaettu kolmeen osaan. A-osassa on neljä kaikille pakollista tehtävää. B1-osassa on viisi tehtävää, joista vastataan kolmeen. B2-osassa on neljä tehtävää, joista vastataan kolmeen. Kaikki tehtävät arvostellaan pistein 0–12, joten kokeen maksimipistemäärä on 120.\n\n&NewLine;\n\nA-osassa saat käyttää koejärjestelmässä olevaa taulukkokirjaa ja perusohjelmia. A-osa palautetaan tehtävän 4 jälkeen olevalla painikkeella. Tämän jälkeen A-osan vastauksia ei voi enää muokata. A-osan palauttamisen jälkeen kaikki koejärjestelmän ohjelmat ovat käytettävissäsi. Voit vastata B-osien tehtäviin myös ennen A-osan palauttamista.\n\n&NewLine;\n\nUseimmissa tehtävissä kaikkien osatehtävien vastaukset kirjoitetaan samaan vastauskenttään. Jaottele vastauksesi osatehtävien mukaisesti. Halutessasi voit tuottaa vastausten tueksi piirroksia, kaavioita tai taulukoita ja liittää niistä kuvakaappauksen mihin tahansa tekstivastaukseen.\n\n&NewLine;\n\nÄlä jätä mitään merkintöjä sellaisen tehtävän vastaukselle varattuun tilaan, jota et halua jättää arvosteltavaksi.\n\n&NewLine;\n\n**Huom. Abitreenien harjoittelukokeessa ei voi käyttää kuvakaappauksia eikä kaavaeditoria.**\n",
+      "characters": null,
+      "deleted_at": null,
+      "series_uuids": [],
+      "questions": [
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Olkoon f ( x ) = 2 x 2 − x. Silloin funktion derivaatan arvo f ′ ( 1 ) on 2 p.\n\n&NewLine;\n\n[SELECT id=2]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 104255,
+          "content": {
+            "text": "Olkoon f ( x ) = 2 x 2 − x. Silloin funktion derivaatan arvo f ′ ( 1 ) on 2 p.\n\n&NewLine;\n\n[SELECT id=2]\n",
+            "displayNumber": "1.5."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-17T12:32:31.62883",
+          "max_score": 2,
+          "groupping": null,
+          "id": 3353618,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 2,
+              "parent": "c012b46a-e8be-4334-9f37-c59eefc78975",
+              "choices": [
+                {
+                  "id": "465a9fb6-a179-4289-90ce-597e21e6cffd",
+                  "text": "-10"
+                },
+                {
+                  "id": "0e8b00fd-535d-422a-b8e1-6b3516ed5372",
+                  "text": "-9"
+                },
+                {
+                  "id": "35127c7a-f939-44dd-83b4-c1b92f42ed9d",
+                  "text": "-8"
+                },
+                {
+                  "id": "f8dc91fd-2c47-4063-9c3b-91df55e271ea",
+                  "text": "-7"
+                },
+                {
+                  "id": "e45e44f7-d533-41c0-9697-c038e9f107e5",
+                  "text": "-6"
+                },
+                {
+                  "id": "80aa8c71-3d75-4398-9750-d2b93beb622d",
+                  "text": "-5"
+                },
+                {
+                  "id": "387fdc5a-fbae-4624-98e0-1e355f8b1da6",
+                  "text": "-4"
+                },
+                {
+                  "id": "2f080994-9fb0-4e99-894f-9f0201088a85",
+                  "text": "-3"
+                },
+                {
+                  "id": "bb8ca8a6-4111-4455-bd43-5bcb2e11b204",
+                  "text": "-2"
+                },
+                {
+                  "id": "76ce8632-ef2a-468d-8a2d-278fc1c5f82d",
+                  "text": "-1"
+                },
+                {
+                  "id": "52bd1450-2956-47d8-a8bf-49437b633676",
+                  "text": "0"
+                },
+                {
+                  "id": "d48823d2-c0e9-4418-a513-620e48f27559",
+                  "text": "1"
+                },
+                {
+                  "id": "25bf5a57-f3fa-45c5-bdff-cc2f2b0ffa1f",
+                  "text": "2"
+                },
+                {
+                  "id": "edb026b4-e66a-4508-aa97-5ce970ae07c6",
+                  "text": "3",
+                  "correct": true
+                },
+                {
+                  "id": "770c6578-155a-4bc2-994d-cebba7d5f3ba",
+                  "text": "4"
+                },
+                {
+                  "id": "22c1f9a1-d809-4a21-9a2c-a214b3eb340a",
+                  "text": "5"
+                },
+                {
+                  "id": "4a328e73-d4c0-4197-a45d-95306e928a5c",
+                  "text": "6"
+                },
+                {
+                  "id": "af9abb8a-a537-4c48-923a-ad2b49bcdd21",
+                  "text": "7"
+                },
+                {
+                  "id": "dc42a7e1-0317-41e6-84be-cc4a3e010d12",
+                  "text": "8"
+                },
+                {
+                  "id": "9e000c6e-0ab3-41d1-b131-21e0421dc96d",
+                  "text": "9"
+                },
+                {
+                  "id": "ac62b568-6109-4bce-be5e-705611589e7e",
+                  "text": "10"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "c012b46a-e8be-4334-9f37-c59eefc78975",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2021-07-02T11:51:59.726788"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Polynomien esitysmuodot 12 p.**\n\n&NewLine;\n\nOlkoot [MATH text=n\\ge1] kokonaisluku ja[MATH text=a\\_1\\ \\in R{,}\\ a\\_1\\ne0{,}], kaikille kokonaisluvuille[MATH text=0\\le i\\le n.]\n\n&NewLine;\n\nTutkitaan polynomeja\n\n[MATH text=P\\left(x\\right)=\\left(x-a\\_1\\right)\\left(r-a2\\right)\\ldots\\left(x-a\\_n\\right)=p\\_nx^n+p\\_{n-1^{x^{n-1}}+\\ldots+p1x+p\\_0}]\n\n&NewLine;\n\nja\n\n&NewLine;\n\n[MATH text=Q\\left(x\\right)=\\left(x-\\frac{1}{a\\_1}\\right)\\left(x-\\frac{1}{a\\_n}\\right)=q\\_nx^n+q\\_{n-1}x^{n-1}+\\ldots+q\\_1x+q0.]\n\n&NewLine;\n\nTässä siis kertoimet [MATH text=p\\_1ja\\ q\\_i], määräytyvät yhtälöiden perusteella annettujen lukujen [MATH text=a\\_j] avulla.\n\n&NewLine;\n\n&NewLine;\n\n1.Laske kaikki luvut [MATH text=p\\_1\\ ja\\ q\\_1{,}\\ kun\\ n=2{,}\\ a\\_1=2\\ ja\\ a\\_2=3.]. (2 p.)\n\n2.Ratkaise kaikki luvut [MATH text=p\\_1\\ ja\\ q\\_i] lukujen [MATH text=a\\_1\\ ja\\ a\\_2] avulla tapauksessa [MATH text=n=2.] (4 p.)\n\n3.Esitä luvut [MATH text=q\\_i\\ lukujen\\ p\\_j\\left(0\\le i\\le n{,}\\ 0\\le j\\le n\\right)]avulla yleisessä tapauksessa. (6 p.)",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso tehtävän ratkaisut täältä.|url=https://drive.google.com/file/d/1MKt66pC-9OBoGqSJ7UgL2l\\_jB\\_QMtSxJ/view]\n",
+          "exam_id": 104255,
+          "content": {
+            "text": "**Polynomien esitysmuodot 12 p.**\n\n&NewLine;\n\nOlkoot [MATH text=n\\ge1] kokonaisluku ja[MATH text=a\\_1\\ \\in R{,}\\ a\\_1\\ne0{,}], kaikille kokonaisluvuille[MATH text=0\\le i\\le n.]\n\n&NewLine;\n\nTutkitaan polynomeja\n\n[MATH text=P\\left(x\\right)=\\left(x-a\\_1\\right)\\left(r-a2\\right)\\ldots\\left(x-a\\_n\\right)=p\\_nx^n+p\\_{n-1^{x^{n-1}}+\\ldots+p1x+p\\_0}]\n\n&NewLine;\n\nja\n\n&NewLine;\n\n[MATH text=Q\\left(x\\right)=\\left(x-\\frac{1}{a\\_1}\\right)\\left(x-\\frac{1}{a\\_n}\\right)=q\\_nx^n+q\\_{n-1}x^{n-1}+\\ldots+q\\_1x+q0.]\n\n&NewLine;\n\nTässä siis kertoimet [MATH text=p\\_1ja\\ q\\_i], määräytyvät yhtälöiden perusteella annettujen lukujen [MATH text=a\\_j] avulla.\n\n&NewLine;\n\n&NewLine;\n\n1.Laske kaikki luvut [MATH text=p\\_1\\ ja\\ q\\_1{,}\\ kun\\ n=2{,}\\ a\\_1=2\\ ja\\ a\\_2=3.]. (2 p.)\n\n2.Ratkaise kaikki luvut [MATH text=p\\_1\\ ja\\ q\\_i] lukujen [MATH text=a\\_1\\ ja\\ a\\_2] avulla tapauksessa [MATH text=n=2.] (4 p.)\n\n3.Esitä luvut [MATH text=q\\_i\\ lukujen\\ p\\_j\\left(0\\le i\\le n{,}\\ 0\\le j\\le n\\right)]avulla yleisessä tapauksessa. (6 p.)",
+            "displayNumber": "13."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-17T12:32:31.623309",
+          "max_score": null,
+          "groupping": null,
+          "id": 3353671,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "00e20518-a119-430a-83ed-52571200ed89",
+          "order_number": 16,
+          "multipart": true,
+          "created_at": "2021-07-02T12:23:55.795413"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Matemaattista tekstiä 12 p.**\n\n&NewLine;\n\nAineisto\n\n10.A [LINK text=Teksti: Matematiikan tekstipätkiä|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-24\\_M\\_fi/attachments/index.html#10.A]\n\n&NewLine;\n\nMatemaattinen teksti rakentuu mm. käsitteiden määritelmistä, yleisesti pätevistä tuloksista (lauseet), tulosten todistuksista ja erikoistapauksiin sovelletuista laskuista (esimerkit).\n\n&NewLine;\n\n1.Valitse aineiston 10.A kunkin tekstin (a)–(c) kohdalla, onko kyseessä määritelmä, lause, todistus vai esimerkki. Vastauksia ei tarvitse tässä kohdassa perustella. (3 p.)\n\n2.Minkä lauseen kohdassa 1 valitsemasi todistus osoittaa todeksi? Muotoile lauseen sisältö täsmällisesti niin, että sen yhteys todistukseen käy ilmi. (4 p.)\n\n3.Kohdassa 1 valitsit yhden tekstin lauseeksi. Todista tämä lause. (5 p.)\n\n&NewLine;\n",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso tehtävän oikeat ratkaisut täältä.|url=https://drive.google.com/file/d/1MKt66pC-9OBoGqSJ7UgL2l\\_jB\\_QMtSxJ/view]\n",
+          "exam_id": 104255,
+          "content": {
+            "text": "**Matemaattista tekstiä 12 p.**\n\n&NewLine;\n\nAineisto\n\n10.A [LINK text=Teksti: Matematiikan tekstipätkiä|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-24\\_M\\_fi/attachments/index.html#10.A]\n\n&NewLine;\n\nMatemaattinen teksti rakentuu mm. käsitteiden määritelmistä, yleisesti pätevistä tuloksista (lauseet), tulosten todistuksista ja erikoistapauksiin sovelletuista laskuista (esimerkit).\n\n&NewLine;\n\n1.Valitse aineiston 10.A kunkin tekstin (a)–(c) kohdalla, onko kyseessä määritelmä, lause, todistus vai esimerkki. Vastauksia ei tarvitse tässä kohdassa perustella. (3 p.)\n\n2.Minkä lauseen kohdassa 1 valitsemasi todistus osoittaa todeksi? Muotoile lauseen sisältö täsmällisesti niin, että sen yhteys todistukseen käy ilmi. (4 p.)\n\n3.Kohdassa 1 valitsit yhden tekstin lauseeksi. Todista tämä lause. (5 p.)\n\n&NewLine;\n",
+            "displayNumber": "10."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-17T12:32:31.62061",
+          "max_score": null,
+          "groupping": null,
+          "id": 3353668,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "e485bdda-8881-4ae2-8e85-3f8e315b642a",
+          "order_number": 13,
+          "multipart": true,
+          "created_at": "2021-07-02T12:23:55.788456"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Pinta-alan arviointi simuloinnilla 12 p.**\n\n&NewLine;\n\nTasojoukon A pisteet (x, y) määräytyvät epäyhtälöistä [MATH text=0\\le x\\le2{,}0\\le y\\le4\\ ja\\ y\\ge x^2]. Tässä tehtävässä on tarkoitus arvioida joukon A pinta-alaa simulaation avulla käyttämällä sitä tietoa, että todennäköisyys on suoraan verrannollinen pinta-alaan. Arvotaan pisteitä (x, y) suorakulmiosta B, jonka määräävät epäyhtälöt [MATH text=0\\le x\\le2\\ ja\\ 0\\le y\\le4.]\n\n&NewLine;\n\n1.Tee sopivalla ohjelmistolla koodi, joka arpoo 1 000 pistettä suorakulmiosta B ja tulostaa vastauksena niiden pisteiden lukumäärän, jotka kuuluvat joukkoon A. Kerro sanallisesti ja sopivien kuvakaappausten avulla, miten toteutit koodisi. (Vihje: Voit käyttää esimerkiksi taulukkolaskennan satunnaislukugeneraattoria.) (6 p.)\n\n&NewLine;\n\n2.Hille ajoi kohdassa 1 tekemänsä koodin 10 kertaa ja sai alla olevat luvut. Laske tulosten keskiarvo ja arvioi tämän perusteella joukon A pinta-alaa. (6 p.)\n\n&NewLine;\n\nHillen koodin tulosteet: 673, 664, 672, 679, 667, 650, 640, 678, 660, 667\n",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso tehtävän oikeat ratkaisut täältä.|url=https://drive.google.com/file/d/1MKt66pC-9OBoGqSJ7UgL2l\\_jB\\_QMtSxJ/view]\n",
+          "exam_id": 104255,
+          "content": {
+            "text": "**Pinta-alan arviointi simuloinnilla 12 p.**\n\n&NewLine;\n\nTasojoukon A pisteet (x, y) määräytyvät epäyhtälöistä [MATH text=0\\le x\\le2{,}0\\le y\\le4\\ ja\\ y\\ge x^2]. Tässä tehtävässä on tarkoitus arvioida joukon A pinta-alaa simulaation avulla käyttämällä sitä tietoa, että todennäköisyys on suoraan verrannollinen pinta-alaan. Arvotaan pisteitä (x, y) suorakulmiosta B, jonka määräävät epäyhtälöt [MATH text=0\\le x\\le2\\ ja\\ 0\\le y\\le4.]\n\n&NewLine;\n\n1.Tee sopivalla ohjelmistolla koodi, joka arpoo 1 000 pistettä suorakulmiosta B ja tulostaa vastauksena niiden pisteiden lukumäärän, jotka kuuluvat joukkoon A. Kerro sanallisesti ja sopivien kuvakaappausten avulla, miten toteutit koodisi. (Vihje: Voit käyttää esimerkiksi taulukkolaskennan satunnaislukugeneraattoria.) (6 p.)\n\n&NewLine;\n\n2.Hille ajoi kohdassa 1 tekemänsä koodin 10 kertaa ja sai alla olevat luvut. Laske tulosten keskiarvo ja arvioi tämän perusteella joukon A pinta-alaa. (6 p.)\n\n&NewLine;\n\nHillen koodin tulosteet: 673, 664, 672, 679, 667, 650, 640, 678, 660, 667\n",
+            "displayNumber": "8."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-17T12:32:31.617885",
+          "max_score": null,
+          "groupping": null,
+          "id": 3353628,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "8cbcc3fd-35aa-4274-b686-10a216421d86",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2021-07-02T11:51:59.752099"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Afrikan tähti 12 p.**\n\n&NewLine;\n\nAineisto\n\n[LINK text=7.A Kuva: Afrikan tähti|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-24\\_M\\_fi/attachments/index.html#7.A]\n\n&NewLine;\n\nLiisa pelaa Afrikan tähti -peliä. Hän on löytänyt Afrikan tähden ja on palaamassa Kairoon voittaakseen pelin (aineisto 7.A). Hän on neljän askeleen päässä Kairosta. Kairoon saa pysähtyä, vaikka nopan silmäluku oikeuttaisi matkustamaan pidemmälle.\n\n&NewLine;\n\nJos hän heittää vähintään silmäluvun neljä, hän pääsee Kairoon ja voittaa pelin. Jos hän heittää silmäluvun kolme, hän voi olla varma, että seuraavalla heitolla hän pääsee Kairoon ja voittaa pelin. Liisa tarvitsee korkeintaan neljä heittoa päästäkseen Kairoon. Oletetaan, että kukaan muu ei voita peliä tätä ennen.\n\n&NewLine;\n\n1.Millä todennäköisyydellä Liisa voittaa ensimmäisellä heitolla? (2 p.)\n\n2.Millä todennäköisyydellä Liisa tarvitsee vähintään kolme heittoa päästäkseen Kairoon? (4 p.)\n\n3.Laske niiden heittojen lukumäärän odotusarvo, jotka Liisa tarvitsee päästäkseen Kairoon. (6 p.)\n\n&NewLine;\n",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso tehtävän oikeat vastaukset täältä.|url=https://drive.google.com/file/d/1MKt66pC-9OBoGqSJ7UgL2l\\_jB\\_QMtSxJ/view]\n",
+          "exam_id": 104255,
+          "content": {
+            "text": "**Afrikan tähti 12 p.**\n\n&NewLine;\n\nAineisto\n\n[LINK text=7.A Kuva: Afrikan tähti|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-24\\_M\\_fi/attachments/index.html#7.A]\n\n&NewLine;\n\nLiisa pelaa Afrikan tähti -peliä. Hän on löytänyt Afrikan tähden ja on palaamassa Kairoon voittaakseen pelin (aineisto 7.A). Hän on neljän askeleen päässä Kairosta. Kairoon saa pysähtyä, vaikka nopan silmäluku oikeuttaisi matkustamaan pidemmälle.\n\n&NewLine;\n\nJos hän heittää vähintään silmäluvun neljä, hän pääsee Kairoon ja voittaa pelin. Jos hän heittää silmäluvun kolme, hän voi olla varma, että seuraavalla heitolla hän pääsee Kairoon ja voittaa pelin. Liisa tarvitsee korkeintaan neljä heittoa päästäkseen Kairoon. Oletetaan, että kukaan muu ei voita peliä tätä ennen.\n\n&NewLine;\n\n1.Millä todennäköisyydellä Liisa voittaa ensimmäisellä heitolla? (2 p.)\n\n2.Millä todennäköisyydellä Liisa tarvitsee vähintään kolme heittoa päästäkseen Kairoon? (4 p.)\n\n3.Laske niiden heittojen lukumäärän odotusarvo, jotka Liisa tarvitsee päästäkseen Kairoon. (6 p.)\n\n&NewLine;\n",
+            "displayNumber": "7."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-17T12:32:31.615081",
+          "max_score": null,
+          "groupping": null,
+          "id": 3353627,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "41483355-1183-4754-a9ed-8c48ea5ee7ec",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2021-07-02T11:51:59.74956"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Peräaalto 12 p.**\n\n​\n\nAineisto\n\n[LINK text=Kuva: Funktion kuvaaja|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-24\\_M\\_fi/attachments/index.html#4.A]\n\n​\n\n1.Osoita, että funktion [MATH text=f\\left(x\\right)=\\frac{\\tan x}{2+\\tan^2x}]\n\n​\n\nsuurin arvo M välillä [MATH text=0\\le x<\\frac{\\pi}{2}\\ on\\ M=\\frac{\\sqrt{2}}{4}\\approx0{,}3536] Funktion kuvaaja on esitetty kuvassa 4.A. (9 p.)\n\n​\n\n2.Veden pinnalla vakionopeudella liikkuvan kappaleen (kuten veneen tai sorsan) taakse muodostuu V-kirjaimen muotoinen peräaalto, jonka avautumiskulma ei tietyillä oletuksilla riipu kappaleen nopeudesta. Kelvinin aaltoteorian mukaan tälle kulmalle [MATH text=a] on voimassa yhtälö\n\n​\n\n[MATH text=\\tan\\frac{a}{2}=M{,}]\n\n​\n\njossa M on kohdassa 1 laskettu arvo. Määritä kulman [MATH text=a\\in\\left[0°{,}\\ 180°\\right&#93;] likiarvo asteen tarkkuudella. (3 p.)\n",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso tehtävän oikeat vastaukset täältä.|url=https://drive.google.com/file/d/1MKt66pC-9OBoGqSJ7UgL2l\\_jB\\_QMtSxJ/view]\n",
+          "exam_id": 104255,
+          "content": {
+            "text": "**Peräaalto 12 p.**\n\n​\n\nAineisto\n\n[LINK text=Kuva: Funktion kuvaaja|url=http://yle.fi/plus/abitreenit/2021/Kevät/2021-03-24\\_M\\_fi/attachments/index.html#4.A]\n\n​\n\n1.Osoita, että funktion [MATH text=f\\left(x\\right)=\\frac{\\tan x}{2+\\tan^2x}]\n\n​\n\nsuurin arvo M välillä [MATH text=0\\le x<\\frac{\\pi}{2}\\ on\\ M=\\frac{\\sqrt{2}}{4}\\approx0{,}3536] Funktion kuvaaja on esitetty kuvassa 4.A. (9 p.)\n\n​\n\n2.Veden pinnalla vakionopeudella liikkuvan kappaleen (kuten veneen tai sorsan) taakse muodostuu V-kirjaimen muotoinen peräaalto, jonka avautumiskulma ei tietyillä oletuksilla riipu kappaleen nopeudesta. Kelvinin aaltoteorian mukaan tälle kulmalle [MATH text=a] on voimassa yhtälö\n\n​\n\n[MATH text=\\tan\\frac{a}{2}=M{,}]\n\n​\n\njossa M on kohdassa 1 laskettu arvo. Määritä kulman [MATH text=a\\in\\left[0°{,}\\ 180°\\right&#93;] likiarvo asteen tarkkuudella. (3 p.)\n",
+            "displayNumber": "4."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-17T12:32:31.612154",
+          "max_score": null,
+          "groupping": null,
+          "id": 3353623,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "e2795df2-c4fc-4b8f-a9fb-223140c3604d",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2021-07-02T11:51:59.738922"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Olkoon [MATH text=f ( x ) = ( 2 − x )^2]. Silloin funktion arvo f ( − 1 ) on 2 p.\n\n​\n\n[SELECT id=2]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 104255,
+          "content": {
+            "text": "Olkoon [MATH text=f ( x ) = ( 2 − x )^2]. Silloin funktion arvo f ( − 1 ) on 2 p.\n\n​\n\n[SELECT id=2]",
+            "displayNumber": "1.4."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-17T12:32:31.603312",
+          "max_score": 2,
+          "groupping": null,
+          "id": 3353617,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 2,
+              "parent": "9ac049d2-9704-415d-a05b-a75002cfc5dc",
+              "choices": [
+                {
+                  "id": "8bd77dda-13ca-40c3-9595-4b9237cf2140",
+                  "text": "-10"
+                },
+                {
+                  "id": "ff30ad63-4842-4736-b5bb-bf74e66a4df9",
+                  "text": "-9"
+                },
+                {
+                  "id": "057f99b3-7c77-487d-a29f-6ad6f0274b1d",
+                  "text": "-8"
+                },
+                {
+                  "id": "4e4f11a3-7f1d-4eeb-be37-fe563d86782f",
+                  "text": "-7"
+                },
+                {
+                  "id": "19c8e745-76e4-4294-9dbe-00956cd6e80c",
+                  "text": "-6"
+                },
+                {
+                  "id": "976e7cf4-3deb-4d2d-bfea-d33829d99132",
+                  "text": "-5"
+                },
+                {
+                  "id": "938f0ab2-1989-4a51-8c0b-7d1d1ac0d61d",
+                  "text": "-4"
+                },
+                {
+                  "id": "bf38ac70-325d-40b8-b74f-f23e82874469",
+                  "text": "-3"
+                },
+                {
+                  "id": "7069c04b-34ef-460f-8b6c-9402b5c4fb07",
+                  "text": "-2"
+                },
+                {
+                  "id": "3c6b15fd-0b6b-4838-8ba2-fb4f1d71e6d7",
+                  "text": "-1"
+                },
+                {
+                  "id": "b1f6eb0f-3726-4f5a-b781-972c6e2ee290",
+                  "text": "0"
+                },
+                {
+                  "id": "208c0b3e-f09d-4a0f-8d48-36983a9bb471",
+                  "text": "1"
+                },
+                {
+                  "id": "25fa3293-5593-416b-87e0-dc98937dbd72",
+                  "text": "2"
+                },
+                {
+                  "id": "bc42eb87-4269-4ebd-a613-809fb326fedd",
+                  "text": "3"
+                },
+                {
+                  "id": "040dcd63-b8bf-4ca3-8be9-71fcc23818f2",
+                  "text": "4"
+                },
+                {
+                  "id": "50600337-e4ad-403a-886e-7e654aea62cf",
+                  "text": "5"
+                },
+                {
+                  "id": "f3b729a4-19a7-41a5-9e77-6cf789085b56",
+                  "text": "6"
+                },
+                {
+                  "id": "48352617-c9b3-46ac-bc79-af4cfe05d468",
+                  "text": "7"
+                },
+                {
+                  "id": "f49f2e6f-7627-4852-89aa-b2060e1410b0",
+                  "text": "8"
+                },
+                {
+                  "id": "4b08cec9-413b-4ec0-9f7b-0b5171361de4",
+                  "text": "9",
+                  "correct": true
+                },
+                {
+                  "id": "4189e3c8-d127-42e7-b8e4-a04b37462756",
+                  "text": "10"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "9ac049d2-9704-415d-a05b-a75002cfc5dc",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2021-07-02T11:51:59.724231"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### B2-osa\n\nVastaa kolmeen tehtävään.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 104255,
+          "content": {
+            "text": "### B2-osa\n\nVastaa kolmeen tehtävään.\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-17T12:32:31.634452",
+          "max_score": null,
+          "groupping": null,
+          "id": 3353667,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "d4780615-e16a-48c0-9b6f-51f23164583c",
+          "order_number": 12,
+          "multipart": true,
+          "created_at": "2021-07-02T12:23:55.786447"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Paloittain määritelty funktio 12 p.**\n\n​\n\nFunktio f : R → R määritellään kaavalla\n\n​\n\n[MATH text=f\\left(x\\right)=\\begin{cases} x^3+1\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ kun\\ x\\le0\\\\ \\left(ax+1\\right)^2+a\\left(1-a\\right){,}\\ kun\\ x>0. \\end{cases}]\n\n​\n\nSelvitä, millä parametrin a ∈ R arvoilla f on kaikkialla jatkuva. (6 p.)\n\nSelvitä, millä parametrin a ∈ R arvoilla f on kaikkialla derivoituva. (6 p.)\n",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso tehtävän oikeat ratkaisut täältä.|url=https://drive.google.com/file/d/1MKt66pC-9OBoGqSJ7UgL2l\\_jB\\_QMtSxJ/view]\n",
+          "exam_id": 104255,
+          "content": {
+            "text": "**Paloittain määritelty funktio 12 p.**\n\n​\n\nFunktio f : R → R määritellään kaavalla\n\n​\n\n[MATH text=f\\left(x\\right)=\\begin{cases} x^3+1\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ kun\\ x\\le0\\\\ \\left(ax+1\\right)^2+a\\left(1-a\\right){,}\\ kun\\ x>0. \\end{cases}]\n\n​\n\nSelvitä, millä parametrin a ∈ R arvoilla f on kaikkialla jatkuva. (6 p.)\n\nSelvitä, millä parametrin a ∈ R arvoilla f on kaikkialla derivoituva. (6 p.)\n",
+            "displayNumber": "9."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-17T12:32:31.631878",
+          "max_score": null,
+          "groupping": null,
+          "id": 3353647,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "9acd68d7-4047-4fa0-a1bc-3632348c9c8c",
+          "order_number": 11,
+          "multipart": true,
+          "created_at": "2021-07-02T11:54:57.812555"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Kellarimestarin suunnitelma 12 p.**\n\n&NewLine;\n\nEräitä juomia ja maustekastikkeita kypsytetään puisissa astioissa, jolloin niihin liukenee astian seinämästä makuaineita. Kellarimestarilla on teoria, jonka mukaan säilytysaikana nesteeseen liukenevien makuaineiden määrä on suoraan verrannollinen säilytysastian pinta-alan ja tilavuuden osamäärään. Kellarimestari suunnittelee kypsyttävänsä erän tuotetta astioissa, jotka ovat tavallisten kanssa yhdenmuotoisia, mutta joiden tilavuus on vain neljäsosa tavallisesta. Astian materiaali ja kypsytysaika ovat samat kuin tavallisesti.\n\n&NewLine;\n\nKuinka monta prosenttia enemmän makuaineita tällöin liukenee tuotteeseen kellarimestarin teorian mukaan?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 104255,
+          "content": {
+            "text": "**Kellarimestarin suunnitelma 12 p.**\n\n&NewLine;\n\nEräitä juomia ja maustekastikkeita kypsytetään puisissa astioissa, jolloin niihin liukenee astian seinämästä makuaineita. Kellarimestarilla on teoria, jonka mukaan säilytysaikana nesteeseen liukenevien makuaineiden määrä on suoraan verrannollinen säilytysastian pinta-alan ja tilavuuden osamäärään. Kellarimestari suunnittelee kypsyttävänsä erän tuotetta astioissa, jotka ovat tavallisten kanssa yhdenmuotoisia, mutta joiden tilavuus on vain neljäsosa tavallisesta. Astian materiaali ja kypsytysaika ovat samat kuin tavallisesti.\n\n&NewLine;\n\nKuinka monta prosenttia enemmän makuaineita tällöin liukenee tuotteeseen kellarimestarin teorian mukaan?\n",
+            "displayNumber": "6."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-17T12:32:31.62596",
+          "max_score": null,
+          "groupping": null,
+          "id": 3353626,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "7e27c834-da38-430a-9c3d-966e4f5eb48e",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2021-07-02T11:51:59.746986"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Murtolausekkeen integraali 12 p**\n\n​\n\nJokaisesta osatehtävästä voi saada 4 pistettä.\n\n​\n\n1.Osoita, että yhtälö [MATH text=\\frac{4}{4-x^2}=\\frac{1}{2+x}+\\frac{1}{2-x}]\n\n​\n\non voimassa kaikilla [MATH text=x\\ne\\pm2].\n\n​\n\n2.Laske integraali [MATH text=\\int\\_{-1}^1\\frac{1}{2+x}dx.]\n\n​\n\n3.Laske integraali [MATH text=\\int\\_{-1}^1\\frac{1}{4-x^2}dx.]\n\n​\n\n​\n",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso tehtävän oikeat vastaukset täältä.|url=https://drive.google.com/file/d/1MKt66pC-9OBoGqSJ7UgL2l\\_jB\\_QMtSxJ/view]\n",
+          "exam_id": 104255,
+          "content": {
+            "text": "**Murtolausekkeen integraali 12 p**\n\n​\n\nJokaisesta osatehtävästä voi saada 4 pistettä.\n\n​\n\n1.Osoita, että yhtälö [MATH text=\\frac{4}{4-x^2}=\\frac{1}{2+x}+\\frac{1}{2-x}]\n\n​\n\non voimassa kaikilla [MATH text=x\\ne\\pm2].\n\n​\n\n2.Laske integraali [MATH text=\\int\\_{-1}^1\\frac{1}{2+x}dx.]\n\n​\n\n3.Laske integraali [MATH text=\\int\\_{-1}^1\\frac{1}{4-x^2}dx.]\n\n​\n\n​\n",
+            "displayNumber": "3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-17T12:32:31.609814",
+          "max_score": null,
+          "groupping": null,
+          "id": 3353622,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "0f164fe7-3c3b-4ec2-98e5-4eb68f78392d",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2021-07-02T11:51:59.736624"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Vektoreita ja analyyttistä geometriaa 12 p.**\n\n&NewLine;\n\nOlkoon [MATH text=\\overline{\\text{u}}\\ =\\ 5\\overline{\\text{i}}+12\\overline{\\text{j}}.]\n\n&NewLine;\n\n1.Määritä vektorin [MATH text=\\overline{u }] pituus. (3 p.)\n\n&NewLine;\n\n2.Määritä vektorin [MATH text=\\overline{u }] kanssa vastakkaissuuntainen vektori, jonka pituus on 5. (3 p.)\n\n&NewLine;\n\n3.Suora L kulkee pisteiden A = (4, 4) ja B = (−1 , −8) kautta. Ovatko suora L ja vektori  [MATH text=\\overline{u }] yhdensuuntaisia? (3 p.)\n\n&NewLine;\n\n4.Määritä suoran L yhtälö muodossa [MATH text=y=kx+b] (3 p.)",
+          "deleted_at": null,
+          "feedback": "Kaavaan sijoitus [MATH text=\\sqrt{5^2+12^2}] 1 p.\n\n[MATH text=\\sqrt{169}] (1 p.) \n\nPituus on 13. 1 p.\n\n\n\n\n\nVastakkaissuuntaisuuden ja miinusmerkin suhde ymmärretty [−u]. 1 p.\n\nYksikkövektori oikein TAI kerroin oikein 1 p.\n\n TAI \n\nYhtälöryhmän muodostaminen: pituusehto [MATH text=[x^2 + y^2 = 5^2 ]] 1 p.\n\nYhdensuuntaisuusehto [MATH text=[x = 5t, y = 12t]]. 1 p.\n\nYhtälöryhmä ratkaistu oikein [MATH text=-\\frac{25}{13}\\overline{i}-\\frac{60}{13}\\overline{j}]. 1 p.\n\n\n\nSuoran L kulmakerroin [MATH text=\\frac{4−(−8)}{4−(−1)}=\\frac{12}{5}] (1 p.) \n\nja vertailu ja u:n kulmakertoimen 12/5 kanssa (1 p.) TAI suoran suuntavektori 5i + 12j TAI −5i − 12j 2 p.\n\n⇒ perusteltu johtopäätös yhdensuuntaisuudesta. 1 p.",
+          "exam_id": 104255,
+          "content": {
+            "text": "**Vektoreita ja analyyttistä geometriaa 12 p.**\n\n&NewLine;\n\nOlkoon [MATH text=\\overline{\\text{u}}\\ =\\ 5\\overline{\\text{i}}+12\\overline{\\text{j}}.]\n\n&NewLine;\n\n1.Määritä vektorin [MATH text=\\overline{u }] pituus. (3 p.)\n\n&NewLine;\n\n2.Määritä vektorin [MATH text=\\overline{u }] kanssa vastakkaissuuntainen vektori, jonka pituus on 5. (3 p.)\n\n&NewLine;\n\n3.Suora L kulkee pisteiden A = (4, 4) ja B = (−1 , −8) kautta. Ovatko suora L ja vektori  [MATH text=\\overline{u }] yhdensuuntaisia? (3 p.)\n\n&NewLine;\n\n4.Määritä suoran L yhtälö muodossa [MATH text=y=kx+b] (3 p.)",
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-17T12:32:31.607132",
+          "max_score": null,
+          "groupping": null,
+          "id": 3353621,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "7e04fdcc-abc7-4dc5-a64b-8059385867bd",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2021-07-02T11:51:59.734225"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Lukujonoja ja funktioita 12 p.**\n\n&NewLine;\n\nOikea vastaus 2 p., väärä vastaus 0 p., ei vastausta 0 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 104255,
+          "content": {
+            "text": "**Lukujonoja ja funktioita 12 p.**\n\n&NewLine;\n\nOikea vastaus 2 p., väärä vastaus 0 p., ei vastausta 0 p.\n",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "b40d5ff6-1b62-4767-bd01-7ab233ec8151",
+            "ad95b888-1fb0-4889-ba2f-5d8aa58bdb21",
+            "0d07bec6-4a09-4b74-bbf6-9c6e88c959fc",
+            "9ac049d2-9704-415d-a05b-a75002cfc5dc",
+            "c012b46a-e8be-4334-9f37-c59eefc78975",
+            "77b69cab-412d-41fd-b14e-46006108c434"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-17T12:32:31.595223",
+          "max_score": null,
+          "groupping": null,
+          "id": 3353612,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "536fda35-4dd0-48c8-a9cc-387613eef6f8",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2021-07-02T11:51:59.71142"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Funktion derivaatan arvo kertoo 2 p.\n\n​\n\n[SELECT id=3]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 104255,
+          "content": {
+            "text": "Funktion derivaatan arvo kertoo 2 p.\n\n​\n\n[SELECT id=3]\n",
+            "displayNumber": "1.6."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-17T12:32:31.592373",
+          "max_score": 2,
+          "groupping": null,
+          "id": 3353619,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 3,
+              "parent": "77b69cab-412d-41fd-b14e-46006108c434",
+              "choices": [
+                {
+                  "id": "d65a8f73-cefa-4bfe-b48c-4424e283469d",
+                  "text": "funktion arvon"
+                },
+                {
+                  "id": "0b69f901-f4cd-4360-bbe6-3316cc80a3a3",
+                  "text": "funktion suurimman arvon"
+                },
+                {
+                  "id": "3efcc636-503d-4c24-89e1-95b66b29d218",
+                  "text": "funktion maksimikohdan"
+                },
+                {
+                  "id": "778a8161-9496-4f74-ac3f-508206e721d8",
+                  "text": "funktion kuvaajan tangentin kulmakertoimen",
+                  "correct": true
+                },
+                {
+                  "id": "e1b10283-e43c-44b0-a623-901734afcea4",
+                  "text": "funktion kuvaajan ja x-akselin välisen alueen pinta-alan"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "77b69cab-412d-41fd-b14e-46006108c434",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2021-07-02T11:51:59.729358"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Rantatontti 12 p.**\n\n&NewLine;\n\nMatti omistaa järven rannalla suorakulmaisen kolmion muotoisen metsäpalstan, jonka kateettien pituudet ovat 150 m ja 120 m. Pidempi kateetti on suoralla rantaviivalla. Matti myy palstastaan Marjalle pinta-alaltaan mahdollisimman suuren suorakulmion muotoisen rantatontin, jonka kaksi sivua ovat metsäpalstan kateeteilla. Mitkä ovat Marjan ostaman rantatontin sivujen pituudet?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 104255,
+          "content": {
+            "text": "**Rantatontti 12 p.**\n\n&NewLine;\n\nMatti omistaa järven rannalla suorakulmaisen kolmion muotoisen metsäpalstan, jonka kateettien pituudet ovat 150 m ja 120 m. Pidempi kateetti on suoralla rantaviivalla. Matti myy palstastaan Marjalle pinta-alaltaan mahdollisimman suuren suorakulmion muotoisen rantatontin, jonka kaksi sivua ovat metsäpalstan kateeteilla. Mitkä ovat Marjan ostaman rantatontin sivujen pituudet?\n",
+            "displayNumber": "5."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-17T12:32:31.586312",
+          "max_score": null,
+          "groupping": null,
+          "id": 3353625,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "c7181f49-1d55-4ce4-accb-2f6c0068e84e",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2021-07-02T11:51:59.744428"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Piilotetut pallot 12 p.**\n\n&NewLine;\n\nPöydällä on kolme 3-säteistä palloa, joista kukin pallo koskettaa kahta muuta. Pallot yritetään peittää puolipallon muotoisella kuvulla, jonka säde on R. Kupu on kuitenkin liian pieni, jolloin sen reuna jää joka kohdassa 1 yksikön korkeudelle pöydästä. Määritä säteen R tarkka arvo.\n",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso tehtävän oikea ratkaisu täältä.|url=https://drive.google.com/file/d/1MKt66pC-9OBoGqSJ7UgL2l\\_jB\\_QMtSxJ/view]\n",
+          "exam_id": 104255,
+          "content": {
+            "text": "**Piilotetut pallot 12 p.**\n\n&NewLine;\n\nPöydällä on kolme 3-säteistä palloa, joista kukin pallo koskettaa kahta muuta. Pallot yritetään peittää puolipallon muotoisella kuvulla, jonka säde on R. Kupu on kuitenkin liian pieni, jolloin sen reuna jää joka kohdassa 1 yksikön korkeudelle pöydästä. Määritä säteen R tarkka arvo.\n",
+            "displayNumber": "12."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-17T12:32:31.578507",
+          "max_score": null,
+          "groupping": null,
+          "id": 3353670,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "11616f0e-583c-414d-aae7-ebd32f84ea5e",
+          "order_number": 15,
+          "multipart": true,
+          "created_at": "2021-07-02T12:23:55.792952"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Lukujono (1, 2, 4, 7, . . . ) 2 p.\n\n​\n\n[SELECT id=1]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 104255,
+          "content": {
+            "text": "Lukujono (1, 2, 4, 7, . . . ) 2 p.\n\n​\n\n[SELECT id=1]\n",
+            "displayNumber": "1.1."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-17T12:32:31.572422",
+          "max_score": 2,
+          "groupping": null,
+          "id": 3353613,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "parent": "b40d5ff6-1b62-4767-bd01-7ab233ec8151",
+              "choices": [
+                {
+                  "id": "d741ef57-a490-48f0-b0a0-1dac5cdc0adc",
+                  "text": "voi olla aritmeettinen"
+                },
+                {
+                  "id": "73b194bb-ea7a-4308-9137-f430bc1b1589",
+                  "text": "voi olla geometrinen"
+                },
+                {
+                  "id": "cb7d923f-c43b-414d-8c0a-6854b3281aae",
+                  "text": "voi olla sekä aritmeettinen että geometrinen"
+                },
+                {
+                  "id": "2888185e-3d1e-4051-82f5-7b60146b4055",
+                  "text": "ei voi olla aritmeettinen eikä geometrinen",
+                  "correct": true
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "b40d5ff6-1b62-4767-bd01-7ab233ec8151",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2021-07-02T11:51:59.713919"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Lukujono (32, 16, 8, 4, . . . ) 2 p.\n\n&NewLine;\n\n[SELECT id=1]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 104255,
+          "content": {
+            "text": "Lukujono (32, 16, 8, 4, . . . ) 2 p.\n\n&NewLine;\n\n[SELECT id=1]\n",
+            "displayNumber": "1.2."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-17T12:32:31.597777",
+          "max_score": 2,
+          "groupping": null,
+          "id": 3353614,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "parent": "ad95b888-1fb0-4889-ba2f-5d8aa58bdb21",
+              "choices": [
+                {
+                  "id": "3b8ca1f8-15ab-46d2-ae0c-55f0a52f1e09",
+                  "text": "voi olla aritmeettinen"
+                },
+                {
+                  "id": "aa6bfe27-57a0-449d-858b-4f041d01f29c",
+                  "text": "voi olla geometrinen",
+                  "correct": true
+                },
+                {
+                  "id": "d04218d8-0c99-4e04-93eb-7a48efbc073d",
+                  "text": "voi olla sekä aritmeettinen että geometrinen"
+                },
+                {
+                  "id": "d20933cf-2a8c-4b51-b140-e55ed221cf53",
+                  "text": "ei voi olla aritmeettinen eikä geometrinen"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "ad95b888-1fb0-4889-ba2f-5d8aa58bdb21",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2021-07-02T11:51:59.716527"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Kokonaislukuja 12 p.**\n\n&NewLine;\n\n1.Kumpi luvuista [MATH text=99^{100^{101}}ja\\ 101^{100^{99}}] on suurempi? (4 p.)\n\n&NewLine;\n\n2.Lukujono [MATH text=a\\_n] määritellään rekursiivisesti kaavoilla [MATH text=a\\_1=1{,}\\ a\\_{2n}=a\\_n\\ ja\\ a\\_{2n+1}=1-a\\_{n{,}}], kun [MATH text=n] = 1, 2, 3, … Määritä lukujonon seitsemäs jäsen [MATH text=a\\_7\\ ja\\ 2021.\\ jäsen\\ a\\_{2021}.]\n",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso tehtävän ratkaisu täältä.|url=https://drive.google.com/file/d/1MKt66pC-9OBoGqSJ7UgL2l\\_jB\\_QMtSxJ/view]\n",
+          "exam_id": 104255,
+          "content": {
+            "text": "**Kokonaislukuja 12 p.**\n\n&NewLine;\n\n1.Kumpi luvuista [MATH text=99^{100^{101}}ja\\ 101^{100^{99}}] on suurempi? (4 p.)\n\n&NewLine;\n\n2.Lukujono [MATH text=a\\_n] määritellään rekursiivisesti kaavoilla [MATH text=a\\_1=1{,}\\ a\\_{2n}=a\\_n\\ ja\\ a\\_{2n+1}=1-a\\_{n{,}}], kun [MATH text=n] = 1, 2, 3, … Määritä lukujonon seitsemäs jäsen [MATH text=a\\_7\\ ja\\ 2021.\\ jäsen\\ a\\_{2021}.]\n",
+            "displayNumber": "11."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-17T12:32:31.600722",
+          "max_score": null,
+          "groupping": null,
+          "id": 3353669,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "05a5fe79-69e1-4f52-b249-c677d0205371",
+          "order_number": 14,
+          "multipart": true,
+          "created_at": "2021-07-02T12:23:55.790678"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Lukujono (7, 9, 11, 13, . . . ) 2 p.\n\n&NewLine;\n\n[SELECT id=1]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 104255,
+          "content": {
+            "text": "Lukujono (7, 9, 11, 13, . . . ) 2 p.\n\n&NewLine;\n\n[SELECT id=1]\n",
+            "displayNumber": "1.3."
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-06-17T12:32:31.636895",
+          "max_score": 2,
+          "groupping": null,
+          "id": 3353615,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "parent": "0d07bec6-4a09-4b74-bbf6-9c6e88c959fc",
+              "choices": [
+                {
+                  "id": "bf4bb3e5-f89d-46b7-8ef9-4a7aa09d35cc",
+                  "text": "voi olla aritmeettinen",
+                  "correct": true
+                },
+                {
+                  "id": "0b6499bb-c429-40f5-8a17-8e1abb49236d",
+                  "text": "voi olla geometrinen"
+                },
+                {
+                  "id": "1fd9071a-8e32-4930-a971-4d7fbaef9778",
+                  "text": "voi olla sekä aritmeettinen että geometrinen"
+                },
+                {
+                  "id": "4a8dd437-befa-4741-95f9-1c13baea7199",
+                  "text": "ei voi olla aritmeettinen eikä geometrinen"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "0d07bec6-4a09-4b74-bbf6-9c6e88c959fc",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2021-07-02T11:51:59.719109"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### B1-osa\n\nVastaa kolmeen tehtävään.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 104255,
+          "content": {
+            "text": "### B1-osa\n\nVastaa kolmeen tehtävään.\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-17T12:32:31.639195",
+          "max_score": null,
+          "groupping": null,
+          "id": 3353624,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "4088d5ca-6be1-4cba-8ffc-f1c00be5e320",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2021-07-02T11:51:59.741889"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### A-osa\n\nVastaa neljään tehtävään.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 104255,
+          "content": {
+            "text": "### A-osa\n\nVastaa neljään tehtävään.\n"
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-06-17T12:32:31.641873",
+          "max_score": null,
+          "groupping": null,
+          "id": 3353611,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "28de62fa-5bfc-433b-8750-58c9d7f0d529",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2021-07-02T11:51:59.708422"
+        }
+      ],
+      "name": "Matematiikka, pitkä oppimäärä, kevät 2021",
+      "settings": {
+        "overrideTitle": true
+      },
+      "exam_type": "yo-koe",
+      "classification": {
+        "category": "",
+        "disable_saving": false,
+        "hide_review_buttons": false,
+        "exam_type": "yo-koe",
+        "year": "2021",
+        "language": "fi-FI",
+        "hide_statistics": false,
+        "show_exam_series": false,
+        "force_yletunnus": false,
+        "subject": "matematiikka-pitkä",
+        "published": true,
+        "semester": "spring"
+      },
+      "published_at": "2021-07-02T12:25:40.000Z",
+      "language": "fi-FI",
+      "id": 104255,
+      "reviews": [],
+      "is_open": true,
+      "uuid": "f7b26302-cdce-446d-bc32-d0947ffab6e2"
+    }
+  ]
+}

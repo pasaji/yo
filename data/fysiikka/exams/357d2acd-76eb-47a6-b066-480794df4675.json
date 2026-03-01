@@ -1,0 +1,2371 @@
+{
+  "meta": {
+    "count": 1
+  },
+  "data": [
+    {
+      "tags": [
+        ""
+      ],
+      "main_text": "Koe koostuu 11 tehtävästä, joista vastataan seitsemään. Tehtävät on jaettu kolmeen osaan. Osassa 1 on yksi kaikille pakollinen 20 pisteen tehtävä. Osassa 2 on seitsemän 15 pisteen tehtävää, joista vastataan neljään. Osassa 3 on kolme 20 pisteen tehtävää, joista vastataan kahteen. Kokeen maksimipistemäärä on 120. Kaikki annetut vastaukset tulee perustella, jos perusteleminen on vastausteknisesti mahdollista. Voit tuottaa vastausten tueksi piirroksia, kaavioita tai taulukoita ja liittää niistä kuvakaappauksen mihin tahansa tekstivastaukseen.\n\n&NewLine;\n\nÄlä jätä mitään merkintöjä sellaisen tehtävän vastaukselle varattuun tilaan, jota et halua jättää arvosteltavaksi.\n\n&NewLine;\n\nHuom.! Tehtävässä 4 on erillinen ohje vastaamatta jättämisestä.\n\n&NewLine;\n\nVastaa enintään 7 tehtävään.",
+      "characters": null,
+      "deleted_at": null,
+      "series_uuids": [],
+      "questions": [
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Akvaariossa kelluu muovinen leluvene, jossa on kivi. Kun kivi siirretään veneestä akvaarion pohjalle, vedenpinnan korkeus akvaariossa 2 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 176183,
+          "content": {
+            "text": "Akvaariossa kelluu muovinen leluvene, jossa on kivi. Kun kivi siirretään veneestä akvaarion pohjalle, vedenpinnan korkeus akvaariossa 2 p.",
+            "displayNumber": "1.6"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:24:39.964543",
+          "max_score": 2,
+          "groupping": null,
+          "id": 6085582,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "text": "voi nousta tai laskea riippuen veneen koosta.",
+              "parent": "1f6869ff-0c55-429a-919c-8a66f7807e41",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 2,
+              "text": "nousee.",
+              "parent": "1f6869ff-0c55-429a-919c-8a66f7807e41",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 3,
+              "text": "laskee.",
+              "parent": "1f6869ff-0c55-429a-919c-8a66f7807e41",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 4,
+              "text": "ei muutu.",
+              "parent": "1f6869ff-0c55-429a-919c-8a66f7807e41",
+              "choices": [],
+              "correct": false
+            }
+          ],
+          "uuid": "1f6869ff-0c55-429a-919c-8a66f7807e41",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2023-09-15T09:41:57.289342"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Erittäin pitkäkestoisessa sukelluksessa 65 metrin syvyydessä sukeltaja on hengittänyt paineistettua tavallista ilmaa, jossa on 78 % typpeä. Sukeltaja nousee liian äkillisesti pintaan, eikä yhtään ylimääräistä typpeä ehdi poistua sukeltajan kehosta. Määritä sukeltajan vereen ylimääräisestä typestä aiheutuneiden kuplien kokonaistilavuus millilitroissa. Sukeltajan veren tilavuus ja lämpötila ovat 5,0 litraa ja 37 °C. Ilmanpaine meren pinnan tasolla on 101,3 kPa. Henryn lain mukainen verrannollisuuskerroin typelle on 6,0 μmol/(m3 · Pa). 7 p.",
+          "deleted_at": null,
+          "feedback": "Veressä liuenneen typen konsentraatio on Henryn lain mukaan suoraan verrannollinen typen osapaineeseen, eli [MATH text=c=H_sp_{N2}], jossa [MATH text=Hs = 6,0 μmol/m^3]. Pa on verrannollisuuskerroin ja [MATH text=p_{N2}=0{,}78\\cdot p] on typen osapaine tietyllä\n\npaineella p. Ainemäärä saadaan kertomalla konsentraatio liuoksen tilavuudella, n = cV, jolloin vereen liuenneen typen ainemäärä 65 metrin syvyydessä on\n\n[MATH text=n_1=H_sp_{N2}V_0=0{,}78\\cdot(p_h+p_0)V_0],\n\njossa [MATH text=V_0]=5,0 l = 0,005 m3 on veren tilavuus, [MATH text=p_h] on hydrostaattinen paine ja [MATH text=p_0] = 101,3 kPa on ilmanpaine meren pinnan tasolla.\n\n&NewLine;\n\nPinnan tasolla vereen liuenneen typen ainemäärä on\n\n[MATH text=n_2=H_sp_{N2}V_0=H_s\\cdot0{,}78\\cdot p_0V_0]\n\njolloin ylimääräisen typen ainemäärä on\n\n[MATH text=n=n_1-n_2=H_s\\cdot0{,}78\\cdot(p_h+p_0-p_o)V_0=H_s\\cdot0{,}78\\cdot p_hV_0]\n\n(3 p.)\n\n&NewLine;\n\nTyppi on inertti kaasu ja käyttäytyy riittävän pienissä paineissa ideaalikaasun tavoin, jolloin ylimääräisen typen\n\ntilavuus voidaan ratkaista käyttäen ideaalikaasun tilanyhtälöä, pV = nRT.\n\n(2 p.)\n\n&NewLine;\n\nYlimääräisen typen tilavuus on\n\n[MATH text=V=\\frac{nRT}{p}=\\frac{1}{p_0}H_8\\cdot0{,}78\\cdot p_hV_0RT], jossa [MATH text=R=8{,}314510Pa\\ m^3/mol\\cdot K] ja T = 37°C = 273,15 K + 37°C = 310,15 K on lämpötila.\n\n&NewLine;\n\nKoska hydrostaattinen paine on ph = ρgh, jossa ρ =[MATH text=%1,0\\cdot*10^3kg/m^3] on veden tiheys, [MATH text=g = 9,81 m/s^2] putoamiskiihtyvyys ja h = 65 m on syvyys veden alla, saadaan\n\n[MATH text=V=\\frac{1}{p_0}H_8\\cdot0{,}78\\cdot pghV_0RT][MATH text==\\frac{1}{101300\\ Pa}\\cdot6{,}0\\cdot10^{-6}\\cdot\\frac{mol}{m^3Pa}\\cdot0{,}78\\cdot1{,}0\\cdot10^3\\ \\frac{kg}{m^3}\\cdot9{,}81\\ \\frac{m}{s^2}\\cdot65m\\cdot0{,}005m^3][MATH text=\\cdot8{,}314510\\ \\frac{Pa\\ m^3}{mol\\ K}\\cdot310{,}15\\ K\\ =\\ 0{,}00037984m^3\\approx380ml]\n\neli veressä syntyneiden typpikuplien kokonaistilavuus on noin 380 ml.\n\n(2 p.)",
+          "exam_id": 176183,
+          "content": {
+            "text": "Erittäin pitkäkestoisessa sukelluksessa 65 metrin syvyydessä sukeltaja on hengittänyt paineistettua tavallista ilmaa, jossa on 78 % typpeä. Sukeltaja nousee liian äkillisesti pintaan, eikä yhtään ylimääräistä typpeä ehdi poistua sukeltajan kehosta. Määritä sukeltajan vereen ylimääräisestä typestä aiheutuneiden kuplien kokonaistilavuus millilitroissa. Sukeltajan veren tilavuus ja lämpötila ovat 5,0 litraa ja 37 °C. Ilmanpaine meren pinnan tasolla on 101,3 kPa. Henryn lain mukainen verrannollisuuskerroin typelle on 6,0 μmol/(m3 · Pa). 7 p.",
+            "displayNumber": "10.2"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:24:39.937392",
+          "max_score": null,
+          "groupping": null,
+          "id": 6099617,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "967b5cfa-de52-47d1-8736-07713eb76dd8",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2023-09-15T14:11:15.272214"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Hajoamisen seurauksena syntyy myös gammasäteilyä, kun tytärytimen viritystila purkautuu. Määritä gammasäteilyn puoliintumispaksuus. Vertaile jodihoidossa syntyneen beeta- ja gammasäteilyn soveltuvuutta syöpäsolujen tuhoamiseen. 6 p.",
+          "deleted_at": null,
+          "feedback": "Heikennyslain mukaan gammasäteilyn intensiteetti kudoksessa pienenee puoleen matkalla\n\n[MATH text=x=\\frac{\\ln\\left(I_0\\bigg/_{\\!\\!\\!\\!\\!{ }}^{ }I\\right)}{\\mu}=\\frac{\\ln2}{0{,}11\\ \\frac{1}{cm}}\\approx6\\ cm]\n\n\n\nGammasäteilystä puolet absorboituu tällä matkalla, mutta puolet etenee kudoksessa pidemmän matkan, jopa kehon ulkopuolelle. Gammasäteilyn energia absorboituu laajalle alueelle kehoa, joten se ei ole tehokasta\n\nsyöpäkasvaimen tuhoamiseen.\n\n&NewLine;\n\nAineiston mukaan beetahajoamisessa syntyneiden elektronien kantama kudoksessa on noin millimetri, joten niiden liike-energia absorboituu kudokseen paikallisesti. Siten kilpirauhaskudokseen sitoutuneen radiojodin beetasäteily tuhoaa tehokkaasti lähikudoksessa olevia syöpäsoluja.",
+          "exam_id": 176183,
+          "content": {
+            "text": "Hajoamisen seurauksena syntyy myös gammasäteilyä, kun tytärytimen viritystila purkautuu. Määritä gammasäteilyn puoliintumispaksuus. Vertaile jodihoidossa syntyneen beeta- ja gammasäteilyn soveltuvuutta syöpäsolujen tuhoamiseen. 6 p.",
+            "displayNumber": "8.2"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:24:39.918867",
+          "max_score": null,
+          "groupping": null,
+          "id": 6086839,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "a93831b9-32c1-41fb-9c28-6a72c4bcdc3e",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2023-09-15T12:36:52.486284"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Virtapiirin 1 johtimiin on merkitty neljä pistettä A–D. Tarkastellaan potentiaalia pisteissä A, B, C ja D. Tällöin **2 p.**",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 176183,
+          "content": {
+            "text": "Virtapiirin 1 johtimiin on merkitty neljä pistettä A–D. Tarkastellaan potentiaalia pisteissä A, B, C ja D. Tällöin **2 p.**",
+            "displayNumber": "4.1"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:24:39.897217",
+          "max_score": 2,
+          "groupping": null,
+          "id": 6085738,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 6,
+              "text": "[MATH text=V_A>V_B>V_C>V_D]",
+              "parent": "abbd32d0-84d9-4dcf-a929-9745f9f198e5",
+              "choices": []
+            },
+            {
+              "id": 7,
+              "text": "[MATH text=V_A=V_B>V_C=V_D]",
+              "parent": "abbd32d0-84d9-4dcf-a929-9745f9f198e5",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 8,
+              "text": "[MATH text=V_A<V_B<V_C<V_D]",
+              "parent": "abbd32d0-84d9-4dcf-a929-9745f9f198e5",
+              "choices": []
+            },
+            {
+              "id": 9,
+              "text": "[MATH text=V_A=V_D>V_B=V_C]",
+              "parent": "abbd32d0-84d9-4dcf-a929-9745f9f198e5",
+              "choices": []
+            },
+            {
+              "id": 10,
+              "text": "En vastaa.",
+              "parent": "abbd32d0-84d9-4dcf-a929-9745f9f198e5",
+              "choices": []
+            }
+          ],
+          "uuid": "abbd32d0-84d9-4dcf-a929-9745f9f198e5",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2023-09-15T10:31:55.558852"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Muoviputkeen on työnnetty pulloharja alhaalta (kuva). Pienen kitkavoiman takia harja pysyy putkessa. Kun putken yläpäähän lyödään lujaa kumisella nuijalla, putki liikahtaa alaspäin. Lyönnin seurauksena harja 2 p.\n\n\n\n[LINK text=Katso kuva täältä|url=https://yle.fi/plus/abitreenit/2023/syksy/fysiikka_fi/index.html#question-nr-1.9]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 176183,
+          "content": {
+            "text": "Muoviputkeen on työnnetty pulloharja alhaalta (kuva). Pienen kitkavoiman takia harja pysyy putkessa. Kun putken yläpäähän lyödään lujaa kumisella nuijalla, putki liikahtaa alaspäin. Lyönnin seurauksena harja 2 p.\n\n\n\n[LINK text=Katso kuva täältä|url=https://yle.fi/plus/abitreenit/2023/syksy/fysiikka_fi/index.html#question-nr-1.9]",
+            "displayNumber": "1.10"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:24:39.883875",
+          "max_score": 2,
+          "groupping": null,
+          "id": 6085586,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "text": "ei voi liikahtaa putken suhteen ollenkaan, koska nuija ei osu harjaan.",
+              "parent": "8f915db6-d84f-4f6d-a90d-26f82538ea96",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 2,
+              "text": "liikahtaa putken suhteen joko ylöspäin tai alaspäin.",
+              "parent": "8f915db6-d84f-4f6d-a90d-26f82538ea96",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 3,
+              "text": "liikahtaa putken suhteen ylöspäin.",
+              "parent": "8f915db6-d84f-4f6d-a90d-26f82538ea96",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 4,
+              "text": "liikahtaa putken suhteen alaspäin.",
+              "parent": "8f915db6-d84f-4f6d-a90d-26f82538ea96",
+              "choices": [],
+              "correct": false
+            }
+          ],
+          "uuid": "8f915db6-d84f-4f6d-a90d-26f82538ea96",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2023-09-15T09:41:57.302726"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Sukellus 20 p.\n\n#### Aineisto\n\n11.A [LINK text=Taulukko: Sähkövirta ja jännite ajan funktioina|url=https://yle.fi/plus/abitreenit/2023/syksy/fysiikka_fi/attachments/index.html#11.A]\n\n11.B [LINK text=Teksti: Peltier-elementti|url=https://yle.fi/plus/abitreenit/2023/syksy/fysiikka_fi/attachments/index.html#11.B]\n\n11.C [LINK text= Kuva: Peltier-elementti|url=https://yle.fi/plus/abitreenit/2023/syksy/fysiikka_fi/attachments/index.html#11.C]\n\n&NewLine;\n\nTavalliseen vaihtojännitteeseen (~ 230 V) kytkettäviä laitteita voidaan käyttää autossa vaihtosuuntajan eli invertterin avulla. Invertteri tuottaa auton akun 12 V:n tasajännitteestä vaihtojännitettä.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 176183,
+          "content": {
+            "text": "### Sukellus 20 p.\n\n#### Aineisto\n\n11.A [LINK text=Taulukko: Sähkövirta ja jännite ajan funktioina|url=https://yle.fi/plus/abitreenit/2023/syksy/fysiikka_fi/attachments/index.html#11.A]\n\n11.B [LINK text=Teksti: Peltier-elementti|url=https://yle.fi/plus/abitreenit/2023/syksy/fysiikka_fi/attachments/index.html#11.B]\n\n11.C [LINK text= Kuva: Peltier-elementti|url=https://yle.fi/plus/abitreenit/2023/syksy/fysiikka_fi/attachments/index.html#11.C]\n\n&NewLine;\n\nTavalliseen vaihtojännitteeseen (~ 230 V) kytkettäviä laitteita voidaan käyttää autossa vaihtosuuntajan eli invertterin avulla. Invertteri tuottaa auton akun 12 V:n tasajännitteestä vaihtojännitettä.",
+            "displayNumber": "11."
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "8ae713d9-c45d-4bcc-b98d-e110160831bd",
+            "efa3899f-5fee-4202-bd05-ac9e54dac6c7",
+            "97c563e6-6298-4adb-81d5-26bb2eadd64c"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-03-18T11:24:39.871678",
+          "max_score": null,
+          "groupping": null,
+          "id": 6100044,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "32b1c597-4132-47c1-adc2-805ebdee9afb",
+          "order_number": 14,
+          "multipart": true,
+          "created_at": "2023-09-15T15:03:25.052353"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Määritä taulukon 10.C ja graafiseen esitykseen tehdyn sovituksen avulla ihmiskehon ylimääräisen typen puoliintumisaika eli aika, jossa puolet ylimääräisestä typestä on poistunut sukeltajan kehosta. 6 p.",
+          "deleted_at": null,
+          "feedback": "Taulukko 10.C esittää uusintasukelluksen enimmäiskeston sukelluksien välisen taukoajan funktiona.Uusintasukelluksen kesto voi olla pidempi pidemmän tauon jälkeen, koska suurempi määrä typpeä on silloin ehtinyt poistua kehosta.\n\n&NewLine;\n\nNopeus, jolla ensimmäisen sukelluksen aikana vereen liuennut ylimääräinen typpi poistuu kehosta, pystytään arvioimaan vertailemalla, kuinka paljon uusintasukelluksen enimmäisaika lyhenee eripituisten taukojen ansiosta. Lyheneminen voidaan laskea alkuperäisen enimmäisajan, [MATH text=t_a] = 35 min, ja uusintasukelluksen enimmäiskeston, [MATH text=t_u], erotuksena [MATH text=t=t_a-t_u.]\n\n&NewLine;\n\nTaulukkolaskennan avulla voidaan laskea enimmäisajan lyheneminen jokaiselle uusintasukelluksen enimmäiskestolle, jonka jälkeen lyheneminen voidaan piirtää kuvaajaan tauon pituuden funktiona. Lyheneminen, ja siten myös ylimääräisen typen määrän väheneminen, on eksponentiaalista, joten sovittamalla eksponenttifunktio pistejoukkoon voidaan arvioida ylimääräisen typen puoliintumisaika. Sovituksen yhtälö on samaa muotoa kuin yleinen hajoamislaki, [MATH text=N=N_0e^{^{-λt}}], josta puoliintumisaika voidaan laskea hajoamisvakion avulla:\n\n(2 p.)\n\n[MATH text=T_{1/2}=\\frac{\\ln2}{\\lambda}=\\frac{\\ln2}{0{,}0054641\\ \\frac{1}{\\min}}=126{,}857\\min\\approx130\\min]\n\neli ylimääräisen typen puoliintumisaika on noin 130 min.\n\n(2 p.)\n\n(Puoliintumisaika voidaan myös arvioida graafisesti suoraan kuvaajasta. Sovitteesta ja laskinohjelmasta riippuen lopputulokset välillä 100 min ... 150 min hyväksytään.)",
+          "exam_id": 176183,
+          "content": {
+            "text": "Määritä taulukon 10.C ja graafiseen esitykseen tehdyn sovituksen avulla ihmiskehon ylimääräisen typen puoliintumisaika eli aika, jossa puolet ylimääräisestä typestä on poistunut sukeltajan kehosta. 6 p.",
+            "displayNumber": "10.4"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:24:39.869186",
+          "max_score": null,
+          "groupping": null,
+          "id": 6099619,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "ba92348d-b292-407c-ba55-9bcaa61618fe",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2023-09-15T14:11:15.278879"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Sukellus 20 p.\n\n#### Aineisto\n\n10.A [LINK text=Teksti: Sukellustaulukkojen tärkeys turvallisessa sukeltamisessa|url=https://yle.fi/plus/abitreenit/2023/syksy/fysiikka_fi/attachments/index.html#10.A]\n\n10.B [LINK text=Taulukko: Enimmäissukellusaika eri syvyyksissä ilman dekompressiopysähdysten tarvetta|url=https://yle.fi/plus/abitreenit/2023/syksy/fysiikka_fi/attachments/index.html#10.B]\n\n10.C [LINK text= Taulukko: Uusintasukelluksen enimmäiskesto sukelluksien välisen tauon funktiona, kun ensimmäinen sukellus 24 metrin syvyyteen on kestänyt 35 minuutin enimmäisajan|url=https://yle.fi/plus/abitreenit/2023/syksy/fysiikka_fi/attachments/index.html#10.C]\n\n&NewLine;\n\nLue teksti 10.A sukellustaulukkojen hyödyistä ja vastaa osatehtäviin 10.1–10.4.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 176183,
+          "content": {
+            "text": "### Sukellus 20 p.\n\n#### Aineisto\n\n10.A [LINK text=Teksti: Sukellustaulukkojen tärkeys turvallisessa sukeltamisessa|url=https://yle.fi/plus/abitreenit/2023/syksy/fysiikka_fi/attachments/index.html#10.A]\n\n10.B [LINK text=Taulukko: Enimmäissukellusaika eri syvyyksissä ilman dekompressiopysähdysten tarvetta|url=https://yle.fi/plus/abitreenit/2023/syksy/fysiikka_fi/attachments/index.html#10.B]\n\n10.C [LINK text= Taulukko: Uusintasukelluksen enimmäiskesto sukelluksien välisen tauon funktiona, kun ensimmäinen sukellus 24 metrin syvyyteen on kestänyt 35 minuutin enimmäisajan|url=https://yle.fi/plus/abitreenit/2023/syksy/fysiikka_fi/attachments/index.html#10.C]\n\n&NewLine;\n\nLue teksti 10.A sukellustaulukkojen hyödyistä ja vastaa osatehtäviin 10.1–10.4.",
+            "displayNumber": "10."
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "c97bf176-2ab4-41c8-b886-490597f02ee2",
+            "967b5cfa-de52-47d1-8736-07713eb76dd8",
+            "e25210f4-34ea-4dac-8eba-558c84a5e683",
+            "ba92348d-b292-407c-ba55-9bcaa61618fe"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-03-18T11:24:39.865919",
+          "max_score": null,
+          "groupping": null,
+          "id": 6092725,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "955408e4-b1c2-4273-9e9a-59b2bff0681c",
+          "order_number": 13,
+          "multipart": true,
+          "created_at": "2023-09-15T13:26:24.723155"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Juoksupyöränosturi 20 p.\n\n#### Aineisto\n\n9.A [LINK text=Video: Juoksupyöränosturin toiminta|url=https://yle.fi/plus/abitreenit/2023/syksy/fysiikka_fi/attachments/index.html#9.A]\n\n9.B [LINK text=Kuva: Juoksupyöränosturin rakenne|url=https://yle.fi/plus/abitreenit/2023/syksy/fysiikka_fi/attachments/index.html#9.B]\n\n&NewLine;\n\nAntiikin ja keskiajan rakennustyömailla käytettiin laajalti videon 9.A esittämää juoksupyöränosturia. Kun ihminen kävelee juoksupyörän sisällä, kuormaan kiinnitetty köysi kelautuu juoksupyörän akselille asennetun rummun ympärille ja kuorma nousee. Kuvassa 9.B hahmotetaan juoksupyöränosturin rakennetta sivulta ja edestä nähtynä. Kuvassa nosturia on yksinkertaistettu, ja siinä esitetään vain nosturin toimintaperiaatteen ymmärtämisen kannalta olennaiset osat. Juoksupyörän halkaisija on 4,0 m ja rummun halkaisija on 0,34 m. Kuorman massa on 420 kg ja henkilön massa on 81 kg. Laitteistossa esiintyvää kitkaa ei oteta huomioon.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 176183,
+          "content": {
+            "text": "### Juoksupyöränosturi 20 p.\n\n#### Aineisto\n\n9.A [LINK text=Video: Juoksupyöränosturin toiminta|url=https://yle.fi/plus/abitreenit/2023/syksy/fysiikka_fi/attachments/index.html#9.A]\n\n9.B [LINK text=Kuva: Juoksupyöränosturin rakenne|url=https://yle.fi/plus/abitreenit/2023/syksy/fysiikka_fi/attachments/index.html#9.B]\n\n&NewLine;\n\nAntiikin ja keskiajan rakennustyömailla käytettiin laajalti videon 9.A esittämää juoksupyöränosturia. Kun ihminen kävelee juoksupyörän sisällä, kuormaan kiinnitetty köysi kelautuu juoksupyörän akselille asennetun rummun ympärille ja kuorma nousee. Kuvassa 9.B hahmotetaan juoksupyöränosturin rakennetta sivulta ja edestä nähtynä. Kuvassa nosturia on yksinkertaistettu, ja siinä esitetään vain nosturin toimintaperiaatteen ymmärtämisen kannalta olennaiset osat. Juoksupyörän halkaisija on 4,0 m ja rummun halkaisija on 0,34 m. Kuorman massa on 420 kg ja henkilön massa on 81 kg. Laitteistossa esiintyvää kitkaa ei oteta huomioon.",
+            "displayNumber": "9."
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "edef515f-baa7-4d89-aa47-2389202d8a8c",
+            "e55e73e0-b9aa-4a2f-868d-70874715db8e",
+            "25f3acfd-b4d9-40f3-908f-6fd940c04aef"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-03-18T11:24:39.863371",
+          "max_score": null,
+          "groupping": null,
+          "id": 6088758,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "1a908a6b-058b-4703-a41e-b0549b4cccbc",
+          "order_number": 12,
+          "multipart": true,
+          "created_at": "2023-09-15T12:54:07.136301"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Potilaalle juotetaan I-131:tä sisältävää nestettä, jonka aktiivisuus on 6,5 GBq. Jodista 20 % sitoutuu jäljelle jääneeseen kilpirauhaskudokseen ja loppuosa leviää ympäri kehoa. Kuinka monta täyttä vuorokautta radioaktiivisen jodin antamisesta pitää odottaa, kunnes potilas voidaan kotiuttaa? 6 p.",
+          "deleted_at": null,
+          "feedback": "Alkuannoksesta [MATH text=A_0=6,5GBq] osa [MATH text=x=0,2]  sitoutuu kilpirauhaskudokseen, jossa radioaktiivisuus vähenee hajoamislain mukaisesti fysikaalisella puoliintumiajalla [MATH text=T{fys}=8,02d]. Muualla kehossa olevan osuuden [MATH text=1-x=0,8]  efektiivinen puoliintumisaika on\n\n[MATH text=\\frac{1}{T_{ef}}=\\frac{1}{8{,}02d}+\\frac{1}{1d}=1{,}1247\\ \\frac{1}{d}\\Rightarrow T_{ef}=0{,}8891d]\n\n\n\nJodin radioaktiivisuus sekä kilpirauhasessa että muualla kehossa pienenee hajoamislain [MATH text=A=A_0e^{\\lambda t}=A_0e^{-\\left(\\ln2\\right)t/T_{\\frac{1}{2}}}] mukaisesti. Potilaan kehon radioaktiviisuus on siten [MATH text=A=xA_0e^{-\\left(\\ln2\\right)t/T_{fys}}+\\left(1-x\\right)e^{^{-\\left(\\ln2\\right)t/T_{ef}}}]\n\n&NewLine;\n\nPotilaan kehon radioaktiivisuus täysinä vuorokausina radiojodin antamisen hetkestä on \n\nA(0d) = 6,50 GBq\n\nA(1d) = 3,57 GBq\n\nA(2d) = 2,19 GBq\n\nA(3d) = 1,50 GBq\n\nA(4d) = 1,15 GBq\n\nA(5d) = 0,95 GBq.\n\n&NewLine;\n\nGraafinen esitys potilaan kehon radioaktiivisuuden vähenemisestä:\n\nKatso [LINK text=Hyvän vastauksen piirteet|url=https://drive.google.com/file/d/10H3l24gKKTYGOhkxHXg-RSR_19nfUgcA/view]\n\n\n\nPotilas voidaan kotiuttaa, kun radiojodin antamisesta on kulunut viisi vuorokautta.",
+          "exam_id": 176183,
+          "content": {
+            "text": "Potilaalle juotetaan I-131:tä sisältävää nestettä, jonka aktiivisuus on 6,5 GBq. Jodista 20 % sitoutuu jäljelle jääneeseen kilpirauhaskudokseen ja loppuosa leviää ympäri kehoa. Kuinka monta täyttä vuorokautta radioaktiivisen jodin antamisesta pitää odottaa, kunnes potilas voidaan kotiuttaa? 6 p.",
+            "displayNumber": "8.3"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:24:39.860705",
+          "max_score": null,
+          "groupping": null,
+          "id": 6086840,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "79ca746d-87da-44a2-9bad-4d921e5cbb1d",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2023-09-15T12:36:52.489127"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Deuterium-plasma 15 p.\n\n#### Aineisto\n\n7.A [LINK text=Kuva: Positiivisesti varatun hiukkasen rata homogeenisessa sähkö- ja magneettikentässä|url=https://yle.fi/plus/abitreenit/2023/syksy/fysiikka_fi/attachments/index.html#7.A]\n\n&NewLine;\n\nKorkeassa lämpötilassa materiaali on neljännessä olomuodossa eli plasmana, jota voi kuvata ionisoituneeksi kaasuksi. Plasmamuodossa atomien ytimet ja elektronit liikkuvat vapaana toisistaan. Plasmaa voidaan ohjata sähkö- ja magneettikentillä.\n\n&NewLine;\n\nDeuterium on raskas vety, jonka ytimessä on protoni ja neutroni. Näin ollen deuteriumplasma koostuu elektroneista sekä deuteriumytimistä eli deuteroneista.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 176183,
+          "content": {
+            "text": "### Deuterium-plasma 15 p.\n\n#### Aineisto\n\n7.A [LINK text=Kuva: Positiivisesti varatun hiukkasen rata homogeenisessa sähkö- ja magneettikentässä|url=https://yle.fi/plus/abitreenit/2023/syksy/fysiikka_fi/attachments/index.html#7.A]\n\n&NewLine;\n\nKorkeassa lämpötilassa materiaali on neljännessä olomuodossa eli plasmana, jota voi kuvata ionisoituneeksi kaasuksi. Plasmamuodossa atomien ytimet ja elektronit liikkuvat vapaana toisistaan. Plasmaa voidaan ohjata sähkö- ja magneettikentillä.\n\n&NewLine;\n\nDeuterium on raskas vety, jonka ytimessä on protoni ja neutroni. Näin ollen deuteriumplasma koostuu elektroneista sekä deuteriumytimistä eli deuteroneista.",
+            "displayNumber": "7."
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "66209747-8b30-4a93-8a36-614bb303fe58",
+            "786c81b1-6c23-48b1-85e4-bb01ddbb5b57",
+            "3ca65d52-cf6f-4c85-8e15-dcca2d7a3c04"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-03-18T11:24:39.857548",
+          "max_score": null,
+          "groupping": null,
+          "id": 6086646,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "9731f5f4-589e-448f-97c8-7c3cf403e574",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2023-09-15T11:56:53.577538"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Monivalintatehtäviä virtapiireistä 15 p.\n\n#### Aineisto\n\n4.A [LINK text=Kuva: Kolme virtapiiriä|url=https://yle.fi/plus/abitreenit/2023/syksy/fysiikka_fi/attachments/index.html#4.A]\n\n&NewLine;\n\nKuvassa [LINK text= 4.A|url=https://yle.fi/plus/abitreenit/2023/syksy/fysiikka_fi/attachments/index.html#4.A] on kolme virtapiiriä. Kaikki jännitelähteet, vastukset ja johtimet ovat ideaalisia ja keskenään identtisiä. Valitse jokaisessa osatehtävässä tilannetta parhaiten kuvaava vaihtoehto. Oikea vastaus 2 p. tai 3 p., väärä vastaus 0 p., ei vastausta 0 p.\n\n&NewLine;\n\nJos olet aloittanut tehtävään vastaamisen, mutta et haluakaan jättää tehtävää arvosteltavaksi, valitse jokaisessa osatehtävässä vaihtoehto ”En vastaa”.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 176183,
+          "content": {
+            "text": "### Monivalintatehtäviä virtapiireistä 15 p.\n\n#### Aineisto\n\n4.A [LINK text=Kuva: Kolme virtapiiriä|url=https://yle.fi/plus/abitreenit/2023/syksy/fysiikka_fi/attachments/index.html#4.A]\n\n&NewLine;\n\nKuvassa [LINK text= 4.A|url=https://yle.fi/plus/abitreenit/2023/syksy/fysiikka_fi/attachments/index.html#4.A] on kolme virtapiiriä. Kaikki jännitelähteet, vastukset ja johtimet ovat ideaalisia ja keskenään identtisiä. Valitse jokaisessa osatehtävässä tilannetta parhaiten kuvaava vaihtoehto. Oikea vastaus 2 p. tai 3 p., väärä vastaus 0 p., ei vastausta 0 p.\n\n&NewLine;\n\nJos olet aloittanut tehtävään vastaamisen, mutta et haluakaan jättää tehtävää arvosteltavaksi, valitse jokaisessa osatehtävässä vaihtoehto ”En vastaa”.",
+            "displayNumber": "4."
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "abbd32d0-84d9-4dcf-a929-9745f9f198e5",
+            "5e9e25af-f2cc-4a42-b63e-805d79389ab5",
+            "8da38e56-0839-4e7e-9753-f1b7f5d74902",
+            "df74267c-b2bd-46d1-a8a6-6c374e59d349",
+            "fd28a56c-fcbc-4cb0-8c6b-c78f449bf66b",
+            "b7cae3be-9b8d-4ef3-b098-63f8a005ace3",
+            "0a643891-943b-44bf-b97d-17cdd8b0e536"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-03-18T11:24:39.853794",
+          "max_score": null,
+          "groupping": null,
+          "id": 6085737,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "b99093b8-21e5-4a22-9a19-e0408197683c",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2023-09-15T10:31:55.555897"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Selitä sopivan kuvion avulla, mitkä voimat aiheuttavat momentin rummun ja juoksupyörän yhteisen akselin suhteen. Mihin kohtaan juoksupyörällä ihmisen on asetuttava seisomaan, jotta kuorma alkaisi nousta? Anna vastauksesi pystysuunnan ja ihmisen jalkaterien kautta kulkevan juoksupyörän säteen välisen kulman *α* avulla. 12 p.\n",
+          "deleted_at": null,
+          "feedback": "Nosturin juoksupyörän ja rummun säteet ovat vastaavasti R = 2,0 m ja r = 0,17 m, kuorman massa [MATH text=m_k] = 420 kg ja henkilön massa [MATH text=m_h] = 81 kg. Putoamiskiihtyvyys on g = 9,81 [MATH text=m/s^2], kuorman painovoima [MATH text=G_k=m_kg=4120 N] ja ihmisen painovoima [MATH text=H_h=m_hg=794,6N].\n\n&NewLine;\n\nKatso kuva [LINK text=hyvän vastauksen piirteistä.|url=https://drive.google.com/file/d/10H3l24gKKTYGOhkxHXg-RSR_19nfUgcA/view]\n\n&NewLine;\n\nOheisissa kuvissa F on köyden jännitysvoima. Kun kuorma on lähtemäisillään liikkeelle, alustan kuormaan kohdistama tukivoima on pienentynyt nollaan ja köysivoima tasapainottaa kuorman painovoiman vasemmanpuoleisen kuvan mukaisesti. Valitaan positiivinen suunta ylöspäin, jolloin voimaehto saadaan\n\nmuotoon [MATH text=F-G_k=0]. Siis [MATH text=F=G_k=4120 N].\n\n&NewLine;\n\nTarkastellaan sitten juoksupyörän, ihmisen ja rummun yhdistelmää ja valitaan oikeanpuoleisessa kuvassa kiertosuunta myötäpäivään positiiviseksi. Yhdistelmään vaikuttavat ihmisen painovoiman momentti [MATH text=G_hR] sin α ja\n\nrumpuun kohdistuvan köysivoiman momentti -Fr. Ne tasapainottavat toisensa, joten momenttiehto on\n\n[MATH text=G_hR] sin α -Fr = 0.\n\n&NewLine;\n\nSiten [MATH text=sin\\alpha={Fr}/{G_hR=0{,}4407}]joten α = 26,15°. Kuorma siis alkaa nousta, kun α > 26°.\n\nKuormaan vaikuttavien voimien tunnistaminen ja kuorman tasapainoehto 4 p.\n\nMomenttien tunnistaminen ja momenttiehto 6 p.\n\nTulos 2 p.",
+          "exam_id": 176183,
+          "content": {
+            "text": "Selitä sopivan kuvion avulla, mitkä voimat aiheuttavat momentin rummun ja juoksupyörän yhteisen akselin suhteen. Mihin kohtaan juoksupyörällä ihmisen on asetuttava seisomaan, jotta kuorma alkaisi nousta? Anna vastauksesi pystysuunnan ja ihmisen jalkaterien kautta kulkevan juoksupyörän säteen välisen kulman *α* avulla. 12 p.\n",
+            "displayNumber": "9.1"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:24:39.845375",
+          "max_score": null,
+          "groupping": null,
+          "id": 6088759,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "edef515f-baa7-4d89-aa47-2389202d8a8c",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2023-09-15T12:54:07.139417"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Matkustat veneellä Helsingistä suoraan Tallinnaan. Kuljet tasan puolet matkasta nopeudella v ja loppuosan nopeudella [MATH text=2v]. 2 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 176183,
+          "content": {
+            "text": "Matkustat veneellä Helsingistä suoraan Tallinnaan. Kuljet tasan puolet matkasta nopeudella v ja loppuosan nopeudella [MATH text=2v]. 2 p.",
+            "displayNumber": "1.5"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:24:39.841007",
+          "max_score": 2,
+          "groupping": null,
+          "id": 6085581,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "text": "Keskinopeutesi koko matkalla oli [MATH text=3v].",
+              "parent": "bba9a9a5-0234-446b-97fd-3dd5879ee41b",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 2,
+              "text": "Keskinopeutesi koko matkalla oli [MATH text=\\frac{3}{2}v].",
+              "parent": "bba9a9a5-0234-446b-97fd-3dd5879ee41b",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 3,
+              "text": "Keskinopeutesi koko matkalla oli [MATH text=\\frac{4}{3}v].",
+              "parent": "bba9a9a5-0234-446b-97fd-3dd5879ee41b",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 4,
+              "text": "Keskinopeutta ei voi määrittää, koska matkan pituutta ei ole annettu tarkasti.",
+              "parent": "bba9a9a5-0234-446b-97fd-3dd5879ee41b",
+              "choices": [],
+              "correct": false
+            }
+          ],
+          "uuid": "bba9a9a5-0234-446b-97fd-3dd5879ee41b",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2023-09-15T09:41:57.28526"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Äänet Marsissa 15 p.\n\nVuonna 2022 NASAn Perseverance-mönkijä onnistui tallentamaan ääniaaltoja Marsin pinnalla. Äänen nopeudeksi Marsissa mitattiin noin 240 m/s alle 400 hertsin taajuuksilla ja noin 250 m/s korkeammilla taajuuksilla. Samanlaisen äänilähteen tuottamat äänet havaittiin Marsissa noin 20 desibeliä heikompina kuin Maassa. Marsin pinnalla kaasukehän tiheys on 0,02 kg/m3, kun taas Maan ilmakehän tiheys merenpinnan tasolla on noin 1,2 kg/m3.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 176183,
+          "content": {
+            "text": "### Äänet Marsissa 15 p.\n\nVuonna 2022 NASAn Perseverance-mönkijä onnistui tallentamaan ääniaaltoja Marsin pinnalla. Äänen nopeudeksi Marsissa mitattiin noin 240 m/s alle 400 hertsin taajuuksilla ja noin 250 m/s korkeammilla taajuuksilla. Samanlaisen äänilähteen tuottamat äänet havaittiin Marsissa noin 20 desibeliä heikompina kuin Maassa. Marsin pinnalla kaasukehän tiheys on 0,02 kg/m3, kun taas Maan ilmakehän tiheys merenpinnan tasolla on noin 1,2 kg/m3.",
+            "displayNumber": "6."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "a4deb2f4-7812-4b10-a442-feecbf99a8b8",
+            "029d4b50-2ecb-4718-a034-6a818c7d6c39",
+            "78bbddd9-d467-47a3-b2b0-538b58c39913",
+            "06fc01f9-3651-4aca-8a61-eae9f8df5566"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-03-18T11:24:39.848703",
+          "max_score": null,
+          "groupping": null,
+          "id": 6086605,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "dc08d70d-2e71-4245-b9dd-191e144db9ff",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2023-09-15T11:55:27.444044"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Havainnollistetaan Marsissa havaittua 20 dB:n eroa Maan pinnalla tehtävällä kokeella. Kuinka paljon äänen intensiteettiä Maassa on kasvatettava suhteessa alkuperäiseen intensiteettiin, jos intensiteettitasoa halutaan kasvattaa 20 dB? 5 p.",
+          "deleted_at": null,
+          "feedback": "Käytetään intensiteettitason suureyhtälöä:\n\n[MATH text=L=10dB\\cdot\\log\\frac{I}{I_0}]\n\njossa\n\n[MATH text=I_0=10^{-12}\\frac{W}{m^2}]\n\nNyt pätee\n\n[MATH text=L_1-L_2=10dB\\cdot\\log\\frac{I_1}{I_0}-10dB\\cdot\\log\\frac{I_2}{I_0}=20dB]\n\nTästä saadaan\n\n[MATH text=\\log\\frac{I_1}{I_0}-\\log\\frac{I_2}{I_0}=2]\n\nja edelleen\n\n[MATH text=\\log\\frac{I_1}{I_2}=2\\Rightarrow\\log\\frac{I_1}{I_2}=10^2=100]\n\nIntensiteetti pitää siis satakertaistaa, jos intensiteettitasoa halutaan nostaa 20 dB.",
+          "exam_id": 176183,
+          "content": {
+            "text": "Havainnollistetaan Marsissa havaittua 20 dB:n eroa Maan pinnalla tehtävällä kokeella. Kuinka paljon äänen intensiteettiä Maassa on kasvatettava suhteessa alkuperäiseen intensiteettiin, jos intensiteettitasoa halutaan kasvattaa 20 dB? 5 p.",
+            "displayNumber": "6.3"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:24:39.851641",
+          "max_score": null,
+          "groupping": null,
+          "id": 6086608,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "78bbddd9-d467-47a3-b2b0-538b58c39913",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2023-09-15T11:55:27.455586"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Vertaa sähkövirtojen suuruuksia piirin 1 pisteessä C ja piirin 3 pisteessä M. Tulos on, että **2 p.**",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 176183,
+          "content": {
+            "text": "Vertaa sähkövirtojen suuruuksia piirin 1 pisteessä C ja piirin 3 pisteessä M. Tulos on, että **2 p.**",
+            "displayNumber": "4.5"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:24:39.874657",
+          "max_score": 2,
+          "groupping": null,
+          "id": 6086298,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 6,
+              "text": "[MATH text=I_M=\\frac{1}{2}I_C]",
+              "parent": "fd28a56c-fcbc-4cb0-8c6b-c78f449bf66b",
+              "choices": []
+            },
+            {
+              "id": 7,
+              "text": "[MATH text=I_M=2I_C]",
+              "parent": "fd28a56c-fcbc-4cb0-8c6b-c78f449bf66b",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 8,
+              "text": "[MATH text=I_M=\\frac{1}{4}I_C]",
+              "parent": "fd28a56c-fcbc-4cb0-8c6b-c78f449bf66b",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 9,
+              "text": "[MATH text=I_M=I_C]",
+              "parent": "fd28a56c-fcbc-4cb0-8c6b-c78f449bf66b",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 10,
+              "text": "[MATH text=I_M=4I_C]",
+              "parent": "fd28a56c-fcbc-4cb0-8c6b-c78f449bf66b",
+              "choices": []
+            },
+            {
+              "id": 11,
+              "text": "En vastaa.",
+              "parent": "fd28a56c-fcbc-4cb0-8c6b-c78f449bf66b",
+              "choices": []
+            }
+          ],
+          "uuid": "fd28a56c-fcbc-4cb0-8c6b-c78f449bf66b",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2023-09-15T11:01:09.049242"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Miten piireissä 1, 2 ja 3 kulutetut sähkötehot vertautuvat toisiinsa? **3 p.**",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 176183,
+          "content": {
+            "text": "Miten piireissä 1, 2 ja 3 kulutetut sähkötehot vertautuvat toisiinsa? **3 p.**",
+            "displayNumber": "4.7"
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:24:39.878514",
+          "max_score": 3,
+          "groupping": null,
+          "id": 6086510,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 6,
+              "text": "[MATH text = P_3 = P_2 > P_1]",
+              "parent": "0a643891-943b-44bf-b97d-17cdd8b0e536",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 7,
+              "text": "[MATH text = P_2 > P_3 > P_1]",
+              "parent": "0a643891-943b-44bf-b97d-17cdd8b0e536",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 8,
+              "text": "[MATH text = P_3 > P_1 > P_2]",
+              "parent": "0a643891-943b-44bf-b97d-17cdd8b0e536",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 9,
+              "text": "[MATH text = P_3 > P_2> P_1]",
+              "parent": "0a643891-943b-44bf-b97d-17cdd8b0e536",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 10,
+              "text": "[MATH text = P_1 = P_2 = P_3]",
+              "parent": "0a643891-943b-44bf-b97d-17cdd8b0e536",
+              "choices": []
+            },
+            {
+              "id": 11,
+              "text": "En vastaa.",
+              "parent": "0a643891-943b-44bf-b97d-17cdd8b0e536",
+              "choices": []
+            }
+          ],
+          "uuid": "0a643891-943b-44bf-b97d-17cdd8b0e536",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2023-09-15T11:28:09.459418"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kun ihminen alkaa kävellä, juoksupyörä pyörii tasaisesti 2,0 kierrosta minuutissa. Määritä kuorman nopeus ja nosturin teho. 4 p.",
+          "deleted_at": null,
+          "feedback": "Juoksupyörän ja rummun pyörimisnopeus on n = 2,0 1/min ja vastaava kulmanopeus ω = 2πn = 0,20941 1/s.\n\nKuorman nopeus on yhtä suuri kuin rummulle kelautuvan köyden nopeus, joka puolestaan on yhtä suuri kuin rummun kehäpisteen nopeus. Siis v = ωr = 35,60 mm/s ≈ 36 mm/s.\n\nTulos 2 p.\n\nNosturin teho voidaan määrittää kuormaan vaikuttavan köysivoiman tehona. Koska kuormalla ei ole kiihtyvyyttä, kohdan 9.1 voimaehto pätee nytkin. Kysytty teho on [MATH text=P=Fv=G_kv=146,7W\\approx150W].\n\nTulos 2 p.",
+          "exam_id": 176183,
+          "content": {
+            "text": "Kun ihminen alkaa kävellä, juoksupyörä pyörii tasaisesti 2,0 kierrosta minuutissa. Määritä kuorman nopeus ja nosturin teho. 4 p.",
+            "displayNumber": "9.2"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:24:39.881108",
+          "max_score": null,
+          "groupping": null,
+          "id": 6088760,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "e55e73e0-b9aa-4a2f-868d-70874715db8e",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2023-09-15T12:54:07.142816"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Määritä taulukon 10.B ja jonkin graafiseen esitykseen tehdyn sovituksen avulla enimmäisaika, jonka sukeltaja voi viipyä 10 metrin syvyydessä ilman että hänen on tarpeen tehdä erillistä dekompressiopysähdystä nousun aikana. 4 p.",
+          "deleted_at": null,
+          "feedback": "Taulukon 10.B mittausdataan voi sovittaa potenssifunktion syvyys-aika-koordinaatistossa.\n\n(2 p.)\n\nEnimmäisajan eri syvyyksillä pystyy sitten määrittämään joko ekstrapolaatiolla tai käyttämällä sovitteen yhtälöä:\n\n\n\n[MATH text=f(10) = 19870 ⋅ 10 ^{ -2,026} min = 187,154 ≈ 190 min.] \n\n[LINK text=Katso kuvaaja hyvän vastauksen piirteistä|url=https://drive.google.com/file/d/10H3l24gKKTYGOhkxHXg-RSR_19nfUgcA/view]\n\nSyvyydellä 10 m sukelluksen enimmäisaika on 190 min.\n\n(Sovitteesta ja laskinohjelmasta riippuen lopputulokset välillä 160 min ... 210 min hyväksytään.)",
+          "exam_id": 176183,
+          "content": {
+            "text": "Määritä taulukon 10.B ja jonkin graafiseen esitykseen tehdyn sovituksen avulla enimmäisaika, jonka sukeltaja voi viipyä 10 metrin syvyydessä ilman että hänen on tarpeen tehdä erillistä dekompressiopysähdystä nousun aikana. 4 p.",
+            "displayNumber": "10.3"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:24:39.887034",
+          "max_score": null,
+          "groupping": null,
+          "id": 6099618,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "e25210f4-34ea-4dac-8eba-558c84a5e683",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2023-09-15T14:11:15.275468"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kirjoita I-131:n hajoamisyhtälö. 3 p.",
+          "deleted_at": null,
+          "feedback": "[MATH text=^{131}I\\rightarrow^{131}Xe+\\beta^-+\\overline{v}_e]",
+          "exam_id": 176183,
+          "content": {
+            "text": "Kirjoita I-131:n hajoamisyhtälö. 3 p.",
+            "displayNumber": "8.1"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:24:39.889613",
+          "max_score": null,
+          "groupping": null,
+          "id": 6086838,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "fe6e2f0b-1b84-438c-bc67-5aec7759da82",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2023-09-15T12:36:52.480508"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Fuusioreaktorissa polttoaine on plasmana. Miksi juuri sähkö- ja magneettikenttiä käytetään fuusioreaktorissa plasman ohjaamiseen? Miksi plasma pyritään pitämään tiheänä? 4 p.",
+          "deleted_at": null,
+          "feedback": "Fuusioreaktorin rakennemateriaalit sulaisivat, jos kuuman (10[SUP text=6]...10[SUP text=8] K) plasman hiukkaset koskettaisivat niitä,\n\njoten plasman koossapito ei onnistu kiinteillä rakenteilla. Kosketukset vältetään käyttämällä ohjaukseen sähkö-\n\nja magneettikenttiä.\n\n\n\n(2 p.)\n\n\n\nJos rakennemateriaalit sekoittuisivat plasmaan, siihen myös tulisi epäpuhtauksia, mikä haittaisi fuusioreaktioita.\n\n\n\nFuusioreaktio vaatii, että positiivisesti varatut vetyisotooppien ytimet ylittävät Coulombin vallin, jotta ne voivat fuusioitua. Kun plasman tiheys kasvaa, fuusioreaktioiden todennäköisyys kasvaa. Fuusioreaktorin hyötysuhde riippuu plasman tiheyden, koossapitoajan ja lämpötilan tulosta (Lawsonin kriteeri).\n\n\n\n(2 p.)",
+          "exam_id": 176183,
+          "content": {
+            "text": "Fuusioreaktorissa polttoaine on plasmana. Miksi juuri sähkö- ja magneettikenttiä käytetään fuusioreaktorissa plasman ohjaamiseen? Miksi plasma pyritään pitämään tiheänä? 4 p.",
+            "displayNumber": "7.3"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:24:39.892132",
+          "max_score": null,
+          "groupping": null,
+          "id": 6086686,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "3ca65d52-cf6f-4c85-8e15-dcca2d7a3c04",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2023-09-15T12:01:17.710039"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Invertteriin kytketty kylmälaukku jää toimimaan pienellä teholla pysäköinnin jälkeen. Kuinka kauan kestää, että auton akun varaustila laskee täydestä 20 %:iin, kun kylmälaukku toimii jatkuvasti keskimääräisellä 35 watin teholla? Invertterin hyötysuhde on 87 %, ja auton akun kapasiteetti on 60 Ah.",
+          "deleted_at": null,
+          "feedback": "Auton akun jännite on 12 V, joten akun kapasiteetti wattitunneissa ilmoitettuna on E = It ⋅ U = 60 Ah ⋅ 12 V = 720 Wh. Akun ja invertterin tehonkulutus on yhteensä P = [MATH text=P_0]/ η = 35 W / 0,87 = 40,2 W.\n\n\n\nAkun varaustila laskee 20 %:iin ajassa t = (0,8 ⋅ E) / P = 14,32 h ≈ 14 h.",
+          "exam_id": 176183,
+          "content": {
+            "text": "Invertteriin kytketty kylmälaukku jää toimimaan pienellä teholla pysäköinnin jälkeen. Kuinka kauan kestää, että auton akun varaustila laskee täydestä 20 %:iin, kun kylmälaukku toimii jatkuvasti keskimääräisellä 35 watin teholla? Invertterin hyötysuhde on 87 %, ja auton akun kapasiteetti on 60 Ah.",
+            "displayNumber": "11.1"
+          },
+          "images": null,
+          "settings": {
+            "material": false,
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:24:39.894561",
+          "max_score": null,
+          "groupping": null,
+          "id": 6100045,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "8ae713d9-c45d-4bcc-b98d-e110160831bd",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2023-09-15T15:03:25.056221"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Tarkastellaan piirin 1 sähkövirtaa pisteissä A–D. Tällöin **2 p.**",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 176183,
+          "content": {
+            "text": "Tarkastellaan piirin 1 sähkövirtaa pisteissä A–D. Tällöin **2 p.**",
+            "displayNumber": "4.2"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:24:39.900408",
+          "max_score": 2,
+          "groupping": null,
+          "id": 6085760,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 6,
+              "text": "[MATH text= I_D] on suurin",
+              "parent": "5e9e25af-f2cc-4a42-b63e-805d79389ab5",
+              "choices": []
+            },
+            {
+              "id": 7,
+              "text": "[MATH text= I_A=I_B>I_C=I_D]",
+              "parent": "5e9e25af-f2cc-4a42-b63e-805d79389ab5",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 8,
+              "text": "[MATH text= I_A=I_B=I_C=I_D]",
+              "parent": "5e9e25af-f2cc-4a42-b63e-805d79389ab5",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 9,
+              "text": "[MATH text= I_A] on suurin.",
+              "parent": "5e9e25af-f2cc-4a42-b63e-805d79389ab5",
+              "choices": []
+            },
+            {
+              "id": 10,
+              "text": "En vastaa.",
+              "parent": "5e9e25af-f2cc-4a42-b63e-805d79389ab5",
+              "choices": []
+            }
+          ],
+          "uuid": "5e9e25af-f2cc-4a42-b63e-805d79389ab5",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2023-09-15T10:48:56.57458"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Vertaa sähkövirtojen suuruuksia piirin 2 pisteessä E ja piirin 3 pisteessä K. Tulos on, että **2 p.**",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 176183,
+          "content": {
+            "text": "Vertaa sähkövirtojen suuruuksia piirin 2 pisteessä E ja piirin 3 pisteessä K. Tulos on, että **2 p.**",
+            "displayNumber": "4.6"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:24:39.903242",
+          "max_score": 2,
+          "groupping": null,
+          "id": 6086324,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 6,
+              "text": "[MATH text=I_E=\\frac{1}{4}I_K]",
+              "parent": "b7cae3be-9b8d-4ef3-b098-63f8a005ace3",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 7,
+              "text": "[MATH text=I_E=\\frac{1}{2}I_K]",
+              "parent": "b7cae3be-9b8d-4ef3-b098-63f8a005ace3",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 8,
+              "text": "[MATH text=I_E=I_K]",
+              "parent": "b7cae3be-9b8d-4ef3-b098-63f8a005ace3",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 9,
+              "text": "[MATH text=I_E=2I_K]",
+              "parent": "b7cae3be-9b8d-4ef3-b098-63f8a005ace3",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 10,
+              "text": "[MATH text=I_E=4I_K]",
+              "parent": "b7cae3be-9b8d-4ef3-b098-63f8a005ace3",
+              "choices": []
+            },
+            {
+              "id": 11,
+              "text": "En vastaa.",
+              "parent": "b7cae3be-9b8d-4ef3-b098-63f8a005ace3",
+              "choices": []
+            }
+          ],
+          "uuid": "b7cae3be-9b8d-4ef3-b098-63f8a005ace3",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2023-09-15T11:03:00.617561"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Vertaa sähkövirtojen suuruuksia piirin 1 pisteessä C ja piirin 2 pisteessä G. Tulos on, että **2 p.**",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 176183,
+          "content": {
+            "text": "Vertaa sähkövirtojen suuruuksia piirin 1 pisteessä C ja piirin 2 pisteessä G. Tulos on, että **2 p.**",
+            "displayNumber": "4.3"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:24:39.905902",
+          "max_score": 2,
+          "groupping": null,
+          "id": 6085967,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 6,
+              "text": "[MATH text= I_G =4I_C]",
+              "parent": "8da38e56-0839-4e7e-9753-f1b7f5d74902",
+              "choices": []
+            },
+            {
+              "id": 7,
+              "text": "[MATH text= I_G =I_C]",
+              "parent": "8da38e56-0839-4e7e-9753-f1b7f5d74902",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 8,
+              "text": "[MATH text= I_G =\\frac{1}{2}I_C]",
+              "parent": "8da38e56-0839-4e7e-9753-f1b7f5d74902",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 9,
+              "text": "[MATH text= I_G =\\frac{1}{4}I_C]",
+              "parent": "8da38e56-0839-4e7e-9753-f1b7f5d74902",
+              "choices": []
+            },
+            {
+              "id": 10,
+              "text": "[MATH text= I_G =2I_C]",
+              "parent": "8da38e56-0839-4e7e-9753-f1b7f5d74902",
+              "choices": []
+            },
+            {
+              "id": 11,
+              "text": "En vastaa.",
+              "parent": "8da38e56-0839-4e7e-9753-f1b7f5d74902",
+              "choices": []
+            }
+          ],
+          "uuid": "8da38e56-0839-4e7e-9753-f1b7f5d74902",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2023-09-15T10:57:13.791058"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Vertaa potentiaalia piirin 1 pisteessä C piirin 2 pisteeseen G. Tulos on, että **2 p.**",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 176183,
+          "content": {
+            "text": "Vertaa potentiaalia piirin 1 pisteessä C piirin 2 pisteeseen G. Tulos on, että **2 p.**",
+            "displayNumber": "4.4"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:24:39.908705",
+          "max_score": 2,
+          "groupping": null,
+          "id": 6086179,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 6,
+              "text": "[MATH text = V_G>V_C]",
+              "parent": "df74267c-b2bd-46d1-a8a6-6c374e59d349",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 7,
+              "text": "[MATH text = V_G<V_C]",
+              "parent": "df74267c-b2bd-46d1-a8a6-6c374e59d349",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 8,
+              "text": "[MATH text = V_G=V_C=0]",
+              "parent": "df74267c-b2bd-46d1-a8a6-6c374e59d349",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 9,
+              "text": "[MATH text = V_G=V_C\\ne0]",
+              "parent": "df74267c-b2bd-46d1-a8a6-6c374e59d349",
+              "choices": []
+            },
+            {
+              "id": 10,
+              "text": "En vastaa.",
+              "parent": "df74267c-b2bd-46d1-a8a6-6c374e59d349",
+              "choices": []
+            }
+          ],
+          "uuid": "df74267c-b2bd-46d1-a8a6-6c374e59d349",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2023-09-15T10:58:50.334166"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Jodihoito 15 p.\n\n#### Aineisto\n\n8.A [LINK text=Teksti: Kilpirauhassyövän jodihoito|url=https://yle.fi/plus/abitreenit/2023/syksy/fysiikka_fi/attachments/index.html#8.A]\n\n&NewLine;\n\nKilpirauhassyöpää hoidetaan poistamalla kilpirauhanen leikkauksella. Jäljelle jäänyt rauhaskudos tuhotaan radioaktiivisella jodin isotoopilla I-131, sillä kehossa jodia kertyy erityisesti kilpirauhaskudokseen. Tutustu tekstiin [LINK text=8.A|url=https://yle.fi/plus/abitreenit/2023/syksy/fysiikka_fi/attachments/index.html#8.A] ja vastaa osatehtäviin 8.1–8.3.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 176183,
+          "content": {
+            "text": "### Jodihoito 15 p.\n\n#### Aineisto\n\n8.A [LINK text=Teksti: Kilpirauhassyövän jodihoito|url=https://yle.fi/plus/abitreenit/2023/syksy/fysiikka_fi/attachments/index.html#8.A]\n\n&NewLine;\n\nKilpirauhassyöpää hoidetaan poistamalla kilpirauhanen leikkauksella. Jäljelle jäänyt rauhaskudos tuhotaan radioaktiivisella jodin isotoopilla I-131, sillä kehossa jodia kertyy erityisesti kilpirauhaskudokseen. Tutustu tekstiin [LINK text=8.A|url=https://yle.fi/plus/abitreenit/2023/syksy/fysiikka_fi/attachments/index.html#8.A] ja vastaa osatehtäviin 8.1–8.3.",
+            "displayNumber": "8."
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "fe6e2f0b-1b84-438c-bc67-5aec7759da82",
+            "a93831b9-32c1-41fb-9c28-6a72c4bcdc3e",
+            "79ca746d-87da-44a2-9bad-4d921e5cbb1d"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-03-18T11:24:39.910853",
+          "max_score": null,
+          "groupping": null,
+          "id": 6086837,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "32becf07-f6b3-4c0e-b74f-655eae4dbeb5",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2023-09-15T12:36:52.474212"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Laatikko liukuu pöydällä, ja kitka pienentää sen vauhtia. Kitkavoiman tekemä työ 2 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 176183,
+          "content": {
+            "text": "Laatikko liukuu pöydällä, ja kitka pienentää sen vauhtia. Kitkavoiman tekemä työ 2 p.",
+            "displayNumber": "1.7"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:24:39.913726",
+          "max_score": 2,
+          "groupping": null,
+          "id": 6085583,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "text": "voi annettujen tietojen perusteella olla joko positiivinen tai negatiivinen.",
+              "parent": "49ff57c8-4777-4deb-acbf-c26cfae28129",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 2,
+              "text": "on nolla.",
+              "parent": "49ff57c8-4777-4deb-acbf-c26cfae28129",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 3,
+              "text": "on negatiivinen.",
+              "parent": "49ff57c8-4777-4deb-acbf-c26cfae28129",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 4,
+              "text": "on positiivinen.",
+              "parent": "49ff57c8-4777-4deb-acbf-c26cfae28129",
+              "choices": [],
+              "correct": false
+            }
+          ],
+          "uuid": "49ff57c8-4777-4deb-acbf-c26cfae28129",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2023-09-15T09:41:57.292568"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "## Pirttikoski 15 p.\n\n#### Aineisto\n\n2.A [LINK text=Mittausaineisto: Veden virtaama koskessa|url=https://yle.fi/plus/abitreenit/2023/syksy/fysiikka_fi/attachments/index.html#2.A]\n\n&NewLine;\n\nAineistossa [LINK text=2.A|url=https://yle.fi/plus/abitreenit/2023/syksy/fysiikka_fi/attachments/index.html#2.A] on veden virtaaman vuorokausikeskiarvo (yksikkönä m[SUP text=3]/s) Rovaniemen Pirttikosken voimalaitoksessa 1.2.–31.7.2022.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 176183,
+          "content": {
+            "text": "## Pirttikoski 15 p.\n\n#### Aineisto\n\n2.A [LINK text=Mittausaineisto: Veden virtaama koskessa|url=https://yle.fi/plus/abitreenit/2023/syksy/fysiikka_fi/attachments/index.html#2.A]\n\n&NewLine;\n\nAineistossa [LINK text=2.A|url=https://yle.fi/plus/abitreenit/2023/syksy/fysiikka_fi/attachments/index.html#2.A] on veden virtaaman vuorokausikeskiarvo (yksikkönä m[SUP text=3]/s) Rovaniemen Pirttikosken voimalaitoksessa 1.2.–31.7.2022.",
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "34bcb803-de08-4aa2-8fa8-c96709828ffa",
+            "40a7c362-3a43-4f41-be9d-52eb1bf90cf6",
+            "d9066f81-9b8b-4e22-97bb-eb0f3d360e34"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-03-18T11:24:39.915907",
+          "max_score": null,
+          "groupping": null,
+          "id": 6085601,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "2f4fea02-1782-4532-b4e9-343cf385b8ea",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2023-09-15T09:44:28.340907"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Automatka 15 p.\n\nAutolla ajetaan tasaisella nopeudella Helsingistä Hyvinkäälle ja sitten Hyvinkäältä takaisin Helsinkiin. Helsingin ja Hyvinkään välinen etäisyys tietä pitkin on 58 km. Helsingissä lähtöpaikan korkeus merenpinnasta on 17 m ja Hyvinkäällä kohteen korkeus merenpinnasta 105 m. Auton massa on 1 600 kg, ja sen bensiinimoottorin hyötysuhde on 24 %. Voit olettaa, että vastusvoimat ovat keskimäärin yhtä suuret meno- ja paluumatkalla. Bensiinin lämpöarvo on 31,2 MJ/l.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 176183,
+          "content": {
+            "text": "### Automatka 15 p.\n\nAutolla ajetaan tasaisella nopeudella Helsingistä Hyvinkäälle ja sitten Hyvinkäältä takaisin Helsinkiin. Helsingin ja Hyvinkään välinen etäisyys tietä pitkin on 58 km. Helsingissä lähtöpaikan korkeus merenpinnasta on 17 m ja Hyvinkäällä kohteen korkeus merenpinnasta 105 m. Auton massa on 1 600 kg, ja sen bensiinimoottorin hyötysuhde on 24 %. Voit olettaa, että vastusvoimat ovat keskimäärin yhtä suuret meno- ja paluumatkalla. Bensiinin lämpöarvo on 31,2 MJ/l.",
+            "displayNumber": "5."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "93ea53ad-004f-41ec-a25b-d687511babda",
+            "774551d3-5c6b-44ae-8a98-de6008cb979d"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-03-18T11:24:39.921548",
+          "max_score": null,
+          "groupping": null,
+          "id": 6086539,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "82542689-05c6-43ff-995d-2808b723202f",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2023-09-15T11:42:02.404759"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Olomuodon muutos 15 p.\n\nPakastimesta otetaan jääpala, jonka massa on 0,050 kg ja jonka lämpötila on −18,0 ºC. Jääpala pudotetaan lämpöeristettyyn muoviastiaan, jossa on 0,40 kg vettä lämpötilassa +1,0 ºC. Vedessä on lämpömittari. Odotetaan, kunnes mittarin lukema ei enää muutu. Sillä hetkellä astiassa on jääpala ja nestemäistä vettä. Mikä on lämpötila lopussa? Määritä jääpalan massan muutos.",
+          "deleted_at": null,
+          "feedback": "Mittarin lukeman asetuttua jää ja vesi ovat tasapainossa keskenään, joten sillä hetkellä lämpötila on T = 0 °C\n\n(3 p.)\n\nJääpalan pudottamisen jälkeen jää alkaa lämmetä ja vesi alkaa jäähtyä. Sovelletaan jään lämpenemiseen ja veden jäähtymiseen yhtälöä [MATH text=Q=cmΔT]. Lopussa [MATH text=T=0°C], joten jäälle [MATH text=\\Delta T_j=+18K] ja vedelle [MATH text=\\Delta T_v=-1{,}0K].\n\n&NewLine;\n\nJään lämpeneminen nolla-asteiseksi: siirtyvä lämpö jään kannalta katsoen on\n\n[MATH text=Q_j=c_jm_j\\Delta T_j\\approx][MATH text=\\left(2090J\\bigg/_{\\!\\!\\!\\!\\!{ }}^{ }kgK\\right)\\cdot0{,}05kg\\cdot\\left(18K\\right)=1881J]\n\nVeden jäähtyminen nolla-asteiseksi: siirtyvä lämpö veden kannalta katsoen on [MATH text=Q_v=c_vm_v\\Delta T_v\\approx][MATH text=\\left(4182J\\bigg/_{\\!\\!\\!\\!\\!{ }}^{ }kgK\\right)\\cdot0{,}40kg\\cdot\\left(-1{,}0K\\right)=-1673J]\n\n(4 p.)\n\nKoska järjestelmä on eristetty, pitää kaikkien lämpöjen summautua nollaksi kokonaisenergia säilyy). Huomaamme, että [MATH text=Q_j+Q_v>0].\n\nTarvitaan siis olomuodon muutos, johon liittyy lämpö [MATH text=Q_m] siten, että [MATH text=Q_j+Q_v+Q_m=0], joten [MATH text=Q_m=-Q_j-Q_v][MATH text=\\approx-1881J+1673J=-208J].\n\n[MATH text=Q_m]on negatiivinen, joten osan vedestä pitää jäätyä. Jäätyessään se luovuttaa lämpömäärän [MATH text=Q=-Q_m\\approx208J.]\n\nLasketaan jäätyvän veden massa, joka olkoon m.\n\n[MATH text=Q=sm], joten [MATH text=m=Q/s\\approx208J/(334J/g)\\approx0,623g]\n\nJääpalan massan muutos on siis [MATH text = m\\approx0,62g]\n\n(8 p.)\n\nVain pieni osa vedestä jäätyy, joten lopussa astiassa todellakin on sekä vettä että jäätä.",
+          "exam_id": 176183,
+          "content": {
+            "text": "### Olomuodon muutos 15 p.\n\nPakastimesta otetaan jääpala, jonka massa on 0,050 kg ja jonka lämpötila on −18,0 ºC. Jääpala pudotetaan lämpöeristettyyn muoviastiaan, jossa on 0,40 kg vettä lämpötilassa +1,0 ºC. Vedessä on lämpömittari. Odotetaan, kunnes mittarin lukema ei enää muutu. Sillä hetkellä astiassa on jääpala ja nestemäistä vettä. Mikä on lämpötila lopussa? Määritä jääpalan massan muutos.",
+            "displayNumber": "3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-03-18T11:24:39.924428",
+          "max_score": null,
+          "groupping": null,
+          "id": 6085623,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "cfa0f82b-17d4-4532-9954-aa3fe256ef07",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2023-09-15T09:50:46.881842"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Monivalintatehtäviä fysiikan eri osa-alueilta 20 p.\n\nValitse jokaisessa osatehtävässä 1.1–1.10 parhaiten soveltuva vaihtoehto. Oikea vastaus 2 p., väärä vastaus 0 p., ei vastausta 0 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 176183,
+          "content": {
+            "text": "### Monivalintatehtäviä fysiikan eri osa-alueilta 20 p.\n\nValitse jokaisessa osatehtävässä 1.1–1.10 parhaiten soveltuva vaihtoehto. Oikea vastaus 2 p., väärä vastaus 0 p., ei vastausta 0 p.",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "a1c1ccd6-4d58-4672-a31c-f7b8a5a6b00c",
+            "e85d67e5-1cbf-4f08-b960-33a99751e481",
+            "8aa54215-e8b2-46a7-9e0f-ff7fb671ac6b",
+            "0b08f979-ac5c-4a37-a9de-6a7b21b4e8e4",
+            "bba9a9a5-0234-446b-97fd-3dd5879ee41b",
+            "1f6869ff-0c55-429a-919c-8a66f7807e41",
+            "49ff57c8-4777-4deb-acbf-c26cfae28129",
+            "ee55658c-f6af-4904-8650-1cb3799af825",
+            "9e0f5063-cfc4-49fc-bb29-b0ac9de4e2b2",
+            "8f915db6-d84f-4f6d-a90d-26f82538ea96"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-03-18T11:24:39.926523",
+          "max_score": null,
+          "groupping": null,
+          "id": 6085576,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "01969de4-a451-4a2a-b205-c3e2d236e6bc",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2023-09-15T09:41:57.268938"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Edullisten sähköisten kylmälaukkujen toiminta perustuu tyypillisesti Peltier-elementtiin. Tietoja laitteesta on annettu aineistoissa 11.B ja 11.C. Päättele aineistojen perusteella, mitkä tekijät heikentävät Peltier-elementillä toimivien kylmälaukkujen viilennystehoa. 6 p.",
+          "deleted_at": null,
+          "feedback": "Sähkövirran kasvaessa hukkalämmöntuotto kasvaa nopeammin kuin viilennysteho. Elementissä lämpötilaerot pääsevät tasoittumaan melko helposti, sillä kuuma ja kylmä puoli ovat hyvin lähellä toisiaan. Lisäksi kuuman ja kylmän puolen välissä on hyvin lämpöä johtavaa ainetta (kun taas ulkopinnoilla aine on heikommin lämpöä johtavaa).",
+          "exam_id": 176183,
+          "content": {
+            "text": "Edullisten sähköisten kylmälaukkujen toiminta perustuu tyypillisesti Peltier-elementtiin. Tietoja laitteesta on annettu aineistoissa 11.B ja 11.C. Päättele aineistojen perusteella, mitkä tekijät heikentävät Peltier-elementillä toimivien kylmälaukkujen viilennystehoa. 6 p.",
+            "displayNumber": "11.3"
+          },
+          "images": null,
+          "settings": {
+            "material": false,
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:24:39.92926",
+          "max_score": null,
+          "groupping": null,
+          "id": 6100047,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "97c563e6-6298-4adb-81d5-26bb2eadd64c",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2023-09-15T15:03:25.06466"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Määritä sukeltajan kehoon vaikuttava paine 65 metrin syvyydessä, jos ilmanpaine meren pinnan tasolla on 101,3 kPa. 3 p.",
+          "deleted_at": null,
+          "feedback": "Sukeltajan kehoon vaikuttava paine on hydrostaattisen paineen ja ilmanpaineen summa:\n\n[MATH text=p=p_h+p_0=pgh+p_0]\n\njossa [MATH text=p=1,0\\cdot10^3kg/m^3] on veden tiheys, [MATH text=g=9,81m/s^2] on putoamiskiihtyvyys, h on syvyys veden alla ja [MATH text=p_0=101,3 kPa]  on veden pinnalla vaikuttava ilmanpaine.\n\nKokonaispaine 65 metrin syvyydessä on\n\np = [MATH text=pgh+p_0=][MATH text=1,0\\cdot10^3kg/m^3][MATH text=\\cdot9{,}81m/s2\\cdot65m+101{,}3kPa=738{,}950kPa\\approx740kPa.]",
+          "exam_id": 176183,
+          "content": {
+            "text": "Määritä sukeltajan kehoon vaikuttava paine 65 metrin syvyydessä, jos ilmanpaine meren pinnan tasolla on 101,3 kPa. 3 p.",
+            "displayNumber": "10.1"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "10",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:24:39.931999",
+          "max_score": null,
+          "groupping": null,
+          "id": 6092726,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "c97bf176-2ab4-41c8-b886-490597f02ee2",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2023-09-15T13:26:24.725194"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Invertteriltä täydellä teholla toimivalle kylmälaukulle menevän sähkövirran suuruus ja jännite mitattiin (aineisto 11.A). Määritä kylmälaukun keskimääräinen tehonkulutus. 10 p.",
+          "deleted_at": null,
+          "feedback": "Tehtävä voidaan ratkaista usealla eri tavalla. [LINK text=Taulukossa|url=https://drive.google.com/file/d/10H3l24gKKTYGOhkxHXg-RSR_19nfUgcA/view] on kuvattu pääpiirteissään neljän toisistaan eroavan ratkaisutavan vaiheet ja niistä annettavat pisteet.\n\nKeskimääräiseksi tehoksi saadaan noin 75 W.",
+          "exam_id": 176183,
+          "content": {
+            "text": "Invertteriltä täydellä teholla toimivalle kylmälaukulle menevän sähkövirran suuruus ja jännite mitattiin (aineisto 11.A). Määritä kylmälaukun keskimääräinen tehonkulutus. 10 p.",
+            "displayNumber": "11.2"
+          },
+          "images": null,
+          "settings": {
+            "material": false,
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:24:39.934548",
+          "max_score": null,
+          "groupping": null,
+          "id": 6100046,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "efa3899f-5fee-4202-bd05-ac9e54dac6c7",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2023-09-15T15:03:25.059915"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Antiikin Roomassa juoksupyöränostureilla nostettiin ihmisvoimin useiden tonnien kuormia esimerkiksi Colosseumia ja Pantheonia rakennettaessa. Millä eri tavoilla kuvan 9.B esittämää nosturia voidaan kehittää, jotta sillä olisi mahdollista nostaa raskaampia kappaleita? 4 p.",
+          "deleted_at": null,
+          "feedback": "Riittävän leveään juoksupyörään mahtuu useampi ihminen kävelemään rinnakkain. Laitteiston välityssuhde saadaan suuremmaksi kasvattamalla juoksupyörän ja rummun halkaisijoiden suhdetta tai väkipyörien lukumäärää.\n\nKaksi järkevää parannusehdotusta 4 p.",
+          "exam_id": 176183,
+          "content": {
+            "text": "Antiikin Roomassa juoksupyöränostureilla nostettiin ihmisvoimin useiden tonnien kuormia esimerkiksi Colosseumia ja Pantheonia rakennettaessa. Millä eri tavoilla kuvan 9.B esittämää nosturia voidaan kehittää, jotta sillä olisi mahdollista nostaa raskaampia kappaleita? 4 p.",
+            "displayNumber": "9.3"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:24:39.940672",
+          "max_score": null,
+          "groupping": null,
+          "id": 6088761,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "25f3acfd-b4d9-40f3-908f-6fd940c04aef",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2023-09-15T12:54:07.146172"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Pohdi annettujen tietojen perusteella, millainen olisi puheen tai musiikin kuuntelukokemus Marsissa verrattuna Maahan olettaen, että äänien kuuntelu Marsissa olisi mahdollista ilman suojausjärjestelyjä. 4 p.",
+          "deleted_at": null,
+          "feedback": "Marsissa kaikki äänet kuultaisiin (20 dB) vaimeampina. Lisäksi, koska korkeat äänet (yli 400 Hz) etenevät noin 4 % nopeammin, ne kuultaisiin aiemmin kuin matalat äänet. Tällöin puhe tai musiikki kuulostaisi epäselvältä.",
+          "exam_id": 176183,
+          "content": {
+            "text": "Pohdi annettujen tietojen perusteella, millainen olisi puheen tai musiikin kuuntelukokemus Marsissa verrattuna Maahan olettaen, että äänien kuuntelu Marsissa olisi mahdollista ilman suojausjärjestelyjä. 4 p.",
+            "displayNumber": "6.4"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:24:39.943223",
+          "max_score": null,
+          "groupping": null,
+          "id": 6086609,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "06fc01f9-3651-4aca-8a61-eae9f8df5566",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2023-09-15T11:55:27.458799"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Plasmaa sisältävään laitteeseen, jossa on homogeeninen magneettikenttä, kytketään homogeeninen sähkökenttä, joka on samansuuntainen magneettikentän kanssa. Deuteronin alkunopeus on magneettikenttää vastaan kohtisuorassa. Selitä, miksi sähkökentän kytkemisen jälkeen deuteroni liikkuu kuvan 7.A mukaista ruuviviivan muotoista rataa. 5 p.",
+          "deleted_at": null,
+          "feedback": "Koska deuteroni on varattu hiukkanen, sen liikettä ohjaavat sähkö- ja magneettikenttä. Magneettikentän aiheuttama ympyräliike säilyy kenttää vastaan kohtisuorassa suunnassa. Sähkökenttä synnyttää voiman\n\n[MATH text=F = qE = +eE], joka aiheuttaa kiihtyvän liikkeen sähkökentän suunnassa. Yhteisvaikutuksena nähdään kuvan ruuviviivan kaltainen helikaalinen liike.",
+          "exam_id": 176183,
+          "content": {
+            "text": "Plasmaa sisältävään laitteeseen, jossa on homogeeninen magneettikenttä, kytketään homogeeninen sähkökenttä, joka on samansuuntainen magneettikentän kanssa. Deuteronin alkunopeus on magneettikenttää vastaan kohtisuorassa. Selitä, miksi sähkökentän kytkemisen jälkeen deuteroni liikkuu kuvan 7.A mukaista ruuviviivan muotoista rataa. 5 p.",
+            "displayNumber": "7.2"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:24:39.945976",
+          "max_score": null,
+          "groupping": null,
+          "id": 6086685,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "786c81b1-6c23-48b1-85e4-bb01ddbb5b57",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2023-09-15T12:01:17.707002"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Plasmaa sisältävässä laitteessa on aluksi homogeeninen magneettikenttä mutta ei sähkökenttää. Deuteronin ja elektronin alkunopeus on magneettikenttää vastaan kohtisuorassa. Miten deuteroni ja elektroni liikkuvat magneettikentässä? Millä kahdella tavalla niiden liikkeet eroavat toisistaan? 6 p.",
+          "deleted_at": null,
+          "feedback": "Homogeenisessa magneettikentässä deuteroni ja elektroni kulkevat ympyrärataa vakiovauhdilla (alkunopeudella) magneettikenttää vastaan kohtisuorassa tasossa. Massaeron takia ympyräratojen säteet ovat erilaiset, ja varauksen vastakkaisen merkin takia kiertosuunnat ovat vastakkaiset.",
+          "exam_id": 176183,
+          "content": {
+            "text": "Plasmaa sisältävässä laitteessa on aluksi homogeeninen magneettikenttä mutta ei sähkökenttää. Deuteronin ja elektronin alkunopeus on magneettikenttää vastaan kohtisuorassa. Miten deuteroni ja elektroni liikkuvat magneettikentässä? Millä kahdella tavalla niiden liikkeet eroavat toisistaan? 6 p.",
+            "displayNumber": "7.1"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:24:39.948334",
+          "max_score": null,
+          "groupping": null,
+          "id": 6086684,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "66209747-8b30-4a93-8a36-614bb303fe58",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2023-09-15T12:01:17.703972"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Jos menomatka ajetaan suuremmalla nopeudella kuin paluumatka, miten tämä vaikuttaa bensiininkulutuksen eroon meno- ja paluumatkan välillä? 6 p.",
+          "deleted_at": null,
+          "feedback": "Kun menomatka ajetaan suuremmalla nopeudella kuin paluumatka, on vastusvoimien tekemä työ menomatkalla suurempi kuin paluumatkalla. Tällöin [MATH text=\\Delta  E=E_{meno}-E_{paluu}=2mg\\Delta h+W_{meno}-W_{paluu}>2mg\\Delta h], eli energiankulutuksen ja samalla bensiininkulutuksen ero kasvaa.",
+          "exam_id": 176183,
+          "content": {
+            "text": "Jos menomatka ajetaan suuremmalla nopeudella kuin paluumatka, miten tämä vaikuttaa bensiininkulutuksen eroon meno- ja paluumatkan välillä? 6 p.",
+            "displayNumber": "5.2"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:24:39.950892",
+          "max_score": null,
+          "groupping": null,
+          "id": 6086542,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "774551d3-5c6b-44ae-8a98-de6008cb979d",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2023-09-15T11:42:02.412485"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Miksi ääniaaltojen esiintyminen Marsin kaasukehässä oli merkittävä löydös, joka kohahdutti tiedemaailmaa? 3 p.",
+          "deleted_at": null,
+          "feedback": "Ääniaalto tarvitsee edetäkseen väliaineen. Oli ajateltu, että Marsin kaasukehän tiheys tai paine tai molemmat ovat liian alhaisia, jotta ääniaalto voisi edetä.",
+          "exam_id": 176183,
+          "content": {
+            "text": "Miksi ääniaaltojen esiintyminen Marsin kaasukehässä oli merkittävä löydös, joka kohahdutti tiedemaailmaa? 3 p.",
+            "displayNumber": "6.1"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:24:39.953475",
+          "max_score": null,
+          "groupping": null,
+          "id": 6086606,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "a4deb2f4-7812-4b10-a442-feecbf99a8b8",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2023-09-15T11:55:27.448883"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kuinka monta litraa enemmän bensiiniä kuluu menomatkalla kuin paluumatkalla? 9 p.",
+          "deleted_at": null,
+          "feedback": "Menomatkalla polttoaineen energiaa kuluu auton potentiaalienergian kasvattamiseen ja vastusvoimien tekemään työhön.\n\n[MATH text=E_{meno}=\\Delta E_p+W=mg\\Delta h+W]\n\nPaluumatkalla polttoaineen energiaa kuluu yhä vastusvoimien tekemän työn voittamiseen, mutta potentiaalienergia vähenee.\n\n[MATH text=E_{paluu}=-mg\\Delta h +W]\n\nMeno- ja paluumatkalla kuluneiden energioiden erotus on\n\n[MATH text=\\Delta  E=E_{meno}-E_{paluu}=2mg\\Delta h=2762496J]\n\n(4 p.)\n\nEnergia tuotetaan bensiiniä polttamalla\n\n[MATH text=\\Delta E=\\eta H\\Delta V]\n\njoten bensiininkulutuksen ero meno- ja paluumatkan välillä on\n\n[MATH text=\\Delta V=\\frac{\\Delta E}{\\eta H}=\\frac{2mg\\Delta h}{\\eta H}=0{,}3689231\\approx0{,}371]\n\n(5 p.)",
+          "exam_id": 176183,
+          "content": {
+            "text": "Kuinka monta litraa enemmän bensiiniä kuluu menomatkalla kuin paluumatkalla? 9 p.",
+            "displayNumber": "5.1"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:24:39.955902",
+          "max_score": null,
+          "groupping": null,
+          "id": 6086540,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "93ea53ad-004f-41ec-a25b-d687511babda",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2023-09-15T11:42:02.407402"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Miten äänen nopeuden ja taajuuden  keskinäinen riippuvuus Marsissa eroaa niiden riippuvuudesta Maan pinnalla? 3 p.",
+          "deleted_at": null,
+          "feedback": "Maan pinnalla äänen nopeus on (likimain) vakio taajuuden funktiona (kuuloalueen taajuuksilla).",
+          "exam_id": 176183,
+          "content": {
+            "text": "Miten äänen nopeuden ja taajuuden  keskinäinen riippuvuus Marsissa eroaa niiden riippuvuudesta Maan pinnalla? 3 p.",
+            "displayNumber": "6.2"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:24:39.958541",
+          "max_score": null,
+          "groupping": null,
+          "id": 6086607,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "029d4b50-2ecb-4718-a034-6a818c7d6c39",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2023-09-15T11:55:27.452328"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Auto vetää asuntovaunua ja etenee vaakasuoralla moottoritiellä tasaisella vauhdilla. Asuntovaunuun kohdistuvien voimien summa 2 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 176183,
+          "content": {
+            "text": "Auto vetää asuntovaunua ja etenee vaakasuoralla moottoritiellä tasaisella vauhdilla. Asuntovaunuun kohdistuvien voimien summa 2 p.",
+            "displayNumber": "1.3"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:24:39.961969",
+          "max_score": 2,
+          "groupping": null,
+          "id": 6085579,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "text": "osoittaa alaspäin.",
+              "parent": "8aa54215-e8b2-46a7-9e0f-ff7fb671ac6b",
+              "choices": []
+            },
+            {
+              "id": 2,
+              "text": "on nolla.",
+              "parent": "8aa54215-e8b2-46a7-9e0f-ff7fb671ac6b",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 3,
+              "text": "osoittaa ylöspäin.",
+              "parent": "8aa54215-e8b2-46a7-9e0f-ff7fb671ac6b",
+              "choices": []
+            },
+            {
+              "id": 4,
+              "text": "osoittaa eteenpäin.",
+              "parent": "8aa54215-e8b2-46a7-9e0f-ff7fb671ac6b",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 5,
+              "text": "osoittaa taaksepäin.",
+              "parent": "8aa54215-e8b2-46a7-9e0f-ff7fb671ac6b",
+              "choices": []
+            }
+          ],
+          "uuid": "8aa54215-e8b2-46a7-9e0f-ff7fb671ac6b",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2023-09-15T09:41:57.278596"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Paksun metallilangan halkaisija on kaksinkertainen ohuen langan halkaisijaan verrattuna. Langat ovat yhtä pitkiä. Ohuen langan resistanssi on *R*. Paksun langan resistanssi on 2 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 176183,
+          "content": {
+            "text": "Paksun metallilangan halkaisija on kaksinkertainen ohuen langan halkaisijaan verrattuna. Langat ovat yhtä pitkiä. Ohuen langan resistanssi on *R*. Paksun langan resistanssi on 2 p.",
+            "displayNumber": "1.4"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:24:39.967493",
+          "max_score": 2,
+          "groupping": null,
+          "id": 6085580,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "text": "[MATH text=\\frac{1}{4}R]",
+              "parent": "0b08f979-ac5c-4a37-a9de-6a7b21b4e8e4",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 2,
+              "text": "[MATH text={4}R]",
+              "parent": "0b08f979-ac5c-4a37-a9de-6a7b21b4e8e4",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 3,
+              "text": "[MATH text=2R]",
+              "parent": "0b08f979-ac5c-4a37-a9de-6a7b21b4e8e4",
+              "choices": []
+            },
+            {
+              "id": 4,
+              "text": "[MATH text=\\frac{1}{2}R]",
+              "parent": "0b08f979-ac5c-4a37-a9de-6a7b21b4e8e4",
+              "choices": [],
+              "correct": false
+            }
+          ],
+          "uuid": "0b08f979-ac5c-4a37-a9de-6a7b21b4e8e4",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2023-09-15T09:41:57.282157"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Fissio ja fuusio ovat ydinreaktioita, joita voidaan hyödyntää energian tuotannossa. Mikä seuraavista väitteistä on oikein? 2 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 176183,
+          "content": {
+            "text": "Fissio ja fuusio ovat ydinreaktioita, joita voidaan hyödyntää energian tuotannossa. Mikä seuraavista väitteistä on oikein? 2 p.",
+            "displayNumber": "1.1"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:24:39.97007",
+          "max_score": 2,
+          "groupping": null,
+          "id": 6085577,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "text": "Fuusiossa yhdistyy kaksi kevyttä ydintä, ja fissiossa yhdistyy kaksi raskasta ydintä.",
+              "parent": "a1c1ccd6-4d58-4672-a31c-f7b8a5a6b00c",
+              "choices": []
+            },
+            {
+              "id": 2,
+              "text": "Fuusiossa hajoaa yksi raskas ydin, ja fissiossa yhdistyy kaksi kevyttä ydintä.",
+              "parent": "a1c1ccd6-4d58-4672-a31c-f7b8a5a6b00c",
+              "choices": []
+            },
+            {
+              "id": 3,
+              "text": "Fuusiossa hajoaa yksi kevyt ydin, ja fissiossa hajoaa yksi raskas ydin.",
+              "parent": "a1c1ccd6-4d58-4672-a31c-f7b8a5a6b00c",
+              "choices": []
+            },
+            {
+              "id": 4,
+              "text": "Fuusiossa yhdistyy kaksi kevyttä ydintä, ja fissiossa hajoaa yksi raskas ydin.",
+              "parent": "a1c1ccd6-4d58-4672-a31c-f7b8a5a6b00c",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "a1c1ccd6-4d58-4672-a31c-f7b8a5a6b00c",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2023-09-15T09:41:57.272017"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Minkä kuukauden aikana vettä virtasi eniten, ja mikä oli sinä kuukautena virranneen veden kokonaistilavuus? 5 p.",
+          "deleted_at": null,
+          "feedback": "Graafisella integroinnilla tai laskemalla päivittäiset virtaamat yhteen saadaan kuukausivirtaamiksi:\n\n&NewLine;\n\nKuukausi Virtaama (kuutiometriä)\n\nHelmikuu 772692480\n\nMaaliskuu 804322656\n\nHuhtikuu 867906144\n\nToukokuu 1606818816\n\nKesäkuu 939117888\n\nHeinäkuu 749441376\n\n&NewLine;\n\nTaulukosta nähdään, että suurin kuukausivirtaama oli toukokuussa, noin 1,6 ⋅ [MATH text=10^9] kuutiometriä.",
+          "exam_id": 176183,
+          "content": {
+            "text": "Minkä kuukauden aikana vettä virtasi eniten, ja mikä oli sinä kuukautena virranneen veden kokonaistilavuus? 5 p.",
+            "displayNumber": "2.2"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:24:39.972642",
+          "max_score": null,
+          "groupping": null,
+          "id": 6085603,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "40a7c362-3a43-4f41-be9d-52eb1bf90cf6",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2023-09-15T09:44:28.34608"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Pirttikosken voimalaitoksessa vesi putoaa 26 metriä. Kuinka paljon energiaa voimalaitos olisi enintään voinut tuottaa 13.3.2022, jos koko voimalaitoksen läpi virtaavan veden potentiaalienergia olisi voitu hyödyntää? 5 p.",
+          "deleted_at": null,
+          "feedback": "Voimalaitoksen sähköenergian tuotanto ei voi olla suurempi kuin virtaavan veden potentiaalienergian muutos.\n\nMaaliskuun 13. päivänä veden virtaama oli 30 087 072 kuutiometriä, ja vastaava potentiaalienergian muutos on\n\n[MATH text=\\Delta E_p=mg\\Delta h=pVg\\Delta h=1000\\frac{kg}{m^3}\\cdot30087872\\cdot9{,}81\\frac{m}{s^2}\\cdot26m=][MATH text=7674008584320\\approx7{,}7TJ]",
+          "exam_id": 176183,
+          "content": {
+            "text": "Pirttikosken voimalaitoksessa vesi putoaa 26 metriä. Kuinka paljon energiaa voimalaitos olisi enintään voinut tuottaa 13.3.2022, jos koko voimalaitoksen läpi virtaavan veden potentiaalienergia olisi voitu hyödyntää? 5 p.",
+            "displayNumber": "2.3"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:24:39.975485",
+          "max_score": null,
+          "groupping": null,
+          "id": 6085604,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "d9066f81-9b8b-4e22-97bb-eb0f3d360e34",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2023-09-15T09:44:28.348241"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Esitä vuorokaudessa virranneen veden tilavuus vuoden alusta lasketun päivän numeron funktiona. 5 p.",
+          "deleted_at": null,
+          "feedback": "Vuorokaudessa virranneen veden määrä saadaan kertomalla keskivirtaama vuorokauden sekuntien lukumäärällä. Tulos esitetään vuoden alusta lasketun päivän numeron funktiona:\n\n[IMS id=39-117254365042809cdcbe]",
+          "exam_id": 176183,
+          "content": {
+            "text": "Esitä vuorokaudessa virranneen veden tilavuus vuoden alusta lasketun päivän numeron funktiona. 5 p.",
+            "displayNumber": "2.1"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:24:39.977886",
+          "max_score": null,
+          "groupping": null,
+          "id": 6085602,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "34bcb803-de08-4aa2-8fa8-c96709828ffa",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2023-09-15T09:44:28.343802"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kun paristokäyttöinen lamppu sytytetään, 2 p.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 176183,
+          "content": {
+            "text": "Kun paristokäyttöinen lamppu sytytetään, 2 p.\n",
+            "displayNumber": "1.9"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:24:39.980537",
+          "max_score": 2,
+          "groupping": null,
+          "id": 6085585,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "text": "pariston sähköinen kokonaisvaraus ei muutu.",
+              "parent": "9e0f5063-cfc4-49fc-bb29-b0ac9de4e2b2",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 2,
+              "text": "paristossa olevien varauksenkuljettajien lukumäärä pienenee, koska lamppu säteilee energiaa.",
+              "parent": "9e0f5063-cfc4-49fc-bb29-b0ac9de4e2b2",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 3,
+              "text": "paristo alkaa tuottaa varauksenkuljettajia.",
+              "parent": "9e0f5063-cfc4-49fc-bb29-b0ac9de4e2b2",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 4,
+              "text": "paristosta varastoituu varauksenkuljettajia lamppuun.",
+              "parent": "9e0f5063-cfc4-49fc-bb29-b0ac9de4e2b2",
+              "choices": [],
+              "correct": false
+            }
+          ],
+          "uuid": "9e0f5063-cfc4-49fc-bb29-b0ac9de4e2b2",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2023-09-15T09:41:57.299513"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Maapallon pyörimisakseli on kallistunut noin 23 ° ratatason normaaliin nähden (kuva). Jos kallistuskulma olisi 0 °, 2 p.\n\n[IMS id=39-117253065042563c5895]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 176183,
+          "content": {
+            "text": "Maapallon pyörimisakseli on kallistunut noin 23 ° ratatason normaaliin nähden (kuva). Jos kallistuskulma olisi 0 °, 2 p.\n\n[IMS id=39-117253065042563c5895]",
+            "displayNumber": "1.8"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:24:39.983409",
+          "max_score": 2,
+          "groupping": null,
+          "id": 6085584,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "text": "ei maapallolla esiintyisi vuorovesi-ilmiötä.",
+              "parent": "ee55658c-f6af-4904-8650-1cb3799af825",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 2,
+              "text": "olisi vuorokauden pituus puolen vuoden mittainen.",
+              "parent": "ee55658c-f6af-4904-8650-1cb3799af825",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 3,
+              "text": "olisi ilmasto kaikkialla maapallolla samanlainen.",
+              "parent": "ee55658c-f6af-4904-8650-1cb3799af825",
+              "choices": [],
+              "correct": false
+            },
+            {
+              "id": 4,
+              "text": "ei maapallolla esiintyisi vuodenaikoja.",
+              "parent": "ee55658c-f6af-4904-8650-1cb3799af825",
+              "choices": [],
+              "correct": true
+            }
+          ],
+          "uuid": "ee55658c-f6af-4904-8650-1cb3799af825",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2023-09-15T09:41:57.296312"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Istahdat kuumassa saunassa puiselle lauteelle, josta pilkistää metallisen naulan kanta. Lauteeseen verrattuna\n\nnaula tuntuu ihoasi vasten paljon polttavammalta, koska 2 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 176183,
+          "content": {
+            "text": "Istahdat kuumassa saunassa puiselle lauteelle, josta pilkistää metallisen naulan kanta. Lauteeseen verrattuna\n\nnaula tuntuu ihoasi vasten paljon polttavammalta, koska 2 p.",
+            "displayNumber": "1.2"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2024-03-18T11:24:39.986137",
+          "max_score": 2,
+          "groupping": null,
+          "id": 6085578,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "text": "naulan lämpökapasiteetti on suurempi kuin lauteen.",
+              "parent": "e85d67e5-1cbf-4f08-b960-33a99751e481",
+              "choices": []
+            },
+            {
+              "id": 2,
+              "text": "naulan lämmönjohtavuus on suurempi kuin lauteen.",
+              "parent": "e85d67e5-1cbf-4f08-b960-33a99751e481",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 3,
+              "text": "naula koskettaa lauteeseen verrattuna paljon pienempää pinta-alaa ihollasi.",
+              "parent": "e85d67e5-1cbf-4f08-b960-33a99751e481",
+              "choices": []
+            },
+            {
+              "id": 4,
+              "text": "naula on kuumempi kuin laude.",
+              "parent": "e85d67e5-1cbf-4f08-b960-33a99751e481",
+              "choices": [],
+              "correct": false
+            }
+          ],
+          "uuid": "e85d67e5-1cbf-4f08-b960-33a99751e481",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2023-09-15T09:41:57.27487"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Osa 1: 20 pisteen tehtävä\n\nVastaa tehtävään 1.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 176183,
+          "content": {
+            "text": "#### Osa 1: 20 pisteen tehtävä\n\nVastaa tehtävään 1."
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-03-18T11:24:39.988752",
+          "max_score": null,
+          "groupping": null,
+          "id": 6085573,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "d41b7cf7-49ba-4c35-8b9b-ab8b1312b124",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2023-09-15T09:41:57.25527"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Osa 3: 20 pisteen tehtävät\n\nVastaa kahteen tehtävään.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 176183,
+          "content": {
+            "text": "#### Osa 3: 20 pisteen tehtävät\n\nVastaa kahteen tehtävään."
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-03-18T11:24:39.991566",
+          "max_score": null,
+          "groupping": null,
+          "id": 6085575,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "1793311e-a523-4703-b4da-a7a994ca3ca0",
+          "order_number": 11,
+          "multipart": true,
+          "created_at": "2023-09-15T09:41:57.265947"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Osa 2: 15 pisteen tehtävät\n\nVastaa neljään tehtävään.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 176183,
+          "content": {
+            "text": "#### Osa 2: 15 pisteen tehtävät\n\nVastaa neljään tehtävään."
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2024-03-18T11:24:39.994388",
+          "max_score": null,
+          "groupping": null,
+          "id": 6085574,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "4f3ef970-7d45-4fa3-a6db-7f05c95afe66",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2023-09-15T09:41:57.263382"
+        }
+      ],
+      "name": "Fysiikka syksy 2023",
+      "settings": {},
+      "exam_type": "yo-koe",
+      "classification": {
+        "category": "",
+        "disable_saving": false,
+        "hide_review_buttons": false,
+        "exam_type": "yo-koe",
+        "year": "2023",
+        "language": "fi-FI",
+        "hide_statistics": false,
+        "show_exam_series": false,
+        "force_yletunnus": false,
+        "subject": "fysiikka",
+        "published": true,
+        "semester": "fall"
+      },
+      "published_at": "2023-09-15T15:03:57.000Z",
+      "language": "fi-FI",
+      "id": 176183,
+      "reviews": [],
+      "is_open": true,
+      "uuid": "357d2acd-76eb-47a6-b066-480794df4675"
+    }
+  ]
+}

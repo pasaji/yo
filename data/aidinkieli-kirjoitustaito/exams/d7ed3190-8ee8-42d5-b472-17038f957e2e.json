@@ -1,0 +1,657 @@
+{
+  "meta": {
+    "count": 1
+  },
+  "data": [
+    {
+      "tags": [
+        ""
+      ],
+      "main_text": "",
+      "characters": null,
+      "deleted_at": null,
+      "series_uuids": [],
+      "questions": [
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-210365",
+            "18-212206",
+            "18-247400"
+          ],
+          "main_text": "",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16160,
+          "content": {
+            "text": "",
+            "displayNumber": "8."
+          },
+          "images": null,
+          "settings": {
+            "material": true
+          },
+          "child_ids": [
+            "b612d688-255b-439e-994d-47ef6b17cac6",
+            "d248bba2-f1de-42cb-a437-8f0898ad28d1"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-12T09:38:23.279893",
+          "max_score": null,
+          "groupping": null,
+          "id": 524779,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "2b9e48a5-020d-451c-bf57-10dcab32f35e",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2017-07-06T11:49:59.683638"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-204744",
+            "18-211790",
+            "18-214412",
+            "18-211172"
+          ],
+          "main_text": "Pop- ja rock-sanoitukset eivät ole runoutta. Vai ovatko?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16160,
+          "content": {
+            "text": "Pop- ja rock-sanoitukset eivät ole runoutta. Vai ovatko?\n",
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-12T09:38:23.293963",
+          "max_score": null,
+          "groupping": null,
+          "id": 523566,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "b7d0c67a-9d33-4eea-8320-fca800dd4982",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2017-07-06T11:23:17.809194"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-218587",
+            "18-204335"
+          ],
+          "main_text": "Kauppakeskuksessa on kaikkea, mitä voi toivoa, jopa kappeli. Mitä se kertoo yhteiskunnastamme?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16160,
+          "content": {
+            "text": "Kauppakeskuksessa on kaikkea, mitä voi toivoa, jopa kappeli. Mitä se kertoo yhteiskunnastamme?\n",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-12T09:38:23.284582",
+          "max_score": null,
+          "groupping": null,
+          "id": 523568,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "0d24be9d-f835-48a9-89c2-8178ff1804dc",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2017-07-06T11:23:17.815825"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-3524",
+            "18-1743",
+            "18-204583"
+          ],
+          "main_text": "Opetushallituksen arviointiraportit osoittavat, että pojat lukevat vähemmän kirjoja kuin tytöt. Miksi? Pohdi ilmiön syitä.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16160,
+          "content": {
+            "text": "Opetushallituksen arviointiraportit osoittavat, että pojat lukevat vähemmän kirjoja kuin tytöt. Miksi? Pohdi ilmiön syitä.\n",
+            "displayNumber": "4."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-12T09:38:23.287913",
+          "max_score": null,
+          "groupping": null,
+          "id": 523572,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "3e489a8d-5b31-4613-bcf4-568f630bf3ff",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2017-07-06T11:23:17.829596"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-227491"
+          ],
+          "main_text": "**Bloggaan – olen siis olemassa**\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16160,
+          "content": {
+            "text": "**Bloggaan – olen siis olemassa**\n",
+            "displayNumber": "6."
+          },
+          "images": null,
+          "settings": {
+            "titleEssay": true,
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-12T09:38:23.290935",
+          "max_score": null,
+          "groupping": null,
+          "id": 523565,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "f3b511f5-ed9e-495b-b03c-635dc77d1dfe",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2017-07-06T11:23:17.806333"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-215418",
+            "18-206775"
+          ],
+          "main_text": null,
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16160,
+          "content": {
+            "displayNumber": "9."
+          },
+          "images": null,
+          "settings": {
+            "material": true
+          },
+          "child_ids": [
+            "6271bb1c-b77b-42a7-8b9b-8ad000fd0927",
+            "ac030949-d506-4365-a0c7-20297a5e329f"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-12T09:38:23.2969",
+          "max_score": null,
+          "groupping": null,
+          "id": 525195,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "e5b30b5a-b7ee-4d5b-848c-3342cd1e8dfc",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2017-07-06T11:55:03.806253"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mitä Petri Tammisen novelli _Rakkautta ensi silmäyksellä_ kertoo ihastumisesta?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16160,
+          "content": {
+            "text": "Mitä Petri Tammisen novelli _Rakkautta ensi silmäyksellä_ kertoo ihastumisesta?\n"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-07-12T09:38:23.310548",
+          "max_score": null,
+          "groupping": null,
+          "id": 524781,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "d248bba2-f1de-42cb-a437-8f0898ad28d1",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2017-07-06T11:49:59.691112"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-219622",
+            "18-208149"
+          ],
+          "main_text": "Väreillä on merkitystä esimerkiksi luonnossa, taiteessa, mainonnassa, muodissa. Valitse näkökulmasi ja kirjoita aiheesta.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16160,
+          "content": {
+            "text": "Väreillä on merkitystä esimerkiksi luonnossa, taiteessa, mainonnassa, muodissa. Valitse näkökulmasi ja kirjoita aiheesta.\n",
+            "displayNumber": "3."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-12T09:38:23.324207",
+          "max_score": null,
+          "groupping": null,
+          "id": 523571,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "49f6883a-316e-4c77-b488-f489da0cabca",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2017-07-06T11:23:17.826266"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Tampereen kaupungin tieto- ja viestintätekniikan visiossa kuvataan lukiolaisten toimintaympäristöä. Pohdi vision suhdetta tuntemaasi koulun todellisuuteen.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16160,
+          "content": {
+            "text": "Tampereen kaupungin tieto- ja viestintätekniikan visiossa kuvataan lukiolaisten toimintaympäristöä. Pohdi vision suhdetta tuntemaasi koulun todellisuuteen.\n"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-07-12T09:38:23.314386",
+          "max_score": null,
+          "groupping": null,
+          "id": 525197,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "ac030949-d506-4365-a0c7-20297a5e329f",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2017-07-06T11:55:03.814333"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-211432"
+          ],
+          "main_text": "Mitä on nykypäivän yleissivistys?\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16160,
+          "content": {
+            "text": "Mitä on nykypäivän yleissivistys?\n",
+            "displayNumber": "7."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-12T09:38:23.318488",
+          "max_score": null,
+          "groupping": null,
+          "id": 523564,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "6df61d12-9f8d-4a6f-aaf7-e39ab7371c59",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2017-07-06T11:23:17.803501"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-212054",
+            "18-215487",
+            "18-210888"
+          ],
+          "main_text": "Mitä kansa katsoo? Pohdi kysymystä Finnpanelin tilastoaineiston pohjalta.\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/Pages\\_from\\_aidinkieli\\_esseekoe\\_syksy\\_2010\\_4.pdf|text=Finnpanel Oy: TV-mittaritutkimuksen tuloksia]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16160,
+          "content": {
+            "text": "Mitä kansa katsoo? Pohdi kysymystä Finnpanelin tilastoaineiston pohjalta.\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/Pages\\_from\\_aidinkieli\\_esseekoe\\_syksy\\_2010\\_4.pdf|text=Finnpanel Oy: TV-mittaritutkimuksen tuloksia]\n",
+            "displayNumber": "13."
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-12T09:38:23.321388",
+          "max_score": null,
+          "groupping": null,
+          "id": 523561,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "bd152ff6-bcce-42df-b9df-534e8a1d9d1c",
+          "order_number": 14,
+          "multipart": true,
+          "created_at": "2017-07-06T11:23:17.794856"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-214045",
+            "18-207105",
+            "18-205179"
+          ],
+          "main_text": "Vertaile Suomalaisten turkiskasvattajien mainosta ja Oikeutta eläimille -järjestön siihen tekemää vastamainosta. Miten ne vetoavat sinuun?\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/Pages\\_from\\_aidinkieli\\_esseekoe\\_syksy\\_2010.pdf|text=Suomalaisten turkiskasvattajien mainos, Oikeutta eläimille -järjestön vastamainos]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16160,
+          "content": {
+            "text": "Vertaile Suomalaisten turkiskasvattajien mainosta ja Oikeutta eläimille -järjestön siihen tekemää vastamainosta. Miten ne vetoavat sinuun?\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/Pages\\_from\\_aidinkieli\\_esseekoe\\_syksy\\_2010.pdf|text=Suomalaisten turkiskasvattajien mainos, Oikeutta eläimille -järjestön vastamainos]\n",
+            "displayNumber": "14."
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-12T09:38:23.333678",
+          "max_score": null,
+          "groupping": null,
+          "id": 524778,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "25ecf329-552c-4ee7-b497-7fe628e770d5",
+          "order_number": 15,
+          "multipart": true,
+          "created_at": "2017-07-06T11:49:59.680727"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-180720",
+            "18-213925"
+          ],
+          "main_text": "”_Venäjää ei tunneta tarpeeksi_” väittää Jari Jumpposen lehtiartikkelin otsikko. Pohdi artikkelin käsittelemää ongelmaa, sen syitä ja seurauksia.\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/Pages\\_from\\_aidinkieli\\_esseekoe\\_syksy\\_2010\\_2.pdf|text=Jari Jumpponen: Venäjää ei tunneta tarpeeksi]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16160,
+          "content": {
+            "text": "”_Venäjää ei tunneta tarpeeksi_” väittää Jari Jumpposen lehtiartikkelin otsikko. Pohdi artikkelin käsittelemää ongelmaa, sen syitä ja seurauksia.\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/Pages\\_from\\_aidinkieli\\_esseekoe\\_syksy\\_2010\\_2.pdf|text=Jari Jumpponen: Venäjää ei tunneta tarpeeksi]\n",
+            "displayNumber": "11."
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-12T09:38:23.327246",
+          "max_score": null,
+          "groupping": null,
+          "id": 523563,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "44396827-56d3-4a99-bf20-a7d425a76118",
+          "order_number": 12,
+          "multipart": true,
+          "created_at": "2017-07-06T11:23:17.800668"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-204410"
+          ],
+          "main_text": "**Onko metsä menettänyt merkityksensä?** Voit käsitellä aihetta esimerkiksi yhteiskunnan, talouden tai yksilön kannalta.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16160,
+          "content": {
+            "text": "**Onko metsä menettänyt merkityksensä?** Voit käsitellä aihetta esimerkiksi yhteiskunnan, talouden tai yksilön kannalta.\n",
+            "displayNumber": "5."
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-12T09:38:23.330033",
+          "max_score": null,
+          "groupping": null,
+          "id": 523567,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "cc88ae8f-44be-4fd1-b8f2-8594e8c1efa9",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2017-07-06T11:23:17.812666"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-200290",
+            "18-19915",
+            "18-205519",
+            "18-213925"
+          ],
+          "main_text": "”_Kunnes kaupunki meidät erottaa_” uutisoi Helsingin Sanomat Oton ja Irjan tapauksesta syksyllä 2008. Ota tapausesimerkkiä hyödyntäen kantaa vanhustenhoitoon.\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/Pages\\_from\\_aidinkieli\\_esseekoe\\_syksy\\_2010\\_1.pdf|text=Kunnes kaupunki meidät erottaa]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16160,
+          "content": {
+            "text": "”_Kunnes kaupunki meidät erottaa_” uutisoi Helsingin Sanomat Oton ja Irjan tapauksesta syksyllä 2008. Ota tapausesimerkkiä hyödyntäen kantaa vanhustenhoitoon.\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/Pages\\_from\\_aidinkieli\\_esseekoe\\_syksy\\_2010\\_1.pdf|text=Kunnes kaupunki meidät erottaa]\n",
+            "displayNumber": "10."
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-12T09:38:23.347486",
+          "max_score": null,
+          "groupping": null,
+          "id": 523560,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "817e88fe-fcaf-4c3c-b5e2-eabe9c843a88",
+          "order_number": 11,
+          "multipart": true,
+          "created_at": "2017-07-06T11:23:17.791528"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Ohje: Osaan tehtävistä liittyy aineistoa, jota on hyödynnettävä tehtävänannon mukaan. Lue tehtävät, silmäile aineistot läpi ja valitse tehtävistä yksi. Tehtävät arvostellaan pistein 0–60. Kirjoita ehyt ja kielellisesti huoliteltu teksti. Valmiit otsikot on lihavoitu. Muussa tapauksessa anna kirjoituksellesi oma otsikko. Jos valitset aineistotehtävän, tekstisi pitää olla siten ehyt, että lukija voi ymmärtää tekstisi, vaikka ei tunnekaan aineistoa. Aineistotehtävissä tulee viitata aineistoon.\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16160,
+          "content": {
+            "text": "Ohje: Osaan tehtävistä liittyy aineistoa, jota on hyödynnettävä tehtävänannon mukaan. Lue tehtävät, silmäile aineistot läpi ja valitse tehtävistä yksi. Tehtävät arvostellaan pistein 0–60. Kirjoita ehyt ja kielellisesti huoliteltu teksti. Valmiit otsikot on lihavoitu. Muussa tapauksessa anna kirjoituksellesi oma otsikko. Jos valitset aineistotehtävän, tekstisi pitää olla siten ehyt, että lukija voi ymmärtää tekstisi, vaikka ei tunnekaan aineistoa. Aineistotehtävissä tulee viitata aineistoon.\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-12T09:38:23.306455",
+          "max_score": null,
+          "groupping": null,
+          "id": 523573,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "b9457821-9b79-4755-9152-f5a45406f163",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-07-06T11:23:17.833399"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Rakkautta ensi silmäyksellä**\n\n​\n\nValerakkauskin on lempeää ja suurta. Kaiken sekin kärsii ja toivoo.\n\n​\n\nOllaan matkalle lähdössä, laukut on pakattu ja asiat hoidettu, vaimon ystävätär tulee vielä kukkienkasteluohjeita kuulemaan. Hän astuu sisään pikkupakkasen raikastamana, lumikiteitä hiuksissaan ja talven kirkkaus katseessaan. Heikotuksen aallot käyvät jaloissa ja läpi ruumiin. Naisen vaistoaa tuntevan samoin.\n\n​\n\nVaimo esittelee huonekasveja. On seistävä hiljaa sivussa, vaikka intohimo pakahduttaa. Tuijottaa ei saa. Kun katseet silti peilissä kohtaavat, sattuma julistaa rakkautta: näinkin me toisemme löydämme, näinkin meidän on pakko. Tapaaminen tuntuu ennalta määrätyltä. Kaikki tähän päivään johtanut saa uuden merkityksen.\n\n​\n\nKahvipöydässä läheisyys kuumottaa. Tunto pakenee jäsenistä, ruumis ajelehtii kuin sumussa. Ilme on pakotettava aivan arkiseksi. Kuppiin pelottaa tarttua. Vaimo höpöttää mitään tajuamatta tai näkemättä. Kun hän hetkeksi poistuu huoneesta, olo terästyy. Yhteinen salaisuus välähtää silmiin ja suupieliin. Nainen vastaa hämmentyneellä hymyllä. Juodaan ääneti kahvia.\n\n​\n\nNaisen lähdettyä tulee istahdeltua outoihin paikkoihin ja tuijotettua tyhjyyteen. Huoneilmasta etsii rakastetun tuoksua, niittynätkelmää ja poutapäiviä. Elämä on uuden aikakauden kynnyksellä. Luvassa oleva onni huumaa. Ensimmäisen kerran rakkauden huomaa unohtaneensa puolen tunnin kuluttua. Ajatus viikon lomasta tuntuu taas hyvältä.\n\n[CITE source=Petri Tamminen, Miehen ikävä (1997) ]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16160,
+          "content": {
+            "text": "**Rakkautta ensi silmäyksellä**\n\n​\n\nValerakkauskin on lempeää ja suurta. Kaiken sekin kärsii ja toivoo.\n\n​\n\nOllaan matkalle lähdössä, laukut on pakattu ja asiat hoidettu, vaimon ystävätär tulee vielä kukkienkasteluohjeita kuulemaan. Hän astuu sisään pikkupakkasen raikastamana, lumikiteitä hiuksissaan ja talven kirkkaus katseessaan. Heikotuksen aallot käyvät jaloissa ja läpi ruumiin. Naisen vaistoaa tuntevan samoin.\n\n​\n\nVaimo esittelee huonekasveja. On seistävä hiljaa sivussa, vaikka intohimo pakahduttaa. Tuijottaa ei saa. Kun katseet silti peilissä kohtaavat, sattuma julistaa rakkautta: näinkin me toisemme löydämme, näinkin meidän on pakko. Tapaaminen tuntuu ennalta määrätyltä. Kaikki tähän päivään johtanut saa uuden merkityksen.\n\n​\n\nKahvipöydässä läheisyys kuumottaa. Tunto pakenee jäsenistä, ruumis ajelehtii kuin sumussa. Ilme on pakotettava aivan arkiseksi. Kuppiin pelottaa tarttua. Vaimo höpöttää mitään tajuamatta tai näkemättä. Kun hän hetkeksi poistuu huoneesta, olo terästyy. Yhteinen salaisuus välähtää silmiin ja suupieliin. Nainen vastaa hämmentyneellä hymyllä. Juodaan ääneti kahvia.\n\n​\n\nNaisen lähdettyä tulee istahdeltua outoihin paikkoihin ja tuijotettua tyhjyyteen. Huoneilmasta etsii rakastetun tuoksua, niittynätkelmää ja poutapäiviä. Elämä on uuden aikakauden kynnyksellä. Luvassa oleva onni huumaa. Ensimmäisen kerran rakkauden huomaa unohtaneensa puolen tunnin kuluttua. Ajatus viikon lomasta tuntuu taas hyvältä.\n\n[CITE source=Petri Tamminen, Miehen ikävä (1997) ]\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-07-12T09:38:23.337536",
+          "max_score": null,
+          "groupping": null,
+          "id": 524780,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "b612d688-255b-439e-994d-47ef6b17cac6",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-07-06T11:49:59.686618"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [
+            "18-239604",
+            "18-220090",
+            "18-215580"
+          ],
+          "main_text": "Juhani Seppänen ottaa kolumnissaan kantaa ”kansallisurheiluumme” jääkiekkoon. Onko hän kritiikissään oikeassa?\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/Pages\\_from\\_aidinkieli\\_esseekoe\\_syksy\\_2010\\_3.pdf|text=Juhani Seppänen: Kansallinen myötähäpeä]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16160,
+          "content": {
+            "text": "Juhani Seppänen ottaa kolumnissaan kantaa ”kansallisurheiluumme” jääkiekkoon. Onko hän kritiikissään oikeassa?\n\n[LINK url=https://yle.fi/progressive/fynd/abitreenit/yokoe\\_pdf\\_aineistot/Pages\\_from\\_aidinkieli\\_esseekoe\\_syksy\\_2010\\_3.pdf|text=Juhani Seppänen: Kansallinen myötähäpeä]\n",
+            "displayNumber": "12."
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "textareaSize": "20"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2017-07-12T09:38:23.342489",
+          "max_score": null,
+          "groupping": null,
+          "id": 523562,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "1bfb3e47-2bf6-44bc-8b2f-b01babae09e2",
+          "order_number": 13,
+          "multipart": true,
+          "created_at": "2017-07-06T11:23:17.797923"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Visio**\n\n​\n\n**”Tampereen lukioista valmistuu tieto- ja viestintätekniikan tarjoamien sisällöllisten mahdollisuuksien innovatiivisia ja kriittisiä käyttäjiä.”**\n\n​\n\nTietotekniikka ja media ovat kasvava osa nuorten toimintaympäristöä. Lukioissa ovat käytössä mukautuvat ja sallivat opetusmenetelmät ja asenteet. Opiskelijoita kannustetaan käyttämään ja löytämään omat sähköiset tapansa työskennellä. Lukion tietopääoma koostuu opettajien, mutta myös opiskelijoiden osaamisesta. Opiskelijoille kehittyy vahva sähköinen identiteetti jo lukioaikana. Lukio kasvattaa keskustelevia, aktiivisia, uudistumiskykyisiä ja luovia oppijoita. TVT-osaamisen kehittyminen rakentuu perusopetuksen päättövaiheen osaamistason pohjalle.\n\n​\n\nTietotekniikan ja sähköisten toimintaympäristöjen hyödyntäminen on arkipäiväinen osa opetusta, oppimista ja viestintää. Lukioissa käytetään laadukkaita sähköisiä materiaaleja, joita hankitaan ja joiden käyttöä kehitetään yhteistyössä kirjaston kanssa. Tietotekniikka mahdollistaa joustavat opetusjärjestelyt ja tekee opetuksesta monimuotoisempaa. Tieto- ja viestintätekniikan avulla luodaan edellytyksiä ja tuetaan seudullista, valtakunnallista ja kansainvälistä opetusyhteistyötä.\n\n​\n\nTieto- ja viestintätekniikan osaava käyttö mahdollistaa myös nuorille ajankohtaisten asioiden seuraamisen ja osallistumisen päätöksentekoon monella tasolla. Osallisuus yhteisten asioiden hoitoon ehkäisee syrjäytymistä ja tukee elinikäisen oppimisen tavoitteita.\n\n​\n\nSähköinen viestintä on osa lukioiden jokapäiväistä toimintaa, ja sähköisiä toimintaympäristöjä kehitetään aktiivisesti. Opettajien tietoja viestintätekniikan opetuskäytön koulutus ja tuki on asianmukaisesti mitoitettu ja järjestetty. Kaikessa toiminnassa noudatetaan tieto- ja viestintätekniikan käytön eettisiä sääntöjä sekä hyviä tietosuoja- ja tietoturvakäytänteitä.\n\n​\n\nLukioiden teknisen toimintaympäristön rakentamisessa käytetään langatonta ja mobiilia tietotekniikkaa. Opiskelijoille tarjotaan tietotekniikan käyttömahdollisuuksia myös oppituntien ulkopuolella. Oppilaitoksen toimintaympäristö mahdollistaa opiskelijoiden ja opettajien käyttää päivän aikana myös omia tietoteknisiä työvälineitään. Tampereen lukioissa on turvalliset, toimivat ja joustavat tietotekniset toimintaympäristöt. Tavoitteena on ubiikkiin sähköiseen toimintaympäristöön siirtyminen vaiheittain niin teknisesti kuin toiminnallisestikin.\n\n[CITE source=http://tvt.tampere.fi/lukiokoulutuksen\\_tvt-strategia/visio/ (16.9.2009)]\n",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 16160,
+          "content": {
+            "text": "**Visio**\n\n​\n\n**”Tampereen lukioista valmistuu tieto- ja viestintätekniikan tarjoamien sisällöllisten mahdollisuuksien innovatiivisia ja kriittisiä käyttäjiä.”**\n\n​\n\nTietotekniikka ja media ovat kasvava osa nuorten toimintaympäristöä. Lukioissa ovat käytössä mukautuvat ja sallivat opetusmenetelmät ja asenteet. Opiskelijoita kannustetaan käyttämään ja löytämään omat sähköiset tapansa työskennellä. Lukion tietopääoma koostuu opettajien, mutta myös opiskelijoiden osaamisesta. Opiskelijoille kehittyy vahva sähköinen identiteetti jo lukioaikana. Lukio kasvattaa keskustelevia, aktiivisia, uudistumiskykyisiä ja luovia oppijoita. TVT-osaamisen kehittyminen rakentuu perusopetuksen päättövaiheen osaamistason pohjalle.\n\n​\n\nTietotekniikan ja sähköisten toimintaympäristöjen hyödyntäminen on arkipäiväinen osa opetusta, oppimista ja viestintää. Lukioissa käytetään laadukkaita sähköisiä materiaaleja, joita hankitaan ja joiden käyttöä kehitetään yhteistyössä kirjaston kanssa. Tietotekniikka mahdollistaa joustavat opetusjärjestelyt ja tekee opetuksesta monimuotoisempaa. Tieto- ja viestintätekniikan avulla luodaan edellytyksiä ja tuetaan seudullista, valtakunnallista ja kansainvälistä opetusyhteistyötä.\n\n​\n\nTieto- ja viestintätekniikan osaava käyttö mahdollistaa myös nuorille ajankohtaisten asioiden seuraamisen ja osallistumisen päätöksentekoon monella tasolla. Osallisuus yhteisten asioiden hoitoon ehkäisee syrjäytymistä ja tukee elinikäisen oppimisen tavoitteita.\n\n​\n\nSähköinen viestintä on osa lukioiden jokapäiväistä toimintaa, ja sähköisiä toimintaympäristöjä kehitetään aktiivisesti. Opettajien tietoja viestintätekniikan opetuskäytön koulutus ja tuki on asianmukaisesti mitoitettu ja järjestetty. Kaikessa toiminnassa noudatetaan tieto- ja viestintätekniikan käytön eettisiä sääntöjä sekä hyviä tietosuoja- ja tietoturvakäytänteitä.\n\n​\n\nLukioiden teknisen toimintaympäristön rakentamisessa käytetään langatonta ja mobiilia tietotekniikkaa. Opiskelijoille tarjotaan tietotekniikan käyttömahdollisuuksia myös oppituntien ulkopuolella. Oppilaitoksen toimintaympäristö mahdollistaa opiskelijoiden ja opettajien käyttää päivän aikana myös omia tietoteknisiä työvälineitään. Tampereen lukioissa on turvalliset, toimivat ja joustavat tietotekniset toimintaympäristöt. Tavoitteena on ubiikkiin sähköiseen toimintaympäristöön siirtyminen vaiheittain niin teknisesti kuin toiminnallisestikin.\n\n[CITE source=http://tvt.tampere.fi/lukiokoulutuksen\\_tvt-strategia/visio/ (16.9.2009)]\n"
+          },
+          "images": null,
+          "settings": {},
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2017-07-12T09:38:23.301983",
+          "max_score": null,
+          "groupping": null,
+          "id": 525196,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "6271bb1c-b77b-42a7-8b9b-8ad000fd0927",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2017-07-06T11:55:03.80936"
+        }
+      ],
+      "name": "Äidinkieli essee syksy 2010",
+      "settings": {},
+      "exam_type": "yo-koe",
+      "classification": {
+        "category": "",
+        "hide_review_buttons": null,
+        "exam_type": "yo-koe",
+        "year": "2010",
+        "language": "fi-FI",
+        "show_exam_series": null,
+        "force_yletunnus": false,
+        "subject": "äidinkieli-suomi-essee",
+        "published": true,
+        "semester": "fall"
+      },
+      "published_at": "2017-07-06T11:23:17.787Z",
+      "language": "fi-FI",
+      "id": 16160,
+      "reviews": [],
+      "is_open": true,
+      "uuid": "d7ed3190-8ee8-42d5-b472-17038f957e2e"
+    }
+  ]
+}

@@ -1,0 +1,2241 @@
+{
+  "meta": {
+    "count": 1
+  },
+  "data": [
+    {
+      "tags": [
+        ""
+      ],
+      "main_text": "Koe koostuu 11 tehtävästä, joista vastataan seitsemään. Tehtävät on jaettu kolmeen osaan. Osassa 1 on yksi kaikille pakollinen 20 pisteen tehtävä. Osassa 2 on seitsemän 15 pisteen tehtävää, joista vastataan neljään. Osassa 3 on kolme 20 pisteen tehtävää, joista vastataan kahteen. Kokeen maksimipistemäärä on 120. Kaikki annetut vastaukset tulee perustella, jos perusteleminen on vastausteknisesti mahdollista. Voit tuottaa vastausten tueksi piirroksia, kaavioita tai taulukoita ja liittää niistä kuvakaappauksen mihin tahansa tekstivastaukseen.\n\n\n\nÄlä jätä mitään merkintöjä sellaisen tehtävän vastaukselle varattuun tilaan, jota et halua jättää arvosteltavaksi.\n\n\n\nHuom.! Tehtävässä 5 on erillinen ohje vastaamatta jättämisestä.",
+      "characters": null,
+      "deleted_at": null,
+      "series_uuids": [],
+      "questions": [
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Liikkuva magneetti 15 p.\n\n[LINK text=Katso tehtävään liittyvä kuva.|url=https://yle.fi/plus/abitreenit/2025/syksy/fysiikka/attachments/7.png]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 253067,
+          "content": {
+            "text": "### Liikkuva magneetti 15 p.\n\n[LINK text=Katso tehtävään liittyvä kuva.|url=https://yle.fi/plus/abitreenit/2025/syksy/fysiikka/attachments/7.png]",
+            "displayNumber": "7."
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "f4261d72-a1a0-4dd3-82a5-5f0a5955662d",
+            "bc517d94-452a-42ce-850c-f1f46c177987",
+            "0fe40a90-ac25-47d9-86b7-4213421c930f"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-12-08T09:14:22.929454",
+          "max_score": null,
+          "groupping": null,
+          "id": 7834688,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "c0248eb5-83eb-4b4b-b8a3-6e2306332450",
+          "order_number": 9,
+          "multipart": true,
+          "created_at": "2025-10-23T07:36:11.01844"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": " Juuri merenpinnan alapuolella tasapainossa kelluva kala pelästyy, ui nopeasti 7,6 metrin syvyyteen ja pysähtyy hetkellisesti. Kala on epätasapainossa, koska ilman määrä uimarakossa ja kalan lämpötila eivät nopean uinnin aikana ole ehtineet muuttua. Piirrä pysähtyneen kalan voimakuvio 7,6 metrin syvyydessä ja määritä kalaan vaikuttavan kokonaisvoiman suunta ja suuruus. 8 p.",
+          "deleted_at": null,
+          "feedback": "Kalaan vaikuttavat painovoima ja noste, eli kokonaisvoima on sum [MATH text=\\vec F = \\vec G + \\vec N], jossa voimien suunnat ovat vastakkaisia. Määritetään positiivinen suunta alaspäin, jolloin [MATH text=F =G -N]. Voimakuvioksi saadaan seuraava:\n\n(2 p.)\n\nKokonaisvoima juuri merenpinnan alapuolella on [MATH text=F_0 =G -N =0 --> m g -p V_0 g =0 ] eli [MATH text= m g =~ pV_0 g] jossa [MATH text=V_0] on kalan kokonaistilavuus ja m on kalan massa.\n\nSukelluksessa ulkoinen paine ja kalan tilavuus muuttuvat, jolloin kokonaisvoiman arvo on [MATH text=F_1=mg-pV_1g=pV_0g-p(V_0-\\Delta V)g=p\\Delta Vg], jossa [MATH text=\\Delta V] on kalan kokonaistilavuuden muutos.\n\n(2 p.)\n\nNormaaliolosuhteissa ilma käyttäytyy kuten ideaalikaasu, joten ideaalikaasun tilanyhtälön avulla voidaan ratkaista tilavuuden muutos. Lämpötila ja ainemäärä pysyvät muutoksessa vakiona, joten [MATH text=pV\\ = ]vakio. Näin ollen [MATH text=p_0 V'_0 =p_1 V'_1] eli [MATH text=V'_1 =V'_0 p_0/p_1], jossa p on ulkoinen paine ja V' on uimarakon tilavuus eri tilanteissa. Kalan tilavuuden muutos on yhtä suuri kuin uimarakon tilavuuden muutos eli [MATH text=\\Delta V =V'_0 -V'_0 p_0/p_1].\n\n(2 p.)\n\nUlkoinen paine juuri pinnan alapuolella, [MATH text= p_0] on yhtä suuri kuin ilmanpaine, kun taas 7,6 metrin syvyydessä kokonaispaineeseen lisätään myös hydrostaattinen paine, [MATH text=p g h_1], jolloin tilavuuden muutokseksi saadaan [MATH text=\\Delta V =V'_0 (1 -p_0/(p_0 +p g h_1))].\n\nKokonaisvoimaksi 12 metrin syvyydessä saadaan\n\n[MATH text=F_1=\\rho g V_0'\\Bigl(1-\\frac{p_0}{p_0+\\rho gh_1}\\Bigr) =][MATH text=1,\\!00\\,\\frac{\\rm kg}{\\rm{dm}^3}\\cdot 9,\\!81\\,\\frac{\\rm m}{\\rm{s}^2}\\cdot0,\\!079\\,\\rm{dm}^3\\Bigl(1-\\frac{101300\\,\\rm{Pa}}{101300\\,\\rm{Pa}+1000\\,\\frac{\\rm kg}{\\rm{m}^3}\\cdot 9,81\\,\\frac{\\rm m}{\\rm{s}^2}\\cdot 7,6\\,\\rm{m}}\\Bigr) ][MATH text==0,\\!32856515808\\,\\rm{N}\\approx 0,\\!33\\,\\rm{N}]\n\nKokonaisvoima on 0,33 N, ja sen suunta on alaspäin.\n\n(2 p.)\n\n(Tasapainotilanteessa, juuri merenpinnan alapuolella, kalaan vaikuttava noste oli [MATH text=N =p V_0 g  \\approx 6,11 N], joten uudessa tilanteessa noste on noin [MATH text=0,3286 N/6,112 N \\approx5 %] pienempi kuin kalan paino.)\n\n\n\n**Pisteytys:**\n\nOikein piirretty voimakuvio, jossa noste ja paino on nimetty sanallisesti tai symbolilla (2 p.)\n\nVoimakuviosta tehdään seuraavat vähennykset:\n\n- Vakavasta virheestä (puuttuvat, ylimääräiset tai väärään suuntaan osoittavat voimat) vähennetään kaksi pistettä.\n- Merkittävästä virheestä (voiman nimi tai symboli puuttuu) vähennetään yksi piste.\n\nOn kirjoitettu suureyhtälö kokonaisvoimalle 7,6 m syvyydessä painon ja nosteen avulla. (2 p.)\n\nOn kirjoitettu suureyhtälö kalan tilavuuden muutokselle paineen avulla tai saatu tilavuuden muutos oikein laskettua. (2 p.)\n\nOn annettu oikea voiman suuruus 2-3 merkitsevän numeron tarkkuudella (1 p.) ja voiman oikea suunta (1 p.)",
+          "exam_id": 253067,
+          "content": {
+            "text": " Juuri merenpinnan alapuolella tasapainossa kelluva kala pelästyy, ui nopeasti 7,6 metrin syvyyteen ja pysähtyy hetkellisesti. Kala on epätasapainossa, koska ilman määrä uimarakossa ja kalan lämpötila eivät nopean uinnin aikana ole ehtineet muuttua. Piirrä pysähtyneen kalan voimakuvio 7,6 metrin syvyydessä ja määritä kalaan vaikuttavan kokonaisvoiman suunta ja suuruus. 8 p.",
+            "displayNumber": "9.1"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:14:22.921915",
+          "max_score": null,
+          "groupping": null,
+          "id": 7834778,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "a893520e-6b31-411d-b5d4-a4564c734aa3",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2025-10-23T07:43:06.559132"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Miksi tyypin II suprajohteita käytetään suprajohtavissa magneeteissa? 3 p.",
+          "deleted_at": null,
+          "feedback": "Suprajohtavan käämin luoma voimakas magneettikenttä kohdistuu myös suprajohtavaan lankaan itse käämissä. Aineiston mukaan tyypin I suprajohteilla Bc on arvoltaan pieni. Mikäli se ylittyy käämissä, johdelanka siirtyy yhtäkkiä normaaliin tilaan ja johteessa kulkeva virta saattaa vaurioittaa lankaa. Tyypin II suprajohteen tapauksessa johdelanka pysyy suprajohtavana, kunhan magneettivuon tiheys ei ylitä arvoa Bc2 käämin sisällä. Aineiston mukaan tyypin II suprajohteilla Bc2:n arvo on suuri. Tyypin II suprajohteita on siksi turvallisempaa käyttää käämeissä kuin tyypin I johteita.\n\n\n\n**Pisteytys**:\n\nOn tunnistettu oikein toinen tai molemmat seuraavista (3 p.)\n\n- käämin oma magneettikenttä vaikuttaa käämiin ja aiheuttaa kentän, jonka voimakkuus ei saa ylittää kriittistä kenttää\n- tyypin II suprajohde kestää suurempia magneettikenttiä kuin tyypin I suprajohde.\n\nMikäli kumpaakaan ei ole tunnistettu, mutta on kerrottu aineistosta poimittuja oikeita asioita tyypin II suprajohteen käyttäytymisestä magneettikentässä annetaan yksi piste.",
+          "exam_id": 253067,
+          "content": {
+            "text": "Miksi tyypin II suprajohteita käytetään suprajohtavissa magneeteissa? 3 p.",
+            "displayNumber": "11.5"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:14:22.915817",
+          "max_score": null,
+          "groupping": null,
+          "id": 7834882,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "a6ba49f9-aa04-4f38-8f61-210477133757",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2025-10-23T07:51:42.501167"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Maalämpö 15 p.\n\n**Aineisto**\n\n3.A Kuva: [LINK text=Kaavio maalämpöjärjestelmästä|url=https://yle.fi/plus/abitreenit/2025/syksy/fysiikka/attachments/index.html#3.A]\n\n\n\nOmakotitaloa lämmitetään maalämpöjärjestelmällä, jolla siirretään lämpöenergiaa kallioperästä talon kuumavesisäiliöön. Lämpöpumpun lämpökerroin on vesisäiliöön siirtyneen lämpömäärän suhde pumpun käyttämään sähköenergiaan.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 253067,
+          "content": {
+            "text": "### Maalämpö 15 p.\n\n**Aineisto**\n\n3.A Kuva: [LINK text=Kaavio maalämpöjärjestelmästä|url=https://yle.fi/plus/abitreenit/2025/syksy/fysiikka/attachments/index.html#3.A]\n\n\n\nOmakotitaloa lämmitetään maalämpöjärjestelmällä, jolla siirretään lämpöenergiaa kallioperästä talon kuumavesisäiliöön. Lämpöpumpun lämpökerroin on vesisäiliöön siirtyneen lämpömäärän suhde pumpun käyttämään sähköenergiaan.",
+            "displayNumber": "3. "
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "41f86c3e-2b52-41d9-8e75-64383b8e3db9",
+            "7a24551f-2bd9-4c2f-a043-5a96a0516613",
+            "ce5d0ccd-2c5a-4018-be4c-1339b69363a6"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-12-08T09:14:22.911129",
+          "max_score": null,
+          "groupping": null,
+          "id": 7834486,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "b922527f-baf1-49fb-8e24-8bfa655b9cac",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2025-10-23T07:18:49.915"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Jalkaprässi 15 p.\n\n**Aineisto**\n\n5.AKuva: [LINK text=Jalkaprässi|url=https://yle.fi/plus/abitreenit/2025/syksy/fysiikka/attachments/index.html#4.A]\n\n5.B Kuva: [LINK text=Pohja voimakuvion piirtämistä varten|url=https://yle.fi/plus/abitreenit/2025/syksy/fysiikka/attachments/index.html#4.B]\n\n\n\nKuntoilija harjoittelee kuvan 4.A mukaisella jalkaprässillä. Prässin kelkan ja kelkkaan lisättyjen levypainojen yhteinen massa on 160 kg. Prässin kiskojen kulma vaakatason suhteen on 45 astetta. Jätä kelkan ja kiskojen välinen kitka huomiotta.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 253067,
+          "content": {
+            "text": "### Jalkaprässi 15 p.\n\n**Aineisto**\n\n5.AKuva: [LINK text=Jalkaprässi|url=https://yle.fi/plus/abitreenit/2025/syksy/fysiikka/attachments/index.html#4.A]\n\n5.B Kuva: [LINK text=Pohja voimakuvion piirtämistä varten|url=https://yle.fi/plus/abitreenit/2025/syksy/fysiikka/attachments/index.html#4.B]\n\n\n\nKuntoilija harjoittelee kuvan 4.A mukaisella jalkaprässillä. Prässin kelkan ja kelkkaan lisättyjen levypainojen yhteinen massa on 160 kg. Prässin kiskojen kulma vaakatason suhteen on 45 astetta. Jätä kelkan ja kiskojen välinen kitka huomiotta.",
+            "displayNumber": "4."
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "d619a140-c0af-458d-b437-eb7ebfd73d07",
+            "344034ab-0f80-420e-9ecd-0f9efe3c6cf3",
+            "1afd739a-386d-4d96-b77d-086fe7671a8d"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-12-08T09:14:22.902823",
+          "max_score": null,
+          "groupping": null,
+          "id": 7834509,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "2b31e2cf-1cf6-4503-954d-24b797425169",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2025-10-23T07:20:46.128805"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Suprajohtavuus 20 p.\n\nVideossa 11.A on suprajohtavasta materiaalista tehdyn kiekon päällä pieni lieriömäinen magneetti, jonka pohjoisnapa on suunnattu ylöspäin. Videossa kiekkoa jäähdytetään nestetypellä. Kiekko muuttuu suprajohtavaksi ja alkaa hylkiä magneettia, joka nousee ilmaan. Vastaa osatehtäviin 11.1–11.5. Hyödynnä vastauksissasi tekstiä 11.B.\n\n\n\n**Aineisto**\n\n11.A Video: [LINK text=Leijuva magneetti|url=https://yle.fi/plus/abitreenit/2025/syksy/fysiikka/attachments/index.html#11.A]\n\n11.B Teksti: [LINK text=Suprajohtavuus|url=https://yle.fi/plus/abitreenit/2025/syksy/fysiikka/attachments/index.html#11.B]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 253067,
+          "content": {
+            "text": "### Suprajohtavuus 20 p.\n\nVideossa 11.A on suprajohtavasta materiaalista tehdyn kiekon päällä pieni lieriömäinen magneetti, jonka pohjoisnapa on suunnattu ylöspäin. Videossa kiekkoa jäähdytetään nestetypellä. Kiekko muuttuu suprajohtavaksi ja alkaa hylkiä magneettia, joka nousee ilmaan. Vastaa osatehtäviin 11.1–11.5. Hyödynnä vastauksissasi tekstiä 11.B.\n\n\n\n**Aineisto**\n\n11.A Video: [LINK text=Leijuva magneetti|url=https://yle.fi/plus/abitreenit/2025/syksy/fysiikka/attachments/index.html#11.A]\n\n11.B Teksti: [LINK text=Suprajohtavuus|url=https://yle.fi/plus/abitreenit/2025/syksy/fysiikka/attachments/index.html#11.B]",
+            "displayNumber": "11."
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "a6ba49f9-aa04-4f38-8f61-210477133757",
+            "2ed4b73b-0353-4df8-ace7-86810f7e2d67",
+            "e06f3943-6037-4c05-b814-259af7542f8d",
+            "62f14d84-77b6-4ee4-be83-8a5d30b7f4ac",
+            "44e3d338-f6db-43da-9a7c-9cf49591e7d1"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-12-08T09:14:22.849615",
+          "max_score": null,
+          "groupping": null,
+          "id": 7834881,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "45044f38-cbc5-4c23-99aa-3069d676f268",
+          "order_number": 14,
+          "multipart": true,
+          "created_at": "2025-10-23T07:51:42.496544"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Koe toistetaan, mutta nyt käämi korvataan pitkällä, molemmista päistä avoimella ja johtavasta materiaalista valmistetulla putkella, jonka sisään magneetti asetetaan. Magneetin massa on 52 g, ja sen alkunopeus on 0,30 m/s. Magneetin ja putken välillä ei ole kitkaa, eikä ilmanvastus vaikuta magneettiin. Magneetti ei kuitenkaan ikinä saavuta putken toista päätä. Kuinka paljon energiaa kokeen aikana siirtyy magneetista putkeen? 5 p.",
+          "deleted_at": null,
+          "feedback": "Osatehtävän 7.2 mukaan magneetti menettää energiaa sen liikkuessa johtavan kappaleen läpi, koska putkeen indusoituu induktiojännitteen aiheuttama pyörrevirta. Magneetti ehtii pysähtyä kokonaan, joten kaikki liike-energia on siirtynyt induktion takia putkeen.\n\nAlussa magneetin kokonaisliike-energia oli [MATH text=1/2 *m v^2 =1/2 *0,052 kg *(0,3 m/s)^2 =0,00234 J \\approx2,3 mJ]\n\nTämän verran energiaa magneetista siirtyy putkeen pyörrevirtojen lämmittäessä putkea.\n\n\n\n**Pisteytys**:\n\nOn perusteltu oikein, miten magneetin koko liike-energia siirtyy putkeen. (2 p.)\n\nOn annettu oikea suureyhtälö energialle (1 p.) ja sen avulla laskettu oikea vastaus 2-3 merkitsevän numeron tarkkuudella. (2 p.)\n\n**Tyypillinen virhe:**\n\nOn unohdettu korottaa nopeus toiseen potenssiin ja saatu 7,8 mJ.",
+          "exam_id": 253067,
+          "content": {
+            "text": "Koe toistetaan, mutta nyt käämi korvataan pitkällä, molemmista päistä avoimella ja johtavasta materiaalista valmistetulla putkella, jonka sisään magneetti asetetaan. Magneetin massa on 52 g, ja sen alkunopeus on 0,30 m/s. Magneetin ja putken välillä ei ole kitkaa, eikä ilmanvastus vaikuta magneettiin. Magneetti ei kuitenkaan ikinä saavuta putken toista päätä. Kuinka paljon energiaa kokeen aikana siirtyy magneetista putkeen? 5 p.",
+            "displayNumber": "7.3"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:14:22.845589",
+          "max_score": null,
+          "groupping": null,
+          "id": 7834689,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "f4261d72-a1a0-4dd3-82a5-5f0a5955662d",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2025-10-23T07:36:11.036055"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Kalan uimarakko 20 p.\n\n### Aineisto\n\n9.A Kuva: [LINK text=Kalan uimarakko|url=https://yle.fi/plus/abitreenit/2025/syksy/fysiikka/attachments/index.html#9.A]\n\n9.B Kuva: [LINK text=Kalojen etsiminen kaikuluotaimella|url=https://yle.fi/plus/abitreenit/2025/syksy/fysiikka/attachments/index.html#9.B]\n\n\n\nMonet kalalajit pystyvät säätelemään uimasyvyyttään niin kutsutun uimarakon avulla. Uimarakko (kuva 9.A) on ruumiinontelon yläosassa oleva elin, joka sisältää ilmaa. Uimarakolla on joustavat seinät, jotka supistuvat ja laajenevat ympäröivän paineen vaikutuksesta. Eri syvyyksissä on eri vedenpaine, mikä vaikuttaa kalan sisäiseen paineeseen, jolloin myös uimarakon tilavuus muuttuu. Kalan kokonaistilavuus muuttuu yhtä paljon kuin uimarakon tilavuus, minkä seurauksena kalaan vaikuttava noste muuttuu. Kala pystyy kuitenkin vaikuttamaan uimarakon tilavuuteen: kaasurauhasten avulla kala voi erittää vereensä liuennutta ilmaa rakkoon tai vastaavasti vähentää ilmarakossa olevan ilman määrää, jolloin uimarakon ja koko kalan kokonaistilavuus muuttuu.\n\n&NewLine;\n\nSeuraavissa osatehtävissä tarkastellaan kalaa, jonka uimarakon tilavuus on [MATH text=0,079 dm^3] ja ruumiin kokonaistilavuus [MATH text=0,623 dm^3] silloin, kun kala on juuri merenpinnan alapuolella. Ilmanpaine pinnalla on [MATH text=101,3 kPa], ja ilman moolimassa on [MATH text=29,0 g/mol]. Veden lämpötila pinnalla on [MATH text=17,7 °C], ja veden tiheys pysyy likimain muuttumattomana [MATH text=1,0 kg/dm^3] syvyydestä ja lämpötilasta riippumatta.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 253067,
+          "content": {
+            "text": "### Kalan uimarakko 20 p.\n\n### Aineisto\n\n9.A Kuva: [LINK text=Kalan uimarakko|url=https://yle.fi/plus/abitreenit/2025/syksy/fysiikka/attachments/index.html#9.A]\n\n9.B Kuva: [LINK text=Kalojen etsiminen kaikuluotaimella|url=https://yle.fi/plus/abitreenit/2025/syksy/fysiikka/attachments/index.html#9.B]\n\n\n\nMonet kalalajit pystyvät säätelemään uimasyvyyttään niin kutsutun uimarakon avulla. Uimarakko (kuva 9.A) on ruumiinontelon yläosassa oleva elin, joka sisältää ilmaa. Uimarakolla on joustavat seinät, jotka supistuvat ja laajenevat ympäröivän paineen vaikutuksesta. Eri syvyyksissä on eri vedenpaine, mikä vaikuttaa kalan sisäiseen paineeseen, jolloin myös uimarakon tilavuus muuttuu. Kalan kokonaistilavuus muuttuu yhtä paljon kuin uimarakon tilavuus, minkä seurauksena kalaan vaikuttava noste muuttuu. Kala pystyy kuitenkin vaikuttamaan uimarakon tilavuuteen: kaasurauhasten avulla kala voi erittää vereensä liuennutta ilmaa rakkoon tai vastaavasti vähentää ilmarakossa olevan ilman määrää, jolloin uimarakon ja koko kalan kokonaistilavuus muuttuu.\n\n&NewLine;\n\nSeuraavissa osatehtävissä tarkastellaan kalaa, jonka uimarakon tilavuus on [MATH text=0,079 dm^3] ja ruumiin kokonaistilavuus [MATH text=0,623 dm^3] silloin, kun kala on juuri merenpinnan alapuolella. Ilmanpaine pinnalla on [MATH text=101,3 kPa], ja ilman moolimassa on [MATH text=29,0 g/mol]. Veden lämpötila pinnalla on [MATH text=17,7 °C], ja veden tiheys pysyy likimain muuttumattomana [MATH text=1,0 kg/dm^3] syvyydestä ja lämpötilasta riippumatta.",
+            "displayNumber": "9."
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "bb394ae2-554d-443e-80ce-f732d14a4922",
+            "ea9cdecd-e2d8-41c1-a9b6-6bc58fa550b5",
+            "a893520e-6b31-411d-b5d4-a4564c734aa3"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-12-08T09:14:22.840801",
+          "max_score": null,
+          "groupping": null,
+          "id": 7834775,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "d832d71f-545f-4fd4-a32f-e29db80873a0",
+          "order_number": 12,
+          "multipart": true,
+          "created_at": "2025-10-23T07:43:06.550631"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Minkälaisia materiaaliin liittyviä ongelmia korkean lämpötilan suprajohteilla on? Voiko ohut suprajohtava lanka kuljettaa kuinka suuren virran tahansa? 4 p.",
+          "deleted_at": null,
+          "feedback": "Koska materiaalit ovat keraamisia, niistä on hankala tehdä kaapeleita. Kaapeleiden tulee kestää mekaanisia rasituksia katkeamatta, mihin keraamiset materiaalit harvemmin pystyvät. (Esimerkiksi videossa näkyvä suprajohtava kiekko on täynnä halkeamia.)\n\n(2 p.)\n\nSuprajohtavan kaapelin kriittistä virrantiheyttä ei myöskään saa ylittää. Kriittinen virrantiheys kerrottuna kaapelin poikkipinta-alalla määrittää kaapelissa kulkevan suurimman mahdollisen virran, eli kaapelilla tulisi olla tietty minimipaksuus, jos siinä halutaan kuljettaa voimakkaita virtoja. Mikäli virrantiheys ylittyy, kaapeli lämpenee ja muuttuu hetkessä normaaliksi, mikä voi johtaa sen sulamiseen.\n\n(2 p.)\n\n\n\n**Pisteytys:**\n\nOn tunnistettu materiaalin tai siitä valmistettujen johtimien alttius rikkoutumiselle käyttämällä jotain muuta sanaa kuin aineistossa annettu \"hauras\". (2 p.)\n\nOn vastattu jälkimmäiseen kysymykseen \"ei\" ja perusteltu vastaus kytkemällä toisiinsa kaapelissa kulkeva virta, kriittinen virrantiheys ja kaapelin poikkipinta-ala (2 p.)\n\n**Tyypillinen virhe:**\n\nPelkkä tekstin kopiointi aineistosta.",
+          "exam_id": 253067,
+          "content": {
+            "text": "Minkälaisia materiaaliin liittyviä ongelmia korkean lämpötilan suprajohteilla on? Voiko ohut suprajohtava lanka kuljettaa kuinka suuren virran tahansa? 4 p.",
+            "displayNumber": "11.4 "
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:14:22.825902",
+          "max_score": null,
+          "groupping": null,
+          "id": 7834883,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "2ed4b73b-0353-4df8-ace7-86810f7e2d67",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2025-10-23T07:51:42.504659"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Piirrä lämpöpumpun energiavirtoja esittävä kaavio ja nimeä siinä esiintyvät suureet. Kirjoita kyseiset suureet toisiinsa yhdistävä yhtälö. Piirtämisessä voit halutessasi hyödyntää kuvaa 3.A. 5 p.",
+          "deleted_at": null,
+          "feedback": "[MATH text=Q_1] = maasta siirtynyt lämpömäärä\n\n[MATH text=Q_2] = vesisäiliöön siirtynyt lämpömäärä\n\n[MATH text=W] = lämpöpumpun sähköenergialla tekemä työ\n\nSuureille pätee yhtälö [MATH text=Q_1 + W = Q_2]\n\n[IMS id=39-154247168f9e2df34ecd]\n\n\n\n**Pisteytys:**\n\nOn annettu oikea kaavio (3 p.). Oikeassa kaaviossa on esitetty että\n\n- lämpöä siirtyy maasta pumppuun,\n- lämpöä siirtyy pumpusta vesisäiliöön,\n- työtä tulee pumppuun ulkopuolelta,\n\nja edellä mainitut kolme suuretta on oikein nimetty.\n\nKaaviosta annettaan nolla pistettä, jos jokin oikeista suureista puuttuu tai energiaa virtaa väärään suuntaan.\n\nOn annettu oikea ja kaavion kanssa ristiriidaton suureyhtälö (2 p.)\n\n**Tyypillisiä virheitä:**\n\n- On merkitty siirtyvää energiaa kuvassa esiintyviin mustiin nuoliin.\n- On piirretty lämpöpumppu, jossa on lämpösäiliö ja kylmäsäiliö, mutta jätetty kytkemättä se tehtävän asiayhteyteen.\n- On käsitelty lämpöä tilamuuttajana, esimerkiksi puhumalla kuumavesisäiliön lämmöstä tai nimetty *Q2* kuumavesisäiliön energiaksi.",
+          "exam_id": 253067,
+          "content": {
+            "text": "Piirrä lämpöpumpun energiavirtoja esittävä kaavio ja nimeä siinä esiintyvät suureet. Kirjoita kyseiset suureet toisiinsa yhdistävä yhtälö. Piirtämisessä voit halutessasi hyödyntää kuvaa 3.A. 5 p.",
+            "displayNumber": "3.3"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:14:22.832695",
+          "max_score": null,
+          "groupping": null,
+          "id": 7834487,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "41f86c3e-2b52-41d9-8e75-64383b8e3db9",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2025-10-23T07:18:49.918917"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Millaisia hyötyjä saavutettaisiin, jos suprajohtavuus saataisiin aikaan huoneenlämpötilassa? 4 p.",
+          "deleted_at": null,
+          "feedback": "Sähkönsiirrossa on aina muutaman prosentin vastushäviö. Jos voitaisiin käyttää suprajohteita, sähköä voisi siirtää häviöttä, mikä säästäisi vuosittain paljon rahaa. Kaapelit voisivat olla melko ohuita, koska niiden sähkövastus on nolla.\n\n(2 p.)\n\nKaikissa elektronisissa laitteissa sähkövirroista johtuvat tehonhäviöt lämmittävät komponentteja. Tämä voi johtaa ylikuumenemiseen. Siksi laitteisiin on usein lisätty tuuletusaukkoja ja jäähdytysrimoja. Jos johtimet olisivat suprajohtavia, tuuletusaukkoja ja rimoja ei tarvittaisi. Laitteet voisivat olla pienempiä, ja komponentit voisi asentaa lähemmäs toisiaan piirilevyillä.\n\n(2 p.)\n\n\n\n**Pisteytys**:\n\nOn tunnistettu pienemmät energia- tai tehohäviöt energian siirrossa. (2 p.)\n\nEdellisen avulla on perusteltu yksi järkevä hyöty, esimerkiksi laitteiden, kustannusten tai jäähdytystarpeen pieneneminen tai ohuempien tai pidempien johtimien käyttömahdollisuus (2 p.)\n\n**Tyypillisiä virheitä:**\n\n- Selitetään häviöitä liittämättä niitä energiaan.\n- Tarjotaan hyödyksi pelkkää sovellusta.\n- Tarjotaan mielikuvituslaitteita.",
+          "exam_id": 253067,
+          "content": {
+            "text": "Millaisia hyötyjä saavutettaisiin, jos suprajohtavuus saataisiin aikaan huoneenlämpötilassa? 4 p.",
+            "displayNumber": "11.3"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:14:22.834625",
+          "max_score": null,
+          "groupping": null,
+          "id": 7834884,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "e06f3943-6037-4c05-b814-259af7542f8d",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2025-10-23T07:51:42.509905"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Metallijousessa etenevä aalto 3 p.\n\nKuvassa 5.5.A näkyvässä metallijousessa etenee aaltoliike. Valitse kuvan aaltoa parhaiten kuvaava vastausvaihtoehto.\n\n\n\n**Aineisto**\n\n5.5.A Kuva: [LINK text=Metallijousessa etenevä aalto|url=https://yle.fi/plus/abitreenit/2025/syksy/fysiikka/attachments/index.html#5.5.A]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 253067,
+          "content": {
+            "text": "#### Metallijousessa etenevä aalto 3 p.\n\nKuvassa 5.5.A näkyvässä metallijousessa etenee aaltoliike. Valitse kuvan aaltoa parhaiten kuvaava vastausvaihtoehto.\n\n\n\n**Aineisto**\n\n5.5.A Kuva: [LINK text=Metallijousessa etenevä aalto|url=https://yle.fi/plus/abitreenit/2025/syksy/fysiikka/attachments/index.html#5.5.A]",
+            "displayNumber": "5.5"
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:14:22.836508",
+          "max_score": 3,
+          "groupping": null,
+          "id": 7834588,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 14,
+              "text": "Aallonpituus vaihtelee välillä 0,2–0,6 cm.",
+              "parent": "de486e8b-8f85-4635-8407-bc74c0b1cfdc",
+              "choices": []
+            },
+            {
+              "id": 15,
+              "text": "Aallonpituus on 5 cm.",
+              "parent": "de486e8b-8f85-4635-8407-bc74c0b1cfdc",
+              "choices": []
+            },
+            {
+              "id": 16,
+              "text": "Aallonpituus on 6 cm.",
+              "parent": "de486e8b-8f85-4635-8407-bc74c0b1cfdc",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 17,
+              "text": "Aallonpituus on 12 cm.",
+              "parent": "de486e8b-8f85-4635-8407-bc74c0b1cfdc",
+              "choices": []
+            },
+            {
+              "id": 18,
+              "text": "Aallonpituus on 3 cm.",
+              "parent": "de486e8b-8f85-4635-8407-bc74c0b1cfdc",
+              "choices": []
+            },
+            {
+              "id": 19,
+              "text": "En vastaa.",
+              "parent": "de486e8b-8f85-4635-8407-bc74c0b1cfdc",
+              "choices": []
+            }
+          ],
+          "uuid": "de486e8b-8f85-4635-8407-bc74c0b1cfdc",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2025-10-23T07:31:14.966433"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Johdonsuojakatkaisija pystyy havaitsemaan vain tilanteet, joissa virtapiirin sähkövirta kasvaa liian suureksi. Verkkovirtapiirissä voi kuitenkin olla muitakin vikoja, jotka aiheuttavat vaaratilanteita tai ongelmia piirin toiminnalle, jollei niiltä suojauduta. Mitä muita suojaamista vaativia vikoja verkkovirtapiirissä voi olla? Mainitse vähintään kaksi. 4 p.",
+          "deleted_at": null,
+          "feedback": "Johdonsuojakatkaisijalta jää havaitsematta joitain piirin virhetilanteita. Esimerkkejä näistä tilanteista:\n\n1. Piiriin syötetty ja piiristä palaava sähkövirta eivät ole yhtä suuria. Puuttuvaa sähkövirran osaa kutsutaan vuotovirraksi, ja sen havaitsemiseen tarvitaan erillinen laite.\n2. Piirin jännite ja sähkövirta eivät ole samassa vaiheessa. Tällöin piirissä kulkee loisvirta, jota johdonsuojakatkaisija ei pysty havaitsemaan.\n3. Kolmivaihevirran yksi vaihe putoaa nollaan.\n4. Jännitteen laadussa on pieniä häiriöitä, kuten kohinaa tai muita lyhytaikaisia poikkeamia sinimuotoisesta jännitteestä. Koska johdonsuojakatkaisija tarkkailee vain sähkövirran suuruutta, se ei pysty havaitsemaan tällaisia häiriöitä.\n\n2 p. kustakin oikeasta esimerkistä\n\nSähkövirran katkeaminen virtapiiristä ei ole suojaamista vaativa vika. Sähköiskun saaminen ei ole virtapiirin vika, vaan vian seuraus.\n\n\n\n**Pisteytys:**\n\nJokaisesta oikeasta viasta tai tilanteesta (2 p.). Arvostellaan kaksi parasta.\n\n**Tyypillisiä virheitä:**\n\nVäitetään viaksi sähkövirran katkeamista tai laitteen rikkoutumista.\n\nVäitetään viaksi sähköiskun saamista. Se voi olla vian seuraus.\n\nVäitetään viaksi oikosulkua, jolta johdonsuojakatkaisija suojaa.",
+          "exam_id": 253067,
+          "content": {
+            "text": "Johdonsuojakatkaisija pystyy havaitsemaan vain tilanteet, joissa virtapiirin sähkövirta kasvaa liian suureksi. Verkkovirtapiirissä voi kuitenkin olla muitakin vikoja, jotka aiheuttavat vaaratilanteita tai ongelmia piirin toiminnalle, jollei niiltä suojauduta. Mitä muita suojaamista vaativia vikoja verkkovirtapiirissä voi olla? Mainitse vähintään kaksi. 4 p.",
+            "displayNumber": "10.4"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:14:22.838228",
+          "max_score": null,
+          "groupping": null,
+          "id": 7834826,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "d8621a75-88d8-470d-b0ca-ab9f4e2306b3",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2025-10-23T07:45:51.935415"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Käämissä on N johdinkierrosta, ja sen kokonaisresistanssi on R. Kirjoita lauseke käämin sähkövirran teholle hetkellä, jolloin magneetin nopeus on v. Oleta, että käämin läpäisevän magneettivuon muutosnopeus on suoraan verrannollinen magneetin nopeuteen. Voit merkitä verrannollisuuskerrointa kirjaimella k. Kuinka teho muuttuu käämin resistanssia muutettaessa? 6 p.",
+          "deleted_at": null,
+          "feedback": "Käämiin indusoituu induktiolain mukainen jännite[MATH text=U=-Nd\\varphi/dt] jossa [MATH text=\\varphi] on magneettivuo käämin läpi. Vuon muutosnopeus on tehtävän mukaan verrannollinen magneetin nopeuteen. Voidaan siis kirjoittaa [MATH text=d\\varphi/dt\\ \\alpha\\ v] eli [MATH text=d\\varphi/dt\\ = kv] missä k on verrannollisuusvakio.\n\n(2 p.)\n\nTästä seuraa jännitteelle [MATH text= U =-N k v] Induktiojännite aiheuttaa virran I, ja Ohmin lain mukaan voimme kirjoittaa [MATH text=U =R I] Sähkövirran aiheuttama tehohäviö [MATH text=P =U^2/R =(N k v)^2 /R]\n\n(2 p.)\n\nTästä lausekkeesta nähdään, että häviöteho kasvaa, jos resistanssia R pienennetään.\n\n(2 p.)\n\n**Pisteytys**:\n\nOn annettu oikea suureyhtälö vuon muutosnopeudelle *k*:n avulla. (2 p.)\n\nOn annettu oikea suureyhtälö teholle *k*:n avulla. (2 p.)\n\nOn kerrottu sanallisesti, että teho kasvaa, kun resistanssi pienenee tai päinvastoin. (2 p.)",
+          "exam_id": 253067,
+          "content": {
+            "text": "Käämissä on N johdinkierrosta, ja sen kokonaisresistanssi on R. Kirjoita lauseke käämin sähkövirran teholle hetkellä, jolloin magneetin nopeus on v. Oleta, että käämin läpäisevän magneettivuon muutosnopeus on suoraan verrannollinen magneetin nopeuteen. Voit merkitä verrannollisuuskerrointa kirjaimella k. Kuinka teho muuttuu käämin resistanssia muutettaessa? 6 p.",
+            "displayNumber": "7.2"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:14:22.843649",
+          "max_score": null,
+          "groupping": null,
+          "id": 7834690,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "bc517d94-452a-42ce-850c-f1f46c177987",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2025-10-23T07:36:11.057833"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Miksi magneetti nousee ilmaan? Miksi ilmiötä ei voi selittää induktiolain avulla? 5 p.",
+          "deleted_at": null,
+          "feedback": "Induktiolain mukaan virtasilmukkaan syntyy induktiojännite, kun magneettivuo silmukan läpi muuttuu ajan funktiona. Videossa esitetyssä tilanteessa magneetti on alun perin paikallaan suprajohtavaksi muuttuvan kiekon päällä. Magneettivuo kiekon läpi on siis koko ajan vakio ja magneettivuon muutos per aikayksikkö nolla. Suprajohteen pintaan muodostuvia pyörrevirtoja ei siten voida selittää klassisen sähkömagneettisen induktion avulla.\n\n(3 p.)\n\nKun kiekko jäähdytetään, se muuttuu suprajohtavaksi. Suprajohteen perusominaisuuksiin kuuluu se, että johde sulkee ulkoisen magneettikentän pois pinnassaan olevien pyörrevirtojen aiheuttamalla vastakkaissuuntaisella magneettikentällä. Vastakkaissuuntaiset magneettikentät hylkivät toisiaan, joten magneetti nousee ilmaan.\n\n(2 p.)\n\n\n\n**Pisteytys**:\n\nOn perusteltu, että induktiolaki ei selitä ilmiötä sillä, että magneetti ei liiku (2 p.)\n\nOn kerrottu, että ulkoinen magneettikenttä saa suprajohteessa aikaan pyörrevirtoja ja nämä pyörrevirrat synnyttävät magneettikentän (2 p.)\n\nOn perusteltu magneetin nouseminen ilmaan joko hylkivällä magneettisella voimalla, toisiaan hylkivillä magneettisilla navoilla tai kertomalla syntyvän voiman olevan yhtä suuri kuin kiekon paino. (1 p.)",
+          "exam_id": 253067,
+          "content": {
+            "text": "Miksi magneetti nousee ilmaan? Miksi ilmiötä ei voi selittää induktiolain avulla? 5 p.",
+            "displayNumber": "11.1"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:14:22.847897",
+          "max_score": null,
+          "groupping": null,
+          "id": 7834886,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "44e3d338-f6db-43da-9a7c-9cf49591e7d1",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2025-10-23T07:51:42.518319"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kaikuluotauksessa veteen lähetetyt ääniaallot heijastuvat kaloista (kuva 9.B). Pienetkin kalat voidaan havaita selkeästi, jos ääniaallot resonoivat kalojen uimarakossa olevan ilman kanssa. Tällaista resonanssissa olevaa uimarakkoa voidaan yksinkertaistetusti tarkastella molemmista päistä suljettuna putkena.\n\n\n\nEräs kala näkyi selkeästi luotaimessa, kun äänen taajuus oli pienimmillään 2,4 kHz. Laske kalan uimarakon suurimman ontelon pituus ja kalan etäisyys kaikuluotaimesta, kun kalasta heijastunut ääni palasi 12 ms lähettämisen jälkeen. Äänen nopeus ilmassa on 343 m/s ja vedessä 1 484 m/s.",
+          "deleted_at": null,
+          "feedback": "Resonanssia esiintyy, kun uimarakkoon syntyy seisova aalto. Suljetun putken molemmissa päissä pitää silloin olla solmukohdat, joten resonanssia synnyttävän äänen aallonpituus voi suurimmillaan olla [MATH text=\\lambda=2l].\n\n(2 p.)\n\nAaltoyhtälön, [MATH text=v = \\lambda f], avulla voidaan ilmaista putken pituus taajuuden funktiona [MATH text=l =1/2 \\lambda=v /2 f].\n\nÄänen nopeus uimarakossa on [MATH text= v =343 m/s] ja taajuus, [MATH text=f =2,4 kHz], pysyy samana väliaineesta riippumatta. Uimarakon pituudeksi saadaan[MATH text= l =343 m/s /(2 *224 kHz) =0,071458333 m \\approx7,1 cm].\n\n(2 p.)\n\nKalan etäisyys kaikuluotaimesta on puolet ääniaallon etenemästä matkasta [MATH text=x =1/2 s =1/2 v t], jossa[MATH text= v =1484 m/s] on äänen nopeus vedessä. Etäisyydeksi saadaan [MATH text=x =1/2 *1484 m/s *12 ms \\approx8,9 m].\n\n(2 p.)\n\n\n\n**Pisteytys:**\n\nOn mainittu sanallisesti tai kerrottu kuvassa, että uimarakkoon syntyy seisova aalto tai että uimarakossa olevassa aallossa on solmu molemmissa päissä. (2 p.)\n\nOn annettu oikea vastaus uimarakon pituudelle 2-3 merkitsevän numeron tarkkuudella välillä 7,14 cm – 7,15 cm. (2 p.)\n\nOn annettu oikea vastaus kalan etäisyydelle 2-3 merkitsevän numeron tarkkuudella välillä 8,59 m – 8,91 m. (2 p.)\n\n**Tyypillisiä virheitä:**\n\n- On annettu uimarakon pituudeksi äänen aallonpituus.\n- On ajateltu kalan etäisyydeksi edestakainen matka.\n- On laskettu etäisyyttä siten, että osan ajasta ääni liikkuu ilmarakossa ja saatu hiukan lyhyempi etäisyys. Nämä etäisyydet mahtuvat kuitenkin hyväksytyn vastauksen rajojen sisäpuolelle.",
+          "exam_id": 253067,
+          "content": {
+            "text": "Kaikuluotauksessa veteen lähetetyt ääniaallot heijastuvat kaloista (kuva 9.B). Pienetkin kalat voidaan havaita selkeästi, jos ääniaallot resonoivat kalojen uimarakossa olevan ilman kanssa. Tällaista resonanssissa olevaa uimarakkoa voidaan yksinkertaistetusti tarkastella molemmista päistä suljettuna putkena.\n\n\n\nEräs kala näkyi selkeästi luotaimessa, kun äänen taajuus oli pienimmillään 2,4 kHz. Laske kalan uimarakon suurimman ontelon pituus ja kalan etäisyys kaikuluotaimesta, kun kalasta heijastunut ääni palasi 12 ms lähettämisen jälkeen. Äänen nopeus ilmassa on 343 m/s ja vedessä 1 484 m/s.",
+            "displayNumber": "9.3 "
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:14:22.85258",
+          "max_score": null,
+          "groupping": null,
+          "id": 7834776,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "bb394ae2-554d-443e-80ce-f732d14a4922",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2025-10-23T07:43:06.553409"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Laadi taulukkoa 2.B käyttäen kuvaaja kuulan kulkemasta matkasta ajan funktiona. Tähän kuvaajaan ei tule graafista tasoitusta. 4 p.",
+          "deleted_at": null,
+          "feedback": "[IMS id=39-154245668f9dfc169b9e]\n\nOn esitetty oikea kuulan kulkeman matkan kuvaaja ajan funktiona. (4 p.)\n\nKuvaajasta tehdään seuraavat pistevähennykset:\n\n- Jos on piirretty pylväsdiagrammi, annetaan kuvaajasta nolla pistettä.\n- Jos on piirretty pelkkä murtoviiva, vähennetään kaksi pistettä.\n- Jos datapisteet on yhdistetty murtoviivalla, vähennetään kaksi pistettä.\n- Jos kuvaajaan on piirretty sovite, vähennetään kaksi pistettä.\n- Jos yksi tai useampi datapiste puuttuu kuvaajasta, vähennetään kaksi pistettä.\n- Jos yhden tai molempien akseleiden lukuarvot puuttuvat tai ovat väärin, vähennetään yksi piste.\n- Jos yhden tai molempien akseleiden suureen nimi puuttuu tai ovat väärin, vähennetään yksi piste.\n- Jos yhden tai molempien akseleiden suureen yksikkö puuttuu tai ovat väärin, vähennetään yksi piste.\n- Jos akselit on piirretty väärin päin, vähennetään yksi piste.\n\n**Tyypillisiä virheitä:**\n\nKuvaajaan on piirretty pelkkä murtoviiva tai mittauspisteet on yhdistetty murtoviivalla.\n\nKuvaajaan on piirretty sovite.",
+          "exam_id": 253067,
+          "content": {
+            "text": "Laadi taulukkoa 2.B käyttäen kuvaaja kuulan kulkemasta matkasta ajan funktiona. Tähän kuvaajaan ei tule graafista tasoitusta. 4 p.",
+            "displayNumber": "2.1"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:14:22.854711",
+          "max_score": null,
+          "groupping": null,
+          "id": 7834470,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "c65cbd6f-d16e-41a6-a08d-b10136ba649c",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2025-10-23T07:15:47.21332"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Määritä kuulan nopeus videolla esiintyvässä tilanteessa, jossa kuula on liikkeellä ja siihen kohdistuvat voimat tasapainottavat toisensa. 5 p.",
+          "deleted_at": null,
+          "feedback": "Kun kuula liikkuu vedessä, kuulaan kohdistuva väliaineen vastus riippuu nopeudesta. Kuulan nopeus asettuu sellaiseksi, että kuulaan vaikuttavat voimat tasapainottavat toisensa. Tällöin kuulan kiihtyvyys on nolla ja nopeus vakio. Tätä tilannetta esittää kuvaajan osuus, jossa datapisteet ovat suoralla.\n\n[IMS id=39-154246168f9e09134ac7]\n\nKuulan nopeus on suoran kulmakerroin. (3 p.)\n\nSuoran sovituksella saadaan v = 0,205 m/s. (2 p.)\n\n\n\n**Pisteytys:**\n\nOn kerrottu että kuulan liike on tasaista, kuulan nopeus on vakio tai kuulan kiihtyvyys on nolla. (1 p.)\n\nKulmakerroin on määritetty aikavälillä, jonka alaraja on vähintään 1,5 s ja yläraja selvästi suurempi (2 p.)\n\nOn annettu oikea nopeuden arvo välillä 0,20 m/s - 0,22 m/s kahden tai kolmen merkitsevän numeron tarkkuudella. (2 p.)\n\n**Tyypillisiä virheitä:**\n\nSuora on sovitettu väärälle aikavälille.",
+          "exam_id": 253067,
+          "content": {
+            "text": "Määritä kuulan nopeus videolla esiintyvässä tilanteessa, jossa kuula on liikkeellä ja siihen kohdistuvat voimat tasapainottavat toisensa. 5 p.",
+            "displayNumber": "2.3"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:14:22.856722",
+          "max_score": null,
+          "groupping": null,
+          "id": 7834468,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "ff7d6d30-1d9f-4018-bee1-7a0135affd7d",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2025-10-23T07:15:47.205913"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kuinka suuri voima kuntoilijan on vähintään kohdistettava kelkkaan, jotta kelkka ja painot pysyisivät ylhäällä paikoillaan? 6 p.\n\n",
+          "deleted_at": null,
+          "feedback": "Kun kitkaa ei huomioida, voimien tasapaino prässin kiskojen suuntaan on[MATH text= F -G cos(45 °) =0].\n\n(2 p.)\n\nPainoihin ja kelkkaan vaikuttava painovoima on [MATH text= G =m_{k +p} g], joten kuntoilijan on kohdistettava kelkkaan vähintään voima [MATH text=F=m_{k+p}g\\cos45^°=160kg*9{,}80665m/s^2\\cos45^°=1109{,}495795N\\approx1100N].\n\n(4 p.)\n\n\n\n**Pisteytys:**\n\nOn kerrottu että kappale on tasapainossa tai kerrottu että kiihtyvyys on nolla ja perusteltu se oikein Newtonin II lain avulla. (2 p.)\n\nOn annettu oikea voimien tasapainoyhtälö kiskojen suunnassa. (2 p.)\n\nOn annettu voiman suuruudeen oikea arvo kahden tai kolmen merkitsevän numeron tarkkuudella. (2 p.)\n\n**Tyypillisiä virheitä:**\n\nOn laskettu kosinin arvo käyttäen väärää kulman yksikköä.\n\nVoimien tasapainoyhtälössä kosinifunktio on nimittäjässä.",
+          "exam_id": 253067,
+          "content": {
+            "text": "Kuinka suuri voima kuntoilijan on vähintään kohdistettava kelkkaan, jotta kelkka ja painot pysyisivät ylhäällä paikoillaan? 6 p.\n\n",
+            "displayNumber": "4.2 "
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:14:22.858757",
+          "max_score": null,
+          "groupping": null,
+          "id": 7834511,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "344034ab-0f80-420e-9ecd-0f9efe3c6cf3",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2025-10-23T07:20:46.137633"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Piirrä kelkan ja painojen muodostaman kappaleen voimakuvio, kun kuntoilija pitää kelkkaa ja painoja paikoillaan jalkojensa avulla. Käytä voimakuvion pohjana kuvaa 4.B. 3 p.",
+          "deleted_at": null,
+          "feedback": "[LINK text=Katso kuva täältä.|url=https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-09-17_FY_fi/attachments/4.1_hvp.png]\n\n[MATH text=\\vec T] on tukivoima, [MATH text=\\vec G] on paino ja[MATH text= \\vec F ]on kuntoilijan kelkkaan kohdistama voima.\n\n\n\nOikein piirretty voimakuvio, jossa tukivoima, paino ja kuntoilijan kelkkaan kohdistama voima nimetty sanallisesti tai symbolilla (3 p.)\n\nVoimakuviosta tehdään seuraavat vähennykset:\n\n- Vakavasta virheestä (puuttuvat, ylimääräiset tai väärään suuntaan osoittavat voimat) vähennetään kolme pistettä.\n- Merkittävästä virheestä (voiman nimi tai symboli puuttuu, voimien summa eroaa merkittävästi nollasta, useammalla voimalla on sama nimi tai symboli) vähennetään yksi piste per virhetyyppi.\n- Jos voimakuvion pohjana käytetty muuta kuin annettua kuvaa, vähennetään yksi piste.\n\n**Tyypillisiä virheitä:**\n\n- Tukivoima on jätetty piirtämättä.",
+          "exam_id": 253067,
+          "content": {
+            "text": "Piirrä kelkan ja painojen muodostaman kappaleen voimakuvio, kun kuntoilija pitää kelkkaa ja painoja paikoillaan jalkojensa avulla. Käytä voimakuvion pohjana kuvaa 4.B. 3 p.",
+            "displayNumber": "4.1"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:14:22.86056",
+          "max_score": null,
+          "groupping": null,
+          "id": 7834512,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "1afd739a-386d-4d96-b77d-086fe7671a8d",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2025-10-23T07:20:46.140583"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Selvitä graafisesti piirtämääsi kuvaajaa käyttäen, milloin kuula osuu veden pintaan. Valitse aikaväleistä a–d se, jonka aikana kuula osuu veden pintaan. Perustele valintasi piirtämällä uusi kuvaaja, jossa näkyy osaan mittauspisteistä sovitettu paraabeli. 6 p.\n\n- Aikaväli a: 1,3–1,4 s\n- Aikaväli b: 1,4–1,5 s\n- Aikaväli c: 1,5–1,6 s\n- Aikaväli d: 1,8–1,9 s",
+          "deleted_at": null,
+          "feedback": "Kuula osuu veden pintaan aikavälillä b. (2 p.)\n\nPerustelu: Kuvaajan s(t) mittauspisteet aikavälillä 0,4–1,4 s osuvat hyvin tarkasti pisteisiin sovitetulle paraabelille. Tämä kertoo, että liike on tällä aikavälillä mittaustarkkuuden rajoissa tasaisesti kiihtyvää. 1,5 sekunnin kohdalla oleva mittauspiste ei osu käyrälle, joten välillä 1,4–1,5 s kiihtyvyys on muuttunut. Tämä johtuu kuulan osumisesta veteen.\n\n(Newtonin II lain mukaan ΣF = ma, joten kiihtyvyyden muutoksen täytyy aiheutua kokonaisvoiman muuttumisesta. Se taas johtuu kuulan osumisesta veteen, sillä vedessä kuulaan alkaa vaikuttaa gravitaation, tukivoiman ja kitkan lisäksi myös huomattava väliaineen vastus.)\n\n[IMS id=39-154245968f9e0239a35c]\n\n**Pisteytys:**\n\nOn annettu oikea kirjain (b) tai aikaväli (1,4 s - 1,5 s) (2 p.)\n\nOn esitetty kuvaaja, jossa datapisteisiin on aikavälillä t\\le1{,}6~\\mathrm{s} oikein sovitettu ylöspäin aukeava paraabeli yhtälöineen (2 p.)\n\nOn perusteltu osuman oikea aikaväli datapisteen poikkeamisella paraabelilta, joka on oikein sovitettu mittauspisteisiin välillä 0{,}3~\\mathrm{s}\\ \\le t\\le1{,}4~\\mathrm{s} (2 p.)\n\n**Tyypillisiä virheitä:**\n\nPisteisiin on sovitettu muu funktio kuin paraabeli.\n\nParaabeli on sovitettu väärälle aikavälille.",
+          "exam_id": 253067,
+          "content": {
+            "text": "Selvitä graafisesti piirtämääsi kuvaajaa käyttäen, milloin kuula osuu veden pintaan. Valitse aikaväleistä a–d se, jonka aikana kuula osuu veden pintaan. Perustele valintasi piirtämällä uusi kuvaaja, jossa näkyy osaan mittauspisteistä sovitettu paraabeli. 6 p.\n\n- Aikaväli a: 1,3–1,4 s\n- Aikaväli b: 1,4–1,5 s\n- Aikaväli c: 1,5–1,6 s\n- Aikaväli d: 1,8–1,9 s",
+            "displayNumber": "2.2"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:14:22.862387",
+          "max_score": null,
+          "groupping": null,
+          "id": 7834469,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "1098599f-860c-4fc6-89de-a829b6801c28",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2025-10-23T07:15:47.209558"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Ilmaeristeinen levykondensaattori, jonka kapasitanssi on [MATH text=0{,}95\\mu F], on kytkettynä 24 V:n tasajännitelähteeseen. Kondensaattorilevyjen väli täytetään eristelevyllä, jonka materiaalin suhteellinen permittiivisyys on 4,5. Kuinka suuri on kondensaattorin energian muutos, kun eristelevy lisätään? 5 p.",
+          "deleted_at": null,
+          "feedback": "Kondensaattori, jonka kapasitanssi on[MATH text= C =0,95 \\mu F], on koko ajan kytkettynä jännitelähteeseen, joten sen jännite pysyy vakiona: [MATH text=U =24 V]. Kondensaattorin kapasitanssi on suoraan verrannollinen kondensaattorilevyjen välisen eristeen suhteelliseen permittiivisyyteen. Kun ilma (suhteellinen permittiivisyys [MATH text=\\approx 1]) korvataan eristeellä, jonka suhteellinen permittiivisyys on [MATH text=\\varepsilon_r=4{,}5], kondensaattorin kapasitanssi kasvaa arvoon [MATH text=\\varepsilon_r C].\n\n(2 p.)\n\nKondensaattorin energian muutos on[MATH text=\\Delta E=E_2-E_1=\\frac{1}{2}\\varepsilon_rCU^2\\frac{1}{2}-CU^2=\\frac{1}{2}(\\varepsilon_r-1)CU^2=0{,}9576mJ~~0{,}96mJ].\n\n(3 p.)\n\n**Pisteytys:**\n\nOn kerrottu, että kondensaattorin jännite pysyy vakiona ja kondensaattorin kapasitanssi muuttuu \\varepsilon_r-kertaiseksi. (2 p.)\n\nOn annettu oikea energian muutoksen suureyhtälö. (1 p.)\n\nOn annettu oikea vastaus välillä 0,956 mJ - 0,958 mJkahden tai kolmen merkitsevän numeron tarkkuudella. (2 p.)",
+          "exam_id": 253067,
+          "content": {
+            "text": "Ilmaeristeinen levykondensaattori, jonka kapasitanssi on [MATH text=0{,}95\\mu F], on kytkettynä 24 V:n tasajännitelähteeseen. Kondensaattorilevyjen väli täytetään eristelevyllä, jonka materiaalin suhteellinen permittiivisyys on 4,5. Kuinka suuri on kondensaattorin energian muutos, kun eristelevy lisätään? 5 p.",
+            "displayNumber": "6.1"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:14:22.864399",
+          "max_score": null,
+          "groupping": null,
+          "id": 7834654,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "3b296ae8-6b3f-419a-9f56-834cbe4fcbb2",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2025-10-23T07:34:16.286661"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Ilmaeristeinen levykondensaattori, jonka kapasitanssi on [MATH text=1,{9} \\mu F], kytketään 12 V:n tasajännitelähteeseen. Tämän jälkeen kondensaattori irrotetaan jännitelähteestä. Kondensaattorin levyjä siirretään siten, että niiden välinen etäisyys nelinkertaistuu. Kuinka suuri on kondensaattorin energian muutos, kun levyjä siirretään? 6 p.",
+          "deleted_at": null,
+          "feedback": "Ympäristöstään eristetyn kondensaattorin varaus säilyy.\n\n(2 p.)\n\nAlussa kondensaattorin kapasitanssi ja jännite ovat [MATH text=C =1,9 \\mu F] ja [MATH text= U = 12 V], joten sen varaus on [MATH text=Q =C U =22,8 \\mu C] Kondensaattorin kapasitanssi on kääntäen verrannollinen levyjen väliseen etäisyyteen, joten etäisyyden nelinkertaistaminen pienentää kapasitanssin arvoon *C*/4. Kondensaattorin energian muutokseksi saadaan\n\n[MATH text=\\Delta E=E_2-E_1=\\frac{Q^2}{2C/4}-\\frac{Q^2}{2C}=\\frac{3Q^3}{2C}][MATH text==0,4104 mJ \\approx 0,41 mJ]\n\n**Pisteytys:**\n\nOn kerrottu, että kondensaattorin varaus säilyy. (2 p.)\n\nOn kerrottu, että kondensaattorin kapasitanssi pienenee neljäsosaan. (2 p.)\n\nOn annettu oikea vastaus kahden tai kolmen merkitsevän numeron tarkkuudella. (2 p.)\n\n**Tyypillisiä virheitä:**\n\nOn oletettu, että kondensaattorin jännite pysyy vakiona ja saatu vastaukseksi 0,10 mJ.",
+          "exam_id": 253067,
+          "content": {
+            "text": "Ilmaeristeinen levykondensaattori, jonka kapasitanssi on [MATH text=1,{9} \\mu F], kytketään 12 V:n tasajännitelähteeseen. Tämän jälkeen kondensaattori irrotetaan jännitelähteestä. Kondensaattorin levyjä siirretään siten, että niiden välinen etäisyys nelinkertaistuu. Kuinka suuri on kondensaattorin energian muutos, kun levyjä siirretään? 6 p.",
+            "displayNumber": "6.2"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:14:22.866299",
+          "max_score": null,
+          "groupping": null,
+          "id": 7834653,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "8289fc06-e9c7-4d0e-817d-ca0282f8c060",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2025-10-23T07:34:16.28299"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Ääni ja sen spektri 3 p.\n\nMikrofonilla tallennettiin ääni, jonka paine ajan funktiona näkyy kuvan 5.4.A ylimmässä kuvaajassa. Mikä esitetyistä äänen spektreistä (kuvan 5.4.A kuvaajat A–D) vastaa kyseistä ääntä?\n\n\n\n**Aineisto**\n\n5.4.A Kuva: [LINK text=Ääni ja sen spektri|url=https://yle.fi/plus/abitreenit/2025/syksy/fysiikka/attachments/index.html#5.4.A]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 253067,
+          "content": {
+            "text": "#### Ääni ja sen spektri 3 p.\n\nMikrofonilla tallennettiin ääni, jonka paine ajan funktiona näkyy kuvan 5.4.A ylimmässä kuvaajassa. Mikä esitetyistä äänen spektreistä (kuvan 5.4.A kuvaajat A–D) vastaa kyseistä ääntä?\n\n\n\n**Aineisto**\n\n5.4.A Kuva: [LINK text=Ääni ja sen spektri|url=https://yle.fi/plus/abitreenit/2025/syksy/fysiikka/attachments/index.html#5.4.A]",
+            "displayNumber": "5.4"
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:14:22.868131",
+          "max_score": 3,
+          "groupping": null,
+          "id": 7834589,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 14,
+              "text": "A",
+              "parent": "9f37eabc-5595-4a04-bfc1-3991be5c9c58",
+              "choices": []
+            },
+            {
+              "id": 15,
+              "text": "C",
+              "parent": "9f37eabc-5595-4a04-bfc1-3991be5c9c58",
+              "choices": []
+            },
+            {
+              "id": 16,
+              "text": "D",
+              "parent": "9f37eabc-5595-4a04-bfc1-3991be5c9c58",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 17,
+              "text": "B",
+              "parent": "9f37eabc-5595-4a04-bfc1-3991be5c9c58",
+              "choices": []
+            },
+            {
+              "id": 19,
+              "text": "En vastaa.",
+              "parent": "9f37eabc-5595-4a04-bfc1-3991be5c9c58",
+              "choices": []
+            }
+          ],
+          "uuid": "9f37eabc-5595-4a04-bfc1-3991be5c9c58",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2025-10-23T07:31:14.969775"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Maalämpöjärjestelmän käyttöönotossa kuumavesisäiliöön johdetaan 350 litraa vettä, jonka lämpötila on[MATH text=7.0\\ °C]. Laitteisto kuumentaa veden 2,5 tunnissa [MATH text=60\\ °C]:n lämpötilaan ja kuluttaa tähän 7,4 kWh sähköenergiaa. Määritä järjestelmän lämpökerroin ja laske, millä teholla vesi lämpenee. 7 p.",
+          "deleted_at": null,
+          "feedback": "Veteen siirtynyt lämpömäärä on [MATH text=\\Delta Q=cm\\Delta T=cpV\\left(T_2-T_1\\right)]. Veden tiheys 7.0 °C:n lämpötilassa on [MATH text=p=999,90 kg/m^3] Lämpökerroin eli lämpömäärän ja kulutetun sähköenergian suhde on [MATH text=\\eta=\\frac{\\Delta Q}{E}=\\frac{cpV\\left(T_2-T_1\\right)}{E}][MATH text==\\frac{4{,}19\\frac{kJ}{kgK}\\cdot999{,}90\\frac{kg}{m^3}\\cdot0{,}35m^3\\cdot53\\ K}{7{,}4\\ kWh}] [MATH text==\\frac{77{,}71672755MJ}{7{,}4\\ kW\\cdot3600\\ s\\ }\\approx2{,}9].\n\nVesi lämpenee teholla [MATH text=P=\\frac{\\Delta Q}{\\Delta t}\\frac{77{,}71672755MJ}{2{,}5\\cdot3600s\\ }=8635{,}19195\\ W\\ \\approx8{,}6\\ kW]\n\n\n\n**Pisteytys:**\n\nOn annettu veteen siirtyneen lämpömäärän oikea lukuarvo välillä 77,5 MJ - 77,8 MJ (2 p.)\n\nOn annettu oikea vastaus lämpökertoimen arvolle välillä 2,90 - 2,92 kahden tai kolmen merkitsevän numeron tarkkuudella. (3 p.)\n\nOn annettu tehon oikea arvo välillä 8,62 kW - 8,64 kW kahden tai kolmen merkitsevän numeron tarkkuudella. (2 p.)\n\n**Tyypillisiä virheitä:**\n\nOn annettu lämmitystehon sijasta sähköteho.\n\nVeteen siirtynyt lämpömäärä on laskettu käyttäen väärää lämpötilan muutosta.",
+          "exam_id": 253067,
+          "content": {
+            "text": "Maalämpöjärjestelmän käyttöönotossa kuumavesisäiliöön johdetaan 350 litraa vettä, jonka lämpötila on[MATH text=7.0\\ °C]. Laitteisto kuumentaa veden 2,5 tunnissa [MATH text=60\\ °C]:n lämpötilaan ja kuluttaa tähän 7,4 kWh sähköenergiaa. Määritä järjestelmän lämpökerroin ja laske, millä teholla vesi lämpenee. 7 p.",
+            "displayNumber": "3.2"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:14:22.87035",
+          "max_score": null,
+          "groupping": null,
+          "id": 7834488,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "7a24551f-2bd9-4c2f-a043-5a96a0516613",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2025-10-23T07:18:49.921997"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "**Tuntematon suure Y 4 p.**\n\n\n\n[MATH text=Y =\\sqrt{\\frac{voima}{(massa /matka)}}]\n\n\n\n**1.6.1** Selvitä yksikkötarkastelun avulla suureen Y yksikkö. Kirjoita vastauskenttään vain suureen Y yksikkö. 2 p.\n\n[GAP id=9]\n\n\n\n**1.6.2** Selvitä yksikkötarkastelun avulla suureen Y nimi. Kirjoita vastauskenttään vain suureen Y nimi. 2 p.\n\n[GAP id=10]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 253067,
+          "content": {
+            "text": "**Tuntematon suure Y 4 p.**\n\n\n\n[MATH text=Y =\\sqrt{\\frac{voima}{(massa /matka)}}]\n\n\n\n**1.6.1** Selvitä yksikkötarkastelun avulla suureen Y yksikkö. Kirjoita vastauskenttään vain suureen Y yksikkö. 2 p.\n\n[GAP id=9]\n\n\n\n**1.6.2** Selvitä yksikkötarkastelun avulla suureen Y nimi. Kirjoita vastauskenttään vain suureen Y nimi. 2 p.\n\n[GAP id=10]",
+            "displayNumber": "1.6"
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:14:22.873103",
+          "max_score": 4,
+          "groupping": null,
+          "id": 7834325,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 9,
+              "parent": "068e4356-115d-4bab-b650-a0018eee552d",
+              "choices": [],
+              "correct": "metriä sekunnissa|m/s",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 10,
+              "parent": "068e4356-115d-4bab-b650-a0018eee552d",
+              "choices": [],
+              "correct": "nopeus|vauhti",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "068e4356-115d-4bab-b650-a0018eee552d",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2025-10-22T12:07:57.986813"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "\nTämän jälkeen kala jää 7,6 metrin syvyyteen, jossa lämpötila on [MATH text=11{, 3} ° C  ]. Kalan ruumiinlämpötila tasaantuu ympäristön lämpötilaan. Paineen lisäksi myös lämpötilan muutos vaikuttaa uimarakossa olevan ilman tilavuuteen. Kuinka paljon lisää ilmaa kala joutuu erittämään uimarakkoon, jotta se pystyy kellumaan tasapainossa 7,6 metrin vakiosyvyydellä? Ilmoita tulos milligrammoina. 6 p.\n\n\n",
+          "deleted_at": null,
+          "feedback": "Ideaalikaasun tilanyhtälön, [MATH text=p V =n R T], avulla voidaan ratkaista tarvittavan lisäilman massa tilanteessa, jossa uimarakon sisällä olevaan kylmempään ilmaan vaikuttaa suurempi paine. Uimarakossa olevan ilman alkuperäinen ainemäärä oli [MATH text=n_0 =(p_0 V'_0) /(R T_0)] ja kellumiseen tarvittava ainemäärä on[MATH text= n_1 =(p_1 V'_1) /(R T_1)], jolloin lisäilman ainemäärä on [MATH text=\\Delta n =n_1 -n_0 =(p_1 V'_1) /(R T_1) - (p_0 V'_0) /(R T_0)]\n\nKala kelluu taas, kun uimarakon tilavuus on sama kuin se oli juuri merenpinnan alapuolella eli [MATH text=V'_0 =V'_1], joten saadaan [MATH text=\\Delta n =V'_0 /R (p_1/T_1 -p_0/T_0)] [MATH text==V'_0/R ((p_0 +~pg h_1) /T_1 -p_0/T_0)].\n\n(3 p.)\n\nLisäilman massa on [MATH text=\\Delta n*M=M\\ \\frac{V'_0}{R}(\\frac{p_0+pgh_1}{T_1}-\\frac{p_0}{T_0})], jossa [MATH text=M =29,0 g/mol] on ilman moolimassa, [MATH text=V'_0 =0,079 dm^3 =0,000079 m^3] on uimarakon alkuperäinen tilavuus, [MATH text=T_1 =273,15 K +11,3 K =284,45 K] on lämpötila 7,6 metrin syvyydessä, [MATH text=T_0 =273,15 K +17,7 K =290,85 K] on lämpötila pinnalla ja [MATH text=h_1 =7,6 m] on kalan syvyys merenpinnan alapuolella.\n\nSaadaan [MATH text=\\Delta m =0,07438507719 g \\approx74 mg].\n\n(3 p.)\n\n(Tyypillinen virhe: Ilman [MATH text=\\Delta T]:tä saadaan tulokseksi[MATH text= \\Delta m =0,07222569516 g \\approx 72 mg].)\n\n\n\n**Pisteytys:**\n\nOn todettu sanallisesti tai käy ilmi laskusta, että kalan tilavuus pitää olla yhtä suuri kuin kalan kelluessa juuri pinnan alapuolella. (2 p.)\n\nOn kirjoitettu suureyhtälö massan muutokselle paineen ja tilavuuden avulla. (2 p.)\n\nOn annettu oikea vastaus massan muutokselle 2-3 merkitsevän numeron tarkkuudella välillä 74 mg - 75 mg. (2 p.)\n\n**Tyypillinen virhe:**\n\nOn laskettu massan muutos ottamatta huomioon lämpötilan muutosta ja saatu tulokseksi [MATH text=\\Delta m =0,07222569516 g \\approx 72 mg]",
+          "exam_id": 253067,
+          "content": {
+            "text": "\nTämän jälkeen kala jää 7,6 metrin syvyyteen, jossa lämpötila on [MATH text=11{, 3} ° C  ]. Kalan ruumiinlämpötila tasaantuu ympäristön lämpötilaan. Paineen lisäksi myös lämpötilan muutos vaikuttaa uimarakossa olevan ilman tilavuuteen. Kuinka paljon lisää ilmaa kala joutuu erittämään uimarakkoon, jotta se pystyy kellumaan tasapainossa 7,6 metrin vakiosyvyydellä? Ilmoita tulos milligrammoina. 6 p.\n\n\n",
+            "displayNumber": "9.2"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:14:22.875574",
+          "max_score": null,
+          "groupping": null,
+          "id": 7834777,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "ea9cdecd-e2d8-41c1-a9b6-6bc58fa550b5",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2025-10-23T07:43:06.556707"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mitä tapahtuu, jos leijuvan magneetin pohjoisnapa käännetään kohti suprajohdetta? Jatkaako magneetti leijumista vai putoaako se alas suprajohteen pinnalle? 4 p.",
+          "deleted_at": null,
+          "feedback": "Aineiston mukaan suprajohde hylkii aina ulkoisia magneettikenttiä muodostamalla pyörrevirtoja pinnalle. Tämä tapahtuu riippumatta siitä, onko magneetin pohjoisnapa vai etelänapa suunnattu kohti suprajohdetta. Jos magneetti käännetään toisinpäin, myös suprajohteen pinnassa olevien pyörrevirtojen suunta kääntyy, jolloin suprajohteen ja magneetin hylkivä voima pysyy ennallaan ja magneetti jatkaa leijumistaan.\n\n\n\n**Pisteytys:**\n\nOn vastattu, että magneetti jatkaa leijumista. (1 p.)\n\nOn perusteltu oikea vastaus kertomalla pyörrevirtojen suunnan kääntymisestä vastakkaiseksi. (3 p.)",
+          "exam_id": 253067,
+          "content": {
+            "text": "Mitä tapahtuu, jos leijuvan magneetin pohjoisnapa käännetään kohti suprajohdetta? Jatkaako magneetti leijumista vai putoaako se alas suprajohteen pinnalle? 4 p.",
+            "displayNumber": "11.2"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:14:22.877973",
+          "max_score": null,
+          "groupping": null,
+          "id": 7834885,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "62f14d84-77b6-4ee4-be83-8a5d30b7f4ac",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2025-10-23T07:51:42.514027"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Aaltoja 15 p.\n\nTässä tehtävässä on viisi aaltoihin liittyvää osatehtävää. Vastattuasi osatehtävään voit vaihtaa vastausvaihtoehtoa, mutta et voi jättää osatehtävää enää kokonaan ilman vastausta. Jos olet aloittanut tehtävään vastaamisen, mutta et haluakaan jättää tehtävää arvosteltavaksi, valitse pudotusvalikosta tyhjä rivi ja merkitse osatehtäviin 5.2–5.5 vaihtoehto ”En vastaa”. Oikea vastaus 3 p., väärä vastaus 0 p., ei vastausta 0 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 253067,
+          "content": {
+            "text": "### Aaltoja 15 p.\n\nTässä tehtävässä on viisi aaltoihin liittyvää osatehtävää. Vastattuasi osatehtävään voit vaihtaa vastausvaihtoehtoa, mutta et voi jättää osatehtävää enää kokonaan ilman vastausta. Jos olet aloittanut tehtävään vastaamisen, mutta et haluakaan jättää tehtävää arvosteltavaksi, valitse pudotusvalikosta tyhjä rivi ja merkitse osatehtäviin 5.2–5.5 vaihtoehto ”En vastaa”. Oikea vastaus 3 p., väärä vastaus 0 p., ei vastausta 0 p.",
+            "displayNumber": "5."
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "c7c5c8fb-35b6-490c-a741-9c5dc3033f4f",
+            "de486e8b-8f85-4635-8407-bc74c0b1cfdc",
+            "9f37eabc-5595-4a04-bfc1-3991be5c9c58",
+            "e34b7bd3-75e4-4eab-98a3-920b60c1a15c",
+            "bf0d2985-3d99-4788-a204-15062be77465"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-12-08T09:14:22.879739",
+          "max_score": null,
+          "groupping": null,
+          "id": 7834536,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "8c535802-57a8-4501-a583-7a4d2055c331",
+          "order_number": 7,
+          "multipart": true,
+          "created_at": "2025-10-23T07:22:30.872142"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Johdonsuojakatkaisija 20 p.\n\n**Aineisto**\n\n10.A Teksti: [LINK text=Johdonsuojakatkaisija|url=https://yle.fi/plus/abitreenit/2025/syksy/fysiikka/attachments/index.html#10.A]\n\n10.B Kuva: [LINK text=Johdonsuojakatkaisijan laukaisukäyrä|url=https://yle.fi/plus/abitreenit/2025/syksy/fysiikka/attachments/index.html#10.B]\n\n10.C Kuva: [LINK text=Johdonsuojakatkaisija|url=https://yle.fi/plus/abitreenit/2025/syksy/fysiikka/attachments/index.html#10.C]\n\n\n\nTutustu johdonsuojakatkaisijaa käsittelevään tekstiin 10.A sekä kuviin 10.B ja 10.C. Vastaa niiden sekä oman tietämyksesi perusteella osatehtäviin 10.1–10.4.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 253067,
+          "content": {
+            "text": "### Johdonsuojakatkaisija 20 p.\n\n**Aineisto**\n\n10.A Teksti: [LINK text=Johdonsuojakatkaisija|url=https://yle.fi/plus/abitreenit/2025/syksy/fysiikka/attachments/index.html#10.A]\n\n10.B Kuva: [LINK text=Johdonsuojakatkaisijan laukaisukäyrä|url=https://yle.fi/plus/abitreenit/2025/syksy/fysiikka/attachments/index.html#10.B]\n\n10.C Kuva: [LINK text=Johdonsuojakatkaisija|url=https://yle.fi/plus/abitreenit/2025/syksy/fysiikka/attachments/index.html#10.C]\n\n\n\nTutustu johdonsuojakatkaisijaa käsittelevään tekstiin 10.A sekä kuviin 10.B ja 10.C. Vastaa niiden sekä oman tietämyksesi perusteella osatehtäviin 10.1–10.4.",
+            "displayNumber": "10."
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "d8621a75-88d8-470d-b0ca-ab9f4e2306b3",
+            "80554354-b5bc-4ded-9d99-cd74cec65eaf",
+            "fbcd1231-f76c-4382-b051-a0a40b471268",
+            "de50a299-bffa-4632-b407-8fcb51d3dda3"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-12-08T09:14:22.881642",
+          "max_score": null,
+          "groupping": null,
+          "id": 7834825,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "5847ea06-2450-4d90-a46d-60150b840b57",
+          "order_number": 13,
+          "multipart": true,
+          "created_at": "2025-10-23T07:45:51.931034"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Kahden äänilähteen tuottamat aallot 3 p.\n\nKaksi pistemäistä aaltolähdettä lähettää aaltorintamia vesiastian pinnalle. Kuvassa 5.2.A aaltoja kuvataan siten, että yhtenäinen viiva tarkoittaa aallon huippua ja katkoviiva aallon pohjaa. Missä kuvaan 5.2.A merkityistä pisteistä (A–E) vedenpinnan korkeus on lähimpänä tilannetta, jossa pinta ei aaltoile?\n\n\n\n**Aineisto**\n\n5.2.A Kuva: [LINK text=Kahden äänilähteen tuottamat aallot|url=https://yle.fi/plus/abitreenit/2025/syksy/fysiikka/attachments/index.html#5.2.A]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 253067,
+          "content": {
+            "text": "#### Kahden äänilähteen tuottamat aallot 3 p.\n\nKaksi pistemäistä aaltolähdettä lähettää aaltorintamia vesiastian pinnalle. Kuvassa 5.2.A aaltoja kuvataan siten, että yhtenäinen viiva tarkoittaa aallon huippua ja katkoviiva aallon pohjaa. Missä kuvaan 5.2.A merkityistä pisteistä (A–E) vedenpinnan korkeus on lähimpänä tilannetta, jossa pinta ei aaltoile?\n\n\n\n**Aineisto**\n\n5.2.A Kuva: [LINK text=Kahden äänilähteen tuottamat aallot|url=https://yle.fi/plus/abitreenit/2025/syksy/fysiikka/attachments/index.html#5.2.A]",
+            "displayNumber": "5.2"
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:14:22.883702",
+          "max_score": 3,
+          "groupping": null,
+          "id": 7834591,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 14,
+              "text": "D",
+              "parent": "bf0d2985-3d99-4788-a204-15062be77465",
+              "choices": []
+            },
+            {
+              "id": 15,
+              "text": "B",
+              "parent": "bf0d2985-3d99-4788-a204-15062be77465",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 16,
+              "text": "A",
+              "parent": "bf0d2985-3d99-4788-a204-15062be77465",
+              "choices": []
+            },
+            {
+              "id": 17,
+              "text": "C",
+              "parent": "bf0d2985-3d99-4788-a204-15062be77465",
+              "choices": []
+            },
+            {
+              "id": 18,
+              "text": "E",
+              "parent": "bf0d2985-3d99-4788-a204-15062be77465",
+              "choices": []
+            },
+            {
+              "id": 19,
+              "text": "En vastaa.",
+              "parent": "bf0d2985-3d99-4788-a204-15062be77465",
+              "choices": []
+            }
+          ],
+          "uuid": "bf0d2985-3d99-4788-a204-15062be77465",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2025-10-23T07:31:14.977169"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Seinästä heijastuvat aaltopulssit 3 p.\n\nKaksi aaltopulssia etenee narussa aineiston 5.3.A ylimmän kuvaajan mukaisesti oikealle, kohti kiinteää seinää. Minkä muotoinen naru on sen jälkeen, kun ylimmässä kuvaajassa oikealla oleva pulssi on heijastunut seinästä takaisin päin? Valitse muotoa parhaiten kuvaava kuvaaja (kuvan 5.3.A kuvaajat A–E).\n\n\n\n**Aineisto**\n\n5.3.A Kuva: [LINK text=Seinästä heijastuvat aaltopulssit|url=https://yle.fi/plus/abitreenit/2025/syksy/fysiikka/attachments/index.html#5.3.A]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 253067,
+          "content": {
+            "text": "#### Seinästä heijastuvat aaltopulssit 3 p.\n\nKaksi aaltopulssia etenee narussa aineiston 5.3.A ylimmän kuvaajan mukaisesti oikealle, kohti kiinteää seinää. Minkä muotoinen naru on sen jälkeen, kun ylimmässä kuvaajassa oikealla oleva pulssi on heijastunut seinästä takaisin päin? Valitse muotoa parhaiten kuvaava kuvaaja (kuvan 5.3.A kuvaajat A–E).\n\n\n\n**Aineisto**\n\n5.3.A Kuva: [LINK text=Seinästä heijastuvat aaltopulssit|url=https://yle.fi/plus/abitreenit/2025/syksy/fysiikka/attachments/index.html#5.3.A]",
+            "displayNumber": "5.3"
+          },
+          "images": null,
+          "settings": {
+            "points": "3",
+            "optionsLayout": "1"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:14:22.885911",
+          "max_score": 3,
+          "groupping": null,
+          "id": 7834590,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 14,
+              "text": "A",
+              "parent": "e34b7bd3-75e4-4eab-98a3-920b60c1a15c",
+              "choices": []
+            },
+            {
+              "id": 15,
+              "text": "C",
+              "parent": "e34b7bd3-75e4-4eab-98a3-920b60c1a15c",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 16,
+              "text": "D",
+              "parent": "e34b7bd3-75e4-4eab-98a3-920b60c1a15c",
+              "choices": []
+            },
+            {
+              "id": 17,
+              "text": "E",
+              "parent": "e34b7bd3-75e4-4eab-98a3-920b60c1a15c",
+              "choices": []
+            },
+            {
+              "id": 18,
+              "text": "B",
+              "parent": "e34b7bd3-75e4-4eab-98a3-920b60c1a15c",
+              "choices": []
+            },
+            {
+              "id": 19,
+              "text": "En vastaa.",
+              "parent": "e34b7bd3-75e4-4eab-98a3-920b60c1a15c",
+              "choices": []
+            }
+          ],
+          "uuid": "e34b7bd3-75e4-4eab-98a3-920b60c1a15c",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2025-10-23T07:31:14.973791"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "## Osa 3: 20 pisteen tehtävät\n\nVastaa kahteen tehtävään.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 253067,
+          "content": {
+            "text": "## Osa 3: 20 pisteen tehtävät\n\nVastaa kahteen tehtävään."
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-12-08T09:14:22.88786",
+          "max_score": null,
+          "groupping": null,
+          "id": 7834774,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "454e8e23-08fd-4982-8ef4-756f208b8f29",
+          "order_number": 11,
+          "multipart": true,
+          "created_at": "2025-10-23T07:43:06.547424"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kuntoilija nostaa kelkan ja painot suoristamalla jalkansa. Aikaa tähän kuluu 2,8 sekuntia. Kuinka suuri on kuntoilijan jalkaprässiin kohdistaman voiman keskimääräinen teho? Jalkojen suoristuksen aikana kelkka liikkuu 55 cm kiskoja pitkin. 6 p.",
+          "deleted_at": null,
+          "feedback": "Yhden jalkojen suoristuksen aikana kelkkaan ja painoihin tehdään työ [MATH text=W =F s =1109,495795 N *55 cm =610,2226872 J].\n\n(2 p.)\n\nKun tämä tehdään 2,8 sekunnin aikana, on keskimääräinen teho [MATH text=P=\\frac{W}{\\Delta t}=\\frac{610{,}2226872J}{2{,}8s}=217{,}936674W\\approx220W].\n\n(4 p.)\n\n\n\n**Pisteytys:**\n\nOn annettu työn oikea suureyhtälö tai lukuarvo. (2 p.)\n\nOn annettu tehon oikea suureyhtälö. (2 p.)\n\nOn annettu oikea vastaus kahden tai kolmen merkitsevän numeron tarkkuudella. (2 p.)",
+          "exam_id": 253067,
+          "content": {
+            "text": "Kuntoilija nostaa kelkan ja painot suoristamalla jalkansa. Aikaa tähän kuluu 2,8 sekuntia. Kuinka suuri on kuntoilijan jalkaprässiin kohdistaman voiman keskimääräinen teho? Jalkojen suoristuksen aikana kelkka liikkuu 55 cm kiskoja pitkin. 6 p.",
+            "displayNumber": "4.3"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:14:22.890002",
+          "max_score": null,
+          "groupping": null,
+          "id": 7834510,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "d619a140-c0af-458d-b437-eb7ebfd73d07",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2025-10-23T07:20:46.133823"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Verkkovirtapiirissä johdonsuojakatkaisijan nimellisvirta on 16 A. Piiriin kytkettyyn laitteeseen tulee vika, ja virtapiiriin syntyy 32 A:n sähkövirta. Kuinka paljon sähköenergiaa ehtii siirtyä laitteeseen ennen sähkövirran katkeamista? 6 p.",
+          "deleted_at": null,
+          "feedback": "Sähköenergian teho on [MATH text=P =U I], joten laitteeseen siirtyneen energian suuruus on [MATH text=E =P t =U I t], missä johdonsuojakatkaisijan laukaisukäyrästä luettuna [MATH text=10\\le t\\le45s].\n\n(2 p.)\n\nEnergiaa siirtyy vähintään [MATH text=E_1 =U I t_1 =230 V *32 A *10 s =73600 J \\approx74000 J].\n\n(2 p.)\n\nEnergiaa siirtyy enintään [MATH text=E_2 =U I t_2 =230 V *32 A *45 s =331210 J \\approx330000 J].\n\n(2 p.)\n\n\n\n**Pisteytys:**\n\nOn luettu kuvaajasta oikea ylä- tai alarajaa vastaava aika-arvo (2 p.) ja saatu edellisen perusteella yksi oikea energian arvo välillä 70 kJ - 384 kJ. (2 p.)\n\nOn laskettu oikein 1- 3 merkitsevän numeron tarkkuudella sekä ylärajan arvo välille 290 kJ - 384 kJ että alarajan arvo välille 70 kJ - 80 kJ. (2 p.)\n\n**Tyypillisiä virheitä:**\n\nOn laskettu siirtyvän varauksen arvo.",
+          "exam_id": 253067,
+          "content": {
+            "text": "Verkkovirtapiirissä johdonsuojakatkaisijan nimellisvirta on 16 A. Piiriin kytkettyyn laitteeseen tulee vika, ja virtapiiriin syntyy 32 A:n sähkövirta. Kuinka paljon sähköenergiaa ehtii siirtyä laitteeseen ennen sähkövirran katkeamista? 6 p.",
+            "displayNumber": "10.3"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:14:22.89256",
+          "max_score": null,
+          "groupping": null,
+          "id": 7834827,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "80554354-b5bc-4ded-9d99-cd74cec65eaf",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2025-10-23T07:45:51.938904"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Sähkömagneettinen säteily käyttäytyy kuten aaltoliike, eli sähkömagneettisessa säteilyssä esiintyy samanlaisia ilmiöitä kuin muissa aaltoliikkeissä. Anna kaksi esimerkkiä kokeista tai tilanteista, joissa tällaista käyttäytymistä esiintyy. Kerro kummastakin esimerkistä, miten säteilyn käyttäytyminen selittää havaitun ilmiön tai ilmiöt. 6 p.",
+          "deleted_at": null,
+          "feedback": "Esimerkiksi sopivat kokeet, joissa havaitaan sähkömagneettiselle aaltoliikkeelle tyypillisiä ilmiöitä, kuten\n\n- superpositio eli summautuminen\n- polarisaatio\n- taittuminen rajapinnassa.\n\nEsimerkkejä kokeista (3 pistettä/esimerkki):\n\n- Valon diffraktio kaksoisraossa tai hilassa: eri raoista kulkenut valo muodostaa rakosysteemin taakse diffraktiokuvion, jossa eri matkan kulkeneet valoaallot summautuvat toisiaan joko vahvistaen tai heikentäen.\n- Interferenssi ohuissa kalvoissa: kalvon eri pinnoilta heijastuvassa valossa havaitaan värejä, jotka johtuvat toisten aallonpituuksien voimistumisesta ja toisten heikkenemisestä eripituisen matkan kulkeneiden aaltojen superposition vuoksi.\n- Kaksi peräkkäin asetettua polarisaatiosuodatinta: Kun toista kierretään, havaitaan, että läpi pääsevän valon määrä muuttuu. Valolla on siis ominaisuus, joka liittyy etenemissuuntaan nähden poikittaiseen suuntaan. Aaltomallin mukaan kyseessä on sähkömagneettisen aaltoliikkeen sähkökentän värähtelysuunta.\n- Myös polarisoituminen heijastuksessa, sironnassa, kahtaistaittavassa kiteessä: Esimerkiksi sironnassa aaltoluonne ilmenee siten, että aineeseen saapuva valo saa rakenneosat värähtelemään liikesuuntaan nähden kohtisuorassa suunnassa. Näin syntyvä sirontasäteily on polarisoitunutta saapuvan valon suuntaan nähden kohtisuoraan.\n- Valon taittuminen: Esimerkiksi ilman ja veden rajapinnassa valo taittuu niin, että valonsäteen ja pinnan normaalin välinen kulma on vedessä pienempi kuin ilmassa. Kulmien sinien suhde on aineparikohtainen vakio. Ilmiö selittyy valon aaltoluonteella, kun valon eteneminen mallinnetaan Huygensin periaatteen mukaisesti aaltorintamana. Sen jokainen piste lähettää alkeisaaltoja, joiden superpositio muodostaa uuden aaltorintaman. Taittumisen suunnasta ja aaltomallista saadaan ennuste, että valon nopeus on vedessä pienempi kuin ilmassa. Tämä on todettu mittauksilla, joten aaltomalli on pätevä kuvaamaan taittumista.\n\n**Pisteytys:**\n\nJokaisesta oikeasta kokeesta tai tilanteesta. (1 p.)\n\nOn annettu oikea selitys. (2 p.)\n\nJos selityksessä on virheitä tai puutteita, vähennetään yksi piste.\n\nJos on annettu enemmän kuin kaksi koetta tai tilannetta, arvostellaan kaksi huonointa.\n\n\n\n**Tyypillisiä virheitä:**\n\nEi kerrota kokeesta vaan pelkästään ilmiöstä.",
+          "exam_id": 253067,
+          "content": {
+            "text": "Sähkömagneettinen säteily käyttäytyy kuten aaltoliike, eli sähkömagneettisessa säteilyssä esiintyy samanlaisia ilmiöitä kuin muissa aaltoliikkeissä. Anna kaksi esimerkkiä kokeista tai tilanteista, joissa tällaista käyttäytymistä esiintyy. Kerro kummastakin esimerkistä, miten säteilyn käyttäytyminen selittää havaitun ilmiön tai ilmiöt. 6 p.",
+            "displayNumber": "8.1"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:14:22.894586",
+          "max_score": null,
+          "groupping": null,
+          "id": 7834732,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "839eb019-ea3f-4a09-8319-bad8e40aec72",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2025-10-23T07:37:15.457579"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Kuula putkessa 15 p.\n\n**Aineisto**\n\n2.A Video: [LINK text=Kuula vierii kaltevassa putkessa|url=https://yle.fi/plus/abitreenit/2025/syksy/fysiikka/attachments/index.html#2.A]\n\n2.B Taulukko: [LINK text=Kuulan kulkema matka ajan funktiona|url=https://yle.fi/plus/abitreenit/2025/syksy/fysiikka/attachments/index.html#2.B]\n\n\n\nVideo 2.A esittää kaltevaa putkea, joka on osittain täytetty vedellä. Putkeen laitetaan teräskuula, joka vierii putkessa ja osuu veteen. Taulukossa 2.B on kuulan putkessa kulkema matka *s* ajan *t* funktiona.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 253067,
+          "content": {
+            "text": "### Kuula putkessa 15 p.\n\n**Aineisto**\n\n2.A Video: [LINK text=Kuula vierii kaltevassa putkessa|url=https://yle.fi/plus/abitreenit/2025/syksy/fysiikka/attachments/index.html#2.A]\n\n2.B Taulukko: [LINK text=Kuulan kulkema matka ajan funktiona|url=https://yle.fi/plus/abitreenit/2025/syksy/fysiikka/attachments/index.html#2.B]\n\n\n\nVideo 2.A esittää kaltevaa putkea, joka on osittain täytetty vedellä. Putkeen laitetaan teräskuula, joka vierii putkessa ja osuu veteen. Taulukossa 2.B on kuulan putkessa kulkema matka *s* ajan *t* funktiona.",
+            "displayNumber": "2."
+          },
+          "images": null,
+          "settings": {
+            "material": true,
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "ff7d6d30-1d9f-4018-bee1-7a0135affd7d",
+            "1098599f-860c-4fc6-89de-a829b6801c28",
+            "c65cbd6f-d16e-41a6-a08d-b10136ba649c"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-12-08T09:14:22.896368",
+          "max_score": null,
+          "groupping": null,
+          "id": 7834338,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "fc13e04b-0045-4af2-a7d7-c85fddcf06af",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2025-10-22T12:08:47.616048"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### **1.7** Tuntematon suure Z 4 p.\n\n[MATH text=Z=\\frac{planckinvakio}{(energia)}]\n\n\n\n**1.7.1** Selvitä yksikkötarkastelun avulla suureen Z yksikkö. Kirjoita vastauskenttään vain suureen Z yksikkö. 2 p.\n\n[GAP id=11]\n\n**1.7.2** Selvitä yksikkötarkastelun avulla suureen Z nimi. Kirjoita vastauskenttään vain suureen Z nimi. 2 p.\n\n[GAP id=12]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 253067,
+          "content": {
+            "text": "#### **1.7** Tuntematon suure Z 4 p.\n\n[MATH text=Z=\\frac{planckinvakio}{(energia)}]\n\n\n\n**1.7.1** Selvitä yksikkötarkastelun avulla suureen Z yksikkö. Kirjoita vastauskenttään vain suureen Z yksikkö. 2 p.\n\n[GAP id=11]\n\n**1.7.2** Selvitä yksikkötarkastelun avulla suureen Z nimi. Kirjoita vastauskenttään vain suureen Z nimi. 2 p.\n\n[GAP id=12]",
+            "displayNumber": "1.7"
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:14:22.898702",
+          "max_score": 4,
+          "groupping": null,
+          "id": 7834326,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 11,
+              "parent": "102cc3d4-7019-4169-a1bd-9133ef748e98",
+              "choices": [],
+              "correct": "sekunti",
+              "isCaseSensitive": true
+            },
+            {
+              "id": 12,
+              "parent": "102cc3d4-7019-4169-a1bd-9133ef748e98",
+              "choices": [],
+              "correct": "aika",
+              "isCaseSensitive": true
+            }
+          ],
+          "uuid": "102cc3d4-7019-4169-a1bd-9133ef748e98",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2025-10-22T12:07:57.990373"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### Kahden äänilähteen tuottamat paineen vaihtelut 3 p.\n\nKuvan 5.1.A ylimmäinen kuvaaja esittää kahden äänilähteen yhdessä tuottaman äänen paineen vaihtelua. Mitkä kaksi yhtä aikaa soivaa äänilähdettä (aineiston 5.1.A kuvaajat A–F) muodostavat ylimmässä kuvaajassa esitetyn äänen?\n\n\n\n**Aineisto**\n\n5.1.A Kuva: [LINK text=Kahden äänilähteen tuottamat paineen vaihtelut|url=https://yle.fi/plus/abitreenit/2025/syksy/fysiikka/attachments/index.html#5.1.A]\n\n\n\n[SELECT id=13]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 253067,
+          "content": {
+            "text": "#### Kahden äänilähteen tuottamat paineen vaihtelut 3 p.\n\nKuvan 5.1.A ylimmäinen kuvaaja esittää kahden äänilähteen yhdessä tuottaman äänen paineen vaihtelua. Mitkä kaksi yhtä aikaa soivaa äänilähdettä (aineiston 5.1.A kuvaajat A–F) muodostavat ylimmässä kuvaajassa esitetyn äänen?\n\n\n\n**Aineisto**\n\n5.1.A Kuva: [LINK text=Kahden äänilähteen tuottamat paineen vaihtelut|url=https://yle.fi/plus/abitreenit/2025/syksy/fysiikka/attachments/index.html#5.1.A]\n\n\n\n[SELECT id=13]",
+            "displayNumber": "5.1"
+          },
+          "images": null,
+          "settings": {
+            "points": "3"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:14:22.900841",
+          "max_score": 3,
+          "groupping": null,
+          "id": 7834537,
+          "question_type": "MULTIPLE_CHOICE_GAP_QUESTION",
+          "options": [
+            {
+              "id": 13,
+              "parent": "c7c5c8fb-35b6-490c-a741-9c5dc3033f4f",
+              "choices": [
+                {
+                  "id": "37ecc9e4-e986-4175-939b-63034adb25fb",
+                  "text": "AD"
+                },
+                {
+                  "id": "2ec24601-e218-47d3-a9d6-bf3ff6c8a04a",
+                  "text": "EF"
+                },
+                {
+                  "id": "0ff7c51a-e265-457d-91b8-04defa7c578f",
+                  "text": "CD"
+                },
+                {
+                  "id": "eb1731be-ce72-4e41-a7d8-1719843af3ee",
+                  "text": "CF"
+                },
+                {
+                  "id": "1095512e-f860-4095-b086-df384b216938",
+                  "text": "BE"
+                },
+                {
+                  "id": "698024d8-4dff-4132-b04d-55fd4f8ff6eb",
+                  "text": "DF"
+                },
+                {
+                  "id": "555a576f-c82b-44da-8df0-3d8ad42ab864",
+                  "text": "CE"
+                },
+                {
+                  "id": "fa8a45a9-17c0-4264-9da6-542b6e522284",
+                  "text": "BD"
+                },
+                {
+                  "id": "71669b1c-e005-4825-b978-b74c3c1d25ba",
+                  "text": "AC",
+                  "correct": true
+                },
+                {
+                  "id": "90677875-f2c7-471b-afff-a05b4e6cffdf",
+                  "text": "AB"
+                },
+                {
+                  "id": "89b2e8a3-f160-4fc3-8f48-ed86fe561e86",
+                  "text": "DE"
+                },
+                {
+                  "id": "694728f1-904a-45b9-99dc-0cb0c754ce67",
+                  "text": "AE"
+                },
+                {
+                  "id": "8129a53f-5d9d-42fe-a85d-b92bc0f17f59",
+                  "text": "BC"
+                },
+                {
+                  "id": "79bf0031-fb0b-49e7-ba89-920f50a429c3",
+                  "text": "BF"
+                },
+                {
+                  "id": "fefd7a6b-73da-4db4-9032-e20e9b6c5384",
+                  "text": "AF"
+                }
+              ],
+              "multivalue": true
+            }
+          ],
+          "uuid": "c7c5c8fb-35b6-490c-a741-9c5dc3033f4f",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2025-10-23T07:22:30.876294"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Säteilyn dualismi ja kvantittuminen 15 p.\n\nOsatehtävissä 8.1–8.3 on mainittu kolme sähkömagneettisen säteilyn käyttäytymistapaa. Voit käyttää esimerkkinä samaa koetta tai tilannetta useamman kuin yhden osatehtävän vastauksessa.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 253067,
+          "content": {
+            "text": "### Säteilyn dualismi ja kvantittuminen 15 p.\n\nOsatehtävissä 8.1–8.3 on mainittu kolme sähkömagneettisen säteilyn käyttäytymistapaa. Voit käyttää esimerkkinä samaa koetta tai tilannetta useamman kuin yhden osatehtävän vastauksessa.",
+            "displayNumber": "8."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "61867e1a-1215-47c3-aced-d3e55f500c3f",
+            "a819493c-5a52-4dd7-aab1-5ca6aaef45a6",
+            "839eb019-ea3f-4a09-8319-bad8e40aec72"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-12-08T09:14:22.904929",
+          "max_score": null,
+          "groupping": null,
+          "id": 7834729,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "13700398-9785-4507-a5a0-dbd19ebbcab0",
+          "order_number": 10,
+          "multipart": true,
+          "created_at": "2025-10-23T07:37:15.445175"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "*Kokeen tehtävät loppuvat tähän.*\n\n\n\n**Lähteet**\n\n**3.3** Lähde: YTL.\n\n**7.** Lähde: YTL.\n\n\n\nTarkista, että vastasit ohjeiden mukaiseen määrään tehtäviä. Älä jätä mitään merkintöjä sellaisen tehtävän vastaukselle varattuun tilaan, jota et halua jättää arvosteltavaksi.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 253067,
+          "content": {
+            "text": "*Kokeen tehtävät loppuvat tähän.*\n\n\n\n**Lähteet**\n\n**3.3** Lähde: YTL.\n\n**7.** Lähde: YTL.\n\n\n\nTarkista, että vastasit ohjeiden mukaiseen määrään tehtäviä. Älä jätä mitään merkintöjä sellaisen tehtävän vastaukselle varattuun tilaan, jota et halua jättää arvosteltavaksi."
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-12-08T09:14:22.907296",
+          "max_score": null,
+          "groupping": null,
+          "id": 7834887,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "3f79d39a-4b4b-40fc-b905-80cce3f9931c",
+          "order_number": 15,
+          "multipart": true,
+          "created_at": "2025-10-23T07:51:42.523967"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Mistä kallioperään varastoitunut lämpöenergia on pääosin peräisin? 3 p.",
+          "deleted_at": null,
+          "feedback": "Lämpöenergia on pääosin peräisin auringosta. Geotermisen energian osuus kasvaa merkittäväksi vasta kilometrien syvyydessä.\n\n**Pisteytys:**\n\nOn kerrottu energian olevan peräisin auringosta (3 p.)\n\nJos on annettu useampi kuin yksi vastaus, arvostellaan vastauksista huonoin.\n\n**Tyypillisiä virheitä:**\n\nOn väitetty energian olevan peräisin maapallon ytimestä.\n\nMaapallon pinnalla havaitaan lämpötilan vaihtelevan vuodenaikojen mukaan noin 15 metrin syvyyteen asti, eli tässä näkyy Auringon välitön vaikutus. Maapallon pinnalla Auringosta tuleva energiavuo on yli tuhatkertainen maan sisältä tulevaan energiavuohon verrattuna. Sen takia vielä satojen metrien syvyydessä lämpötilan suuruus johtuu ensisijaisesti siitä, että Auringon lämmittävä vaikutus estää lämpötilaa laskemasta Maan säteillessä energiaa avaruuteen.",
+          "exam_id": 253067,
+          "content": {
+            "text": "Mistä kallioperään varastoitunut lämpöenergia on pääosin peräisin? 3 p.",
+            "displayNumber": "3.1 "
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:14:22.909473",
+          "max_score": null,
+          "groupping": null,
+          "id": 7834489,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "ce5d0ccd-2c5a-4018-be4c-1339b69363a6",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2025-10-23T07:18:49.925629"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Sähkömagneettinen säteily käyttäytyy hiukkasten tavoin, eli säteilyn vuorovaikutus aineen kanssa muistuttaa paikallisesti tai ajallisesti toisistaan erottuvia hiukkasten osumia. Tämä voidaan havaita suoraan, tai sitten ilmiön selittävä malli edellyttää, että energia ja liikemäärä siirtyvät säteilystä aineeseen samaan tapaan kuin hiukkasten törmäyksissä. Anna yksi esimerkki kokeesta tai tilanteesta, jossa tällaista käyttäytymistä esiintyy. Kerro, miten säteilyn käyttäytyminen selittää havaitun ilmiön tai ilmiöt. 3 p.",
+          "deleted_at": null,
+          "feedback": "Yhdestä oikeasta selityksestä 3 p. Esimerkkejä:\n\n1. Suunnataan hyvin heikko valo osumaan ilmaisimeen, joka voi olla joko valokuvausfilmi tai sähköinen laite, kuten valomonistinputki tai herkkä kuva-anturi. Heikko valo tuottaa filmille erillisiä, pistemäisiä jälkiä. Valomonistinputkesta saadaan sähköisiä pulsseja, jotka vastaavat ilmaisimen havaitsemia ”valohiukkasia” eli fotoneja. Kuva-anturilla taas havaitaan vuorovaikutusten erillisyys sekä ajan että paikan suhteen. Tyypillisesti koejärjestelyssä halutaan samalla näkyviin myös valon aaltoluonne, jolloin valon reitillä on kaksoisrako. Tällöin esimerkiksi filmille syntyy yksittäisten pisteiden muodostama kaksoisraon diffraktiokuvio.\n2. Valosähköisessä ilmiössä metallikappaleeseen osuva valo irrottaa metallista elektroneja. Tämä havaitaan joko kappaleelle annetun negatiivisen varauksen häviämisenä tai valokennossa elektrodilta toiselle kulkevana sähkövirtana. Jotta elektroneja irtoaisi, valon aallonpituuden täytyy olla tiettyä metallista riippuvaa raja-arvoa pienempi. Jos aallonpituus on raja-arvoa suurempi, valon intensiteetin kasvattaminen ei saa elektroneja irtoamaan. Ilmiön selitys edellyttää, että valo vuorovaikuttaa metallin elektronien kanssa tavalla, joka muistuttaa hiukkasten törmäyksiä.\n3. Comptonin sironnassa aineesta sironneessa röntgensäteilyssä havaitaan alkuperäisen aallonpituuden lisäksi toinen, suurempi aallonpituus, joka poikkeaa alkuperäisestä aallonpituudesta sitä enemmän, mitä suurempaan kulmaan säteily on sironnut. Tämänkin ilmiön selitys edellyttää, että säteily on vuorovaikutuksessa aineen elektronien kanssa hiukkasten kimmoista törmäystä muistuttavalla tavalla, jossa energia ja liikemäärä säilyvät.\n\n**Pisteytys:**\n\nOikeasta kokeesta tai tilanteesta. (1 p.)\n\nOn annettu oikea selitys. (2 p.)\n\nJos selityksessä on virheitä tai puutteita, vähennetään yksi piste.\n\nJos on annettu enemmän kuin yksi koe tai tilannetta, arvostellaan huonoin.\n\n\n\n**Tyypillisiä virheitä:**\n\nEi kerrota kokeesta vaan pelkästään ilmiöstä.",
+          "exam_id": 253067,
+          "content": {
+            "text": "Sähkömagneettinen säteily käyttäytyy hiukkasten tavoin, eli säteilyn vuorovaikutus aineen kanssa muistuttaa paikallisesti tai ajallisesti toisistaan erottuvia hiukkasten osumia. Tämä voidaan havaita suoraan, tai sitten ilmiön selittävä malli edellyttää, että energia ja liikemäärä siirtyvät säteilystä aineeseen samaan tapaan kuin hiukkasten törmäyksissä. Anna yksi esimerkki kokeesta tai tilanteesta, jossa tällaista käyttäytymistä esiintyy. Kerro, miten säteilyn käyttäytyminen selittää havaitun ilmiön tai ilmiöt. 3 p.",
+            "displayNumber": "8.2"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:14:22.913633",
+          "max_score": null,
+          "groupping": null,
+          "id": 7834731,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "a819493c-5a52-4dd7-aab1-5ca6aaef45a6",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2025-10-23T07:37:15.453191"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Verkkovirtaan kytketyt vialliset sähkölaitteet saattavat aiheuttaa kotona sähkötapaturmia ja muita vahinkoja. Miksi sähköisku on ihmiselle vaarallinen? Millaisia muita onnettomuuksia viallinen sähkölaite voi kotona aiheuttaa? 4 p.",
+          "deleted_at": null,
+          "feedback": "Verkkovirtaan kytketty viallinen laite saattaa aiheuttaa sähköiskun, jolloin ihmisestä tulee virtapiirin osa ja sähkövirta kulkee hänen lävitseen. Sähkövirta voi häiritä ihmisen hermoston toimintaa tai aiheuttaa palovamman. Viallinen laite saattaa myös kuumentua liikaa ja aiheuttaa kotona tulipalon.\n\n\n\n**Pisteytys:**\n\nOn mainittu sähkövirran vaikutus sydämeen tai hermostoon tai mainittu kouristukset tai palovammat. (2 p.)\n\nOn mainittu laitteen aiheuttama tulipalo. (2 p.)\n\n**Tyypillisiä virheitä**:\n\nOn väitetty, että sähköisku aiheuttaa sydänkohtauksen.",
+          "exam_id": 253067,
+          "content": {
+            "text": "Verkkovirtaan kytketyt vialliset sähkölaitteet saattavat aiheuttaa kotona sähkötapaturmia ja muita vahinkoja. Miksi sähköisku on ihmiselle vaarallinen? Millaisia muita onnettomuuksia viallinen sähkölaite voi kotona aiheuttaa? 4 p.",
+            "displayNumber": "10.1"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:14:22.918082",
+          "max_score": null,
+          "groupping": null,
+          "id": 7834829,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "de50a299-bffa-4632-b407-8fcb51d3dda3",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2025-10-23T07:45:51.945723"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Johdonsuojakatkaisijan laukaisukäyrässä (kuva 10.B) voidaan erottaa kaksi aluetta, niin sanotut terminen (T) ja magneettinen (M) alue. Millaisiin virtapiirin vikoihin laukaisukäyrän näillä alueilla varaudutaan? 6 p.",
+          "deleted_at": null,
+          "feedback": "Termisellä alueella sähkövirta on vain muutamia kertoja katkaisijan nimellisvirran suuruinen. Liian pitkään jatkuessaan tällaiset tapaukset johtavat piirin ylikuumenemiseen ja lopulta tulipaloon. Termisellä alueella varaudutaan siis tilanteeseen, jossa virtapiirin jokin laite käyttää nimellisvirtaa suurempaa sähkövirtaa pitkän aikaa.\n\n(3 p.)\n\nMagneettisella alueella sähkövirrat ovat termistä aluetta suurempia ja sähkövirta katkaistaan hyvin nopeasti. Suurilla sähkövirroilla katkaisu tapahtuu verkkovirran taajuutta nopeammin. Magneettisella alueella varaudutaan siis tapauksiin, joissa piiriin syntyy äkillisesti hyvin suuri sähkövirta, eli esimerkiksi oikosulkuihin.\n\n(3 p.)\n\n\n\nMikäli virran suuruutta ei käsitellä oikein, voi kummankin vian keston tunnistamisesta saada yhden pisteen.\n\n\n\n**Tyypillisiä virheitä:**\n\n- Väitetään katkaisemisen mittaavan termisellä alueella lämpötilaa ja magneettisella alueella magneettikenttää.\n- Sekoitetaan johdinten katkeaminen ja oikosulku.\n- Ei liitetä vastausta virtapiirin vikoihin.",
+          "exam_id": 253067,
+          "content": {
+            "text": "Johdonsuojakatkaisijan laukaisukäyrässä (kuva 10.B) voidaan erottaa kaksi aluetta, niin sanotut terminen (T) ja magneettinen (M) alue. Millaisiin virtapiirin vikoihin laukaisukäyrän näillä alueilla varaudutaan? 6 p.",
+            "displayNumber": "10.2"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:14:22.920007",
+          "max_score": null,
+          "groupping": null,
+          "id": 7834828,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "fbcd1231-f76c-4382-b051-a0a40b471268",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2025-10-23T07:45:51.942384"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Sähkömagneettisen säteilyn energia on kvantittunut, eli säteilystä voi siirtyä energiaa aineeseen vain annoksina, joiden suuruus riippuu säteilyn taajuudesta. Anna kaksi esimerkkiä kokeista tai tilanteista, joissa tällaista käyttäytymistä esiintyy. Kerro kummastakin esimerkistä, miten säteilyn käyttäytyminen selittää havaitun ilmiön tai ilmiöt. 6 p.",
+          "deleted_at": null,
+          "feedback": "Sähkömagneettisen säteilyn energian kvantittuminen tarkoittaa, että energiaa voi siirtyä säteilyn ja aineen välillä vain tietynsuuruisina annoksina. Tähän sisältyy ajatus, että itse säteily koostuu aaltopaketeista, fotoneista, joilla on tietty energia. Esimerkiksi sopivat kokeet, joissa esiintyvät ilmiöt selittävä malli edellyttää tätä (3 p. yhdestä oikeasta esimerkistä).\n\nValosähköinen ilmiö: Energiaa siirtyy säteilystä elektroneille kvantteina, joiden energia on [MATH text=E =h f]. Elektronin irrottamiseen metallista tarvitaan vähintään metallille ominaisen irrotustyön suuruinen energia. Jos säteilyn kvanttien energia on tätä pienempi, elektroneja ei irtoa, vaikka säteilyn intensiteetti olisi kuinka suuri.\n\nComptonin sironta: Tässäkin energiaa siirtyy saapuvan säteilyn fotonista elektronille kvanttina, jonka energia on [MATH text=E_1 =h f_1]. Samanaikaisesti elektroni lähettää fotonin, jonka energia on [MATH text=E_2 =h f_2]. Energioiden erotus [MATH text=E_1 -E_2 =h (f_1 -f_2)] jää elektronille. Sen, että sironneen säteilyn fotonien energia riippuu sirontakulmasta, selittää malli, jossa energian kvantittumisen lisäksi myös säteilyn liikemäärä on kvantittunut.\n\nParinmuodostus, jossa syntyy hiukkanen–antihiukkanen-pareja: Esimerkiksi suurienerginen gammasäteily tuottaa elektroni–positroni-pareja. Ilmiö havaittiin ensin sumukammiossa hiukkasparin jättäminä jälkinä. Selittävän mallin mukaan gammasäteilyn fotonin energia [MATH text= E =h f] muuttuu lain [MATH text=E =m c^2] mukaisesti hiukkasparin kokonaismassan energiaksi. Gammasäteilyn taajuuden ja sen myötä fotonin energian täytyy olla tarpeeksi suuri, että ilmiö voi tapahtua.\n\nLuminesenssi: Ilmiö esiintyy esimerkiksi loisteaineella päällystetyllä varjostimella. Kun sitä valaistaan tarpeeksi lyhytaaltoisella valolla, varjostimen aine alkaa lähettää valoa. Saapuva valo siirtää loisteaineen atomeja matalammilta viritystiloilta korkeammille, ja loiste syntyy viritystilojen purkautuessa. Atomin virittyminen tilalta toiselle vaatii tilojen erotuksen suuruisen energiakvantin. Jos tuleva valo ei sisällä tarpeeksi lyhytaaltoisia fotoneja, virittymistä ei tapahdu eikä luminesenssia havaita.\n\nSpektri: Koe, jossa mitataan absorptiospektri tai emissiospektri, jos kokelas on pystynyt sitomaan selityksen fotoneihin.\n\n\n\n**Pisteytys:**\n\nJokaisesta oikeasta kokeesta tai tilanteesta. (1 p.)\n\nOn annettu oikea selitys. (2 p.)\n\nJos selityksessä on virheitä tai puutteita, vähennetään yksi piste.\n\nJos on annettu enemmän kuin kaksi koetta tai tilannetta, arvostellaan kaksi huonointa.\n\n\n\n**Tyypillisiä virheitä:**\n\nEi kerrota kokeesta vaan pelkästään ilmiöstä.",
+          "exam_id": 253067,
+          "content": {
+            "text": "Sähkömagneettisen säteilyn energia on kvantittunut, eli säteilystä voi siirtyä energiaa aineeseen vain annoksina, joiden suuruus riippuu säteilyn taajuudesta. Anna kaksi esimerkkiä kokeista tai tilanteista, joissa tällaista käyttäytymistä esiintyy. Kerro kummastakin esimerkistä, miten säteilyn käyttäytyminen selittää havaitun ilmiön tai ilmiöt. 6 p.",
+            "displayNumber": "8.3 "
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:14:22.924579",
+          "max_score": null,
+          "groupping": null,
+          "id": 7834730,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "61867e1a-1215-47c3-aced-d3e55f500c3f",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2025-10-23T07:37:15.448498"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Sauvamagneetin toinen napa on kuvan mukaisesti käännetty kohti oikosuljettua käämiä. Magneetti lähestyy käämiä kuvan esittämällä tavalla. Miksi magneetin liike-energia pienenee, kun se lähestyy käämiä? 4 p.",
+          "deleted_at": null,
+          "feedback": "Liikkuva magneetti indusoi käämiin jännitteen, joka synnyttää virran.\n\n(2 p.)\n\nVirtapiirissä kulkevalla virralla on tietty energia, ja tämä energia on peräisin magneetin liike-energiasta. Energian säilyminen edellyttää, että kun käämiin siirtyy energiaa, magneetin liike-energia pienenee.\n\n(2 p.)\n\n**Pisteytys**:\n\nOn kytketty vastaus oikein induktioilmiöön. (2 p.)\n\nOn kirjoitettu ehjä päättelyketju induktiojännitteestä magneetin liike-energian pienenemiseen. (2 p.)",
+          "exam_id": 253067,
+          "content": {
+            "text": "Sauvamagneetin toinen napa on kuvan mukaisesti käännetty kohti oikosuljettua käämiä. Magneetti lähestyy käämiä kuvan esittämällä tavalla. Miksi magneetin liike-energia pienenee, kun se lähestyy käämiä? 4 p.",
+            "displayNumber": "7.1"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:14:22.927375",
+          "max_score": null,
+          "groupping": null,
+          "id": 7834691,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "0fe40a90-ac25-47d9-86b7-4213421c930f",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2025-10-23T07:36:11.077855"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Selitä, miksi levyjen siirtäminen osatehtävässä 6.2 muuttaa kondensaattorin energiaa. 4 p",
+          "deleted_at": null,
+          "feedback": "Kondensaattorilevyt vetävät toisiaan puoleensa sähköstaattisilla voimilla. Levyjen siirtämiseksi etäämmälle toisistaan niihin on siis kohdistettava ulospäin suuntautuvat voimat. Nämä voimat tekevät positiivisen työn, joka varastoituu kondensaattorin sähkökentän energiaksi.\n\n\n\n**Pisteytys:**\n\nJos vastauksessa on kerrottu, että\n\n- levyt vetävät toisiaan puoleensa tai\n- ulkoiset voimat tekevät työtä tai\n- energiaa varastoituu sähkökentän energiaksi\n\nannetaan jokaisesta kohdasta kaksi pistettä, yhteensä enintään (4 p.)\n\n**Tyypillisiä virheitä:**\n\nYritetään selittää asiaa pelkästään kapasitanssin muutoksella ja mahdollisesti olettaen jännitteen säilyvän vakiona.",
+          "exam_id": 253067,
+          "content": {
+            "text": "Selitä, miksi levyjen siirtäminen osatehtävässä 6.2 muuttaa kondensaattorin energiaa. 4 p",
+            "displayNumber": "6.3"
+          },
+          "images": null,
+          "settings": {
+            "textareaSize": "5",
+            "hideWordCounter": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:14:22.931592",
+          "max_score": null,
+          "groupping": null,
+          "id": 7834652,
+          "question_type": "ESSAY_QUESTION",
+          "options": [],
+          "uuid": "ef2fefa0-d7b3-41df-ab90-ac7cbc6c44b4",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2025-10-23T07:34:16.278869"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Kondensaattorin energia 15 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 253067,
+          "content": {
+            "text": "### Kondensaattorin energia 15 p.",
+            "displayNumber": "6."
+          },
+          "images": null,
+          "settings": {
+            "joker": false,
+            "showTotalPointsForExamQuestion": false
+          },
+          "child_ids": [
+            "ef2fefa0-d7b3-41df-ab90-ac7cbc6c44b4",
+            "8289fc06-e9c7-4d0e-817d-ca0282f8c060",
+            "3b296ae8-6b3f-419a-9f56-834cbe4fcbb2"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-12-08T09:14:22.933428",
+          "max_score": null,
+          "groupping": null,
+          "id": 7834621,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "18350330-ef03-4413-ac68-87ce02833d0c",
+          "order_number": 8,
+          "multipart": true,
+          "created_at": "2025-10-23T07:31:54.193578"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kuinka pitkä aika suunnilleen kuluu radioaaltojen kulkemiseen Maasta Kuuhun? 2 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 253067,
+          "content": {
+            "text": "Kuinka pitkä aika suunnilleen kuluu radioaaltojen kulkemiseen Maasta Kuuhun? 2 p.",
+            "displayNumber": "1.3"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "radios"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:14:22.935392",
+          "max_score": 2,
+          "groupping": null,
+          "id": 7834304,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "text": "1 s",
+              "parent": "ccaaa5b2-69dc-4224-919f-1b133760f8cc",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 2,
+              "text": "1 ms",
+              "parent": "ccaaa5b2-69dc-4224-919f-1b133760f8cc",
+              "choices": []
+            },
+            {
+              "id": 3,
+              "text": "1 min",
+              "parent": "ccaaa5b2-69dc-4224-919f-1b133760f8cc",
+              "choices": []
+            },
+            {
+              "id": 4,
+              "text": "1 h",
+              "parent": "ccaaa5b2-69dc-4224-919f-1b133760f8cc",
+              "choices": []
+            }
+          ],
+          "uuid": "ccaaa5b2-69dc-4224-919f-1b133760f8cc",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2025-10-22T12:01:22.530481"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "### Tehtäviä fysiikan eri osa-alueilta 20 p.\n\nOsatehtävät 1.1–1.4: Valitse jokaisessa osatehtävässä parhaiten soveltuva vastausvaihtoehto. Oikea vastaus 2 p., väärä vastaus 0 p., ei vastausta 0 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 253067,
+          "content": {
+            "text": "### Tehtäviä fysiikan eri osa-alueilta 20 p.\n\nOsatehtävät 1.1–1.4: Valitse jokaisessa osatehtävässä parhaiten soveltuva vastausvaihtoehto. Oikea vastaus 2 p., väärä vastaus 0 p., ei vastausta 0 p.",
+            "displayNumber": "1."
+          },
+          "images": null,
+          "settings": {
+            "showTotalPointsForExamQuestion": true
+          },
+          "child_ids": [
+            "fe6610ee-46eb-4106-a979-9390f925bd1f",
+            "ccaaa5b2-69dc-4224-919f-1b133760f8cc",
+            "b13c8293-8389-47e0-af81-b9ba759cfbfe",
+            "22e02b33-1955-43b6-ad7a-8e25d931f814",
+            "fddf0b58-845c-4cbe-9913-7f59da6d5518",
+            "a94426d4-2a0c-4e5c-bd6c-7d764c4f9c73",
+            "068e4356-115d-4bab-b650-a0018eee552d",
+            "102cc3d4-7019-4169-a1bd-9133ef748e98"
+          ],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-12-08T09:14:22.9372",
+          "max_score": null,
+          "groupping": null,
+          "id": 7834302,
+          "question_type": "EXAM_QUESTION",
+          "options": [],
+          "uuid": "9951b755-245e-43ae-b63d-2dc94120b44c",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2025-10-22T12:01:22.522596"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kuinka suuri hiuksen halkaisija on suunnilleen? 2 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 253067,
+          "content": {
+            "text": "Kuinka suuri hiuksen halkaisija on suunnilleen? 2 p.",
+            "displayNumber": "1.4"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "radios"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:14:22.939361",
+          "max_score": 2,
+          "groupping": null,
+          "id": 7834303,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "text": "1 mm",
+              "parent": "fe6610ee-46eb-4106-a979-9390f925bd1f",
+              "choices": []
+            },
+            {
+              "id": 2,
+              "text": "100 [MATH text=\\mu m]",
+              "parent": "fe6610ee-46eb-4106-a979-9390f925bd1f",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 3,
+              "text": "100 nm",
+              "parent": "fe6610ee-46eb-4106-a979-9390f925bd1f",
+              "choices": []
+            },
+            {
+              "id": 4,
+              "text": "1 [MATH text=\\mu m]",
+              "parent": "fe6610ee-46eb-4106-a979-9390f925bd1f",
+              "choices": []
+            }
+          ],
+          "uuid": "fe6610ee-46eb-4106-a979-9390f925bd1f",
+          "order_number": 4,
+          "multipart": true,
+          "created_at": "2025-10-22T12:01:22.525702"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "#### **1.5** Tuntematon suure X 4 p.\n\n[MATH text=X =\\frac{energia}{(massa *kiihtyvyys)}]\n\n\n\n**1.5.1** Selvitä yksikkötarkastelun avulla suureen X yksikkö. Kirjoita vastauskenttään vain suureen X yksikkö. 2 p.\n\n[GAP id=7]\n\n\n\n**1.5.2** Selvitä yksikkötarkastelun avulla suureen X nimi. Kirjoita vastauskenttään vain suureen X nimi. 2 p.\n\n[GAP id=8]",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 253067,
+          "content": {
+            "text": "#### **1.5** Tuntematon suure X 4 p.\n\n[MATH text=X =\\frac{energia}{(massa *kiihtyvyys)}]\n\n\n\n**1.5.1** Selvitä yksikkötarkastelun avulla suureen X yksikkö. Kirjoita vastauskenttään vain suureen X yksikkö. 2 p.\n\n[GAP id=7]\n\n\n\n**1.5.2** Selvitä yksikkötarkastelun avulla suureen X nimi. Kirjoita vastauskenttään vain suureen X nimi. 2 p.\n\n[GAP id=8]",
+            "displayNumber": "1.5"
+          },
+          "images": null,
+          "settings": {
+            "points": "2"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:14:22.941412",
+          "max_score": 4,
+          "groupping": null,
+          "id": 7834315,
+          "question_type": "GAP_QUESTION",
+          "options": [
+            {
+              "id": 7,
+              "parent": "a94426d4-2a0c-4e5c-bd6c-7d764c4f9c73",
+              "choices": [],
+              "correct": "metri",
+              "isCaseSensitive": false
+            },
+            {
+              "id": 8,
+              "parent": "a94426d4-2a0c-4e5c-bd6c-7d764c4f9c73",
+              "choices": [],
+              "correct": "matka|pituus|välimatka|etäisyys",
+              "isCaseSensitive": false
+            }
+          ],
+          "uuid": "a94426d4-2a0c-4e5c-bd6c-7d764c4f9c73",
+          "order_number": 6,
+          "multipart": true,
+          "created_at": "2025-10-22T12:03:59.822455"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "## Osa 2: 15 pisteen tehtävät\n\nVastaa neljään tehtävään.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 253067,
+          "content": {
+            "text": "## Osa 2: 15 pisteen tehtävät\n\nVastaa neljään tehtävään."
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-12-08T09:14:22.943318",
+          "max_score": null,
+          "groupping": null,
+          "id": 7834339,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "0256982d-34a6-4909-9b43-ea233f6ed5bc",
+          "order_number": 3,
+          "multipart": true,
+          "created_at": "2025-10-22T12:08:47.620135"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kuinka suuri kotikeittiön vedenkeittimen teho on suunnilleen? 2 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 253067,
+          "content": {
+            "text": "Kuinka suuri kotikeittiön vedenkeittimen teho on suunnilleen? 2 p.",
+            "displayNumber": "1.1"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "radios"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:14:22.946147",
+          "max_score": 2,
+          "groupping": null,
+          "id": 7834306,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "text": "1 W",
+              "parent": "22e02b33-1955-43b6-ad7a-8e25d931f814",
+              "choices": []
+            },
+            {
+              "id": 2,
+              "text": "10 000 W",
+              "parent": "22e02b33-1955-43b6-ad7a-8e25d931f814",
+              "choices": []
+            },
+            {
+              "id": 3,
+              "text": "1 000 W",
+              "parent": "22e02b33-1955-43b6-ad7a-8e25d931f814",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 4,
+              "text": "10 W",
+              "parent": "22e02b33-1955-43b6-ad7a-8e25d931f814",
+              "choices": []
+            }
+          ],
+          "uuid": "22e02b33-1955-43b6-ad7a-8e25d931f814",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2025-10-22T12:01:22.541773"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Osatehtävät 1.5–1.7: Osatehtävissä on annettu suureyhtälöitä. Kirjoita vastauskenttään pyydetty yksikkö tai nimi.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 253067,
+          "content": {
+            "text": "Osatehtävät 1.5–1.7: Osatehtävissä on annettu suureyhtälöitä. Kirjoita vastauskenttään pyydetty yksikkö tai nimi."
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:14:22.948245",
+          "max_score": null,
+          "groupping": null,
+          "id": 7834313,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "fddf0b58-845c-4cbe-9913-7f59da6d5518",
+          "order_number": 5,
+          "multipart": true,
+          "created_at": "2025-10-22T12:03:59.815272"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "Kuinka suuri matkapuhelimen latausvirta on suunnilleen? 2 p.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 253067,
+          "content": {
+            "text": "Kuinka suuri matkapuhelimen latausvirta on suunnilleen? 2 p.",
+            "displayNumber": "1.2"
+          },
+          "images": null,
+          "settings": {
+            "points": "2",
+            "optionsLayout": "radios"
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 1,
+          "updated_at": "2025-12-08T09:14:22.950338",
+          "max_score": 2,
+          "groupping": null,
+          "id": 7834305,
+          "question_type": "MULTIPLE_CHOICE_QUESTION",
+          "options": [
+            {
+              "id": 1,
+              "text": "1 kA",
+              "parent": "b13c8293-8389-47e0-af81-b9ba759cfbfe",
+              "choices": []
+            },
+            {
+              "id": 2,
+              "text": "1 mA",
+              "parent": "b13c8293-8389-47e0-af81-b9ba759cfbfe",
+              "choices": []
+            },
+            {
+              "id": 3,
+              "text": "1 A",
+              "parent": "b13c8293-8389-47e0-af81-b9ba759cfbfe",
+              "choices": [],
+              "correct": true
+            },
+            {
+              "id": 4,
+              "text": "1 [MATH text=\\mu A]",
+              "parent": "b13c8293-8389-47e0-af81-b9ba759cfbfe",
+              "choices": []
+            }
+          ],
+          "uuid": "b13c8293-8389-47e0-af81-b9ba759cfbfe",
+          "order_number": 2,
+          "multipart": true,
+          "created_at": "2025-10-22T12:01:22.536695"
+        },
+        {
+          "description": null,
+          "question_number": null,
+          "tags": [],
+          "main_text": "## Osa 1: 20 pisteen tehtävä\n\nVastaa tehtävään 1.",
+          "deleted_at": null,
+          "feedback": "",
+          "exam_id": 253067,
+          "content": {
+            "text": "## Osa 1: 20 pisteen tehtävä\n\nVastaa tehtävään 1."
+          },
+          "images": null,
+          "settings": {
+            "hideableText": false
+          },
+          "child_ids": [],
+          "classification": null,
+          "level": 0,
+          "updated_at": "2025-12-08T09:14:22.952543",
+          "max_score": null,
+          "groupping": null,
+          "id": 7834301,
+          "question_type": "TEXT",
+          "options": [],
+          "uuid": "5e132380-9c03-4c8d-9a0b-5b1a17bf2ed8",
+          "order_number": 1,
+          "multipart": true,
+          "created_at": "2025-10-22T12:01:22.514591"
+        }
+      ],
+      "name": "Fysiikka syksy 2025",
+      "settings": {},
+      "exam_type": "yo-koe",
+      "classification": {
+        "category": "",
+        "disable_saving": false,
+        "hide_review_buttons": false,
+        "exam_type": "yo-koe",
+        "year": "2025",
+        "language": "fi-FI",
+        "hide_statistics": false,
+        "show_exam_series": false,
+        "force_yletunnus": false,
+        "subject": "fysiikka",
+        "published": true,
+        "semester": "fall"
+      },
+      "published_at": "2025-10-23T12:12:50.000Z",
+      "language": "fi-FI",
+      "id": 253067,
+      "reviews": [],
+      "is_open": true,
+      "uuid": "5a3fd325-1ea8-4f84-93a2-ce0021edcfbb"
+    }
+  ]
+}
